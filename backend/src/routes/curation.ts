@@ -490,7 +490,7 @@ export default async function curationRoutes(app: FastifyInstance) {
       }>;
     };
   }>('/curation/items/:id/questions', async (req: FastifyRequest, reply: FastifyReply) => {
-    const { id } = req.params;
+    const { id } = req.params as { id: string };
     const body = req.body as { questions?: Array<{
       id?: string;
       draft_syllabus_node_id?: string | null;

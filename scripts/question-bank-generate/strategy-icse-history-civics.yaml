@@ -1,0 +1,51 @@
+# Question bank generation strategy — ICSE History & Civics (Grade 9 and 10)
+# Single source of truth for type mix, MCQ sub-types, and difficulty. Generator reads this.
+# See docs/QUESTION_BANK_GENERATION.md.
+
+questions_per_page: 25
+
+# Overall type distribution (percent of total questions)
+types:
+  mcq: 50
+  short_answer: 20
+  short_source_interpretation: 5
+  structured_essay: 20
+  picture_study_linked: 4
+  deductive_application: 1
+
+# MCQ sub-types (percent of MCQ count only)
+mcq_subtypes:
+  mcq_standard: 40
+  mcq_visual_scenario: 20
+  mcq_logic_table: 10
+  mcq_assertion_reason: 10
+  mcq_odd_one_out: 6
+  mcq_chronology_sequence: 6
+  mcq_source_connection: 4
+  mcq_relationship_analogy: 4
+
+# Difficulty distribution per type (percent of that type's count)
+# Keys: L1, L2, L3, L4 (easy, medium, difficult, complex)
+difficulty_by_type:
+  mcq:
+    L1: 25
+    L2: 50
+    L3: 20
+    L4: 5
+  short_answer:
+    L1: 40
+    L2: 50
+    L3: 10
+  short_source_interpretation:
+    L2: 80
+    L3: 20
+  structured_essay:
+    L2: 70
+    L3: 25
+    L4: 5
+  picture_study_linked:
+    L2: 75
+    L3: 25
+  deductive_application:
+    L3: 60
+    L4: 40

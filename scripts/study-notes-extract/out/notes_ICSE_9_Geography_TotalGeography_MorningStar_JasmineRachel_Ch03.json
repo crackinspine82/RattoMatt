@@ -1,0 +1,1097 @@
+{
+  "board": "ICSE",
+  "grade": 9,
+  "subject": "Geography",
+  "book_slug": "TotalGeography_MorningStar_JasmineRachel",
+  "book_meta": {
+    "book_name": "Total Geography",
+    "publication": "Morning Star",
+    "author": "Jasmine Rachel"
+  },
+  "chapter_sequence_number": 3,
+  "chapter_title": "Rotation and Revolution",
+  "discipline": null,
+  "reconciliation": {
+    "outline": [
+      "ROTATION OF THE EARTH",
+      "Characteristics of Rotation",
+      "Direction",
+      "Inclination of Axis",
+      "Speed",
+      "Effects of the Rotation of the Earth",
+      "Occurrence of Day and Night",
+      "Sunrise and Sunset",
+      "Coriolis Effect",
+      "The sun, the moon and the stars seem to move from east to west",
+      "Centrifugal force",
+      "Rotation causes difference in time over various places on the earth",
+      "The side of the earth towards the sun constantly gains heat and the side away from the sun constantly loses heat by radiating it into outer space",
+      "The short rotational period makes the variation of temperature between day and night moderate.",
+      "Rotation in combination with Revolution (earth's movement round the sun) causes seasons and variations in the lengths of day and night over different places on earth.",
+      "INCLINATION OF EARTH'S AXIS AND ITS SIGNIFICANCE",
+      "Effect of the Inclined Axis on the duration of day and night",
+      "Effect of the Inclined Axis on Seasons",
+      "WHY WE DO NOT FEEL THE MOTIONS OF THE EARTH?",
+      "REVOLUTION OF THE EARTH",
+      "Characteristics of Revolution",
+      "Effects of Revolution",
+      "Seasonal Changes",
+      "Inclination of axis and seasonal changes",
+      "Perihelion and Aphelion positions",
+      "Creation of heat zones",
+      "The Torrid Zone",
+      "The Temperate Zone",
+      "The Frigid Zone",
+      "SOLSTICES AND EQUINOXES",
+      "Solstice",
+      "Equinox",
+      "ANGLE OF INCIDENCE AND DURATION OF DAYLIGHT",
+      "CYCLE OF SEASONS",
+      "Position on 21st June",
+      "Position on 23rd September",
+      "Position on 22nd December",
+      "Position on 21st March",
+      "TWILIGHT IN LOW AND HIGH LATITUDES",
+      "EXERCISES",
+      "Choose the correct option",
+      "Short Answer Questions",
+      "Distinguish between the following",
+      "Structured Questions",
+      "Thinking Skills",
+      "Project/Activity"
+    ],
+    "in_syllabus_only": [],
+    "in_pdf_only": [],
+    "additional_sections": []
+  },
+  "nodes": [
+    {
+      "title": "ROTATION OF THE EARTH",
+      "sequence_number": 1,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "Characteristics of Rotation",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Direction",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The earth completes one rotation from **west to east** on its axis in **23 hours, 56 minutes, 4.09 seconds** (roughly in **24 hours**)."
+                }
+              ]
+            },
+            {
+              "title": "Inclination of Axis",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "### INCLINATION OF EARTH'S AXIS AND ITS SIGNIFICANCE\n\nRotation is the spinning of the earth on its **axis** from west to east. The axis is the imaginary line passing through the centre of the earth on which it rotates. The **earth's axis is not vertical**. It makes an angle of **23½°** with the vertical or **66½°** with the **plane of the Earth's orbit**.\n\nIf the earth had a vertical axis, then at all places on the earth, the length of day and night would have been equal, as shown in the Fig. 3.2.\n*   Place L at the Equator would be at position L' after 12 hours.\n*   Distance LO = Distance OL'\n*   Therefore, Length of day = Length of night.\n\n[Image: Fig. 3.2. Hypothetical Vertical Axis]"
+                }
+              ]
+            },
+            {
+              "title": "Speed",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **speed of earth's rotation** at the **Equator** is **1670 km per hour** (circumference of the earth is 40,075 km, which is covered in 24 hours). The speed **decreases towards the poles**."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "Effects of the Rotation of the Earth",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Occurrence of Day and Night",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Occurrence of Day and Night are caused by the rotation of the earth on its axis. This is because parts of the earth which face the sun have **day** and the parts which do not face the sun have **night**. This happens with precision and progression and not suddenly. The time when the sun begins to cast its light in the sky is known as **dawn**. At noon, the sun is overhead. At dusk, it is **twilight** and the sun is seen disappearing in the sky. At night, it is completely dark. **Duration of the day and night is not equal** at all places on the earth because of the **inclined axis**. The length of days varies with respect to the **seasons** as well as **latitude**."
+                }
+              ]
+            },
+            {
+              "title": "Sunrise and Sunset",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Sunrise** and **Sunset** are caused by the **rotation of the earth from west to east**. This happens because due to the earth's rotation, every part of the earth's surface faces the sun at some time or the other. The part of the earth that moves from darkness into the sun's rays experiences **sunrise** and when it moves away from the sun's rays, it experiences **sunset**."
+                }
+              ]
+            },
+            {
+              "title": "Coriolis Effect",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Coriolis Effect** refers to the force experienced by any object moving over the surface of a rotating body such as the earth. The **Coriolis Effect** plays an important role in the movement of air (**winds**) and water (**ocean currents**) on the earth. Due to its effect, the winds and ocean currents move **clockwise** and are deflected to the **right** in the **Northern Hemisphere** and move in the **anticlockwise** direction and are deflected to the **left** in the **Southern Hemisphere**."
+                }
+              ]
+            },
+            {
+              "title": "The sun, the moon and the stars seem to move from east to west",
+              "sequence_number": 4,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**The sun, the moon and the stars seem to move from east to west.** This is because the **earth spins from west to east**. This effect is similar to what one experiences while looking at trees from a moving train."
+                }
+              ]
+            },
+            {
+              "title": "Centrifugal force",
+              "sequence_number": 5,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Centrifugal force** is an apparent outward force that acts on a rotating object. It is always directed outward, i.e., away from the axis of rotation. The speed of rotation has created a centrifugal force resulting in a **bulge in the middle portion of the earth** and a **flattened top at the poles**."
+                }
+              ]
+            },
+            {
+              "title": "Rotation causes difference in time over various places on the earth",
+              "sequence_number": 6,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Rotation** causes **difference in time** over various places on the earth. The difference in time is **4 minutes** for each **degree of longitude** [24 hours (1440 minutes) divided by 360°]."
+                }
+              ]
+            },
+            {
+              "title": "The side of the earth towards the sun constantly gains heat and the side away from the sun constantly loses heat by radiating it into outer space",
+              "sequence_number": 7,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [
+                {
+                  "title": "The short rotational period makes the variation of temperature between day and night moderate.",
+                  "sequence_number": 1,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "The **short rotational period** makes the **variation of temperature** between day and night **moderate**."
+                    }
+                  ]
+                },
+                {
+                  "title": "Rotation in combination with Revolution (earth's movement round the sun) causes seasons and variations in the lengths of day and night over different places on earth.",
+                  "sequence_number": 2,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "**Rotation** in combination with **Revolution** (earth's movement round the sun) causes **seasons** and **variations in the lengths of day and night** over different places on earth."
+                    }
+                  ]
+                }
+              ],
+              "content_blocks": []
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "INCLINATION OF EARTH'S AXIS AND ITS SIGNIFICANCE",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**Rotation** is the spinning of the earth on its **axis** from west to east. The **axis** is the imaginary line passing through the centre of the earth on which it rotates. The earth's **axis** is not vertical. It makes an angle of **23½°** with the vertical or **66½°** with the plane of the **Earth's orbit**."
+            },
+            {
+              "content_md": "If the earth had a vertical axis, then at all places on the earth, the length of day and night would have been equal as shown in the Fig. 3.2.\n\n[Image: Fig. 3.2. Hypothetical Vertical Axis]\n\n*   Place L at the Equator would be at position L' after 12 hours.\n*   Distance LO = Distance OL'\n*   Therefore, Length of day = Length of night."
+            }
+          ]
+        },
+        {
+          "title": "Effect of the Inclined Axis on the duration of day and night",
+          "sequence_number": 4,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "*   The **duration of day and night** is not equal at all places.\n*   The **time of the day** at any place is determined by the height of the sun in the sky.\n*   If the axis of the earth was vertical instead of inclined, places on earth would have the **same temperature** throughout the year.\n*   If the earth did not revolve around the sun even then with its inclined axis there would be **no seasons**."
+            },
+            {
+              "content_md": "Similarly at all places on the earth, the **length of day and night would be equal** if the axis of the earth was not inclined. The effect of the inclined axis on the duration of day and night is that their duration differs as shown in the Fig. 3.3.\n\n[Image: Fig. 3.3. Inclined Axis]\n\n*   (i) At the **Equator** place C would be at position C' after 12 hours.\n    *   Distance CO = Distance OC'\n    *   .. Length of day = Length of night.\n*   (ii) On the **Tropic of Cancer** place B will be at B' after 12 hours.\n    *   But distance BX is greater than B'X.\n    *   .. Days are longer than nights.\n*   (iii) On the **Arctic Circle** place A will be at position A' after 12 hours. AA' remains in continuous light in summer for six months.\n    *   .. **Day of 24 hours** near the North Pole in summer.\n*   (iv) Place D on the **Tropic of Capricorn** in the Southern Hemisphere will be at position D' after 12 hours.\n    *   Distance DY (in light) is less than the distance D'Y (in darkness)\n    *   .. Days are shorter than nights.\n*   (v) Place E on the **Antarctic Circle** remains in continuous darkness in winter.\n    *   .. **Night for 24 hours** near the South Pole in winter for six months."
+            }
+          ]
+        },
+        {
+          "title": "Effect of the Inclined Axis on Seasons",
+          "sequence_number": 5,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The path of the earth around the sun is known as **elliptic**. It passes through the centre of both the earth and the sun. The earth's axis is not perpendicular to the plane of the elliptic, but is tilted at an angle of **66½°** to it. The axis is, therefore, inclined at an angle of **23½°** from the perpendicular to this plane. As a result of this, in the course of the earth's movement around the sun, the **North Pole remains inclined towards the sun** for a part of the year while the **South Pole is tilted away** from it. For the remaining part of the year, the situation is reversed, the North Pole being tilted away from the sun and the South Pole being inclined towards it. On earth this gives rise to the **changing seasons** and the **varying lengths of day and night**. If the earth's axis were perpendicular to the plane of orbit, there would be equal nights and days at all places on the earth, at all times of the year and there would also be **no seasons**."
+            }
+          ]
+        },
+        {
+          "title": "WHY WE DO NOT FEEL THE MOTIONS OF THE EARTH?",
+          "sequence_number": 6,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**Rotation** and **revolution** are the two chief motions of the earth. If these motions were to be felt, it would make life uncomfortable. The **force of gravity** keeps everything attached to the earth. This keeps all objects at rest with reference to the motions of the earth. Using this principle and **Newton's First Law of Motion** (which states that a body remains at rest or uniform motion unless compelled to change that state by an external force acting on it), scientists have proved that the earth rotates on its axis."
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    },
+    {
+      "title": "REVOLUTION OF THE EARTH",
+      "sequence_number": 2,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "Characteristics of Revolution",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "1. The earth moves round the sun in an **elliptical orbit** at an average speed of **29.8 kilometres per second** or about **100,000 kilometres per hour**.\n2. When the earth is closer to the sun, the **gravitational pull** makes the earth move **faster** than when it is away from the sun. Thus, the **speed of revolution is not uniform**.\n3. The period taken by the earth to make one complete round of the sun is **365 days, 5 hours, 48 minutes and 45.51 seconds** which is taken as **365 days and 6 hours**. The length of one **Solar year** is 365 days. The remaining 6 hours are adjusted every 4 years into one complete day and added to the month of February. When February has 29 days, that year is known as a **leap year** having 366 days.\n4. The earth's axis is always inclined to its orbital plane at an angle of **66½°**. The motion of the earth is from **west to east** or in the same direction as the rotation."
+            }
+          ]
+        },
+        {
+          "title": "Effects of Revolution",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Seasonal Changes",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The amount of heat that a place receives on earth depends on the **angle** at which the sun's rays reach it. When a place receives **vertical sun rays** the place gets hot. This is because the amount of heat in the direct vertical rays is concentrated on a small area, whereas the same amount of heat is spread over a larger area, in the case of the **oblique rays**. The **tilt of the earth's axis** causes the seasons.\n\n**Revolution** causes different seasons, i.e., the changing weather conditions due to differences in the heating of the earth. Revolution is an annual cycle; so, the seasons repeat year after year."
+                }
+              ]
+            },
+            {
+              "title": "Inclination of axis and seasonal changes",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Since the **earth is tilted**, the **seasonal changes are not abrupt**."
+                }
+              ]
+            },
+            {
+              "title": "Perihelion and Aphelion positions",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The earth's orbit is the path along which the earth travels around the sun. This path is **elliptical** in shape. Due to this elliptical orbit of the earth, the distance between the earth and the sun varies. When the earth is closest to the sun the position is called **perihelion** and when it is farthest the position is called **aphelion**.\n\nAt **aphelion** the distance of the sun is **152 million km**. While at its closest at **perihelion** the earth is **147.3 million km** away from the sun.\n\nOwing to the elliptical orbit, the minimum distance of the earth from the sun is reached on or about **January 3rd** every year. This position is called **Perihelion**. It is winter in the Northern Hemisphere when the axis is tilted away from the sun. While the tilt makes the Northern Hemisphere cool in winter, its comparative nearness to the sun helps to make the Southern Hemisphere warm in summer.\n\nOn about **July 4**, the earth is farthest from the sun; at this time the earth is said to be in **Aphelion**."
+                },
+                {
+                  "content_md": "[Image: Fig. 3.5. Perihelion and Aphelion Positions]"
+                }
+              ]
+            },
+            {
+              "title": "Creation of heat zones",
+              "sequence_number": 4,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [
+                {
+                  "title": "The Torrid Zone",
+                  "sequence_number": 1,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "This zone stretches between **23½° N and S latitudes** and more or less receives the **vertical rays of the sun**. As a result, this region experiences a moderately warm climate throughout the year."
+                    }
+                  ]
+                },
+                {
+                  "title": "The Temperate Zone",
+                  "sequence_number": 2,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "In between the **Torrid** and the **Frigid zones**, i.e., between **23½° North and South** and **66½° North and South** lies the **Temperate Zone**. In this zone the sun's rays fall **obliquely** and hence the region experiences a **moderate climate**."
+                    }
+                  ]
+                },
+                {
+                  "title": "The Frigid Zone",
+                  "sequence_number": 3,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "This zone extends from **66½° N to 90° N** (or **North Pole**) and **66½° S to 90° S** (or the **South Pole**). Since the sun's rays fall **extremely obliquely** in this region, the region experiences **extremely cold climate**."
+                    }
+                  ]
+                }
+              ],
+              "content_blocks": []
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "SOLSTICES AND EQUINOXES",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Solstice",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "On **June 21**, the earth is in the position where the **North Pole is tilted towards the sun**. On this day the sun is overhead at the **Tropic of Cancer**. This day is known as the **Summer Solstice**. The Southern Hemisphere, however is tilted away from the sun and experiences winter.\n\nOn **December 22**, the **Southern Hemisphere is tilted towards the sun**, while the Northern Hemisphere is tilted away from the sun. This day is known as the **Winter Solstice**."
+                },
+                {
+                  "content_md": "Based on the comparative table provided in the chapter:\n*   **Definition**: **Solstice** refers to the time when the sun reaches its **highest or lowest point** in the sky at noon, resulting in the **shortest and longest days** of the year.\n*   **Etymology**: The word **Solstice** is derived from the Latin words **'Sol'** meaning 'sun' and **'sistere'** meaning 'to stand still'.\n*   **Occurrence**: It happens twice a year on **June 21 (summer solstice)** and **December 22 (winter solstice)**.\n*   **Season**: It happens during **summer and winter**."
+                }
+              ]
+            },
+            {
+              "title": "Equinox",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "On two days in a year, the sun shines vertically over the **Equator**, i.e., at an angle of 90°. This angle decreases as one moves away from the equator. These days are **21st March (Spring or Vernal Equinox)** and **23rd September (Autumnal Equinox)**. At the **Equinoxes** the days and nights are of **equal length** throughout the world. On March 21, it is **spring in the Northern Hemisphere** and on September 23, it is **autumn**. The position is reversed in the Southern Hemisphere.\n\nAt the two equinoxes the sun is at 90° at the Equator. As one moves away from the Equator, the altitude of the sun decreases. When the apparent northward movement of the sun continues up to June 21st (summer solstice), there are variations in the duration of daylight."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "ANGLE OF INCIDENCE AND DURATION OF DAYLIGHT",
+          "sequence_number": 4,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **angle of incidence** of the sun's rays and **duration of daylight** at different latitudes is given in Table 3.1.\n\nThe **altitude** or the **angle of incidence** is also measured in degrees. It is calculated by subtracting the value of the latitude in degrees from 90°, the maximum reached at the Equator. For example in the above table at 66°30′ N latitude, the angle of incidence would be 90° - 66°30′ N = 23°30'. Similarly if a latitude of a station were only 60°, the angle of incidence would be 90° - 60° = 30°.\n\nThe table also shows that hours of daylight are always 12 hours at the Equator and they go on increasing or decreasing towards the Poles. **Seasonal contrasts** are maximum at mid latitudes than at the Equator or the Poles."
+            }
+          ]
+        },
+        {
+          "title": "CYCLE OF SEASONS",
+          "sequence_number": 5,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **Equinoxes** and the **Solstices** are the positions of the earth with respect to the sun on the given fixed dates. They help to understand how seasons occur and how they are reversed in the **Northern** and **Southern Hemispheres**. When it is summer in the Northern Hemisphere, it is winter in the Southern Hemisphere. From Table 3.1 of variations in the altitude of the sun during equinoxes and solstices in different latitudes, it is observed that the duration of day and night varies according to the seasons. As a result of these variations, seasons are not the same in all parts of the earth. In general, there are four seasons i.e. **spring**, **summer**, **autumn** and **winter** corresponding to the dates of solstice and equinox ([Image: Fig. 3.4. Revolution of the Earth])."
+            }
+          ]
+        },
+        {
+          "title": "Position on 21st June",
+          "sequence_number": 6,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "On **21st June**, it is **summer solstice** in the **Northern Hemisphere**. The rays of the sun fall vertically on the **Tropic of Cancer**. The duration of sunlight or day time increases from 12 hours at the Equator to 13 hours and 27 minutes at 23½° N and further to 24 hrs at 66½° N (See Table 3.1). Beyond the Arctic Circle, the regions experience 24 hours daylight. This phenomenon is termed as '**midnight sun**'. **Norway** is called the land of midnight sun and many tourists flock to Norway to witness this phenomenon. The sun is visible only at a very low height, just above the horizon. This continues for almost three months up to the autumn equinox. In the southern hemisphere it is winter.\n\nAfter **June 21st**, the hours of sunlight in the **Northern Hemisphere** begin to decrease from 12 hours at the equator to all nights and no days beyond the Arctic Circle. This position can also be observed in Table 3.1. The maximum position is reached on December 21st."
+            }
+          ]
+        },
+        {
+          "title": "Position on 23rd September",
+          "sequence_number": 7,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "On **23rd September**, the sun is vertically overhead at the **Equator** and the **days and nights are equal**. It is **autumn** in the **Northern Hemisphere** and **spring** in the **Southern Hemisphere**. On September 23rd, the duration of sunlight is **12 hours** on all the places on earth."
+            }
+          ]
+        },
+        {
+          "title": "Position on 22nd December",
+          "sequence_number": 8,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "On **22nd December**, the **Southern Hemisphere** is tilted towards the sun. It experiences **summer**. Areas beyond the **Antarctic Circle** experience **24 hours daylight**. Being a water Hemisphere, the spectacle of the **Midnight Sun**, though more interesting, is confined to navigators only. The **South Polar region** has 24 hours of sunlight continuously for many days. It is **summer** in the **Southern Hemisphere** and **winter** in the **Northern Hemisphere**."
+            }
+          ]
+        },
+        {
+          "title": "Position on 21st March",
+          "sequence_number": 9,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "After **22nd December**, the sun again begins to move towards the **Equator** and on **March 21st**, the sun's rays fall vertically over the **Equator**. On this day, all places on the earth have **equal days and nights**. It is a repeat of the position on 23rd September only in reference to the duration of day and night but not in reference to seasons or weather. During this period it is **spring** in the **Northern Hemisphere** and **autumn** in the **Southern Hemisphere**."
+            }
+          ]
+        },
+        {
+          "title": "TWILIGHT IN LOW AND HIGH LATITUDES",
+          "sequence_number": 10,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "[Image: Fig. 3.7. Twilight]"
+            },
+            {
+              "content_md": "It is clear that there are generally great seasonal contrasts as one moves from the Equator to the Poles. The variations in the amount of heat received at different parts of the earth during the year depend on the inclination of the sun's rays. The difference though is best explained by vertical and slanting rays of the sun, we should also remember that no place on earth has abrupt change from vertical to slanting rays or vice versa. During sunrise and sunset though the sun is below the horizon, we experience a **diffused light**. Much of this light is a reflection by clouds and dust particles present in the atmosphere."
+            },
+            {
+              "content_md": "This period of **diffused light** between sunset and complete darkness is called **dusk** or **twilight** and that between sunrise and full daylight is called **dawn**.\n\nThis phenomena of dawn and dusk is experienced more in temperate regions."
+            },
+            {
+              "content_md": "Duration of twilight has considerable influence on seasons. The duration of twilight is large beyond **50° latitude** and in polar regions twilight lasts for as much as **seven weeks** at a stretch.\n\nThe twilight continues as long as sun is **18° below the horizon**. Its duration is **1 hour and 12 minutes** at the Equator. It goes on increasing towards the Poles. At the poles the duration is **50 days long** during the 3 months of alternating period of day and night. This is because the period during which the refracted light is received at the Equator is short as the sun rises and sets in a vertical path there. On the other hand, in temperate latitudes the period of refracted light is longer as the sun rises and sets in an oblique path. It is much longer at the poles, that is why the winter darkness there is only twilight."
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    },
+    {
+      "title": "EXERCISES",
+      "sequence_number": 3,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "Choose the correct option",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": ""
+            }
+          ]
+        },
+        {
+          "title": "Short Answer Questions",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": ""
+            }
+          ]
+        },
+        {
+          "title": "Distinguish between the following",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": ""
+            }
+          ]
+        },
+        {
+          "title": "Structured Questions",
+          "sequence_number": 4,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": ""
+            }
+          ]
+        },
+        {
+          "title": "Thinking Skills",
+          "sequence_number": 5,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": ""
+            }
+          ]
+        },
+        {
+          "title": "Project/Activity",
+          "sequence_number": 6,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": ""
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    }
+  ],
+  "additional_sections": [],
+  "needs_review": [
+    "Choose the correct option",
+    "Short Answer Questions",
+    "Distinguish between the following",
+    "Structured Questions",
+    "Thinking Skills",
+    "Project/Activity"
+  ],
+  "manifest": {
+    "syllabus_leaves": [
+      {
+        "path": "ROTATION OF THE EARTH > Characteristics of Rotation > Direction",
+        "path_titles": [
+          "ROTATION OF THE EARTH",
+          "Characteristics of Rotation",
+          "Direction"
+        ],
+        "title": "Direction",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "ROTATION OF THE EARTH > Characteristics of Rotation > Inclination of Axis",
+        "path_titles": [
+          "ROTATION OF THE EARTH",
+          "Characteristics of Rotation",
+          "Inclination of Axis"
+        ],
+        "title": "Inclination of Axis",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "ROTATION OF THE EARTH > Characteristics of Rotation > Speed",
+        "path_titles": [
+          "ROTATION OF THE EARTH",
+          "Characteristics of Rotation",
+          "Speed"
+        ],
+        "title": "Speed",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "ROTATION OF THE EARTH > Effects of the Rotation of the Earth > Occurrence of Day and Night",
+        "path_titles": [
+          "ROTATION OF THE EARTH",
+          "Effects of the Rotation of the Earth",
+          "Occurrence of Day and Night"
+        ],
+        "title": "Occurrence of Day and Night",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "ROTATION OF THE EARTH > Effects of the Rotation of the Earth > Sunrise and Sunset",
+        "path_titles": [
+          "ROTATION OF THE EARTH",
+          "Effects of the Rotation of the Earth",
+          "Sunrise and Sunset"
+        ],
+        "title": "Sunrise and Sunset",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "ROTATION OF THE EARTH > Effects of the Rotation of the Earth > Coriolis Effect",
+        "path_titles": [
+          "ROTATION OF THE EARTH",
+          "Effects of the Rotation of the Earth",
+          "Coriolis Effect"
+        ],
+        "title": "Coriolis Effect",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "ROTATION OF THE EARTH > Effects of the Rotation of the Earth > The sun, the moon and the stars seem to move from east to west",
+        "path_titles": [
+          "ROTATION OF THE EARTH",
+          "Effects of the Rotation of the Earth",
+          "The sun, the moon and the stars seem to move from east to west"
+        ],
+        "title": "The sun, the moon and the stars seem to move from east to west",
+        "sequence_number": 4,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "ROTATION OF THE EARTH > Effects of the Rotation of the Earth > Centrifugal force",
+        "path_titles": [
+          "ROTATION OF THE EARTH",
+          "Effects of the Rotation of the Earth",
+          "Centrifugal force"
+        ],
+        "title": "Centrifugal force",
+        "sequence_number": 5,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "ROTATION OF THE EARTH > Effects of the Rotation of the Earth > Rotation causes difference in time over various places on the earth",
+        "path_titles": [
+          "ROTATION OF THE EARTH",
+          "Effects of the Rotation of the Earth",
+          "Rotation causes difference in time over various places on the earth"
+        ],
+        "title": "Rotation causes difference in time over various places on the earth",
+        "sequence_number": 6,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "ROTATION OF THE EARTH > Effects of the Rotation of the Earth > The side of the earth towards the sun constantly gains heat and the side away from the sun constantly loses heat by radiating it into outer space > The short rotational period makes the variation of temperature between day and night moderate.",
+        "path_titles": [
+          "ROTATION OF THE EARTH",
+          "Effects of the Rotation of the Earth",
+          "The side of the earth towards the sun constantly gains heat and the side away from the sun constantly loses heat by radiating it into outer space",
+          "The short rotational period makes the variation of temperature between day and night moderate."
+        ],
+        "title": "The short rotational period makes the variation of temperature between day and night moderate.",
+        "sequence_number": 1,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "ROTATION OF THE EARTH > Effects of the Rotation of the Earth > The side of the earth towards the sun constantly gains heat and the side away from the sun constantly loses heat by radiating it into outer space > Rotation in combination with Revolution (earth's movement round the sun) causes seasons and variations in the lengths of day and night over different places on earth.",
+        "path_titles": [
+          "ROTATION OF THE EARTH",
+          "Effects of the Rotation of the Earth",
+          "The side of the earth towards the sun constantly gains heat and the side away from the sun constantly loses heat by radiating it into outer space",
+          "Rotation in combination with Revolution (earth's movement round the sun) causes seasons and variations in the lengths of day and night over different places on earth."
+        ],
+        "title": "Rotation in combination with Revolution (earth's movement round the sun) causes seasons and variations in the lengths of day and night over different places on earth.",
+        "sequence_number": 2,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "ROTATION OF THE EARTH > INCLINATION OF EARTH'S AXIS AND ITS SIGNIFICANCE",
+        "path_titles": [
+          "ROTATION OF THE EARTH",
+          "INCLINATION OF EARTH'S AXIS AND ITS SIGNIFICANCE"
+        ],
+        "title": "INCLINATION OF EARTH'S AXIS AND ITS SIGNIFICANCE",
+        "sequence_number": 3,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "ROTATION OF THE EARTH > Effect of the Inclined Axis on the duration of day and night",
+        "path_titles": [
+          "ROTATION OF THE EARTH",
+          "Effect of the Inclined Axis on the duration of day and night"
+        ],
+        "title": "Effect of the Inclined Axis on the duration of day and night",
+        "sequence_number": 4,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "ROTATION OF THE EARTH > Effect of the Inclined Axis on Seasons",
+        "path_titles": [
+          "ROTATION OF THE EARTH",
+          "Effect of the Inclined Axis on Seasons"
+        ],
+        "title": "Effect of the Inclined Axis on Seasons",
+        "sequence_number": 5,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "ROTATION OF THE EARTH > WHY WE DO NOT FEEL THE MOTIONS OF THE EARTH?",
+        "path_titles": [
+          "ROTATION OF THE EARTH",
+          "WHY WE DO NOT FEEL THE MOTIONS OF THE EARTH?"
+        ],
+        "title": "WHY WE DO NOT FEEL THE MOTIONS OF THE EARTH?",
+        "sequence_number": 6,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "REVOLUTION OF THE EARTH > Characteristics of Revolution",
+        "path_titles": [
+          "REVOLUTION OF THE EARTH",
+          "Characteristics of Revolution"
+        ],
+        "title": "Characteristics of Revolution",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "REVOLUTION OF THE EARTH > Effects of Revolution > Seasonal Changes",
+        "path_titles": [
+          "REVOLUTION OF THE EARTH",
+          "Effects of Revolution",
+          "Seasonal Changes"
+        ],
+        "title": "Seasonal Changes",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "REVOLUTION OF THE EARTH > Effects of Revolution > Inclination of axis and seasonal changes",
+        "path_titles": [
+          "REVOLUTION OF THE EARTH",
+          "Effects of Revolution",
+          "Inclination of axis and seasonal changes"
+        ],
+        "title": "Inclination of axis and seasonal changes",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "REVOLUTION OF THE EARTH > Effects of Revolution > Perihelion and Aphelion positions",
+        "path_titles": [
+          "REVOLUTION OF THE EARTH",
+          "Effects of Revolution",
+          "Perihelion and Aphelion positions"
+        ],
+        "title": "Perihelion and Aphelion positions",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "REVOLUTION OF THE EARTH > Effects of Revolution > Creation of heat zones > The Torrid Zone",
+        "path_titles": [
+          "REVOLUTION OF THE EARTH",
+          "Effects of Revolution",
+          "Creation of heat zones",
+          "The Torrid Zone"
+        ],
+        "title": "The Torrid Zone",
+        "sequence_number": 1,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "REVOLUTION OF THE EARTH > Effects of Revolution > Creation of heat zones > The Temperate Zone",
+        "path_titles": [
+          "REVOLUTION OF THE EARTH",
+          "Effects of Revolution",
+          "Creation of heat zones",
+          "The Temperate Zone"
+        ],
+        "title": "The Temperate Zone",
+        "sequence_number": 2,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "REVOLUTION OF THE EARTH > Effects of Revolution > Creation of heat zones > The Frigid Zone",
+        "path_titles": [
+          "REVOLUTION OF THE EARTH",
+          "Effects of Revolution",
+          "Creation of heat zones",
+          "The Frigid Zone"
+        ],
+        "title": "The Frigid Zone",
+        "sequence_number": 3,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "REVOLUTION OF THE EARTH > SOLSTICES AND EQUINOXES > Solstice",
+        "path_titles": [
+          "REVOLUTION OF THE EARTH",
+          "SOLSTICES AND EQUINOXES",
+          "Solstice"
+        ],
+        "title": "Solstice",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "REVOLUTION OF THE EARTH > SOLSTICES AND EQUINOXES > Equinox",
+        "path_titles": [
+          "REVOLUTION OF THE EARTH",
+          "SOLSTICES AND EQUINOXES",
+          "Equinox"
+        ],
+        "title": "Equinox",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "REVOLUTION OF THE EARTH > ANGLE OF INCIDENCE AND DURATION OF DAYLIGHT",
+        "path_titles": [
+          "REVOLUTION OF THE EARTH",
+          "ANGLE OF INCIDENCE AND DURATION OF DAYLIGHT"
+        ],
+        "title": "ANGLE OF INCIDENCE AND DURATION OF DAYLIGHT",
+        "sequence_number": 4,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "REVOLUTION OF THE EARTH > CYCLE OF SEASONS",
+        "path_titles": [
+          "REVOLUTION OF THE EARTH",
+          "CYCLE OF SEASONS"
+        ],
+        "title": "CYCLE OF SEASONS",
+        "sequence_number": 5,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "REVOLUTION OF THE EARTH > Position on 21st June",
+        "path_titles": [
+          "REVOLUTION OF THE EARTH",
+          "Position on 21st June"
+        ],
+        "title": "Position on 21st June",
+        "sequence_number": 6,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "REVOLUTION OF THE EARTH > Position on 23rd September",
+        "path_titles": [
+          "REVOLUTION OF THE EARTH",
+          "Position on 23rd September"
+        ],
+        "title": "Position on 23rd September",
+        "sequence_number": 7,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "REVOLUTION OF THE EARTH > Position on 22nd December",
+        "path_titles": [
+          "REVOLUTION OF THE EARTH",
+          "Position on 22nd December"
+        ],
+        "title": "Position on 22nd December",
+        "sequence_number": 8,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "REVOLUTION OF THE EARTH > Position on 21st March",
+        "path_titles": [
+          "REVOLUTION OF THE EARTH",
+          "Position on 21st March"
+        ],
+        "title": "Position on 21st March",
+        "sequence_number": 9,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "REVOLUTION OF THE EARTH > TWILIGHT IN LOW AND HIGH LATITUDES",
+        "path_titles": [
+          "REVOLUTION OF THE EARTH",
+          "TWILIGHT IN LOW AND HIGH LATITUDES"
+        ],
+        "title": "TWILIGHT IN LOW AND HIGH LATITUDES",
+        "sequence_number": 10,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "EXERCISES > Choose the correct option",
+        "path_titles": [
+          "EXERCISES",
+          "Choose the correct option"
+        ],
+        "title": "Choose the correct option",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": false
+      },
+      {
+        "path": "EXERCISES > Short Answer Questions",
+        "path_titles": [
+          "EXERCISES",
+          "Short Answer Questions"
+        ],
+        "title": "Short Answer Questions",
+        "sequence_number": 2,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": false
+      },
+      {
+        "path": "EXERCISES > Distinguish between the following",
+        "path_titles": [
+          "EXERCISES",
+          "Distinguish between the following"
+        ],
+        "title": "Distinguish between the following",
+        "sequence_number": 3,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": false
+      },
+      {
+        "path": "EXERCISES > Structured Questions",
+        "path_titles": [
+          "EXERCISES",
+          "Structured Questions"
+        ],
+        "title": "Structured Questions",
+        "sequence_number": 4,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": false
+      },
+      {
+        "path": "EXERCISES > Thinking Skills",
+        "path_titles": [
+          "EXERCISES",
+          "Thinking Skills"
+        ],
+        "title": "Thinking Skills",
+        "sequence_number": 5,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": false
+      },
+      {
+        "path": "EXERCISES > Project/Activity",
+        "path_titles": [
+          "EXERCISES",
+          "Project/Activity"
+        ],
+        "title": "Project/Activity",
+        "sequence_number": 6,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": false
+      }
+    ],
+    "stray_leaves": []
+  }
+}

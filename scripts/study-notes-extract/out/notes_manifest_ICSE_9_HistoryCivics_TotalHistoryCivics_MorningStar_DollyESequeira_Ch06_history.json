@@ -1,0 +1,214 @@
+{
+  "syllabus_leaves": [
+    {
+      "path": "The Age of the Guptas > Sources > Accounts of Fa-hien",
+      "path_titles": [
+        "The Age of the Guptas",
+        "Sources",
+        "Accounts of Fa-hien"
+      ],
+      "title": "Accounts of Fa-hien",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "The Age of the Guptas > Sources > The Allahabad Pillar Inscription or Prayaga Prashasti",
+      "path_titles": [
+        "The Age of the Guptas",
+        "Sources",
+        "The Allahabad Pillar Inscription or Prayaga Prashasti"
+      ],
+      "title": "The Allahabad Pillar Inscription or Prayaga Prashasti",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "The Age of the Guptas > Reign of Gupta Period > Chandragupta-I",
+      "path_titles": [
+        "The Age of the Guptas",
+        "Reign of Gupta Period",
+        "Chandragupta-I"
+      ],
+      "title": "Chandragupta-I",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "The Age of the Guptas > Reign of Gupta Period > Samudragupta",
+      "path_titles": [
+        "The Age of the Guptas",
+        "Reign of Gupta Period",
+        "Samudragupta"
+      ],
+      "title": "Samudragupta",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "The Age of the Guptas > Reign of Gupta Period > Chandragupta II Vikramaditya",
+      "path_titles": [
+        "The Age of the Guptas",
+        "Reign of Gupta Period",
+        "Chandragupta II Vikramaditya"
+      ],
+      "title": "Chandragupta II Vikramaditya",
+      "sequence_number": 3,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "The Age of the Guptas > Gupta Administration > Monarchy",
+      "path_titles": [
+        "The Age of the Guptas",
+        "Gupta Administration",
+        "Monarchy"
+      ],
+      "title": "Monarchy",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "The Age of the Guptas > Gupta Administration > The Council of Ministers",
+      "path_titles": [
+        "The Age of the Guptas",
+        "Gupta Administration",
+        "The Council of Ministers"
+      ],
+      "title": "The Council of Ministers",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "The Age of the Guptas > Gupta Administration > Provincial and Local Administration > Provincial Administration",
+      "path_titles": [
+        "The Age of the Guptas",
+        "Gupta Administration",
+        "Provincial and Local Administration",
+        "Provincial Administration"
+      ],
+      "title": "Provincial Administration",
+      "sequence_number": 1,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "The Age of the Guptas > Gupta Administration > Provincial and Local Administration > Village Administration",
+      "path_titles": [
+        "The Age of the Guptas",
+        "Gupta Administration",
+        "Provincial and Local Administration",
+        "Village Administration"
+      ],
+      "title": "Village Administration",
+      "sequence_number": 2,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "The Age of the Guptas > Gupta Administration > Provincial and Local Administration > Town Administration",
+      "path_titles": [
+        "The Age of the Guptas",
+        "Gupta Administration",
+        "Provincial and Local Administration",
+        "Town Administration"
+      ],
+      "title": "Town Administration",
+      "sequence_number": 3,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "The Age of the Guptas > Feudal Nature of Polity",
+      "path_titles": [
+        "The Age of the Guptas",
+        "Feudal Nature of Polity"
+      ],
+      "title": "Feudal Nature of Polity",
+      "sequence_number": 4,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "The Age of the Guptas > The Golden Age of Indian Culture",
+      "path_titles": [
+        "The Age of the Guptas",
+        "The Golden Age of Indian Culture"
+      ],
+      "title": "The Golden Age of Indian Culture",
+      "sequence_number": 5,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "The Age of the Guptas > Education > Nalanda University",
+      "path_titles": [
+        "The Age of the Guptas",
+        "Education",
+        "Nalanda University"
+      ],
+      "title": "Nalanda University",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "The Age of the Guptas > Science > Aryabhatta",
+      "path_titles": [
+        "The Age of the Guptas",
+        "Science",
+        "Aryabhatta"
+      ],
+      "title": "Aryabhatta",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "The Age of the Guptas > Culture > The Vishnu Temple at Deogarh",
+      "path_titles": [
+        "The Age of the Guptas",
+        "Culture",
+        "The Vishnu Temple at Deogarh"
+      ],
+      "title": "The Vishnu Temple at Deogarh",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "The Age of the Guptas > Literature > Kalidasa",
+      "path_titles": [
+        "The Age of the Guptas",
+        "Literature",
+        "Kalidasa"
+      ],
+      "title": "Kalidasa",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    }
+  ],
+  "stray_leaves": []
+}

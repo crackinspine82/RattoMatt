@@ -1,0 +1,1720 @@
+{
+  "board": "ICSE",
+  "grade": 9,
+  "subject": "HistoryCivics",
+  "book_slug": "TotalHistoryCivics_MorningStar_DollyESequeira",
+  "book_meta": {
+    "book_name": "Total History & Civics",
+    "publication": "Morning Star",
+    "author": "Dolly E. Sequeira"
+  },
+  "chapter_sequence_number": 3,
+  "chapter_title": "Jainism and Buddhism",
+  "discipline": "history",
+  "reconciliation": {
+    "outline": [
+      "SOURCES",
+      "Angas",
+      "Tripitikas",
+      "The Vinaya Pitaka",
+      "The Sutta Pitaka",
+      "The Abhidhamma Pitaka",
+      "Jatakas",
+      "CAUSES FOR THE RISE OF JAINISM AND BUDDHISM",
+      "Reaction against Ritualism",
+      "Corruption in Religion",
+      "Rigid Caste System",
+      "Difficult Language",
+      "Political situation",
+      "Agricultural Economy",
+      "JAINISM",
+      "Vardhamana Mahavira",
+      "MAIN TEACHINGS OF JAINISM",
+      "The Five Vows",
+      "Nine Truths",
+      "DOCTRINES OF JAINISM",
+      "Tri-ratnas",
+      "Karma",
+      "Equality",
+      "Eternal soul",
+      "Salvation",
+      "Belief in Penance",
+      "SPREAD OF JAINISM",
+      "CAUSES OF THE SPREAD OF JAINISM",
+      "Local Dialect",
+      "Royal Patronage",
+      "Saints",
+      "Appeal to People",
+      "DIVISION INTO TWO SECTS",
+      "IMPACT OF JAINISM",
+      "Political Impact",
+      "Social and Religious Impact",
+      "Language and Literature",
+      "Art and Architecture",
+      "DECLINE OF JAINISM",
+      "BUDDHISM",
+      "GAUTAMA BUDDHA",
+      "ENLIGHTENMENT",
+      "TEACHINGS OF BUDDHISM",
+      "Four Noble Truths",
+      "Eightfold Path",
+      "Attitude towards God",
+      "CODE OF CONDUCT",
+      "Karma",
+      "Stress on Morality",
+      "Nirvana",
+      "Universal Brotherhood",
+      "No Faith in Rituals and Sacrifices",
+      "Ahimsa",
+      "ORGANISATION",
+      "Membership",
+      "Ten Commandments",
+      "Viharas",
+      "SECTS OF BUDDHISM",
+      "IMPACT OF BUDDHISM",
+      "Ahimsa",
+      "Influence on Religious Life",
+      "Influence on Social Life",
+      "Political Impact",
+      "Cultural Impact",
+      "Language and Literature",
+      "Art and Architecture",
+      "DECLINE OF BUDDHISM",
+      "JAINISM AND BUDDHISM COMPARED",
+      "SIMILARITIES BETWEEN JAINISM AND BUDDHISM",
+      "Dissimilarities"
+    ],
+    "in_syllabus_only": [
+      "Doctrines"
+    ],
+    "in_pdf_only": [
+      {
+        "title": "Dissimilarities",
+        "insert_after_index": 71,
+        "micro_topics": []
+      }
+    ],
+    "additional_sections": [
+      {
+        "title": "Dissimilarities",
+        "content_md": "| Buddhism | Jainism |\n| :--- | :--- |\n| It was completely a new religion in 6th century BC. | It had been founded long before Mahavira. He was the last of its Tirthankaras. |\n| It followed a middle path. | It believed in hard penance. |\n| It spread far and wide and led to cultural evolution in India. | It did not spread beyond the Indian shores. |"
+      }
+    ]
+  },
+  "nodes": [
+    {
+      "title": "Jainism and Buddhism",
+      "sequence_number": 1,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "Causes for their rise in the 6th century B.C.",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The following factors favoured the rise and growth of **Jainism** and **Buddhism**:"
+            }
+          ]
+        },
+        {
+          "title": "Doctrines",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "### DOCTRINES OF JAINISM\n\n(i) **Tri-ratnas**: Mahavira preached that the ultimate goal of man is to attain freedom from worldly bonds or to attain **'moksha'**. It can be obtained by following **tri-ratnas** or **three jewels**:\n(a) **right faith**, (b) **right knowledge**, and (c) **right conduct**.\nThese three jewels inspire a true Jain to have faith in the 24 **Tirthankaras** (literally, those who guide men and women across the river of existence), to acquire knowledge from their sermons and to lead a good life.\n\n(ii) **Karma**: The Jains believe in the **Karma theory** of Hinduism and that one should be responsible for one's own Karma or actions. Good deeds alone liberate a man from the cycle of life and death.\n\n(iii) **Equality**: Mahavira laid stress on equality between men and men as well as between men and women. He preached universal brotherhood. He considered all men equal irrespective of their caste or creed. Mahavira believed that the virtuous deeds could achieve ultimate salvation or **nirvana**. All living beings, from the tiny insect to the highest form of life, should be shown compassion.\n\n[Image: Symbol of Jainism]\n\n(iv) **Eternal soul**: Mahavira believed in the immortality of the soul (**atma**). He said that the body dies but not the soul.\n\n(v) **Salvation**: Like the Hindus, Jains believe in **Moksha (Salvation)** or freedom from the cycle of births and rebirths. This can be achieved only by leading an austere life based on non-violence and self-denial. To attain salvation it is necessary to practise the **tri-ratnas** of right faith, right knowledge, and right action.\n\n(vi) **Belief in Penance**: Jains believed in **penance**. To die of starvation, called **santhara** or **sallekhana** was considered a virtue. Jainism lays so much stress on severe penance that very few people could lead such an austere life. This explains why Jainism had few followers."
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    },
+    {
+      "title": "SOURCES",
+      "sequence_number": 2,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "Angas",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "It is generally accepted that whatever **Lord Mahavira** taught after gaining omniscience, was compiled by his disciples in 12 parts called **Angas**, Sanskrit word for parts. These Angas are collectively known as **Dwadashangi**. The foremost of these Angas is **Aacharang Sutra**. Another well known Anga is the **Vyakyha Pragnapti** which is more popularly known as **Bhagavati Sutra**. While the former deals with the code of conduct which a Jain monk is required to follow, the later expounds the Jain doctrines in a comprehensive manner. Based on these Angas, the seers also compiled 12 auxiliary works that came to be known as **Upangas**.\n\nIt is said that these Angas and Upangas were not written for a long time. They were orally passed on by the religious leaders to their pupils.\n\nAccording to famous historian, **R.C. Majumdar**, \"Towards the close of the fourth century BC, a famine in South Bihar led to the exodus of an important section of Jainas, headed by Bhadrabahu, to South India. Those that remained behind in Pataliputra called for a council, in order to revive the knowledge of the Angas. The result was the compilation of the twelve Angas. At another council held at Valabhi in Gujarat in the fifth or sixth century AD, a final collection of the scriptures was made for the first time in Ardhmagadhi Prakrit language\".\n\nThe **Angas** are regarded as the most important part of the Jain doctrines. They discuss religious rites, stages of a householder's life, the vows of chastity, rules of conduct and other features of Jain philosophy."
+            }
+          ]
+        },
+        {
+          "title": "Tripitikas",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "The Vinaya Pitaka",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**The Vinaya Pitaka** deals with the rules and regulations which **Buddha** promulgated for the **monks (bhikkhus)** and the **nuns (bhikkhunis)**. It also gives an account of the life and teachings of **Buddha** as well as some important aspects of ancient Indian history, customs and arts of the period."
+                }
+              ]
+            },
+            {
+              "title": "The Sutta Pitaka",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **Sutta Pitaka** comprises the discourses of **Buddha** on various occasions. It also has discourses by some of the disciples of Buddha such as **Sariputta**, **Ananda** and others. The **Dhammapada** (way of truth) is an important component of this Pitaka, which comprises **Buddha's teachings**."
+                }
+              ]
+            },
+            {
+              "title": "The Abhidhamma Pitaka",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "* **The Abhidhamma Pitaka** deals with **Buddhist philosophy**. It describes things like the working of the human mind and the state of matter."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "Jatakas",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**(iii) Jatakas:** **Jatakas** refer to the tales which describe the previous births of Buddha, in both human and animal form."
+            },
+            {
+              "content_md": "Each tale begins by noting the occasion that prompted its telling and ends with the Buddha identifying the lives of the people in the introductory story with such people from the past. The future Buddha may appear in them as a king, an outcast, a god, an elephant – but, in whatever form, he exhibits some virtue that the tale thereby highlights."
+            },
+            {
+              "content_md": "Many Jataka tales have parallels in the **Mahabharata** and elsewhere in non-Buddhist literature. The Jataka stories have also been illustrated frequently in sculpture and paintings throughout the Buddhist world. According to A. K. Warder, the Jatakas are the precursors to the various legendary biographies of the Buddha, which were composed at later dates. Although many Jatakas were written from an early period, which describe previous lives of the Buddha, very little biographical material about Gautama's own life has been recorded. However, the Jatakas throw significant light on the **political, economic and social conditions** of people from the **fifth to the second century BC**. They also reflect **Buddhist morals, ethics and principles**."
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    },
+    {
+      "title": "CAUSES FOR THE RISE OF JAINISM AND BUDDHISM",
+      "sequence_number": 3,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "Reaction against Ritualism",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "Religious ceremonies by then had become very **expensive**, beyond the means of **ordinary people**. Some priests hardly realised the sufferings of the **common man**. This was an important cause that gave rise to faiths that were **simple and inexpensive**."
+            }
+          ]
+        },
+        {
+          "title": "Corruption in Religion",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "Corruption crept into religious practices. In order to increase their own wealth, priests encouraged ordinary people to perform **yajnas** and conduct household rites beyond their means. **Kshatriya rulers** protested against the dominance of such practices. The common man could not reconcile to this attitude of the priests. Both **Jainism** and **Buddhism** were founded by two **Kshatriya princes**."
+            }
+          ]
+        },
+        {
+          "title": "Rigid Caste System",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The division of society into **Brahmans, Kshatriyas, Vaishyas and Shudras** had become **rigid**. It did not allow any **social mobility**. A person of one caste could not become a member of the other caste. There were **restrictions on the basis of caste** on food, drinks and marriage. **Interchange of caste** was impossible."
+            }
+          ]
+        },
+        {
+          "title": "Difficult Language",
+          "sequence_number": 4,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**Sanskrit** was considered a sacred language. Most of the **Vedic literature** was composed in **Sanskrit**. The **priestly class** gave discourses and chanted mantras in this language, which the common people found difficult to understand. Therefore, many people began to look for an alternative religion that they could understand better."
+            }
+          ]
+        },
+        {
+          "title": "Political situation",
+          "sequence_number": 5,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "In the **sixth century BC**, **Magadha** was ruled by **Bimbisara** and later by **Ajatashatru**. Both these rulers were liberal and tolerant. They too, were free from **Brahmanic influence** and condemned certain social evils in their kingdoms. When the opportunity came, they **patronised** both **Jainism and Buddhism**."
+            }
+          ]
+        },
+        {
+          "title": "Agricultural Economy",
+          "sequence_number": 6,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "Killing of animals to perform **sacrifices** was against the interests of **farmers** in the **Gangetic valley**. The use of **iron** had made the **animal-drawn plough** popular. Such farmers needed a religion that would give **protection to animals**. Both **Jainism** and **Buddhism** preached **non-violence** and were against **animal sacrifices**."
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    },
+    {
+      "title": "JAINISM",
+      "sequence_number": 4,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "Vardhamana Mahavira",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**Mahavira** was the twenty-fourth and the last of the **tirthankaras**. He made Jainism popular and systematic. That is why Mahavira is considered as the founder of Jainism.\n\nMahavira was born in **Kundagrama** near **Vaishali** in Bihar in the second half of 6th century BC. His father was the chief of a **Kshatriya clan** and his mother **Trishala** belonged to the royal family of **Lichchavis**. Mahavira received his early education in all specialised branches. He is said to have been very brave and to have saved his colleagues from dangers. For these deeds of bravery, he was called **Mahavira**. At the time of his birth, his father’s kingdom was prosperous; so the boy was called **Vardhamana** (Prosperity). He got absorbed in spiritual pursuits from early childhood. He was married to **Yashoda**. This was done in order to divert his attention from asceticism. At the age of thirty, after the death of his parents, Mahavira renounced the world and roamed about as an ascetic practising severe penance for 12 years. He silently endured all the hardships. At last he obtained the supreme knowledge. He subdued his desires and became **Jina** or the conqueror. His followers came to be called **Jinas** or **Jains**—i.e., those who have conquered their desires."
+            }
+          ]
+        },
+        {
+          "title": "MAIN TEACHINGS OF JAINISM",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "The Five Vows",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "A Jain householder has to take the following five vows:\n(i) **Ahimsa**: non-violence.\n(ii) **Achaurya** or **Asteya**: not stealing.\n(iii) **Satya**: not telling a lie.\n(iv) **Aparigraha**: not possessing property.\n(v) **Brahmacharya**: practising chastity."
+                },
+                {
+                  "content_md": "These doctrines came to be regarded as **five vows**, which every Jain is supposed to take."
+                },
+                {
+                  "content_md": "The most important precept in Jainism is that the entire world is animated, i.e., even stones, rocks and water have life. Therefore, **non-injury to living beings**, especially to humans, animals, plants and insects, is important in Jain philosophy. According to Mahavira violence is of three kinds—(a) **Physical violence** like killing, causing injury or pain, (b) **Violence in words** or harsh language and (c) **Mental violence** like ill-will towards others. Jains believed in the **sanctity of life** or the right of every living being to live."
+                }
+              ]
+            },
+            {
+              "title": "Nine Truths",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Besides the **five vows** and other general doctrines of Jainism, Jains are expected to have the knowledge of the **nine truths**.\n\nAccording to Jain philosophy, the knowledge of these **Nine Truths** is essential and only renunciation is the shortest way to salvation.\n\nThese **Nine Truths** have a central place in the philosophy of Jainism. The Nine Truths are:\n**Jiva** (living things), **Ajiva** (non-living things), **Punya** (results of good deeds), **Pap** (sin), **Ashrav** (good deeds), **Sanvar** (hindrances in the way of karma), **Bandha** (bondage), **Nirjara** (destruction of karmas) and **Moksha** (salvation)."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "DOCTRINES OF JAINISM",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Tri-ratnas",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Mahavira preached that the ultimate goal of man is to attain freedom from worldly bonds or to attain **‘moksha’**. It can be obtained by following **tri-ratnas** or **three jewels**:\n(a) **right faith**,\n(b) **right knowledge**, and\n(c) **right conduct**.\n\nThese three jewels inspire a true Jain to have faith in the 24 **Tirthankaras** (literally, those who guide men and women across the river of existence), to acquire knowledge from their sermons and to lead a good life."
+                }
+              ]
+            },
+            {
+              "title": "Karma",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The Jains believe in the **Karma theory** of Hinduism and that one should be responsible for one's own **Karma** or actions. Good deeds alone liberate a man from the cycle of life and death."
+                },
+                {
+                  "content_md": "Like Hinduism, Buddhism believed in the theory of **Karma**. Buddhism said that man is the maker of his destiny and it believed in **rebirth**. The evil deeds will be punished. Therefore, man should follow a middle path. It is **Karma** which decides the type of man's existence in the next life. It is called the **wheel of Existence**."
+                }
+              ]
+            },
+            {
+              "title": "Equality",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Mahavira** laid stress on **equality** between men and men as well as between men and women. He preached **universal brotherhood**. He considered all men equal irrespective of their **caste or creed**. Mahavira believed that the virtuous deeds could achieve ultimate **salvation** or **nirvana**. All living beings, from the tiny insect to the highest form of life, should be shown compassion."
+                }
+              ]
+            },
+            {
+              "title": "Eternal soul",
+              "sequence_number": 4,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Mahavira** believed in the **immortality of the soul (atma)**. He said that the body dies but not the soul."
+                }
+              ]
+            },
+            {
+              "title": "Salvation",
+              "sequence_number": 5,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Like the Hindus, Jains believe in **Moksha (Salvation)** or freedom from the **cycle of births and rebirths**. This can be achieved only by leading an austere life based on **non-violence** and **self-denial**. To attain salvation it is necessary to practise the **tri-ratnas** of **right faith**, **right knowledge**, and **right action**."
+                }
+              ]
+            },
+            {
+              "title": "Belief in Penance",
+              "sequence_number": 6,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Jains believed in **penance**. To die of starvation, called **santhara** or **sallekhana** was considered a virtue. Jainism lays so much stress on severe penance that very few people could lead such an austere life. This explains why Jainism had few followers."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "SPREAD OF JAINISM",
+          "sequence_number": 4,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "Jainism had **royal patronage**. Therefore, it spread easily around **Kosala**, **Magadha**, **Mithila**, **Champa** and other parts of the country. **Lord Mahavira** founded **monasteries** headed by learned **munis** (sages). They lived an austere life to give an example to the people to follow. In the **western parts of India**, Jainism was patronised by the **business community**.\n\nIn **South India**, Jainism was patronised by the **Rashtrakuta** and **Chalukya** kings. Later, Jainism became a dominant religion in **Karnataka**. Jainism spread to **Odisha**, **Rajasthan** and **Gujarat**."
+            }
+          ]
+        },
+        {
+          "title": "CAUSES OF THE SPREAD OF JAINISM",
+          "sequence_number": 5,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Local Dialect",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Mahavira** adopted the language of the common people, i.e., **Prakrit** instead of **Sanskrit** to preach his doctrines. Later, the monks followed the same practice. People found it easier to follow the preachings of Jainism in the local language."
+                }
+              ]
+            },
+            {
+              "title": "Royal Patronage",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Jainism received **royal patronage**. **Chandragupta Maurya** is said to have been converted to Jainism in the later years of his rule. In the 5th century AD **Chalukyas** and **Rashtrakutas** also patronised Jainism. **Kharavela**, the ruler of Kalinga (Odisha), helped in the spread of Jainism in eastern India."
+                }
+              ]
+            },
+            {
+              "title": "Saints",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "There were many devout Jain saints like **Kalkacharya** who lived in **Ujjain** and made it a centre of Jainism. Another Jain Saint **Bhadrabahu** took Jainism to **Karnataka**."
+                }
+              ]
+            },
+            {
+              "title": "Appeal to People",
+              "sequence_number": 4,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "People found the religion attractive as it was based on **austerity**, **simplicity** and **spirituality**. There were **no animal sacrifices** nor was there any **class distinction**."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "DIVISION INTO TWO SECTS",
+          "sequence_number": 6,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "During the time when **Bhadrabahu** took Jainism to Karnataka, there arose differences between him and **Sthulabhadra**, who was based in **Magadha**. In the **first Jain council** held around **300 BC**, these differences came to surface. As a result, Jains were divided into two groups."
+            }
+          ]
+        },
+        {
+          "title": "IMPACT OF JAINISM",
+          "sequence_number": 7,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Political Impact",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "In early stages, its success was more remarkable than that of Buddhism. However, it was mainly the **Kshatriyas** who took to this new faith. As a result they lost their **war-like instincts**. It is one of the reasons why Jains did not try to build any **political empire** of their own."
+                },
+                {
+                  "content_md": "The republics of **Shakyas**, **Vajjis** and **Mallas** embraced Buddhism. **Ashoka** and **Kanishka** made Buddhism their **state religion**."
+                }
+              ]
+            },
+            {
+              "title": "Social and Religious Impact",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Jainism discarded the system of **casteism**, shunned **rituals** and encouraged **social service**."
+                }
+              ]
+            },
+            {
+              "title": "Language and Literature",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Jain scholars have made an important contribution in literary field. The Jain texts were written in **Prakrit**, but at some places these texts were also written in the local languages. They were finally compiled in the **sixth century AD** at **Valabhi** in Gujarat.\n\nThe **Angas**, the twelve books containing the teachings of **Mahavira**, are a great source of knowledge. The **Mahapurana** composed by **Jinasena**, **Kalpasutra** compiled by **Bhadrabahu** and **Ratna Malika** by the Rashtrakuta ruler, **Amoghavarsha** are outstanding literary works. Jain literature is in **Ardhmagadhi** and **Prakrit** dialects. It highlights the values of **ahimsa**. From the writings of the Jains, the history of India, especially from the 6th to 4th century BC, can be reconstructed."
+                },
+                {
+                  "content_md": "Buddhism made valuable contribution to the field of language and literature. A vast and varied nature of literature was produced in the language of the masses, i.e., **Pali**. The **Tripitakas** and the **Jatakas** are the most important literary works of the Buddhists.\n\nBesides these, other literary works of importance, written in **Pali** language are **Mahavamsha** and **Deepavamsha**. **Divyavadana**, **Lalitvistara**, **Saundaranand** and **Buddhacharita** are significant works of Buddhist literature written in **Sanskrit**."
+                }
+              ]
+            },
+            {
+              "title": "Art and Architecture",
+              "sequence_number": 4,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "### Jain Art and Architecture\n\nJains constructed **temples** and **monasteries**. Jain relics are found in **Khandagiri** and **Udaygiri caves** in Odisha. Jains constructed hundreds of **Dharamshalas**, opened several orphanages and supported many charitable institutions.\n\nThe gigantic structures of the **Bahubali (Gomateswara)** at **Shravanabelagola** and at **Karkala** in Karnataka are good examples of Jain art and architecture. The **Dilwara temples** at **Mt. Abu** in Rajasthan and at **Ranakpur** near Jodhpur and the **Jain Tower** at **Chittor** are famous for Jain architecture. The most famous Jain holy place is **Palitana** in Gujarat which has more than 800 temples.\n\n### Buddhist Art and Architecture\n\nBuddhism made immense contribution to the evolution of art and architecture. **Stupas**, **chaityas**, **viharas** and **rock-cut cave temples** were their unique contribution.\n\nThe **Stupa** is a semi-spherical solid dome-like structure containing the relics of Buddha like hair, teeth or bones. The **Stupas at Sanchi, Bharhut and Amravati** are remarkable specimens of art surviving upto this day.\n\nThe **Chaityas** were rectangular halls with a semi-circular roof supported by a number of columns. These halls were meant for worship.\n\nThe **Viharas** were the monasteries for the monks to live in. Later when statues of Buddha began to be carved after the Christian era, there emerged several schools of art and architecture. Even during Mauryan times, specially during the time of Ashoka, stone cutting and chiselling of pillars required high technical skill."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "DECLINE OF JAINISM",
+          "sequence_number": 8,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The following factors were responsible for the decline of Jainism:"
+            },
+            {
+              "content_md": "1.  **Jainism preached rigid austerity**. It rose at a time when Buddhism also existed. The theory of **ahimsa** was extended even to wearing of clothes. These factors prevented it from getting popular support.\n2.  The religion did not spread to foreign countries. It did not have missionary effort.\n3.  Jainism did not get **royal patronage** from contemporary rulers. In contrast, Buddhism received a large-scale support from **Ashoka**, **Harsha** and **Kanishka**.\n4.  Though Jainism advocated **equality of men**, it did not do away totally with the high and low positions in society.\n5.  During the **Gupta period** and in later years, **Hinduism** once again became popular. Therefore, Jainism remained restricted to a few pockets in the country."
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    },
+    {
+      "title": "BUDDHISM",
+      "sequence_number": 5,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "GAUTAMA BUDDHA",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "[Image: The Four Great Sights]"
+            },
+            {
+              "content_md": "**Gautama Buddha** was the founder of Buddhism. He belonged to the **Kshatriya** clan of **Sakya**. According to one legend he was born in **563 BC** at **Lumbini** near **Kapilavastu**, in Nepal. His childhood name was **Siddharth**. His father **Suddhodana** was the ruler of Kapilavastu. Like Mahavira, he was inclined from his childhood, towards spiritual pursuits.\n\nAll the royal luxuries in which Gautama lived had no effect on him. He was married at a young age to a princess called **Yashodhara** and had a son named **Rahul**."
+            }
+          ]
+        },
+        {
+          "title": "ENLIGHTENMENT",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "After leaving home in search of Truth, **Gautama** wandered from place to place. For some time he studied under renowned teachers of **Rajgriha** and then went to **Gaya**. He practised severe penance and led a life of extreme austerity. Finally, at the age of thirty-five **Gautama** attained enlightenment at **Bodh Gaya** in **Bihar**. From then onwards he began to be called the **Buddha** or the **Enlightened One**."
+            }
+          ]
+        },
+        {
+          "title": "TEACHINGS OF BUDDHISM",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Four Noble Truths",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The essence of Buddhism lies in **Four Noble Truths**. They are:\n\n1.  The world is full of suffering.\n2.  The suffering has a cause.\n3.  Desire is the cause of suffering.\n4.  If desire is stopped, suffering can also be stopped."
+                }
+              ]
+            },
+            {
+              "title": "Eightfold Path",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The way to **nirvana**, in Buddhism, or the path that leads to removal of suffering, is known as the **Eightfold Path (Ashtangika Marg)** or the **middle path**.\n\nIt is a path midway between luxurious living and hard penance. It includes:"
+                },
+                {
+                  "content_md": "1.  **Right action**: To remain away from theft, luxuries and violence.\n2.  **Right thought**: To remain away from empty rituals and worldly evils.\n3.  **Right belief**: To give up desire.\n4.  **Right living**: Not to have dishonest dealings with others.\n5.  **Right speech**: Speak the truth and do not think ill of others.\n6.  **Right effort**: Work for deliverance from sins and for the welfare of others.\n7.  **Right recollection**: Think about pious things.\n8.  **Right meditation**: Concentrate on only what is right."
+                }
+              ]
+            },
+            {
+              "title": "Attitude towards God",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Buddha** held that the whole universe was controlled by **Dharma**, a universal law. He was silent about the existence of God, though he never formally denied it. Like Mahavira he emphasised on **non-violence**."
+                }
+              ]
+            },
+            {
+              "title": "CODE OF CONDUCT",
+              "sequence_number": 4,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Buddha** formulated a **code of conduct** for his followers. This included the following:\n(i) Not to tell a lie.\n(ii) Not to own property.\n(iii) Not to consume alcoholic drinks.\n(iv) Not to commit violence.\n(v) Not to indulge in corrupt practices."
+                }
+              ]
+            },
+            {
+              "title": "Karma",
+              "sequence_number": 5,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Like Hinduism, Buddhism believed in the theory of **Karma**. Buddhism said that man is the maker of his destiny and it believed in **rebirth**. The evil deeds will be punished. Therefore, man should follow a middle path. It is **Karma** which decides the type of man's existence in the next life. It is called the **wheel of Existence**."
+                }
+              ]
+            },
+            {
+              "title": "Stress on Morality",
+              "sequence_number": 6,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Buddha insisted on a life based on **good actions**. His followers were enjoined to practise **non-violence** and to lead an **upright life**."
+                }
+              ]
+            },
+            {
+              "title": "Nirvana",
+              "sequence_number": 7,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The ultimate goal of life is to attain **Nirvana** or **salvation**. It is a peaceful state of mind, which conquers all diseases, makes the person free from the **cycle of birth and death**."
+                }
+              ]
+            },
+            {
+              "title": "Universal Brotherhood",
+              "sequence_number": 8,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Lord Buddha** preached **universal brotherhood of mankind**. He wanted people to live in peace, setting aside all their differences. He invited people of all classes and races to join Buddhism."
+                }
+              ]
+            },
+            {
+              "title": "No Faith in Rituals and Sacrifices",
+              "sequence_number": 9,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Buddha said that **yajnas** cannot change a man's destiny. Sacrifices and rituals are **empty ceremonies**."
+                }
+              ]
+            },
+            {
+              "title": "Ahimsa",
+              "sequence_number": 10,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Like **Mahavira**, **Buddha** attached importance to sanctity of life and followed the path of **non-violence**.\n\nThus, the importance given to conduct and values rather than claims of superiority based on birth, fellow feelings, compassion for the young and weak drew men and women to Buddhist teachings."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "ORGANISATION",
+          "sequence_number": 4,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Membership",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The members of the monastic order were called **Bhikshus** (monks) and **Bhikshunis** (nuns). They were required to renounce the world before joining the Sangha. The minimum age was 15 years during Buddha's time. The members had to take the oath—**Buddham Sharnam Gachhami, Dharmam Sharnam Gachhami and Sangam Sharnam Gachhami**. (I take shelter under Buddha; I take shelter under Religion; I take shelter under the Sangha). The followers had to undergo training for 10 years."
+                }
+              ]
+            },
+            {
+              "title": "Ten Commandments",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The members had to lead a disciplined life and follow the **ten commandments (Paramita)**:\n\n1.  to speak the truth.\n2.  to abide by **Brahmacharya**.\n3.  not to harm creatures.\n4.  not to own property.\n5.  to shun music and dancing.\n6.  to take meals only at fixed times.\n7.  not to use intoxicants.\n8.  not to use scented goods.\n9.  not to sleep on cushions.\n10. not to keep money."
+                }
+              ]
+            },
+            {
+              "title": "Viharas",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **Bhikshus** and the **Bhikshunis** were required to roam about in different parts of the country for eight months of the year. They had to sleep in **Viharas** which had separate sections for men and women. Special rules were framed for the **Bhikshunis**. This was done to ensure discipline. In the **Viharas**, the members led a life of chastity, austerity, devotion, and purity."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "SECTS OF BUDDHISM",
+          "sequence_number": 5,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "During the deliberations of the **4th Buddhist Council**, in the reign of **Kanishka**, Buddhism split into two sects—the **Hinayana** and the **Mahayana**."
+            }
+          ]
+        },
+        {
+          "title": "IMPACT OF BUDDHISM",
+          "sequence_number": 6,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Ahimsa",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Ahimsa**: Like **Mahavira**, **Buddha** attached importance to the **sanctity of life** and followed the path of **non-violence**."
+                }
+              ]
+            },
+            {
+              "title": "Influence on Religious Life",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Buddhism** provided a challenge to **Hinduism**. There soon started a reform movement within **Hinduism**. The costly **yajnas** and **sacrifices** and rigidity of **caste system** were done away with."
+                }
+              ]
+            },
+            {
+              "title": "Influence on Social Life",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Buddhism fostered **intellectual tradition** and exposed the weaknesses in our society. The **weaker sections** of the society, who had been subjected to many atrocities, got an opportunity to have their say in matters of political and social life."
+                }
+              ]
+            },
+            {
+              "title": "Political Impact",
+              "sequence_number": 4,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "### Political Impact\n\n**Impact of Jainism**\nIn early stages, its success was more remarkable than that of Buddhism. However, it was mainly the **Kshatriyas** who took to this new faith. As a result they lost their **war-like instincts**. It is one of the reasons why Jains did not try to build any **political empire** of their own.\n\n**Impact of Buddhism**\nThe republics of **Shakyas**, **Vajjis** and **Mallas** embraced Buddhism. **Ashoka** and **Kanishka** made Buddhism their **state religion**."
+                }
+              ]
+            },
+            {
+              "title": "Cultural Impact",
+              "sequence_number": 5,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Buddhism** spread far and wide in **South-East Asia**, **China** and **Sri Lanka**. It had a far-reaching **cultural impact** in raising the prestige of **India**. There emerged close **cultural contacts** between these countries and India. **Buddhism** acted as a **vital force** between different cultures."
+                }
+              ]
+            },
+            {
+              "title": "Language and Literature",
+              "sequence_number": 6,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Jain scholars have made an important contribution in literary field. The Jain texts were written in **Prakrit**, but at some places these texts were also written in the local languages. They were finally compiled in the sixth century AD at **Valabhi** in Gujarat.\n\nThe **Angas**, the twelve books containing the teachings of Mahavira, are a great source of knowledge. The **Mahapurana** composed by **Jinasena**, **Kalpasutra** compiled by **Bhadrabahu** and **Ratna Malika** by the Rashtrakuta ruler, **Amoghavarsha** are outstanding literary works. Jain literature is in **Ardhmagadhi** and **Prakrit** dialects. It highlights the values of **ahimsa**. From the writings of the Jains, the history of India, especially from the 6th to 4th century BC, can be reconstructed."
+                },
+                {
+                  "content_md": "Buddhism made valuable contribution to the field of language and literature. A vast and varied nature of literature was produced in the language of the masses, i.e., **Pali**. The **Tripitakas** and the **Jatakas** are the most important literary works of the Buddhists.\n\nBesides these, other literary works of importance, written in Pali language are **Mahavamsha** and **Deepavamsha**. **Divyavadana**, **Lalitvistara**, **Saundaranand** and **Buddhacharita** are significant works of Buddhist literature written in **Sanskrit**."
+                }
+              ]
+            },
+            {
+              "title": "Art and Architecture",
+              "sequence_number": 7,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Jains constructed temples and monasteries. Jain relics are found in **Khandagiri** and **Udaygiri caves** in Odisha. Jains constructed hundreds of **Dharamshalas**, opened several orphanages and supported many charitable institutions.\n\nThe gigantic structures of the **Bahubali (Gomateswara)** at **Shravanabelagola** and at **Karkala** in Karnataka are good examples of Jain art and architecture. The **Dilwara temples** at **Mt. Abu** in Rajasthan and at **Ranakpur** near Jodhpur and the **Jain Tower** at **Chittor** are famous for Jain architecture. The most famous Jain holy place is **Palitana** in Gujarat which has more than 800 temples.\n\n[Image: Dilwara Temple, Mount Abu]"
+                },
+                {
+                  "content_md": "Buddhism made immense contribution to the evolution of art and architecture. **Stupas**, **chaityas**, **viharas** and **rock-cut cave temples** were their unique contribution.\n\nThe **Stupa** is a semi-spherical solid dome-like structure containing the relics of Buddha like hair, teeth or bones. The Stupas at **Sanchi**, **Bharhut** and **Amravati** are remarkable specimens of art surviving upto this day.\n\nThe **Chaityas** were rectangular halls with a semi-circular roof supported by a number of columns. These halls were meant for worship.\n\nThe **Viharas** were the monasteries for the monks to live in. Later when statues of Buddha began to be carved after the Christian era, there emerged several schools of art and architecture. Even during Mauryan times, specially during the time of Ashoka, stone cutting and chiselling of pillars required high technical skill.\n\n[Image: Worshipping the Stupa (Image from Sanchi Stupa)]"
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "DECLINE OF BUDDHISM",
+          "sequence_number": 7,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": ""
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    },
+    {
+      "title": "JAINISM AND BUDDHISM COMPARED",
+      "sequence_number": 6,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "SIMILARITIES BETWEEN JAINISM AND BUDDHISM",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "*   The founders of both religions, **Mahavira** and **Gautam Buddha** had similar backgrounds. Both of them belonged to the **Kshatriya clan** and followed the same path.\n*   Both sought the attainment of **salvation (moksha)** from the cycle of birth and death.\n*   Both did not accept the **Vedas**.\n*   **Non-violence** was their creed.\n*   **Monks and nuns** of Buddhism and Jainism had to renounce family life and the world. They had to lead a life of chastity."
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    }
+  ],
+  "additional_sections": [
+    {
+      "title": "Dissimilarities",
+      "content_md": "| Buddhism | Jainism |\n| :--- | :--- |\n| It was completely a new religion in 6th century BC. | It had been founded long before Mahavira. He was the last of its Tirthankaras. |\n| It followed a middle path. | It believed in hard penance. |\n| It spread far and wide and led to cultural evolution in India. | It did not spread beyond the Indian shores. |"
+    }
+  ],
+  "needs_review": [
+    "DECLINE OF BUDDHISM"
+  ],
+  "manifest": {
+    "syllabus_leaves": [
+      {
+        "path": "Jainism and Buddhism > Causes for their rise in the 6th century B.C.",
+        "path_titles": [
+          "Jainism and Buddhism",
+          "Causes for their rise in the 6th century B.C."
+        ],
+        "title": "Causes for their rise in the 6th century B.C.",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Jainism and Buddhism > Doctrines",
+        "path_titles": [
+          "Jainism and Buddhism",
+          "Doctrines"
+        ],
+        "title": "Doctrines",
+        "sequence_number": 2,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "SOURCES > Angas",
+        "path_titles": [
+          "SOURCES",
+          "Angas"
+        ],
+        "title": "Angas",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "SOURCES > Tripitikas > The Vinaya Pitaka",
+        "path_titles": [
+          "SOURCES",
+          "Tripitikas",
+          "The Vinaya Pitaka"
+        ],
+        "title": "The Vinaya Pitaka",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "SOURCES > Tripitikas > The Sutta Pitaka",
+        "path_titles": [
+          "SOURCES",
+          "Tripitikas",
+          "The Sutta Pitaka"
+        ],
+        "title": "The Sutta Pitaka",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "SOURCES > Tripitikas > The Abhidhamma Pitaka",
+        "path_titles": [
+          "SOURCES",
+          "Tripitikas",
+          "The Abhidhamma Pitaka"
+        ],
+        "title": "The Abhidhamma Pitaka",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "SOURCES > Jatakas",
+        "path_titles": [
+          "SOURCES",
+          "Jatakas"
+        ],
+        "title": "Jatakas",
+        "sequence_number": 3,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "CAUSES FOR THE RISE OF JAINISM AND BUDDHISM > Reaction against Ritualism",
+        "path_titles": [
+          "CAUSES FOR THE RISE OF JAINISM AND BUDDHISM",
+          "Reaction against Ritualism"
+        ],
+        "title": "Reaction against Ritualism",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "CAUSES FOR THE RISE OF JAINISM AND BUDDHISM > Corruption in Religion",
+        "path_titles": [
+          "CAUSES FOR THE RISE OF JAINISM AND BUDDHISM",
+          "Corruption in Religion"
+        ],
+        "title": "Corruption in Religion",
+        "sequence_number": 2,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "CAUSES FOR THE RISE OF JAINISM AND BUDDHISM > Rigid Caste System",
+        "path_titles": [
+          "CAUSES FOR THE RISE OF JAINISM AND BUDDHISM",
+          "Rigid Caste System"
+        ],
+        "title": "Rigid Caste System",
+        "sequence_number": 3,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "CAUSES FOR THE RISE OF JAINISM AND BUDDHISM > Difficult Language",
+        "path_titles": [
+          "CAUSES FOR THE RISE OF JAINISM AND BUDDHISM",
+          "Difficult Language"
+        ],
+        "title": "Difficult Language",
+        "sequence_number": 4,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "CAUSES FOR THE RISE OF JAINISM AND BUDDHISM > Political situation",
+        "path_titles": [
+          "CAUSES FOR THE RISE OF JAINISM AND BUDDHISM",
+          "Political situation"
+        ],
+        "title": "Political situation",
+        "sequence_number": 5,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "CAUSES FOR THE RISE OF JAINISM AND BUDDHISM > Agricultural Economy",
+        "path_titles": [
+          "CAUSES FOR THE RISE OF JAINISM AND BUDDHISM",
+          "Agricultural Economy"
+        ],
+        "title": "Agricultural Economy",
+        "sequence_number": 6,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "JAINISM > Vardhamana Mahavira",
+        "path_titles": [
+          "JAINISM",
+          "Vardhamana Mahavira"
+        ],
+        "title": "Vardhamana Mahavira",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "JAINISM > MAIN TEACHINGS OF JAINISM > The Five Vows",
+        "path_titles": [
+          "JAINISM",
+          "MAIN TEACHINGS OF JAINISM",
+          "The Five Vows"
+        ],
+        "title": "The Five Vows",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "JAINISM > MAIN TEACHINGS OF JAINISM > Nine Truths",
+        "path_titles": [
+          "JAINISM",
+          "MAIN TEACHINGS OF JAINISM",
+          "Nine Truths"
+        ],
+        "title": "Nine Truths",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "JAINISM > DOCTRINES OF JAINISM > Tri-ratnas",
+        "path_titles": [
+          "JAINISM",
+          "DOCTRINES OF JAINISM",
+          "Tri-ratnas"
+        ],
+        "title": "Tri-ratnas",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "JAINISM > DOCTRINES OF JAINISM > Karma",
+        "path_titles": [
+          "JAINISM",
+          "DOCTRINES OF JAINISM",
+          "Karma"
+        ],
+        "title": "Karma",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "JAINISM > DOCTRINES OF JAINISM > Equality",
+        "path_titles": [
+          "JAINISM",
+          "DOCTRINES OF JAINISM",
+          "Equality"
+        ],
+        "title": "Equality",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "JAINISM > DOCTRINES OF JAINISM > Eternal soul",
+        "path_titles": [
+          "JAINISM",
+          "DOCTRINES OF JAINISM",
+          "Eternal soul"
+        ],
+        "title": "Eternal soul",
+        "sequence_number": 4,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "JAINISM > DOCTRINES OF JAINISM > Salvation",
+        "path_titles": [
+          "JAINISM",
+          "DOCTRINES OF JAINISM",
+          "Salvation"
+        ],
+        "title": "Salvation",
+        "sequence_number": 5,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "JAINISM > DOCTRINES OF JAINISM > Belief in Penance",
+        "path_titles": [
+          "JAINISM",
+          "DOCTRINES OF JAINISM",
+          "Belief in Penance"
+        ],
+        "title": "Belief in Penance",
+        "sequence_number": 6,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "JAINISM > SPREAD OF JAINISM",
+        "path_titles": [
+          "JAINISM",
+          "SPREAD OF JAINISM"
+        ],
+        "title": "SPREAD OF JAINISM",
+        "sequence_number": 4,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "JAINISM > CAUSES OF THE SPREAD OF JAINISM > Local Dialect",
+        "path_titles": [
+          "JAINISM",
+          "CAUSES OF THE SPREAD OF JAINISM",
+          "Local Dialect"
+        ],
+        "title": "Local Dialect",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "JAINISM > CAUSES OF THE SPREAD OF JAINISM > Royal Patronage",
+        "path_titles": [
+          "JAINISM",
+          "CAUSES OF THE SPREAD OF JAINISM",
+          "Royal Patronage"
+        ],
+        "title": "Royal Patronage",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "JAINISM > CAUSES OF THE SPREAD OF JAINISM > Saints",
+        "path_titles": [
+          "JAINISM",
+          "CAUSES OF THE SPREAD OF JAINISM",
+          "Saints"
+        ],
+        "title": "Saints",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "JAINISM > CAUSES OF THE SPREAD OF JAINISM > Appeal to People",
+        "path_titles": [
+          "JAINISM",
+          "CAUSES OF THE SPREAD OF JAINISM",
+          "Appeal to People"
+        ],
+        "title": "Appeal to People",
+        "sequence_number": 4,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "JAINISM > DIVISION INTO TWO SECTS",
+        "path_titles": [
+          "JAINISM",
+          "DIVISION INTO TWO SECTS"
+        ],
+        "title": "DIVISION INTO TWO SECTS",
+        "sequence_number": 6,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "JAINISM > IMPACT OF JAINISM > Political Impact",
+        "path_titles": [
+          "JAINISM",
+          "IMPACT OF JAINISM",
+          "Political Impact"
+        ],
+        "title": "Political Impact",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "JAINISM > IMPACT OF JAINISM > Social and Religious Impact",
+        "path_titles": [
+          "JAINISM",
+          "IMPACT OF JAINISM",
+          "Social and Religious Impact"
+        ],
+        "title": "Social and Religious Impact",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "JAINISM > IMPACT OF JAINISM > Language and Literature",
+        "path_titles": [
+          "JAINISM",
+          "IMPACT OF JAINISM",
+          "Language and Literature"
+        ],
+        "title": "Language and Literature",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "JAINISM > IMPACT OF JAINISM > Art and Architecture",
+        "path_titles": [
+          "JAINISM",
+          "IMPACT OF JAINISM",
+          "Art and Architecture"
+        ],
+        "title": "Art and Architecture",
+        "sequence_number": 4,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "JAINISM > DECLINE OF JAINISM",
+        "path_titles": [
+          "JAINISM",
+          "DECLINE OF JAINISM"
+        ],
+        "title": "DECLINE OF JAINISM",
+        "sequence_number": 8,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "BUDDHISM > GAUTAMA BUDDHA",
+        "path_titles": [
+          "BUDDHISM",
+          "GAUTAMA BUDDHA"
+        ],
+        "title": "GAUTAMA BUDDHA",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "BUDDHISM > ENLIGHTENMENT",
+        "path_titles": [
+          "BUDDHISM",
+          "ENLIGHTENMENT"
+        ],
+        "title": "ENLIGHTENMENT",
+        "sequence_number": 2,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "BUDDHISM > TEACHINGS OF BUDDHISM > Four Noble Truths",
+        "path_titles": [
+          "BUDDHISM",
+          "TEACHINGS OF BUDDHISM",
+          "Four Noble Truths"
+        ],
+        "title": "Four Noble Truths",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "BUDDHISM > TEACHINGS OF BUDDHISM > Eightfold Path",
+        "path_titles": [
+          "BUDDHISM",
+          "TEACHINGS OF BUDDHISM",
+          "Eightfold Path"
+        ],
+        "title": "Eightfold Path",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "BUDDHISM > TEACHINGS OF BUDDHISM > Attitude towards God",
+        "path_titles": [
+          "BUDDHISM",
+          "TEACHINGS OF BUDDHISM",
+          "Attitude towards God"
+        ],
+        "title": "Attitude towards God",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "BUDDHISM > TEACHINGS OF BUDDHISM > CODE OF CONDUCT",
+        "path_titles": [
+          "BUDDHISM",
+          "TEACHINGS OF BUDDHISM",
+          "CODE OF CONDUCT"
+        ],
+        "title": "CODE OF CONDUCT",
+        "sequence_number": 4,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "BUDDHISM > TEACHINGS OF BUDDHISM > Karma",
+        "path_titles": [
+          "BUDDHISM",
+          "TEACHINGS OF BUDDHISM",
+          "Karma"
+        ],
+        "title": "Karma",
+        "sequence_number": 5,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "BUDDHISM > TEACHINGS OF BUDDHISM > Stress on Morality",
+        "path_titles": [
+          "BUDDHISM",
+          "TEACHINGS OF BUDDHISM",
+          "Stress on Morality"
+        ],
+        "title": "Stress on Morality",
+        "sequence_number": 6,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "BUDDHISM > TEACHINGS OF BUDDHISM > Nirvana",
+        "path_titles": [
+          "BUDDHISM",
+          "TEACHINGS OF BUDDHISM",
+          "Nirvana"
+        ],
+        "title": "Nirvana",
+        "sequence_number": 7,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "BUDDHISM > TEACHINGS OF BUDDHISM > Universal Brotherhood",
+        "path_titles": [
+          "BUDDHISM",
+          "TEACHINGS OF BUDDHISM",
+          "Universal Brotherhood"
+        ],
+        "title": "Universal Brotherhood",
+        "sequence_number": 8,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "BUDDHISM > TEACHINGS OF BUDDHISM > No Faith in Rituals and Sacrifices",
+        "path_titles": [
+          "BUDDHISM",
+          "TEACHINGS OF BUDDHISM",
+          "No Faith in Rituals and Sacrifices"
+        ],
+        "title": "No Faith in Rituals and Sacrifices",
+        "sequence_number": 9,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "BUDDHISM > TEACHINGS OF BUDDHISM > Ahimsa",
+        "path_titles": [
+          "BUDDHISM",
+          "TEACHINGS OF BUDDHISM",
+          "Ahimsa"
+        ],
+        "title": "Ahimsa",
+        "sequence_number": 10,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "BUDDHISM > ORGANISATION > Membership",
+        "path_titles": [
+          "BUDDHISM",
+          "ORGANISATION",
+          "Membership"
+        ],
+        "title": "Membership",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "BUDDHISM > ORGANISATION > Ten Commandments",
+        "path_titles": [
+          "BUDDHISM",
+          "ORGANISATION",
+          "Ten Commandments"
+        ],
+        "title": "Ten Commandments",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "BUDDHISM > ORGANISATION > Viharas",
+        "path_titles": [
+          "BUDDHISM",
+          "ORGANISATION",
+          "Viharas"
+        ],
+        "title": "Viharas",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "BUDDHISM > SECTS OF BUDDHISM",
+        "path_titles": [
+          "BUDDHISM",
+          "SECTS OF BUDDHISM"
+        ],
+        "title": "SECTS OF BUDDHISM",
+        "sequence_number": 5,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "BUDDHISM > IMPACT OF BUDDHISM > Ahimsa",
+        "path_titles": [
+          "BUDDHISM",
+          "IMPACT OF BUDDHISM",
+          "Ahimsa"
+        ],
+        "title": "Ahimsa",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "BUDDHISM > IMPACT OF BUDDHISM > Influence on Religious Life",
+        "path_titles": [
+          "BUDDHISM",
+          "IMPACT OF BUDDHISM",
+          "Influence on Religious Life"
+        ],
+        "title": "Influence on Religious Life",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "BUDDHISM > IMPACT OF BUDDHISM > Influence on Social Life",
+        "path_titles": [
+          "BUDDHISM",
+          "IMPACT OF BUDDHISM",
+          "Influence on Social Life"
+        ],
+        "title": "Influence on Social Life",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "BUDDHISM > IMPACT OF BUDDHISM > Political Impact",
+        "path_titles": [
+          "BUDDHISM",
+          "IMPACT OF BUDDHISM",
+          "Political Impact"
+        ],
+        "title": "Political Impact",
+        "sequence_number": 4,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "BUDDHISM > IMPACT OF BUDDHISM > Cultural Impact",
+        "path_titles": [
+          "BUDDHISM",
+          "IMPACT OF BUDDHISM",
+          "Cultural Impact"
+        ],
+        "title": "Cultural Impact",
+        "sequence_number": 5,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "BUDDHISM > IMPACT OF BUDDHISM > Language and Literature",
+        "path_titles": [
+          "BUDDHISM",
+          "IMPACT OF BUDDHISM",
+          "Language and Literature"
+        ],
+        "title": "Language and Literature",
+        "sequence_number": 6,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "BUDDHISM > IMPACT OF BUDDHISM > Art and Architecture",
+        "path_titles": [
+          "BUDDHISM",
+          "IMPACT OF BUDDHISM",
+          "Art and Architecture"
+        ],
+        "title": "Art and Architecture",
+        "sequence_number": 7,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "BUDDHISM > DECLINE OF BUDDHISM",
+        "path_titles": [
+          "BUDDHISM",
+          "DECLINE OF BUDDHISM"
+        ],
+        "title": "DECLINE OF BUDDHISM",
+        "sequence_number": 7,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": false
+      },
+      {
+        "path": "JAINISM AND BUDDHISM COMPARED > SIMILARITIES BETWEEN JAINISM AND BUDDHISM",
+        "path_titles": [
+          "JAINISM AND BUDDHISM COMPARED",
+          "SIMILARITIES BETWEEN JAINISM AND BUDDHISM"
+        ],
+        "title": "SIMILARITIES BETWEEN JAINISM AND BUDDHISM",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      }
+    ],
+    "stray_leaves": [
+      {
+        "title": "Dissimilarities",
+        "insert_after_index": 71,
+        "micro_topics": [],
+        "has_notes": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,423 @@
+# =============================================================================
+# ICSE History & Civics Paper Template — Grade 10
+# Board: ICSE | Grade: 10 | Subject: History & Civics
+# Load with: docs/paper-templates/icse-grade10-history-civics.yaml
+# =============================================================================
+
+template_metadata:
+  template_id: "icse_hc_g10_2h_80m"
+  board: "ICSE"
+  grade: 10
+  subject: "History & Civics"
+  subject_code: "H.C.G. Paper-1"
+  duration_minutes: 120
+  reading_time_minutes: 15
+  total_marks: 80
+  version: "2.0"
+  effective_from: "2023-01-01"
+  last_updated: "2025-02-16"
+
+# =============================================================================
+# PAPER HEADER (Exact Board Format)
+# =============================================================================
+
+paper_header:
+  title: "HISTORY & CIVICS"
+  subtitle: "(H.C.G. Paper-1)"
+  grade_display: "Class-10th"
+  marks_display: "Maximum Marks: 80"
+  time_display: "Time Allotted: Two Hours"
+  reading_time_display: "Reading Time: Additional Fifteen Minutes"
+  instructions:
+    - text: "Answers to this Paper must be written on the answer sheet provided separately."
+      order: 1
+    - text: "You must NOT start writing during reading time."
+      order: 2
+      emphasis: true
+    - text: "This time is to be spent in reading the question paper."
+      order: 3
+    - text: "The time given at the head of this Paper is the time allowed for writing the answers."
+      order: 4
+    - text: "Attempt all questions from Part I (Compulsory)."
+      order: 5
+      emphasis: true
+    - text: "A total of five questions are to be attempted from Part II, two out of three questions from Section A and three out of five questions from Section B."
+      order: 6
+      emphasis: true
+    - text: "The intended marks for questions or parts of questions are given in brackets []."
+      order: 7
+
+# =============================================================================
+# PART I: OBJECTIVE (30 Marks - Compulsory)
+# =============================================================================
+
+sections:
+  - section_id: "part_1"
+    section_name: "PART I"
+    display_name: "PART I (30 Marks)"
+    subtitle: "(Attempt all questions from this Part.)"
+    order: 1
+    required: true
+    marks_total: 30
+    best_of_n: null
+    subsections:
+      - subsection_id: "part_1_q1"
+        question_number: "Question 1"
+        marks_allocated: 16
+        instruction: "Select the correct answers to the questions from the given options."
+        sub_instruction: "(Do not copy the questions, write the correct answer only)."
+        question_distribution:
+          total_questions: 16
+          marks_per_question: 1
+          type_mix:
+            - question_type: "mcq_standard"
+              count: 6
+              difficulty_mix:
+                easy: 2
+                medium: 3
+                difficult: 1
+            - question_type: "mcq_logic_table"
+              count: 2
+              difficulty_mix:
+                medium: 1
+                difficult: 1
+            - question_type: "mcq_visual_scenario"
+              count: 3
+              difficulty_mix:
+                easy: 1
+                medium: 1
+                difficult: 1
+              source_material_required: true
+            - question_type: "mcq_assertion_reason"
+              count: 1
+              difficulty_mix:
+                medium: 1
+            - question_type: "mcq_odd_one_out"
+              count: 1
+              difficulty_mix:
+                medium: 1
+            - question_type: "mcq_chronology_sequence"
+              count: 1
+              difficulty_mix:
+                medium: 1
+            - question_type: "mcq_source_connection"
+              count: 1
+              difficulty_mix:
+                medium: 1
+            - question_type: "mcq_relationship_analogy"
+              count: 1
+              difficulty_mix:
+                medium: 1
+          discipline_ratio:
+            history: 0.50
+            civics: 0.50
+          substitution_rules:
+            - if_unavailable: "mcq_logic_table"
+              substitute_with: ["mcq_relationship_analogy", "mcq_standard"]
+            - if_unavailable: "mcq_visual_scenario"
+              substitute_with: ["mcq_standard", "mcq_source_connection"]
+            - if_unavailable: "mcq_assertion_reason"
+              substitute_with: "mcq_standard"
+
+      - subsection_id: "part_1_q2"
+        question_number: "Question 2"
+        marks_allocated: 14
+        instruction: null
+        question_distribution:
+          total_questions: 7
+          marks_per_question: 2
+          type_mix:
+            - question_type: "short_answer"
+              count: 6
+              difficulty_mix:
+                easy: 2
+                medium: 3
+                difficult: 1
+            - question_type: "short_source_interpretation"
+              count: 1
+              difficulty_mix:
+                medium: 1
+              note: "Must include 50-150 word passage + 'Mention any two...' question"
+          discipline_ratio:
+            history: 0.57
+            civics: 0.43
+          preferred_formats:
+            - "Mention any two..."
+            - "State any two..."
+            - "Name the two..."
+            - "What is meant by...?"
+            - "In which year...? What was the result?"
+          substitution_rules:
+            - if_unavailable: "short_source_interpretation"
+              substitute_with: "short_answer"
+              note: "Combine two 1-mark short_answer to make 2 marks"
+
+  - section_id: "part_2_section_a"
+    section_name: "SECTION A"
+    display_name: "SECTION A (20 Marks)"
+    subtitle: "(Attempt any two questions from this Section.)"
+    order: 2
+    required: true
+    marks_total: 20
+    best_of_n:
+      max_attempts_allowed: 3
+      required_attempts: 2
+      scoring_rule: "best_2_of_3"
+      drop_rule: "Drop lowest scoring question if 3 attempted"
+    question_distribution:
+      total_questions: 3
+      marks_per_question: 10
+      type_mix:
+        - question_type: "structured_essay"
+          count: 3
+          split_pattern: "3+3+4"
+          sub_parts: 3
+          difficulty_mix:
+            medium: 2
+            difficult: 1
+          discipline: "civics"
+          topic_coverage:
+            - "Union Parliament (Lok Sabha, Rajya Sabha)"
+            - "President and Vice President"
+            - "Council of Ministers and Cabinet"
+            - "Prime Minister"
+            - "Supreme Court and High Courts"
+            - "Subordinate Courts and Lok Adalats"
+          sub_part_instructions:
+            - part: "i"
+              marks: 3
+              typical_format: "Mention any three... / Explain three..."
+            - part: "ii"
+              marks: 3
+              typical_format: "Mention any three... / Explain... / What is...?"
+            - part: "iii"
+              marks: 4
+              typical_format: "Mention any four... / What is X? Mention three..."
+
+  - section_id: "part_2_section_b"
+    section_name: "SECTION B"
+    display_name: "SECTION B (30 Marks)"
+    subtitle: "(Attempt any three questions from this Section.)"
+    order: 3
+    required: true
+    marks_total: 30
+    best_of_n:
+      max_attempts_allowed: 5
+      required_attempts: 3
+      scoring_rule: "best_3_of_5"
+      drop_rule: "Drop 2 lowest if 5 attempted; drop 1 lowest if 4 attempted"
+    question_distribution:
+      total_questions: 5
+      marks_per_question: 10
+      type_mix:
+        - question_type: "structured_essay"
+          count: 4
+          split_pattern: "3+3+4"
+          allowed_splits: ["3+3+4", "2+4+4"]
+          sub_parts: 3
+          difficulty_mix:
+            medium: 3
+            difficult: 1
+          discipline: "history"
+          topic_coverage:
+            - "Revolt of 1857 (causes, consequences)"
+            - "Rise of Nationalism (Early, Assertive phases)"
+            - "Reform Movements (social, religious)"
+            - "Freedom Struggle (Gandhian movements)"
+            - "Partition and Independence"
+            - "World Wars (causes, consequences)"
+            - "League of Nations / United Nations"
+            - "Non-Aligned Movement"
+          sub_part_instructions:
+            - part: "i"
+              marks: 3
+              typical_format: "Mention any three... / What is X? / Who...?"
+            - part: "ii"
+              marks: 3
+              typical_format: "Mention any three... / State three..."
+            - part: "iii"
+              marks: 4
+              typical_format: "Mention any four... / In which year...? Mention three..."
+        - question_type: "picture_study_linked"
+          count: 1
+          marks_total: 10
+          split_pattern: "3+3+4"
+          allowed_splits: ["3+3+4", "2+4+4", "3+3+3"]
+          sub_parts: 3
+          source_material_required: true
+          difficulty_mix:
+            medium: 1
+          discipline: "history"
+          preferred_images:
+            - "Historical events (Jallianwala Bagh, Salt March, Dandi March)"
+            - "Leaders (Gandhi, Nehru, Subhash Bose, Tilak)"
+            - "Movements (Civil Disobedience, Quit India, INA)"
+            - "World events (WWI/WWII incidents, Treaty of Versailles)"
+            - "Documents (newspaper headlines, proclamations)"
+          sub_part_pattern:
+            - part: "i"
+              marks: 3
+              instruction: "Identify the event/person/movement + context question"
+            - part: "ii"
+              marks: 3
+              instruction: "Explain causes/provisions/contributions"
+            - part: "iii"
+              marks: 4
+              instruction: "Consequences/significance/related facts"
+
+# =============================================================================
+# SELECTION LOGIC & CONSTRAINTS
+# =============================================================================
+
+selection_rules:
+  repeat_avoidance:
+    enabled: true
+    lookback_days: 60
+    applies_to: ["committed_tests", "rapidfire"]
+    rule: "Exclude questions answered correctly in last 60 days"
+    fallback: "Allow repeats if candidate pool exhausted"
+  discipline_filtering:
+    history_civics_split:
+      part_1_q1: "50:50"
+      part_1_q2: "57:43"
+      section_a: "0:100"
+      section_b: "100:0"
+    tag_field: "discipline"
+    allowed_values: ["history", "civics"]
+    strict_mode: true
+  mastery_weighting:
+    enabled: true
+    weight_low_mastery: 0.70
+    weight_high_mastery: 0.30
+    fallback: "Pure randomization if no mastery data"
+  difficulty_targets:
+    easy: 0.25
+    medium: 0.50
+    difficult: 0.20
+    complex: 0.05
+    tolerance: 0.10
+    best_effort: true
+  substitution_hierarchy:
+    objective_types:
+      primary: ["mcq_standard", "mcq_visual_scenario", "mcq_source_connection"]
+      secondary: ["mcq_logic_table", "mcq_relationship_analogy"]
+      specialized: ["mcq_assertion_reason", "mcq_odd_one_out", "mcq_chronology_sequence"]
+      rule: "Substitute within category; match marks and difficulty"
+    subjective_types:
+      short: ["short_answer", "short_source_interpretation"]
+      long: ["structured_essay", "picture_study_linked"]
+      rule: "Combine micro-topics to match marks (e.g., 1+2 or 2+2 for 3-4 marks)"
+  randomization:
+    enabled: true
+    seed: null
+    shuffle_options: true
+    shuffle_questions_within_type: true
+    note: "Same config should NOT generate identical papers"
+
+# =============================================================================
+# OUTPUT ARTIFACTS
+# =============================================================================
+
+output_schema:
+  question_paper:
+    filename_format: "ICSE_HistoryCivics_G{grade}_{paper_id}_{timestamp}.pdf"
+    typography:
+      font_family: "Tinos"
+      font_embedding: true
+      question_font_size: 11
+      instruction_font_size: 10
+      marks_display: "[X]"
+    watermark:
+      preview_mode: "PREVIEW - NOT FOR DISTRIBUTION"
+      final_mode: null
+    layout:
+      page_size: "A4"
+      margins: "2.5cm all sides"
+      header: "Include template metadata (board, grade, subject, marks, time)"
+      footer: "Page X of Y"
+  answer_key:
+    filename_format: "ICSE_HistoryCivics_G{grade}_{paper_id}_AnswerKey_{timestamp}.pdf"
+    include:
+      - "MCQ correct options with explanations (for A/R)"
+      - "Short answer rubrics (keywords, criteria)"
+      - "Structured essay rubrics (block-wise marking scheme)"
+      - "Picture study rubrics (identify → explain → consequence)"
+    typography:
+      font_family: "Tinos"
+      font_embedding: true
+  paper_record:
+    schema:
+      paper_id: "UUID"
+      template_id: "icse_hc_g10_2h_80m"
+      student_id: "UUID"
+      generation_timestamp: "ISO8601"
+      config_snapshot: "JSON (exact template settings used)"
+    re_render_capability:
+      enabled: true
+      note: "Config snapshot allows identical PDF regeneration"
+
+# =============================================================================
+# VALIDATION (Paper generation – pre/post)
+# =============================================================================
+
+validation:
+  pre_generation:
+    - check: "Total marks sum to 80"
+      rule: "Part I (30) + Section A (20) + Section B (30) = 80"
+    - check: "No sub-question exceeds 4 marks"
+      rule: "Scan all sub_parts; max_marks ≤ 4"
+    - check: "MCQ types have exactly 4 options"
+      rule: "All MCQ question_instances must have options (a), (b), (c), (d)"
+    - check: "Assertion/Reason has logic_explanation"
+      rule: "mcq_assertion_reason rubric must include answer_key.logic_explanation"
+    - check: "picture_study_linked has source_material"
+      rule: "All picture_study_linked instances must have source_material_url or embedded image"
+    - check: "Discipline tags present"
+      rule: "All questions must have discipline ∈ {history, civics}"
+    - check: "Structured essay follows allowed splits"
+      rule: "structured_essay marks ∈ {3+3+4, 2+4+4, 2+2+3+3, 2+2+2+4}"
+    - check: "picture_study_linked follows allowed splits"
+      rule: "If 4 marks: 1+1+1+1. If 10 marks: {3+3+4, 2+4+4, 3+3+3}"
+  post_generation:
+    - check: "Question count matches template"
+      rule: "Part I Q1: 16, Q2: 7, Section A: 3, Section B: 5"
+    - check: "No duplicate question_ids"
+      rule: "All question_instances have unique IDs"
+    - check: "Marks allocation correct"
+      rule: "Sum of all question marks = 80"
+
+# =============================================================================
+# ERROR HANDLING
+# =============================================================================
+
+error_handling:
+  insufficient_questions:
+    action: "Log warning + substitute with best-effort alternative"
+    notification: "Email admin if <50% of type_mix satisfied"
+  no_image_available:
+    action: "Skip picture_study_linked; substitute with structured_essay"
+    note: "Maintain 10-mark total by selecting structured_essay with 3+3+4 split"
+  invalid_split_pattern:
+    action: "Use default 3+3+4 for structured_essay; 1+1+1+1 or 3+3+4 for picture_study_linked"
+  rubric_mismatch:
+    action: "Reject question from pool; log error; select alternate"
+  generation_timeout:
+    threshold: "30 seconds"
+    action: "Return partial paper + error message; allow retry"
+
+# =============================================================================
+# VERSION HISTORY
+# =============================================================================
+
+version_history:
+  - version: "2.0"
+    date: "2025-02-16"
+    changes:
+      - "Added short_source_interpretation to Part I Q2"
+      - "Updated picture_study_linked splits to include 2+4+4 and 3+3+3"
+      - "Clarified mcq_visual_scenario includes text-only scenarios"
+      - "Added discipline filtering rules"
+  - version: "1.0"
+    date: "2023-01-01"
+    changes:
+      - "Initial template based on 2023 ICSE board paper analysis"

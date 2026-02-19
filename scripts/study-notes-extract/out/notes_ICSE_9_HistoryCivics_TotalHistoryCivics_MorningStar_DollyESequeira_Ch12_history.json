@@ -1,0 +1,250 @@
+{
+  "board": "ICSE",
+  "grade": 9,
+  "subject": "HistoryCivics",
+  "book_slug": "TotalHistoryCivics_MorningStar_DollyESequeira",
+  "book_meta": {
+    "book_name": "Total History & Civics",
+    "publication": "Morning Star",
+    "author": "Dolly E. Sequeira"
+  },
+  "chapter_sequence_number": 12,
+  "chapter_title": "The Modern Age in Europe (B) Reformation",
+  "discipline": "history",
+  "reconciliation": {
+    "outline": [
+      "CAUSES OF THE REFORMATION",
+      "DISSATISFACTION WITH THE PRACTICES OF CATHOLIC CHURCH",
+      "Economic Factors",
+      "Corruption in the Church",
+      "Rulers' Resentment",
+      "Movements against the Church",
+      "Immediate Cause",
+      "NEW LEARNING",
+      "MARTIN LUTHER'S CONTRIBUTION",
+      "COUNTER REFORMATION",
+      "EXERCISES",
+      "I. Multiple-Choice Questions",
+      "II. Short Answer Questions",
+      "III. Structured Questions",
+      "IV. Thinking Skills"
+    ],
+    "in_syllabus_only": [],
+    "in_pdf_only": [
+      {
+        "title": "Corruption in the Church",
+        "insert_after_index": 2,
+        "micro_topics": []
+      },
+      {
+        "title": "Rulers' Resentment",
+        "insert_after_index": 2,
+        "micro_topics": []
+      },
+      {
+        "title": "Movements against the Church",
+        "insert_after_index": 2,
+        "micro_topics": []
+      },
+      {
+        "title": "Immediate Cause",
+        "insert_after_index": 2,
+        "micro_topics": []
+      }
+    ],
+    "additional_sections": [
+      {
+        "title": "Corruption in the Church",
+        "content_md": "[Image: Erasmus]\n\nIn the beginning, the clergy led an exemplary life and commanded great respect in the society. But with the passage of time, moral decay crept into some areas in the functioning of the Church. Some of the clergymen lacked proper education and some lived in luxury and neglected their religious duties. The priests promised salvation in exchange for fees. They could pronounce a marriage lawful or unlawful. In fact, there were fees for every transaction in life, from birth to death, fees for the peace of the soul and fees for the souls of the people dead long ago. These practices were severely criticised and opposed by the people. Desiderius Erasmus, a Dutch philosopher and humanist exposed them in his book named 'In Praise of Folly' and prepared the ground for the Reformation."
+      },
+      {
+        "title": "Rulers' Resentment",
+        "content_md": "Pope's interference in the political affairs was naturally opposed by the kings. They strongly supported the Reformation Movement in order to weaken the Church. As early as the 13th century, the rulers of Europe had quarrelled with the Popes over the royal right to tax the Church property. The rivalry ended in the defeat of the Papacy.\n\nThe French King, Philip IV had forced Pope Clement V to leave his headquarters at Rome and stay in Avignon in France, when the latter interfered in the former's political affairs. King Henry VIII of England hardly cared for the Pope. He got the Church lands and in 1536 passed an Act for the dissolution of monasteries, whereby small monasteries with an income of less than £200 a year were closed and their buildings, land and money taken by the Crown. By another Act of 1539, larger monasteries were closed. The monasteries were a reminder of the power of the Catholic Church. Besides, the monasteries were the wealthiest institutions in the country. King Henry's lavish lifestyle, along with his wars, had led to a lack of money. By destroying the monastic system, Henry could acquire all its wealth and property, while at the same time removing the influence of the Pope."
+      },
+      {
+        "title": "Movements against the Church",
+        "content_md": "Anti-Church movements began in Europe in the middle ages. These movements directed their attacks on the wrong doings of the Church. John Wycliffe, an English priest and Oxford professor, criticised the worldliness of the Church and some of its practices. He laid emphasis on the Bible as the sole guide for salvation. The Church ordered his expulsion from the Oxford University where he was teaching. This created dissatisfaction among the scholars."
+      },
+      {
+        "title": "Immediate Cause",
+        "content_md": "Long before the open breach with Rome, there had been some cases of protest against the power of the Pope. These minor revolts were crushed with a heavy hand. So the early reformers met with failure. The challenge was accepted by a German priest, Martin Luther. He raised a strong voice and launched a movement against the abuses in the Church and the authority of the Pope. This proved to be the immediate cause of the Reformation."
+      }
+    ]
+  },
+  "nodes": [
+    {
+      "title": "CAUSES OF THE REFORMATION",
+      "sequence_number": 1,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "DISSATISFACTION WITH THE PRACTICES OF CATHOLIC CHURCH",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Economic Factors",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "In the middle ages, the **Church** had vast properties, which gave ample income to the Church. Several economic practices of the Church led to dissatisfaction:\n\n*   **Tithe**: One-tenth of a person's income was given to the Church.\n*   **Peter's Pence**: The clergy collected this additional sum from the people.\n*   **Sale of Indulgences**: **Pope Leo X**, wanting to build **St. Peter's Church**, issued pardon certificates called **‘Indulgences’** to those who gave money. \n    *   These were letters which remitted punishments of the sinners who bought them, both in this life and after their death.\n    *   Normally, a priest would impose a **penance** or punishment on a sinner, who would have to perform a special service or make a pilgrimage. Now, they could be freed from doing penance by buying a **Letter of Indulgence**.\n*   **Simony**: Church offices were given to the highest bidder. This practice came to be known as **simony**.\n\nAll these practices annoyed the rulers as well as the common people."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "NEW LEARNING",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The spread of **new learning** and **spirit of enquiry** was developed by **Renaissance scholars**. The **invention of printing press** and the **printing of the Bible in vernacular languages** brought a new outlook among laymen.\n\nThe **Renaissance** encouraged the **spirit of enquiry**, developed a **critical attitude** and broadened the **mental outlook** of man. People then began to **question everything** including the **authority of the Pope**. They criticised the **Church practices**, rituals and the lifestyles of some of the clergymen. New learning led to a **secular outlook** among people."
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    },
+    {
+      "title": "MARTIN LUTHER'S CONTRIBUTION",
+      "sequence_number": 2,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "In the 16th century, **Martin Luther**, a German clergyman and professor of Theology at the **University of Wittenburg**, openly criticised papacy. He accused the Church for the sale of indulgences. In **1517**, Luther wrote **Ninety-five theses** or statements dealing with the difference between the beliefs and practices of the Church and nailed them on the church door at Wittenburg. Earlier in **1512**, he undertook a pilgrimage to Rome and found that some of the clergymen were living a luxurious life. This made him a strong opponent of the Church."
+        },
+        {
+          "content_md": "The **Holy Roman Emperor Charles V**, upon request by the Pope, asked Luther to defend his case before a Grand Diet held at Worms known as the **Diet of Worms** consisting of Council of Princes and high dignitaries in **1521**. The Diet ordered that Luther's writings be burnt and Luther be outlawed. But Luther had the support of German rulers; and so no harm was done to him."
+        },
+        {
+          "content_md": "This movement soon came to be described as the **German Protestant Movement**. Luther devoted his time translating the Bible into German and set up an independent church. Luther travelled extensively to different parts of Europe, Germany, Norway, Sweden and Denmark. The Protestant Movement found wide acceptance."
+        },
+        {
+          "content_md": "**Lutheranism** was recognised as a legal form of Christianity by a treaty known as **‘The Peace of Augsburg’** in **1555**, nine years after the death of Luther. This treaty was signed between the **Schmalkaldic League** (formed by Luther and some German Princes) and the Roman Catholic Church after a long civil war. In Germany, the Southern states continued to remain loyal to the Catholic Church whereas the Northern states accepted Lutheranism."
+        },
+        {
+          "content_md": "[Image: Martin Luther]"
+        }
+      ]
+    },
+    {
+      "title": "COUNTER REFORMATION",
+      "sequence_number": 3,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "The **Reformation Movement** was against the **Roman Catholic Church** and brought about the birth of the **Protestant Church**. In order to restore the **credibility of the Catholic Church**, a large number of dedicated Christians including some Popes introduced certain reforms within the Church. This movement is known as the **Counter Reformation**. A **Church Council** was convened at **Trent** in northern Italy in **1545** by **Pope Paul III**."
+        }
+      ]
+    }
+  ],
+  "additional_sections": [
+    {
+      "title": "Corruption in the Church",
+      "content_md": "[Image: Erasmus]\n\nIn the beginning, the clergy led an exemplary life and commanded great respect in the society. But with the passage of time, moral decay crept into some areas in the functioning of the Church. Some of the clergymen lacked proper education and some lived in luxury and neglected their religious duties. The priests promised salvation in exchange for fees. They could pronounce a marriage lawful or unlawful. In fact, there were fees for every transaction in life, from birth to death, fees for the peace of the soul and fees for the souls of the people dead long ago. These practices were severely criticised and opposed by the people. Desiderius Erasmus, a Dutch philosopher and humanist exposed them in his book named 'In Praise of Folly' and prepared the ground for the Reformation."
+    },
+    {
+      "title": "Rulers' Resentment",
+      "content_md": "Pope's interference in the political affairs was naturally opposed by the kings. They strongly supported the Reformation Movement in order to weaken the Church. As early as the 13th century, the rulers of Europe had quarrelled with the Popes over the royal right to tax the Church property. The rivalry ended in the defeat of the Papacy.\n\nThe French King, Philip IV had forced Pope Clement V to leave his headquarters at Rome and stay in Avignon in France, when the latter interfered in the former's political affairs. King Henry VIII of England hardly cared for the Pope. He got the Church lands and in 1536 passed an Act for the dissolution of monasteries, whereby small monasteries with an income of less than £200 a year were closed and their buildings, land and money taken by the Crown. By another Act of 1539, larger monasteries were closed. The monasteries were a reminder of the power of the Catholic Church. Besides, the monasteries were the wealthiest institutions in the country. King Henry's lavish lifestyle, along with his wars, had led to a lack of money. By destroying the monastic system, Henry could acquire all its wealth and property, while at the same time removing the influence of the Pope."
+    },
+    {
+      "title": "Movements against the Church",
+      "content_md": "Anti-Church movements began in Europe in the middle ages. These movements directed their attacks on the wrong doings of the Church. John Wycliffe, an English priest and Oxford professor, criticised the worldliness of the Church and some of its practices. He laid emphasis on the Bible as the sole guide for salvation. The Church ordered his expulsion from the Oxford University where he was teaching. This created dissatisfaction among the scholars."
+    },
+    {
+      "title": "Immediate Cause",
+      "content_md": "Long before the open breach with Rome, there had been some cases of protest against the power of the Pope. These minor revolts were crushed with a heavy hand. So the early reformers met with failure. The challenge was accepted by a German priest, Martin Luther. He raised a strong voice and launched a movement against the abuses in the Church and the authority of the Pope. This proved to be the immediate cause of the Reformation."
+    }
+  ],
+  "needs_review": [],
+  "manifest": {
+    "syllabus_leaves": [
+      {
+        "path": "CAUSES OF THE REFORMATION > DISSATISFACTION WITH THE PRACTICES OF CATHOLIC CHURCH > Economic Factors",
+        "path_titles": [
+          "CAUSES OF THE REFORMATION",
+          "DISSATISFACTION WITH THE PRACTICES OF CATHOLIC CHURCH",
+          "Economic Factors"
+        ],
+        "title": "Economic Factors",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "CAUSES OF THE REFORMATION > NEW LEARNING",
+        "path_titles": [
+          "CAUSES OF THE REFORMATION",
+          "NEW LEARNING"
+        ],
+        "title": "NEW LEARNING",
+        "sequence_number": 2,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "MARTIN LUTHER'S CONTRIBUTION",
+        "path_titles": [
+          "MARTIN LUTHER'S CONTRIBUTION"
+        ],
+        "title": "MARTIN LUTHER'S CONTRIBUTION",
+        "sequence_number": 2,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "COUNTER REFORMATION",
+        "path_titles": [
+          "COUNTER REFORMATION"
+        ],
+        "title": "COUNTER REFORMATION",
+        "sequence_number": 3,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      }
+    ],
+    "stray_leaves": [
+      {
+        "title": "Corruption in the Church",
+        "insert_after_index": 2,
+        "micro_topics": [],
+        "has_notes": true
+      },
+      {
+        "title": "Rulers' Resentment",
+        "insert_after_index": 2,
+        "micro_topics": [],
+        "has_notes": true
+      },
+      {
+        "title": "Movements against the Church",
+        "insert_after_index": 2,
+        "micro_topics": [],
+        "has_notes": true
+      },
+      {
+        "title": "Immediate Cause",
+        "insert_after_index": 2,
+        "micro_topics": [],
+        "has_notes": true
+      }
+    ]
+  }
+}

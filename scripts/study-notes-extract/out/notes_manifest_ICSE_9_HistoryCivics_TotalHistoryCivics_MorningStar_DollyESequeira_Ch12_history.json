@@ -1,0 +1,77 @@
+{
+  "syllabus_leaves": [
+    {
+      "path": "CAUSES OF THE REFORMATION > DISSATISFACTION WITH THE PRACTICES OF CATHOLIC CHURCH > Economic Factors",
+      "path_titles": [
+        "CAUSES OF THE REFORMATION",
+        "DISSATISFACTION WITH THE PRACTICES OF CATHOLIC CHURCH",
+        "Economic Factors"
+      ],
+      "title": "Economic Factors",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "CAUSES OF THE REFORMATION > NEW LEARNING",
+      "path_titles": [
+        "CAUSES OF THE REFORMATION",
+        "NEW LEARNING"
+      ],
+      "title": "NEW LEARNING",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "MARTIN LUTHER'S CONTRIBUTION",
+      "path_titles": [
+        "MARTIN LUTHER'S CONTRIBUTION"
+      ],
+      "title": "MARTIN LUTHER'S CONTRIBUTION",
+      "sequence_number": 2,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "COUNTER REFORMATION",
+      "path_titles": [
+        "COUNTER REFORMATION"
+      ],
+      "title": "COUNTER REFORMATION",
+      "sequence_number": 3,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    }
+  ],
+  "stray_leaves": [
+    {
+      "title": "Corruption in the Church",
+      "insert_after_index": 2,
+      "micro_topics": [],
+      "has_notes": true
+    },
+    {
+      "title": "Rulers' Resentment",
+      "insert_after_index": 2,
+      "micro_topics": [],
+      "has_notes": true
+    },
+    {
+      "title": "Movements against the Church",
+      "insert_after_index": 2,
+      "micro_topics": [],
+      "has_notes": true
+    },
+    {
+      "title": "Immediate Cause",
+      "insert_after_index": 2,
+      "micro_topics": [],
+      "has_notes": true
+    }
+  ]
+}

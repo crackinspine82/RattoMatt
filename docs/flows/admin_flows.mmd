@@ -1,0 +1,20 @@
+%% Admin Flows (Full Screen Detail) - Mermaid
+%% Soft UI palette references:
+%% Primary: #6E62E5, Secondary: #A09AE0, BG: #F6F8FD
+
+flowchart TD
+  A[Admin Login] --> B[Dashboard]
+  B --> C[Upload Chapter Content]
+  C --> D[Upload XLSX + ZIP]
+  D --> E[Validation Results]
+  E --> F{Errors?}
+  F -->|Yes| G[Fix Data + Re-upload]
+  F -->|No| H[Ingest + Publish]
+  H --> I[Content Available]
+
+  B --> J[Create Paper Template]
+  J --> K[Define Sections + Types + Best-of-N]
+  K --> L[Save Template]
+
+  B --> M[Review Reports]
+  M --> N[Audit Logs / Subscriptions]

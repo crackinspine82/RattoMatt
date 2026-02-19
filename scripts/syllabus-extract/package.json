@@ -1,0 +1,15 @@
+{
+  "name": "syllabus-extract",
+  "version": "1.0.0",
+  "description": "Extract chapter/topic/micro-topic syllabus from textbook PDFs using Gemini",
+  "type": "module",
+  "main": "extract.mjs",
+  "scripts": {
+    "extract": "node extract.mjs",
+    "extract:dry": "node extract.mjs --dry-run"
+  },
+  "dependencies": {
+    "@google/genai": "^1.0.0",
+    "dotenv": "^16.4.0"
+  }
+}

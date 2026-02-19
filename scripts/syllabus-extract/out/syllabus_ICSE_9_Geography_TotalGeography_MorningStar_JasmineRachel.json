@@ -1,0 +1,4927 @@
+{
+  "board": "ICSE",
+  "grade": 9,
+  "subject": "Geography",
+  "book_slug": "TotalGeography_MorningStar_JasmineRachel",
+  "book_meta": {
+    "book_name": "Total Geography",
+    "publication": "Morning Star",
+    "author": "Jasmine Rachel"
+  },
+  "chapters": [
+    {
+      "title": "Earth As a Planet",
+      "sequence_number": 1,
+      "discipline": null,
+      "nodes": [
+        {
+          "title": "Earth as a Planet",
+          "sequence_number": 1,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Shape of the earth",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "THE SHAPE OF THE EARTH",
+          "sequence_number": 2,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Proof that the Earth is Spherical in shape",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(i) Sighting of a ship",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(ii) The Bedford Level Experiment",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(iii) Pole Star",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(iv) Satellite Pictures",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(v) Lunar Eclipse",
+              "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(vi) Circular Horizon",
+              "sequence_number": 7,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(vii) Sunrise and Sunset",
+              "sequence_number": 8,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(viii) Circumnavigation",
+              "sequence_number": 9,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(ix) The Earth as a Heavenly Body",
+              "sequence_number": 10,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "THE EARTH AS A PLANET",
+          "sequence_number": 3,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Earth an Oblate Spheroid",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "EARTH AS THE HOME OF HUMANKIND",
+          "sequence_number": 4,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Distance from the Sun",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Temperature",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Atmosphere",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Water",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Solid Crust (Lithosphere)",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Biosphere",
+              "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Life-Giving Cycles",
+              "sequence_number": 7,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Nutrition Cycle",
+              "sequence_number": 8,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Carbon Cycle",
+              "sequence_number": 9,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Nitrogen Cycle",
+              "sequence_number": 10,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Oxygen Cycle",
+              "sequence_number": 11,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        }
+      ],
+      "structure_notes": ""
+    },
+    {
+      "title": "Geographic Grid: Latitudes and Longitudes",
+      "sequence_number": 2,
+      "discipline": null,
+      "nodes": [
+        {
+          "title": "Geographic Grid: Latitudes and Longitudes",
+          "sequence_number": 1,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Concept of latitudes",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Concept of longitudes",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Using latitudes and longitudes to find location. Calculation of time.",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Great Circles and their use.",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "LINES OF LATITUDE",
+          "sequence_number": 2,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "Main Latitudes",
+          "sequence_number": 3,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Equator",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "The North Pole",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "The South Pole",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "The Tropic of Cancer",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "The Tropic of Capricorn",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "The Arctic Circle",
+              "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "The Antarctic Circle",
+              "sequence_number": 7,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Northern and Southern Hemisphere",
+          "sequence_number": 4,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "Uses of Latitudes",
+          "sequence_number": 5,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "To find the location of a Place",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "To measure the distance of a Place",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Heat Zones",
+          "sequence_number": 6,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "The Torrid or Tropical Zone",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "The Temperate Zones",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "The Frigid Zones",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "LINES OF LONGITUDE",
+          "sequence_number": 7,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Meridians of Longitude",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "LONGITUDE AND TIME",
+          "sequence_number": 8,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "Difference between Lines of Latitude and Lines of Longitude",
+          "sequence_number": 9,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "Eastern and Western Hemisphere",
+          "sequence_number": 10,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "LOCAL TIME",
+          "sequence_number": 11,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "TIME ZONES AND STANDARD TIME",
+          "sequence_number": 12,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Time Zones",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Standard Time",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Greenwich Mean Time",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Indian Standard Time (IST)",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Worked Out Example for calculating the Time at a place",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "INTERNATIONAL DATE LINE",
+          "sequence_number": 13,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "LOCATING PLACES",
+          "sequence_number": 14,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "GREAT AND SMALL CIRCLES",
+          "sequence_number": 15,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Characteristics of a Great Circle",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Uses of Great Circles",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "EXERCISES",
+          "sequence_number": 16,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "I. Choose the correct option:",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "II. Short Answer Questions",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "III. Structured Questions",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "IV. Time-related Questions:",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "V. Thinking Skills",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "VI. Project/Activity",
+              "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        }
+      ],
+      "structure_notes": ""
+    },
+    {
+      "title": "Rotation and Revolution",
+      "sequence_number": 3,
+      "discipline": null,
+      "nodes": [
+        {
+          "title": "ROTATION OF THE EARTH",
+          "sequence_number": 1,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Characteristics of Rotation",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Direction",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Inclination of Axis",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Speed",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Effects of the Rotation of the Earth",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Occurrence of Day and Night",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Sunrise and Sunset",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Coriolis Effect",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "The sun, the moon and the stars seem to move from east to west",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Centrifugal force",
+                  "sequence_number": 5,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Rotation causes difference in time over various places on the earth",
+                  "sequence_number": 6,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "The side of the earth towards the sun constantly gains heat and the side away from the sun constantly loses heat by radiating it into outer space",
+                  "sequence_number": 7,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": [
+                    {
+                      "title": "the short rotational period makes the variation of temperature between day and night moderate.",
+                      "sequence_number": 1,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "Rotation in combination with Revolution (earth's movement round the sun) causes seasons and variations in the lengths of day and night over different places on earth",
+                      "sequence_number": 2,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "INCLINATION OF EARTH'S AXIS AND ITS SIGNIFICANCE",
+          "sequence_number": 2,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Effect of the Inclined Axis on the duration of day and night",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Effect of the Inclined Axis on Seasons",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "WHY WE DO NOT FEEL THE MOTIONS OF THE EARTH?",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "REVOLUTION OF THE EARTH",
+          "sequence_number": 3,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Characteristics of Revolution",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Effects of Revolution",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Seasonal Changes",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Inclination of axis and seasonal changes",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Perihelion and Aphelion positions",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Creation of heat zones",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "SOLSTICES AND EQUINOXES",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "ANGLE OF INCIDENCE AND DURATION OF DAYLIGHT",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "CYCLE OF SEASONS",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Position on 21st June",
+              "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Position on 23rd September",
+              "sequence_number": 7,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Position on 22nd December",
+              "sequence_number": 8,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Position on 21st March",
+              "sequence_number": 9,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "TWILIGHT IN LOW AND HIGH LATITUDES",
+              "sequence_number": 10,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        }
+      ],
+      "structure_notes": ""
+    },
+    {
+      "title": "Earth's Structure",
+      "sequence_number": 4,
+      "discipline": null,
+      "nodes": [
+        {
+          "title": "Earth's Structure",
+          "sequence_number": 1,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Earth's Structure",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Core, mantle, crust – meaning, extent and their composition",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "EARTH'S STRUCTURE",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Chemical Composition",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "INTERNAL COMPOSITION",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Core",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Mantle",
+              "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Gutenberg Discontinuity",
+              "sequence_number": 7,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Crust or Lithosphere",
+              "sequence_number": 8,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Mohorovicic Discontinuity",
+              "sequence_number": 9,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        }
+      ],
+      "structure_notes": ""
+    },
+    {
+      "title": "Landforms of the Earth",
+      "sequence_number": 5,
+      "discipline": null,
+      "nodes": [
+        {
+          "title": "Causes of Landform Development",
+          "sequence_number": 1,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Plate Tectonics",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Uplift and Submergence",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Exogenic Forces",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "LANDFORMS",
+          "sequence_number": 2,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Mountains",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Fold Mountains",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Residual Mountains",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Block Mountains",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "PLATEAUS",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Intermontane Plateaus",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Volcanic Plateaus",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "PLAINS",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Structural Plains",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Depositional Plains",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": [
+                    {
+                      "title": "River Deposition",
+                      "sequence_number": 1,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "Wind Deposition",
+                      "sequence_number": 2,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "Marine Deposition",
+                      "sequence_number": 3,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "IMPORTANCE OF LANDFORMS",
+          "sequence_number": 3,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        }
+      ],
+      "structure_notes": ""
+    },
+    {
+      "title": "Rocks",
+      "sequence_number": 6,
+      "discipline": null,
+      "nodes": [
+        {
+          "title": "ROCKS AND MINERALS",
+          "sequence_number": 1,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "TYPES OF ROCKS",
+          "sequence_number": 2,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "IGNEOUS ROCKS",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Formation",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Characteristics of Igneous Rocks",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Classification Based on Origin",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": [
+                    {
+                      "title": "Extrusive Igneous Rocks",
+                      "sequence_number": 1,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "Intrusive Igneous Rocks",
+                      "sequence_number": 2,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": [
+                        {
+                          "title": "Batholiths",
+                          "sequence_number": 1,
+                          "depth": 4,
+                          "level_label": "Sub-point",
+                          "children": []
+                        },
+                        {
+                          "title": "Laccoliths",
+                          "sequence_number": 2,
+                          "depth": 4,
+                          "level_label": "Sub-point",
+                          "children": []
+                        },
+                        {
+                          "title": "Sills",
+                          "sequence_number": 3,
+                          "depth": 4,
+                          "level_label": "Sub-point",
+                          "children": []
+                        },
+                        {
+                          "title": "Dykes",
+                          "sequence_number": 4,
+                          "depth": 4,
+                          "level_label": "Sub-point",
+                          "children": []
+                        },
+                        {
+                          "title": "Necks",
+                          "sequence_number": 5,
+                          "depth": 4,
+                          "level_label": "Sub-point",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "title": "Classification on the Basis of Chemical Composition",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": [
+                    {
+                      "title": "Acid Igneous Rocks",
+                      "sequence_number": 1,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "Basic Igneous Rocks",
+                      "sequence_number": 2,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "SEDIMENTARY ROCKS",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Formation",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Characteristics of Sedimentary Rocks",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Processes Involved",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": [
+                    {
+                      "title": "Evaporation",
+                      "sequence_number": 1,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "Compaction",
+                      "sequence_number": 2,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "Cementation",
+                      "sequence_number": 3,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "Classification on the Basis of Formation",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": [
+                    {
+                      "title": "Mechanically formed rocks",
+                      "sequence_number": 1,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "Chemically formed rocks",
+                      "sequence_number": 2,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "Organically formed rocks",
+                      "sequence_number": 3,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "Classification on the Basis of Agents Formation",
+                  "sequence_number": 5,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": [
+                    {
+                      "title": "Riverine Rocks",
+                      "sequence_number": 1,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "Lacustrine Rocks",
+                      "sequence_number": 2,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "Glacial Rocks",
+                      "sequence_number": 3,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "Aeolian Rocks",
+                      "sequence_number": 4,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "Marine Rocks",
+                      "sequence_number": 5,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": [
+                        {
+                          "title": "Calcarious Sedimentary Marine Rocks",
+                          "sequence_number": 1,
+                          "depth": 4,
+                          "level_label": "Sub-point",
+                          "children": []
+                        },
+                        {
+                          "title": "Carbonaceous Sedimentary Rocks",
+                          "sequence_number": 2,
+                          "depth": 4,
+                          "level_label": "Sub-point",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "METAMORPHIC ROCKS",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Formation",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Characteristics of Metamorphic Rocks",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Thermal Metamorphism",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Dynamic Metamorphism",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Regional Metamorphism",
+                  "sequence_number": 5,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "ECONOMIC SIGNIFICANCE OF ROCKS",
+          "sequence_number": 3,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "ROCK CYCLE",
+          "sequence_number": 4,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        }
+      ],
+      "structure_notes": ""
+    },
+    {
+      "title": "Volcanoes",
+      "sequence_number": 7,
+      "discipline": null,
+      "nodes": [
+        {
+          "title": "Volcanoes",
+          "sequence_number": 1,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Volcanoes: Meaning, Types – active, dormant and extinct.",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Effects - constructive and destructive.",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Important volcanic zones of the world.",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "CAUSES OF VOLCANIC ERUPTIONS",
+          "sequence_number": 2,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Heat and Pressure inside the Earth",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Plate Tectonics",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Magma Chamber",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Products of a Volcano",
+          "sequence_number": 3,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Magma and Lava",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Solid Matter",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Structure of a Volcano",
+          "sequence_number": 4,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Vent",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Volcanic Cone",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "TYPES OF VOLCANOES",
+          "sequence_number": 5,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Active Volcanoes",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Dormant Volcanoes",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Extinct",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "EFFECTS OF VOLCANOES",
+          "sequence_number": 6,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Constructive Effects",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Landforms",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Volcanic Plateaus",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Volcanic Mountains",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Volcanic Plains",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Caldera Lake",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Hot Springs",
+                  "sequence_number": 5,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Geysers",
+                  "sequence_number": 6,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Other Constructive Effects",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Destructive Effects",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "IMPORTANT VOLCANIC ZONES OF THE WORLD",
+          "sequence_number": 7,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Circum Pacific Belt",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Mid-world Mountain Belt",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        }
+      ],
+      "structure_notes": ""
+    },
+    {
+      "title": "Earthquakes",
+      "sequence_number": 8,
+      "discipline": null,
+      "nodes": [
+        {
+          "title": "Earthquakes",
+          "sequence_number": 1,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Earthquakes: Meaning, causes and measurement.",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Effects: destructive and constructive.",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Earthquake zones of the World.",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Causes of Earthquakes",
+          "sequence_number": 2,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "(i) Volcanoes",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(ii) Plate Tectonics",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(iii) Folding and Faulting",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(iv) Man-made Causes",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Anatomy of an Earthquake",
+          "sequence_number": 3,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "(i) P (primary or push) waves",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(ii) S (secondary or shear) waves",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(iii) L (surface or long) waves",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Measurements",
+          "sequence_number": 4,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Seismograph",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Richter Scale and the Mercalli Scale",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Effects of Earthquakes",
+          "sequence_number": 5,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "(i) Constructive Effects",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "1. Energy release",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "2. Landforms",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "(ii) Destructive Effects",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "1. Collapse of structures",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "2. Submergence",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "3. Course of Rivers",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "4. Danger to human life",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "5. Landslides",
+                  "sequence_number": 5,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "6. Fires",
+                  "sequence_number": 6,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "7. Tsunami",
+                  "sequence_number": 7,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "8. Flash Floods",
+                  "sequence_number": 8,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Distribution of Earthquakes",
+          "sequence_number": 6,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "(i) The Circum Pacific Mountain Belt",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(ii) The Mid-world Mountain Belt",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(iii) The Mid-Atlantic Ridge",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Predicting Earthquakes",
+          "sequence_number": 7,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        }
+      ],
+      "structure_notes": ""
+    },
+    {
+      "title": "Weathering",
+      "sequence_number": 9,
+      "discipline": null,
+      "nodes": [
+        {
+          "title": "Weathering and Denudation",
+          "sequence_number": 1,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Meaning, types and effects of weathering",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Types: Physical Weathering - block and granular disintegration, exfoliation",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Chemical Weathering - oxidation, carbonation, hydration and solution",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Biological Weathering - caused by humans, plants and animals",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "WEATHERING",
+          "sequence_number": 2,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "Chief Characteristics of Weathering",
+          "sequence_number": 3,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Weathering involves disintegration or deca of solid rocks.",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "It depends on climatic elements and on the characteristics of rocks.",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Weathering affects the surface of the earth.",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Weathering causes formation of soil.",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Weathering involves not one but several processes to cause disintegration of rocks.",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Weathering changes hard massive rocks into finer materials.",
+              "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "It prepares rock materials for transportation by agents of gradation.",
+              "sequence_number": 7,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "TYPES OF WEATHERING",
+          "sequence_number": 4,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "Physical Weathering",
+          "sequence_number": 5,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Block Disintegration",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Granular Disintegration",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Exfoliation",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Chemical Weathering",
+          "sequence_number": 6,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Oxidation",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Carbonation",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Hydration",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Solution",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Biological Weathering",
+          "sequence_number": 7,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Humans",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Plants",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Animals and Insects",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "WEATHERING IN DIFFERENT CLIMATIC REGIONS",
+          "sequence_number": 8,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "In Equatorial climates, humidity and temperature are constantly high.",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "In Tropical climates, there is a marked dry season and wet season.",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "In Dry climates or deserts, mechanical weathering is most dominant due to high diurnal range of temperature.",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "In Mid-latitudes or Temperate Climates, the most powerful agent of weathering is the frost action.",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "In Polar climates, physical weathering due to frost action is more prevalent.",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        }
+      ],
+      "structure_notes": ""
+    },
+    {
+      "title": "Denudation",
+      "sequence_number": 10,
+      "discipline": null,
+      "nodes": [
+        {
+          "title": "Denudation: Meaning and agents of denudation; work of river and wind.",
+          "sequence_number": 1,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "Stages of a river course and associated landforms V-shaped valley, waterfall, meander and delta.",
+          "sequence_number": 2,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "Wind - deflation hollows and Sand dunes.",
+          "sequence_number": 3,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "Processes Involved in Denudation",
+          "sequence_number": 4,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Weathering",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Erosion",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Mass Movement or Mass Wasting",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Transportation",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Deposition",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "WORK OF A RIVER",
+          "sequence_number": 5,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "Factors Affecting Work of a River",
+          "sequence_number": 6,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Velocity of water",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Volume of water",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Load",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Course of a River",
+          "sequence_number": 7,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "UPPER COURSE",
+          "sequence_number": 8,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "Landforms",
+          "sequence_number": 9,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "V-shaped Valleys",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Waterfall",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "MIDDLE COURSE",
+          "sequence_number": 10,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "Landforms of The Middle Course",
+          "sequence_number": 11,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Meander",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "LOWER COURSE OF THE RIVER",
+          "sequence_number": 12,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "Landforms of The Lower Course",
+          "sequence_number": 13,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Delta",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "WORK OF WIND",
+          "sequence_number": 14,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "ACTION OF WINDS",
+          "sequence_number": 15,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "Deflation Hollows",
+          "sequence_number": 16,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Deflation Hollows",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Sand Dunes",
+          "sequence_number": 17,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Sand Dunes",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Shape and Size",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Barchan",
+          "sequence_number": 18,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Barchan",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Longitudinal Dunes or Seifs",
+          "sequence_number": 19,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Longitudinal Dunes or Seifs",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        }
+      ],
+      "structure_notes": ""
+    },
+    {
+      "title": "Hydrosphere",
+      "sequence_number": 11,
+      "discipline": null,
+      "nodes": [
+        {
+          "title": "Hydrosphere: Meaning of Hydrosphere",
+          "sequence_number": 1,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "Tides",
+          "sequence_number": 2,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "formation and pattern",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "WAVES",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "TIDES",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Factors that cause Tides",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Nature of the Tides",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "High Tides",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Low Tides",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Periodicity of Tides",
+              "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Types of Tides",
+              "sequence_number": 7,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Spring Tides",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Neap Tides",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ocean Currents",
+          "sequence_number": 3,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "their circulation pattern and effects. (Specifically of Gulf Stream, North Atlantic Drift, Labrador Current, Kuroshio and Oyashio)",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "The Warm Currents",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "The Cold Currents",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "The Surface Currents",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "The Deep Water Currents",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Causes of Ocean Currents",
+              "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Level of Salinity",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Temperature",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "The Earth's Rotation",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "The Planetary Winds",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": [
+                    {
+                      "title": "Trade Winds",
+                      "sequence_number": 1,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "Westerlies",
+                      "sequence_number": 2,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "Monsoon Winds",
+                      "sequence_number": 3,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "Land",
+                  "sequence_number": 5,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "CIRCULATION PATTERN OF OCEAN CURRENTS",
+              "sequence_number": 7,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "The Gulf Stream",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "The North Atlantic Drift",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "The Labrador Current",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "The Kuroshio Current",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "The Oyashio Current",
+                  "sequence_number": 5,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "THE EFFECT OF OCEAN CURRENTS",
+              "sequence_number": 8,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Effect on Climate",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": [
+                    {
+                      "title": "Temperature",
+                      "sequence_number": 1,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "Rainfall",
+                      "sequence_number": 2,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "Fog",
+                      "sequence_number": 3,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "Effect on Marine Organisms",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Effect on Commerce",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "structure_notes": ""
+    },
+    {
+      "title": "Composition and Structure of the Atmosphere",
+      "sequence_number": 12,
+      "discipline": null,
+      "nodes": [
+        {
+          "title": "Atmosphere",
+          "sequence_number": 1,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Blanket of Air",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Composition of the Atmosphere",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Functions of the Atmosphere",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Structure of the Atmosphere",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "1. Troposphere",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "2. Stratosphere",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "3. Mesosphere",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "4. Thermosphere",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": [
+                    {
+                      "title": "Ionosphere",
+                      "sequence_number": 1,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "Exosphere",
+                      "sequence_number": 2,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Ozone and Its Depletion",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Depletion of Ozone Layer",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Global Warming",
+              "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Causes of Global Warming",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": [
+                    {
+                      "title": "1. Destruction of Ozone Layer",
+                      "sequence_number": 1,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "2. Greenhouse Effect in the Atmosphere",
+                      "sequence_number": 2,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "3. Deforestation",
+                      "sequence_number": 3,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "Impact of Global Warming",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": [
+                    {
+                      "title": "(i) Rise in Sea Level",
+                      "sequence_number": 1,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "(ii) Precipitation Change",
+                      "sequence_number": 2,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "(iii) Radiation Imbalance",
+                      "sequence_number": 3,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "(iv) Agriculture",
+                      "sequence_number": 4,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "(v) Water Resources",
+                      "sequence_number": 5,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "(vi) Diseases",
+                      "sequence_number": 6,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "structure_notes": ""
+    },
+    {
+      "title": "Insolation",
+      "sequence_number": 13,
+      "discipline": null,
+      "nodes": [
+        {
+          "title": "Insolation",
+          "sequence_number": 1,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Insolation",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Meaning of insolation and terrestrial radiation.",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "TYPES OF RADIATION",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "FACTORS AFFECTING THE DISTRIBUTION OF TEMPERATURE",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "1. Latitude",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "2. Altitude",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "3. Distance from the Sea",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "4. Slope of the Land",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "5. Winds and Ocean Currents",
+                  "sequence_number": 5,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "structure_notes": ""
+    },
+    {
+      "title": "Atmospheric Pressure and Wind",
+      "sequence_number": 14,
+      "discipline": null,
+      "nodes": [
+        {
+          "title": "Atmospheric Pressure and Winds",
+          "sequence_number": 1,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Meaning and factors that affect atmospheric pressure.",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Major pressure belts of the world.",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Factors affecting direction and velocity of wind",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "pressure gradient, Coriolis Effect.",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Permanent winds",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Trades, Westerlies and Polar Easterlies.",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Periodic winds",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Land and Sea breezes, Monsoons.",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Local winds",
+              "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Loo, Chinook, Foehn and Mistral",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Variable winds",
+              "sequence_number": 7,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Cyclones and Anticyclones",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Jet Streams",
+              "sequence_number": 8,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Meaning and importance",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "MEASUREMENT OF PRESSURE",
+          "sequence_number": 2,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "FACTORS AFFECTING ATMOSPHERIC PRESSURE",
+          "sequence_number": 3,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "1. Altitude",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "2. Temperature",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "3. Water Vapour",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "4. Rotation of the Earth",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "WORLD PRESSURE BELTS",
+          "sequence_number": 4,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "(i) Equatorial Low Pressure Belts",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(ii) Sub-tropical High Pressure Belts",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(iii) Circum-polar Low Pressure Belts",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(iv) Polar High Pressure Areas",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "SHIFTING OF PRESSURE BELTS",
+          "sequence_number": 5,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "WINDS",
+          "sequence_number": 6,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "Factors Affecting Direction and Velocity of wind",
+          "sequence_number": 7,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "1. Pressure Gradient",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "2. Coriolis Effect",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "PERMANENT WINDS",
+          "sequence_number": 8,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "The Trade Winds",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "The Westerlies",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "The Polar Easterlies",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "PERIODIC WINDS",
+          "sequence_number": 9,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Land and Sea Breezes",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Summer Monsoons",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Winter Monsoons",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "LOCAL WINDS",
+          "sequence_number": 10,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Foehn and Chinook",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Mistral",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "VARIABLE WINDS",
+          "sequence_number": 11,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Cyclones",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Tropical Cyclones",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Temperate Cyclones",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Anticyclones",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "JET STREAMS",
+          "sequence_number": 12,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Importance of Jet Streams",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        }
+      ],
+      "structure_notes": ""
+    },
+    {
+      "title": "Humidity",
+      "sequence_number": 15,
+      "discipline": null,
+      "nodes": [
+        {
+          "title": "Syllabus",
+          "sequence_number": 1,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Humidity - meaning and difference between relative and absolute humidity.",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Condensation - forms (clouds, dew, frost, fog and mist).",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Precipitation - forms (rain, snow, and hail).",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Types of rainfall - relief/orographic, convectional, cyclonic/frontal with examples from the different parts of the world.",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "HUMIDITY",
+          "sequence_number": 2,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Absolute Humidity",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Relative Humidity",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "MEASUREMENT OF HUMIDITY",
+          "sequence_number": 3,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "CONDENSATION",
+          "sequence_number": 4,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "FORMS OF CONDENSATION",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "1. Clouds",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "2. Dew",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "3. Frost",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "4. Fog and Mist",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "PRECIPITATION",
+          "sequence_number": 5,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Types of Rainfall",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "1. Relief Rainfall",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "2. Convectional Rainfall",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "3. Cyclonic or Frontal Rainfall",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "EXERCISES",
+          "sequence_number": 6,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "I. Choose the correct option:",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "II. Short Answer Questions",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "III. Explain the following terms:",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "IV. Structured Questions",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "V. Thinking Skills",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "VI. Project Work/Map Work",
+              "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        }
+      ],
+      "structure_notes": ""
+    },
+    {
+      "title": "Pollution",
+      "sequence_number": 16,
+      "discipline": null,
+      "nodes": [
+        {
+          "title": "Syllabus",
+          "sequence_number": 1,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Pollution: Types — air, water (fresh and marine), soil, radiation and noise.",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "TYPES OF POLLUTANTS",
+          "sequence_number": 2,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "(A) On the basis of degradation, pollutants are divided into two categories:",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "(i) Biodegradable pollutants:",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(ii) Non-biodegradable pollutants:",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "(B) On the basis of origin in environment, pollutants are classified into the following two categories:",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "(i) Primary pollutants:",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(ii) Secondary pollutants:",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "(C) On the basis of existence in nature, pollutants are also divided into two categories:",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "(i) Quantitative pollutants:",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(ii) Qualitative pollutants:",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "TYPES OF POLLUTION",
+          "sequence_number": 3,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "AIR POLLUTION",
+          "sequence_number": 4,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "The elements of the definition are:",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "(i) concentration of foreign matter in the air; and",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(ii) which adversely affects the living and non-living things.",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Causes of Air Pollution",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "WATER POLLUTION",
+          "sequence_number": 5,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Freshwater.",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Marine water:",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "SOIL POLLUTION",
+          "sequence_number": 6,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "RADIOACTIVE POLLUTION",
+          "sequence_number": 7,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "NOISE POLLUTION",
+          "sequence_number": 8,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Most of the noise originates from modern industrialised urban life. The main sources of noise pollution are:",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "(i) Industrial Sector",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(ii) Transport Sector",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(iii) Household Sector",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(iv) Defence Sector",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(v) Loud Speakers",
+                  "sequence_number": 5,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(vi) Miscellaneous Sources.",
+                  "sequence_number": 6,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "EXERCISES",
+          "sequence_number": 9,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        }
+      ],
+      "structure_notes": ""
+    },
+    {
+      "title": "Sources of Pollution",
+      "sequence_number": 17,
+      "discipline": null,
+      "nodes": [
+        {
+          "title": "NOISE POLLUTION",
+          "sequence_number": 1,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Sources of Noise Pollution",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "(i) Traffic",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(ii) Factories",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(iii) Noise from Construction Sites",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(iv) Loudspeakers",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(v) Airports",
+                  "sequence_number": 5,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Other Sources",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Household",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Agricultural Equipment",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Defence",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Miscellaneous",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "AIR POLLUTION",
+          "sequence_number": 2,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "1. According to Origin",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "(a) Primary Pollutants",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(b) Secondary Pollutants",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "2. According to State of Matter",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "(a) Gaseous air pollutants",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(b) Particulate air pollutants",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "3. According to Sources",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "(a) Natural Sources",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(b) Man-made Sources",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "SOURCES OF AIR POLLUTION",
+          "sequence_number": 3,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "1. Vehicular",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "2. Industrial Air Pollution",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "3. Burning of Garbage",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "SOURCES OF WATER POLLUTION",
+          "sequence_number": 4,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "(i) Domestic",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(ii) Industrial",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "SOURCES OF SOIL POLLUTION",
+          "sequence_number": 5,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "(i) Chemical fertilisers",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(ii) Biomedical waste",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(iii) Pesticides",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "SOURCES OF RADIOACTIVE POLLUTION",
+          "sequence_number": 6,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "(a) Natural Sources",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(b) Man-made Sources",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "(i) X-rays waste",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(ii) Radioactive fallout from nuclear plants",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(iii) Nuclear Weapons",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(iv) Radioactive Isotopes",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "structure_notes": ""
+    },
+    {
+      "title": "Effects of Pollution",
+      "sequence_number": 18,
+      "discipline": null,
+      "nodes": [
+        {
+          "title": "Effects of Pollution on the environment and human health.",
+          "sequence_number": 1,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "EFFECTS OF NOISE POLLUTION",
+          "sequence_number": 2,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Effects on Environment",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Effects on Human Health",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Effect on hearing or Deafness",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Effect on Communication",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Interference with sleep",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Mental or Physiological Effects",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Effects of High Intensity Noise on Human Beings",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Effects on Physical health and Psychological problems",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Effects on animals",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "EFFECTS OF AIR POLLUTION",
+          "sequence_number": 3,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Effects on Environment",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Effects on Human Health",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Effects of Pollutants on Plants",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Effects on Animals",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Effects on Materials",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "EFFECTS OF WATER POLLUTION",
+          "sequence_number": 4,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Effects on Environment - Animals, Marine Life and Vegetation",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Eutrophication",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Biomagnification",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Effects on Human Health",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Pathogens",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Toxic Compounds",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "EFFECTS OF SOIL POLLUTION",
+          "sequence_number": 5,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Effects on Environment",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Effects on Human Health",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Effects on other Organisms",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "EFFECTS OF RADIOACTIVE POLLUTION",
+          "sequence_number": 6,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Effects on Environment",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Effects on Human Health",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Genetic Variation",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Somatic Variation",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Effects on Animals",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        }
+      ],
+      "structure_notes": ""
+    },
+    {
+      "title": "Preventive Measures",
+      "sequence_number": 19,
+      "discipline": null,
+      "nodes": [
+        {
+          "title": "Vehicular Pollution",
+          "sequence_number": 1,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "Carpools",
+          "sequence_number": 2,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "Promotion of Public Transport",
+          "sequence_number": 3,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "No Smoking Zone",
+          "sequence_number": 4,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "Restricted Use of Fossil Fuels",
+          "sequence_number": 5,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "Saving Energy",
+          "sequence_number": 6,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "Organic Farming",
+          "sequence_number": 7,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "Characteristics of Organic Farming",
+          "sequence_number": 8,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "Importance of Organic Farming",
+          "sequence_number": 9,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "EXERCISES",
+          "sequence_number": 10,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "I. Choose the correct option:",
+          "sequence_number": 11,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "II. Short Answer Questions",
+          "sequence_number": 12,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "III. Structured Questions",
+          "sequence_number": 13,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "IV. Thinking Skills",
+          "sequence_number": 14,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "V. Practical Work",
+          "sequence_number": 15,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        }
+      ],
+      "structure_notes": ""
+    },
+    {
+      "title": "Natural Regions of the World",
+      "sequence_number": 20,
+      "discipline": null,
+      "nodes": [
+        {
+          "title": "EQUATORIAL REGION",
+          "sequence_number": 1,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Location",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Area",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Climate",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Temperature",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Rainfall",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Seasons",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Natural Vegetation",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Wildlife",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Human Adaptations",
+              "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "TROPICAL GRASSLANDS",
+          "sequence_number": 2,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Location",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Area",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Climate",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Temperature",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Rainfall",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Seasons",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Natural Vegetation",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Human Adaptations",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "TROPICAL DESERTS",
+          "sequence_number": 3,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Location",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Area",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Climate",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Temperature",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Rainfall",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Seasons",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Natural Vegetation",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Wildlife",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Human Adaptations",
+              "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "TROPICAL MONSOON TYPE CLIMATE",
+          "sequence_number": 4,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Location",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Area",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Climate",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Natural Vegetation",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Human Adaptations",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "MEDITERRANEAN REGION",
+          "sequence_number": 5,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Location",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Area",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Climate",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Temperature",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Rainfall",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Seasons",
+              "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Natural Vegetation",
+              "sequence_number": 7,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Human Adaptations",
+              "sequence_number": 8,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "TEMPERATE GRASSLANDS",
+          "sequence_number": 6,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Location",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Area",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Climate",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Temperature",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Rainfall",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Natural Vegetation",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Human Adaptations",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "THE TAIGA REGION",
+          "sequence_number": 7,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Location",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Area",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Climate",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Temperature",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Rainfall",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Natural Vegetation",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Human Adaptations",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "THE TUNDRA",
+          "sequence_number": 8,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Location",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Area",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Climate",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Temperature",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Rainfall",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Natural Vegetation",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Human Adaptations",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        }
+      ],
+      "structure_notes": ""
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "syllabus_leaves": [
+    {
+      "path": "Volcanoes > Volcanoes: Meaning, Types – active, dormant and extinct",
+      "path_titles": [
+        "Volcanoes",
+        "Volcanoes: Meaning, Types – active, dormant and extinct"
+      ],
+      "title": "Volcanoes: Meaning, Types – active, dormant and extinct",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Volcanoes > Effects - constructive and destructive",
+      "path_titles": [
+        "Volcanoes",
+        "Effects - constructive and destructive"
+      ],
+      "title": "Effects - constructive and destructive",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Volcanoes > Important volcanic zones of the world",
+      "path_titles": [
+        "Volcanoes",
+        "Important volcanic zones of the world"
+      ],
+      "title": "Important volcanic zones of the world",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "CAUSES OF VOLCANIC ERUPTIONS > (i) Heat and Pressure inside the Earth",
+      "path_titles": [
+        "CAUSES OF VOLCANIC ERUPTIONS",
+        "(i) Heat and Pressure inside the Earth"
+      ],
+      "title": "(i) Heat and Pressure inside the Earth",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "CAUSES OF VOLCANIC ERUPTIONS > (ii) Plate Tectonics",
+      "path_titles": [
+        "CAUSES OF VOLCANIC ERUPTIONS",
+        "(ii) Plate Tectonics"
+      ],
+      "title": "(ii) Plate Tectonics",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "CAUSES OF VOLCANIC ERUPTIONS > (iii) Magma Chamber",
+      "path_titles": [
+        "CAUSES OF VOLCANIC ERUPTIONS",
+        "(iii) Magma Chamber"
+      ],
+      "title": "(iii) Magma Chamber",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Products of a Volcano > (i) Magma and Lava",
+      "path_titles": [
+        "Products of a Volcano",
+        "(i) Magma and Lava"
+      ],
+      "title": "(i) Magma and Lava",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Products of a Volcano > (ii) Solid Matter",
+      "path_titles": [
+        "Products of a Volcano",
+        "(ii) Solid Matter"
+      ],
+      "title": "(ii) Solid Matter",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Structure of a Volcano > Vent",
+      "path_titles": [
+        "Structure of a Volcano",
+        "Vent"
+      ],
+      "title": "Vent",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Structure of a Volcano > Volcanic Cone",
+      "path_titles": [
+        "Structure of a Volcano",
+        "Volcanic Cone"
+      ],
+      "title": "Volcanic Cone",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "TYPES OF VOLCANOES > (i) Active Volcanoes",
+      "path_titles": [
+        "TYPES OF VOLCANOES",
+        "(i) Active Volcanoes"
+      ],
+      "title": "(i) Active Volcanoes",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "TYPES OF VOLCANOES > (ii) Dormant Volcanoes",
+      "path_titles": [
+        "TYPES OF VOLCANOES",
+        "(ii) Dormant Volcanoes"
+      ],
+      "title": "(ii) Dormant Volcanoes",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "TYPES OF VOLCANOES > (iii) Extinct",
+      "path_titles": [
+        "TYPES OF VOLCANOES",
+        "(iii) Extinct"
+      ],
+      "title": "(iii) Extinct",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "EFFECTS OF VOLCANOES > Constructive Effects > 1. Landforms > (a) Volcanic Plateaus",
+      "path_titles": [
+        "EFFECTS OF VOLCANOES",
+        "Constructive Effects",
+        "1. Landforms",
+        "(a) Volcanic Plateaus"
+      ],
+      "title": "(a) Volcanic Plateaus",
+      "sequence_number": 1,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "EFFECTS OF VOLCANOES > Constructive Effects > 1. Landforms > (b) Volcanic Mountains",
+      "path_titles": [
+        "EFFECTS OF VOLCANOES",
+        "Constructive Effects",
+        "1. Landforms",
+        "(b) Volcanic Mountains"
+      ],
+      "title": "(b) Volcanic Mountains",
+      "sequence_number": 2,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "EFFECTS OF VOLCANOES > Constructive Effects > 1. Landforms > (c) Volcanic Plains",
+      "path_titles": [
+        "EFFECTS OF VOLCANOES",
+        "Constructive Effects",
+        "1. Landforms",
+        "(c) Volcanic Plains"
+      ],
+      "title": "(c) Volcanic Plains",
+      "sequence_number": 3,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "EFFECTS OF VOLCANOES > Constructive Effects > 1. Landforms > (d) Caldera Lake",
+      "path_titles": [
+        "EFFECTS OF VOLCANOES",
+        "Constructive Effects",
+        "1. Landforms",
+        "(d) Caldera Lake"
+      ],
+      "title": "(d) Caldera Lake",
+      "sequence_number": 4,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "EFFECTS OF VOLCANOES > Constructive Effects > 1. Landforms > (e) Hot Springs",
+      "path_titles": [
+        "EFFECTS OF VOLCANOES",
+        "Constructive Effects",
+        "1. Landforms",
+        "(e) Hot Springs"
+      ],
+      "title": "(e) Hot Springs",
+      "sequence_number": 5,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "EFFECTS OF VOLCANOES > Constructive Effects > 1. Landforms > (f) Geysers",
+      "path_titles": [
+        "EFFECTS OF VOLCANOES",
+        "Constructive Effects",
+        "1. Landforms",
+        "(f) Geysers"
+      ],
+      "title": "(f) Geysers",
+      "sequence_number": 6,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "EFFECTS OF VOLCANOES > Constructive Effects > 2. Other Constructive Effects",
+      "path_titles": [
+        "EFFECTS OF VOLCANOES",
+        "Constructive Effects",
+        "2. Other Constructive Effects"
+      ],
+      "title": "2. Other Constructive Effects",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "EFFECTS OF VOLCANOES > Destructive Effects",
+      "path_titles": [
+        "EFFECTS OF VOLCANOES",
+        "Destructive Effects"
+      ],
+      "title": "Destructive Effects",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "IMPORTANT VOLCANIC ZONES OF THE WORLD > Circum Pacific Belt",
+      "path_titles": [
+        "IMPORTANT VOLCANIC ZONES OF THE WORLD",
+        "Circum Pacific Belt"
+      ],
+      "title": "Circum Pacific Belt",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "IMPORTANT VOLCANIC ZONES OF THE WORLD > Mid-world Mountain Belt",
+      "path_titles": [
+        "IMPORTANT VOLCANIC ZONES OF THE WORLD",
+        "Mid-world Mountain Belt"
+      ],
+      "title": "Mid-world Mountain Belt",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    }
+  ],
+  "stray_leaves": [
+    {
+      "title": "Terms to Remember",
+      "insert_after_index": 31,
+      "micro_topics": [
+        "Plate Tectonics",
+        "Magma",
+        "Lava",
+        "Extrusive forces"
+      ],
+      "has_notes": true
+    }
+  ]
+}

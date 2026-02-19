@@ -1,0 +1,815 @@
+{
+  "board": "ICSE",
+  "grade": 9,
+  "subject": "HistoryCivics",
+  "book_slug": "TotalHistoryCivics_MorningStar_DollyESequeira",
+  "book_meta": {
+    "book_name": "Total History & Civics",
+    "publication": "Morning Star",
+    "author": "Dolly E. Sequeira"
+  },
+  "chapter_sequence_number": 10,
+  "chapter_title": "Medieval India (D) Composite Culture",
+  "discipline": "history",
+  "reconciliation": {
+    "outline": [
+      "SOURCES",
+      "Bijak",
+      "Kabir's Teachings According to Bijak",
+      "Guru Granth Sahib",
+      "Guru Nanak's Teachings",
+      "Ajmer Sharief",
+      "St. Francis Church (Kochi)",
+      "St. Francis Assisi",
+      "Factors Responsible for the Growth of Composite Culture",
+      "Impact of Composite Culture",
+      "SUFISM AND BHAKTI MOVEMENT",
+      "BHAKTI MOVEMENT",
+      "Doctrines of Bhakti Cult",
+      "IMPACT OF BHAKTI MOVEMENT",
+      "BHAKTI SAINTS",
+      "Mirabai",
+      "Sant Jnaneswar",
+      "SUFISM",
+      "Doctrines of Sufism",
+      "Impact of Sufism",
+      "Hazrat Nizamuddin",
+      "INFLUENCE OF CHRISTIANITY",
+      "St. Francis Xavier",
+      "IMPACT OF CHRISTIAN MISSIONARIES"
+    ],
+    "in_syllabus_only": [
+      "Sakhi",
+      "Ramaini",
+      "Shabda"
+    ],
+    "in_pdf_only": [
+      {
+        "title": "Kabir's Teachings According to Bijak",
+        "insert_after_index": 4,
+        "micro_topics": []
+      },
+      {
+        "title": "Guru Nanak's Teachings",
+        "insert_after_index": 7,
+        "micro_topics": []
+      }
+    ],
+    "additional_sections": [
+      {
+        "title": "Kabir's Teachings According to Bijak",
+        "content_md": "Kabir's Teachings According to Bijak\n* There is only one God. He may be worshipped under many names.\n* Devotion to God and good actions are the only means of salvation.\n* One must be free from dishonesty insincerity and hypocrisy to reach God.\n* All men are equal before God.\n* There are no caste distinctions and no supremacy of the priestly class.\n* He denounced idol worship, empty rituals, meaningless ceremonies and pilgrimages to holy places.\n\nBijak presents Kabir's compositions in a simple style and exhorts his listeners to shed their delusions, pretensions and orthordox views in favour of a direct experience of truth."
+      },
+      {
+        "title": "Guru Nanak's Teachings",
+        "content_md": "Guru Nanak's Teachings\n* Guru Nanak preached the unity of God and the unity of mankind.\n* He advocated devotion to God in place of ritualism.\n* He believed that \"there is one God, His name is Eternal Truth, He is the maker of all things.\"\n* He emphasised the importance of devotion to God, and the repetition of Satnam (god's name) which should combine with meditation. It is the only means by which a soul can be saved from the cycle of birth and rebirth.\n* Like Kabir, he believed that personal devotion to one God could lead to salvation regardless of caste, creed or sect.\n* He advocated a middle path in which spiritual life could be combined with the duties of the householder. He exhorted people to give up hypocrisy and insincerity and to lead a life of truth and honesty.\n* He condemned idolatry in all its forms."
+      }
+    ]
+  },
+  "nodes": [
+    {
+      "title": "SOURCES",
+      "sequence_number": 1,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "Bijak",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Sakhi",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "* The **Sakhi** is composed in the **doha** or **couplet form**."
+                }
+              ]
+            },
+            {
+              "title": "Ramaini",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "* The **Ramaini** form is usually written in the metre called **chaupai** and is usually based upon a musical **raga**. It is descriptive and lengthy in character."
+                }
+              ]
+            },
+            {
+              "title": "Shabda",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The third form of composition in the **Bijak** is the **Shabda**. It is metrically the **loosest form**. Since it is the popular **song form**, it has been altered from region to region and from singer to singer."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "Guru Granth Sahib",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Introductory section composed by Guru Nanak",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": ""
+                }
+              ]
+            },
+            {
+              "title": "Compositions of Sikh gurus, followed by those of other saints and mystics, collected according to the chronology of ragas or musical settings",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "This is the second of two sections into which the **Guru Granth Sahib** is divided. It contains the **compositions of Sikh gurus**, followed by those of other **saints** and **mystics**, which are collected according to the chronology of **ragas** or **musical settings**."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "Ajmer Sharief",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**Ajmer Sharief** is the holy shrine of the sufi saint, **Khwajah Moinuddin Chishti**, located at Ajmer in Rajasthan.\n\n**Khwajah Moinuddin Chishti** came to India with Mahmud of Ghazni and made Ajmer his headquarters till his death in **AD 1236**. The **dargah** of Khwajah Moinuddin Chishti is one of the most revered sites in India not only for the Muslims but also for the people of other faiths, who hold the saint in high esteem. Every year thousands of people visit Ajmer Sharief to pay reverence at the sanctified dargah. A yearly carnival, known as **Urs** is held for six days in the honour of the beloved saint."
+            },
+            {
+              "content_md": "The main attraction of the shrine is the mausoleum containing the tomb of the saint. The dargah has many other attractive buildings, tombs and courtyards, some of which are specimens of the Mughal architecture and were erected during the Mughal period.\n\nThe main gate to the shrine is the **Nizam Gate**, followed by the **Shahjahani Gate**, erected by the Mughal emperor, Shah Jahan. In turn it is followed by the **Buland Darwaza**, that leads to the dargah courtyard. At the entrance of this courtyard there are two huge **degs** (cauldrons for cooking food) fixed into solid masonry in which a palatable mixture of rice sugar, ghee (butter) and dried fruits is cooked for distribution to the public. One of the degs was presented by **Akbar** and the other by **Jahangir**."
+            },
+            {
+              "content_md": "The tomb is of **white marble** inlaid with pieces of precious stones and is daily bestrewed with sandalwood-paste and perfume. Over the tomb, there is a **silver canopy (chaparkhat)** inlaid with pieces of mother-of-pearl presented by **Emperor Jahangir**. Between the four poles supporting this canopy, there is a silver railing (katehra) with an arch towards the south. The devotees are led into this space to offer flowers and prayers over the tomb."
+            },
+            {
+              "content_md": "[Image: Ajmer Sharief Dargah]"
+            }
+          ]
+        },
+        {
+          "title": "St. Francis Church (Kochi)",
+          "sequence_number": 4,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "### 4. St. Francis Church (Kochi)\n\n**St. Francis Church**, in **Fort Kochi**, originally built in **1503**, is the **oldest European church in India**. The Portuguese explorer, **Vasco da Gama** died in Kochi in **1524** when he was on his third visit to India. His body was originally buried in this church, but after fourteen years his remains were moved to **Lisbon**. The gravestone of **Vasco da Gama** can still be seen here.\n\n**Vasco da Gama**, who discovered the sea route from Europe to India, landed at **Kappad** near **Kozhikode (Calicut)** in **1498**. He was followed by **Pedro Álvares Cabral** and **Alfonso de Albuquerque**. They built a fort at Kochi with permission from the **Raja of Cochin**. Within the fort, they built a church with a wooden structure. The neighbourhood is now known as **Fort Kochi**.\n\nIn **1506**, **Francisco de Almeida**, the **Portuguese viceroy**, was allowed by the **Raja of Cochin** to reconstruct wooden buildings in stone and masonry. The wooden church was rebuilt, presumably by the **Franciscan friars**, who belonged to the order of **St. Francis of Assisi** (a town in Italy). The Franciscans retained control over the church till the **Dutch** captured Kochi in **1663**.\n\nIn **1795**, the **British** captured Kochi from the Dutch and allowed the latter to retain the church. In **1804**, the Dutch voluntarily handed over the church to the **Anglican sect**. It is believed that the Anglicans changed the name of the Church to **St. Francis Church**."
+            }
+          ]
+        },
+        {
+          "title": "St. Francis Assisi",
+          "sequence_number": 5,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**Francis Assisi** was an **Italian Roman Catholic priest** and preacher. He was born in **1182** to a prosperous silk merchant. He lived the life typical of a wealthy young man, even fighting as a soldier for Assisi. On the eve of setting out for a battle, he experienced a vision which caused him to abandon his ambition for military glory."
+            },
+            {
+              "content_md": "He embarked on a preaching ministry. The small church of the Portiuncola near Assisi which he and his companions rebuilt with their own hands, became their base, from where they constantly travelled. The **Order of Friars Minor**, a religious society, grew rapidly, and started sending missions beyond Italy to other countries in the Mediterranean area."
+            },
+            {
+              "content_md": "[Image: St. Francis Assisi]"
+            },
+            {
+              "content_md": "Francis died on **October 3, 1226**. On **July 16, 1228**, he was pronounced a saint by **Pope Gregory IX** and the next day, the Pope laid the foundation stone for the **Basilica of Saint Francis in Assisi**. Many churches dedicated to **St. Francis Assisi** were built all over India."
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    },
+    {
+      "title": "Factors Responsible for the Growth of Composite Culture",
+      "sequence_number": 2,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "### Factors Responsible for the Growth of Composite Culture\n\n*   The **immense wealth** and the **unlimited power** in the hands of the **Mughal emperors** enabled them to continue their **patronage of fine arts and literature**. They used their wealth to build **palaces, forts and monuments**.\n*   The relatively **settled conditions** and a **long period of peace** that prevailed all over northern India paved the way for undertaking **extensive works of art**.\n*   The **Mughal Emperors** had a great sense of **beauty and art**. Each of them was anxious to find an outlet for their expression in some visual art.\n*   The glorious and **rich cultural heritage** of the **Mughals** on the one hand, and the **Indians** on the other hand, created a unique atmosphere for the **brilliant output of letters and fine arts**."
+        }
+      ]
+    },
+    {
+      "title": "Impact of Composite Culture",
+      "sequence_number": 3,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "The dress, manners, social amenities and festivals which the Mughals introduced in India, were accepted by the people in India",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **dress, manners, social amenities and festivals** which the **Mughals** introduced in India, were accepted by the people in India."
+            }
+          ]
+        },
+        {
+          "title": "The trend towards fusion of two cultures is best seen in the field of music.",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The trend towards fusion of two cultures is best seen in the field of **music**. When the **Turks** came to India, they brought with them not only a number of new musical instruments like the **rabab** and **sarangi** but also new musical modes. **Amir Khusrau**, who was given the title of **nayak**, introduced many **Perso-Arabic ragas**."
+            }
+          ]
+        },
+        {
+          "title": "During the reign of Akbar, there was a fusion of Persian and Indian style of painting.",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "During the reign of **Akbar**, there was a **fusion of Persian and Indian style of painting**. Painting was organised in one of the imperial establishments (**karkhanas**) and a number of painters from different parts of the country illustrated Persian books of fables as well as the texts of the **Mahabharata** and **Akbarnama**. In these paintings, **Indian themes and scenes** were used along with Indian colours like **peacock blue** and the **Indian red**. The most important work produced during the Mughal period is an unusual manuscript, **Dastan-i-Amir Hamza** or **Hamzanama**, which has nearly 1200 paintings."
+            }
+          ]
+        },
+        {
+          "title": "In the field of architecture, the Indian and Islamic systems of art were mingled to give rise to a new type of Indo-Islamic architecture.",
+          "sequence_number": 4,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "In the field of **architecture**, the **Indian** and **Islamic systems of art** were mingled to give rise to a new type of **Indo-Islamic architecture**. The significant features of this architecture were the following:"
+            }
+          ]
+        },
+        {
+          "title": "Language and literature also saw the influence of the two traditions.",
+          "sequence_number": 5,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "Language and literature also saw the influence of the two traditions. The language which the Mughal rulers used in the administration was **Persian**. In course of time, **Persian** became the language of administration and the language of the upper classes.\n\nThe greatest linguistic synthesis is seen in the development of **Urdu**, which is a mixture of **Persian**, **Arabic**, **Hindi** and other regional languages. **Urdu** was originally known as '**Zaban-e-Hindvi**' because its grammatical structure is similar to that of Hindi. It, however, became popular during the Mughal rule. **Urdu** served as an important means of spreading information, on the one hand and of Islamic thought on the other. A number of Sanskrit books were translated into Persian and Urdu."
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    },
+    {
+      "title": "SUFISM AND BHAKTI MOVEMENT",
+      "sequence_number": 4,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "The spirit of tolerance and mutual influence which resulted in the blossoming of the **Indo-Islamic culture** led to the development of two liberal religious reforms movements in India — the **Sufi** and the **Bhakti movements**.\n\nA number of **sufi** and **bhakti** saints emphasised the essential unity of **Islam** and **Hinduism**, and laid stress on a religion based on love and devotion rather than one based on rituals. They, thus, created an atmosphere in which liberal sentiments and views could grow and religious narrowness was shunned. The **Sufi** and the **Bhakti movements** played an important role in fostering **Indo-Islamic culture**."
+        }
+      ]
+    },
+    {
+      "title": "BHAKTI MOVEMENT",
+      "sequence_number": 5,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "It originated as a reaction against **caste division** and **ritualism** in India. The **Vaishnava** and **Saiva** saints of the south started the **Bhakti movement**. In the 11th and 12th centuries the Tamil Vaishnava saints known as **Alvars** and Saivite saints known as **Nayanars** both preached 'personal devotion to God as a means to reach God'. These ideas then spread to the North and became popular between the 11th and the 15th centuries.\n\n**‘Bhakti’** means devotion to God. It has its roots in the revival of the Indian philosophy by **Shankaracharya**. Some of the prominent followers of the Bhakti cult were **Ramanujacharya**, **Madhavacharya**, **Ramananda**, **Kabir**, **Nanak**, **Namdev**, **Chaitanya Mahaprabhu** and **Mirabai**."
+        }
+      ]
+    },
+    {
+      "title": "Doctrines of Bhakti Cult",
+      "sequence_number": 6,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "1. **God** is one. He must be worshipped with **love** and **devotion**.\n2. By following the path of true devotion (or **Bhakti**) one can find **salvation**. Blind faith, empty ceremonies and external rites are not to be followed.\n3. All are equal before **God**. Dignity of man depends on his actions; and not on the privileges of birth. Universal brotherhood of humanity is a reality to be accepted.\n4. **Guru**, an enlightened teacher, is indispensable for realising **God**.\n5. Religious rites, rituals and ceremonies are devoid of substance. Man can reach **God** only through absolute surrender to Him.\n6. One must avoid caste distinctions and class-hatred."
+        }
+      ]
+    },
+    {
+      "title": "IMPACT OF BHAKTI MOVEMENT",
+      "sequence_number": 7,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "Like Sufism, **Bhakti Movement** brought about profound changes in the religious and social outlook of people."
+        },
+        {
+          "content_md": "1. **Bhakti saints** preached **universal brotherhood** and emphasised **equality of all men**.\n2. They preached in the **language of the people**. Languages such as **Hindi**, **Bhojpuri**, **Maithili** and **Oriya** became popular. Among important literary works of this period were **Ramcharit Manas** by **Tulsidas**, **Gurmukhi literature** of the **Sikh Gurus** and the **Vaishnava literature** in Bengal.\n3. The teachings of **Kabir**, **Guru Nanak**, **Ravidas** helped reform Indian society. They tried to evolve a new **social order** by following the principle of **equality** and by denouncing **caste distinctions**. By exposing the futility of **empty rituals**, they did away with the domination of priests. Thus, the **Bhakti movement** brought in **social changes**."
+        }
+      ]
+    },
+    {
+      "title": "BHAKTI SAINTS",
+      "sequence_number": 8,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "Mirabai",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "[Image: Mirabai]\n\n**Mirabai** was the **Rajasthani princess** of **Mewar** who lived during the time of Mughal ruler **Akbar**. Mirabai, the only daughter of a Rajput noble was married to **Bhoja Raj**, the heir apparent of **Rana Sanga of Mewar**. She renounced the world and became a devotee of **Lord Krishna**. Her devotional songs (**bhajans**) made her popular. These songs are sung even today. She mixed with ordinary people and showed them with her personal example how to surrender themselves to Lord Krishna. Her brilliant poetry is known as **Padavali**. In her poems, she portrays a deep personal association with Lord Krishna."
+            }
+          ]
+        },
+        {
+          "title": "Sant Jnaneswar",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**Jnaneswar** or **Dnyaneshwar** was a **13th century** saint, poet and philosopher from **Maharashtra**.\n\nHe learnt and mastered the philosophy and various techniques of **kundalini yoga**, from his elder brother, **Nivrittinatha**. At the age of 15, he is said to have delivered nine-thousand verses of his commentary on the **Bhagvad Gita**, called the **Jnaneswari**, also called **Bhavartha Dipika**.\n\nJnaneswar regarded **bhakti** (devotion) as the means to liberation. On the advice of his brother and Guru, Nivrittinatha to write a treatise on his spiritual experience, he wrote **Amritanubhava**.\n\nJnaneswar (or Dnyaneshwar), with his brothers and sister, did lot of pilgrimage and during one of his visits, met **Namdev** and the two became friends. Under the influence of Namdev, he joined the **Varkari movement**, which is a path combining Vedic doctrines with **jnana** (knowledge) and **bhakti** (devotion) and virtually became its leader. Its main practice is about remembering God at all times and living a simple virtuous life and helping others.\n\nHis teachings invoked great devotion in common people and his followers walk hundreds of kilometres to the holy place of **Pandhapur**, to worship **Lord Vitthal**, a form of Hari. In his famous works, known as **Abhangas**, Namdev has given a graphic description of the Sant's visit to the holy places.\n\nIn the month of **Kartik in 1296**, Sant Jnaneswar took **samadhi** at **Alandi**. His **samadhi mandir** is a highly revered religious place in Alandi, especially for the people belonging to the **Varkari sect**. He is an inspiration for millions of devotees, through his teachings and the great texts that he has left behind as his legacy."
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    },
+    {
+      "title": "SUFISM",
+      "sequence_number": 9,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "The word '**Sufi**' has come from the Arabic word **Suf** meaning wool and was used for the mystics who used to wear only a coarse woollen garment. According to some scholars, the word sufi has been derived from '**safa**', meaning purity. Sufis came to India with the Turkish rulers. They started a movement — preaching religious tolerance, brotherhood and oneness of God. They held that all religions were different paths of reaching the same God.\n\nThe Sufi Saints from Persia and Central Asia were organised into 12 orders or **silsilas**. The word '**silsila**' literally means a chain, signifying a continuous link between the master and the disciple. The leader of the order was called the **pir** and the followers were called the **murids**. A **wali** was nominated by the pir as his successor. Each Sufi order had **Khanqah** or hermitage where the sufi saints resided with their disciples. The sufi saints who settled in India belonged to **Chishti** and **Suhrawardi** orders."
+        }
+      ]
+    },
+    {
+      "title": "Doctrines of Sufism",
+      "sequence_number": 10,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "1. **Fundamental unity** of all religions.\n2. One can reach God through **personal devotion** and not through empty rituals.\n3. **Individual soul** is the manifestation of the **supreme God** and human soul would finally merge with it.\n4. **Equality and brotherhood** of all human beings irrespective of caste, colour, creed and religion.\n5. **Inner purity** and **self-discipline** are essential for gaining the knowledge of God."
+        }
+      ]
+    },
+    {
+      "title": "Impact of Sufism",
+      "sequence_number": 11,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "1. It fostered the feelings of **Hindu-Muslim unity**.\n2. Many principles of Sufism were similar to those of the **Bhakti cult**. It led to the popularity of the **Bhakti Movement**.\n3. Sufism played a great role in promoting feelings of **tolerance** among the rulers.\n4. People, irrespective of their religion, began to understand and appreciate others' faith.\n5. Sufism made its influence on the poets of the period, like **Amir Khusro** and **Malik Muhammed Jayasi**, who composed poems in Persian and Hindi in praise of Sufi principles."
+        }
+      ]
+    },
+    {
+      "title": "Hazrat Nizamuddin",
+      "sequence_number": 12,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "**Hazrat Nizamuddin** was a famous Sufi saint of the **Chishti order** that believed in drawing close to God through renunciation of the world and service to humanity.\n\nHe was born in Badayun in Uttar Pradesh. At the age of five, after the death of his father, he came to Delhi with his mother. At the age of twenty, Nizamuddin went to Ajodhan (the present Pakpattan Sharif in Pakistan) and became a disciple of the Sufi saint, **Baba Farid**. Nizamuddin did not take up residence in Ajodhan but continued with his theological studies in Delhi while simultaneously starting the Sufi devotional practices. He visited Ajodhan each year to spend the month of Ramzan in the presence of Baba Farid. It was on his third visit to Ajodhan that Baba Farid made him his successor. Shortly after that, when Nizamuddin returned to Delhi, he received the news that Baba Farid had died."
+        },
+        {
+          "content_md": "He built his **Khanqah** in Delhi, a place where people from all walks of life were fed, and imparted spiritual education. Before long, the Khanqah became a place thronged with all kinds of people, rich and poor alike.\n\nHazrat Nizamuddin, like his predecessors, stressed **love as a means of realising God**. For him love of God implied a love of humanity. His vision of the world was marked by a highly evolved sense of secularity and kindness. His key beliefs included the following:\n\n*   **Renunciation** and complete trust in God.\n*   The **unity of mankind** and shunning distinctions based on social, economic and religious status.\n*   Helping the needy, feeding the hungry and being sympathetic to the oppressed.\n*   Strong disapproval of mixing with the Sultans, the princes and the nobles.\n*   An uncompromising attitude towards all forms of political and social oppression."
+        },
+        {
+          "content_md": "His shrine, the **Nizamuddin Dargah**, is located in Delhi and the present structure was built in **1562**. The shrine is visited by people of all faiths, throughout the year. It becomes a place for special congregation during the **urs** (death anniversary) of Hazrat Nizamuddin and Amir Khusro, who is also buried at the Nizamuddin Dargah."
+        }
+      ]
+    },
+    {
+      "title": "INFLUENCE OF CHRISTIANITY",
+      "sequence_number": 13,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "The arrival of **Vasco da Gama** in **Calicut** in **1498** is a landmark in the history of Christianity in India. With the arrival of **Portuguese** in India, the visits of **Roman Catholic Missions** to India became more organised and were initially confined to **Goa**, **Kochi**, **Tuticorin** and other coastal areas. **St. Francis Xavier** became the first **Jesuit missionary** to arrive in India in **1542**. He played a significant role in spreading Christianity in India."
+        }
+      ]
+    },
+    {
+      "title": "St. Francis Xavier",
+      "sequence_number": 14,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": []
+    },
+    {
+      "title": "IMPACT OF CHRISTIAN MISSIONARIES",
+      "sequence_number": 15,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "The **Christian missionaries** spread Christianity in India and played a significant role in promoting language, literature and art."
+        },
+        {
+          "content_md": "* The missionaries in order to understand and be understood by the Indian people brought out **grammars and dictionaries** of the Indian languages.\n* **St. Francis Xavier** learnt the language of **Malabar** and brought out a manual of grammar and a vocabulary which helped the Jesuits and other missionaries to learn the language of the people of Malabar.\n* The English Jesuit, **Thomas Stephens**, brought out an epic in **Konkani** and a grammar book. **Diogo Ribeiro**, another English missionary, wrote a grammar book and booklets on Christian doctrines.\n* The Missionaries began teaching **Western music** in Church schools in India. Apart from music, they also taught dance and instrumental music. Many churches had music schools, so that in every church, hymns were sung, accompanied by organ and other musical instruments.\n* The Missionaries and the Church were also teachers and patrons in India of the **arts of painting, carving and sculpture**. Most of the paintings were religious in theme and adorned the Churches. These paintings influenced the Mughals. Portuguese, English and Mughal records show the interest of **Akbar** and **Jahangir** in Christian works of arts. For example, Akbar possessed the painting of Jesus Christ and of the Blessed Virgin. Jahangir had an album of miniatures that had paintings with Christian themes.\n* The **Portuguese Church** provided the earliest introduction to **European architectural ideas** in India. This included the long, two-storeyed house, with high-pitched roof, balconies and verandas, many windows and elaborately carved walls.\n* The Missionaries were the best interpreters of India to the Western world with their popular letters from the mission field."
+        }
+      ]
+    }
+  ],
+  "additional_sections": [
+    {
+      "title": "Kabir's Teachings According to Bijak",
+      "content_md": "Kabir's Teachings According to Bijak\n* There is only one God. He may be worshipped under many names.\n* Devotion to God and good actions are the only means of salvation.\n* One must be free from dishonesty insincerity and hypocrisy to reach God.\n* All men are equal before God.\n* There are no caste distinctions and no supremacy of the priestly class.\n* He denounced idol worship, empty rituals, meaningless ceremonies and pilgrimages to holy places.\n\nBijak presents Kabir's compositions in a simple style and exhorts his listeners to shed their delusions, pretensions and orthordox views in favour of a direct experience of truth."
+    },
+    {
+      "title": "Guru Nanak's Teachings",
+      "content_md": "Guru Nanak's Teachings\n* Guru Nanak preached the unity of God and the unity of mankind.\n* He advocated devotion to God in place of ritualism.\n* He believed that \"there is one God, His name is Eternal Truth, He is the maker of all things.\"\n* He emphasised the importance of devotion to God, and the repetition of Satnam (god's name) which should combine with meditation. It is the only means by which a soul can be saved from the cycle of birth and rebirth.\n* Like Kabir, he believed that personal devotion to one God could lead to salvation regardless of caste, creed or sect.\n* He advocated a middle path in which spiritual life could be combined with the duties of the householder. He exhorted people to give up hypocrisy and insincerity and to lead a life of truth and honesty.\n* He condemned idolatry in all its forms."
+    }
+  ],
+  "needs_review": [
+    "Introductory section composed by Guru Nanak",
+    "St. Francis Xavier"
+  ],
+  "manifest": {
+    "syllabus_leaves": [
+      {
+        "path": "SOURCES > Bijak > Sakhi",
+        "path_titles": [
+          "SOURCES",
+          "Bijak",
+          "Sakhi"
+        ],
+        "title": "Sakhi",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "SOURCES > Bijak > Ramaini",
+        "path_titles": [
+          "SOURCES",
+          "Bijak",
+          "Ramaini"
+        ],
+        "title": "Ramaini",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "SOURCES > Bijak > Shabda",
+        "path_titles": [
+          "SOURCES",
+          "Bijak",
+          "Shabda"
+        ],
+        "title": "Shabda",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "SOURCES > Guru Granth Sahib > Introductory section composed by Guru Nanak",
+        "path_titles": [
+          "SOURCES",
+          "Guru Granth Sahib",
+          "Introductory section composed by Guru Nanak"
+        ],
+        "title": "Introductory section composed by Guru Nanak",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": false
+      },
+      {
+        "path": "SOURCES > Guru Granth Sahib > Compositions of Sikh gurus, followed by those of other saints and mystics, collected according to the chronology of ragas or musical settings",
+        "path_titles": [
+          "SOURCES",
+          "Guru Granth Sahib",
+          "Compositions of Sikh gurus, followed by those of other saints and mystics, collected according to the chronology of ragas or musical settings"
+        ],
+        "title": "Compositions of Sikh gurus, followed by those of other saints and mystics, collected according to the chronology of ragas or musical settings",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "SOURCES > Ajmer Sharief",
+        "path_titles": [
+          "SOURCES",
+          "Ajmer Sharief"
+        ],
+        "title": "Ajmer Sharief",
+        "sequence_number": 3,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "SOURCES > St. Francis Church (Kochi)",
+        "path_titles": [
+          "SOURCES",
+          "St. Francis Church (Kochi)"
+        ],
+        "title": "St. Francis Church (Kochi)",
+        "sequence_number": 4,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "SOURCES > St. Francis Assisi",
+        "path_titles": [
+          "SOURCES",
+          "St. Francis Assisi"
+        ],
+        "title": "St. Francis Assisi",
+        "sequence_number": 5,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Factors Responsible for the Growth of Composite Culture",
+        "path_titles": [
+          "Factors Responsible for the Growth of Composite Culture"
+        ],
+        "title": "Factors Responsible for the Growth of Composite Culture",
+        "sequence_number": 2,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "Impact of Composite Culture > The dress, manners, social amenities and festivals which the Mughals introduced in India, were accepted by the people in India",
+        "path_titles": [
+          "Impact of Composite Culture",
+          "The dress, manners, social amenities and festivals which the Mughals introduced in India, were accepted by the people in India"
+        ],
+        "title": "The dress, manners, social amenities and festivals which the Mughals introduced in India, were accepted by the people in India",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Impact of Composite Culture > The trend towards fusion of two cultures is best seen in the field of music.",
+        "path_titles": [
+          "Impact of Composite Culture",
+          "The trend towards fusion of two cultures is best seen in the field of music."
+        ],
+        "title": "The trend towards fusion of two cultures is best seen in the field of music.",
+        "sequence_number": 2,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Impact of Composite Culture > During the reign of Akbar, there was a fusion of Persian and Indian style of painting.",
+        "path_titles": [
+          "Impact of Composite Culture",
+          "During the reign of Akbar, there was a fusion of Persian and Indian style of painting."
+        ],
+        "title": "During the reign of Akbar, there was a fusion of Persian and Indian style of painting.",
+        "sequence_number": 3,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Impact of Composite Culture > In the field of architecture, the Indian and Islamic systems of art were mingled to give rise to a new type of Indo-Islamic architecture.",
+        "path_titles": [
+          "Impact of Composite Culture",
+          "In the field of architecture, the Indian and Islamic systems of art were mingled to give rise to a new type of Indo-Islamic architecture."
+        ],
+        "title": "In the field of architecture, the Indian and Islamic systems of art were mingled to give rise to a new type of Indo-Islamic architecture.",
+        "sequence_number": 4,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Impact of Composite Culture > Language and literature also saw the influence of the two traditions.",
+        "path_titles": [
+          "Impact of Composite Culture",
+          "Language and literature also saw the influence of the two traditions."
+        ],
+        "title": "Language and literature also saw the influence of the two traditions.",
+        "sequence_number": 5,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "SUFISM AND BHAKTI MOVEMENT",
+        "path_titles": [
+          "SUFISM AND BHAKTI MOVEMENT"
+        ],
+        "title": "SUFISM AND BHAKTI MOVEMENT",
+        "sequence_number": 4,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "BHAKTI MOVEMENT",
+        "path_titles": [
+          "BHAKTI MOVEMENT"
+        ],
+        "title": "BHAKTI MOVEMENT",
+        "sequence_number": 5,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "Doctrines of Bhakti Cult",
+        "path_titles": [
+          "Doctrines of Bhakti Cult"
+        ],
+        "title": "Doctrines of Bhakti Cult",
+        "sequence_number": 6,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "IMPACT OF BHAKTI MOVEMENT",
+        "path_titles": [
+          "IMPACT OF BHAKTI MOVEMENT"
+        ],
+        "title": "IMPACT OF BHAKTI MOVEMENT",
+        "sequence_number": 7,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "BHAKTI SAINTS > Mirabai",
+        "path_titles": [
+          "BHAKTI SAINTS",
+          "Mirabai"
+        ],
+        "title": "Mirabai",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "BHAKTI SAINTS > Sant Jnaneswar",
+        "path_titles": [
+          "BHAKTI SAINTS",
+          "Sant Jnaneswar"
+        ],
+        "title": "Sant Jnaneswar",
+        "sequence_number": 2,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "SUFISM",
+        "path_titles": [
+          "SUFISM"
+        ],
+        "title": "SUFISM",
+        "sequence_number": 9,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "Doctrines of Sufism",
+        "path_titles": [
+          "Doctrines of Sufism"
+        ],
+        "title": "Doctrines of Sufism",
+        "sequence_number": 10,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "Impact of Sufism",
+        "path_titles": [
+          "Impact of Sufism"
+        ],
+        "title": "Impact of Sufism",
+        "sequence_number": 11,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "Hazrat Nizamuddin",
+        "path_titles": [
+          "Hazrat Nizamuddin"
+        ],
+        "title": "Hazrat Nizamuddin",
+        "sequence_number": 12,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "INFLUENCE OF CHRISTIANITY",
+        "path_titles": [
+          "INFLUENCE OF CHRISTIANITY"
+        ],
+        "title": "INFLUENCE OF CHRISTIANITY",
+        "sequence_number": 13,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "St. Francis Xavier",
+        "path_titles": [
+          "St. Francis Xavier"
+        ],
+        "title": "St. Francis Xavier",
+        "sequence_number": 14,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": false
+      },
+      {
+        "path": "IMPACT OF CHRISTIAN MISSIONARIES",
+        "path_titles": [
+          "IMPACT OF CHRISTIAN MISSIONARIES"
+        ],
+        "title": "IMPACT OF CHRISTIAN MISSIONARIES",
+        "sequence_number": 15,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      }
+    ],
+    "stray_leaves": [
+      {
+        "title": "Kabir's Teachings According to Bijak",
+        "insert_after_index": 4,
+        "micro_topics": [],
+        "has_notes": true
+      },
+      {
+        "title": "Guru Nanak's Teachings",
+        "insert_after_index": 7,
+        "micro_topics": [],
+        "has_notes": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,588 @@
+{
+  "board": "ICSE",
+  "grade": 9,
+  "subject": "HistoryCivics",
+  "book_slug": "TotalHistoryCivics_MorningStar_DollyESequeira",
+  "book_meta": {
+    "book_name": "Total History & Civics",
+    "publication": "Morning Star",
+    "author": "Dolly E. Sequeira"
+  },
+  "chapter_sequence_number": 6,
+  "chapter_title": "The Age of the Guptas",
+  "discipline": "history",
+  "reconciliation": {
+    "outline": [
+      "The Age of the Guptas",
+      "SOURCES",
+      "Accounts of Fa-hien",
+      "The Allahabad Pillar Inscription or Prayaga Prashasti",
+      "REIGN OF GUPTA PERIOD",
+      "Chandragupta-I",
+      "Samudragupta",
+      "Chandragupta II Vikramaditya",
+      "GUPTA ADMINISTRATION",
+      "MONARCHY",
+      "THE COUNCIL OF MINISTERS",
+      "PROVINCIAL AND LOCAL ADMINISTRATION",
+      "Provincial Administration",
+      "Village Administration",
+      "Town Administration",
+      "FEUDAL NATURE OF POLITY",
+      "THE GOLDEN AGE OF INDIAN CULTURE",
+      "EDUCATION",
+      "Nalanda University",
+      "SCIENCE",
+      "Aryabhatta",
+      "CULTURE",
+      "The Vishnu Temple at Deogarh",
+      "LITERATURE",
+      "Kalidasa"
+    ],
+    "in_syllabus_only": [],
+    "in_pdf_only": [],
+    "additional_sections": []
+  },
+  "nodes": [
+    {
+      "title": "The Age of the Guptas",
+      "sequence_number": 1,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "Sources",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Accounts of Fa-hien",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Fa-hien** was the earliest Chinese pilgrim who visited India on a religious mission during the reign of **Chandragupta II**. During his stay in India, he went on a pilgrimage to **Mathura**, **Kannauj**, **Kapilavastu**, **Kushinagar**, **Vaishali**, **Pataliputra**, **Kashi** and **Rajagriha**. He made careful unbiased observations about the conditions at that time. According to Fa-hien's accounts:"
+                },
+                {
+                  "content_md": "* **Magadha** was a **prosperous country** with large towns, teeming with **wealthy population**.\n* **Pataliputra** was a **flourishing city** with numerous **charitable institutions**, including a hospital endowed by **benevolent citizens**.\n* Although the people were wealthy, they led **simple lives**, generally observing the **Buddhist rules of conduct**.\n* **Vaishnavism**, **Shaivism**, **Buddhism** and **Jainism** were the main religions. People, however, had **no ill-will towards other sects**.\n* **Hindu gods and goddesses** were depicted on coins and also in sculptures and paintings.\n* The **penal code was mild** and the offences were ordinarily **punished by fines only**."
+                },
+                {
+                  "content_md": "[Image: Fa-hien]"
+                }
+              ]
+            },
+            {
+              "title": "The Allahabad Pillar Inscription or Prayaga Prashasti",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "It is one of the important epigraphic evidences of the Imperial-Guptas. Composed by **Harisena**, the court poet of **Samudragupta**, the **Allahabad Pillar Inscription**, also known as **Prayaga Prashasti**, is written in praise of **Samudragupta**, arguably the most powerful of the Gupta rulers. It describes the reign of the Guptas in ancient India. Besides, it provides an impressive list of Kings and tribal republics that were conquered by **Samudragupta**. The inscription is also important because of the political geography of India that it indicates by naming the different kings and peoples who populated India in the first half of the 4th century AD."
+                },
+                {
+                  "content_md": "### An excerpt from the Prayaga Prashasti\n\nHe was without an antagonist on earth; he, by the overflowing of the multitude of (his) many good qualities adorned by hundreds of good actions, has wiped off the fame of other kings with the soles of (his) feet; (he is) **Purusha** (the Supreme Being), being the cause of the prosperity of the good and the destruction of the bad (he is) incomprehensible; (he is) one whose tender heart can be captured only by devotion and humility; (he is) possessed of compassion; (he is) the giver of many hundred-thousands of cows; (his) mind has received ceremonial initiation for the uplift of the miserable, the poor, the forlorn and the suffering; (he is) resplendent and embodied kindness to mankind; (he is) equal to (the gods) **Kubera** (the god of wealth), **Varuna** (the god of ocean), **Indra** (the god of rains) and **Yama** (the god of death)..."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "Reign of Gupta Period",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Chandragupta-I",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Chandragupta I** was the first independent king with the title of **Maharajadhiraja** or '**the king of kings**'. After declaring his independence in **Magadha**, **Chandragupta-I** extended his empire through matrimonial alliance by marrying a **Lichchhavi princess**, **Kumaradevi**. This event is recorded in a series of **gold coins** issued by **Chandragupta-I**."
+                }
+              ]
+            },
+            {
+              "title": "Samudragupta",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "He was the son of **Chandragupta I**. Much of the information about him is obtained from a long inscription composed by his court poet, **Harisena**. This inscription is engraved on a Pillar at Allahabad. He was a great conqueror, an able statesman as well as a patron of arts."
+                },
+                {
+                  "content_md": "His empire extended from **Brahmaputra** in the east to rivers **Yamuna** and **Chambal** in the west and from **Himalayas** in the north to **Narmada** in the south. It is because of his bravery and generalship that he is known as the **'Napoleon of India'**. He further extended his empire up to the Chambal river by defeating the **Naga kings** of Mathura, Gwalior and Ahichhatra. Like Alexander he was daring. During his famous Deccan campaign he covered more than 3,000 miles through dense forests. Though he defeated many powerful rulers, he did not annex southern territories. He made the southern kings accept his authority and allowed them to rule.\n\n[Image: Allahabad Pillar]"
+                },
+                {
+                  "content_md": "The **Allahabad Pillar Inscription** of Samudragupta describes four different kinds of rulers and tells us about Samudragupta's policies towards them:\n(a) The nine rulers of **Aryavarta** were uprooted and their kingdoms were made a part of Samudragupta's empire.\n(b) The twelve rulers of **Dakshinpatha** (South India), who surrendered to Samudragupta after being defeated, were liberated and allowed to rule again over their kingdoms.\n(c) The inner circle of neighbouring states, including Assam, Coastal Bengal, Nepal and a number of **gana sanghas** (organisation of many kings) in the north-west paid tribute, followed his orders and attended his court.\n(d) The rulers of the outlying areas submitted to him and offered their daughters in marriage."
+                },
+                {
+                  "content_md": "According to Samudragupta's court poet **Harisena**, Samudragupta performed an **Ashvamedha Yajna** or horse sacrifice. Samudragupta was not only a brave warrior and conqueror but also a great ruler, a musician and a poet. In one of his coins he is shown playing the **veena**. Samudragupta issued eight types of coins made of gold. His court was full of great scholars and literary persons.\n\nSamudragupta was a follower of **Brahmanism** and worshipped **Lord Vishnu**. He also had faith in Vedic sacrifices. But he was tolerant towards other religions."
+                }
+              ]
+            },
+            {
+              "title": "Chandragupta II Vikramaditya",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Chandragupta II Vikramaditya**: The Gupta inscriptions mention that **Chandragupta II** succeeded his father, **Samudragupta**. He inherited the military genius of his father and extended the Gupta empire by conquest of his own. He annexed the territories of **Sakas** of **Malwa**, **Gujarat** and **Saurashtra**. For this he was given the title **'Sakari'** or conqueror of Sakas.\n\nAccording to noted historian, **Dr. Vincent Smith**, \"the annexation of Saurashtra and Malwa not only added to the empire, provinces of exceptional wealth and fertility, but opened up access to the ports of the western coast; and thus placed Chandragupta II in direct touch with the seaborne commerce with Europe through Egypt.\"\n\n**Chandragupta II** entered into matrimonial alliances as a part of his foreign policy. He married **Kuberanaga** of the **Naga family**. The Nagas were a powerful ruling clan and this matrimonial alliance helped the Gupta ruler in expanding his empire. The marriage of Chandragupta’s daughter, **Prabhavati** with the **Vakataka ruler**, **Rudrasena II** helped him to establish his political influence in the Deccan.\n\nIt was during the reign of **Chandragupta II** that the Chinese pilgrim **Fa-hien** visited India. Fa-hien does not mention the name of **Chandragupta II** in his accounts, but he gives interesting information on the life of the people and the general condition of the kingdom."
+                },
+                {
+                  "content_md": "Like **Samudragupta**, he issued a wide variety of gold coins. The differences in design between the coins of the two rulers are significant. **Chandragupta II** is represented as slaying a lion on some coins with the legend **simha-vikrama** whereas **Samudragupta** is shown as slaying a tiger.\n\n[Image: Coins of the Gupta Period]\n\nOn many of his coins, **Chandragupta II** has the title **Vikramaditya**. His court is said to have been adorned by **‘nine gems’** including **Kalidasa**, **Varahamihira** and **Amarsimha**.\n\nHe was succeeded by **Kumaragupta**. It was during **Kumaragupta’s** reign that **Hunas**, a barbarian tribe of Central Asia invaded India for the first time. At the time of the next attack the crown prince **Skandagupta** had ascended the throne. He gave the **Hunas** a crushing defeat and they did not dare attack India in the next 50 years."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "Gupta Administration",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Monarchy",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Monarchy** was the prevailing form of government during the Gupta period. The theory of the **divinity of kings** became popular during this period. The Gupta Kings were compared to different Gods such as **Yama, Varuna, Indra and Kubera**. They were compared to **Vishnu** as regards their function of preserving and protecting the people. **Lakshmi**, the goddess of prosperity, appears on many Gupta coins."
+                },
+                {
+                  "content_md": "The Gupta kings enjoyed a large number of powers which covered the **political, administrative, military and judicial fields**. They were the **commanders-in-chief** of the army. **Samudragupta, Chandragupta II and Skandagupta** personally led their armies. The kings appointed all the **governors** and important military and civil officers. The governors and their officers had to work under the control and guidance of the king. Likewise, the **central secretariat** also worked under the supervision of the king. The king was the source of all **honours and titles**. All **land** in the country was the property of the king who could give away the same to anybody he pleased. He could construct dams, give shelter to foreigners, impose, recover and remit taxes and give justice. If any property was **unclaimed**, that went into the coffers of the king."
+                },
+                {
+                  "content_md": "Despite the divine elements attributed to Gupta kings, the **brahmans** as the chief custodians and interpreters of laws, exercised a **check on royal power**."
+                }
+              ]
+            },
+            {
+              "title": "The Council of Ministers",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The Gupta rulers had their councils. Kalidasa, the renowned poet, refers to the **Mantri-Parishad**. It consisted of the prince, the high officials and the feudatories. Among the high officers were the **kumaramatya** and the **sandhivigrahika**. The **kumaramatyas** formed the chief cadre for recruiting high functionaries. Some of the **kumaramatyas** functioned in their own right and maintained their regular office."
+                },
+                {
+                  "content_md": "The office of the **sandhivigrahika** (minister of peace and war) first appeared under **Samudragupta** and **Harisena** held this title. The main duty of **sandhivigrahika** was to deal with the feudatories. In addition to these officers, there are references to a dozen other officers engaged in managing military, fiscal and rural matters. The growing importance of cavalry is supported by seals and inscriptions. Civil officials such as **amatyas**, **kumaramatyas**, etc., performed military functions or were promoted to the rank of high military officers."
+                }
+              ]
+            },
+            {
+              "title": "Provincial and Local Administration",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [
+                {
+                  "title": "Provincial Administration",
+                  "sequence_number": 1,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "The core of the **Empire** directly controlled by the Guptas was divided into **bhuktis**, each of which was placed under the charge of an **uparika**. The **uparika** was a governor appointed by the king."
+                    }
+                  ]
+                },
+                {
+                  "title": "Village Administration",
+                  "sequence_number": 2,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "The **village administration** was managed by the **village headman**. The **Gupta inscriptions** refer to the participation of **leading local elements** in the administration of the village or small towns called **vithis**. No land transactions could be effected without their consent and this may have been also true of other important affairs. Thus, while villages in **Mauryan times** were managed from above, those in the **Gupta times** seem to have been managed from the **grassroot level**."
+                    }
+                  ]
+                },
+                {
+                  "title": "Town Administration",
+                  "sequence_number": 3,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "There were various towns (**janapadas**), which issued their seals and coins. They were administered by a committee of five. Some towns were being administered by some kind of **parishads**."
+                    },
+                    {
+                      "content_md": "The towns in the Gupta Empire were usually placed under an officer called **purapala**. The leading local men were also associated with the work of administration in towns. Such people belonged to the guilds of artisans and traders which flourished during the Gupta age. **Vaishali** in Bihar was an important town where there were separate guilds of artisans (**kulika**) and of merchants (**shreshthi**)."
+                    }
+                  ]
+                }
+              ],
+              "content_blocks": []
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "Feudal Nature of Polity",
+          "sequence_number": 4,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The system of administration underwent several changes under the Guptas.\n\nThe **Mauryan state** is credited with \"comprehensive competence based on **centralised control**\", which may have been true of its rule in the core area of the middle Ganga plains. The **Gupta period** shows the process of the **devolution of the state authority**. The functions of collection of **taxes**, regulation of **mines**, **agriculture** etc., together with those of the maintenance of **law and order** and **defence**, which were earlier performed by the state officials, were now gradually delegated, first to the **priestly class** and later to the **warrior class**."
+            }
+          ]
+        },
+        {
+          "title": "The Golden Age of Indian Culture",
+          "sequence_number": 5,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **Gupta period** is described as the **Golden Age of Indian culture** because of the high level of civilisation and culture of this period. Along with the **revival of Hinduism**, the power of creativity was unleashed in the fields of **education**, **literature**, **arts**, **architecture** and **science**. This period also saw the extension of this influence beyond India's frontiers."
+            }
+          ]
+        },
+        {
+          "title": "Education",
+          "sequence_number": 6,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Nalanda University",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Nalanda University**: It was the most renowned educational institution of ancient India. It was located at **Nalanda** in **Rajagriha** in Bihar. A lot of information about the Nalanda University is given in the inscriptions and in the accounts of **Hiuen Tsang**, a Chinese Buddhist scholar, who visited India during the reign of **Harshavardhana**."
+                },
+                {
+                  "content_md": "The University of Nalanda had imposing buildings. There were at least **eight colleges** built by different patrons, including one by **Balaputradeva, King of Sumatra**. According to Hiuen Tsang the whole university area was enclosed by a brick wall."
+                },
+                {
+                  "content_md": "The Nalanda University provided various facilities to the students for their studies. There were three great libraries (called **Ratnasagar**, **Ratnodadhi** and **Ratnaranjak**). There were more than **10,000 students and teachers**. They came from **Korea, Mongolia, Japan, China, Tibet, Ceylon** and various parts of India."
+                },
+                {
+                  "content_md": "The subjects of study at Nalanda University were all the four **Vedas, logic, grammar, medicine, sankya, yoga, nyaya** and the **Buddhist works** of the different schools.\n\nNalanda University was not an ordinary university. It was a **post-graduate institution** to which admission was very difficult. Before admission, an examination was held in which hardly **20%** of students passed and the rest were rejected. Only the most brilliant were admitted to the University."
+                },
+                {
+                  "content_md": "Nalanda continued to be a beacon of light up to the **12th century AD** when it was destroyed by **Mohammad-bin-Bakhtiyar Khilji**, a general of **Mohammad Ghori**. Today only the remains of its magnificence and glory can be seen."
+                },
+                {
+                  "content_md": "[Image: Ruins of Nalanda University]"
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "Science",
+          "sequence_number": 7,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Aryabhatta",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Aryabhatta**: He was a great **astronomer** and **mathematician**. He flourished during the reign of the Gupta dynasty. His two famous books include **Aryabhattiyam** and **Surya Siddhanta**. His main achievements were the following:\n\n1.  He said that the **earth moves round the sun**. It was several centuries before the Europeans said the same thing.\n2.  He discovered the rule for finding the **area of a triangle**.\n3.  He calculated the exact value of **pi** which was equal to **3.1416**. The credit for the development of **trigonometry** should actually go to him.\n4.  In his work **Surya Siddhanta**, he explained the exact causes of **solar and lunar eclipses**.\n5.  Aryabhatta was acquainted with the **decimal system** and use of **'zero'**."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "Culture",
+          "sequence_number": 8,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "The Vishnu Temple at Deogarh",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The Vishnu temple, also called the **Dashavatara Temple**, is one of the finest examples of **Gupta architecture**. It is about 125km from **Jhansi in Uttar Pradesh**. It is one of the earliest Hindu stone temples to survive till date. It was the first North Indian temple with a **Shikhara** or tower, although a part of it has disappeared. Inspite of its dilapidated condition, the temple has a compelling presence.\n\nThe temple was built on a 1.5 metre high platform. Four stairways outside the platform provide access to the temple. Its exterior is decorated with scenes from **Ramayana**. The entrance and pillars are adorned with countless paintings and carvings. The front entrance has sculptures of various Gods and Godesses in moods varying from contemplation to affection and above them is Vishnu flanked by two of his avataras **Narasimha** and **Vamana**. On each of the three sides of the temple, a niche is made in the wall. Carved into them are dramatic representations of Lord Vishnu's various forms. One nook has Vishnu asleep on the coil of the giant serpent called **Sheshnaga**.\n\nThe niche at the back shows the concept of **Nar Narayana** or the fusion of divine and the human. The third niche depicts Lord Vishnu coming to the aid of the trapped elephant, Gaja in the famous story of **Gajendra moksha**.\n\nUnfortunately, the idol of the deity inside the temple is missing.\n\nThe Dashavatara temple is locally known as the **Sagar marh**, which literally means, 'the temple on the tank', a name it gets from the square water pool cut into the rock in front."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "Literature",
+          "sequence_number": 9,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Kalidasa",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Kalidasa**: Kalidasa is regarded as the **greatest poet and playwright** India has ever produced. **Vincent Smith** has rightfully compared the **Gupta Age** with the **Elizabethan period** in the history of England. According to him, \"In India all the lesser lights are outshone by the brilliancy of Kalidasa as in England all the smaller authors are overshadowed by Shakespeare.\".\n\nHis four poetic works are:\n*   **Ritusamhara**\n*   **Raghuvamsa**\n*   **Meghaduta**\n*   **Kumarasambhava**\n\nThe **Meghaduta**, (the Cloud Messenger) is an outstanding lyrical poetic work.\n\nThe three dramatic works of Kalidasa were:\n*   **Vikramorvashiyam**\n*   **Malavikagnimitram**\n*   **Abhijnanashakuntalam**. His dramatic work **Abhijnanashakuntalam** narrates the love story of king **Dushyanta** and **Shakuntala** whose son **Bharata** later became the ruler."
+                },
+                {
+                  "content_md": "A notable feature of Kalidasa's works is that the characters belonging to **higher castes speak in Sanskrit** while those of **lower castes and women speak in Prakrit**. This shows that the **status of women declined** during the Gupta period.\n\nAll the works of Kalidasa specially dramatic works have been translated into many major languages of the world.\n\nAlthough the subject-matter of Kalidasa's works is love, nature and beauty, they nevertheless give reliable information about the government, society and religion of the Gupta period. Besides, they also contain traces of political history."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        }
+      ],
+      "content_blocks": []
+    }
+  ],
+  "additional_sections": [],
+  "needs_review": [],
+  "manifest": {
+    "syllabus_leaves": [
+      {
+        "path": "The Age of the Guptas > Sources > Accounts of Fa-hien",
+        "path_titles": [
+          "The Age of the Guptas",
+          "Sources",
+          "Accounts of Fa-hien"
+        ],
+        "title": "Accounts of Fa-hien",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "The Age of the Guptas > Sources > The Allahabad Pillar Inscription or Prayaga Prashasti",
+        "path_titles": [
+          "The Age of the Guptas",
+          "Sources",
+          "The Allahabad Pillar Inscription or Prayaga Prashasti"
+        ],
+        "title": "The Allahabad Pillar Inscription or Prayaga Prashasti",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "The Age of the Guptas > Reign of Gupta Period > Chandragupta-I",
+        "path_titles": [
+          "The Age of the Guptas",
+          "Reign of Gupta Period",
+          "Chandragupta-I"
+        ],
+        "title": "Chandragupta-I",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "The Age of the Guptas > Reign of Gupta Period > Samudragupta",
+        "path_titles": [
+          "The Age of the Guptas",
+          "Reign of Gupta Period",
+          "Samudragupta"
+        ],
+        "title": "Samudragupta",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "The Age of the Guptas > Reign of Gupta Period > Chandragupta II Vikramaditya",
+        "path_titles": [
+          "The Age of the Guptas",
+          "Reign of Gupta Period",
+          "Chandragupta II Vikramaditya"
+        ],
+        "title": "Chandragupta II Vikramaditya",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "The Age of the Guptas > Gupta Administration > Monarchy",
+        "path_titles": [
+          "The Age of the Guptas",
+          "Gupta Administration",
+          "Monarchy"
+        ],
+        "title": "Monarchy",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "The Age of the Guptas > Gupta Administration > The Council of Ministers",
+        "path_titles": [
+          "The Age of the Guptas",
+          "Gupta Administration",
+          "The Council of Ministers"
+        ],
+        "title": "The Council of Ministers",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "The Age of the Guptas > Gupta Administration > Provincial and Local Administration > Provincial Administration",
+        "path_titles": [
+          "The Age of the Guptas",
+          "Gupta Administration",
+          "Provincial and Local Administration",
+          "Provincial Administration"
+        ],
+        "title": "Provincial Administration",
+        "sequence_number": 1,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "The Age of the Guptas > Gupta Administration > Provincial and Local Administration > Village Administration",
+        "path_titles": [
+          "The Age of the Guptas",
+          "Gupta Administration",
+          "Provincial and Local Administration",
+          "Village Administration"
+        ],
+        "title": "Village Administration",
+        "sequence_number": 2,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "The Age of the Guptas > Gupta Administration > Provincial and Local Administration > Town Administration",
+        "path_titles": [
+          "The Age of the Guptas",
+          "Gupta Administration",
+          "Provincial and Local Administration",
+          "Town Administration"
+        ],
+        "title": "Town Administration",
+        "sequence_number": 3,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "The Age of the Guptas > Feudal Nature of Polity",
+        "path_titles": [
+          "The Age of the Guptas",
+          "Feudal Nature of Polity"
+        ],
+        "title": "Feudal Nature of Polity",
+        "sequence_number": 4,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "The Age of the Guptas > The Golden Age of Indian Culture",
+        "path_titles": [
+          "The Age of the Guptas",
+          "The Golden Age of Indian Culture"
+        ],
+        "title": "The Golden Age of Indian Culture",
+        "sequence_number": 5,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "The Age of the Guptas > Education > Nalanda University",
+        "path_titles": [
+          "The Age of the Guptas",
+          "Education",
+          "Nalanda University"
+        ],
+        "title": "Nalanda University",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "The Age of the Guptas > Science > Aryabhatta",
+        "path_titles": [
+          "The Age of the Guptas",
+          "Science",
+          "Aryabhatta"
+        ],
+        "title": "Aryabhatta",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "The Age of the Guptas > Culture > The Vishnu Temple at Deogarh",
+        "path_titles": [
+          "The Age of the Guptas",
+          "Culture",
+          "The Vishnu Temple at Deogarh"
+        ],
+        "title": "The Vishnu Temple at Deogarh",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "The Age of the Guptas > Literature > Kalidasa",
+        "path_titles": [
+          "The Age of the Guptas",
+          "Literature",
+          "Kalidasa"
+        ],
+        "title": "Kalidasa",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      }
+    ],
+    "stray_leaves": []
+  }
+}

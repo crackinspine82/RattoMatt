@@ -1,0 +1,326 @@
+{
+  "syllabus_leaves": [
+    {
+      "path": "CAUSES OF RENAISSANCE > CAPTURE OF CONSTANTINOPLE",
+      "path_titles": [
+        "CAUSES OF RENAISSANCE",
+        "CAPTURE OF CONSTANTINOPLE"
+      ],
+      "title": "CAPTURE OF CONSTANTINOPLE",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "CAUSES OF RENAISSANCE > DECLINE OF FEUDALISM",
+      "path_titles": [
+        "CAUSES OF RENAISSANCE",
+        "DECLINE OF FEUDALISM"
+      ],
+      "title": "DECLINE OF FEUDALISM",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "CAUSES OF RENAISSANCE > NEW TRADE ROUTES",
+      "path_titles": [
+        "CAUSES OF RENAISSANCE",
+        "NEW TRADE ROUTES"
+      ],
+      "title": "NEW TRADE ROUTES",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "CAUSES OF RENAISSANCE > SPIRIT OF ENQUIRY > Role of Original Thinkers",
+      "path_titles": [
+        "CAUSES OF RENAISSANCE",
+        "SPIRIT OF ENQUIRY",
+        "Role of Original Thinkers"
+      ],
+      "title": "Role of Original Thinkers",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "CAUSES OF RENAISSANCE > SPIRIT OF ENQUIRY > Crusades",
+      "path_titles": [
+        "CAUSES OF RENAISSANCE",
+        "SPIRIT OF ENQUIRY",
+        "Crusades"
+      ],
+      "title": "Crusades",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "CAUSES OF RENAISSANCE > SPIRIT OF ENQUIRY > Development of Science",
+      "path_titles": [
+        "CAUSES OF RENAISSANCE",
+        "SPIRIT OF ENQUIRY",
+        "Development of Science"
+      ],
+      "title": "Development of Science",
+      "sequence_number": 3,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "INVENTION OF THE PRINTING PRESS",
+      "path_titles": [
+        "INVENTION OF THE PRINTING PRESS"
+      ],
+      "title": "INVENTION OF THE PRINTING PRESS",
+      "sequence_number": 2,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "PRINCIPLES OF RENAISSANCE > Humanism",
+      "path_titles": [
+        "PRINCIPLES OF RENAISSANCE",
+        "Humanism"
+      ],
+      "title": "Humanism",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "PRINCIPLES OF RENAISSANCE > Glorification of Human Form",
+      "path_titles": [
+        "PRINCIPLES OF RENAISSANCE",
+        "Glorification of Human Form"
+      ],
+      "title": "Glorification of Human Form",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "PRINCIPLES OF RENAISSANCE > Spirit of Enquiry",
+      "path_titles": [
+        "PRINCIPLES OF RENAISSANCE",
+        "Spirit of Enquiry"
+      ],
+      "title": "Spirit of Enquiry",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Beginning of Renaissance > ",
+      "path_titles": [
+        "Beginning of Renaissance",
+        ""
+      ],
+      "title": "",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Beginning of Renaissance > ",
+      "path_titles": [
+        "Beginning of Renaissance",
+        ""
+      ],
+      "title": "",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Beginning of Renaissance > ",
+      "path_titles": [
+        "Beginning of Renaissance",
+        ""
+      ],
+      "title": "",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "IMPACT OF RENAISSANCE > ART",
+      "path_titles": [
+        "IMPACT OF RENAISSANCE",
+        "ART"
+      ],
+      "title": "ART",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "IMPACT OF RENAISSANCE > PAINTING",
+      "path_titles": [
+        "IMPACT OF RENAISSANCE",
+        "PAINTING"
+      ],
+      "title": "PAINTING",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "IMPACT OF RENAISSANCE > SCULPTURE",
+      "path_titles": [
+        "IMPACT OF RENAISSANCE",
+        "SCULPTURE"
+      ],
+      "title": "SCULPTURE",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "IMPACT OF RENAISSANCE > LITERATURE",
+      "path_titles": [
+        "IMPACT OF RENAISSANCE",
+        "LITERATURE"
+      ],
+      "title": "LITERATURE",
+      "sequence_number": 4,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "IMPACT OF RENAISSANCE > SCIENCE",
+      "path_titles": [
+        "IMPACT OF RENAISSANCE",
+        "SCIENCE"
+      ],
+      "title": "SCIENCE",
+      "sequence_number": 5,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "CONSEQUENCES OF RENAISSANCE > Ded to the Reformation Movement in Europe",
+      "path_titles": [
+        "CONSEQUENCES OF RENAISSANCE",
+        "Ded to the Reformation Movement in Europe"
+      ],
+      "title": "Ded to the Reformation Movement in Europe",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "CONSEQUENCES OF RENAISSANCE > Development of Humanism",
+      "path_titles": [
+        "CONSEQUENCES OF RENAISSANCE",
+        "Development of Humanism"
+      ],
+      "title": "Development of Humanism",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "CONSEQUENCES OF RENAISSANCE > Development of Scientific Outlook",
+      "path_titles": [
+        "CONSEQUENCES OF RENAISSANCE",
+        "Development of Scientific Outlook"
+      ],
+      "title": "Development of Scientific Outlook",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "CONSEQUENCES OF RENAISSANCE > Rise of Monarchical Form of Government",
+      "path_titles": [
+        "CONSEQUENCES OF RENAISSANCE",
+        "Rise of Monarchical Form of Government"
+      ],
+      "title": "Rise of Monarchical Form of Government",
+      "sequence_number": 4,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "CONSEQUENCES OF RENAISSANCE > Development of Arts",
+      "path_titles": [
+        "CONSEQUENCES OF RENAISSANCE",
+        "Development of Arts"
+      ],
+      "title": "Development of Arts",
+      "sequence_number": 5,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "CONSEQUENCES OF RENAISSANCE > Rise of the Middle Class",
+      "path_titles": [
+        "CONSEQUENCES OF RENAISSANCE",
+        "Rise of the Middle Class"
+      ],
+      "title": "Rise of the Middle Class",
+      "sequence_number": 6,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "CONSEQUENCES OF RENAISSANCE > Rise and Growth of Nation States",
+      "path_titles": [
+        "CONSEQUENCES OF RENAISSANCE",
+        "Rise and Growth of Nation States"
+      ],
+      "title": "Rise and Growth of Nation States",
+      "sequence_number": 7,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "CONSEQUENCES OF RENAISSANCE > Consequences of Geographical Explorations",
+      "path_titles": [
+        "CONSEQUENCES OF RENAISSANCE",
+        "Consequences of Geographical Explorations"
+      ],
+      "title": "Consequences of Geographical Explorations",
+      "sequence_number": 8,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    }
+  ],
+  "stray_leaves": [
+    {
+      "title": "Definition of Renaissance",
+      "insert_after_index": 0,
+      "micro_topics": [],
+      "has_notes": true
+    }
+  ]
+}

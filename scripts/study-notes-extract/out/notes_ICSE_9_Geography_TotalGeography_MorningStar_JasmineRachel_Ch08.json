@@ -1,0 +1,681 @@
+{
+  "board": "ICSE",
+  "grade": 9,
+  "subject": "Geography",
+  "book_slug": "TotalGeography_MorningStar_JasmineRachel",
+  "book_meta": {
+    "book_name": "Total Geography",
+    "publication": "Morning Star",
+    "author": "Jasmine Rachel"
+  },
+  "chapter_sequence_number": 8,
+  "chapter_title": "Earthquakes",
+  "discipline": null,
+  "reconciliation": {
+    "outline": [
+      "Causes of Earthquakes",
+      "(i) Volcanoes",
+      "(ii) Plate Tectonics",
+      "(iii) Folding and Faulting",
+      "(iv) Man-made Causes",
+      "Anatomy of an Earthquake",
+      "(i) P (primary or push) waves",
+      "(ii) S (secondary or shear) waves",
+      "(iii) L (surface or long) waves",
+      "Measurements",
+      "Seismograph",
+      "Richter Scale and the Mercalli Scale",
+      "Effects of Earthquakes",
+      "(i) Constructive Effects",
+      "1. Energy release",
+      "2. Landforms",
+      "(ii) Destructive Effects",
+      "1. Collapse of structures",
+      "2. Submergence",
+      "3. Course of Rivers",
+      "4. Danger to human life",
+      "5. Landslides",
+      "6. Fires",
+      "7. Tsunami",
+      "Major Earthquakes of the World",
+      "8. Flash Floods",
+      "Distribution of Earthquakes",
+      "(i) The Circum Pacific Mountain Belt",
+      "(ii) The Mid-world Mountain Belt",
+      "(iii) The Mid-Atlantic Ridge",
+      "Predicting Earthquakes"
+    ],
+    "in_syllabus_only": [],
+    "in_pdf_only": [
+      {
+        "title": "Major Earthquakes of the World",
+        "insert_after_index": 24,
+        "micro_topics": []
+      }
+    ],
+    "additional_sections": [
+      {
+        "title": "Major Earthquakes of the World",
+        "content_md": "| Location | Year | Estimated deaths |\n|---|---|---|\n| 1. Shansi, China | 1556 | 830,000 |\n| 2. Kolkata, India | 1737 | 300,000 |\n| 3. Tangshan, China | 1976 | 255,000 |\n| 4. Gansu, China | 1920 | 200,000 |\n| 5. Near Xining China | 1927 | 200,000 |\n| 6. Kwanto, Japan | 1923 | 144,000 |\n| 7. N.E. Iran (7.1) | 1997 | 2,400 |\n| 8. Takhar (6.1) Afghanistan | 1998 | 4,200 |\n| 9. Rostaq Afghanistan (7.1) | 1998 | 5,000 |\n| 10. Izmit Turkey (7.4) | 1999 | 15,000 |\n| 11. Tapei, Taiwan (7.6) | 1999 | 1,700 |\n| 12. Gujarat, India (7.7) | 2001 | 18,300 |\n| 13. Off West Coast of Northern Sumatra (9.1) | 2004 | 2,27,898 |\n| 14. Pakistan (7.6) | 2005 | 80361 |\n| 15. China (7.9) | 2008 | 87587 |\n| 16. Near the East Coast of Honshu, Japan (9.0) | 2011 | 20896 |\n| 17. Nepal (7.8) | 2015 | 8000 |\n| 18. Indonesia (Sulawesi Province) (7.5) | 2018 | 2000 |\n| 19. Turkey (7.8) | 2023 | 40000 |"
+      }
+    ]
+  },
+  "nodes": [
+    {
+      "title": "Earthquakes",
+      "sequence_number": 1,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "Causes of Earthquakes",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Volcanoes",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Volcanic eruptions** are one of the main causes of **earthquakes**. During the volcanic eruptions, hot gases are pushed upward and they push violently the earth's crust surface upward causing earthquakes. **Volcanic activities** and seismic occurrences (**earthquakes**) are interrelated: an earthquake follows a volcanic eruption and a volcanic eruption follows an earthquake. The violent eruption of **Krakatoa volcano** between the islands of **Sumatra** and **Java** caused severe earthquake around a vast region. The earthquake generated **Tsunami** (tidal waves) which killed about 30,000 people in Java and Sumatra."
+                }
+              ]
+            },
+            {
+              "title": "Plate Tectonics",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "According to the **plate tectonic theory**, the crust of the earth is made of a series of **moveable plates**. These plates move and slide over each other. Most earthquakes occur on account of **plate movements**. When two plates slip past each other or collide against each other, their edges produce **faults** along the lines of weakness.\n\nThe **tectonic earthquakes** are most frequent. These earthquakes are immensely powerful. They occur in high risk regions of the **'Pacific Ring' of South East Asia** (Philippines and Indonesia) and northern India, along **plate boundaries**.\n\nIn India, a severe earthquake occurred at **Bhuj in Gujarat in 2001** due to lowering of the Indian plate below the Asiatic plate."
+                }
+              ]
+            },
+            {
+              "title": "Folding and Faulting",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Internal horizontal and vertical movements due to **compressional and tensional forces** cause **folding and faulting** in the earth's crust. This causes **displacement of rocks** in the crust. Such an imbalance causes earthquakes. For example, in 1906 the **San Andreas Fault** of California (USA) gave rise to a major earthquake that measured 8.3 on the Richter scale and broke the earth's surface along a 402 km length."
+                }
+              ]
+            },
+            {
+              "title": "Man-made Causes",
+              "sequence_number": 4,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": []
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "Anatomy of an Earthquake",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "P (primary or push) waves",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": []
+            },
+            {
+              "title": "S (secondary or shear) waves",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": []
+            },
+            {
+              "title": "L (surface or long) waves",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": []
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "Measurements",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Seismograph",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": []
+            },
+            {
+              "title": "Richter Scale and the Mercalli Scale",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": []
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "Effects of Earthquakes",
+          "sequence_number": 4,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Constructive Effects",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [
+                {
+                  "title": "Energy release",
+                  "sequence_number": 1,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": []
+                },
+                {
+                  "title": "Landforms",
+                  "sequence_number": 2,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": []
+                }
+              ],
+              "content_blocks": []
+            },
+            {
+              "title": "Destructive Effects",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [
+                {
+                  "title": "Collapse of structures",
+                  "sequence_number": 1,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": []
+                },
+                {
+                  "title": "Submergence",
+                  "sequence_number": 2,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": []
+                },
+                {
+                  "title": "Course of Rivers",
+                  "sequence_number": 3,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": []
+                },
+                {
+                  "title": "Danger to human life",
+                  "sequence_number": 4,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": []
+                },
+                {
+                  "title": "Landslides",
+                  "sequence_number": 5,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": []
+                },
+                {
+                  "title": "Fires",
+                  "sequence_number": 6,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": []
+                },
+                {
+                  "title": "Tsunami",
+                  "sequence_number": 7,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": []
+                },
+                {
+                  "title": "Flash Floods",
+                  "sequence_number": 8,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": []
+                }
+              ],
+              "content_blocks": []
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "Distribution of Earthquakes",
+          "sequence_number": 5,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "The Circum Pacific Mountain Belt",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": []
+            },
+            {
+              "title": "The Mid-world Mountain Belt",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": []
+            },
+            {
+              "title": "The Mid-Atlantic Ridge",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": []
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "Predicting Earthquakes",
+          "sequence_number": 6,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": []
+        }
+      ],
+      "content_blocks": []
+    }
+  ],
+  "additional_sections": [
+    {
+      "title": "Major Earthquakes of the World",
+      "content_md": "| Location | Year | Estimated deaths |\n|---|---|---|\n| 1. Shansi, China | 1556 | 830,000 |\n| 2. Kolkata, India | 1737 | 300,000 |\n| 3. Tangshan, China | 1976 | 255,000 |\n| 4. Gansu, China | 1920 | 200,000 |\n| 5. Near Xining China | 1927 | 200,000 |\n| 6. Kwanto, Japan | 1923 | 144,000 |\n| 7. N.E. Iran (7.1) | 1997 | 2,400 |\n| 8. Takhar (6.1) Afghanistan | 1998 | 4,200 |\n| 9. Rostaq Afghanistan (7.1) | 1998 | 5,000 |\n| 10. Izmit Turkey (7.4) | 1999 | 15,000 |\n| 11. Tapei, Taiwan (7.6) | 1999 | 1,700 |\n| 12. Gujarat, India (7.7) | 2001 | 18,300 |\n| 13. Off West Coast of Northern Sumatra (9.1) | 2004 | 2,27,898 |\n| 14. Pakistan (7.6) | 2005 | 80361 |\n| 15. China (7.9) | 2008 | 87587 |\n| 16. Near the East Coast of Honshu, Japan (9.0) | 2011 | 20896 |\n| 17. Nepal (7.8) | 2015 | 8000 |\n| 18. Indonesia (Sulawesi Province) (7.5) | 2018 | 2000 |\n| 19. Turkey (7.8) | 2023 | 40000 |"
+    }
+  ],
+  "needs_review": [
+    "Man-made Causes",
+    "P (primary or push) waves",
+    "S (secondary or shear) waves",
+    "L (surface or long) waves",
+    "Seismograph",
+    "Richter Scale and the Mercalli Scale",
+    "Energy release",
+    "Landforms",
+    "Collapse of structures",
+    "Submergence",
+    "Course of Rivers",
+    "Danger to human life",
+    "Landslides",
+    "Fires",
+    "Tsunami",
+    "Flash Floods",
+    "The Circum Pacific Mountain Belt",
+    "The Mid-world Mountain Belt",
+    "The Mid-Atlantic Ridge",
+    "Predicting Earthquakes"
+  ],
+  "manifest": {
+    "syllabus_leaves": [
+      {
+        "path": "Earthquakes > Causes of Earthquakes > Volcanoes",
+        "path_titles": [
+          "Earthquakes",
+          "Causes of Earthquakes",
+          "Volcanoes"
+        ],
+        "title": "Volcanoes",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Earthquakes > Causes of Earthquakes > Plate Tectonics",
+        "path_titles": [
+          "Earthquakes",
+          "Causes of Earthquakes",
+          "Plate Tectonics"
+        ],
+        "title": "Plate Tectonics",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Earthquakes > Causes of Earthquakes > Folding and Faulting",
+        "path_titles": [
+          "Earthquakes",
+          "Causes of Earthquakes",
+          "Folding and Faulting"
+        ],
+        "title": "Folding and Faulting",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Earthquakes > Causes of Earthquakes > Man-made Causes",
+        "path_titles": [
+          "Earthquakes",
+          "Causes of Earthquakes",
+          "Man-made Causes"
+        ],
+        "title": "Man-made Causes",
+        "sequence_number": 4,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": false
+      },
+      {
+        "path": "Earthquakes > Anatomy of an Earthquake > P (primary or push) waves",
+        "path_titles": [
+          "Earthquakes",
+          "Anatomy of an Earthquake",
+          "P (primary or push) waves"
+        ],
+        "title": "P (primary or push) waves",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": false
+      },
+      {
+        "path": "Earthquakes > Anatomy of an Earthquake > S (secondary or shear) waves",
+        "path_titles": [
+          "Earthquakes",
+          "Anatomy of an Earthquake",
+          "S (secondary or shear) waves"
+        ],
+        "title": "S (secondary or shear) waves",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": false
+      },
+      {
+        "path": "Earthquakes > Anatomy of an Earthquake > L (surface or long) waves",
+        "path_titles": [
+          "Earthquakes",
+          "Anatomy of an Earthquake",
+          "L (surface or long) waves"
+        ],
+        "title": "L (surface or long) waves",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": false
+      },
+      {
+        "path": "Earthquakes > Measurements > Seismograph",
+        "path_titles": [
+          "Earthquakes",
+          "Measurements",
+          "Seismograph"
+        ],
+        "title": "Seismograph",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": false
+      },
+      {
+        "path": "Earthquakes > Measurements > Richter Scale and the Mercalli Scale",
+        "path_titles": [
+          "Earthquakes",
+          "Measurements",
+          "Richter Scale and the Mercalli Scale"
+        ],
+        "title": "Richter Scale and the Mercalli Scale",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": false
+      },
+      {
+        "path": "Earthquakes > Effects of Earthquakes > Constructive Effects > Energy release",
+        "path_titles": [
+          "Earthquakes",
+          "Effects of Earthquakes",
+          "Constructive Effects",
+          "Energy release"
+        ],
+        "title": "Energy release",
+        "sequence_number": 1,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": false
+      },
+      {
+        "path": "Earthquakes > Effects of Earthquakes > Constructive Effects > Landforms",
+        "path_titles": [
+          "Earthquakes",
+          "Effects of Earthquakes",
+          "Constructive Effects",
+          "Landforms"
+        ],
+        "title": "Landforms",
+        "sequence_number": 2,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": false
+      },
+      {
+        "path": "Earthquakes > Effects of Earthquakes > Destructive Effects > Collapse of structures",
+        "path_titles": [
+          "Earthquakes",
+          "Effects of Earthquakes",
+          "Destructive Effects",
+          "Collapse of structures"
+        ],
+        "title": "Collapse of structures",
+        "sequence_number": 1,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": false
+      },
+      {
+        "path": "Earthquakes > Effects of Earthquakes > Destructive Effects > Submergence",
+        "path_titles": [
+          "Earthquakes",
+          "Effects of Earthquakes",
+          "Destructive Effects",
+          "Submergence"
+        ],
+        "title": "Submergence",
+        "sequence_number": 2,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": false
+      },
+      {
+        "path": "Earthquakes > Effects of Earthquakes > Destructive Effects > Course of Rivers",
+        "path_titles": [
+          "Earthquakes",
+          "Effects of Earthquakes",
+          "Destructive Effects",
+          "Course of Rivers"
+        ],
+        "title": "Course of Rivers",
+        "sequence_number": 3,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": false
+      },
+      {
+        "path": "Earthquakes > Effects of Earthquakes > Destructive Effects > Danger to human life",
+        "path_titles": [
+          "Earthquakes",
+          "Effects of Earthquakes",
+          "Destructive Effects",
+          "Danger to human life"
+        ],
+        "title": "Danger to human life",
+        "sequence_number": 4,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": false
+      },
+      {
+        "path": "Earthquakes > Effects of Earthquakes > Destructive Effects > Landslides",
+        "path_titles": [
+          "Earthquakes",
+          "Effects of Earthquakes",
+          "Destructive Effects",
+          "Landslides"
+        ],
+        "title": "Landslides",
+        "sequence_number": 5,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": false
+      },
+      {
+        "path": "Earthquakes > Effects of Earthquakes > Destructive Effects > Fires",
+        "path_titles": [
+          "Earthquakes",
+          "Effects of Earthquakes",
+          "Destructive Effects",
+          "Fires"
+        ],
+        "title": "Fires",
+        "sequence_number": 6,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": false
+      },
+      {
+        "path": "Earthquakes > Effects of Earthquakes > Destructive Effects > Tsunami",
+        "path_titles": [
+          "Earthquakes",
+          "Effects of Earthquakes",
+          "Destructive Effects",
+          "Tsunami"
+        ],
+        "title": "Tsunami",
+        "sequence_number": 7,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": false
+      },
+      {
+        "path": "Earthquakes > Effects of Earthquakes > Destructive Effects > Flash Floods",
+        "path_titles": [
+          "Earthquakes",
+          "Effects of Earthquakes",
+          "Destructive Effects",
+          "Flash Floods"
+        ],
+        "title": "Flash Floods",
+        "sequence_number": 8,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": false
+      },
+      {
+        "path": "Earthquakes > Distribution of Earthquakes > The Circum Pacific Mountain Belt",
+        "path_titles": [
+          "Earthquakes",
+          "Distribution of Earthquakes",
+          "The Circum Pacific Mountain Belt"
+        ],
+        "title": "The Circum Pacific Mountain Belt",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": false
+      },
+      {
+        "path": "Earthquakes > Distribution of Earthquakes > The Mid-world Mountain Belt",
+        "path_titles": [
+          "Earthquakes",
+          "Distribution of Earthquakes",
+          "The Mid-world Mountain Belt"
+        ],
+        "title": "The Mid-world Mountain Belt",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": false
+      },
+      {
+        "path": "Earthquakes > Distribution of Earthquakes > The Mid-Atlantic Ridge",
+        "path_titles": [
+          "Earthquakes",
+          "Distribution of Earthquakes",
+          "The Mid-Atlantic Ridge"
+        ],
+        "title": "The Mid-Atlantic Ridge",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": false
+      },
+      {
+        "path": "Earthquakes > Predicting Earthquakes",
+        "path_titles": [
+          "Earthquakes",
+          "Predicting Earthquakes"
+        ],
+        "title": "Predicting Earthquakes",
+        "sequence_number": 6,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": false
+      }
+    ],
+    "stray_leaves": [
+      {
+        "title": "Major Earthquakes of the World",
+        "insert_after_index": 24,
+        "micro_topics": [],
+        "has_notes": true
+      }
+    ]
+  }
+}

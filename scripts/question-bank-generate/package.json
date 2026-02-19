@@ -1,0 +1,14 @@
+{
+  "name": "question-bank-generate",
+  "version": "1.0.0",
+  "description": "Generate full question bank per chapter from study notes. See docs/QUESTION_BANK_GENERATION.md.",
+  "type": "module",
+  "scripts": {
+    "generate": "node generate-question-bank.mjs"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.0",
+    "@google/genai": "^1.0.0",
+    "js-yaml": "^4.1.0"
+  }
+}

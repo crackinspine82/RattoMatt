@@ -1,0 +1,187 @@
+{
+  "syllabus_leaves": [
+    {
+      "path": "The Sangam Age",
+      "path_titles": [
+        "The Sangam Age"
+      ],
+      "title": "The Sangam Age",
+      "sequence_number": 1,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "SOURCES > Tirukkural",
+      "path_titles": [
+        "SOURCES",
+        "Tirukkural"
+      ],
+      "title": "Tirukkural",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "SOURCES > Megaliths",
+      "path_titles": [
+        "SOURCES",
+        "Megaliths"
+      ],
+      "title": "Megaliths",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "TAMIL KINGDOMS > CHERA KINGDOM",
+      "path_titles": [
+        "TAMIL KINGDOMS",
+        "CHERA KINGDOM"
+      ],
+      "title": "CHERA KINGDOM",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "TAMIL KINGDOMS > CHOLA KINGDOM",
+      "path_titles": [
+        "TAMIL KINGDOMS",
+        "CHOLA KINGDOM"
+      ],
+      "title": "CHOLA KINGDOM",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "TAMIL KINGDOMS > PANDYAN KINGDOM",
+      "path_titles": [
+        "TAMIL KINGDOMS",
+        "PANDYAN KINGDOM"
+      ],
+      "title": "PANDYAN KINGDOM",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "LOCAL CHIEFTAINS",
+      "path_titles": [
+        "LOCAL CHIEFTAINS"
+      ],
+      "title": "LOCAL CHIEFTAINS",
+      "sequence_number": 4,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "SOCIETY > SOCIAL CLASSES",
+      "path_titles": [
+        "SOCIETY",
+        "SOCIAL CLASSES"
+      ],
+      "title": "SOCIAL CLASSES",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "FOOD AND DRESS",
+      "path_titles": [
+        "FOOD AND DRESS"
+      ],
+      "title": "FOOD AND DRESS",
+      "sequence_number": 6,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "ENTERTAINMENT",
+      "path_titles": [
+        "ENTERTAINMENT"
+      ],
+      "title": "ENTERTAINMENT",
+      "sequence_number": 7,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "POSITION OF WOMEN",
+      "path_titles": [
+        "POSITION OF WOMEN"
+      ],
+      "title": "POSITION OF WOMEN",
+      "sequence_number": 8,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "MARRIAGE",
+      "path_titles": [
+        "MARRIAGE"
+      ],
+      "title": "MARRIAGE",
+      "sequence_number": 9,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "ECONOMY",
+      "path_titles": [
+        "ECONOMY"
+      ],
+      "title": "ECONOMY",
+      "sequence_number": 10,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "AGRICULTURE",
+      "path_titles": [
+        "AGRICULTURE"
+      ],
+      "title": "AGRICULTURE",
+      "sequence_number": 11,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "OTHER OCCUPATIONS",
+      "path_titles": [
+        "OTHER OCCUPATIONS"
+      ],
+      "title": "OTHER OCCUPATIONS",
+      "sequence_number": 12,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "TRADE",
+      "path_titles": [
+        "TRADE"
+      ],
+      "title": "TRADE",
+      "sequence_number": 13,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    }
+  ],
+  "stray_leaves": []
+}

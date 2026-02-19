@@ -1,0 +1,719 @@
+{
+  "board": "ICSE",
+  "grade": 9,
+  "subject": "HistoryCivics",
+  "book_slug": "TotalHistoryCivics_MorningStar_DollyESequeira",
+  "book_meta": {
+    "book_name": "Total History & Civics",
+    "publication": "Morning Star",
+    "author": "Dolly E. Sequeira"
+  },
+  "chapter_sequence_number": 13,
+  "chapter_title": "The Modern Age in Europe (C) Industrial Revolution",
+  "discipline": "history",
+  "reconciliation": {
+    "outline": [
+      "CAUSES OF THE INDUSTRIAL REVOLUTION",
+      "1. Congenial Atmosphere",
+      "2. Colonial Empire",
+      "3. Availability of Natural Resources",
+      "4. Increase in the Demand for Goods",
+      "5. Availability of Labour",
+      "6. Effective Transport System",
+      "7. Use of Steam",
+      "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM",
+      "1. CAPITALISM",
+      "Causes for the Rise of Capitalism",
+      "1. Increase in Population",
+      "2. Legal Requirement",
+      "3. Growth of Towns",
+      "4. Mass Production",
+      "5. Disappearance of Small Farmers",
+      "IMPACT OF CAPITALISM",
+      "1. Loss of Traditional Jobs",
+      "2. Exploitation",
+      "3. Stress and Strain",
+      "4. Overcrowding",
+      "2. SOCIALISM",
+      "Meaning of Socialism",
+      "Early Socialists",
+      "CAUSES FOR THE RISE OF SOCIALISM",
+      "(i) As a Reaction to the Evils of Capitalism",
+      "(ii) Trade Union Movement",
+      "(iii) The Chartist Movement",
+      "MARXIST SOCIALISM",
+      "Comparative Study Between Capitalism and Socialism"
+    ],
+    "in_syllabus_only": [],
+    "in_pdf_only": [
+      {
+        "title": "Introduction to the Industrial Revolution",
+        "insert_after_index": 0,
+        "micro_topics": []
+      }
+    ],
+    "additional_sections": [
+      {
+        "title": "Introduction to the Industrial Revolution",
+        "content_md": "The term 'Industrial Revolution' denotes all those changes that took place in the field of industry during the second half of the 18th century and the first half of the 19th century. Until this period, goods were manufactured at home with hand. However during the period of the Industrial Revolution, the employer made his workers to use machines in his factory. The employees were paid wages for their labour. The period marked a change from handwork to machine work and from domestic system to factory system of production.\n\nIn short, the Industrial Revolution is the name given to a series of changes that brought about a transition from production by hand to production by machine, from small-scale production to large-scale production, from handmade goods to machine-made goods.\n\nIndustrial Revolution was unlike any other revolution. It was not sudden, not violent; there was no bloodshed, nor loss to life and property. The Revolution was peaceful. It began in England around mid-eighteenth century by mass production of goods; and within a hundred years it brought in revolutionary changes in the political, social and economic life of the people."
+      }
+    ]
+  },
+  "nodes": [
+    {
+      "title": "CAUSES OF THE INDUSTRIAL REVOLUTION",
+      "sequence_number": 1,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "Congenial Atmosphere",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "After the **Renaissance** and the **Reformation**, Englishmen began to enjoy the **freedom of thought and expression**. There was scope for experimentation; and the government did not interfere in their daily life. It was in this atmosphere that the Englishmen thought of new methods of production in different fields. The large number of inventions made by the **British scientists**, brought about a revolution in industry in England."
+            },
+            {
+              "content_md": "Invention of machinery and its use in manufacturing was the starting point of **Industrial Revolution**. **John Key**, a weaver of Lancashire, invented **'The Flying Shuttle'** which increased the speed of weaving. It also made the weaving of broad cloth by one person possible. A Lancashire weaver named **James Hargreaves** invented a machine called the **Spinning Jenny**. It could spin eight threads at a time instead of one thread of the old-fashioned spinning wheel. Yarn spun on the Jenny was not very strong. Then, **Richard Arkwright** invented the **'Water Frame'**. It produced harder and stronger yarn than that of the Spinning Jenny, but it was run by water power. It ushered in the **factory system**.\n\n[Image: Spinning Jenny]"
+            }
+          ]
+        },
+        {
+          "title": "Colonial Empire",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "England had a large **colonial empire**. From her colonies she could get **raw material** at cheaper rates for her factories. These colonies also served as **markets** for the British manufactured goods."
+            }
+          ]
+        },
+        {
+          "title": "Availability of Natural Resources",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**Natural resources** such as **iron** and **coal** were available in England. The iron and coal mines were situated close to each other. **Iron** was used in making machines. The **coal** provided cheap fuel. Both these factors helped in the development of industries."
+            }
+          ]
+        },
+        {
+          "title": "Increase in the Demand for Goods",
+          "sequence_number": 4,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The incentive to produce more and more goods was provided by two factors:\n*   First, the **huge profits of expanding trade** provided an impetus to discover new ways of increasing her production.\n*   Second, the **Napoleonic wars** made the English industries quite active. The Napoleonic wars damaged trade and industry of the continental countries. Since these wars were never fought in Britain, the long period of peace in Britain proved conducive to industrial production."
+            }
+          ]
+        },
+        {
+          "title": "Availability of Labour",
+          "sequence_number": 5,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **feudal system** broke down and the **Agrarian Revolution** preceded the **Industrial Revolution** in England. As a result, a large number of **peasants** were **unemployed** who **shifted to cities**. So many **labourers** were available in England to be employed in the factories."
+            }
+          ]
+        },
+        {
+          "title": "Effective Transport System",
+          "sequence_number": 6,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "A good transport system is necessary for effective **trade and commerce**. In the second half of the **18th century**, the transport system in **England** was adequate. The use of **tarcoal and tar** enabled the construction of roads in many European countries. **Steamboats and steamships** were used extensively. **George Stephenson** designed his first **locomotive engine**, which was used for hauling coal in the **Killingworth colliery**. This brought about a **revolution in transport**."
+            }
+          ]
+        },
+        {
+          "title": "Use of Steam",
+          "sequence_number": 7,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**James Watt** invented the **steam engine**. The discovery of **steam** as a source of power facilitated the **Industrial Revolution**. At the turn of the nineteenth century **steam-power** was used for transport both on land and sea. Thus, the transport system was revolutionised.\n\n[Image: James Watt]\n\n[Image: Steam Engine]"
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    },
+    {
+      "title": "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM",
+      "sequence_number": 2,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "CAPITALISM",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Causes for the Rise of Capitalism",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [
+                {
+                  "title": "Increase in Population",
+                  "sequence_number": 1,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "The **Industrial Revolution** increased the national wealth, raised the standard of living, and made life more comfortable. All this helped in checking the onslaught of various diseases. Thus, it led to an **increase in population**."
+                    },
+                    {
+                      "content_md": "One of the most obvious changes in people's lives was that more people moved into the **urban areas** where factories were located. The rural population had risen sharply as **new sources of food** became available, and **death rates declined** due to fewer plagues and wars. At the same time, many small farms disappeared. Thus, people from the rural areas migrated to the urban areas for **employment, education, cultural benefits, better freedom and enjoyment**."
+                    }
+                  ]
+                },
+                {
+                  "title": "Legal Requirement",
+                  "sequence_number": 2,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "There was the new **enclosure law** which required farmers to put fences or hedges around their fields to prevent common grazing on the land. Small farmers who could not afford to enclose their fields had to sell out their farms to larger landholders and search for work elsewhere. These factors combined to provide a **ready workforce** for the new industries."
+                    }
+                  ]
+                },
+                {
+                  "title": "Growth of Towns",
+                  "sequence_number": 3,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "New **manufacturing towns** and **cities** grew dramatically. Many of these cities were located close to the **coalfields** that supplied fuel to the factories. Factories had to be close to sources of power because power could not be distributed very far. The names of British factory cities soon symbolised **industrialisation** to the wider world: **Liverpool**, **Birmingham**, **Leeds**, **Glasgow**, **Sheffield** and especially **Manchester**."
+                    }
+                  ]
+                },
+                {
+                  "title": "Mass Production",
+                  "sequence_number": 4,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "**Mass production** destroyed the **domestic system of production**. The growth of industries and the use of huge machines gave rise to **factories**. The people of villages shifted to towns for employment in the factories. This in turn led to the growth of new towns in England such as **Manchester**, **Birmingham**, **Sheffield** and **Leeds**. It made modern civilisation essentially **urban** in character."
+                    }
+                  ]
+                },
+                {
+                  "title": "Disappearance of Small Farmers",
+                  "sequence_number": 5,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "The **small farmers** who cultivated land and manufactured goods in their spare time, in their homes shifted to new **industrial towns**. They were forced to seek employment in factories because they were replaced by **big landlords**. In **pre-industrial England**, more than **three-quarters** of the population lived in small villages. By the **mid-19th century**, however, the country had made history by becoming the first nation with half its population in cities. By **1850** millions of British people lived in crowded, grim industrial cities. Reformers began to speak of the mills and factories as dark, evil places."
+                    }
+                  ]
+                }
+              ],
+              "content_blocks": []
+            },
+            {
+              "title": "IMPACT OF CAPITALISM",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [
+                {
+                  "title": "Loss of Traditional Jobs",
+                  "sequence_number": 1,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "The movement of people away from agriculture and into industrial cities brought great stress on the **labour force**. Women in households, who had earned income from **spinning**, found the new factories taking away their source of income. **Traditional handloom weavers** could no longer compete with the **mechanised production** of cloth. **Skilled labourers** lost their jobs as new machines replaced them."
+                    }
+                  ]
+                },
+                {
+                  "title": "Exploitation",
+                  "sequence_number": 2,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "In the factories, people had to work **long hours** under **harsh conditions**. Factory owners and managers paid the **minimum amount necessary** for a workforce, often recruiting **women and children** to tend the machines because they could be hired for **very low wages**. Soon critics attacked this exploitation, particularly the use of **child labour**."
+                    }
+                  ]
+                },
+                {
+                  "title": "Stress and Strain",
+                  "sequence_number": 3,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "The nature of work changed as a result of **division of labour**. This idea in the Industrial Revolution called for dividing the production process into basic, individual tasks. Each worker would then perform one task, rather than a single worker doing the entire job. Such **division of labour** greatly improved productivity, but many of the simplified factory jobs were repetitive and boring. Workers also had to labour for many hours, often more than **12 hours a day**, sometimes more than **14 hours**, and people worked **six days a week**. Factory workers faced **strict rules** and **close supervision** by the managers. **Safety was not a matter of concern**, and workers often suffered serious even fatal accidents. The clock ruled life in the mills, which caused a lot of stress among the workers."
+                    }
+                  ]
+                },
+                {
+                  "title": "Overcrowding",
+                  "sequence_number": 4,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "People moved from small villages and towns to work in factories located in cities. Cities became **overcrowded and unsanitary**. The **working poor** lived in crowded areas in the centre of cities in **shoddy houses**. Many lived in **overcrowded tenements** where family members were often forced to share the same bed.\n\nInevitably, **pollution** followed population growth. The air was made foul by fumes from **fossil fuels** such as coal and wood and led to a number of **occupational diseases**. **Sewage and industrial discharge** polluted rivers and streams and tainted the water supplies.\n\nHowever, by about the 1820s, income levels for most workers began to improve, and people adjusted to the different circumstances and conditions. By that time, Britain had changed forever. The economy was expanding at a rate that was more than twice the pace at which it had grown before the Industrial Revolution. Although vast differences existed between the rich and the poor, most of the population enjoyed some of the fruits of economic growth. The widespread poverty and constant threat of mass starvation that had haunted the pre-industrial age reduced in industrial Britain."
+                    }
+                  ]
+                }
+              ],
+              "content_blocks": []
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "SOCIALISM",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Meaning of Socialism",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Different writers have defined the term **‘Socialism’** differently but almost all have visualised an active role of the State in the economy. **Babeuf**, one of the early Socialist thinkers, even went to the extent of visualising a republic of equals whose welcoming doors will be open to all mankind.\n\n**Socialism** is defined as an economic system in which the **means of production** are owned not by private individuals but by the **community** in order that all may share more fairly in the wealth produced.\n\nThe evil effects of **Capitalism** and the spirit of improving the condition of workers gave birth to socialism. The ultimate goal of **Socialism** is to eliminate **class struggle** between the capitalists and the workers and form a **classless society**. In order to achieve these objectives, government control over production and distribution of important things is considered necessary. Socialists maintain that all factors of production should belong to the entire human race or society."
+                },
+                {
+                  "content_md": "**Socialism** is based on three principles:\n*   It is opposed to private capitalism.\n*   It is the voice of all workers and the working class.\n*   It demands a just distribution of wealth.\n\nThe **Laissez faire** doctrine never came to be practised in its true sense. Even England, one of its staunch supporters, could not do without the State taking up many of the initiatives specially the public works and public health programmes, which the capitalists under laissez faire could hardly do. On the other hand, many forms of Socialism exist today even after the break up of the erstwhile Union of Socialist Soviet Republics (USSR). Only the degree of State control varies from State to State."
+                }
+              ]
+            },
+            {
+              "title": "Early Socialists",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "By the middle of the 18th century there arose many political thinkers who favoured some of the above ideas. They all wanted the existing social and economic systems replaced by a new system in which the **means of production** would be owned by the society as a whole and not by a few capitalists."
+                },
+                {
+                  "content_md": "The first socialists were Frenchmen—**Babeuf**, **Saint-Simon**, **Fourier** and others. **Robert Owen (1771-1858)** has been called \"**the Father of British Socialism**\". He owned a cotton mill in Scotland. He reduced the labourers' working hours, paid them good wages and helped the Trade Union Movement to grow."
+                }
+              ]
+            },
+            {
+              "title": "CAUSES FOR THE RISE OF SOCIALISM",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [
+                {
+                  "title": "As a Reaction to the Evils of Capitalism",
+                  "sequence_number": 1,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "As a result of the **Industrial Revolution** the society was divided into two distinct classes—the **capitalists** and the **socialists**. The capitalists had their selfish interests and they began to **exploit the workers**. They paid them low wages and made them work for long hours. They amassed great wealth and began to lead a luxurious life at the cost of the workers. The rich were becoming richer and the poor, still poorer. This gulf went on widening and created **social disharmony** and ultimately led to struggle between the two classes. The socialists took the cause of the workers and tried to save them from the exploitation of the capitalists."
+                    }
+                  ]
+                },
+                {
+                  "title": "Trade Union Movement",
+                  "sequence_number": 2,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "The strong **Trade Union Movement** had forced the British government to recognise the **rights of workers**. It had brought the **division of society into the rich and the poor** into sharp focus. This had led to rethinking among the vast majority of workers."
+                    }
+                  ]
+                },
+                {
+                  "title": "The Chartist Movement",
+                  "sequence_number": 3,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "Between **1836 and 1848**, the condition of the labour in Britain was very bad. They had to face many hardships and wanted **social and political equality**. Their leaders put up their demands before the Parliament in the form of a **charter**. Hence, the movement was named the **Chartist Movement**. It aimed at getting the **right to vote for workers**. It led to many riots and strikes and the movement declined in the **mid 19th century**."
+                    }
+                  ]
+                }
+              ],
+              "content_blocks": []
+            },
+            {
+              "title": "MARXIST SOCIALISM",
+              "sequence_number": 4,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Karl Marx** (1818-83) was a German political philosopher and economist. His long time associate **Frederick Engels** (1820-1895) whom he had met in France in 1844 was his collaborator in writing the **Communist Manifesto**. Because of his revolutionary ideas Marx had been compelled to leave Germany and make London his homeland. Both Marx and Engels lived in London. They had earlier prepared a charter of Demands or a Manifesto for the German Communist League. This document was later given the shape of **Communist Manifesto** published in **1848**. Another famous book of Marx and Engels is **Das Kapital**. Marx could complete only the first volume before his death in 1883. The remaining two volumes were published by Engels several years later."
+                },
+                {
+                  "content_md": "[Image: Frederick Engels]\n\n**Karl Marx** considered capitalist society as a society divided between two classes — the **working class** which produces all value; and the **owning and employing class**, which without producing anything, exploits the value or profits. This leads to a **class struggle** between the working class and the employing class. Eventually, this class struggle leads to a crisis, causing the collapse of the capitalist system. The working class would take over power, organise production for its own benefit as a class. This new society would be **'socialist'** in nature, a society without exploitation. The system behind this society is known as **'Marxist Socialism'** or **'Socialism'** as conceived by Karl Marx himself. In a socialist society, **private property** in the means of production would be headed by **co-operative ownership**. A socialist economy would not base production on the creation of private profits, but would instead base production and economic activity on the criteria of satisfying human needs, i.e., production would be carried out directly for use. Eventually, Socialism would give way to a **Communism**, i.e., a classless, stateless system based on common ownership and free access and maximum freedom to individuals to develop their own capacities and talents.\n\n[Image: Karl Marx]"
+                },
+                {
+                  "content_md": "After the death of Karl Marx a new **democratic Socialism** came to the scene. **Bernstein** did not agree with the principle of class struggle advocated by Marx. He said that socialist objectives should be achieved through **democratic means**.\n\nThe revolutionary movement in **Russia** overthrew the Czarist regime in **1917**. **Lenin** and **Trotsky** were the chief organisers of this **Communist Revolution**. On **October 1, 1949**, a Communist regime was established in **China** under the leadership of **Mao Tse-tung**. In **India** too socialist parties emerged. In **1934** a **Socialist party** was established in India under the leadership of **Acharya Narendra Dev**, **Achyut Patwardhan**, **Jayaprakash Narayan** and **Dr. Ram Manohar Lohia**. In the present scenario there seems to be a balance between Capitalism and Socialism. Socialism now has the connotation for working further for the promotion of a just **Welfare State**. Socialists now concentrate on such issues as protection against unemployment, illness and injury. They also pay special attention to provide old-age pension. Whatever may be the principles, mankind is marching towards establishing a just and benevolent State.\n\n[Image: Lenin]"
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        }
+      ],
+      "content_blocks": []
+    }
+  ],
+  "additional_sections": [
+    {
+      "title": "Introduction to the Industrial Revolution",
+      "content_md": "The term 'Industrial Revolution' denotes all those changes that took place in the field of industry during the second half of the 18th century and the first half of the 19th century. Until this period, goods were manufactured at home with hand. However during the period of the Industrial Revolution, the employer made his workers to use machines in his factory. The employees were paid wages for their labour. The period marked a change from handwork to machine work and from domestic system to factory system of production.\n\nIn short, the Industrial Revolution is the name given to a series of changes that brought about a transition from production by hand to production by machine, from small-scale production to large-scale production, from handmade goods to machine-made goods.\n\nIndustrial Revolution was unlike any other revolution. It was not sudden, not violent; there was no bloodshed, nor loss to life and property. The Revolution was peaceful. It began in England around mid-eighteenth century by mass production of goods; and within a hundred years it brought in revolutionary changes in the political, social and economic life of the people."
+    }
+  ],
+  "needs_review": [],
+  "manifest": {
+    "syllabus_leaves": [
+      {
+        "path": "CAUSES OF THE INDUSTRIAL REVOLUTION > Congenial Atmosphere",
+        "path_titles": [
+          "CAUSES OF THE INDUSTRIAL REVOLUTION",
+          "Congenial Atmosphere"
+        ],
+        "title": "Congenial Atmosphere",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "CAUSES OF THE INDUSTRIAL REVOLUTION > Colonial Empire",
+        "path_titles": [
+          "CAUSES OF THE INDUSTRIAL REVOLUTION",
+          "Colonial Empire"
+        ],
+        "title": "Colonial Empire",
+        "sequence_number": 2,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "CAUSES OF THE INDUSTRIAL REVOLUTION > Availability of Natural Resources",
+        "path_titles": [
+          "CAUSES OF THE INDUSTRIAL REVOLUTION",
+          "Availability of Natural Resources"
+        ],
+        "title": "Availability of Natural Resources",
+        "sequence_number": 3,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "CAUSES OF THE INDUSTRIAL REVOLUTION > Increase in the Demand for Goods",
+        "path_titles": [
+          "CAUSES OF THE INDUSTRIAL REVOLUTION",
+          "Increase in the Demand for Goods"
+        ],
+        "title": "Increase in the Demand for Goods",
+        "sequence_number": 4,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "CAUSES OF THE INDUSTRIAL REVOLUTION > Availability of Labour",
+        "path_titles": [
+          "CAUSES OF THE INDUSTRIAL REVOLUTION",
+          "Availability of Labour"
+        ],
+        "title": "Availability of Labour",
+        "sequence_number": 5,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "CAUSES OF THE INDUSTRIAL REVOLUTION > Effective Transport System",
+        "path_titles": [
+          "CAUSES OF THE INDUSTRIAL REVOLUTION",
+          "Effective Transport System"
+        ],
+        "title": "Effective Transport System",
+        "sequence_number": 6,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "CAUSES OF THE INDUSTRIAL REVOLUTION > Use of Steam",
+        "path_titles": [
+          "CAUSES OF THE INDUSTRIAL REVOLUTION",
+          "Use of Steam"
+        ],
+        "title": "Use of Steam",
+        "sequence_number": 7,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM > CAPITALISM > Causes for the Rise of Capitalism > Increase in Population",
+        "path_titles": [
+          "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM",
+          "CAPITALISM",
+          "Causes for the Rise of Capitalism",
+          "Increase in Population"
+        ],
+        "title": "Increase in Population",
+        "sequence_number": 1,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM > CAPITALISM > Causes for the Rise of Capitalism > Legal Requirement",
+        "path_titles": [
+          "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM",
+          "CAPITALISM",
+          "Causes for the Rise of Capitalism",
+          "Legal Requirement"
+        ],
+        "title": "Legal Requirement",
+        "sequence_number": 2,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM > CAPITALISM > Causes for the Rise of Capitalism > Growth of Towns",
+        "path_titles": [
+          "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM",
+          "CAPITALISM",
+          "Causes for the Rise of Capitalism",
+          "Growth of Towns"
+        ],
+        "title": "Growth of Towns",
+        "sequence_number": 3,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM > CAPITALISM > Causes for the Rise of Capitalism > Mass Production",
+        "path_titles": [
+          "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM",
+          "CAPITALISM",
+          "Causes for the Rise of Capitalism",
+          "Mass Production"
+        ],
+        "title": "Mass Production",
+        "sequence_number": 4,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM > CAPITALISM > Causes for the Rise of Capitalism > Disappearance of Small Farmers",
+        "path_titles": [
+          "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM",
+          "CAPITALISM",
+          "Causes for the Rise of Capitalism",
+          "Disappearance of Small Farmers"
+        ],
+        "title": "Disappearance of Small Farmers",
+        "sequence_number": 5,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM > CAPITALISM > IMPACT OF CAPITALISM > Loss of Traditional Jobs",
+        "path_titles": [
+          "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM",
+          "CAPITALISM",
+          "IMPACT OF CAPITALISM",
+          "Loss of Traditional Jobs"
+        ],
+        "title": "Loss of Traditional Jobs",
+        "sequence_number": 1,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM > CAPITALISM > IMPACT OF CAPITALISM > Exploitation",
+        "path_titles": [
+          "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM",
+          "CAPITALISM",
+          "IMPACT OF CAPITALISM",
+          "Exploitation"
+        ],
+        "title": "Exploitation",
+        "sequence_number": 2,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM > CAPITALISM > IMPACT OF CAPITALISM > Stress and Strain",
+        "path_titles": [
+          "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM",
+          "CAPITALISM",
+          "IMPACT OF CAPITALISM",
+          "Stress and Strain"
+        ],
+        "title": "Stress and Strain",
+        "sequence_number": 3,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM > CAPITALISM > IMPACT OF CAPITALISM > Overcrowding",
+        "path_titles": [
+          "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM",
+          "CAPITALISM",
+          "IMPACT OF CAPITALISM",
+          "Overcrowding"
+        ],
+        "title": "Overcrowding",
+        "sequence_number": 4,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM > SOCIALISM > Meaning of Socialism",
+        "path_titles": [
+          "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM",
+          "SOCIALISM",
+          "Meaning of Socialism"
+        ],
+        "title": "Meaning of Socialism",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM > SOCIALISM > Early Socialists",
+        "path_titles": [
+          "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM",
+          "SOCIALISM",
+          "Early Socialists"
+        ],
+        "title": "Early Socialists",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM > SOCIALISM > CAUSES FOR THE RISE OF SOCIALISM > As a Reaction to the Evils of Capitalism",
+        "path_titles": [
+          "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM",
+          "SOCIALISM",
+          "CAUSES FOR THE RISE OF SOCIALISM",
+          "As a Reaction to the Evils of Capitalism"
+        ],
+        "title": "As a Reaction to the Evils of Capitalism",
+        "sequence_number": 1,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM > SOCIALISM > CAUSES FOR THE RISE OF SOCIALISM > Trade Union Movement",
+        "path_titles": [
+          "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM",
+          "SOCIALISM",
+          "CAUSES FOR THE RISE OF SOCIALISM",
+          "Trade Union Movement"
+        ],
+        "title": "Trade Union Movement",
+        "sequence_number": 2,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM > SOCIALISM > CAUSES FOR THE RISE OF SOCIALISM > The Chartist Movement",
+        "path_titles": [
+          "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM",
+          "SOCIALISM",
+          "CAUSES FOR THE RISE OF SOCIALISM",
+          "The Chartist Movement"
+        ],
+        "title": "The Chartist Movement",
+        "sequence_number": 3,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM > SOCIALISM > MARXIST SOCIALISM",
+        "path_titles": [
+          "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM",
+          "SOCIALISM",
+          "MARXIST SOCIALISM"
+        ],
+        "title": "MARXIST SOCIALISM",
+        "sequence_number": 4,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      }
+    ],
+    "stray_leaves": [
+      {
+        "title": "Introduction to the Industrial Revolution",
+        "insert_after_index": 0,
+        "micro_topics": [],
+        "has_notes": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "count-pdf-pages",
+  "version": "1.0.0",
+  "description": "Print the number of pages in a PDF. Use for --pages=N or stub_page_counts.",
+  "type": "module",
+  "scripts": {
+    "count": "node count-pages.mjs"
+  },
+  "dependencies": {
+    "pdf-lib": "^1.17.1"
+  }
+}

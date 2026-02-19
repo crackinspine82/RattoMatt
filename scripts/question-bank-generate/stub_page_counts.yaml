@@ -1,0 +1,12 @@
+# Stub page counts when chapter PDF page count is not yet in DB.
+# Use only for test or until study-notes-generate + curation import has run (page_count in chapters).
+# Remove or update entries when re-extraction is done and page_count is in DB.
+# Format: chapter_sequence_number + discipline -> page_count
+
+stub_page_counts:
+  - chapter: 1
+    discipline: history
+    page_count: 25
+  - chapter: 1
+    discipline: civics
+    page_count: 6

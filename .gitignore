@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Build outputs
+dist/
+backend/dist/
+curation-app/dist/
+web-build/
+
+# Backend uploads (local dev; production uses object storage)
+backend/uploads/
+uploads/
+
+# IDE and OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Logs and debug
+*.log
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# TypeScript
+*.tsbuildinfo
+
+# Optional: uncomment if you don't want to track Cursor project state
+# .cursor/

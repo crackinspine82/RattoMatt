@@ -1,0 +1,9 @@
+---
+description: Content model rules and rubric requirements
+alwaysApply: true
+---
+# Content Model Rules
+- Question types are subject-specific and must be extensible.
+- Support multi-part questions and shared stimulus.
+- Rubrics are weighted bullet points; partial marks allowed (0.5 increments).
+- Use `docs/content_model_icse_grade_9_history_civics.md` as the baseline template.

@@ -1,0 +1,14 @@
+{
+  "name": "study-notes-extract",
+  "version": "1.0.0",
+  "description": "Extract study notes from chapter PDFs, reconcile with syllabus, output JSON for curation and DB seed",
+  "type": "module",
+  "scripts": {
+    "extract": "node extract-study-notes.mjs",
+    "dry-run": "node extract-study-notes.mjs --dry-run"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.0",
+    "@google/genai": "^1.0.0"
+  }
+}

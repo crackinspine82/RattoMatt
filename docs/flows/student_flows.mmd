@@ -1,0 +1,25 @@
+%% Student Flows (Full Screen Detail) - Mermaid
+%% Soft UI palette references:
+%% Primary: #6E62E5, Secondary: #A09AE0, BG: #F6F8FD
+
+flowchart TD
+  A[Parent Dashboard] --> B[Enter Student Mode]
+  B --> C[Lock Navigation + Timer]
+  C --> D{Choose Mode}
+  D -->|RapidFire| E[Select Session Type]
+  D -->|Flashcards| F[Start Flashcards]
+
+  E --> G[RapidFire Session (Timed)]
+  G --> H[Answer Questions (Objective)]
+  H --> I{Time left?}
+  I -->|Yes| H
+  I -->|No| J[Auto-Submit]
+  J --> K[Session Summary]
+
+  F --> L[View Card]
+  L --> M{Next Card?}
+  M -->|Yes| L
+  M -->|No| N[Exit Flashcards]
+
+  K --> O[Parent Unlock (PIN/Biometrics)]
+  N --> O

@@ -1,0 +1,581 @@
+{
+  "syllabus_leaves": [
+    {
+      "path": "SYLLABUS > The Mauryan Empire",
+      "path_titles": [
+        "SYLLABUS",
+        "The Mauryan Empire"
+      ],
+      "title": "The Mauryan Empire",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": false
+    },
+    {
+      "path": "SYLLABUS > Sources: Arthashastra, Indika, Ashokan Edicts, Sanchi Stupa.",
+      "path_titles": [
+        "SYLLABUS",
+        "Sources: Arthashastra, Indika, Ashokan Edicts, Sanchi Stupa."
+      ],
+      "title": "Sources: Arthashastra, Indika, Ashokan Edicts, Sanchi Stupa.",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": false
+    },
+    {
+      "path": "SYLLABUS > Political history and administration (Chandragupta Maurya and Ashoka); Ashoka's Dhamma.",
+      "path_titles": [
+        "SYLLABUS",
+        "Political history and administration (Chandragupta Maurya and Ashoka); Ashoka's Dhamma."
+      ],
+      "title": "Political history and administration (Chandragupta Maurya and Ashoka); Ashoka's Dhamma.",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": false
+    },
+    {
+      "path": "THE MAURYAS",
+      "path_titles": [
+        "THE MAURYAS"
+      ],
+      "title": "THE MAURYAS",
+      "sequence_number": 2,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "SOURCES > LITERARY SOURCES > (i) Arthashastra of Kautilya",
+      "path_titles": [
+        "SOURCES",
+        "LITERARY SOURCES",
+        "(i) Arthashastra of Kautilya"
+      ],
+      "title": "(i) Arthashastra of Kautilya",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "SOURCES > LITERARY SOURCES > (ii) Indika",
+      "path_titles": [
+        "SOURCES",
+        "LITERARY SOURCES",
+        "(ii) Indika"
+      ],
+      "title": "(ii) Indika",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "SOURCES > ARCHAEOLOGICAL SOURCES > (i) Edicts of Ashoka",
+      "path_titles": [
+        "SOURCES",
+        "ARCHAEOLOGICAL SOURCES",
+        "(i) Edicts of Ashoka"
+      ],
+      "title": "(i) Edicts of Ashoka",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "SOURCES > ARCHAEOLOGICAL SOURCES > (ii) Sanchi Stupa",
+      "path_titles": [
+        "SOURCES",
+        "ARCHAEOLOGICAL SOURCES",
+        "(ii) Sanchi Stupa"
+      ],
+      "title": "(ii) Sanchi Stupa",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "THE MAURYAN EMPIRE > CHANDRAGUPTA MAURYA",
+      "path_titles": [
+        "THE MAURYAN EMPIRE",
+        "CHANDRAGUPTA MAURYA"
+      ],
+      "title": "CHANDRAGUPTA MAURYA",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "THE MAURYAN EMPIRE > BINDUSARA",
+      "path_titles": [
+        "THE MAURYAN EMPIRE",
+        "BINDUSARA"
+      ],
+      "title": "BINDUSARA",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "THE MAURYAN EMPIRE > ASHOKA",
+      "path_titles": [
+        "THE MAURYAN EMPIRE",
+        "ASHOKA"
+      ],
+      "title": "ASHOKA",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "THE MAURYAN EMPIRE > Kalinga War",
+      "path_titles": [
+        "THE MAURYAN EMPIRE",
+        "Kalinga War"
+      ],
+      "title": "Kalinga War",
+      "sequence_number": 4,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "THE MAURYAN EMPIRE > Consequences of Kalinga War > (i) The death and destruction caused by the Kalinga war brought about a great change in the personal and political life of Ashoka.",
+      "path_titles": [
+        "THE MAURYAN EMPIRE",
+        "Consequences of Kalinga War",
+        "(i) The death and destruction caused by the Kalinga war brought about a great change in the personal and political life of Ashoka."
+      ],
+      "title": "(i) The death and destruction caused by the Kalinga war brought about a great change in the personal and political life of Ashoka.",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "THE MAURYAN EMPIRE > Consequences of Kalinga War > (ii) Kalinga changed Ashoka's personal life.",
+      "path_titles": [
+        "THE MAURYAN EMPIRE",
+        "Consequences of Kalinga War",
+        "(ii) Kalinga changed Ashoka's personal life."
+      ],
+      "title": "(ii) Kalinga changed Ashoka's personal life.",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "THE MAURYAN EMPIRE > Consequences of Kalinga War > (iii) The prisoners of war were used for agricultural work.",
+      "path_titles": [
+        "THE MAURYAN EMPIRE",
+        "Consequences of Kalinga War",
+        "(iii) The prisoners of war were used for agricultural work."
+      ],
+      "title": "(iii) The prisoners of war were used for agricultural work.",
+      "sequence_number": 3,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "THE MAURYAN EMPIRE > Consequences of Kalinga War > (iv) Ashoka himself went on tours to preach Buddhism to people.",
+      "path_titles": [
+        "THE MAURYAN EMPIRE",
+        "Consequences of Kalinga War",
+        "(iv) Ashoka himself went on tours to preach Buddhism to people."
+      ],
+      "title": "(iv) Ashoka himself went on tours to preach Buddhism to people.",
+      "sequence_number": 4,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "THE MAURYAN EMPIRE > Consequences of Kalinga War > (v) Ashoka, after the Kalinga War, embraced Buddhism and followed the Buddhist principles in his State Policy like non-violence and disapproval of empty rituals,",
+      "path_titles": [
+        "THE MAURYAN EMPIRE",
+        "Consequences of Kalinga War",
+        "(v) Ashoka, after the Kalinga War, embraced Buddhism and followed the Buddhist principles in his State Policy like non-violence and disapproval of empty rituals,"
+      ],
+      "title": "(v) Ashoka, after the Kalinga War, embraced Buddhism and followed the Buddhist principles in his State Policy like non-violence and disapproval of empty rituals,",
+      "sequence_number": 5,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "THE MAURYAN EMPIRE > Consequences of Kalinga War > (vi) He got erected several pillars and edicts to spread the teachings of Buddhism.",
+      "path_titles": [
+        "THE MAURYAN EMPIRE",
+        "Consequences of Kalinga War",
+        "(vi) He got erected several pillars and edicts to spread the teachings of Buddhism."
+      ],
+      "title": "(vi) He got erected several pillars and edicts to spread the teachings of Buddhism.",
+      "sequence_number": 6,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "THE MAURYAN EMPIRE > Consequences of Kalinga War > (vii) On account of abandonment of war there was a decline in military preparedness and efficiency.",
+      "path_titles": [
+        "THE MAURYAN EMPIRE",
+        "Consequences of Kalinga War",
+        "(vii) On account of abandonment of war there was a decline in military preparedness and efficiency."
+      ],
+      "title": "(vii) On account of abandonment of war there was a decline in military preparedness and efficiency.",
+      "sequence_number": 7,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "THE MAURYAN EMPIRE > Extent of Ashoka's Empire",
+      "path_titles": [
+        "THE MAURYAN EMPIRE",
+        "Extent of Ashoka's Empire"
+      ],
+      "title": "Extent of Ashoka's Empire",
+      "sequence_number": 6,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "MAURYAN ADMINISTRATION > Pan-Indian Character > (a) It marked the end of small states.",
+      "path_titles": [
+        "MAURYAN ADMINISTRATION",
+        "Pan-Indian Character",
+        "(a) It marked the end of small states."
+      ],
+      "title": "(a) It marked the end of small states.",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "MAURYAN ADMINISTRATION > Pan-Indian Character > (b) It helped in establishing trade links with foreign countries.",
+      "path_titles": [
+        "MAURYAN ADMINISTRATION",
+        "Pan-Indian Character",
+        "(b) It helped in establishing trade links with foreign countries."
+      ],
+      "title": "(b) It helped in establishing trade links with foreign countries.",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "MAURYAN ADMINISTRATION > Pan-Indian Character > (c) It made India strong and helped the Mauryan kings face foreign aggressions successfully.",
+      "path_titles": [
+        "MAURYAN ADMINISTRATION",
+        "Pan-Indian Character",
+        "(c) It made India strong and helped the Mauryan kings face foreign aggressions successfully."
+      ],
+      "title": "(c) It made India strong and helped the Mauryan kings face foreign aggressions successfully.",
+      "sequence_number": 3,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "MAURYAN ADMINISTRATION > Pan-Indian Character > (d) After Ashoka's victory over Kalinga, the era of conquests and wars was over.",
+      "path_titles": [
+        "MAURYAN ADMINISTRATION",
+        "Pan-Indian Character",
+        "(d) After Ashoka's victory over Kalinga, the era of conquests and wars was over."
+      ],
+      "title": "(d) After Ashoka's victory over Kalinga, the era of conquests and wars was over.",
+      "sequence_number": 4,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "MAURYAN ADMINISTRATION > Administration > (i) Ashoka added a new fifth_province, Kalinga in the existing four provinces, with Tosali as its capital.",
+      "path_titles": [
+        "MAURYAN ADMINISTRATION",
+        "Administration",
+        "(i) Ashoka added a new fifth_province, Kalinga in the existing four provinces, with Tosali as its capital."
+      ],
+      "title": "(i) Ashoka added a new fifth_province, Kalinga in the existing four provinces, with Tosali as its capital.",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "MAURYAN ADMINISTRATION > Administration > (ii) The Mauryan centralised monarchy became a paternal despotism under Ashoka.",
+      "path_titles": [
+        "MAURYAN ADMINISTRATION",
+        "Administration",
+        "(ii) The Mauryan centralised monarchy became a paternal despotism under Ashoka."
+      ],
+      "title": "(ii) The Mauryan centralised monarchy became a paternal despotism under Ashoka.",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "MAURYAN ADMINISTRATION > Administration > (iii) Ashoka simplified many rigorous practices related to administration regarding taxation and crop collection.",
+      "path_titles": [
+        "MAURYAN ADMINISTRATION",
+        "Administration",
+        "(iii) Ashoka simplified many rigorous practices related to administration regarding taxation and crop collection."
+      ],
+      "title": "(iii) Ashoka simplified many rigorous practices related to administration regarding taxation and crop collection.",
+      "sequence_number": 3,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "MAURYAN ADMINISTRATION > Administration > (iv) Ashoka appointed Mahamatras (Governors) to look after the welfare of his subjects.",
+      "path_titles": [
+        "MAURYAN ADMINISTRATION",
+        "Administration",
+        "(iv) Ashoka appointed Mahamatras (Governors) to look after the welfare of his subjects."
+      ],
+      "title": "(iv) Ashoka appointed Mahamatras (Governors) to look after the welfare of his subjects.",
+      "sequence_number": 4,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "MAURYAN ADMINISTRATION > Civil Administration",
+      "path_titles": [
+        "MAURYAN ADMINISTRATION",
+        "Civil Administration"
+      ],
+      "title": "Civil Administration",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "MAURYAN ADMINISTRATION > (i) Central Government",
+      "path_titles": [
+        "MAURYAN ADMINISTRATION",
+        "(i) Central Government"
+      ],
+      "title": "(i) Central Government",
+      "sequence_number": 4,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "MAURYAN ADMINISTRATION > (ii) Provincial Government",
+      "path_titles": [
+        "MAURYAN ADMINISTRATION",
+        "(ii) Provincial Government"
+      ],
+      "title": "(ii) Provincial Government",
+      "sequence_number": 5,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "MAURYAN ADMINISTRATION > (iii) District Administration",
+      "path_titles": [
+        "MAURYAN ADMINISTRATION",
+        "(iii) District Administration"
+      ],
+      "title": "(iii) District Administration",
+      "sequence_number": 6,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "MAURYAN ADMINISTRATION > (iv) Administration of Cities",
+      "path_titles": [
+        "MAURYAN ADMINISTRATION",
+        "(iv) Administration of Cities"
+      ],
+      "title": "(iv) Administration of Cities",
+      "sequence_number": 7,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "MAURYAN ADMINISTRATION > (v) The Revenue System",
+      "path_titles": [
+        "MAURYAN ADMINISTRATION",
+        "(v) The Revenue System"
+      ],
+      "title": "(v) The Revenue System",
+      "sequence_number": 8,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "MAURYAN ADMINISTRATION > (vi) The Spy System",
+      "path_titles": [
+        "MAURYAN ADMINISTRATION",
+        "(vi) The Spy System"
+      ],
+      "title": "(vi) The Spy System",
+      "sequence_number": 9,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "MAURYAN ADMINISTRATION > (vii) Military Administration",
+      "path_titles": [
+        "MAURYAN ADMINISTRATION",
+        "(vii) Military Administration"
+      ],
+      "title": "(vii) Military Administration",
+      "sequence_number": 10,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "ASHOKA'S DHAMMA",
+      "path_titles": [
+        "ASHOKA'S DHAMMA"
+      ],
+      "title": "ASHOKA'S DHAMMA",
+      "sequence_number": 6,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "Principles of Dhamma > (i) Respect for elders and love for children.",
+      "path_titles": [
+        "Principles of Dhamma",
+        "(i) Respect for elders and love for children."
+      ],
+      "title": "(i) Respect for elders and love for children.",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Principles of Dhamma > (ii) Ahimsa or non-violence.",
+      "path_titles": [
+        "Principles of Dhamma",
+        "(ii) Ahimsa or non-violence."
+      ],
+      "title": "(ii) Ahimsa or non-violence.",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Principles of Dhamma > (iii) Good deeds or good karma would give happiness to man in the next birth.",
+      "path_titles": [
+        "Principles of Dhamma",
+        "(iii) Good deeds or good karma would give happiness to man in the next birth."
+      ],
+      "title": "(iii) Good deeds or good karma would give happiness to man in the next birth.",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Principles of Dhamma > (iv) He taught people to respect all religions.",
+      "path_titles": [
+        "Principles of Dhamma",
+        "(iv) He taught people to respect all religions."
+      ],
+      "title": "(iv) He taught people to respect all religions.",
+      "sequence_number": 4,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Principles of Dhamma > (v) He disapproved empty rituals.",
+      "path_titles": [
+        "Principles of Dhamma",
+        "(v) He disapproved empty rituals."
+      ],
+      "title": "(v) He disapproved empty rituals.",
+      "sequence_number": 5,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "MPACT OF DHAMMA ON SHOKA'S IMPERIAL POLICY > (i) Religious unity",
+      "path_titles": [
+        "MPACT OF DHAMMA ON SHOKA'S IMPERIAL POLICY",
+        "(i) Religious unity"
+      ],
+      "title": "(i) Religious unity",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "MPACT OF DHAMMA ON SHOKA'S IMPERIAL POLICY > (ii) Moral values",
+      "path_titles": [
+        "MPACT OF DHAMMA ON SHOKA'S IMPERIAL POLICY",
+        "(ii) Moral values"
+      ],
+      "title": "(ii) Moral values",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "MPACT OF DHAMMA ON SHOKA'S IMPERIAL POLICY > (iii) End of orimes",
+      "path_titles": [
+        "MPACT OF DHAMMA ON SHOKA'S IMPERIAL POLICY",
+        "(iii) End of orimes"
+      ],
+      "title": "(iii) End of orimes",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "MPACT OF DHAMMA ON SHOKA'S IMPERIAL POLICY > (iv) Public welfare",
+      "path_titles": [
+        "MPACT OF DHAMMA ON SHOKA'S IMPERIAL POLICY",
+        "(iv) Public welfare"
+      ],
+      "title": "(iv) Public welfare",
+      "sequence_number": 4,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    }
+  ],
+  "stray_leaves": [
+    {
+      "title": "BINDUSARA",
+      "insert_after_index": 13,
+      "micro_topics": [],
+      "has_notes": true
+    }
+  ]
+}

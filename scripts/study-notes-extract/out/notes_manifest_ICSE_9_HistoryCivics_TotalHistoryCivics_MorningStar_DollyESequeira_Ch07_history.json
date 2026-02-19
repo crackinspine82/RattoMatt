@@ -1,0 +1,159 @@
+{
+  "syllabus_leaves": [
+    {
+      "path": "SOURCES > Inscriptions",
+      "path_titles": [
+        "SOURCES",
+        "Inscriptions"
+      ],
+      "title": "Inscriptions",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "The Brihadeshwara temple > The temple has a portrait of Rajaraja Chola paying obeisance to Lord Nataraja.",
+      "path_titles": [
+        "The Brihadeshwara temple",
+        "The temple has a portrait of Rajaraja Chola paying obeisance to Lord Nataraja."
+      ],
+      "title": "The temple has a portrait of Rajaraja Chola paying obeisance to Lord Nataraja.",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": false
+    },
+    {
+      "path": "The Brihadeshwara temple > Inscriptions in the temple point towards Rajaraja as the chief architect of the temple.",
+      "path_titles": [
+        "The Brihadeshwara temple",
+        "Inscriptions in the temple point towards Rajaraja as the chief architect of the temple."
+      ],
+      "title": "Inscriptions in the temple point towards Rajaraja as the chief architect of the temple.",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "The Brihadeshwara temple > Depictions of dancers showing eighty one of hundred and eight karanas",
+      "path_titles": [
+        "The Brihadeshwara temple",
+        "Depictions of dancers showing eighty one of hundred and eight karanas"
+      ],
+      "title": "Depictions of dancers showing eighty one of hundred and eight karanas",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "The Brihadeshwara temple > The inscriptions mention the different kinds of jewels used in the Chola period.",
+      "path_titles": [
+        "The Brihadeshwara temple",
+        "The inscriptions mention the different kinds of jewels used in the Chola period."
+      ],
+      "title": "The inscriptions mention the different kinds of jewels used in the Chola period.",
+      "sequence_number": 4,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "The Brihadeshwara temple > It is one of the few temples that have Ashta-dikpaalakas",
+      "path_titles": [
+        "The Brihadeshwara temple",
+        "It is one of the few temples that have Ashta-dikpaalakas"
+      ],
+      "title": "It is one of the few temples that have Ashta-dikpaalakas",
+      "sequence_number": 5,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "POLITICAL HISTORY > Rajaraja I",
+      "path_titles": [
+        "POLITICAL HISTORY",
+        "Rajaraja I"
+      ],
+      "title": "Rajaraja I",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "POLITICAL HISTORY > Rajendra Chola",
+      "path_titles": [
+        "POLITICAL HISTORY",
+        "Rajendra Chola"
+      ],
+      "title": "Rajendra Chola",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "THE CHOLA ADMINISTRATION > Central Government",
+      "path_titles": [
+        "THE CHOLA ADMINISTRATION",
+        "Central Government"
+      ],
+      "title": "Central Government",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "THE CHOLA ADMINISTRATION > Provincial Government",
+      "path_titles": [
+        "THE CHOLA ADMINISTRATION",
+        "Provincial Government"
+      ],
+      "title": "Provincial Government",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "THE CHOLA ADMINISTRATION > Local Self-Government",
+      "path_titles": [
+        "THE CHOLA ADMINISTRATION",
+        "Local Self-Government"
+      ],
+      "title": "Local Self-Government",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "The Revenue",
+      "path_titles": [
+        "The Revenue"
+      ],
+      "title": "The Revenue",
+      "sequence_number": 5,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "The Chola Art",
+      "path_titles": [
+        "The Chola Art"
+      ],
+      "title": "The Chola Art",
+      "sequence_number": 6,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    }
+  ],
+  "stray_leaves": []
+}

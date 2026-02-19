@@ -1,0 +1,9 @@
+---
+description: Storage, partitioning, and async analytics guardrails
+alwaysApply: true
+---
+# Infrastructure Guardrails
+- PDFs must live in object storage; DB stores only URLs.
+- High-growth tables are date-partitioned from day 1.
+- Aggregates must update asynchronously (no heavy analytics in request path).
+- Warn and ask permission before violating any guardrail.

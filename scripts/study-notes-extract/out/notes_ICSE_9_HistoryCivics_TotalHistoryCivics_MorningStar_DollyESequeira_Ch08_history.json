@@ -1,0 +1,493 @@
+{
+  "board": "ICSE",
+  "grade": 9,
+  "subject": "HistoryCivics",
+  "book_slug": "TotalHistoryCivics_MorningStar_DollyESequeira",
+  "book_meta": {
+    "book_name": "Total History & Civics",
+    "publication": "Morning Star",
+    "author": "Dolly E. Sequeira"
+  },
+  "chapter_sequence_number": 8,
+  "chapter_title": "Medieval India (B) The Delhi Sultanate",
+  "discipline": "history",
+  "reconciliation": {
+    "outline": [
+      "Medieval India (B) The Delhi Sultanate",
+      "SOURCES",
+      "Inscriptions",
+      "Monuments",
+      "Qutub Minar",
+      "THE SLAVE DYNASTY",
+      "QUTUBUDDIN AIBAK",
+      "THE KHILJI DYNASTY",
+      "ALAUDDIN KHILJI",
+      "Market Regulations",
+      "Deccan Expedition",
+      "Measures against Nobility",
+      "Military Reforms",
+      "Revenue Reforms",
+      "TUGHLAQ DYNASTY",
+      "MUHAMMAD BIN TUGHLAQ",
+      "Transfer of Capital",
+      "Token Currency",
+      "Taxation in Doab",
+      "Plan of Conquests",
+      "SULTANATE ADMINISTRATION",
+      "Nobles"
+    ],
+    "in_syllabus_only": [],
+    "in_pdf_only": [
+      {
+        "title": "Market Regulations",
+        "insert_after_index": 8,
+        "micro_topics": []
+      },
+      {
+        "title": "Nobles",
+        "insert_after_index": 19,
+        "micro_topics": []
+      }
+    ],
+    "additional_sections": [
+      {
+        "title": "Market Regulations",
+        "content_md": "Alauddin is best known in history for his market regulations. He fixed the cost of all commodities such as foodgrains, sugar and cooking oil. For this purpose, he set up three markets at Delhi— one market for food grains, the second for costly cloth, and the third for horses, slaves and cattle. Each market was put under the charge of a controller of market (shahna). Very strict punishments were prescribed for cheating and underweighing goods."
+      },
+      {
+        "title": "Nobles",
+        "content_md": "The nobles formed an extremely powerful group as they held positions of provincial governors and military commanders.\n\nDuring this period, the practice of giving grants of revenue from a territory came to be known as the 'iqta system'. Those who were given iqtas were called 'iqtadars'. Out of this grant, the iqtadars had to maintain themselves, their families and some soldiers for use by the Sultan during war. When the central authority became weak, many of these iqtadars functioned as independent rulers of the territories under their command."
+      }
+    ]
+  },
+  "nodes": [
+    {
+      "title": "Medieval India (B) The Delhi Sultanate",
+      "sequence_number": 1,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "Sources",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Inscriptions",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Inscriptions** are valuable supplements and not the sole sources of information on the **Delhi Sultanate**. The inscriptions are found on **coins**, **monuments**, **milestones** and **tombstones**. Many inscriptions record **land-grants** made by various rulers and chiefs; others are descriptions of battles or **eulogies** to rulers. Together, these inscriptions provide act as a good source of information on the history of different rulers and local chiefs. Some of the inscriptions are in **Sanskrit**, some in **Arabic** and some in both the languages. For example, the first coin issued by **Muhammad Bakhtiyar Khilji** bears both Arabic and Sanskrit inscriptions."
+                }
+              ]
+            },
+            {
+              "title": "Monuments",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [
+                {
+                  "title": "Qutub Minar",
+                  "sequence_number": 1,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "[Image: Qutub Minar]\n\nIt was started by **Qutub-ud-din Aibak** and was dedicated to the Sufi saint, **Qutb-ud-din Bakhtiyar Kaki**, who was greatly venerated by the people of Delhi. The structure was completed by **Iltutmish**. Its special features are:\n\n*   When originally completed, it rose to a height of **71.4 metres** with **four storeys**. The tower was damaged by lightning in **1369**, and in the course of repairs and renovations **Feroz Shah Tughluq** further raised its height.\n*   It has **five storeys** tapering as they ascend. Each storey is separated from the other by a **projecting balcony**.\n*   The entrance is through the doorway on the northern side.\n*   The Minar is a circular tower about **13.8 metres in diameter** at the base and tapers to the width of around **3 metres at the summit**. It has a circular stairway of **379 steps** leading to the top.\n*   **Red sandstone**, **marble** and **grey quartzite** were used to construct the tower.\n*   Each of the towers has a projecting balcony. These balconies are supported in such a way that the whole structure takes the load of weight.\n*   Verses from the **Holy Quran** and some intricate carvings with floral motifs are inscribed on this tower.\n\n[Image: Qutub-ud-din Aibak]"
+                    }
+                  ]
+                }
+              ],
+              "content_blocks": []
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "The Slave Dynasty",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Qutubuddin Aibak",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "He is regarded as the founder of the **Slave dynasty**. The early rulers of this dynasty were called the **'Mamluk' Sultans**. The word **Mamluk** is an Arabic word that means 'owned'. Since these Sultans were earlier either the slaves of the Turks or were the sons of the slaves, they were called Mamluk Sultans.\n\nTo complete his master's work Qutubuddin Aibak embarked on a series of conquests and captured the fort of **Kalinjar** in Bundelkhand and **Anhilwara** (capital of Solankis) in Gujarat.\n\nBesides being a brave and capable military general, Qutubuddin Aibak was a man of letters. Scholars like **Hasan Nizami** and **Fakhre Mudir** adorned his court. Because of liberal distribution of money, he earned the title of **‘Lakhbaksh’**.\n\nQutubuddin Aibak laid the foundation of **Qutub Minar** in Delhi, after the name of the famous Sufi saint **Khwaja Qutub-ud-din Bakhtiyar Kaki**, which was completed by **Iltutmish**. In **1210**, Aibak died of a sudden fall from a horse at Lahore while playing **chaugan** or polo.\n\nQutubuddin Aibak's son **Aram Shah** had succeeded him. Since Aram Shah was an incapable ruler, he was overthrown by **Iltutmish**, the slave and son-in-law of Aibak."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "The Khilji Dynasty",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Alauddin Khilji",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [
+                {
+                  "title": "Deccan Expedition",
+                  "sequence_number": 1,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "**Alauddin Khilji** was the first Sultan who, after conquering the bulk of northern India, sent an expedition to Deccan under **Malik Kafur**. The kingdoms of **Devagiri**, **Warangal**, **Dwarasamudra** and **Madurai** were **conquered but not annexed**. Alauddin did not annex these kingdoms for two reasons. First, he realised that practically it would be difficult to **control these distant lands from Delhi**. Second, he was more interested in **acquiring the wealth** of these Deccan kingdoms for the maintenance of his huge army. Thus, the rulers of Deccan were forced to **accept the overlordship of Alauddin Khilji** and to **pay annual tribute** to him."
+                    }
+                  ]
+                },
+                {
+                  "title": "Measures against Nobility",
+                  "sequence_number": 2,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": []
+                },
+                {
+                  "title": "Military Reforms",
+                  "sequence_number": 3,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "**Alauddin Khilji** was the first ruler of Delhi who laid the foundation of a **permanent standing army**. He imported quality horses and started the system of **branding horses (dagh)** so that the soldiers could not replace them with inferior quality horses. He also introduced the system of **chehra**, i.e., giving a kind of **identity card** for every soldier. He himself approved all recruitments to the army and paid **cash salaries** to the soldiers from the royal treasury."
+                    }
+                  ]
+                },
+                {
+                  "title": "Revenue Reforms",
+                  "sequence_number": 4,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "**Alauddin Khilji** introduced a number of important measures to get maximum revenue. \n*   He brought all the **land of the empire under his direct control**.\n*   He introduced the practice of **measuring the land** and **fixing the state share** accordingly.\n*   He **increased the land revenue from one-third to one-half** and demanded it to be **paid in cash** and not in kind.\n*   He appointed **special officers to collect land revenue**."
+                    }
+                  ]
+                }
+              ],
+              "content_blocks": []
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "Tughlaq Dynasty",
+          "sequence_number": 4,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The ascension to the throne by **Ghazi Malik** had its own ups and downs. In **1320** he took the title of **Ghiyas-ud-din Tughlaq Shah** and began the **Tughlaq dynasty**. He died during the collapse of a pavilion built in his honour in **1325**."
+            }
+          ]
+        },
+        {
+          "title": "Muhammad Bin Tughlaq",
+          "sequence_number": 5,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Transfer of Capital",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "During **Muhammad Bin Tughlaq's** reign the empire had also spread to the south. He shifted his capital to **Devagiri** near modern Aurangabad and renamed it **Daulatabad**. He did it for the following reasons:\n*   **Daulatabad** was centrally located from where he could control the Deccan territories;\n*   Delhi was in the grip of severe famine; and\n*   Delhi was constantly threatened by the **Mongol invasions**.\n\nHe ordered the people of Delhi including religious heads to shift to Daulatabad. On realising the gravity of the threat from north-west he decided to shift the capital back to Delhi. This caused lots of hardships to the people."
+                }
+              ]
+            },
+            {
+              "title": "Token Currency",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Another controversial step which **Muhammad Bin Tughlaq** took was the introduction of the **\"token currency\"**. It meant introduction of **bronze tanka** in place of **silver tankas**. This was done because of the **shortage of silver**. But this experiment failed due to the circulation of **counterfeit or fake coins** on a very large scale, which caused chaos in trade and commerce. Consequently, he withdrew the token currency."
+                }
+              ]
+            },
+            {
+              "title": "Taxation in Doab",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Muhammad Bin Tughlaq** wanted to conquer territories not only in India but also in Central Asia. For this he required a large army and, therefore, large amounts of money to pay for the army. So in order to get more revenue, he increased the **land tax** in the fertile region of **Ganga-Yamuna doab**. At the same time, a severe **famine** broke out in the area and the people refused to pay the extra taxes and rose in **rebellion**. But the tax collectors showed no mercy and took stern measures to collect the taxes. This made some of the peasants abandon their lands and flee to jungles.\n\n**Muhammad Bin Tughlaq** took effective steps to fight the famine and save the situation. He ordered **free distribution of grains**, advanced **loans to the peasants**, **improved irrigation facilities**, etc. But it was too late and a number of people were starved to death as agriculture suffered a heavy setback in the doab area."
+                }
+              ]
+            },
+            {
+              "title": "Plan of Conquests",
+              "sequence_number": 4,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Muhammad Bin Tughlaq** dreamt of conquering the world. So he organised a **huge army** and paid **one full year's salary in advance** to his soldiers. He then decided to conquer **Khurasan**, **Persia (Iran)** and **Iraq**. But after a year, and following the **failure of the token currency**, Muhammad Bin Tughlaq **abandoned the project** and **disbanded the army**."
+                }
+              ]
+            },
+            {
+              "title": "Sultanate Administration",
+              "sequence_number": 5,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The State set up by the Turks towards the end of the 12th century in northern India gradually developed into a powerful and highly centralised state. The **Sultan** was the supreme executive, legislative, judicial and military authority. The Sultan kept an eye on revenue and expenditure. He was assisted by a number of ministers. The key figure in administration was the **wazir**, who acted as the Prime Minister. The wazir supervised the work of the other officials. The final decisions were always taken by the Sultan."
+                },
+                {
+                  "content_md": "The minister in charge of the army was called **'ariz-i-mumalik'**. The ariz was not the commander-in-chief of the army, since the Sultan himself commanded all the armed forces. The special responsibility of the ariz's department was to recruit, equip and pay the army.\n\nThere were two other important departments, namely, the **diwan-i-risalat** and the **diwan-i-insha**. The diwan-i-risalat dealt with religious matters and was presided over by the Chief Sadar, who was generally a leading qazi. The **qazi** was the head of the department of justice and advised the Sultan on civil and religious matters. The diwan-i-insha dealt with state correspondence."
+                },
+                {
+                  "content_md": "During the Sultanate the empire was divided into provinces called **'iqtas'**. Each province was placed under officials called **'muqtis'**. To facilitate local administration, provinces were further divided into **'shiqs'**, and **'parganas'** or districts. The village was the lowest administrative unit. The officials who worked at the village level included the **'muqaddam'** (the village headman), the **'patwari'** (the record-keeper) and the **'mushrif'** (the village accountant). Each village also had a panchayat to settle local disputes."
+                },
+                {
+                  "content_md": "**Nobles**: The nobles formed an extremely powerful group as they held positions of provincial governors and military commanders.\n\nDuring this period, the practice of giving grants of revenue from a territory came to be known as the **'iqta system'**. Those who were given iqtas were called **'iqtadars'**. Out of this grant, the iqtadars had to maintain themselves, their families and some soldiers for use by the Sultan during war. When the central authority became weak, many of these iqtadars functioned as independent rulers of the territories under their command."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        }
+      ],
+      "content_blocks": []
+    }
+  ],
+  "additional_sections": [
+    {
+      "title": "Market Regulations",
+      "content_md": "Alauddin is best known in history for his market regulations. He fixed the cost of all commodities such as foodgrains, sugar and cooking oil. For this purpose, he set up three markets at Delhi— one market for food grains, the second for costly cloth, and the third for horses, slaves and cattle. Each market was put under the charge of a controller of market (shahna). Very strict punishments were prescribed for cheating and underweighing goods."
+    },
+    {
+      "title": "Nobles",
+      "content_md": "The nobles formed an extremely powerful group as they held positions of provincial governors and military commanders.\n\nDuring this period, the practice of giving grants of revenue from a territory came to be known as the 'iqta system'. Those who were given iqtas were called 'iqtadars'. Out of this grant, the iqtadars had to maintain themselves, their families and some soldiers for use by the Sultan during war. When the central authority became weak, many of these iqtadars functioned as independent rulers of the territories under their command."
+    }
+  ],
+  "needs_review": [
+    "Measures against Nobility"
+  ],
+  "manifest": {
+    "syllabus_leaves": [
+      {
+        "path": "Medieval India (B) The Delhi Sultanate > Sources > Inscriptions",
+        "path_titles": [
+          "Medieval India (B) The Delhi Sultanate",
+          "Sources",
+          "Inscriptions"
+        ],
+        "title": "Inscriptions",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Medieval India (B) The Delhi Sultanate > Sources > Monuments > Qutub Minar",
+        "path_titles": [
+          "Medieval India (B) The Delhi Sultanate",
+          "Sources",
+          "Monuments",
+          "Qutub Minar"
+        ],
+        "title": "Qutub Minar",
+        "sequence_number": 1,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "Medieval India (B) The Delhi Sultanate > The Slave Dynasty > Qutubuddin Aibak",
+        "path_titles": [
+          "Medieval India (B) The Delhi Sultanate",
+          "The Slave Dynasty",
+          "Qutubuddin Aibak"
+        ],
+        "title": "Qutubuddin Aibak",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Medieval India (B) The Delhi Sultanate > The Khilji Dynasty > Alauddin Khilji > Deccan Expedition",
+        "path_titles": [
+          "Medieval India (B) The Delhi Sultanate",
+          "The Khilji Dynasty",
+          "Alauddin Khilji",
+          "Deccan Expedition"
+        ],
+        "title": "Deccan Expedition",
+        "sequence_number": 1,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "Medieval India (B) The Delhi Sultanate > The Khilji Dynasty > Alauddin Khilji > Measures against Nobility",
+        "path_titles": [
+          "Medieval India (B) The Delhi Sultanate",
+          "The Khilji Dynasty",
+          "Alauddin Khilji",
+          "Measures against Nobility"
+        ],
+        "title": "Measures against Nobility",
+        "sequence_number": 2,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": false
+      },
+      {
+        "path": "Medieval India (B) The Delhi Sultanate > The Khilji Dynasty > Alauddin Khilji > Military Reforms",
+        "path_titles": [
+          "Medieval India (B) The Delhi Sultanate",
+          "The Khilji Dynasty",
+          "Alauddin Khilji",
+          "Military Reforms"
+        ],
+        "title": "Military Reforms",
+        "sequence_number": 3,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "Medieval India (B) The Delhi Sultanate > The Khilji Dynasty > Alauddin Khilji > Revenue Reforms",
+        "path_titles": [
+          "Medieval India (B) The Delhi Sultanate",
+          "The Khilji Dynasty",
+          "Alauddin Khilji",
+          "Revenue Reforms"
+        ],
+        "title": "Revenue Reforms",
+        "sequence_number": 4,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "Medieval India (B) The Delhi Sultanate > Tughlaq Dynasty",
+        "path_titles": [
+          "Medieval India (B) The Delhi Sultanate",
+          "Tughlaq Dynasty"
+        ],
+        "title": "Tughlaq Dynasty",
+        "sequence_number": 4,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Medieval India (B) The Delhi Sultanate > Muhammad Bin Tughlaq > Transfer of Capital",
+        "path_titles": [
+          "Medieval India (B) The Delhi Sultanate",
+          "Muhammad Bin Tughlaq",
+          "Transfer of Capital"
+        ],
+        "title": "Transfer of Capital",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Medieval India (B) The Delhi Sultanate > Muhammad Bin Tughlaq > Token Currency",
+        "path_titles": [
+          "Medieval India (B) The Delhi Sultanate",
+          "Muhammad Bin Tughlaq",
+          "Token Currency"
+        ],
+        "title": "Token Currency",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Medieval India (B) The Delhi Sultanate > Muhammad Bin Tughlaq > Taxation in Doab",
+        "path_titles": [
+          "Medieval India (B) The Delhi Sultanate",
+          "Muhammad Bin Tughlaq",
+          "Taxation in Doab"
+        ],
+        "title": "Taxation in Doab",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Medieval India (B) The Delhi Sultanate > Muhammad Bin Tughlaq > Plan of Conquests",
+        "path_titles": [
+          "Medieval India (B) The Delhi Sultanate",
+          "Muhammad Bin Tughlaq",
+          "Plan of Conquests"
+        ],
+        "title": "Plan of Conquests",
+        "sequence_number": 4,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Medieval India (B) The Delhi Sultanate > Muhammad Bin Tughlaq > Sultanate Administration",
+        "path_titles": [
+          "Medieval India (B) The Delhi Sultanate",
+          "Muhammad Bin Tughlaq",
+          "Sultanate Administration"
+        ],
+        "title": "Sultanate Administration",
+        "sequence_number": 5,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      }
+    ],
+    "stray_leaves": [
+      {
+        "title": "Market Regulations",
+        "insert_after_index": 8,
+        "micro_topics": [],
+        "has_notes": true
+      },
+      {
+        "title": "Nobles",
+        "insert_after_index": 19,
+        "micro_topics": [],
+        "has_notes": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "board": "ICSE",
+  "grade": 9,
+  "subject": "Geography",
+  "book_slug": "TotalGeography_MorningStar_JasmineRachel",
+  "book_meta": {
+    "book_name": "Total Geography",
+    "publication": "Morning Star",
+    "author": "Jasmine Rachel"
+  },
+  "chapter_sequence_number": 1,
+  "chapter_title": "Earth as a Planet",
+  "discipline": null,
+  "generated_at": "2026-02-10T16:25:37.114Z",
+  "sections": [
+    {
+      "title": "Earth as a Planet: Shape of the earth. Earth as the home of humankind and the conditions that exist.",
+      "level_label": "Section",
+      "content_md": "Earth, our home planet, is the third planet from the sun and the fifth-largest planet in the solar system. It is the only planet which supports life. From space, the earth looks blue because 70 per cent of its total area is covered by water. Hence, it is also called the **watery planet**.\n\nThe family of the sun is called the **Solar System**. The chief members of the solar system are the planets, the satellites that revolve around the planets, and other celestial bodies called asteroids, comets, and meteorites. The planets in order of their distance from the sun are: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+    },
+    {
+      "title": "THE SHAPE OF THE EARTH",
+      "level_label": "Topic",
+      "content_md": "The earth is not a perfect sphere. It bulges slightly at the centre and is flattened at the poles. In the olden days, the earth was considered to be a flat disc with steep edges. **Aryabhatta**, the 5th century Indian astronomer and mathematician, believed in the round shape of the earth. He said that the earth was spherical in shape and rotated on its axis. In the 6th century, Greek philosopher **Pythagoras** said the same thing. Today, we have convincing evidence to prove that the earth is spherical in shape."
+    },
+    {
+      "title": "Proof that the Earth is Spherical in shape",
+      "level_label": "Topic",
+      "content_md": "There is convincing evidence to prove that the earth is spherical in shape."
+    },
+    {
+      "title": "(i) Sighting of a ship",
+      "level_label": "Subtopic",
+      "content_md": "While standing at a seashore and watching an approaching ship, we first see only its mast. Then, as it comes closer, we can see the deck in the middle, then its funnel, and finally the hull comes into full view. This can happen only when the earth's surface is curved. If the earth were flat, the entire ship would have been visible at once.\n\n[Image: Fig. 1.1. Sighting of a ship]"
+    },
+    {
+      "title": "(ii) The Bedford Level Experiment",
+      "level_label": "Subtopic",
+      "content_md": "An experiment was carried out in the Bedford Level canal area in England. Three poles of equal length were fixed at intervals of 5 km. It was ensured that the poles had the same height above the water in the canal. When the poles were viewed from one end of the canal, the middle pole looked slightly higher. This could not have happened if the earth had a flat surface. A similar experiment was repeated at different places with the same result, demonstrating that the surface of the earth was curved.\n\n[Image: Fig. 1.2. Bedford level experiment]"
+    },
+    {
+      "title": "(iii) Pole Star",
+      "level_label": "Subtopic",
+      "content_md": "The Pole Star can be seen at an angle of 90° at the North Pole. It lies in line with the axis of the earth, and its angle decreases towards the Equator. At the Equator, the angle is 0°. This can happen only in an arc of a circle. If the earth were flat, the Pole Star would have the same height for all latitudes.\n\n[Image: Fig. 1.3. Position of the Pole Star.]"
+    },
+    {
+      "title": "(iv) Satellite Pictures",
+      "level_label": "Subtopic",
+      "content_md": "**Jean Baptiste Delambre** (1749-1822), a French astronomer, discovered the flattening of the earth at the poles. In the 20th century, when satellite pictures of earth were fed into computers, its spherical shape with the flattened poles was confirmed. The conclusive evidence for the proof of the earth's spherical shape is obtained from photographs taken from space.\n\n[Image: Fig. 1.4. A satellite picture of the Earth]"
+    },
+    {
+      "title": "(v) Lunar Eclipse",
+      "level_label": "Subtopic",
+      "content_md": "The shadow of the earth on the surface of the moon is clearly visible from earth during a lunar eclipse. It appears as an arc of a circle. Since the earth is bigger than the moon, it is rarely oriented in the same position as the moon, but the shadow is always circular."
+    },
+    {
+      "title": "(vi) Circular Horizon",
+      "level_label": "Subtopic",
+      "content_md": "The view of the earth's surface as seen from a height is circular. With an increase in altitude, the circular horizon also widens. Had the earth's surface been flat, the horizon would have been the same irrespective of altitude.\n\nIn modern days, all radio waves that travel over the earth's surface can be heard only within a certain horizon. Beyond this, the signal is not received. This is because of the spherical shape of the earth.\n\n[Image: Fig. 1.5(a). Spherical Earth: The higher the altitude, the wider the circular horizon. The circular horizon AB widens to CD as you move up from Y to X.]\n[Image: Fig. 1.5(b). Flat Earth: Irrespective of the altitude, the visible horizon is the same.]"
+    },
+    {
+      "title": "(vii) Sunrise and Sunset",
+      "level_label": "Subtopic",
+      "content_md": "The sun rises from the east and sets in the west. Sunrise and sunset occur at different times at different places. This is because the earth rotates from west to east and therefore, people in the east can see the sun earlier than those in the west. Had the earth been flat, the sunrise and sunset would have occurred at the same time all over the world.\n\n[Image: Fig. 1.6. Sunrise and Sunset occurs at different times at different places]"
+    },
+    {
+      "title": "(viii) Circumnavigation",
+      "level_label": "Subtopic",
+      "content_md": "Magellan's ship **Victoria** completed a round-the-world voyage in 1522. His ship returned to the same place from where it had started (Spain). It proved beyond doubt that the earth's surface is round.\n\n[Image: Fig. 1.7. Circumnavigation—the route taken by Magellan.]"
+    },
+    {
+      "title": "(ix) The Earth as a Heavenly Body",
+      "level_label": "Subtopic",
+      "content_md": "The earth belongs to the Solar system. All planets in this system are spherical in shape due to their continuous rotation. So the earth, being a member of the Solar system, cannot be an exception. The planets do not have light of their own; they move around their stars in fixed paths called orbits."
+    },
+    {
+      "title": "Earth an Oblate Spheroid",
+      "level_label": "Topic",
+      "content_md": "The earth is said to be spherical, but it is not a perfect sphere. Its diameter varies at the Equator and at the Poles.\n- Its diameter at the **Equator is 12,756 km**.\n- Its **Polar diameter is 12,714 km**.\n\nThis difference in diameter is due to the **centrifugal force** of the earth's rotation at a great speed, which forms a bulge at the Equator and a compression at the Poles. Thus, the earth is said to be an **Oblate Spheroid**. The shape of the earth is also described as **Geoid**, which means 'earth shaped'."
+    },
+    {
+      "title": "EARTH AS THE HOME OF HUMANKIND",
+      "level_label": "Topic",
+      "content_md": "Our Earth is the only planet that supports life. Unlike other planets, it is covered with green vegetation, enormous blue-green oceans containing over a million islands, a large number of streams and rivers, and huge land masses called continents with mountains, ice caps, and deserts. Some form of life thrives in virtually every part of the earth, from the coldest part of the Poles to the warmest part of the Equator. Earth has certain features that make it habitable and thus, a unique planet."
+    },
+    {
+      "title": "Distance from the Sun",
+      "level_label": "Topic",
+      "content_md": "*   The earth is at an optimum distance from the sun. Hence, it is neither too hot nor too cold.\n*   This distance makes life possible on the earth. If it was closer to the sun, any life present would get burnt from too much heat. If it was farther from the sun, life would freeze because of a lack of heat."
+    },
+    {
+      "title": "Temperature",
+      "level_label": "Topic",
+      "content_md": "*   The earth is the third planet from the sun. It has an average temperature of **17°C**, which is suitable for life to exist.\n*   If the average temperature on the earth's surface changes by only a few degrees, many species would perish due to extreme heat or cold.\n*   The other two terrestrial planets, Mercury and Venus, are very hot with maximum temperatures of more than 400°C. The remaining planets in the Solar system are very cold with surface temperatures below 0°C.\n*   Venus is the second planet from the sun but is hotter than Mercury. This is because its atmosphere is mainly composed of carbon dioxide, which produces a **Greenhouse effect** on its surface, keeping the temperature very high. The earth's atmosphere contains a very small quantity of carbon dioxide."
+    },
+    {
+      "title": "Atmosphere",
+      "level_label": "Topic",
+      "content_md": "*   **Atmosphere** is the layer of air around the earth. It is a mixture of gases like **nitrogen (78%)**, **oxygen (21%)**, carbon dioxide, helium, and argon (less than 1%).\n*   The atmosphere receives heat from the sun by solar radiation and loses heat by earth's radiation, maintaining a balance.\n*   The earth's atmosphere is made up of life-supporting gases like nitrogen, oxygen, and carbon dioxide.\n*   **Ozone** present in the earth's atmosphere absorbs the harmful ultraviolet rays of the sun.\n*   The atmosphere also prevents loss of heat from the earth's surface and helps to keep the earth warm."
+    },
+    {
+      "title": "Water",
+      "level_label": "Topic",
+      "content_md": "*   Earth is a **watery planet** with 70 per cent of its surface being covered by water.\n*   Distribution of water is responsible for moderating the climate and surface conditions of the earth.\n*   Water from seas, rivers, and lakes evaporates into the atmosphere where it condenses and falls back as precipitation. This continuous movement is the **hydrological cycle**. A proper balance between evaporation, condensation, and precipitation is essential for life.\n*   Water can absorb enormous amounts of heat without much change in its temperature. During the day, water bodies absorb heat, keeping the earth fairly cool. At night, they release this heat, which, along with other atmospheric effects, keeps most of the surface from freezing.\n\n[Image: Fig. 1.8. Water cycle — the movement of water between the Atmosphere, Hydrosphere and Lithosphere]"
+    },
+    {
+      "title": "what is ecosystem",
+      "level_label": "Topic",
+      "content_md": "*   The self-regulating and self-sustaining structural and functional unit of the biosphere is called the **Ecosystem**. This system depends upon the sun for its energy.\n*   A pond, a lake, desert, grassland, meadow, and forests are common examples of ecosystems.\n*   There is an exchange of materials and energy within the ecosystem as well as between adjoining ecosystems. They are all interconnected and hence, interrelated."
+    },
+    {
+      "title": "Solid Crust (Lithosphere)",
+      "level_label": "Topic",
+      "content_md": "Earth has a solid crust (**Lithosphere**). Due to the weathering of the rocks, the surface of the earth has been formed, which provides a soil layer essential for supporting plant life. Soil also provides various nutrients necessary for the growth of plants, which in turn support all forms of animal life directly or indirectly."
+    },
+    {
+      "title": "Biosphere What is Biosphere",
+      "level_label": "Topic",
+      "content_md": "*   The vast network of all interconnected ecosystems constitutes the **biosphere**. Thus, the biosphere is that part of the earth's terrestrial system—including air, land, and water—in which life develops and where life processes in turn get transformed. It is the life zone of the earth.\n*   **Biosphere** is the narrow realm of contact and interaction between the atmosphere, lithosphere, and hydrosphere.\n*   Biosphere provides all the necessities for all the species living on earth, i.e., light, heat, water, food, and habitats.\n*   Biosphere is a thin layer of approximately **15 km** from the deepest ocean trench to the highest mountain peak. At the ground level, it extends to a depth of just 3 m below, and in ocean waters about 200 m deep, where marine and freshwater life is found.\n*   Within the biosphere, life is found chiefly in two forms—the **plant kingdom** and the **animal kingdom**.\n\n[Image: Fig. 1.9. (a) Biosphere]\n[Image: Fig. 1.9. (b) Biosphere: The Life Zone]"
+    },
+    {
+      "title": "Life-Giving Cycles",
+      "level_label": "Topic",
+      "content_md": "Various life-giving cycles operate in nature, balancing the factors necessary for life."
+    },
+    {
+      "title": "Nutrition Cycle",
+      "level_label": "Subtopic",
+      "content_md": "The **nutrition cycle** represents a relationship between living and non-living things in our environment. It shows the interdependence of all living things on earth. It operates through the food chain and other processes like photosynthesis, transpiration, and respiration. Living things are divided into **producers**, **consumers**, and **decomposers**. \n*   **Plants** are the producers of food through photosynthesis.\n*   **Consumers** (herbivores and carnivores) live on the producers.\n*   All living beings undergo decomposition by the action of **saprotrophs** or decomposers.\n\n[Image: Fig. 1.10. Nutrition Cycle]"
+    },
+    {
+      "title": "Carbon Cycle",
+      "level_label": "Subtopic",
+      "content_md": "**Carbon** is the basic raw material of all life. All living things contain carbon. Atmospheric carbon dioxide is used by plants in the presence of sunlight and chlorophyll to make their own food by the process of **photosynthesis**. During this process, CO₂ is fixed as starch by plants. From the plants, carbon moves along the food chain through consumers at different levels. After the death of plants and animals, the carbon present in their bodies is decomposed and absorbed as food by saprophytic bacteria and fungi. When plants die and get buried in the soil, they undergo slow degradation and compaction, which results in the formation of fossil fuels.\n\nDuring respiration, plants, animals, and humans use atmospheric oxygen and release carbon dioxide back into the atmosphere. The burning of carbon-containing fuels also releases CO₂. Thus, carbon is returned to the environment through respiration, decomposition, and burning of fuels. This cyclic movement of carbon is known as the **carbon cycle**, which helps in maintaining carbon balance in nature. Any imbalance can lead to **Global Warming**.\n\n[Image: Fig. 1.11. Carbon Cycle]"
+    },
+    {
+      "title": "Nitrogen Cycle",
+      "level_label": "Subtopic",
+      "content_md": "The atmosphere is the largest reservoir (approximately 78%) of free nitrogen. Plants take nitrogen in the form of nitrates from the soil, and it moves through the food chain to animals. Nitrogen is returned to the soil through manure, excreta, and the earthly remains of plants and animals, and micro-organisms."
+    },
+    {
+      "title": "Oxygen Cycle",
+      "level_label": "Subtopic",
+      "content_md": "Living things take in oxygen from the atmosphere. They use it to release energy from the food they eat. Oxygen is also used with carbon, hydrogen, and nitrogen to build new molecules in their bodies. Oxygen is released back into the atmosphere by green plants during photosynthesis and by plants and animals as part of carbon dioxide. These cycles are nature's mechanism to maintain balance in the ecosystem."
+    }
+  ]
+}

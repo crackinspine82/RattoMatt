@@ -1,0 +1,42 @@
+{
+  "name": "rattomatt-backend",
+  "version": "1.0.0",
+  "description": "RattoMatt API (Fastify + Postgres)",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsx watch src/index.ts",
+    "seed:syllabus": "tsx scripts/seed-from-syllabus.ts",
+    "seed:upsert-syllabus": "tsx scripts/seed-upsert-syllabus.ts",
+    "seed:study-notes": "tsx scripts/seed-from-study-notes.ts",
+    "schema:apply": "tsx scripts/apply-schema.ts",
+    "seed:demo-student": "tsx scripts/seed-demo-student.ts",
+    "seed:sme-user": "tsx scripts/seed-sme-user.ts",
+    "curation:import": "tsx scripts/curation-import.ts",
+    "migration:revision-notes": "tsx scripts/run-migration-revision-notes.ts",
+    "migration:draft-questions-ready": "tsx scripts/run-migration-draft-questions-ready.ts",
+    "migration:item-images": "tsx scripts/run-migration-item-images.ts",
+    "curation:publish": "tsx scripts/curation-publish.ts",
+    "paper:test": "tsx scripts/generate-test-paper.ts"
+  },
+  "dependencies": {
+    "@fastify/cors": "^10.0.0",
+    "@fastify/multipart": "^9.0.0",
+    "@fastify/static": "^8.0.0",
+    "dotenv": "^16.4.0",
+    "fastify": "^5.0.0",
+    "js-yaml": "^4.1.1",
+    "marked": "^15.0.0",
+    "pdfkit": "^0.17.2",
+    "pg": "^8.13.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "@types/pdfkit": "^0.17.5",
+    "@types/pg": "^8.11.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0"
+  }
+}

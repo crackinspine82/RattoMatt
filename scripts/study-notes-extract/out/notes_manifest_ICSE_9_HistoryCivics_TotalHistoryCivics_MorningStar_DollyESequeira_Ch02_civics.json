@@ -1,0 +1,602 @@
+{
+  "syllabus_leaves": [
+    {
+      "path": "Salient Features of the Constitution-I > Single Citizenship",
+      "path_titles": [
+        "Salient Features of the Constitution-I",
+        "Single Citizenship"
+      ],
+      "title": "Single Citizenship",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Salient Features of the Constitution-I > Universal Adult Franchise",
+      "path_titles": [
+        "Salient Features of the Constitution-I",
+        "Universal Adult Franchise"
+      ],
+      "title": "Universal Adult Franchise",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Salient Features of the Constitution-I > Fundamental Rights > 1. The Right to Equality-Articles 14 to 18 > (a) Equality before Law: Article-14",
+      "path_titles": [
+        "Salient Features of the Constitution-I",
+        "Fundamental Rights",
+        "1. The Right to Equality-Articles 14 to 18",
+        "(a) Equality before Law: Article-14"
+      ],
+      "title": "(a) Equality before Law: Article-14",
+      "sequence_number": 1,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "Salient Features of the Constitution-I > Fundamental Rights > 1. The Right to Equality-Articles 14 to 18 > Article-15",
+      "path_titles": [
+        "Salient Features of the Constitution-I",
+        "Fundamental Rights",
+        "1. The Right to Equality-Articles 14 to 18",
+        "Article-15"
+      ],
+      "title": "Article-15",
+      "sequence_number": 2,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "Salient Features of the Constitution-I > Fundamental Rights > 1. The Right to Equality-Articles 14 to 18 > (b) Equality of Opportunity: Article-16",
+      "path_titles": [
+        "Salient Features of the Constitution-I",
+        "Fundamental Rights",
+        "1. The Right to Equality-Articles 14 to 18",
+        "(b) Equality of Opportunity: Article-16"
+      ],
+      "title": "(b) Equality of Opportunity: Article-16",
+      "sequence_number": 3,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "Salient Features of the Constitution-I > Fundamental Rights > 1. The Right to Equality-Articles 14 to 18 > (c) Abolition of Untouchability: Article-17",
+      "path_titles": [
+        "Salient Features of the Constitution-I",
+        "Fundamental Rights",
+        "1. The Right to Equality-Articles 14 to 18",
+        "(c) Abolition of Untouchability: Article-17"
+      ],
+      "title": "(c) Abolition of Untouchability: Article-17",
+      "sequence_number": 4,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "Salient Features of the Constitution-I > Fundamental Rights > 1. The Right to Equality-Articles 14 to 18 > (d) Abolition of Titles: Article-18",
+      "path_titles": [
+        "Salient Features of the Constitution-I",
+        "Fundamental Rights",
+        "1. The Right to Equality-Articles 14 to 18",
+        "(d) Abolition of Titles: Article-18"
+      ],
+      "title": "(d) Abolition of Titles: Article-18",
+      "sequence_number": 5,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "Salient Features of the Constitution-I > Fundamental Rights > 2. Right to Freedom-Articles 19 to 22 > (a) Under Article-19, the Constitution guarantees six basic freedoms to its Citizens, viz. > (i) Freedom of speech and expression.",
+      "path_titles": [
+        "Salient Features of the Constitution-I",
+        "Fundamental Rights",
+        "2. Right to Freedom-Articles 19 to 22",
+        "(a) Under Article-19, the Constitution guarantees six basic freedoms to its Citizens, viz.",
+        "(i) Freedom of speech and expression."
+      ],
+      "title": "(i) Freedom of speech and expression.",
+      "sequence_number": 1,
+      "depth": 4,
+      "level_label": "Sub-point",
+      "has_notes": true
+    },
+    {
+      "path": "Salient Features of the Constitution-I > Fundamental Rights > 2. Right to Freedom-Articles 19 to 22 > (a) Under Article-19, the Constitution guarantees six basic freedoms to its Citizens, viz. > (ii) Freedom to assemble peacefully without arms.",
+      "path_titles": [
+        "Salient Features of the Constitution-I",
+        "Fundamental Rights",
+        "2. Right to Freedom-Articles 19 to 22",
+        "(a) Under Article-19, the Constitution guarantees six basic freedoms to its Citizens, viz.",
+        "(ii) Freedom to assemble peacefully without arms."
+      ],
+      "title": "(ii) Freedom to assemble peacefully without arms.",
+      "sequence_number": 2,
+      "depth": 4,
+      "level_label": "Sub-point",
+      "has_notes": false
+    },
+    {
+      "path": "Salient Features of the Constitution-I > Fundamental Rights > 2. Right to Freedom-Articles 19 to 22 > (a) Under Article-19, the Constitution guarantees six basic freedoms to its Citizens, viz. > (iii) Freedom to form associations and unions.",
+      "path_titles": [
+        "Salient Features of the Constitution-I",
+        "Fundamental Rights",
+        "2. Right to Freedom-Articles 19 to 22",
+        "(a) Under Article-19, the Constitution guarantees six basic freedoms to its Citizens, viz.",
+        "(iii) Freedom to form associations and unions."
+      ],
+      "title": "(iii) Freedom to form associations and unions.",
+      "sequence_number": 3,
+      "depth": 4,
+      "level_label": "Sub-point",
+      "has_notes": true
+    },
+    {
+      "path": "Salient Features of the Constitution-I > Fundamental Rights > 2. Right to Freedom-Articles 19 to 22 > (a) Under Article-19, the Constitution guarantees six basic freedoms to its Citizens, viz. > (iv) Freedom to move freely throughout India.",
+      "path_titles": [
+        "Salient Features of the Constitution-I",
+        "Fundamental Rights",
+        "2. Right to Freedom-Articles 19 to 22",
+        "(a) Under Article-19, the Constitution guarantees six basic freedoms to its Citizens, viz.",
+        "(iv) Freedom to move freely throughout India."
+      ],
+      "title": "(iv) Freedom to move freely throughout India.",
+      "sequence_number": 4,
+      "depth": 4,
+      "level_label": "Sub-point",
+      "has_notes": true
+    },
+    {
+      "path": "Salient Features of the Constitution-I > Fundamental Rights > 2. Right to Freedom-Articles 19 to 22 > (a) Under Article-19, the Constitution guarantees six basic freedoms to its Citizens, viz. > (v) Freedom to reside and settle in any part of India.",
+      "path_titles": [
+        "Salient Features of the Constitution-I",
+        "Fundamental Rights",
+        "2. Right to Freedom-Articles 19 to 22",
+        "(a) Under Article-19, the Constitution guarantees six basic freedoms to its Citizens, viz.",
+        "(v) Freedom to reside and settle in any part of India."
+      ],
+      "title": "(v) Freedom to reside and settle in any part of India.",
+      "sequence_number": 5,
+      "depth": 4,
+      "level_label": "Sub-point",
+      "has_notes": true
+    },
+    {
+      "path": "Salient Features of the Constitution-I > Fundamental Rights > 2. Right to Freedom-Articles 19 to 22 > (a) Under Article-19, the Constitution guarantees six basic freedoms to its Citizens, viz. > (vi) Freedom to practise any profession, trade or business.",
+      "path_titles": [
+        "Salient Features of the Constitution-I",
+        "Fundamental Rights",
+        "2. Right to Freedom-Articles 19 to 22",
+        "(a) Under Article-19, the Constitution guarantees six basic freedoms to its Citizens, viz.",
+        "(vi) Freedom to practise any profession, trade or business."
+      ],
+      "title": "(vi) Freedom to practise any profession, trade or business.",
+      "sequence_number": 6,
+      "depth": 4,
+      "level_label": "Sub-point",
+      "has_notes": true
+    },
+    {
+      "path": "Salient Features of the Constitution-I > Fundamental Rights > RIGHT TO INFORMATION",
+      "path_titles": [
+        "Salient Features of the Constitution-I",
+        "Fundamental Rights",
+        "RIGHT TO INFORMATION"
+      ],
+      "title": "RIGHT TO INFORMATION",
+      "sequence_number": 3,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Salient Features of the Constitution-I > Fundamental Rights > Supreme Court Declares Right to Privacy - A Fundamental Right > (a) Right to Privacy - A Fundamental Right",
+      "path_titles": [
+        "Salient Features of the Constitution-I",
+        "Fundamental Rights",
+        "Supreme Court Declares Right to Privacy - A Fundamental Right",
+        "(a) Right to Privacy - A Fundamental Right"
+      ],
+      "title": "(a) Right to Privacy - A Fundamental Right",
+      "sequence_number": 1,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "Salient Features of the Constitution-I > Fundamental Rights > Supreme Court Declares Right to Privacy - A Fundamental Right > (b) Not an Absolute Right - It is Subjected to Reasonable Restrictions",
+      "path_titles": [
+        "Salient Features of the Constitution-I",
+        "Fundamental Rights",
+        "Supreme Court Declares Right to Privacy - A Fundamental Right",
+        "(b) Not an Absolute Right - It is Subjected to Reasonable Restrictions"
+      ],
+      "title": "(b) Not an Absolute Right - It is Subjected to Reasonable Restrictions",
+      "sequence_number": 2,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "Salient Features of the Constitution-I > Fundamental Rights > Limitations > (i) Emergency: Article-19 can be suspended during Emergency.",
+      "path_titles": [
+        "Salient Features of the Constitution-I",
+        "Fundamental Rights",
+        "Limitations",
+        "(i) Emergency: Article-19 can be suspended during Emergency."
+      ],
+      "title": "(i) Emergency: Article-19 can be suspended during Emergency.",
+      "sequence_number": 1,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "Salient Features of the Constitution-I > Fundamental Rights > Limitations > (ii) Not Absolute: The security of the State and national interest being of paramount interest, reasonable restrictions could be imposed on the implementation of this right.",
+      "path_titles": [
+        "Salient Features of the Constitution-I",
+        "Fundamental Rights",
+        "Limitations",
+        "(ii) Not Absolute: The security of the State and national interest being of paramount interest, reasonable restrictions could be imposed on the implementation of this right."
+      ],
+      "title": "(ii) Not Absolute: The security of the State and national interest being of paramount interest, reasonable restrictions could be imposed on the implementation of this right.",
+      "sequence_number": 2,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "Salient Features of the Constitution-I > Fundamental Rights > Limitations > (iii) Laws of Parliament: Legislations like Preventive Detention; Essential Services Maintenance Act (ESMA, a law to ensure the delivery of essential services like public transport, health services, etc., which if obstructed would affect the normal life of the people) impose certain restrictions on the Right to Freedom.",
+      "path_titles": [
+        "Salient Features of the Constitution-I",
+        "Fundamental Rights",
+        "Limitations",
+        "(iii) Laws of Parliament: Legislations like Preventive Detention; Essential Services Maintenance Act (ESMA, a law to ensure the delivery of essential services like public transport, health services, etc., which if obstructed would affect the normal life of the people) impose certain restrictions on the Right to Freedom."
+      ],
+      "title": "(iii) Laws of Parliament: Legislations like Preventive Detention; Essential Services Maintenance Act (ESMA, a law to ensure the delivery of essential services like public transport, health services, etc., which if obstructed would affect the normal life of the people) impose certain restrictions on the Right to Freedom.",
+      "sequence_number": 3,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "Salient Features of the Constitution-I > Fundamental Rights > Limitations > (b) Protection in Respect of Conviction for Offences: Under Article-20 the following protections are available to a citizen: > (i) Against greater penalty than what is prescribed under the law is prohibited.",
+      "path_titles": [
+        "Salient Features of the Constitution-I",
+        "Fundamental Rights",
+        "Limitations",
+        "(b) Protection in Respect of Conviction for Offences: Under Article-20 the following protections are available to a citizen:",
+        "(i) Against greater penalty than what is prescribed under the law is prohibited."
+      ],
+      "title": "(i) Against greater penalty than what is prescribed under the law is prohibited.",
+      "sequence_number": 1,
+      "depth": 4,
+      "level_label": "Sub-point",
+      "has_notes": true
+    },
+    {
+      "path": "Salient Features of the Constitution-I > Fundamental Rights > Limitations > (b) Protection in Respect of Conviction for Offences: Under Article-20 the following protections are available to a citizen: > (ii) No one can be punished or prosecuted for the same offence twice.",
+      "path_titles": [
+        "Salient Features of the Constitution-I",
+        "Fundamental Rights",
+        "Limitations",
+        "(b) Protection in Respect of Conviction for Offences: Under Article-20 the following protections are available to a citizen:",
+        "(ii) No one can be punished or prosecuted for the same offence twice."
+      ],
+      "title": "(ii) No one can be punished or prosecuted for the same offence twice.",
+      "sequence_number": 2,
+      "depth": 4,
+      "level_label": "Sub-point",
+      "has_notes": true
+    },
+    {
+      "path": "Salient Features of the Constitution-I > Fundamental Rights > Limitations > (b) Protection in Respect of Conviction for Offences: Under Article-20 the following protections are available to a citizen: > (iii) A person cannot be compelled to be a witness in the case where he himself is accused of the offence.",
+      "path_titles": [
+        "Salient Features of the Constitution-I",
+        "Fundamental Rights",
+        "Limitations",
+        "(b) Protection in Respect of Conviction for Offences: Under Article-20 the following protections are available to a citizen:",
+        "(iii) A person cannot be compelled to be a witness in the case where he himself is accused of the offence."
+      ],
+      "title": "(iii) A person cannot be compelled to be a witness in the case where he himself is accused of the offence.",
+      "sequence_number": 3,
+      "depth": 4,
+      "level_label": "Sub-point",
+      "has_notes": true
+    },
+    {
+      "path": "Salient Features of the Constitution-I > Fundamental Rights > Limitations > (c) Protection of Life and Personal Liberty:",
+      "path_titles": [
+        "Salient Features of the Constitution-I",
+        "Fundamental Rights",
+        "Limitations",
+        "(c) Protection of Life and Personal Liberty:"
+      ],
+      "title": "(c) Protection of Life and Personal Liberty:",
+      "sequence_number": 5,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "Salient Features of the Constitution-I > Fundamental Rights > Limitations > (d) Protection Against Arrest and Detention: > (i) Ordinary Circumstances:",
+      "path_titles": [
+        "Salient Features of the Constitution-I",
+        "Fundamental Rights",
+        "Limitations",
+        "(d) Protection Against Arrest and Detention:",
+        "(i) Ordinary Circumstances:"
+      ],
+      "title": "(i) Ordinary Circumstances:",
+      "sequence_number": 1,
+      "depth": 4,
+      "level_label": "Sub-point",
+      "has_notes": true
+    },
+    {
+      "path": "Salient Features of the Constitution-I > Fundamental Rights > Limitations > (d) Protection Against Arrest and Detention: > (ii) Preventive Detention:",
+      "path_titles": [
+        "Salient Features of the Constitution-I",
+        "Fundamental Rights",
+        "Limitations",
+        "(d) Protection Against Arrest and Detention:",
+        "(ii) Preventive Detention:"
+      ],
+      "title": "(ii) Preventive Detention:",
+      "sequence_number": 2,
+      "depth": 4,
+      "level_label": "Sub-point",
+      "has_notes": true
+    },
+    {
+      "path": "Salient Features of the Constitution-I > Fundamental Rights > 3. Right Against Exploitation-Articles 23 and 24 > (i) Article 23-(a)",
+      "path_titles": [
+        "Salient Features of the Constitution-I",
+        "Fundamental Rights",
+        "3. Right Against Exploitation-Articles 23 and 24",
+        "(i) Article 23-(a)"
+      ],
+      "title": "(i) Article 23-(a)",
+      "sequence_number": 1,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "Salient Features of the Constitution-I > Fundamental Rights > 3. Right Against Exploitation-Articles 23 and 24 > (ii) Article 24",
+      "path_titles": [
+        "Salient Features of the Constitution-I",
+        "Fundamental Rights",
+        "3. Right Against Exploitation-Articles 23 and 24",
+        "(ii) Article 24"
+      ],
+      "title": "(ii) Article 24",
+      "sequence_number": 2,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "Salient Features of the Constitution-I > Fundamental Rights > 4. Right to Freedom of Religion",
+      "path_titles": [
+        "Salient Features of the Constitution-I",
+        "Fundamental Rights",
+        "4. Right to Freedom of Religion"
+      ],
+      "title": "4. Right to Freedom of Religion",
+      "sequence_number": 7,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Salient Features of the Constitution-I > Fundamental Rights > 5. Cultural and Educational Rights",
+      "path_titles": [
+        "Salient Features of the Constitution-I",
+        "Fundamental Rights",
+        "5. Cultural and Educational Rights"
+      ],
+      "title": "5. Cultural and Educational Rights",
+      "sequence_number": 8,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Salient Features of the Constitution-I > Fundamental Rights > 6. Right to Constitutional Remedies > (i) Habeas Corpus:",
+      "path_titles": [
+        "Salient Features of the Constitution-I",
+        "Fundamental Rights",
+        "6. Right to Constitutional Remedies",
+        "(i) Habeas Corpus:"
+      ],
+      "title": "(i) Habeas Corpus:",
+      "sequence_number": 1,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "Salient Features of the Constitution-I > Fundamental Rights > 6. Right to Constitutional Remedies > (ii) Mandamus:",
+      "path_titles": [
+        "Salient Features of the Constitution-I",
+        "Fundamental Rights",
+        "6. Right to Constitutional Remedies",
+        "(ii) Mandamus:"
+      ],
+      "title": "(ii) Mandamus:",
+      "sequence_number": 2,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "Salient Features of the Constitution-I > Fundamental Rights > 6. Right to Constitutional Remedies > (iii) Writ of Prohibition:",
+      "path_titles": [
+        "Salient Features of the Constitution-I",
+        "Fundamental Rights",
+        "6. Right to Constitutional Remedies",
+        "(iii) Writ of Prohibition:"
+      ],
+      "title": "(iii) Writ of Prohibition:",
+      "sequence_number": 3,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "Salient Features of the Constitution-I > Fundamental Rights > 6. Right to Constitutional Remedies > (iv) Writ of Certiorari:",
+      "path_titles": [
+        "Salient Features of the Constitution-I",
+        "Fundamental Rights",
+        "6. Right to Constitutional Remedies",
+        "(iv) Writ of Certiorari:"
+      ],
+      "title": "(iv) Writ of Certiorari:",
+      "sequence_number": 4,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "Salient Features of the Constitution-I > Fundamental Rights > 6. Right to Constitutional Remedies > (v) Quo-warranto:",
+      "path_titles": [
+        "Salient Features of the Constitution-I",
+        "Fundamental Rights",
+        "6. Right to Constitutional Remedies",
+        "(v) Quo-warranto:"
+      ],
+      "title": "(v) Quo-warranto:",
+      "sequence_number": 5,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "Salient Features of the Constitution-I > Fundamental Rights > 7. Right to Education",
+      "path_titles": [
+        "Salient Features of the Constitution-I",
+        "Fundamental Rights",
+        "7. Right to Education"
+      ],
+      "title": "7. Right to Education",
+      "sequence_number": 10,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Salient Features of the Constitution-I > RIGHT TO PROPERTY",
+      "path_titles": [
+        "Salient Features of the Constitution-I",
+        "RIGHT TO PROPERTY"
+      ],
+      "title": "RIGHT TO PROPERTY",
+      "sequence_number": 4,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Salient Features of the Constitution-I > CHECK ON ARBITRARY ACTIONS OF THE STATE",
+      "path_titles": [
+        "Salient Features of the Constitution-I",
+        "CHECK ON ARBITRARY ACTIONS OF THE STATE"
+      ],
+      "title": "CHECK ON ARBITRARY ACTIONS OF THE STATE",
+      "sequence_number": 5,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Salient Features of the Constitution-I > RESTRICTIONS IMPOSED",
+      "path_titles": [
+        "Salient Features of the Constitution-I",
+        "RESTRICTIONS IMPOSED"
+      ],
+      "title": "RESTRICTIONS IMPOSED",
+      "sequence_number": 6,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Salient Features of the Constitution-I > SUSPENSION OF FUNDAMENTAL RIGHTS",
+      "path_titles": [
+        "Salient Features of the Constitution-I",
+        "SUSPENSION OF FUNDAMENTAL RIGHTS"
+      ],
+      "title": "SUSPENSION OF FUNDAMENTAL RIGHTS",
+      "sequence_number": 7,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Salient Features of the Constitution-I > FUNDAMENTAL DUTIES > KINDS OF DUTIES",
+      "path_titles": [
+        "Salient Features of the Constitution-I",
+        "FUNDAMENTAL DUTIES",
+        "KINDS OF DUTIES"
+      ],
+      "title": "KINDS OF DUTIES",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Salient Features of the Constitution-I > FUNDAMENTAL DUTIES > IMPORTANCE OF FUNDAMENTAL DUTIES",
+      "path_titles": [
+        "Salient Features of the Constitution-I",
+        "FUNDAMENTAL DUTIES",
+        "IMPORTANCE OF FUNDAMENTAL DUTIES"
+      ],
+      "title": "IMPORTANCE OF FUNDAMENTAL DUTIES",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    }
+  ],
+  "stray_leaves": [
+    {
+      "title": "What Privacy includes",
+      "insert_after_index": 19,
+      "micro_topics": [],
+      "has_notes": true
+    },
+    {
+      "title": "LIMITATIONS",
+      "insert_after_index": 31,
+      "micro_topics": [
+        "(i) Public interest",
+        "(ii) Power of the Parliament"
+      ],
+      "has_notes": true
+    },
+    {
+      "title": "(b) Trafficking in human beings",
+      "insert_after_index": 33,
+      "micro_topics": [],
+      "has_notes": true
+    },
+    {
+      "title": "Articles 29 and 30: Protection of Minorities:",
+      "insert_after_index": 36,
+      "micro_topics": [
+        "Minorities and Educational Institutions:"
+      ],
+      "has_notes": true
+    }
+  ]
+}

@@ -1,0 +1,442 @@
+{
+  "syllabus_leaves": [
+    {
+      "path": "ROCKS AND MINERALS",
+      "path_titles": [
+        "ROCKS AND MINERALS"
+      ],
+      "title": "ROCKS AND MINERALS",
+      "sequence_number": 1,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "TYPES OF ROCKS > IGNEOUS ROCKS > Formation",
+      "path_titles": [
+        "TYPES OF ROCKS",
+        "IGNEOUS ROCKS",
+        "Formation"
+      ],
+      "title": "Formation",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "TYPES OF ROCKS > IGNEOUS ROCKS > Characteristics of Igneous Rocks",
+      "path_titles": [
+        "TYPES OF ROCKS",
+        "IGNEOUS ROCKS",
+        "Characteristics of Igneous Rocks"
+      ],
+      "title": "Characteristics of Igneous Rocks",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "TYPES OF ROCKS > IGNEOUS ROCKS > Classification Based on Origin > Extrusive Igneous Rocks",
+      "path_titles": [
+        "TYPES OF ROCKS",
+        "IGNEOUS ROCKS",
+        "Classification Based on Origin",
+        "Extrusive Igneous Rocks"
+      ],
+      "title": "Extrusive Igneous Rocks",
+      "sequence_number": 1,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "TYPES OF ROCKS > IGNEOUS ROCKS > Classification Based on Origin > Intrusive Igneous Rocks > Batholiths",
+      "path_titles": [
+        "TYPES OF ROCKS",
+        "IGNEOUS ROCKS",
+        "Classification Based on Origin",
+        "Intrusive Igneous Rocks",
+        "Batholiths"
+      ],
+      "title": "Batholiths",
+      "sequence_number": 1,
+      "depth": 4,
+      "level_label": "Sub-point",
+      "has_notes": true
+    },
+    {
+      "path": "TYPES OF ROCKS > IGNEOUS ROCKS > Classification Based on Origin > Intrusive Igneous Rocks > Laccoliths",
+      "path_titles": [
+        "TYPES OF ROCKS",
+        "IGNEOUS ROCKS",
+        "Classification Based on Origin",
+        "Intrusive Igneous Rocks",
+        "Laccoliths"
+      ],
+      "title": "Laccoliths",
+      "sequence_number": 2,
+      "depth": 4,
+      "level_label": "Sub-point",
+      "has_notes": true
+    },
+    {
+      "path": "TYPES OF ROCKS > IGNEOUS ROCKS > Classification Based on Origin > Intrusive Igneous Rocks > Sills",
+      "path_titles": [
+        "TYPES OF ROCKS",
+        "IGNEOUS ROCKS",
+        "Classification Based on Origin",
+        "Intrusive Igneous Rocks",
+        "Sills"
+      ],
+      "title": "Sills",
+      "sequence_number": 3,
+      "depth": 4,
+      "level_label": "Sub-point",
+      "has_notes": true
+    },
+    {
+      "path": "TYPES OF ROCKS > IGNEOUS ROCKS > Classification Based on Origin > Intrusive Igneous Rocks > Dykes",
+      "path_titles": [
+        "TYPES OF ROCKS",
+        "IGNEOUS ROCKS",
+        "Classification Based on Origin",
+        "Intrusive Igneous Rocks",
+        "Dykes"
+      ],
+      "title": "Dykes",
+      "sequence_number": 4,
+      "depth": 4,
+      "level_label": "Sub-point",
+      "has_notes": true
+    },
+    {
+      "path": "TYPES OF ROCKS > IGNEOUS ROCKS > Classification Based on Origin > Intrusive Igneous Rocks > Necks",
+      "path_titles": [
+        "TYPES OF ROCKS",
+        "IGNEOUS ROCKS",
+        "Classification Based on Origin",
+        "Intrusive Igneous Rocks",
+        "Necks"
+      ],
+      "title": "Necks",
+      "sequence_number": 5,
+      "depth": 4,
+      "level_label": "Sub-point",
+      "has_notes": true
+    },
+    {
+      "path": "TYPES OF ROCKS > IGNEOUS ROCKS > Classification on the Basis of Chemical Composition > Acid Igneous Rocks",
+      "path_titles": [
+        "TYPES OF ROCKS",
+        "IGNEOUS ROCKS",
+        "Classification on the Basis of Chemical Composition",
+        "Acid Igneous Rocks"
+      ],
+      "title": "Acid Igneous Rocks",
+      "sequence_number": 1,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "TYPES OF ROCKS > IGNEOUS ROCKS > Classification on the Basis of Chemical Composition > Basic Igneous Rocks",
+      "path_titles": [
+        "TYPES OF ROCKS",
+        "IGNEOUS ROCKS",
+        "Classification on the Basis of Chemical Composition",
+        "Basic Igneous Rocks"
+      ],
+      "title": "Basic Igneous Rocks",
+      "sequence_number": 2,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "TYPES OF ROCKS > SEDIMENTARY ROCKS > Formation",
+      "path_titles": [
+        "TYPES OF ROCKS",
+        "SEDIMENTARY ROCKS",
+        "Formation"
+      ],
+      "title": "Formation",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": false
+    },
+    {
+      "path": "TYPES OF ROCKS > SEDIMENTARY ROCKS > Characteristics of Sedimentary Rocks",
+      "path_titles": [
+        "TYPES OF ROCKS",
+        "SEDIMENTARY ROCKS",
+        "Characteristics of Sedimentary Rocks"
+      ],
+      "title": "Characteristics of Sedimentary Rocks",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "TYPES OF ROCKS > SEDIMENTARY ROCKS > Processes Involved > Evaporation",
+      "path_titles": [
+        "TYPES OF ROCKS",
+        "SEDIMENTARY ROCKS",
+        "Processes Involved",
+        "Evaporation"
+      ],
+      "title": "Evaporation",
+      "sequence_number": 1,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "TYPES OF ROCKS > SEDIMENTARY ROCKS > Processes Involved > Compaction",
+      "path_titles": [
+        "TYPES OF ROCKS",
+        "SEDIMENTARY ROCKS",
+        "Processes Involved",
+        "Compaction"
+      ],
+      "title": "Compaction",
+      "sequence_number": 2,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "TYPES OF ROCKS > SEDIMENTARY ROCKS > Processes Involved > Cementation",
+      "path_titles": [
+        "TYPES OF ROCKS",
+        "SEDIMENTARY ROCKS",
+        "Processes Involved",
+        "Cementation"
+      ],
+      "title": "Cementation",
+      "sequence_number": 3,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "TYPES OF ROCKS > SEDIMENTARY ROCKS > Classification on the Basis of Formation > Mechanically formed rocks",
+      "path_titles": [
+        "TYPES OF ROCKS",
+        "SEDIMENTARY ROCKS",
+        "Classification on the Basis of Formation",
+        "Mechanically formed rocks"
+      ],
+      "title": "Mechanically formed rocks",
+      "sequence_number": 1,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "TYPES OF ROCKS > SEDIMENTARY ROCKS > Classification on the Basis of Formation > Chemically formed rocks",
+      "path_titles": [
+        "TYPES OF ROCKS",
+        "SEDIMENTARY ROCKS",
+        "Classification on the Basis of Formation",
+        "Chemically formed rocks"
+      ],
+      "title": "Chemically formed rocks",
+      "sequence_number": 2,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "TYPES OF ROCKS > SEDIMENTARY ROCKS > Classification on the Basis of Formation > Organically formed rocks",
+      "path_titles": [
+        "TYPES OF ROCKS",
+        "SEDIMENTARY ROCKS",
+        "Classification on the Basis of Formation",
+        "Organically formed rocks"
+      ],
+      "title": "Organically formed rocks",
+      "sequence_number": 3,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "TYPES OF ROCKS > SEDIMENTARY ROCKS > Classification on the Basis of Agents Formation > Riverine Rocks",
+      "path_titles": [
+        "TYPES OF ROCKS",
+        "SEDIMENTARY ROCKS",
+        "Classification on the Basis of Agents Formation",
+        "Riverine Rocks"
+      ],
+      "title": "Riverine Rocks",
+      "sequence_number": 1,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "TYPES OF ROCKS > SEDIMENTARY ROCKS > Classification on the Basis of Agents Formation > Lacustrine Rocks",
+      "path_titles": [
+        "TYPES OF ROCKS",
+        "SEDIMENTARY ROCKS",
+        "Classification on the Basis of Agents Formation",
+        "Lacustrine Rocks"
+      ],
+      "title": "Lacustrine Rocks",
+      "sequence_number": 2,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "TYPES OF ROCKS > SEDIMENTARY ROCKS > Classification on the Basis of Agents Formation > Glacial Rocks",
+      "path_titles": [
+        "TYPES OF ROCKS",
+        "SEDIMENTARY ROCKS",
+        "Classification on the Basis of Agents Formation",
+        "Glacial Rocks"
+      ],
+      "title": "Glacial Rocks",
+      "sequence_number": 3,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "TYPES OF ROCKS > SEDIMENTARY ROCKS > Classification on the Basis of Agents Formation > Aeolian Rocks",
+      "path_titles": [
+        "TYPES OF ROCKS",
+        "SEDIMENTARY ROCKS",
+        "Classification on the Basis of Agents Formation",
+        "Aeolian Rocks"
+      ],
+      "title": "Aeolian Rocks",
+      "sequence_number": 4,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "TYPES OF ROCKS > SEDIMENTARY ROCKS > Classification on the Basis of Agents Formation > Marine Rocks > Calcarious Sedimentary Marine Rocks",
+      "path_titles": [
+        "TYPES OF ROCKS",
+        "SEDIMENTARY ROCKS",
+        "Classification on the Basis of Agents Formation",
+        "Marine Rocks",
+        "Calcarious Sedimentary Marine Rocks"
+      ],
+      "title": "Calcarious Sedimentary Marine Rocks",
+      "sequence_number": 1,
+      "depth": 4,
+      "level_label": "Sub-point",
+      "has_notes": true
+    },
+    {
+      "path": "TYPES OF ROCKS > SEDIMENTARY ROCKS > Classification on the Basis of Agents Formation > Marine Rocks > Carbonaceous Sedimentary Rocks",
+      "path_titles": [
+        "TYPES OF ROCKS",
+        "SEDIMENTARY ROCKS",
+        "Classification on the Basis of Agents Formation",
+        "Marine Rocks",
+        "Carbonaceous Sedimentary Rocks"
+      ],
+      "title": "Carbonaceous Sedimentary Rocks",
+      "sequence_number": 2,
+      "depth": 4,
+      "level_label": "Sub-point",
+      "has_notes": true
+    },
+    {
+      "path": "TYPES OF ROCKS > METAMORPHIC ROCKS > Formation",
+      "path_titles": [
+        "TYPES OF ROCKS",
+        "METAMORPHIC ROCKS",
+        "Formation"
+      ],
+      "title": "Formation",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "TYPES OF ROCKS > METAMORPHIC ROCKS > Characteristics of Metamorphic Rocks",
+      "path_titles": [
+        "TYPES OF ROCKS",
+        "METAMORPHIC ROCKS",
+        "Characteristics of Metamorphic Rocks"
+      ],
+      "title": "Characteristics of Metamorphic Rocks",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "TYPES OF ROCKS > METAMORPHIC ROCKS > Thermal Metamorphism",
+      "path_titles": [
+        "TYPES OF ROCKS",
+        "METAMORPHIC ROCKS",
+        "Thermal Metamorphism"
+      ],
+      "title": "Thermal Metamorphism",
+      "sequence_number": 3,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "TYPES OF ROCKS > METAMORPHIC ROCKS > Dynamic Metamorphism",
+      "path_titles": [
+        "TYPES OF ROCKS",
+        "METAMORPHIC ROCKS",
+        "Dynamic Metamorphism"
+      ],
+      "title": "Dynamic Metamorphism",
+      "sequence_number": 4,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "TYPES OF ROCKS > METAMORPHIC ROCKS > Regional Metamorphism",
+      "path_titles": [
+        "TYPES OF ROCKS",
+        "METAMORPHIC ROCKS",
+        "Regional Metamorphism"
+      ],
+      "title": "Regional Metamorphism",
+      "sequence_number": 5,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "ECONOMIC SIGNIFICANCE OF ROCKS",
+      "path_titles": [
+        "ECONOMIC SIGNIFICANCE OF ROCKS"
+      ],
+      "title": "ECONOMIC SIGNIFICANCE OF ROCKS",
+      "sequence_number": 3,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "ROCK CYCLE",
+      "path_titles": [
+        "ROCK CYCLE"
+      ],
+      "title": "ROCK CYCLE",
+      "sequence_number": 4,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    }
+  ],
+  "stray_leaves": []
+}

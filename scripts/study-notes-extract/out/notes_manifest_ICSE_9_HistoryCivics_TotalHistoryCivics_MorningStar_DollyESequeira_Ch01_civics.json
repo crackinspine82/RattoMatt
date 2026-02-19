@@ -1,0 +1,140 @@
+{
+  "syllabus_leaves": [
+    {
+      "path": "Our Constitution > Definition of Constitution - date of adoption, date of enforcement and its significance.",
+      "path_titles": [
+        "Our Constitution",
+        "Definition of Constitution - date of adoption, date of enforcement and its significance."
+      ],
+      "title": "Definition of Constitution - date of adoption, date of enforcement and its significance.",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "ENACTMENT OF THE INDIAN CONSTITUTION",
+      "path_titles": [
+        "ENACTMENT OF THE INDIAN CONSTITUTION"
+      ],
+      "title": "ENACTMENT OF THE INDIAN CONSTITUTION",
+      "sequence_number": 2,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "FORMATION OF THE CONSTITUENT ASSEMBLY",
+      "path_titles": [
+        "FORMATION OF THE CONSTITUENT ASSEMBLY"
+      ],
+      "title": "FORMATION OF THE CONSTITUENT ASSEMBLY",
+      "sequence_number": 3,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "COMPOSITION OF THE CONSTITUENT ASSEMBLY",
+      "path_titles": [
+        "COMPOSITION OF THE CONSTITUENT ASSEMBLY"
+      ],
+      "title": "COMPOSITION OF THE CONSTITUENT ASSEMBLY",
+      "sequence_number": 4,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "Objectives Resolution",
+      "path_titles": [
+        "Objectives Resolution"
+      ],
+      "title": "Objectives Resolution",
+      "sequence_number": 5,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "DRAFTING COMMITTEE",
+      "path_titles": [
+        "DRAFTING COMMITTEE"
+      ],
+      "title": "DRAFTING COMMITTEE",
+      "sequence_number": 6,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "DR. AMBEDKAR'S CONTRIBUTION TO THE INDIAN CONSTITUTION",
+      "path_titles": [
+        "DR. AMBEDKAR'S CONTRIBUTION TO THE INDIAN CONSTITUTION"
+      ],
+      "title": "DR. AMBEDKAR'S CONTRIBUTION TO THE INDIAN CONSTITUTION",
+      "sequence_number": 7,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "READINGS",
+      "path_titles": [
+        "READINGS"
+      ],
+      "title": "READINGS",
+      "sequence_number": 8,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "TIME TAKEN",
+      "path_titles": [
+        "TIME TAKEN"
+      ],
+      "title": "TIME TAKEN",
+      "sequence_number": 9,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "IMPLEMENTATION OF THE CONSTITUTION",
+      "path_titles": [
+        "IMPLEMENTATION OF THE CONSTITUTION"
+      ],
+      "title": "IMPLEMENTATION OF THE CONSTITUTION",
+      "sequence_number": 10,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "SIGNIFICANCE OF JANUARY 26",
+      "path_titles": [
+        "SIGNIFICANCE OF JANUARY 26"
+      ],
+      "title": "SIGNIFICANCE OF JANUARY 26",
+      "sequence_number": 11,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    }
+  ],
+  "stray_leaves": [
+    {
+      "title": "Fact File",
+      "insert_after_index": 11,
+      "micro_topics": [],
+      "has_notes": true
+    },
+    {
+      "title": "TERMS TO REMEMBER",
+      "insert_after_index": 11,
+      "micro_topics": [],
+      "has_notes": true
+    }
+  ]
+}

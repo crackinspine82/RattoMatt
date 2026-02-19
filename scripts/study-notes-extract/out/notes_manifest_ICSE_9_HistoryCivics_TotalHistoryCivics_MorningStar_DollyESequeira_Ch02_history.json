@@ -1,0 +1,493 @@
+{
+  "syllabus_leaves": [
+    {
+      "path": "SOURCES > A. LITERARY SOURCES > 1. THE VEDAS > (i) The Rig Veda:",
+      "path_titles": [
+        "SOURCES",
+        "A. LITERARY SOURCES",
+        "1. THE VEDAS",
+        "(i) The Rig Veda:"
+      ],
+      "title": "(i) The Rig Veda:",
+      "sequence_number": 1,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "SOURCES > A. LITERARY SOURCES > 1. THE VEDAS > (ii) The Sama Veda:",
+      "path_titles": [
+        "SOURCES",
+        "A. LITERARY SOURCES",
+        "1. THE VEDAS",
+        "(ii) The Sama Veda:"
+      ],
+      "title": "(ii) The Sama Veda:",
+      "sequence_number": 2,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "SOURCES > A. LITERARY SOURCES > 1. THE VEDAS > (iii) The Yajur Veda:",
+      "path_titles": [
+        "SOURCES",
+        "A. LITERARY SOURCES",
+        "1. THE VEDAS",
+        "(iii) The Yajur Veda:"
+      ],
+      "title": "(iii) The Yajur Veda:",
+      "sequence_number": 3,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "SOURCES > A. LITERARY SOURCES > 1. THE VEDAS > (iv) The Atharva Veda:",
+      "path_titles": [
+        "SOURCES",
+        "A. LITERARY SOURCES",
+        "1. THE VEDAS",
+        "(iv) The Atharva Veda:"
+      ],
+      "title": "(iv) The Atharva Veda:",
+      "sequence_number": 4,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "SOURCES > A. LITERARY SOURCES > THE BRAHMANAS",
+      "path_titles": [
+        "SOURCES",
+        "A. LITERARY SOURCES",
+        "THE BRAHMANAS"
+      ],
+      "title": "THE BRAHMANAS",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "SOURCES > A. LITERARY SOURCES > The Aranyakas",
+      "path_titles": [
+        "SOURCES",
+        "A. LITERARY SOURCES",
+        "The Aranyakas"
+      ],
+      "title": "The Aranyakas",
+      "sequence_number": 3,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "SOURCES > A. LITERARY SOURCES > The Upanishads",
+      "path_titles": [
+        "SOURCES",
+        "A. LITERARY SOURCES",
+        "The Upanishads"
+      ],
+      "title": "The Upanishads",
+      "sequence_number": 4,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "SOURCES > A. LITERARY SOURCES > ALLIED VEDIC LITERATURE > (i) The Vedangas:",
+      "path_titles": [
+        "SOURCES",
+        "A. LITERARY SOURCES",
+        "ALLIED VEDIC LITERATURE",
+        "(i) The Vedangas:"
+      ],
+      "title": "(i) The Vedangas:",
+      "sequence_number": 1,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "SOURCES > A. LITERARY SOURCES > ALLIED VEDIC LITERATURE > (ii) The Sutras:",
+      "path_titles": [
+        "SOURCES",
+        "A. LITERARY SOURCES",
+        "ALLIED VEDIC LITERATURE",
+        "(ii) The Sutras:"
+      ],
+      "title": "(ii) The Sutras:",
+      "sequence_number": 2,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "SOURCES > A. LITERARY SOURCES > ALLIED VEDIC LITERATURE > (iii) The Upavedas:",
+      "path_titles": [
+        "SOURCES",
+        "A. LITERARY SOURCES",
+        "ALLIED VEDIC LITERATURE",
+        "(iii) The Upavedas:"
+      ],
+      "title": "(iii) The Upavedas:",
+      "sequence_number": 3,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "SOURCES > A. LITERARY SOURCES > ALLIED VEDIC LITERATURE > (iv) Darshanas:",
+      "path_titles": [
+        "SOURCES",
+        "A. LITERARY SOURCES",
+        "ALLIED VEDIC LITERATURE",
+        "(iv) Darshanas:"
+      ],
+      "title": "(iv) Darshanas:",
+      "sequence_number": 4,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "SOURCES > A. LITERARY SOURCES > ALLIED VEDIC LITERATURE > (v) The Dharmashastras:",
+      "path_titles": [
+        "SOURCES",
+        "A. LITERARY SOURCES",
+        "ALLIED VEDIC LITERATURE",
+        "(v) The Dharmashastras:"
+      ],
+      "title": "(v) The Dharmashastras:",
+      "sequence_number": 5,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "SOURCES > A. LITERARY SOURCES > ALLIED VEDIC LITERATURE > (vi) The Ashtadhyayi:",
+      "path_titles": [
+        "SOURCES",
+        "A. LITERARY SOURCES",
+        "ALLIED VEDIC LITERATURE",
+        "(vi) The Ashtadhyayi:"
+      ],
+      "title": "(vi) The Ashtadhyayi:",
+      "sequence_number": 6,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "SOURCES > A. LITERARY SOURCES > The Importance of the Vedas > (i)",
+      "path_titles": [
+        "SOURCES",
+        "A. LITERARY SOURCES",
+        "The Importance of the Vedas",
+        "(i)"
+      ],
+      "title": "(i)",
+      "sequence_number": 1,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "SOURCES > A. LITERARY SOURCES > The Importance of the Vedas > (ii)",
+      "path_titles": [
+        "SOURCES",
+        "A. LITERARY SOURCES",
+        "The Importance of the Vedas",
+        "(ii)"
+      ],
+      "title": "(ii)",
+      "sequence_number": 2,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "SOURCES > 2. THE EPICS > Ramayana:",
+      "path_titles": [
+        "SOURCES",
+        "2. THE EPICS",
+        "Ramayana:"
+      ],
+      "title": "Ramayana:",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "SOURCES > 2. THE EPICS > Mahabharata:",
+      "path_titles": [
+        "SOURCES",
+        "2. THE EPICS",
+        "Mahabharata:"
+      ],
+      "title": "Mahabharata:",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "SOURCES > 2. THE EPICS > The Importance of the Epics > (i)",
+      "path_titles": [
+        "SOURCES",
+        "2. THE EPICS",
+        "The Importance of the Epics",
+        "(i)"
+      ],
+      "title": "(i)",
+      "sequence_number": 1,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "SOURCES > 2. THE EPICS > The Importance of the Epics > (ii)",
+      "path_titles": [
+        "SOURCES",
+        "2. THE EPICS",
+        "The Importance of the Epics",
+        "(ii)"
+      ],
+      "title": "(ii)",
+      "sequence_number": 2,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "SOURCES > 2. THE EPICS > The Importance of the Epics > (iii)",
+      "path_titles": [
+        "SOURCES",
+        "2. THE EPICS",
+        "The Importance of the Epics",
+        "(iii)"
+      ],
+      "title": "(iii)",
+      "sequence_number": 3,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "SOURCES > 2. THE EPICS > The Importance of the Epics > (iv)",
+      "path_titles": [
+        "SOURCES",
+        "2. THE EPICS",
+        "The Importance of the Epics",
+        "(iv)"
+      ],
+      "title": "(iv)",
+      "sequence_number": 4,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "SOURCES > 2. THE EPICS > The Importance of the Epics > (v)",
+      "path_titles": [
+        "SOURCES",
+        "2. THE EPICS",
+        "The Importance of the Epics",
+        "(v)"
+      ],
+      "title": "(v)",
+      "sequence_number": 5,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "SOURCES > 2. THE EPICS > The Importance of the Epics > (vi)",
+      "path_titles": [
+        "SOURCES",
+        "2. THE EPICS",
+        "The Importance of the Epics",
+        "(vi)"
+      ],
+      "title": "(vi)",
+      "sequence_number": 6,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "SOURCES > B. ARCHAEOLOGICAL SOURCES > 1. Iron Artifacts: > (i) Agriculture",
+      "path_titles": [
+        "SOURCES",
+        "B. ARCHAEOLOGICAL SOURCES",
+        "1. Iron Artifacts:",
+        "(i) Agriculture"
+      ],
+      "title": "(i) Agriculture",
+      "sequence_number": 1,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "SOURCES > B. ARCHAEOLOGICAL SOURCES > 1. Iron Artifacts: > (ii) Occupation:",
+      "path_titles": [
+        "SOURCES",
+        "B. ARCHAEOLOGICAL SOURCES",
+        "1. Iron Artifacts:",
+        "(ii) Occupation:"
+      ],
+      "title": "(ii) Occupation:",
+      "sequence_number": 2,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "SOURCES > B. ARCHAEOLOGICAL SOURCES > 1. Iron Artifacts: > (iii) Defence:",
+      "path_titles": [
+        "SOURCES",
+        "B. ARCHAEOLOGICAL SOURCES",
+        "1. Iron Artifacts:",
+        "(iii) Defence:"
+      ],
+      "title": "(iii) Defence:",
+      "sequence_number": 3,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "SOURCES > B. ARCHAEOLOGICAL SOURCES > 2. Pottery:",
+      "path_titles": [
+        "SOURCES",
+        "B. ARCHAEOLOGICAL SOURCES",
+        "2. Pottery:"
+      ],
+      "title": "2. Pottery:",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "EARLY SETTLEMENTS",
+      "path_titles": [
+        "EARLY SETTLEMENTS"
+      ],
+      "title": "EARLY SETTLEMENTS",
+      "sequence_number": 2,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "SOCIETY > SOCIAL ORGANISATION",
+      "path_titles": [
+        "SOCIETY",
+        "SOCIAL ORGANISATION"
+      ],
+      "title": "SOCIAL ORGANISATION",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "SOCIETY > CLASS DIVISIONS",
+      "path_titles": [
+        "SOCIETY",
+        "CLASS DIVISIONS"
+      ],
+      "title": "CLASS DIVISIONS",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "SOCIETY > POSITION OF WOMEN",
+      "path_titles": [
+        "SOCIETY",
+        "POSITION OF WOMEN"
+      ],
+      "title": "POSITION OF WOMEN",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "SOCIETY > THE FOUR ASHRAMAS",
+      "path_titles": [
+        "SOCIETY",
+        "THE FOUR ASHRAMAS"
+      ],
+      "title": "THE FOUR ASHRAMAS",
+      "sequence_number": 4,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "EDUCATION",
+      "path_titles": [
+        "EDUCATION"
+      ],
+      "title": "EDUCATION",
+      "sequence_number": 4,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "FOOD, DRESS AND AMUSEMENTS",
+      "path_titles": [
+        "FOOD, DRESS AND AMUSEMENTS"
+      ],
+      "title": "FOOD, DRESS AND AMUSEMENTS",
+      "sequence_number": 5,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "RELIGIOUS BELIEFS",
+      "path_titles": [
+        "RELIGIOUS BELIEFS"
+      ],
+      "title": "RELIGIOUS BELIEFS",
+      "sequence_number": 6,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "ECONOMY",
+      "path_titles": [
+        "ECONOMY"
+      ],
+      "title": "ECONOMY",
+      "sequence_number": 7,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    }
+  ],
+  "stray_leaves": [
+    {
+      "title": "*ORIGIN OF THE ARYANS",
+      "insert_after_index": 35,
+      "micro_topics": [],
+      "has_notes": true
+    },
+    {
+      "title": "A Comparison: Early Vedic Age and Later Vedic Age",
+      "insert_after_index": 45,
+      "micro_topics": [],
+      "has_notes": true
+    }
+  ]
+}

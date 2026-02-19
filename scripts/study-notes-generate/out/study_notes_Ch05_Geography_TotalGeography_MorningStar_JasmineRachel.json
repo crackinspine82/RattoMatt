@@ -1,0 +1,112 @@
+{
+  "board": "ICSE",
+  "grade": 9,
+  "subject": "Geography",
+  "book_slug": "TotalGeography_MorningStar_JasmineRachel",
+  "book_meta": {
+    "book_name": "Total Geography",
+    "publication": "Morning Star",
+    "author": "Jasmine Rachel"
+  },
+  "chapter_sequence_number": 5,
+  "chapter_title": "Landforms of the earth",
+  "discipline": null,
+  "generated_at": "2026-02-10T16:30:18.011Z",
+  "sections": [
+    {
+      "title": "Causes of Landform Development",
+      "level_label": "Section",
+      "content_md": "A **landform** is a natural feature of the earth's surface. The earth's internal heat melts rocks and keeps the **asthenosphere** (underneath the crust) in a semi-molten state, leading to conditions that cause landform development.\n\nThe forces causing landforms can be classified as:\n*   **Endogenic Forces (Internal Processes)**: Originate inside the earth.\n    *   **Diastrophic (large scale) Forces**: \n        *   **Epeirogenic (Continent building) Forces**: Cause Block Mountains, Basins, Rift valleys, Plains.\n        *   **Orogenic (Mountain building) Forces**: Cause Fold Mountains, Faults, Plateaus, Landforms.\n*   **Exogenic Forces (External Processes)**: Originate on the surface of the earth, e.g., Alluvial and erosional plains, valleys, glacial landforms.\n\n[Image: Fig. 5.1. Forces causing formation of landforms]"
+    },
+    {
+      "title": "Plate Tectonics",
+      "level_label": "Topic",
+      "content_md": "The lithosphere is broken into several small and big plates that float on the semi-molten asthenosphere. The slow horizontal movement of these plates causes them to push, collide, or slide past each other. This disturbs sedimentary rock deposits, which get compressed, causing **folding** of the rocks. Almost all fold mountain ranges have been formed this way. The forces responsible for this are called **Orogenic movements**, from the Greek word for 'mountain-building'. These forces act at a tangent to the earth's surface and are primarily involved in plate tectonics."
+    },
+    {
+      "title": "Uplift and Submergence",
+      "level_label": "Topic",
+      "content_md": "Another set of forces inside the earth act along the radius from the earth's centre to the surface, causing large-scale uplift or subsidence of land. These vertical movements are known as **Epeirogenic movements** or **Continent building movements**. ('Epeiros' in Greek means 'continent'; 'genic' means 'building'). These movements result from **faulting** or cracks in the earth's surface, producing block mountains, basins, and rift valleys.\n\nTogether, the **orogenic** and **epeirogenic** forces are called **Diastrophic Forces**, originating deep inside the earth. They act horizontally and vertically to produce relief features like mountains, plateaus, plains, lakes, and large faults."
+    },
+    {
+      "title": "Exogenic Forces",
+      "level_label": "Topic",
+      "content_md": "These are forces operating on the surface of the earth, not inside it. **Exogenic forces** are described as **Destructive Forces** because they cause widespread destruction of existing landforms through weathering and erosion. They then form new landforms through both erosion and deposition."
+    },
+    {
+      "title": "LANDFORMS",
+      "level_label": "Section",
+      "content_md": "There are a large number of landforms on the surface of the earth. The major landforms are: (i) Mountains; (ii) Plateaus; and (iii) Plains."
+    },
+    {
+      "title": "Mountains",
+      "level_label": "Topic",
+      "content_md": "A **mountain** is described as a very steep land or hill rising to great heights above the surrounding land. Mountains are classified into three main types based on their formation: **Fold Mountains**, **Residual Mountains**, and **Block Mountains**."
+    },
+    {
+      "title": "Fold Mountains",
+      "level_label": "Subtopic",
+      "content_md": "Fold mountains are the result of lateral compression of the earth's crust, caused by large-scale earth movements. Stresses in the crust, from factors like the weight of overlying rocks or movements in the mantle, subject rocks to compressive forces, producing wrinkling or **folding** along lines of weakness. The raising of these folds creates fold mountains.\n\nExamples include the Andes (South America), Rockies (North America), Alps (Europe), Atlas (Africa), and the Himalayas, Zagros, Elburg, and Kunlun (Asia).\n\n**Chief Characteristics:**\n*   They form irregular wave-like formations called **folds**. The upfold rock strata in an arch-like shape are called **anticlines** or crests, and the down-folded structures are known as **synclines** or troughs.\n*   Most are made of **sedimentary rocks** formed from deposition in shallow oceans, like the Tethys sea in the case of the Himalayas.\n*   They have greater length but are comparatively smaller in width (e.g., the Himalayas are about 2400 km long).\n*   Most, except the Himalayas, are found on the margins of continents and face oceans. The Rockies and Andes are in a north-south direction, while the Himalayas are west-east.\n*   They are associated with volcanic activity and have many active volcanoes.\n*   They have parallel ranges, with high plateaus known as **intermontane plateaus** between them, such as the Anatolian Plateau in Turkey and the Tibetan Plateau.\n\n[Image: Fig. 5.2. How fold mountains are formed]\n\n**Types of Fold Mountains:**\n*   **Young Fold Mountains**: Formed more recently. They have steep slopes, deep valleys, and sharp, pointed, snow-covered peaks. They are much higher than old fold mountains and have rough topography. Volcanic activities are common. Examples: **Himalayas, Andes, Alps, Rockies**.\n*   **Old Fold Mountains**: Formed long ago. They are highly eroded by agents of gradation, resulting in gentler slopes, rounded tops, and sculptured domes. They are lower than young fold mountains. There is still evidence of volcanic activities in them. Examples: **The Appalachians, the Urals, the Aravallis (India)**."
+    },
+    {
+      "title": "Residual Mountains",
+      "level_label": "Subtopic",
+      "content_md": "Mountains that are subjected to weathering and erosion for a long time are lowered down and are called **residual** or **relict mountains**. They are also known as **mountains of denudation**.\n\n*   **Formation**: Denudation and erosion by natural agents (wind, water, snow) lower mountains, but some resistant areas may remain, forming residual mountains. They can also form on plateaus dissected by rivers, like the hills and valleys in the Deccan plateau.\n*   **Characteristics**: Most have low elevations, but relief can be gentle or precipitous depending on recent erosion.\n*   **Examples**: **Nilgiri, Parasnath, and Rajmahal Hills** in India, and the **Catskill range** in the USA.\n\n[Image: Fig. 5.3. Residual Mountain.]"
+    },
+    {
+      "title": "Block Mountains",
+      "level_label": "Subtopic",
+      "content_md": "The forces of **faulting**, also known as epeirogenic forces, lead to the formation of **block mountains**.\n\n*   **Formation**: Tensional forces cause cracks or faults in the earth's crust. If two parallel faults occur, the land in between may subside to form a **rift valley**. If a block of land rises, it forms a **horst** or **block mountain**.\n*   **Horst Mountains**: Block mountains with flattened summits. Those with tilted summits have one steep side and one very gentle side.\n*   **Graben**: Intervening basins that often separate block mountains.\n*   **Rift Valley**: Formed when the valley floor sinks between two parallel faults. The most extensive system is the **African Rift Valley**.\n*   **Examples**: **Vosges** (France), the **Black Forest** mountains (Europe), **Salt Range** of Pakistan, and **Sierra Nevada** mountains of California, USA.\n\n[Image: Fig. 5.4. Rift Valley.]\n[Image: Fig. 5.5. Formation of block mountain by tension after faults develop]"
+    },
+    {
+      "title": "PLATEAUS",
+      "level_label": "Topic",
+      "content_md": "A **Plateau** is defined as an area of high ground, 500 feet above the ground level. These uplands have a steep slope on one side. The upper part is generally flat and is called a **tableland**."
+    },
+    {
+      "title": "Intermontane Plateaus",
+      "level_label": "Subtopic",
+      "content_md": "These are the highest and most extensive types of plateaus on the globe. **Intermontane Plateaus** are surrounded by hills and mountains on all sides. They are formed along with fold mountains.\n\n*   **Examples**: The **Tibetan plateau** is the world's highest and most extensive intermontane plateau. Other examples are the **Columbian Plateau, North American Cordillera, Bolivian, Peruvian, and Mexican plateaus**."
+    },
+    {
+      "title": "Volcanic Plateaus",
+      "level_label": "Subtopic",
+      "content_md": "**Volcanic plateaus** are formed by numerous volcanic eruptions that slowly build up over time. They are often called lava plateaus.\n\n*   **Examples**: The **Plateau of Peninsular India** (especially the north-western Deccan) is an example of a lava plateau with an enormous accumulation of basaltic rock. Other examples include the **South African plateau, Columbian Plateau, and Ethiopian plateau**. The Columbian Plateau has about 20 layers of lava, suggesting 20 different volcanic eruptions."
+    },
+    {
+      "title": "PLAINS",
+      "level_label": "Topic",
+      "content_md": "A **Plain** is defined as an extensive area of lowland with a level or gently undulating surface. There are three main types: Structural Plains, Erosional Plains, and Depositional Plains.\n\n[Image: Fig. 5.6. Landforms]"
+    },
+    {
+      "title": "Structural Plains",
+      "level_label": "Subtopic",
+      "content_md": "The plains that are formed due to **uplift** or **subsidence** of land are called **Structural Plains**. Diastrophic forces may cause the uplift of a portion of land from beneath the ocean or cause the submergence of coastal land.\n\n*   **Examples**: The **Great Plains of the USA** were formed due to the uplift of land submerged under water. The **Coromandel plains** in India are the result of mild subsidence followed by sedimentation."
+    },
+    {
+      "title": "Depositional Plains",
+      "level_label": "Subtopic",
+      "content_md": "The plains that are formed by the **deposition of materials** which have been brought by various agents of transportation are called **Depositional Plains**."
+    },
+    {
+      "title": "River Deposition",
+      "level_label": "Point",
+      "content_md": "These are the most widespread depositional plains.\n*   **Alluvial plains**: E.g., the Northern Plains of India.\n*   **Flood plains**: E.g., the Mississippi Plains in the USA. They are found along rivers like the Ganga, Yang-tze, Mekong, and Salveen and are regarded as the granaries of the world. In India, they are divided into **Khadar Plains** (new deposits made every year) and **Bhangar** (old deposits not renewed every year).\n*   **Deltaic plains**: E.g., in Egypt and India.\n*   **Piedmont Alluvial Plains**: Formed at the foothills of mountains."
+    },
+    {
+      "title": "Wind Deposition",
+      "level_label": "Point",
+      "content_md": "Most such plains are sandy deserts with an irregular and undulating surface due to sand dunes and hallows. \n*   **Examples**: The **Sahara** in Africa and the **Thar desert** in India. **Loess plains** in China are formed from deserts."
+    },
+    {
+      "title": "Marine Deposition",
+      "level_label": "Point",
+      "content_md": "These plains are found in coastal regions. \n*   **Examples**: The east coast of India, estuarine banks in the Netherlands, and the coasts of Germany and Denmark.\n*   In Denmark, **polders** and **dykes** are found. A **polder** is a piece of land reclaimed from the sea or a lake. The submerged land is surrounded by an embankment (dyke) and drained by pumping water into canals."
+    },
+    {
+      "title": "IMPORTANCE OF LANDFORMS",
+      "level_label": "Section",
+      "content_md": "Landforms are a result of the enormous heat generated inside the earth and climate factors operating on the surface. They have the following advantages:\n\n*   **(i)** Mountains, plateaus, plains, and valleys are beautiful natural sculptures that add to the beauty of the earth.\n*   **(ii)** As relief features, they impact climate, wind direction, and precipitation. The Himalayas act as a climatic divide, shaping the climate of the Indian subcontinent.\n*   **(iii)** Mountain ranges are the abode of snow and glaciers, serving as the source of perennial rivers.\n*   **(iv)** Mountain and plateau slopes host various forests, which are home to different species of plants and animals, contributing to biodiversity.\n*   **(v)** Relief features in oceans, such as island groups and coastal regions, are ideal fishing sites.\n*   **(vi)** Major landforms are created by disturbances from internal forces, which bring most mineral and fossil fuels near the surface of the earth."
+    }
+  ]
+}

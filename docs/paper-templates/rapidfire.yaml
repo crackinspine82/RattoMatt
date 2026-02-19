@@ -1,0 +1,71 @@
+# =============================================================================
+# RapidFire — Master config (MCQ-only, app / phone-friendly)
+# Used with (board, grade, subject) to scope question pool.
+# Load with: docs/paper-templates/rapidfire.yaml
+# =============================================================================
+
+rapidfire_metadata:
+  description: "RapidFire is MCQ-only for quick, tap-friendly use in the app (e.g. phone)."
+  version: "1.0"
+  last_updated: "2025-02-16"
+
+# =============================================================================
+# SESSION DEFAULTS
+# =============================================================================
+
+session:
+  duration_minutes: 15
+  total_marks: 10
+  question_count: 10
+  marks_per_question: 1
+
+# =============================================================================
+# QUESTION TYPES (MCQ only)
+# =============================================================================
+
+allowed_types:
+  - "mcq_standard"
+  - "mcq_visual_scenario"
+  - "mcq_assertion_reason"
+  - "mcq_logic_table"
+  - "mcq_source_connection"
+  - "mcq_odd_one_out"
+  - "mcq_chronology_sequence"
+  - "mcq_relationship_analogy"
+
+# =============================================================================
+# DIFFICULTY MIX (best-effort)
+# =============================================================================
+
+difficulty_mix:
+  easy: 0.25      # ~2-3 questions
+  medium: 0.25    # ~2-3 questions
+  difficult: 0.25 # ~2-3 questions
+  complex: 0.25   # ~2-3 questions
+  best_effort: true  # If pool insufficient, distribute evenly
+
+# =============================================================================
+# REPEAT AVOIDANCE
+# =============================================================================
+
+repeat_avoidance:
+  enabled: true
+  lookback_days: 60
+  rule: "Exclude questions answered correctly in last 60 days"
+  fallback: "Allow repeats if pool exhausted"
+
+# =============================================================================
+# DISCIPLINE SPLIT (History & Civics)
+# =============================================================================
+
+discipline_split:
+  history: 0.50
+  civics: 0.50
+
+# =============================================================================
+# USAGE
+# =============================================================================
+# For "RapidFire for ICSE Grade 10 History & Civics":
+# 1. Load this file for session behaviour (duration, count, types, difficulty, repeat avoidance).
+# 2. Use (board, grade, subject) to filter question pool (e.g. from DB).
+# 3. Select questions matching allowed_types, difficulty_mix, discipline_split; apply repeat_avoidance.

@@ -1,0 +1,9 @@
+---
+description: Paper template and best-of-N rules
+alwaysApply: true
+---
+# Paper Template Rules
+- Templates are defined by board/grade/subject and duration.
+- Sections define marks, allowed question types, and best-of-N rules.
+- Papers are randomized on generation (no deterministic reuse by default).
+- Best-of-N drops lowest scores within the section.

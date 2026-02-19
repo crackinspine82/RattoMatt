@@ -1,0 +1,975 @@
+{
+  "syllabus_leaves": [
+    {
+      "path": "Local Self-Government-Rural > Rural: Three-tier system of Panchayati Raj- Gram Panchayat, Panchayat Samiti, Zila Parishad - their meaning and functions.",
+      "path_titles": [
+        "Local Self-Government-Rural",
+        "Rural: Three-tier system of Panchayati Raj- Gram Panchayat, Panchayat Samiti, Zila Parishad - their meaning and functions."
+      ],
+      "title": "Rural: Three-tier system of Panchayati Raj- Gram Panchayat, Panchayat Samiti, Zila Parishad - their meaning and functions.",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "MEANING OF LOCAL SELF-GOVERNMENT",
+      "path_titles": [
+        "MEANING OF LOCAL SELF-GOVERNMENT"
+      ],
+      "title": "MEANING OF LOCAL SELF-GOVERNMENT",
+      "sequence_number": 2,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "LOCAL GOVERNMENT AND LOCAL SELF-GOVERNMENT",
+      "path_titles": [
+        "LOCAL GOVERNMENT AND LOCAL SELF-GOVERNMENT"
+      ],
+      "title": "LOCAL GOVERNMENT AND LOCAL SELF-GOVERNMENT",
+      "sequence_number": 3,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "SIGNIFICANCE OF LOCAL SELF-GOVERNMENT > (i) These institutions provide the foundations on which the entire democratic structure of our country stands. These institutions make it possible for local people to take interest in their own affairs and groom them well to take on larger responsibilities later.",
+      "path_titles": [
+        "SIGNIFICANCE OF LOCAL SELF-GOVERNMENT",
+        "(i) These institutions provide the foundations on which the entire democratic structure of our country stands. These institutions make it possible for local people to take interest in their own affairs and groom them well to take on larger responsibilities later."
+      ],
+      "title": "(i) These institutions provide the foundations on which the entire democratic structure of our country stands. These institutions make it possible for local people to take interest in their own affairs and groom them well to take on larger responsibilities later.",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "SIGNIFICANCE OF LOCAL SELF-GOVERNMENT > (ii) The local institutions provide a training ground for local leadership and to gain necessary experience for undertaking bigger challenges at the state or the national level.",
+      "path_titles": [
+        "SIGNIFICANCE OF LOCAL SELF-GOVERNMENT",
+        "(ii) The local institutions provide a training ground for local leadership and to gain necessary experience for undertaking bigger challenges at the state or the national level."
+      ],
+      "title": "(ii) The local institutions provide a training ground for local leadership and to gain necessary experience for undertaking bigger challenges at the state or the national level.",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "SIGNIFICANCE OF LOCAL SELF-GOVERNMENT > (iii) Local people know their problems well and are best judges of their own needs.",
+      "path_titles": [
+        "SIGNIFICANCE OF LOCAL SELF-GOVERNMENT",
+        "(iii) Local people know their problems well and are best judges of their own needs."
+      ],
+      "title": "(iii) Local people know their problems well and are best judges of their own needs.",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "SIGNIFICANCE OF LOCAL SELF-GOVERNMENT > (iv) The local institutions encourage self-help and voluntary service and save the state of many unnecessary expenses.",
+      "path_titles": [
+        "SIGNIFICANCE OF LOCAL SELF-GOVERNMENT",
+        "(iv) The local institutions encourage self-help and voluntary service and save the state of many unnecessary expenses."
+      ],
+      "title": "(iv) The local institutions encourage self-help and voluntary service and save the state of many unnecessary expenses.",
+      "sequence_number": 4,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "SIGNIFICANCE OF LOCAL SELF-GOVERNMENT > (v) Lodal self-government institutions gain the support of local communities.",
+      "path_titles": [
+        "SIGNIFICANCE OF LOCAL SELF-GOVERNMENT",
+        "(v) Lodal self-government institutions gain the support of local communities."
+      ],
+      "title": "(v) Lodal self-government institutions gain the support of local communities.",
+      "sequence_number": 5,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "SIGNIFICANCE OF LOCAL SELF-GOVERNMENT > (vi) Through these institutions government can reach ordinary citizens in times of need like National Emergency.",
+      "path_titles": [
+        "SIGNIFICANCE OF LOCAL SELF-GOVERNMENT",
+        "(vi) Through these institutions government can reach ordinary citizens in times of need like National Emergency."
+      ],
+      "title": "(vi) Through these institutions government can reach ordinary citizens in times of need like National Emergency.",
+      "sequence_number": 6,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "SIGNIFICANCE OF LOCAL SELF-GOVERNMENT > (vii) These institutions lessen the burden of workload on State and Central Government machinery.",
+      "path_titles": [
+        "SIGNIFICANCE OF LOCAL SELF-GOVERNMENT",
+        "(vii) These institutions lessen the burden of workload on State and Central Government machinery."
+      ],
+      "title": "(vii) These institutions lessen the burden of workload on State and Central Government machinery.",
+      "sequence_number": 7,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "SIGNIFICANCE OF LOCAL SELF-GOVERNMENT > (viii) They facilitate active participation of local people as an individual can evaluate the performance of the elected representatives.",
+      "path_titles": [
+        "SIGNIFICANCE OF LOCAL SELF-GOVERNMENT",
+        "(viii) They facilitate active participation of local people as an individual can evaluate the performance of the elected representatives."
+      ],
+      "title": "(viii) They facilitate active participation of local people as an individual can evaluate the performance of the elected representatives.",
+      "sequence_number": 8,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "SALIENT FEATURES OF THE CONSTITUTION (73RD AMENDMENT) ACT, 1992 > (i) To provide three-tier system of Panchayati Raj for all States having population of over 20 lakh,",
+      "path_titles": [
+        "SALIENT FEATURES OF THE CONSTITUTION (73RD AMENDMENT) ACT, 1992",
+        "(i) To provide three-tier system of Panchayati Raj for all States having population of over 20 lakh,"
+      ],
+      "title": "(i) To provide three-tier system of Panchayati Raj for all States having population of over 20 lakh,",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "SALIENT FEATURES OF THE CONSTITUTION (73RD AMENDMENT) ACT, 1992 > (ii) To hold Panchayat elections regularly every five years,",
+      "path_titles": [
+        "SALIENT FEATURES OF THE CONSTITUTION (73RD AMENDMENT) ACT, 1992",
+        "(ii) To hold Panchayat elections regularly every five years,"
+      ],
+      "title": "(ii) To hold Panchayat elections regularly every five years,",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "SALIENT FEATURES OF THE CONSTITUTION (73RD AMENDMENT) ACT, 1992 > (iii) To provide reservation of seats for Scheduled Castes, Scheduled Tribes and women.",
+      "path_titles": [
+        "SALIENT FEATURES OF THE CONSTITUTION (73RD AMENDMENT) ACT, 1992",
+        "(iii) To provide reservation of seats for Scheduled Castes, Scheduled Tribes and women."
+      ],
+      "title": "(iii) To provide reservation of seats for Scheduled Castes, Scheduled Tribes and women.",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "SALIENT FEATURES OF THE CONSTITUTION (73RD AMENDMENT) ACT, 1992 > (iv) To constitute State Finance Commissions every five years to make recommendations on financial powers of the Panchayats,",
+      "path_titles": [
+        "SALIENT FEATURES OF THE CONSTITUTION (73RD AMENDMENT) ACT, 1992",
+        "(iv) To constitute State Finance Commissions every five years to make recommendations on financial powers of the Panchayats,"
+      ],
+      "title": "(iv) To constitute State Finance Commissions every five years to make recommendations on financial powers of the Panchayats,",
+      "sequence_number": 4,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "SALIENT FEATURES OF THE CONSTITUTION (73RD AMENDMENT) ACT, 1992 > (v) To constitute District Planning Committee to prepare draft development plan for the district as a whole.",
+      "path_titles": [
+        "SALIENT FEATURES OF THE CONSTITUTION (73RD AMENDMENT) ACT, 1992",
+        "(v) To constitute District Planning Committee to prepare draft development plan for the district as a whole."
+      ],
+      "title": "(v) To constitute District Planning Committee to prepare draft development plan for the district as a whole.",
+      "sequence_number": 5,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "PANCHAYATI RAJ SYSTEM",
+      "path_titles": [
+        "PANCHAYATI RAJ SYSTEM"
+      ],
+      "title": "PANCHAYATI RAJ SYSTEM",
+      "sequence_number": 6,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": false
+    },
+    {
+      "path": "ORGANISATION OF PANCHAYATI RAJ INSTITUTION > (i) Gram Panchayats at village level.",
+      "path_titles": [
+        "ORGANISATION OF PANCHAYATI RAJ INSTITUTION",
+        "(i) Gram Panchayats at village level."
+      ],
+      "title": "(i) Gram Panchayats at village level.",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "ORGANISATION OF PANCHAYATI RAJ INSTITUTION > (ii) Panchayat Samiti at block level or middle level.",
+      "path_titles": [
+        "ORGANISATION OF PANCHAYATI RAJ INSTITUTION",
+        "(ii) Panchayat Samiti at block level or middle level."
+      ],
+      "title": "(ii) Panchayat Samiti at block level or middle level.",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": false
+    },
+    {
+      "path": "ORGANISATION OF PANCHAYATI RAJ INSTITUTION > (iii) Zila Parishad at District level.",
+      "path_titles": [
+        "ORGANISATION OF PANCHAYATI RAJ INSTITUTION",
+        "(iii) Zila Parishad at District level."
+      ],
+      "title": "(iii) Zila Parishad at District level.",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "ORGANISATION OF PANCHAYATI RAJ INSTITUTION > In addition, a Nyaya Panchayat has been provided for every three or four village Panchayats.",
+      "path_titles": [
+        "ORGANISATION OF PANCHAYATI RAJ INSTITUTION",
+        "In addition, a Nyaya Panchayat has been provided for every three or four village Panchayats."
+      ],
+      "title": "In addition, a Nyaya Panchayat has been provided for every three or four village Panchayats.",
+      "sequence_number": 4,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": false
+    },
+    {
+      "path": "(a) Qualification for Election to Local Bodies > (i) He/She must be a citizen of India and not less than 21 years of age.",
+      "path_titles": [
+        "(a) Qualification for Election to Local Bodies",
+        "(i) He/She must be a citizen of India and not less than 21 years of age."
+      ],
+      "title": "(i) He/She must be a citizen of India and not less than 21 years of age.",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "(a) Qualification for Election to Local Bodies > (ii) He/She must be a registered voter, in the case of Panchayats, member of the Gram Sabha, in the constituency.",
+      "path_titles": [
+        "(a) Qualification for Election to Local Bodies",
+        "(ii) He/She must be a registered voter, in the case of Panchayats, member of the Gram Sabha, in the constituency."
+      ],
+      "title": "(ii) He/She must be a registered voter, in the case of Panchayats, member of the Gram Sabha, in the constituency.",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "(a) Qualification for Election to Local Bodies > (iii) He/She should not be a convict or have been disqualified by a Law of the Parliament or an undischarged insolvent.",
+      "path_titles": [
+        "(a) Qualification for Election to Local Bodies",
+        "(iii) He/She should not be a convict or have been disqualified by a Law of the Parliament or an undischarged insolvent."
+      ],
+      "title": "(iii) He/She should not be a convict or have been disqualified by a Law of the Parliament or an undischarged insolvent.",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "(a) Qualification for Election to Local Bodies > (iv) He/She should not hold any office of profit under the Government.",
+      "path_titles": [
+        "(a) Qualification for Election to Local Bodies",
+        "(iv) He/She should not hold any office of profit under the Government."
+      ],
+      "title": "(iv) He/She should not hold any office of profit under the Government.",
+      "sequence_number": 4,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "(b) Term:",
+      "path_titles": [
+        "(b) Term:"
+      ],
+      "title": "(b) Term:",
+      "sequence_number": 9,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "GRAM PANCHAYAT",
+      "path_titles": [
+        "GRAM PANCHAYAT"
+      ],
+      "title": "GRAM PANCHAYAT",
+      "sequence_number": 10,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "COMPOSITION > Sarpanch: He/She is the head of the Gram Panchayat.",
+      "path_titles": [
+        "COMPOSITION",
+        "Sarpanch: He/She is the head of the Gram Panchayat."
+      ],
+      "title": "Sarpanch: He/She is the head of the Gram Panchayat.",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "COMPOSITION > Members: Number of members of the Panchayat is fixed by the State.",
+      "path_titles": [
+        "COMPOSITION",
+        "Members: Number of members of the Panchayat is fixed by the State."
+      ],
+      "title": "Members: Number of members of the Panchayat is fixed by the State.",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "COMPOSITION > Office Bearers: The Sarpanch and Vice-Sarpanch are honorary members.",
+      "path_titles": [
+        "COMPOSITION",
+        "Office Bearers: The Sarpanch and Vice-Sarpanch are honorary members."
+      ],
+      "title": "Office Bearers: The Sarpanch and Vice-Sarpanch are honorary members.",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "FUNCTIONS > 1. Administrative Functions > (i) All public works and public welfare functions like construction, repair and maintenance of village roads, cart tracks, bridges, drains, tanks and wells.",
+      "path_titles": [
+        "FUNCTIONS",
+        "1. Administrative Functions",
+        "(i) All public works and public welfare functions like construction, repair and maintenance of village roads, cart tracks, bridges, drains, tanks and wells."
+      ],
+      "title": "(i) All public works and public welfare functions like construction, repair and maintenance of village roads, cart tracks, bridges, drains, tanks and wells.",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "FUNCTIONS > 1. Administrative Functions > (ii) Upkeep of cremation and burial grounds.",
+      "path_titles": [
+        "FUNCTIONS",
+        "1. Administrative Functions",
+        "(ii) Upkeep of cremation and burial grounds."
+      ],
+      "title": "(ii) Upkeep of cremation and burial grounds.",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "FUNCTIONS > 1. Administrative Functions > (iii) Sanitation, health, setting up of health centres and dispensaries.",
+      "path_titles": [
+        "FUNCTIONS",
+        "1. Administrative Functions",
+        "(iii) Sanitation, health, setting up of health centres and dispensaries."
+      ],
+      "title": "(iii) Sanitation, health, setting up of health centres and dispensaries.",
+      "sequence_number": 3,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "FUNCTIONS > 1. Administrative Functions > (iv) Providing primary education.",
+      "path_titles": [
+        "FUNCTIONS",
+        "1. Administrative Functions",
+        "(iv) Providing primary education."
+      ],
+      "title": "(iv) Providing primary education.",
+      "sequence_number": 4,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "FUNCTIONS > 1. Administrative Functions > (v) Arranging irrigation facilities, seeds, fertilisers.",
+      "path_titles": [
+        "FUNCTIONS",
+        "1. Administrative Functions",
+        "(v) Arranging irrigation facilities, seeds, fertilisers."
+      ],
+      "title": "(v) Arranging irrigation facilities, seeds, fertilisers.",
+      "sequence_number": 5,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "FUNCTIONS > 1. Administrative Functions > (vi) Registration of births and deaths.",
+      "path_titles": [
+        "FUNCTIONS",
+        "1. Administrative Functions",
+        "(vi) Registration of births and deaths."
+      ],
+      "title": "(vi) Registration of births and deaths.",
+      "sequence_number": 6,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "FUNCTIONS > 1. Administrative Functions > (vii) Maintaining records of common village property, their sale and purchase and land grants.",
+      "path_titles": [
+        "FUNCTIONS",
+        "1. Administrative Functions",
+        "(vii) Maintaining records of common village property, their sale and purchase and land grants."
+      ],
+      "title": "(vii) Maintaining records of common village property, their sale and purchase and land grants.",
+      "sequence_number": 7,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "FUNCTIONS > 2. Social and Economic Functions > (i) Construction of guest houses, libraries, marriage halls, etc;",
+      "path_titles": [
+        "FUNCTIONS",
+        "2. Social and Economic Functions",
+        "(i) Construction of guest houses, libraries, marriage halls, etc;"
+      ],
+      "title": "(i) Construction of guest houses, libraries, marriage halls, etc;",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "FUNCTIONS > 2. Social and Economic Functions > (ii) Organising regular village melas, fairs and exhibitions;",
+      "path_titles": [
+        "FUNCTIONS",
+        "2. Social and Economic Functions",
+        "(ii) Organising regular village melas, fairs and exhibitions;"
+      ],
+      "title": "(ii) Organising regular village melas, fairs and exhibitions;",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "FUNCTIONS > 2. Social and Economic Functions > (iii) Planting of trees, parks, gardens and playgrounds for recreation;",
+      "path_titles": [
+        "FUNCTIONS",
+        "2. Social and Economic Functions",
+        "(iii) Planting of trees, parks, gardens and playgrounds for recreation;"
+      ],
+      "title": "(iii) Planting of trees, parks, gardens and playgrounds for recreation;",
+      "sequence_number": 3,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "FUNCTIONS > 2. Social and Economic Functions > (iv) Establishing fair price shops, Cooperative Credit Societies.",
+      "path_titles": [
+        "FUNCTIONS",
+        "2. Social and Economic Functions",
+        "(iv) Establishing fair price shops, Cooperative Credit Societies."
+      ],
+      "title": "(iv) Establishing fair price shops, Cooperative Credit Societies.",
+      "sequence_number": 4,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "FUNCTIONS > 3. Judicial Functions > These are discussed under Nyaya Panchayats.",
+      "path_titles": [
+        "FUNCTIONS",
+        "3. Judicial Functions",
+        "These are discussed under Nyaya Panchayats."
+      ],
+      "title": "These are discussed under Nyaya Panchayats.",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "NYAYA PANCHAYATS > (i) They ensure quick and inexpensive justice to villagers.",
+      "path_titles": [
+        "NYAYA PANCHAYATS",
+        "(i) They ensure quick and inexpensive justice to villagers."
+      ],
+      "title": "(i) They ensure quick and inexpensive justice to villagers.",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": false
+    },
+    {
+      "path": "NYAYA PANCHAYATS > (ii) They can impose a fine of up to Rs. 100.",
+      "path_titles": [
+        "NYAYA PANCHAYATS",
+        "(ii) They can impose a fine of up to Rs. 100."
+      ],
+      "title": "(ii) They can impose a fine of up to Rs. 100.",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "NYAYA PANCHAYATS > (iii) They cannot award a sentence of imprisonment.",
+      "path_titles": [
+        "NYAYA PANCHAYATS",
+        "(iii) They cannot award a sentence of imprisonment."
+      ],
+      "title": "(iii) They cannot award a sentence of imprisonment.",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "NYAYA PANCHAYATS > (iv) Lawyers are not allowed to appear before these Panchayats.",
+      "path_titles": [
+        "NYAYA PANCHAYATS",
+        "(iv) Lawyers are not allowed to appear before these Panchayats."
+      ],
+      "title": "(iv) Lawyers are not allowed to appear before these Panchayats.",
+      "sequence_number": 4,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "NYAYA PANCHAYATS > (v) There is generally no appeal against the decision of a Nyaya Panchayat if the powers are exercised within their jurisdiction.",
+      "path_titles": [
+        "NYAYA PANCHAYATS",
+        "(v) There is generally no appeal against the decision of a Nyaya Panchayat if the powers are exercised within their jurisdiction."
+      ],
+      "title": "(v) There is generally no appeal against the decision of a Nyaya Panchayat if the powers are exercised within their jurisdiction.",
+      "sequence_number": 5,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "NYAYA PANCHAYATS > (vi) However, under the Panchayats Act, Sub-divisional Magistrates and Sub-Judges of the District are empowered to hear appeals.",
+      "path_titles": [
+        "NYAYA PANCHAYATS",
+        "(vi) However, under the Panchayats Act, Sub-divisional Magistrates and Sub-Judges of the District are empowered to hear appeals."
+      ],
+      "title": "(vi) However, under the Panchayats Act, Sub-divisional Magistrates and Sub-Judges of the District are empowered to hear appeals.",
+      "sequence_number": 6,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "NYAYA PANCHAYATS > (vii) No person can be a member of the Nyaya Panchayat and the Panchayat Samiti, Gram Panchayat or other local self-governing body at the same time.",
+      "path_titles": [
+        "NYAYA PANCHAYATS",
+        "(vii) No person can be a member of the Nyaya Panchayat and the Panchayat Samiti, Gram Panchayat or other local self-governing body at the same time."
+      ],
+      "title": "(vii) No person can be a member of the Nyaya Panchayat and the Panchayat Samiti, Gram Panchayat or other local self-governing body at the same time.",
+      "sequence_number": 7,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "NYAYA PANCHAYATS > (viii) The state government or the State Judicial Service decides the jurisdiction of these Panchayats.",
+      "path_titles": [
+        "NYAYA PANCHAYATS",
+        "(viii) The state government or the State Judicial Service decides the jurisdiction of these Panchayats."
+      ],
+      "title": "(viii) The state government or the State Judicial Service decides the jurisdiction of these Panchayats.",
+      "sequence_number": 8,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "PANCHAYAT SAMITI (AT THE BLOCK LEVEL)",
+      "path_titles": [
+        "PANCHAYAT SAMITI (AT THE BLOCK LEVEL)"
+      ],
+      "title": "PANCHAYAT SAMITI (AT THE BLOCK LEVEL)",
+      "sequence_number": 14,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "Composition: > (i) Sarpanchs of all Panchayats concerned.",
+      "path_titles": [
+        "Composition:",
+        "(i) Sarpanchs of all Panchayats concerned."
+      ],
+      "title": "(i) Sarpanchs of all Panchayats concerned.",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Composition: > (ii) Members of Legislative Assembly of the State from the area.",
+      "path_titles": [
+        "Composition:",
+        "(ii) Members of Legislative Assembly of the State from the area."
+      ],
+      "title": "(ii) Members of Legislative Assembly of the State from the area.",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Composition: > (iii) Members of Parliament belonging to the area.",
+      "path_titles": [
+        "Composition:",
+        "(iii) Members of Parliament belonging to the area."
+      ],
+      "title": "(iii) Members of Parliament belonging to the area.",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Composition: > (iv) Block Development Officers of the block or the area served by them.",
+      "path_titles": [
+        "Composition:",
+        "(iv) Block Development Officers of the block or the area served by them."
+      ],
+      "title": "(iv) Block Development Officers of the block or the area served by them.",
+      "sequence_number": 4,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Composition: > (v) Co-opted members (provisional) representing women, Scheduled Castes/ Tribes.",
+      "path_titles": [
+        "Composition:",
+        "(v) Co-opted members (provisional) representing women, Scheduled Castes/ Tribes."
+      ],
+      "title": "(v) Co-opted members (provisional) representing women, Scheduled Castes/ Tribes.",
+      "sequence_number": 5,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Composition: > (vi) Representatives of Cooperative Societies (only in certain States).",
+      "path_titles": [
+        "Composition:",
+        "(vi) Representatives of Cooperative Societies (only in certain States)."
+      ],
+      "title": "(vi) Representatives of Cooperative Societies (only in certain States).",
+      "sequence_number": 6,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": false
+    },
+    {
+      "path": "Office Bearers > Chairperson-elected from amongst its own members.",
+      "path_titles": [
+        "Office Bearers",
+        "Chairperson-elected from amongst its own members."
+      ],
+      "title": "Chairperson-elected from amongst its own members.",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Office Bearers > Deputy Chairperson—elected from amongst its own members.",
+      "path_titles": [
+        "Office Bearers",
+        "Deputy Chairperson—elected from amongst its own members."
+      ],
+      "title": "Deputy Chairperson—elected from amongst its own members.",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Office Bearers > Secretary-A salaried employee appointed by the State authorities through District Administration.",
+      "path_titles": [
+        "Office Bearers",
+        "Secretary-A salaried employee appointed by the State authorities through District Administration."
+      ],
+      "title": "Secretary-A salaried employee appointed by the State authorities through District Administration.",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "FUNCTIONS > (i) To supervise and coordinate the working of Gram Panchayats.",
+      "path_titles": [
+        "FUNCTIONS",
+        "(i) To supervise and coordinate the working of Gram Panchayats."
+      ],
+      "title": "(i) To supervise and coordinate the working of Gram Panchayats.",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "FUNCTIONS > (ii) To conduct higher education (higher secondary level and above) for a group of villages or at block level.",
+      "path_titles": [
+        "FUNCTIONS",
+        "(ii) To conduct higher education (higher secondary level and above) for a group of villages or at block level."
+      ],
+      "title": "(ii) To conduct higher education (higher secondary level and above) for a group of villages or at block level.",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "FUNCTIONS > (iii) To provide hospital and health services with various facilities at community block level.",
+      "path_titles": [
+        "FUNCTIONS",
+        "(iii) To provide hospital and health services with various facilities at community block level."
+      ],
+      "title": "(iii) To provide hospital and health services with various facilities at community block level.",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "FUNCTIONS > (iv) To pay special attention to development of agriculture through undertaking minor irrigation schemes, distribution of quality seeds and fertilisers.",
+      "path_titles": [
+        "FUNCTIONS",
+        "(iv) To pay special attention to development of agriculture through undertaking minor irrigation schemes, distribution of quality seeds and fertilisers."
+      ],
+      "title": "(iv) To pay special attention to development of agriculture through undertaking minor irrigation schemes, distribution of quality seeds and fertilisers.",
+      "sequence_number": 4,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "FUNCTIONS > (v) To approve building plans, undertake other development works including roads and bridges within the circle Panchayats.",
+      "path_titles": [
+        "FUNCTIONS",
+        "(v) To approve building plans, undertake other development works including roads and bridges within the circle Panchayats."
+      ],
+      "title": "(v) To approve building plans, undertake other development works including roads and bridges within the circle Panchayats.",
+      "sequence_number": 5,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "FUNCTIONS > (vi) To provide drinking water and execute other community development programmes.",
+      "path_titles": [
+        "FUNCTIONS",
+        "(vi) To provide drinking water and execute other community development programmes."
+      ],
+      "title": "(vi) To provide drinking water and execute other community development programmes.",
+      "sequence_number": 6,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "FUNCTIONS > (vii) To act as a link between the Gram Panchayat and Zila Parishad.",
+      "path_titles": [
+        "FUNCTIONS",
+        "(vii) To act as a link between the Gram Panchayat and Zila Parishad."
+      ],
+      "title": "(vii) To act as a link between the Gram Panchayat and Zila Parishad.",
+      "sequence_number": 7,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "VILA PARISHAD (AT DISTRICT LEVEL)",
+      "path_titles": [
+        "VILA PARISHAD (AT DISTRICT LEVEL)"
+      ],
+      "title": "VILA PARISHAD (AT DISTRICT LEVEL)",
+      "sequence_number": 18,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "COMPOSITION",
+      "path_titles": [
+        "COMPOSITION"
+      ],
+      "title": "COMPOSITION",
+      "sequence_number": 19,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "Office Bearers > Chairman: Presides over the meetings and conduct proceedings.",
+      "path_titles": [
+        "Office Bearers",
+        "Chairman: Presides over the meetings and conduct proceedings."
+      ],
+      "title": "Chairman: Presides over the meetings and conduct proceedings.",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Office Bearers > Deputy Chairperson: Elected by members amongst themselves.",
+      "path_titles": [
+        "Office Bearers",
+        "Deputy Chairperson: Elected by members amongst themselves."
+      ],
+      "title": "Deputy Chairperson: Elected by members amongst themselves.",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Office Bearers > Secretary: 'A whole time paid employee of the state government.",
+      "path_titles": [
+        "Office Bearers",
+        "Secretary: 'A whole time paid employee of the state government."
+      ],
+      "title": "Secretary: 'A whole time paid employee of the state government.",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "FUNCTIONS > (i) Overseeing all-round development work of the district under the overall charge of an experienced functionary like the Deputy Commissioner.",
+      "path_titles": [
+        "FUNCTIONS",
+        "(i) Overseeing all-round development work of the district under the overall charge of an experienced functionary like the Deputy Commissioner."
+      ],
+      "title": "(i) Overseeing all-round development work of the district under the overall charge of an experienced functionary like the Deputy Commissioner.",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "FUNCTIONS > (ii) The Standing Committees have each a Chairperson, and Deputy Chairperson, holds discussions and take decisions.",
+      "path_titles": [
+        "FUNCTIONS",
+        "(ii) The Standing Committees have each a Chairperson, and Deputy Chairperson, holds discussions and take decisions."
+      ],
+      "title": "(ii) The Standing Committees have each a Chairperson, and Deputy Chairperson, holds discussions and take decisions.",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "FUNCTIONS > (iii) In practice, the Working Committee functions as the executive body of the District Board.",
+      "path_titles": [
+        "FUNCTIONS",
+        "(iii) In practice, the Working Committee functions as the executive body of the District Board."
+      ],
+      "title": "(iii) In practice, the Working Committee functions as the executive body of the District Board.",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "FUNCTIONS > (iv) Supervision of working of Panchayats is carried out.",
+      "path_titles": [
+        "FUNCTIONS",
+        "(iv) Supervision of working of Panchayats is carried out."
+      ],
+      "title": "(iv) Supervision of working of Panchayats is carried out.",
+      "sequence_number": 4,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "FUNCTIONS > (v) In some states like in Assam, Bihar and Punjab scrutiny of the budget estimates of Panchayat Samitis is done.",
+      "path_titles": [
+        "FUNCTIONS",
+        "(v) In some states like in Assam, Bihar and Punjab scrutiny of the budget estimates of Panchayat Samitis is done."
+      ],
+      "title": "(v) In some states like in Assam, Bihar and Punjab scrutiny of the budget estimates of Panchayat Samitis is done.",
+      "sequence_number": 5,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "FUNCTIONS > (vi) It cooperates with and coordinates the work of Panchayat Samitis for undertaking various development works specially minor irrigation works, vocational and industrial schools, village industries, sanitation and public health.",
+      "path_titles": [
+        "FUNCTIONS",
+        "(vi) It cooperates with and coordinates the work of Panchayat Samitis for undertaking various development works specially minor irrigation works, vocational and industrial schools, village industries, sanitation and public health."
+      ],
+      "title": "(vi) It cooperates with and coordinates the work of Panchayat Samitis for undertaking various development works specially minor irrigation works, vocational and industrial schools, village industries, sanitation and public health.",
+      "sequence_number": 6,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "FUNCTIONS > (vii) It advises the State Government on all matters relating to the Gram Panchayats and Panchayat Samitis under their own jurisdiction.",
+      "path_titles": [
+        "FUNCTIONS",
+        "(vii) It advises the State Government on all matters relating to the Gram Panchayats and Panchayat Samitis under their own jurisdiction."
+      ],
+      "title": "(vii) It advises the State Government on all matters relating to the Gram Panchayats and Panchayat Samitis under their own jurisdiction.",
+      "sequence_number": 7,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "ACHIEVEMENTS OF THE PANCHAYATI RAJ SYSTEM",
+      "path_titles": [
+        "ACHIEVEMENTS OF THE PANCHAYATI RAJ SYSTEM"
+      ],
+      "title": "ACHIEVEMENTS OF THE PANCHAYATI RAJ SYSTEM",
+      "sequence_number": 22,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    }
+  ],
+  "stray_leaves": [
+    {
+      "title": "Structure of Village Panchayat, Panchayat Samiti and Zila Parishad",
+      "insert_after_index": 25,
+      "micro_topics": [],
+      "has_notes": true
+    }
+  ]
+}

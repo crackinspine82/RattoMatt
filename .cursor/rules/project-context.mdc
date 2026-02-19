@@ -1,0 +1,8 @@
+---
+description: Always read the project context first
+alwaysApply: true
+---
+# Project Context First
+- Always read `CURSOR_PROJECT_CONTEXT.md` before any task.
+- Treat it as the single source of truth; do not duplicate or contradict it.
+- If any action may deviate from context, warn and ask for permission first.

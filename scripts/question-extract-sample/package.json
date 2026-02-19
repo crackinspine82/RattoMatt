@@ -1,0 +1,14 @@
+{
+  "name": "question-extract-sample",
+  "version": "1.0.0",
+  "description": "Sample question extraction: generate 2 questions per (type, difficulty) per chapter with model answers and rubrics",
+  "type": "module",
+  "scripts": {
+    "extract": "node extract-sample-questions.mjs",
+    "dry-run": "node extract-sample-questions.mjs --dry-run"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.0",
+    "@google/genai": "^1.0.0"
+  }
+}

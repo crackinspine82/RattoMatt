@@ -1,0 +1,399 @@
+{
+  "syllabus_leaves": [
+    {
+      "path": "The Harappan Civilisation",
+      "path_titles": [
+        "The Harappan Civilisation"
+      ],
+      "title": "The Harappan Civilisation",
+      "sequence_number": 1,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "BRONZE AGE CIVILISATIONS",
+      "path_titles": [
+        "BRONZE AGE CIVILISATIONS"
+      ],
+      "title": "BRONZE AGE CIVILISATIONS",
+      "sequence_number": 2,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "THE HARAPPAN CIVILISATION",
+      "path_titles": [
+        "THE HARAPPAN CIVILISATION"
+      ],
+      "title": "THE HARAPPAN CIVILISATION",
+      "sequence_number": 3,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "SOURCES > The Great Bath",
+      "path_titles": [
+        "SOURCES",
+        "The Great Bath"
+      ],
+      "title": "The Great Bath",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "SOURCES > The Citadel",
+      "path_titles": [
+        "SOURCES",
+        "The Citadel"
+      ],
+      "title": "The Citadel",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "SOURCES > Seals",
+      "path_titles": [
+        "SOURCES",
+        "Seals"
+      ],
+      "title": "Seals",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "SOURCES > Bearded Man",
+      "path_titles": [
+        "SOURCES",
+        "Bearded Man"
+      ],
+      "title": "Bearded Man",
+      "sequence_number": 4,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "SOURCES > Dancing Girl",
+      "path_titles": [
+        "SOURCES",
+        "Dancing Girl"
+      ],
+      "title": "Dancing Girl",
+      "sequence_number": 5,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "SOURCES > Dockyard",
+      "path_titles": [
+        "SOURCES",
+        "Dockyard"
+      ],
+      "title": "Dockyard",
+      "sequence_number": 6,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "SOURCES > Script",
+      "path_titles": [
+        "SOURCES",
+        "Script"
+      ],
+      "title": "Script",
+      "sequence_number": 7,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "ORIGIN OF THE CIVILISATION > Foreign Origin",
+      "path_titles": [
+        "ORIGIN OF THE CIVILISATION",
+        "Foreign Origin"
+      ],
+      "title": "Foreign Origin",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "ORIGIN OF THE CIVILISATION > Indigenous Origin",
+      "path_titles": [
+        "ORIGIN OF THE CIVILISATION",
+        "Indigenous Origin"
+      ],
+      "title": "Indigenous Origin",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "URBAN PLANNING > HARAPPAN CITIES",
+      "path_titles": [
+        "URBAN PLANNING",
+        "HARAPPAN CITIES"
+      ],
+      "title": "HARAPPAN CITIES",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "URBAN PLANNING > COMMON ELEMENTS BETWEEN MOHENJO-DARO AND HARAPPA",
+      "path_titles": [
+        "URBAN PLANNING",
+        "COMMON ELEMENTS BETWEEN MOHENJO-DARO AND HARAPPA"
+      ],
+      "title": "COMMON ELEMENTS BETWEEN MOHENJO-DARO AND HARAPPA",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "URBAN PLANNING > FEATURES OF URBAN PLANNING",
+      "path_titles": [
+        "URBAN PLANNING",
+        "FEATURES OF URBAN PLANNING"
+      ],
+      "title": "FEATURES OF URBAN PLANNING",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "HOUSES",
+      "path_titles": [
+        "HOUSES"
+      ],
+      "title": "HOUSES",
+      "sequence_number": 7,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "MONUMENTAL ARCHITECTURE > The Great Bath",
+      "path_titles": [
+        "MONUMENTAL ARCHITECTURE",
+        "The Great Bath"
+      ],
+      "title": "The Great Bath",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "MONUMENTAL ARCHITECTURE > Granaries",
+      "path_titles": [
+        "MONUMENTAL ARCHITECTURE",
+        "Granaries"
+      ],
+      "title": "Granaries",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "TRADE > Internal Trade",
+      "path_titles": [
+        "TRADE",
+        "Internal Trade"
+      ],
+      "title": "Internal Trade",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "TRADE > External Trade",
+      "path_titles": [
+        "TRADE",
+        "External Trade"
+      ],
+      "title": "External Trade",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "ART AND CRAFT",
+      "path_titles": [
+        "ART AND CRAFT"
+      ],
+      "title": "ART AND CRAFT",
+      "sequence_number": 10,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "Dress",
+      "path_titles": [
+        "Dress"
+      ],
+      "title": "Dress",
+      "sequence_number": 11,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "Ornaments",
+      "path_titles": [
+        "Ornaments"
+      ],
+      "title": "Ornaments",
+      "sequence_number": 12,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "Toys and Amusements",
+      "path_titles": [
+        "Toys and Amusements"
+      ],
+      "title": "Toys and Amusements",
+      "sequence_number": 13,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "DECLINE OF THE CIVILISATION > Floods and Earthquakes",
+      "path_titles": [
+        "DECLINE OF THE CIVILISATION",
+        "Floods and Earthquakes"
+      ],
+      "title": "Floods and Earthquakes",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "DECLINE OF THE CIVILISATION > Increased Aridity",
+      "path_titles": [
+        "DECLINE OF THE CIVILISATION",
+        "Increased Aridity"
+      ],
+      "title": "Increased Aridity",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "DECLINE OF THE CIVILISATION > Deforestation",
+      "path_titles": [
+        "DECLINE OF THE CIVILISATION",
+        "Deforestation"
+      ],
+      "title": "Deforestation",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "DECLINE OF THE CIVILISATION > Attack",
+      "path_titles": [
+        "DECLINE OF THE CIVILISATION",
+        "Attack"
+      ],
+      "title": "Attack",
+      "sequence_number": 4,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "HERITAGE",
+      "path_titles": [
+        "HERITAGE"
+      ],
+      "title": "HERITAGE",
+      "sequence_number": 15,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "EXERCISES > I. Multiple-Choice Questions",
+      "path_titles": [
+        "EXERCISES",
+        "I. Multiple-Choice Questions"
+      ],
+      "title": "I. Multiple-Choice Questions",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": false
+    },
+    {
+      "path": "EXERCISES > II. Short Answer Questions",
+      "path_titles": [
+        "EXERCISES",
+        "II. Short Answer Questions"
+      ],
+      "title": "II. Short Answer Questions",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": false
+    },
+    {
+      "path": "EXERCISES > III. Structured Questions",
+      "path_titles": [
+        "EXERCISES",
+        "III. Structured Questions"
+      ],
+      "title": "III. Structured Questions",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": false
+    },
+    {
+      "path": "EXERCISES > IV. Thinking Skills",
+      "path_titles": [
+        "EXERCISES",
+        "IV. Thinking Skills"
+      ],
+      "title": "IV. Thinking Skills",
+      "sequence_number": 4,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": false
+    }
+  ],
+  "stray_leaves": [
+    {
+      "title": "EXTENT OF THE CIVILISATION",
+      "insert_after_index": 13,
+      "micro_topics": [],
+      "has_notes": true
+    }
+  ]
+}

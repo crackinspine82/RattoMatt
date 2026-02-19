@@ -1,0 +1,335 @@
+{
+  "syllabus_leaves": [
+    {
+      "path": "SOURCES > Bijak > Sakhi",
+      "path_titles": [
+        "SOURCES",
+        "Bijak",
+        "Sakhi"
+      ],
+      "title": "Sakhi",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "SOURCES > Bijak > Ramaini",
+      "path_titles": [
+        "SOURCES",
+        "Bijak",
+        "Ramaini"
+      ],
+      "title": "Ramaini",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "SOURCES > Bijak > Shabda",
+      "path_titles": [
+        "SOURCES",
+        "Bijak",
+        "Shabda"
+      ],
+      "title": "Shabda",
+      "sequence_number": 3,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "SOURCES > Guru Granth Sahib > Introductory section composed by Guru Nanak",
+      "path_titles": [
+        "SOURCES",
+        "Guru Granth Sahib",
+        "Introductory section composed by Guru Nanak"
+      ],
+      "title": "Introductory section composed by Guru Nanak",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": false
+    },
+    {
+      "path": "SOURCES > Guru Granth Sahib > Compositions of Sikh gurus, followed by those of other saints and mystics, collected according to the chronology of ragas or musical settings",
+      "path_titles": [
+        "SOURCES",
+        "Guru Granth Sahib",
+        "Compositions of Sikh gurus, followed by those of other saints and mystics, collected according to the chronology of ragas or musical settings"
+      ],
+      "title": "Compositions of Sikh gurus, followed by those of other saints and mystics, collected according to the chronology of ragas or musical settings",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "SOURCES > Ajmer Sharief",
+      "path_titles": [
+        "SOURCES",
+        "Ajmer Sharief"
+      ],
+      "title": "Ajmer Sharief",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "SOURCES > St. Francis Church (Kochi)",
+      "path_titles": [
+        "SOURCES",
+        "St. Francis Church (Kochi)"
+      ],
+      "title": "St. Francis Church (Kochi)",
+      "sequence_number": 4,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "SOURCES > St. Francis Assisi",
+      "path_titles": [
+        "SOURCES",
+        "St. Francis Assisi"
+      ],
+      "title": "St. Francis Assisi",
+      "sequence_number": 5,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Factors Responsible for the Growth of Composite Culture",
+      "path_titles": [
+        "Factors Responsible for the Growth of Composite Culture"
+      ],
+      "title": "Factors Responsible for the Growth of Composite Culture",
+      "sequence_number": 2,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "Impact of Composite Culture > The dress, manners, social amenities and festivals which the Mughals introduced in India, were accepted by the people in India",
+      "path_titles": [
+        "Impact of Composite Culture",
+        "The dress, manners, social amenities and festivals which the Mughals introduced in India, were accepted by the people in India"
+      ],
+      "title": "The dress, manners, social amenities and festivals which the Mughals introduced in India, were accepted by the people in India",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Impact of Composite Culture > The trend towards fusion of two cultures is best seen in the field of music.",
+      "path_titles": [
+        "Impact of Composite Culture",
+        "The trend towards fusion of two cultures is best seen in the field of music."
+      ],
+      "title": "The trend towards fusion of two cultures is best seen in the field of music.",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Impact of Composite Culture > During the reign of Akbar, there was a fusion of Persian and Indian style of painting.",
+      "path_titles": [
+        "Impact of Composite Culture",
+        "During the reign of Akbar, there was a fusion of Persian and Indian style of painting."
+      ],
+      "title": "During the reign of Akbar, there was a fusion of Persian and Indian style of painting.",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Impact of Composite Culture > In the field of architecture, the Indian and Islamic systems of art were mingled to give rise to a new type of Indo-Islamic architecture.",
+      "path_titles": [
+        "Impact of Composite Culture",
+        "In the field of architecture, the Indian and Islamic systems of art were mingled to give rise to a new type of Indo-Islamic architecture."
+      ],
+      "title": "In the field of architecture, the Indian and Islamic systems of art were mingled to give rise to a new type of Indo-Islamic architecture.",
+      "sequence_number": 4,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Impact of Composite Culture > Language and literature also saw the influence of the two traditions.",
+      "path_titles": [
+        "Impact of Composite Culture",
+        "Language and literature also saw the influence of the two traditions."
+      ],
+      "title": "Language and literature also saw the influence of the two traditions.",
+      "sequence_number": 5,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "SUFISM AND BHAKTI MOVEMENT",
+      "path_titles": [
+        "SUFISM AND BHAKTI MOVEMENT"
+      ],
+      "title": "SUFISM AND BHAKTI MOVEMENT",
+      "sequence_number": 4,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "BHAKTI MOVEMENT",
+      "path_titles": [
+        "BHAKTI MOVEMENT"
+      ],
+      "title": "BHAKTI MOVEMENT",
+      "sequence_number": 5,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "Doctrines of Bhakti Cult",
+      "path_titles": [
+        "Doctrines of Bhakti Cult"
+      ],
+      "title": "Doctrines of Bhakti Cult",
+      "sequence_number": 6,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "IMPACT OF BHAKTI MOVEMENT",
+      "path_titles": [
+        "IMPACT OF BHAKTI MOVEMENT"
+      ],
+      "title": "IMPACT OF BHAKTI MOVEMENT",
+      "sequence_number": 7,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "BHAKTI SAINTS > Mirabai",
+      "path_titles": [
+        "BHAKTI SAINTS",
+        "Mirabai"
+      ],
+      "title": "Mirabai",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "BHAKTI SAINTS > Sant Jnaneswar",
+      "path_titles": [
+        "BHAKTI SAINTS",
+        "Sant Jnaneswar"
+      ],
+      "title": "Sant Jnaneswar",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "SUFISM",
+      "path_titles": [
+        "SUFISM"
+      ],
+      "title": "SUFISM",
+      "sequence_number": 9,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "Doctrines of Sufism",
+      "path_titles": [
+        "Doctrines of Sufism"
+      ],
+      "title": "Doctrines of Sufism",
+      "sequence_number": 10,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "Impact of Sufism",
+      "path_titles": [
+        "Impact of Sufism"
+      ],
+      "title": "Impact of Sufism",
+      "sequence_number": 11,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "Hazrat Nizamuddin",
+      "path_titles": [
+        "Hazrat Nizamuddin"
+      ],
+      "title": "Hazrat Nizamuddin",
+      "sequence_number": 12,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "INFLUENCE OF CHRISTIANITY",
+      "path_titles": [
+        "INFLUENCE OF CHRISTIANITY"
+      ],
+      "title": "INFLUENCE OF CHRISTIANITY",
+      "sequence_number": 13,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "St. Francis Xavier",
+      "path_titles": [
+        "St. Francis Xavier"
+      ],
+      "title": "St. Francis Xavier",
+      "sequence_number": 14,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": false
+    },
+    {
+      "path": "IMPACT OF CHRISTIAN MISSIONARIES",
+      "path_titles": [
+        "IMPACT OF CHRISTIAN MISSIONARIES"
+      ],
+      "title": "IMPACT OF CHRISTIAN MISSIONARIES",
+      "sequence_number": 15,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    }
+  ],
+  "stray_leaves": [
+    {
+      "title": "Kabir's Teachings According to Bijak",
+      "insert_after_index": 4,
+      "micro_topics": [],
+      "has_notes": true
+    },
+    {
+      "title": "Guru Nanak's Teachings",
+      "insert_after_index": 7,
+      "micro_topics": [],
+      "has_notes": true
+    }
+  ]
+}

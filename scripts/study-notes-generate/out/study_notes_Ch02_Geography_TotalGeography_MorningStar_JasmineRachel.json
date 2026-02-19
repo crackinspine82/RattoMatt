@@ -1,0 +1,117 @@
+{
+  "board": "ICSE",
+  "grade": 9,
+  "subject": "Geography",
+  "book_slug": "TotalGeography_MorningStar_JasmineRachel",
+  "book_meta": {
+    "book_name": "Total Geography",
+    "publication": "Morning Star",
+    "author": "Jasmine Rachel"
+  },
+  "chapter_sequence_number": 2,
+  "chapter_title": "Geographic grid Latitudes and Longitudes",
+  "discipline": null,
+  "generated_at": "2026-02-10T16:27:28.934Z",
+  "sections": [
+    {
+      "title": "Geographic Grid: Latitudes and Longitudes",
+      "level_label": "Section",
+      "content_md": "The earth's surface is vast, making it impossible to locate a place without a mathematical method. For this reason, imaginary lines are drawn on the globe. The lines running east to west, parallel to the Equator, are called **lines of latitude**. The lines running north to south passing through the poles are called **lines of longitude**. The intersection of latitudes and longitudes pinpoints a place on the earth's surface. These criss-crossing lines form a framework known as the **Geographic Grid**.\n\n**Eratosthenes**, a Greek philosopher who first calculated the earth's circumference, devised lines of latitude and longitude to locate places on the earth. This grid on a globe or map serves the same purpose as coordinates on a graph paper, where the x-axis is represented by lines of latitude (horizontal) and the y-axis by lines of longitude (vertical).\n\n[Image: Fig. 2.1. The Geographic Grid]"
+    },
+    {
+      "title": "Concept of latitudes: main latitudes, their location with degrees, parallels of latitude and their uses.",
+      "level_label": "Topic",
+      "content_md": "A **latitude** is the angular distance of a place north or south of the Equator. It is marked in degrees, with the Equator being 0 degrees.\n\n**Parallels of latitude** are the imaginary lines of latitude that are parallel to the Equator and to each other. Each parallel of latitude is a full circle, though their lengths decrease towards the poles. Only the Equator is a Great Circle.\n\n**Main Latitudes and their Degrees:**\n*   **Equator**: 0°\n*   **Tropic of Cancer**: 23½°N\n*   **Tropic of Capricorn**: 23½°S\n*   **Arctic Circle**: 66½°N\n*   **Antarctic Circle**: 66½°S\n*   **North Pole**: 90°N\n*   **South Pole**: 90°S\n\n**Uses of Latitudes:**\n*   **Location**: To find the **absolute location** of a place north or south of the Equator.\n*   **Distance**: To measure the distance of a place from the Equator, as 1° of angular distance is roughly equal to 111 km.\n*   **Climate**: To divide the earth into distinct **heat zones** (Torrid, Temperate, and Frigid zones)."
+    },
+    {
+      "title": "Concept of longitudes — Prime Meridian, time (local, standard and time zones, Greenwich Mean Time (GMT) and International Date Line (IDL). Eastern and Western hemisphere.",
+      "level_label": "Topic",
+      "content_md": "A **longitude** is the angular distance of a place east or west of the Prime Meridian.\n\n**Prime Meridian**: It is the line of longitude whose angular distance is defined as 0°. It passes through Greenwich near London. Lines to the west are suffixed with 'W' and to the east with 'E'.\n\n**Longitude and Time**: Lines of longitude are also called **Meridians**. The Earth covers 360° of longitude in 24 hours, which means it covers 15° in one hour or 1° in 4 minutes. This relationship is the basis for calculating time.\n*   **Local Time**: The time of a place obtained by the overhead sun at noon. It varies by 4 minutes for every degree of longitude.\n*   **Standard Time**: A uniform time for a country or region, based on a central meridian. This avoids confusion from having multiple local times.\n*   **Time Zones**: The Earth is divided into 24 time zones, each covering 15° of longitude.\n*   **Greenwich Mean Time (GMT)**: The time at the Prime Meridian (0° longitude) is used as the universal reference time.\n\n**International Date Line (IDL)**: This is the 180° longitude line, which is diametrically opposite the Prime Meridian. When crossing this line, the date changes, and a day is either gained or lost.\n\n**Eastern and Western Hemisphere**: The Prime Meridian (0°) and the 180° longitude line divide the Earth into the **Eastern Hemisphere** and the **Western Hemisphere**."
+    },
+    {
+      "title": "Using latitudes and longitudes to find location. Calculation of time.",
+      "level_label": "Topic",
+      "content_md": "**Using Latitudes and Longitudes to Find Location**\nThe intersection of latitudes and longitudes forms a **Geographic Grid**, which allows us to locate places on a globe or map. By knowing the latitude and longitude of a place, we can pinpoint its exact location. It is common practice to write the latitude first, then the longitude.\n*   Example 1: New York – Latitude 41°N and Longitude 74°W\n*   Example 2: New Delhi – 30°N and 77°E\n*   Example 3: Mumbai – 19°N and 73°E\n\n**Calculation of Time**\nThe Earth rotates 360° in 24 hours. Therefore:\n*   15° of longitude corresponds to a time difference of 1 hour.\n*   1° of longitude corresponds to a time difference of 4 minutes.\n\nA helpful mnemonic is the **EGA-WLS formula**: **E**ast-**G**ain-**A**dd and **W**est-**L**ose-**S**ubtract. For each 1° longitude moved towards the East, 4 minutes are added to the time. For each 1° moved towards the West, 4 minutes are subtracted.\n\n**Worked Out Example:**\nIt is 5.30 p.m. in India when the Prime Minister's radio broadcast made from Montreal in Canada was heard. What must have been the time at Montreal?\n*   **Solution 1**: Montreal lies at 74°W. India's standard time is based on 82½°E.\n    *   India is 5 hrs 30 min ahead of GMT. So, when it's 1730 hrs in India, it's 1200 hrs (noon) at Greenwich.\n    *   Montreal's time difference from GMT = 74 × 4 min = 296 min = 4 hours 56 minutes.\n    *   Since Montreal is west of GMT, its time is behind GMT: 12 hrs - 4 hours 56 min = 7:04 a.m.\n*   **Solution 2**: \n    *   Standard Meridian of India = 82½°E\n    *   Standard Meridian of Montreal = 74°W\n    *   Total meridians = 82½° + 74° = 156½°\n    *   Time difference = 156½° × 4 minutes = 626 minutes = 10 hrs 26 minutes.\n    *   Montreal is to the west of India, so time will be deducted: 1730 hrs – 1026 hrs = 7.04 a.m. in Montreal."
+    },
+    {
+      "title": "Great Circles and their use.",
+      "level_label": "Topic",
+      "content_md": "A **great circle** is a circle drawn on the surface of a sphere (such as the earth) that has a radius equal to the radius of the sphere, and whose centre is also the sphere's centre. A plane passing through the center of the earth divides it into two equal parts, and its intersection with the surface forms a great circle.\n\nThe **Equator** is the only line of latitude that is a great circle. A pair of diametrically opposite **longitudes** (e.g., 0° and 180°) also forms a great circle.\n\n**Uses of Great Circles:**\n1.  **Shortest Distance**: Navigators use great circles to find the shortest distance between any two points on the earth's surface. A **Great Circle Route** is the shortest distance between two places and lies on the arc of a great circle.\n2.  **Global Routes**: Great Circle routes are particularly important for long-distance travel for places on opposite sides of the globe, such as routes across the Atlantic, Pacific, and Indian Oceans.\n3.  **Meteorology**: Great circles are used by meteorologists to determine climate and weather conditions in a region."
+    },
+    {
+      "title": "LINES OF LATITUDE",
+      "level_label": "Topic",
+      "content_md": "*   **Lines of Latitude** are the imaginary lines joining all places having the same latitude towards north or south of the Equator.\n*   A **latitude** is the angular distance of a place north or south of the Equator.\n*   A latitude is marked in **degrees**, with the Equator being 0 degrees.\n*   Latitudes are calculated according to the angle a place makes with the centre of the earth.\n*   Since the lines of latitude are parallel to the Equator and each other, they are called **parallels of latitude**.\n*   Each parallel of latitude is a full circle. However, only the Equator is a **Great Circle**.\n*   The lines of latitude are not of equal length and become smaller as we move towards the poles. At 60° latitude, in each hemisphere, the length of the circle is half the length of the Equator. At the poles, these lines are just points or dots.\n*   The length of the Equator is equal to the circumference of the earth or **40,075 km**. Since the circumference of a circle is 360°, the 1° angular distance is roughly equal to **111 km**.\n\n[Image: Fig. 2.2. (a) Latitude degrees are measured from the Equator to its north or south]"
+    },
+    {
+      "title": "Main Latitudes",
+      "level_label": "Topic",
+      "content_md": "There are **181 parallels of latitude** at 1° interval.\n*   **Equator**: The longest line of latitude, it represents 0° latitude.\n*   **The North Pole (90° N)**: Located at an angular distance of 90° north of the Equator.\n*   **The South Pole (90° S)**: Located at an angular distance of 90° south of the Equator.\n*   **The Tropic of Cancer (23½°N)**: A line of latitude located 23½° north of the Equator.\n*   **The Tropic of Capricorn (23½°S)**: A line of latitude located 23½° south of the Equator.\n*   **The Arctic Circle (66½°N)**: Represents 66½°N latitude and marks the limit of the north polar region.\n*   **The Antarctic Circle (66½°S)**: Represents 66½°S latitude and marks the limit of the south polar region.\n\n[Image: Fig. 2.3. Important Parallels of Latitudes]"
+    },
+    {
+      "title": "Northern and Southern Hemisphere",
+      "level_label": "Topic",
+      "content_md": "The **Equator** runs midway between the poles and divides the earth into two equal hemispheres known as the **Northern Hemisphere** and the **Southern Hemisphere**.\n\nThe Poles—North Pole and South Pole—are opposite to each other at the extreme ends of the sphere. They are each located at 90° angular distance north or south of the Equator."
+    },
+    {
+      "title": "Uses of Latitudes",
+      "level_label": "Topic",
+      "content_md": "The lines of latitude form one of the coordinates of the grid system and have the following uses:\n\n*   **To find the location of a Place**: Latitudes give us the location of a place north or south of the Equator. Such a location is known as an **absolute location**.\n*   **To measure the distance of a Place**: Distances are calculated with reference to the Equator at a right angle to the place. We can measure the distance of any place from the Equator based on its degree of latitude. For example, Mumbai is at 19°N. Since 1° latitude = 111 km, Mumbai is 2109 km (111 × 19°) away from the Equator."
+    },
+    {
+      "title": "Heat Zones:",
+      "level_label": "Topic",
+      "content_md": "Besides helping to locate places, lines of latitude divide the earth into distinct **heat belts** or **thermal zones**, which indicate the general climate of an area.\n*   **The Torrid or Tropical Zone**: The area lying between the **Tropic of Cancer (23½°N)** and **Tropic of Capricorn (23½°S)**. It is the hottest zone of the earth.\n*   **The Temperate Zones**: These lie between the Tropics and the polar circles.\n    *   The **North Temperate Zone** is between the Tropic of Cancer (23½°N) and the Arctic Circle (66½°N).\n    *   The **South Temperate Zone** is between the Tropic of Capricorn (23½°S) and the Antarctic Circle (66½°S).\n    In this region, the climate is moderate, i.e., neither too hot nor too cold.\n*   **The Frigid Zones**: These are the polar regions.\n    *   One lies between the **Arctic Circle** and the **North Pole**.\n    *   The other lies between the **Antarctic Circle** and the **South Pole**.\n    These zones receive the sun's slanting rays, and very low temperatures are recorded."
+    },
+    {
+      "title": "LINES OF LONGITUDE",
+      "level_label": "Topic",
+      "content_md": "*   A **longitude** is the angular distance of a place east or west of the **Prime Meridian**.\n*   The **Prime Meridian** is the line of longitude whose angular distance is defined as 0°. It passes through Greenwich near London.\n*   The lines to the west of Greenwich are suffixed with 'W' and those east of Greenwich are suffixed with 'E'. For example 60°W and 60°E.\n*   There are a total of **360 lines** at 1° interval.\n*   The lines of longitude are also called **Meridians of Longitude**. 'Meridian' is derived from the Latin word 'meridianum' meaning noon. The sun crosses a meridian at noon, so all places on a particular meridian will have noon at the same time.\n*   All meridians of longitude converge at the poles and are thus of **equal length**.\n*   The Prime Meridian is numbered as 0°. Others are numbered from 0° to 180°E or W. The line 180°E and W refer to the same meridian. It is diametrically opposite to the 0° longitude.\n*   Individually, all lines of longitude are **semicircles**.\n*   The two diametrically opposite lines make a full circle also known as the **Great Circle**.\n*   The distance between two lines of longitude is maximum at the Equator (**111 km**). The distance decreases gradually as one moves towards the poles.\n\n[Image: Fig. 2.4. Lines of Longitude]"
+    },
+    {
+      "title": "LONGITUDE AND TIME",
+      "level_label": "Topic",
+      "content_md": "The lines of longitude are also known as 'Meridians'. At a particular moment of time, if it is 12 Noon at a given longitude, it must be 12 Noon at all places on this longitude.\n\nThe Earth makes a complete circle on its axis—it covers 360° longitudes in 24 hours. This means:\n*   It covers every **15° longitudes in one hour**.\n*   It covers **1° longitude every 4 minutes**.\n\nThus, if it is 12 Noon at 0° longitude, it must be 4 minutes past 12 Noon towards the east at the next 1°E longitude, or at 15°E longitude it must be 1 p.m. Towards the west, it will be 1 hour less because the Earth rotates from West to East, so the sun first rises in the East.\n\nFor memorising, the **EGA-WLS formula** is used:\n*   **EGA** stands for **East-Gain-Add**: For each 1° longitude towards the East, 4 minutes are to be added.\n*   **WLS** stands for **West-Lose-Subtract**: For each 1° longitude towards the West, 4 minutes are to be subtracted."
+    },
+    {
+      "title": "Eastern and Western Hemisphere",
+      "level_label": "Topic",
+      "content_md": "The **Prime Meridian**, together with the **180° longitude**, usually divides the earth into the **Eastern and Western Hemispheres**. This division holds good practically for all purposes. However, any two diametrically opposite lines can also divide the earth into two equal hemispheres."
+    },
+    {
+      "title": "LOCAL TIME",
+      "level_label": "Topic",
+      "content_md": "The **local time** of any place is obtained by the overhead sun at noon. For each degree of longitude, the local time varies by 4 minutes.\n\nFor example, the longitude of Mumbai is 73°E and that of New Delhi is 77°E. If it is 12 Noon at Mumbai (73°E), it must be 16 minutes past 12 Noon at New Delhi at the same time. This is because there is a 4° longitude difference (77°E - 73°E), and 1° longitude equals 4 minutes, so 4° equals 16 minutes. The time is added because Delhi lies to the east of Mumbai. This means every place at a different longitude will have its own local time."
+    },
+    {
+      "title": "TIME ZONES AND STANDARD TIME",
+      "level_label": "Topic",
+      "content_md": "**Time Zones**\nTo overcome the confusion of varying local times, the earth has been divided into **24 Time Zones**, corresponding to the hours in a day. Each zone covers **15° longitude** (360 ÷ 24). The time for the whole zone is determined on the basis of the central meridian of that place. While countries with smaller east-west extent like India have only one Standard Time Zone, countries like Russia, Canada, and the USA have more than one.\n\n**Standard Time**\nThe uniform time based on a central meridian is known as the **Standard Time**. Standard time must always be divisible by 7½°. This allows time to be reckoned by a unit of half-an-hour and not smaller differences.\n\n**Greenwich Mean Time (GMT)**\nWhile fixing the Time Zones, the time at **Greenwich (0° longitude)** has been selected as the mean time. For example, if it is 12 Noon at Greenwich, at 15°E longitude, the time will be 1 p.m. The time fixed with reference to Greenwich is called the **Greenwich Mean Time or GMT**.\n\n[Image: Fig. 2.5. Places on the same longitude have the same time - Places K, O and M have each 40° longitude. If it is 12 noon at K, it will also be 12 noon at O and M]"
+    },
+    {
+      "title": "Indian Standard Time (IST)",
+      "level_label": "Topic",
+      "content_md": "In India, **82°30'E** is the central meridian. It passes through Mirzapur near Allahabad (Prayagraj) and is known as the **Standard Meridian of India**. \n\nWhile fixing the Indian Standard Time with respect to the Greenwich Mean Time, we have to add 82°30' x 4 minutes = 330 minutes or **5½ hours**. This means that India is 5½ hours ahead of GMT. Thus if it is 9 AM at London it must be 9 + 5.30 or 14.30 hrs or 2.30 PM in India."
+    },
+    {
+      "title": "INTERNATIONAL DATE LINE",
+      "level_label": "Topic",
+      "content_md": "The line of longitude **180°** is one and the same for East or West of the Prime Meridian. Since it is diametrically opposite to the Greenwich Meridian, it causes a time difference of a full day on crossing the line. The time difference works out to 12 hours (180° × 4 min) from either side. Thus, on crossing the line, a day is gained or lost.\n\nWhen crossing from the east, time will be 12 hours ahead, and while crossing from the west, time will be 12 hours behind. For example, if it is 8 PM Monday, 25th December at Greenwich, it will be 8 AM Tuesday, 26th December on crossing the 180° line from the west. But if one travels from the east, it will be 8 AM Monday, 25th December. The difference between these two times is a full 24 hours.\n\nThe **International Date Line (IDL)** is the 180° line. When crossing this date line, the date changes. When sailing eastwards (e.g., Boat 1 in Fig 2.6), Sunday becomes Monday, so a day is lost. When sailing westwards (e.g., Boat 2), Monday becomes Sunday, so a day is gained.\n\nTo avoid the confusion of having different dates within the same country, the **Date Line bends and goes zig-zag** at the Bering Strait between Siberia and Alaska and at Fiji, Tonga, New Zealand, and some other islands.\n\n[Image: Fig. 2.6. The International Date Line]\n[Image: Fig. 2.7. International Date Line]"
+    },
+    {
+      "title": "LOCATING PLACES",
+      "level_label": "Topic",
+      "content_md": "With the help of the grid, we can locate places on the globe or the map, if we know the latitude and longitude of those places.\n\n**Worked Out Examples**\nThe latitude and longitude of three places is given below. Pinpoint these places on the globe.\n(i) New York – Latitude 41°N and Longitude 74°W\n(ii) New Delhi – 30°N and 77°E\n(iii) Mumbai – 19°N and 73°E\n\nFirst look at the data of New York. It is a common practice to write first the latitude and then the longitude of a place. For locating the above, identify the relevant latitudes and longitudes. Where the two lines meet, or the point at which they cross each other, lies the place which is to be located."
+    },
+    {
+      "title": "GREAT AND SMALL CIRCLES",
+      "level_label": "Topic",
+      "content_md": "A **great circle** is a circle that is drawn on the surface of a sphere (such as the earth) that has a radius equal to the radius of the sphere, and whose centre is also the sphere's centre. The **Equator** is the only latitude that is a great circle. All **longitudes** are a part of a great circle.\n\n**Small circles** are circles which do not pass through the centre of the earth. All the parallels of latitudes other than the Equator are small circles. **Arcs of great circles** are the shortest route between two points on a sphere.\n\n**Characteristics of a Great Circle**\n(i) A great circle is a theoretical circle formed by the intersection of the earth's surface and an imaginary plane that passes through the centre of the earth and divides it into two equal parts.\n(ii) All such circles must pass through or touch the centre of the circle.\n(iii) An infinite number of circles that touch the two opposite ends of the sphere can be drawn on a sphere. This excludes all latitudes except the Equator.\n(iv) Intersecting great circles always bisect each other.\n\nIn respect of characteristic (i) above, the Equator is the largest possible circle among lines of the latitude. The Equator and all diametrically opposite longitudes touch the centre of a circle and therefore are Great Circles."
+    },
+    {
+      "title": "Uses of Great Circles",
+      "level_label": "Topic",
+      "content_md": "(i) Navigators use great circles to find the **shortest distance** between any two points on the earth's surface. A **Great Circle Route** is the shortest distance between two places on the earth and lies on the arc of a great circle. Using this hypothesis, the shortest route from New York to Moscow would be over the North Pole. Thus, it does not take into account restrictions such as weather or political restrictions imposed by the countries concerned. It also does not take into account, lack of landing and take off facilities for aeroplanes.\n\n(ii) Great Circle routes are specially important for places that are on opposite sides of the globe. Most globes show great circle routes between distant ports across the Atlantic, the Pacific and the Indian Ocean.\n\n(iii) Great circles are used by **meteorologists** to determine climate and weather conditions in a region."
+    }
+  ]
+}

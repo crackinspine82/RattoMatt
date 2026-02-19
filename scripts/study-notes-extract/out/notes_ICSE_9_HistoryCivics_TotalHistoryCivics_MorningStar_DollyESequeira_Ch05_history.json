@@ -1,0 +1,488 @@
+{
+  "board": "ICSE",
+  "grade": 9,
+  "subject": "HistoryCivics",
+  "book_slug": "TotalHistoryCivics_MorningStar_DollyESequeira",
+  "book_meta": {
+    "book_name": "Total History & Civics",
+    "publication": "Morning Star",
+    "author": "Dolly E. Sequeira"
+  },
+  "chapter_sequence_number": 5,
+  "chapter_title": "The Sangam Age",
+  "discipline": "history",
+  "reconciliation": {
+    "outline": [
+      "SOURCES",
+      "Tirukkural",
+      "Megaliths",
+      "TAMIL KINGDOMS",
+      "CHERA KINGDOM",
+      "CHOLA KINGDOM",
+      "PANDYAN KINGDOM",
+      "LOCAL CHIEFTAINS",
+      "SOCIETY",
+      "SOCIAL CLASSES",
+      "FOOD AND DRESS",
+      "ENTERTAINMENT",
+      "POSITION OF WOMEN",
+      "MARRIAGE",
+      "ECONOMY",
+      "AGRICULTURE",
+      "OTHER OCCUPATIONS",
+      "TRADE"
+    ],
+    "in_syllabus_only": [],
+    "in_pdf_only": [],
+    "additional_sections": []
+  },
+  "nodes": [
+    {
+      "title": "The Sangam Age",
+      "sequence_number": 1,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "The **Sangam Age** is considered a landmark in the history of South India. The word '**Sangam**' is the Tamil form of the Sanskrit '**Sangha**' which means an assembly or an association. Thus, the Sangam Age refers to the period when bulk of Tamil literature was composed by a body of Tamil scholars and poets in three successive literary gatherings called Sangam. Hence, Sangam refers to the gatherings of poets and bards. These took place between **first century BC and second century AD** in the kingdom of Pandyas. These texts were called Sangam because they are believed to have been composed and compiled in assemblies of poets that were held in the city of Madurai."
+        },
+        {
+          "content_md": "It is believed that the **first Sangam** was attended by Gods and legendary sages including **Sage Agastya**, but all its works have perished. The **second Sangam**, attended by several poets, produced a large mass of literature, but only **Tolkappiyam by Tolkappiar** (the oldest book of Tamil grammar) has survived. The **third Sangam**, attended by many poets, produced vast literature of which only a fraction has survived. It is this fraction which constitutes the extant body of **Sangam literature**."
+        },
+        {
+          "content_md": "The three kingdoms of **Cheras, Pandyas and Cholas** were always at war with one another. Their wars and heroic deeds form the themes of Sangam literature. According to these descriptions, Cheras had finally asserted their supremacy over the other two kingdoms."
+        }
+      ]
+    },
+    {
+      "title": "SOURCES",
+      "sequence_number": 2,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "Tirukkural",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "It is one of the most celebrated works of the **eighteen minor works (Patinenkilkanakku)** of the Sangam literature, written by **Tiruvalluvar**, a Tamil poet and philosopher. **Tirukkural** (or **Kural**) is considered as a compound of the teachings of **Dharamashastra**, the **Arthashastra** and the **Kamasutra**. It comprises a series of brief metrical proverbs on many aspects of life and religion. It is a collection of Tamil couplets organised into **133 chapters**. Each chapter has a specific subject ranging from “ploughing a piece of land\" to \"ruling a country”. It preaches simplicity and truth throughout its verses.\n\nThe 133 chapters are grouped into three sections: (a) **Aram** (righteousness); (b) **Porul** (wealth); and (c) **Inbam** or **Kamam** (pleasure). **Aram** and **Inbam** discuss about ethical living in private life, **Porul** deals with public affairs.\n\n[Image: Thiruvalluvar]"
+            }
+          ]
+        },
+        {
+          "title": "Megaliths",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**Megaliths** are box-like structures erected with the stone slabs, resting on each other without any mortar. Sometimes there was an opening cut into one of the sides. These acted either as **burial sites** or **commemorative memorials**."
+            },
+            {
+              "content_md": "While some megaliths can be seen on the surface, some others are often found underground. Stone circles or boulders placed on the surface probably served as signposts to find the burial site, so that people could return to the same place whenever they wanted to. Some megaliths contain more than one skeleton. This indicates that people belonging to the same family were buried in the same place though at different time periods. These are also known as **memorial stones**. These megaliths contained not only skeletons of the buried people, but also contained **grave goods** including pottery and iron objects. These goods provide a useful insight about the life of people during the Sangam Age.\n\n[Image: Megalith Burial]"
+            },
+            {
+              "content_md": "For example, the number of agricultural tools compared to those meant for fishing and hunting are less, so it can be concluded that the megalithic people initially did not practice an advanced type of agriculture. From the grave goods, religious beliefs of the megalithic people can also be inferred. For example, the presence of tridents in the graves, show their faith in Lord Shiva.\n\n[Image: Megaliths]"
+            },
+            {
+              "content_md": "Renowned historian, **Champakalakshmi** has identified the Sangam Age with the last phase of the megalithic culture in the Tamil region. She has substantiated her viewpoint by correlating the **velir** settlements known from literature with the megalithic sites of the far south. This includes a subsistence base consisting of agriculture, cattle rearing and fishing, the use of iron, and a period in which warfare and weapons were important."
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    },
+    {
+      "title": "TAMIL KINGDOMS",
+      "sequence_number": 3,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "CHERA KINGDOM",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The territory of the Sangam Cheras mostly comprised the present state of **Kerala**.\n\nThe **Chera kings** of the Sangam Age were known by many titles such as **Vanavar**, **Villavar** and **Malaiyar**. There were two important lines of Chera Kings. The first one started from **Udiyan Cheralathan** and the second from **Irumporai**. The kings belonging to these two lines ruled the Chera kingdom. Their capital was **Vanji** and their chief port was **Thondi**. Their symbol on the flag was **bow and arrow**.\n\n**Cheran Senguttuvan** was the most popular king of the Sangam Cheras. The Sangam works, **Padirruppattu** and **Ahananuru** provide a lot of information about him. His brother **Illango Vadigal** composed the Tamil Epic, **Silappadikaram** which, besides the story of Kannagi and Kovalan, tells about how Senguttuvan defeated a number of rulers to bring a stone from the Himalayas to build a temple dedicated to **Kannagi**. Senguttuvan led an expedition up to the **Himalayas**. He crossed the river **Ganges** and defeated his enemies. He reached the Himalayas and hoisted the Chera flag. **Pattini cult**, that is the worship of **Kannagi** as the ideal wife, was started by him. It is said that he brought a stone from the Himalayas to carve a statue of Kannagi and built a temple for her.\n\n**Padirrupattu** and other Sangam literature give a long list of Chera kings. The most popular among them were **Cheralathan**, **Peruncheral Irumporai** and **Kanaikkal Irumporai**."
+            }
+          ]
+        },
+        {
+          "title": "CHOLA KINGDOM",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The kingdom of the **Sangam Cholas** comprised the present **Thanjavur** and **Tiruchirappalli** districts.\n\nThe Chola kingdom is referred to in the Sangam literature as **Chonadu**, **Kaveri Nadu**, **Kaveri Soozh Nadu**, **Neer Nadu** and **Punal Nadu**. These names indicate the rich water resources of the Chola country. The river **Kaveri** that flowed through the Chola kingdom, made its soil fertile. The capital of the Sangam Cholas was **Uraiyur**. Their second capital was **Kaveripoompattinam**. It was also the chief port of the Sangam Cholas. Their symbol was **tiger**. The Sangam literature mentions a number of Chola kings. They had surnames like **Killi**, **Valavan**, **Senni** and **Cholan**."
+            },
+            {
+              "content_md": "The most popular among the Sangam Cholas was **Karikalan**. The Sangam literature gives useful information about Karikalan. Even in his young age, he proved his extraordinary ability of settling the disputes in his kingdom. He was a great warrior. He defeated the Chera and the Pandya kings at **Venni**. In another battle, **Karikalan** defeated a confederacy of nine princes. He extended his kingdom beyond Kanchipuram."
+            },
+            {
+              "content_md": "**Karikalan** had become popular for the development activities in his kingdom. He had encouraged the growth of agriculture as well as commerce. He had built the dam called **Kallanai** across the river Kaveri. Its water was used for irrigation. Karikalan had fortified the port-city **Kaveripoompattinam** or **Puhar** and made it his capital, which flourished as a great centre for trade. Merchants from foreign countries visited Puhar. **Karikalan** was generous towards Tamil poets and patronised them."
+            }
+          ]
+        },
+        {
+          "title": "PANDYAN KINGDOM",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The extent of the **Pandyan kingdom** during the Sangam Age comprised the present districts of **Madurai**, **Tirunelveli** and **Ramanathapuram**. The Pandya kings were known as **Maran**, **Valudhi** and **Chezhiyan**. Their capital was **Madurai** and their chief port was **Korkai**. Their symbol was **fish**. The Pandyan kings earned name and fame for their patronage to the **Tamil Sangam**. It can be said that their capital Madurai had remained the capital of Tamil language and literature.\n\nThe Sangam literature provides a long list of Pandya kings. Some of them had become popular. **Mudhukudumi Peruvazhthi** performed many sacrifices to celebrate his victories. **Ariyappadaikadantha Neduncheliyan** was a famous Pandyan ruler. He gave death sentence to the hero of **Silappadikaram**, Kovalan, by mistake. Another important ruler was **Thalaiyalanganathu Nedunchezhiyan**. He defeated the combined forces of Chera, Chola and other local chieftains at a place called **Thalaiyalanganam**. He patronised a number of Tamil poets including **Mangudi Maruthanar**.\n\nThe Pandya rule ceased along with that of the Cheras and Cholas in the third-century AD."
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    },
+    {
+      "title": "LOCAL CHIEFTAINS",
+      "sequence_number": 4,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "Apart from the three Tamil kingdoms, a number of **local chieftains** ruled in different parts of Tamil Nadu. They were known as **Velirs**. The Sangam literature furnishes a lot of information about them. The most famous among the Velirs were called **Seven Patrons** or **Kadaiyelu Vallalgal**. They were **Pari, Ori, Malayan, Elini, Pegan, Aay** and **Nalli**."
+        },
+        {
+          "content_md": "The local chieftains had extended **patronage** to the Tamil poets. In turn, these poets hailed them for their generosity. They had extended their help to resolve disputes between the rulers. For example, **Avvaiyar** played the role of a diplomat in the court of **Adhiyaman**. Another Sangam poet, **Kapilar** had taken care of **Pari's** daughters after his death. These local chieftains made generous donations to the poets, bards and their consorts. Like the Chera, Chola and Pandya rulers, the local chieftains also played a significant role in the **political, social and cultural domains** during the Sangam Age."
+        }
+      ]
+    },
+    {
+      "title": "SOCIETY",
+      "sequence_number": 5,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "SOCIAL CLASSES",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The Sangam literature speaks of many tribes and also refers to the traditional castes. This means that the **caste divisions** and the **tribal arrangement** existed side by side. However, the distinction in Tamil Sangam society was primarily based upon the division between the **high born** and the **low born**, differentiating the Brahmanas and their patrons from the common men. Though the beginnings of caste system can be made out within the Brahmana households, the larger society remained casteless. The **Tolkappiyam** has mentioned four castes, namely, **Brahmanas**, **kings**, **traders** and **farmers**, ignoring most of the other names of the people. These references in the **Tolkappiyam** obviously show influence of the Sanskritic social ideal."
+            },
+            {
+              "content_md": "The **Brahmanas** during the Sangam Age were a respectable and learned community. They performed their caste duties scrupulously. They served the king occasionally as judicial officers and always as priests and astrologers. They were attached to the land and were proud of their country and their mother tongue.\n\nIt seems that trade was common to both the **Vaishyas** and **Vellalars**. The Vaishyas were assigned the duties of learning, performing sacrifice, making gifts, agriculture, protection of cows and trade.\n\n**Vellalars** were landed aristocrats, who cultivated the wetlands during the Sangam Age. They had close associations and held high positions of office with the three main dynasties, Cheras, Cholas and Pandyas. They also carried out trade. So the two communities were known by the profession in which they were engaged. The ordinary ploughmen were known as **uzhavar** and the landless labourers were known as **kadasiyar** and **adimai**."
+            },
+            {
+              "content_md": "The most relevant socio-economic aspect of the anthologies is their concept of **tinai** according to which the land was divided. The whole area consisted of five **tinais** or divisions viz., hilly backwoods (**kurinji**), parched zones (**palai**), pastoral tract (**mullai**), wet land (**marutam**) and littoral land (**neital**).\n\nThe poems in the anthologies describe the mode of human adaption in each **tinai** and the various social groups there:\n* The inhabitants of the hilly areas were **hunters and gatherers**.\n* In the parched zone, the inhabitants lived by **plunder and cattle lifting**.\n* In the pastoral tract, the inhabitants subsisted on **shifting agriculture** and **animal husbandry**.\n* Wet land was inhabited by people subsisting on **plough agriculture**.\n* And finally, the littoral land was inhabited by those dependent on **fishing and salt extraction**."
+            },
+            {
+              "content_md": "Besides the above mentioned social groups, there are references to some full-time craftmen such as **goldsmiths**, **blacksmiths** and **potters** in the poems."
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    },
+    {
+      "title": "FOOD AND DRESS",
+      "sequence_number": 6,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "**Grain**, **meat** and **fish** formed the chief articles of food, with **vegetables**, **milk** and **milk products**. Grain was husked in hollows made in the ground, and converted into flakes (**aval**). **Appam** (**apupa**) or rice-cake soaked in milk was a luxury. The cooked fish with piping hot curry was equally valued."
+        },
+        {
+          "content_md": "Clothing comprised **two pieces of cloth**. Women in high society used **corsets** and **hair paste**. **Ornaments** were worn by both sexes. The children wore a **necklace of tiger teeth**."
+        }
+      ]
+    },
+    {
+      "title": "ENTERTAINMENT",
+      "sequence_number": 7,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "The Sangam Age people made use of different modes of entertainment during their leisure time. **Music** and **dance** filled a good part of the spare time of men and women. In the villages, **cock-fighting** and **goat-fighting** were popular. **Gambling** was practised widely. **Wrestling** was a common form of sport enjoyed by the youth though at times it led to the death of one of the contestants. Children played various games."
+        }
+      ]
+    },
+    {
+      "title": "POSITION OF WOMEN",
+      "sequence_number": 8,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "The status of women in **Sangam society** was not equal to that of men. The Sangam society consisted of different kinds of women. There were married women who had settled down as dutiful housewives looking after their husbands and children. There were female ascetics belonging to Buddhist or Jain tradition like **Kaundi Adigal** and **Manimegalai**. There were a large number of courtesans.\n\nHowever, women enjoyed freedom of movement in society and the number of women poets of the age is a proof that the women were provided with good education.\n\nThe worship of **Kannagi** or **Pattini** ('the Chaste Lady') was perhaps a very early institution and was an extension of the worship of the **Goddess of Chastity**. But this seems to have become popular with the **Chera ruler Senaguttuvan's** worship of Kannagi and it spread to distant places like Sri Lanka in the South and Malwa in the North.\n\n[Image: Statue of Kannagi]"
+        }
+      ]
+    },
+    {
+      "title": "MARRIAGE",
+      "sequence_number": 9,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "There is little information about the institution of **marriage** during the Sangam Age. Later works like the **Tolkappiyam** and the **Kalaviyal** state that the **Aryans** introduced the rituals and ceremonies of marriage (**karanam**). These works refer to the **eight forms of marriage** known to the **Sanskrit Dharmashastras** and show great ingenuity in fitting them into the framework of the Tamil scheme."
+        }
+      ]
+    },
+    {
+      "title": "ECONOMY",
+      "sequence_number": 10,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "The economy during the **Sangam Age** was simple and **self-sufficient**. The people were industrious and they believed in living well by earning wealth.\n\nThe **Sangam literature** points to the existence of both the **wealthy** and the **poor** in society. The wealthy people included the kings and those who surrounded them. The poor were either the **farm and casual labourers** or the **wandering minstrels**. The division of social groups into the rich and the poor was accepted as natural as poverty was considered the result of the past actions of men."
+        }
+      ]
+    },
+    {
+      "title": "AGRICULTURE",
+      "sequence_number": 11,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "**Agriculture** was the main occupation. The main crop was **rice**, while other crops included **cotton**, **ragi**, **sugarcane**, **pepper**, **ginger**, **cardamom**, **turmeric**, **cinnamon**, different varieties of **fruits**, etc. Construction of **embankments** and **canals** for irrigation was undertaken by the state.\n\nChera country was noted for its **jackfruit**, **pepper** and **turmeric**. In the Chola country a piece of land yielded much **paddy**. Many rural activities like the cultivation of **ragi** and **sugarcane**, the making of **sugar** from the cane, and the **harvesting** and **drying of grain** are described in the Sangam poems in detail."
+        }
+      ]
+    },
+    {
+      "title": "OTHER OCCUPATIONS",
+      "sequence_number": 12,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "Next to agriculture, **spinning** and **weaving** were the most widely practised crafts. Spinning and weaving of **cotton**, and perhaps also of **silk**, had attained a high degree of perfection. Spinning was the part-time occupation of women. The weaving of complex patterns on cloth and silk is often mentioned in literature and **Uraiyur** was a major centre of cotton trade. The poems mention cotton cloth as thin as the skin of the snake or a cloud of steam, so finely woven that the eye could not follow the course of the thread. **Scissors** and **needles** were known. In addition to cotton and silk, cloth made of **wood fibre** was also used by the priestly class. **Dyeing** was a widespread ancillary industry to weaving."
+        },
+        {
+          "content_md": "Other widely practised occupations included **Ship-building**, **metalworking**, **carpentry**, **rope-making**, **ornament-making**, **tanning**, and making of **ivory products**."
+        }
+      ]
+    },
+    {
+      "title": "TRADE",
+      "sequence_number": 13,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "The **Sangam literature** is full of details regarding the commercial activities of the people. **Trade**, both **internal and foreign**, was well organised and briskly carried on throughout the period. Internal trade was brisk; caravans of merchants with carts and pack-animals carried their merchandise from place to place.\n\nMost of the trade was carried on by **barter**. **Paddy** constituted the most commonly accepted medium of exchange, especially in the rural areas. **Salt** was sold for paddy. Paddy was sold by mentioning its price in terms of salt. Honey and roots were exchanged for fish oil. There were established markets, called **angadi** in the bigger towns. Elsewhere, hawkers carried goods to the houses of the people.\n\nThere was an extensive trade with foreign countries. According to the Sangam literature, the Tamil land had certain commodities which were in great demand in foreign markets. These included **pepper, ginger, cardamom, cinnamon, turmeric, ivory products, pearls, and precious stones**. The main imports included **horses, gold, and glass**.\n\nThe port cities were the centres of foreign trade. Big ships entered the port of **Puhar** bringing in precious merchandise from overseas. The family of the rich merchants lived on the upper floors, while the lower ones were set apart for business. **Saliyur** in the Pandya country and **Bandar** in Chera are counted among the most important ports in the poems.\n\n***The Periplus of the Red Sea***, which describes navigation and trade of the Roman empire, gives information on the trade between India and the Roman empire. It mentions the ports of **Naura (Cannanore)**, **Tyndis (identified with Ponnani)** and **Muziris (Cranganore)**, as of leading importance on the west coast.\n\nThe Periplus also mentions **Uraiyur**. All the pearls from the coast were sent to Uraiyur and exported. It notes further that a great quantity of muslin was made in the region of Andhra. The **gold and silver coins** from the Roman empire found in the interior of the Tamil land indicate the extent of the trade."
+        }
+      ]
+    }
+  ],
+  "additional_sections": [],
+  "needs_review": [],
+  "manifest": {
+    "syllabus_leaves": [
+      {
+        "path": "The Sangam Age",
+        "path_titles": [
+          "The Sangam Age"
+        ],
+        "title": "The Sangam Age",
+        "sequence_number": 1,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "SOURCES > Tirukkural",
+        "path_titles": [
+          "SOURCES",
+          "Tirukkural"
+        ],
+        "title": "Tirukkural",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "SOURCES > Megaliths",
+        "path_titles": [
+          "SOURCES",
+          "Megaliths"
+        ],
+        "title": "Megaliths",
+        "sequence_number": 2,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "TAMIL KINGDOMS > CHERA KINGDOM",
+        "path_titles": [
+          "TAMIL KINGDOMS",
+          "CHERA KINGDOM"
+        ],
+        "title": "CHERA KINGDOM",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "TAMIL KINGDOMS > CHOLA KINGDOM",
+        "path_titles": [
+          "TAMIL KINGDOMS",
+          "CHOLA KINGDOM"
+        ],
+        "title": "CHOLA KINGDOM",
+        "sequence_number": 2,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "TAMIL KINGDOMS > PANDYAN KINGDOM",
+        "path_titles": [
+          "TAMIL KINGDOMS",
+          "PANDYAN KINGDOM"
+        ],
+        "title": "PANDYAN KINGDOM",
+        "sequence_number": 3,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "LOCAL CHIEFTAINS",
+        "path_titles": [
+          "LOCAL CHIEFTAINS"
+        ],
+        "title": "LOCAL CHIEFTAINS",
+        "sequence_number": 4,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "SOCIETY > SOCIAL CLASSES",
+        "path_titles": [
+          "SOCIETY",
+          "SOCIAL CLASSES"
+        ],
+        "title": "SOCIAL CLASSES",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "FOOD AND DRESS",
+        "path_titles": [
+          "FOOD AND DRESS"
+        ],
+        "title": "FOOD AND DRESS",
+        "sequence_number": 6,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "ENTERTAINMENT",
+        "path_titles": [
+          "ENTERTAINMENT"
+        ],
+        "title": "ENTERTAINMENT",
+        "sequence_number": 7,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "POSITION OF WOMEN",
+        "path_titles": [
+          "POSITION OF WOMEN"
+        ],
+        "title": "POSITION OF WOMEN",
+        "sequence_number": 8,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "MARRIAGE",
+        "path_titles": [
+          "MARRIAGE"
+        ],
+        "title": "MARRIAGE",
+        "sequence_number": 9,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "ECONOMY",
+        "path_titles": [
+          "ECONOMY"
+        ],
+        "title": "ECONOMY",
+        "sequence_number": 10,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "AGRICULTURE",
+        "path_titles": [
+          "AGRICULTURE"
+        ],
+        "title": "AGRICULTURE",
+        "sequence_number": 11,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "OTHER OCCUPATIONS",
+        "path_titles": [
+          "OTHER OCCUPATIONS"
+        ],
+        "title": "OTHER OCCUPATIONS",
+        "sequence_number": 12,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "TRADE",
+        "path_titles": [
+          "TRADE"
+        ],
+        "title": "TRADE",
+        "sequence_number": 13,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      }
+    ],
+    "stray_leaves": []
+  }
+}

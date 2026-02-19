@@ -1,0 +1,37 @@
+%% Parent Flows (Full Screen Detail) - Mermaid
+%% Soft UI palette references:
+%% Primary: #6E62E5, Secondary: #A09AE0, BG: #F6F8FD
+
+flowchart TD
+  A[App Launch] --> B{New user?}
+  B -->|Yes| C[Register: Phone OTP or Google]
+  B -->|No| D[Login]
+  C --> E[Create Parent Profile]
+  D --> F[Select Child or Add Child]
+  E --> F
+
+  F --> G[Select Board & Grade]
+  G --> H[Select State + School]
+  H --> I[Auto-apply syllabus defaults]
+  I --> J{Edit defaults?}
+  J -->|Yes| K[Syllabus Defaults Editor]
+  J -->|No| L[Dashboard]
+  K --> L
+
+  L --> M[Select Subject]
+  M --> N[Select Chapters (Smart preselect)]
+  N --> O[Configure: Duration + Difficulty Mix]
+  O --> P[Preview (Watermarked)]
+  P --> Q{Edit selections?}
+  Q -->|Yes| N
+  Q -->|No| R[Take Test Confirmation]
+  R --> S[Commit Paper + Generate PDFs]
+  S --> T[View / Download / Print]
+
+  L --> U[Pending Papers]
+  U --> V[Enter Grading Mode]
+  V --> W[Grade Question: Correct/Incorrect/Partial/NA]
+  W --> X{More questions?}
+  X -->|Yes| W
+  X -->|No| Y[Submit Scores]
+  Y --> Z[Score + Mastery Update (Async)]

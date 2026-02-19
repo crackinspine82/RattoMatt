@@ -62,7 +62,7 @@ const EDITOR_EXTENSIONS = [
     },
   }),
   TextAlign.configure({ types: ['heading', 'paragraph'] }),
-  TableKit.configure({ resizable: true }),
+  TableKit.configure({ resizable: true } as Record<string, unknown>),
 ];
 
 type RichTextBlockEditorProps = {
@@ -75,8 +75,6 @@ type RichTextBlockEditorProps = {
   /** Called when editor loses focus (push undo entry in parent). */
   onBlur?: (blockId: string) => void;
 };
-
-const API_BASE = import.meta.env.VITE_CURATION_API ?? '';
 
 const toolbarButtonStyle: React.CSSProperties = {
   cursor: 'pointer',
@@ -628,7 +626,9 @@ function Toolbar({ editor, itemId }: { editor: Editor | null; itemId?: string })
     if (!editor) return;
     const onUpdate = () => setTick((t) => t + 1);
     editor.on('selectionUpdate', onUpdate);
-    return () => editor.off('selectionUpdate', onUpdate);
+    return () => {
+      editor.off('selectionUpdate', onUpdate);
+    };
   }, [editor]);
   if (!editor) return null;
   return (

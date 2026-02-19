@@ -130,7 +130,7 @@ export default function StructureEditor() {
         <p style={{ color: 'var(--text-muted)' }}>No draft nodes. Run curation import for this chapter.</p>
       ) : (
         <>
-          <ul style={{ listStyle: 'none', padding: 0, margin: 0, background: 'var(--surface)', borderRadius: 8, padding: 16, boxShadow: 'var(--shadow)', minWidth: 0 }}>
+          <ul style={{ listStyle: 'none', padding: '16px 0', margin: 0, background: 'var(--surface)', borderRadius: 8, boxShadow: 'var(--shadow)', minWidth: 0 }}>
             {flatOrder.map((n, index) => (
               <li
                 key={n.id}

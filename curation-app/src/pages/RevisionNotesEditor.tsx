@@ -8,6 +8,7 @@ import {
   useSensor,
   useSensors,
   type DragEndEvent,
+  type DragStartEvent,
 } from '@dnd-kit/core';
 import { SortableContext, verticalListSortingStrategy, arrayMove } from '@dnd-kit/sortable';
 import { getRevisionNotes, saveRevisionNotes, setStatus, type DraftNode, type DraftNoteBlock } from '../api';
@@ -15,7 +16,6 @@ import { RichTextBlockEditor } from '../components/RichTextEditor';
 import { buildNodesTree, NotesTreeSidebar } from '../components/NotesTreeSidebar';
 import { flattenTree } from '../structureUtils';
 import { SortableBlockRow } from '../components/SortableBlockRow';
-import { defaultAnnouncements, defaultScreenReaderInstructions } from '@dnd-kit/core';
 
 const UNDO_MAX = 5;
 type UndoSnapshot = { blocks: DraftNoteBlock[]; selectedNodeId: string | null };
@@ -263,7 +263,7 @@ export default function RevisionNotesEditor() {
     useSensor(KeyboardSensor)
   );
 
-  function handleDragStart(event: { active: { id: string } }) {
+  function handleDragStart(event: DragStartEvent) {
     const id = String(event.active.id);
     if (blocks.some((b) => b.id === id)) setActiveBlockId(id);
   }
@@ -354,8 +354,6 @@ export default function RevisionNotesEditor() {
           onDragStart={handleDragStart}
           onDragEnd={handleDragEnd}
           onDragCancel={() => setActiveBlockId(null)}
-          announcements={defaultAnnouncements}
-          screenReaderInstructions={defaultScreenReaderInstructions}
         >
           <div style={{ display: 'flex', flex: 1, minHeight: 0 }}>
             <NotesTreeSidebar

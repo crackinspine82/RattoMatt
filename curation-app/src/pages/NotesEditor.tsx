@@ -8,6 +8,7 @@ import {
   useSensor,
   useSensors,
   type DragEndEvent,
+  type DragStartEvent,
 } from '@dnd-kit/core';
 import { SortableContext, verticalListSortingStrategy, arrayMove } from '@dnd-kit/sortable';
 import { getNotes, saveNotes, saveStructure, setStatus, updateNodeTitle, type DraftNode, type DraftNoteBlock } from '../api';
@@ -15,7 +16,6 @@ import { RichTextBlockEditor } from '../components/RichTextEditor';
 import { buildNodesTree, NotesTreeSidebar } from '../components/NotesTreeSidebar';
 import { collectNodeAndDescendantIds, flattenTree, renumberStructureNodes } from '../structureUtils';
 import { SortableBlockRow } from '../components/SortableBlockRow';
-import { defaultAnnouncements, defaultScreenReaderInstructions } from '@dnd-kit/core';
 
 /** Renumber sequence_number per node so each node's blocks are 1, 2, 3, ... */
 function renumberBlocks(blocks: DraftNoteBlock[]): DraftNoteBlock[] {
@@ -264,7 +264,7 @@ export default function NotesEditor() {
     useSensor(KeyboardSensor)
   );
 
-  function handleDragStart(event: { active: { id: string } }) {
+  function handleDragStart(event: DragStartEvent) {
     const id = String(event.active.id);
     if (blocks.some((b) => b.id === id)) setActiveBlockId(id);
   }
@@ -361,8 +361,6 @@ export default function NotesEditor() {
           onDragStart={handleDragStart}
           onDragEnd={handleDragEnd}
           onDragCancel={() => setActiveBlockId(null)}
-          announcements={defaultAnnouncements}
-          screenReaderInstructions={defaultScreenReaderInstructions}
         >
           <div style={{ display: 'flex', flex: 1, minHeight: 0 }}>
             <NotesTreeSidebar

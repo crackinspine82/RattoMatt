@@ -35,6 +35,7 @@ export type CurationItem = {
   content_type: string;
   status: string;
   subject_name: string;
+  grade_level: number;
   chapter_title: string;
   chapter_sequence_number: number;
 };
@@ -87,6 +88,14 @@ export type DraftNoteBlock = {
   content_html: string;
 };
 
+/** Revision note block keyed by published syllabus_node_id. */
+export type RevisionNoteBlock = {
+  id: string;
+  syllabus_node_id: string | null;
+  sequence_number: number;
+  content_html: string;
+};
+
 /** Full extract for combined Structure page: tree + full-extract blocks + notes_item_id for saving. */
 export async function getFullExtract(structureItemId: string): Promise<{ nodes: DraftNode[]; blocks: DraftNoteBlock[]; notes_item_id: string | null }> {
   const res = await fetch(`${API_BASE}/curation/items/${structureItemId}/full-extract`, { headers: authHeaders() });
@@ -100,20 +109,33 @@ export async function getNotes(itemId: string): Promise<{ nodes: DraftNode[]; bl
   return res.json() as Promise<{ nodes: DraftNode[]; blocks: DraftNoteBlock[] }>;
 }
 
-export async function getRevisionNotes(itemId: string): Promise<{ nodes: DraftNode[]; blocks: DraftNoteBlock[] }> {
+export async function getRevisionNotes(itemId: string): Promise<{
+  nodes: DraftNode[];
+  blocks: RevisionNoteBlock[];
+  orphaned_blocks: RevisionNoteBlock[];
+  no_published_structure: boolean;
+}> {
   const res = await fetch(`${API_BASE}/curation/items/${itemId}/revision-notes`, { headers: authHeaders() });
   if (!res.ok) throw new Error(res.statusText);
-  return res.json() as Promise<{ nodes: DraftNode[]; blocks: DraftNoteBlock[] }>;
+  return res.json() as Promise<{
+    nodes: DraftNode[];
+    blocks: RevisionNoteBlock[];
+    orphaned_blocks: RevisionNoteBlock[];
+    no_published_structure: boolean;
+  }>;
 }
 
-export async function saveRevisionNotes(itemId: string, blocks: Array<{ draft_syllabus_node_id: string; sequence_number: number; content_html: string }>): Promise<{ blocks: DraftNoteBlock[] }> {
+export async function saveRevisionNotes(
+  itemId: string,
+  blocks: Array<{ syllabus_node_id: string; sequence_number: number; content_html: string }>
+): Promise<{ blocks: RevisionNoteBlock[]; orphaned_blocks: RevisionNoteBlock[] }> {
   const res = await fetch(`${API_BASE}/curation/items/${itemId}/revision-notes`, {
     method: 'PUT',
     headers: { 'Content-Type': 'application/json', ...authHeaders() },
     body: JSON.stringify({ blocks }),
   });
   if (!res.ok) throw new Error(res.statusText);
-  return res.json() as Promise<{ blocks: DraftNoteBlock[] }>;
+  return res.json() as Promise<{ blocks: RevisionNoteBlock[]; orphaned_blocks: RevisionNoteBlock[] }>;
 }
 
 export async function saveNotes(itemId: string, blocks: Array<{ draft_syllabus_node_id: string; sequence_number: number; content_html: string }>): Promise<{ blocks: DraftNoteBlock[] }> {
@@ -140,7 +162,7 @@ export async function updateNodeTitle(notesItemId: string, nodeId: string, title
 export type DraftQuestion = {
   id: string;
   chapter_id: string;
-  draft_syllabus_node_id: string | null;
+  syllabus_node_id: string | null;
   question_text: string;
   question_type: string;
   discipline: string;
@@ -153,17 +175,27 @@ export type DraftQuestion = {
   rubric: { rubric_version: number; rubric_json: Record<string, unknown> };
 };
 
-export async function getQuestions(itemId: string): Promise<{ questions: DraftQuestion[] }> {
+export async function getQuestions(itemId: string): Promise<{
+  nodes: DraftNode[];
+  questions: DraftQuestion[];
+  orphaned_questions: DraftQuestion[];
+  no_published_structure: boolean;
+}> {
   const res = await fetch(`${API_BASE}/curation/items/${itemId}/questions`, { headers: authHeaders() });
   if (!res.ok) throw new Error(res.statusText);
-  return res.json() as Promise<{ questions: DraftQuestion[] }>;
+  return res.json() as Promise<{
+    nodes: DraftNode[];
+    questions: DraftQuestion[];
+    orphaned_questions: DraftQuestion[];
+    no_published_structure: boolean;
+  }>;
 }
 
 export async function saveQuestions(
   itemId: string,
   questions: Array<{
     id?: string;
-    draft_syllabus_node_id?: string | null;
+    syllabus_node_id?: string | null;
     question_text: string;
     question_type: string;
     discipline: string;
@@ -175,14 +207,14 @@ export async function saveQuestions(
     ready_to_publish?: boolean;
     rubric: { rubric_version?: number; rubric_json: Record<string, unknown> };
   }>
-): Promise<{ questions: DraftQuestion[] }> {
+): Promise<{ nodes: DraftNode[]; questions: DraftQuestion[]; orphaned_questions: DraftQuestion[] }> {
   const res = await fetch(`${API_BASE}/curation/items/${itemId}/questions`, {
     method: 'PUT',
     headers: { 'Content-Type': 'application/json', ...authHeaders() },
     body: JSON.stringify({ questions }),
   });
   if (!res.ok) throw new Error(res.statusText);
-  return res.json() as Promise<{ questions: DraftQuestion[] }>;
+  return res.json() as Promise<{ nodes: DraftNode[]; questions: DraftQuestion[]; orphaned_questions: DraftQuestion[] }>;
 }
 
 export async function setStatus(itemId: string, status: 'in_progress' | 'ready_to_publish'): Promise<void> {

@@ -4,7 +4,7 @@ This document describes the **target** flow for revision notes and questions: th
 
 **Audience:** Developers and admins. Complements `docs/CURATION_SPEC.md` and `docs/CURATION_SYSTEM.md`.
 
-**Status:** Target state. Current implementation uses draft nodes for revision notes and questions; migration to this model is planned.
+**Status:** Implemented. Draft revision notes and questions are keyed by `syllabus_node_id` (published). Curation UI uses the published tree; merge scripts add node IDs to generator output before import.
 
 ---
 
@@ -55,7 +55,7 @@ This document describes the **target** flow for revision notes and questions: th
   - **draft_questions.syllabus_node_id** → `syllabus_nodes(id)`
 - So draft content is “for” a node in the **published** tree. When we publish revision notes or questions, we copy draft rows to published tables; the `syllabus_node_id` is already correct (no mapping step).
 
-**Current schema** uses `draft_syllabus_node_id` (link to draft_syllabus_nodes). The **target schema** uses `syllabus_node_id` (link to syllabus_nodes) for these draft tables. Migration will add/rename columns and update scripts and APIs accordingly.
+Migration adds `syllabus_node_id` (and for draft_revision_note_blocks, `chapter_id`) and drops `draft_syllabus_node_id`. Run `npm run migration:syllabus-node-id` from `backend/` after truncating draft revision blocks and draft questions (fresh start).
 
 ---
 
@@ -63,7 +63,9 @@ This document describes the **target** flow for revision notes and questions: th
 
 - The **tree** shown in the Revision Notes and Questions editors is the **published** structure (`syllabus_nodes` for that chapter), not the draft structure.
 - Draft revision note blocks and draft questions are loaded by **syllabus_node_id** (published node IDs).
-- Prerequisite: **Structure must be published** for that chapter before revision notes and questions can be generated or edited. The app can enforce or warn: “Publish structure first” if the chapter has no published nodes.
+- Prerequisite: **Structure must be published** for that chapter before revision notes and questions can be generated or edited. The app shows **“Publish the Structure item for this chapter first”** when there are no published nodes.
+- **Orphaned:** Draft blocks/questions whose `syllabus_node_id` is no longer in the published tree (e.g. after a structure re-publish that removed nodes) are shown in an **Orphaned** section. They are not published; FK uses `ON DELETE SET NULL` so drafts are preserved.
+- **Schema:** `draft_revision_note_blocks` has `chapter_id` (for listing/orphaned) and `syllabus_node_id` (nullable, `ON DELETE SET NULL`). `draft_questions` has `syllabus_node_id` (nullable, `ON DELETE SET NULL`). Published revision notes: `revision_note_blocks(syllabus_node_id, sequence_number, content_html)`.
 
 ---
 
@@ -89,10 +91,11 @@ This document describes the **target** flow for revision notes and questions: th
 
 ---
 
-## 8. Scripts (Target)
+## 8. Scripts
 
-- **Revision notes generator:** Input = chapter_id (and optionally published note_blocks or external JSON). Reads syllabus_nodes for chapter, generates revision content per node, writes to draft_revision_note_blocks with syllabus_node_id set. Run **after** structure publish.
-- **Question bank generator:** Input = chapter_id (and strategy, notes context). Reads syllabus_nodes for chapter, generates questions per node/section, output includes syllabus_node_id per question. Import writes draft_questions with syllabus_node_id. Run **after** structure publish.
+- **Revision notes:** Generate with `scripts/study-notes-generate` (file-based). After structure is published, run `npm run curation:merge-revision-node-ids -- <chapter_id> <path-to-study_notes_*.json>` from `backend/` to inject `syllabus_node_id` into each section (by tree order). Then run `curation:import` for revision notes.
+- **Questions:** Generate with `scripts/question-bank-generate` (file-based). After structure is published, run `npm run curation:merge-questions-node-ids -- <chapter_id> <path-to-sample_questions_*.json>` from `backend/` to inject `syllabus_node_id` into each item (round-robin). Then run `curation:import` for questions.
+- **Publish:** `curation:publish` copies draft_revision_note_blocks → revision_note_blocks and draft_questions → questions by syllabus_node_id (no mapping).
 
 ---
 
@@ -103,4 +106,6 @@ This document describes the **target** flow for revision notes and questions: th
 - `docs/ADD_NEW_CHAPTER_CURATION.md` – How to add a chapter (will be updated when this flow is implemented).
 - `docs/QUESTION_BANK_GENERATION.md` – Question bank strategy and current generator.
 - `backend/scripts/schema-mvp1.sql` – Current schema (draft and published tables).
-- `backend/scripts/curation-publish.ts` – Current publish script (draft → published with node ID mapping).
+- `backend/scripts/curation-publish.ts` – Publish script (structure, notes, revision_notes, questions).
+- `backend/scripts/merge-revision-notes-node-ids.ts` – Injects syllabus_node_id into study_notes_*.json.
+- `backend/scripts/merge-questions-node-ids.ts` – Injects syllabus_node_id into sample_questions_*.json.

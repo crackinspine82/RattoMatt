@@ -1,0 +1,1374 @@
+{
+  "board": "ICSE",
+  "grade": 10,
+  "subject": "HistoryCivics",
+  "book_slug": "TotalHistoryCivics_MorningStar_DollyESequeira",
+  "book_meta": {
+    "book_name": "Total History & Civics",
+    "publication": "Morning Star",
+    "author": "Dolly E. Sequeira"
+  },
+  "chapter_sequence_number": 11,
+  "chapter_title": "Rise of Dictatorships",
+  "discipline": "history",
+  "reconciliation": {
+    "outline": [
+      "FASCISM",
+      "CAUSES FOR THE RISE OF FASCISM",
+      "Discontentment after the Treaty of Versailles",
+      "Economic Crisis",
+      "Political Instability",
+      "Class Conflicts",
+      "Threat of Socialism or Communism",
+      "Failure of the League of Nations",
+      "Leadership Provided by Mussolini",
+      "AIMS OF FASCISM",
+      "FASCISM IN ITALY",
+      "Background",
+      "Rise of Mussolini",
+      "End of Fascism in Italy",
+      "IMPACT OF FASCISM",
+      "NAZI DICTATORSHIP IN GERMANY",
+      "Background",
+      "Hitler's Rise To Power",
+      "Fall of Hitler",
+      "CAUSES FOR THE RISE OF NAZISM",
+      "Humiliating Treaty of Versailles",
+      "Growing Fear of Communism",
+      "Economic Crisis",
+      "Resurgence of Militant Nationalism",
+      "Anti-Semitic Propaganda",
+      "Absence of Strong Opposition",
+      "Establishment of Volunteer Corps",
+      "Charismatic Personality of Hitler",
+      "AIMS OF NAZISM",
+      "IMPACT OF NAZISM",
+      "Established a Totalitarian State",
+      "Economic Reforms",
+      "Militarism and Compulsory Military Training",
+      "Repudiated Peace Treaties",
+      "Acquisition of Territories",
+      "Racial Supremacy",
+      "Negative Aspects",
+      "SIMILARITY BETWEEN THE CAUSES OF FASCISM AND NAZISM",
+      "SIMILARITY BETWEEN THE IDEOLOGIES OF FASCISM AND NAZISM"
+    ],
+    "in_syllabus_only": [],
+    "in_pdf_only": [
+      {
+        "title": "FASCISM",
+        "insert_after_index": 0,
+        "micro_topics": []
+      }
+    ],
+    "additional_sections": [
+      {
+        "title": "FASCISM",
+        "content_md": "The word 'Fascism' has been derived from the Italian word fascio which means union or league. It also refers to the ancient Roman symbol of power: the fasces, a bundle of sticks bound to an axe that symbolised civic unity and the authority of Roman officials to punish wrongdoers. Thus, 'Fascism' means autocracy or dictatorship where the power of the State is vested in one man only; and it is obligatory for all the others to obey his orders. Fascism was an intensely nationalistic, anti-communistic and anti-democratic movement which served as a model to dictatorial regimes in Italy and Germany.\n\n[Image: The Fasces]"
+      }
+    ]
+  },
+  "nodes": [
+    {
+      "title": "Rise of Dictatorships",
+      "sequence_number": 1,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "Causes for the rise of Fascism",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Discontentment after the Treaty of Versailles",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Italy joined the **Allies** in the **First World War** to gain territories of **Turkey** and **Germany**. But by the **Treaty of Versailles**, she could get only **Southern Tyrol** and **Trentino**, and the **Coastal Regions of Dalmatia**. She could get no part of the **German** and **Turkish colonial empire**."
+                }
+              ]
+            },
+            {
+              "title": "Economic Crisis",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "### Economic Crisis (as a cause for Fascism in Italy)\n\n*   Italy suffered heavy losses in terms of **life and property** in the **First World War**.\n*   After the War, many soldiers became **unemployed**.\n*   **Trade and commerce** were ruined leading to **large-scale unemployment**.\n*   There was a **shortage of food grains**.\n\n### Economic Crisis (as a cause for Nazism in Germany)\n\nAs a result of the harsh terms of the **Treaty of Versailles**, Germany had to suffer in agricultural production, colonies, foreign investment, trade contracts, etc. The foreign countries raised **tariffs** against the German goods. The number of **unemployed people** increased. The condition of the farmers became miserable. By **June 1931**, debts on farmers had risen to **$300 million**.\n\n**Hitler** promised the farmers that he would **condone their debts**. He won over the **Capitalists** by assuring that industries would **not be nationalised**. The **Nazis** exploited the situation and assured the people that if they would abide by Nazi ideology their economic misery would come to an end and Germany would regain her lost glory."
+                }
+              ]
+            },
+            {
+              "title": "Political Instability",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Democracy** was introduced in Italy for the first time in **1919**. Elections failed to give a clear majority to a single party. As a result, there was complete **instability** in the country and between **1919 and 1922** six **coalition governments** were formed in Italy. The various political parties had different policies and programmes and there was no continuity in their policies. They were unable to deal effectively with the problems of unemployment, strikes and riots which took place during 1921-22. This situation was fully exploited by the **Fascists** under the leadership of **Mussolini**, who promised the people a **strong national government**."
+                }
+              ]
+            },
+            {
+              "title": "Class Conflicts",
+              "sequence_number": 4,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Class conflict** increased in many countries after the **First World War**. The real issue in most parts of continental Europe was whether control of **government and economic systems** would continue in the possession of **aristocracies** or would be in the hands of **less privileged majorities**. The common man had been promised, during the War, that he would be rewarded with greater attention to his economic needs. These promises were ignored and the **common man was embittered**."
+                }
+              ]
+            },
+            {
+              "title": "Threat of Socialism or Communism",
+              "sequence_number": 5,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **Socialists** who included the **Anarchists**, the **Communists** and the **Social Democrats** created conditions conducive to the growth of **Fascism** in Italy. Inspired by the **Russian Revolution**, the **Communists** inflamed the atmosphere with revolutionary ideas. Peasants took away the land from landlords; workmen organised strikes, damaged machines and took hold of the factories. The communists began to devise new plans of overthrowing the government and capturing power. People wanted a powerful leadership who could establish peace and prosperity by ending lawlessness and insecurity prevalent in Italy. The industrialists viewed the growing strength of the labour unions with alarm and provided financial support to **Fascism**."
+                }
+              ]
+            },
+            {
+              "title": "Failure of the League of Nations",
+              "sequence_number": 6,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "After the First World War, the **League of Nations** was established to maintain peace in the world and to prevent wars. But it proved **weak** and failed to achieve its aims. It failed to check the **rise of dictatorships**. Had it acted well in time, the ambitious plans of **Mussolini** and **Hitler** would not have materialised."
+                }
+              ]
+            },
+            {
+              "title": "Leadership Provided by Mussolini",
+              "sequence_number": 7,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Mussolini** played an important role in the history of Italy. He had a **charismatic personality**. His speeches praised the **past glories of Italy** and won the faith of his countrymen. Mussolini was called **'Il Duce'** which means **'the Leader'**."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "Aims of Fascism",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Fascism was the antithesis of democracy.",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Fascism** was the **antithesis of democracy**. Fascists believed that **democracy** was not suitable for the country because it widens the gulf between the poor and the rich."
+                }
+              ]
+            },
+            {
+              "title": "Fascists supported one party and one leader.",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Fascists supported **one party** and **one leader**. They believed that the country could make progress only under one leader. According to the Fascists, **dictatorship** was the best form of government. That is why **Mussolini** said, “All parties must end, must fall. I want to see a panorama of ruins around me, the ruins of the other political forces so that Fascism may stand gigantic and dominant.”"
+                }
+              ]
+            },
+            {
+              "title": "Fascists favoured equal control over all sections of society.",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Fascists** favoured equal control over all sections of society. They wanted to control **capitalists**, **industrialists**, **labourers**, **landlords**, **peasants** and **artisans**."
+                }
+              ]
+            },
+            {
+              "title": "Fascists laid stress on nationalism and not on individual institutions.",
+              "sequence_number": 4,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Fascists** laid stress on **nationalism** and not on **individual institutions**."
+                }
+              ]
+            },
+            {
+              "title": "They believed that the interests of the State must get precedence over individual interests because an individual gets all the rights from the State.",
+              "sequence_number": 5,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "They believed that the interests of the **State** must get precedence over **individual interests** because an individual gets all the rights from the **State**."
+                }
+              ]
+            },
+            {
+              "title": "Fascists regarded quality more important than quantity and therefore, opposed that form of democracy which equates a nation to the majority.",
+              "sequence_number": 6,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Fascists** regarded **quality** more important than **quantity** and therefore, opposed that form of **democracy** which equates a nation to the **majority**. The **Fascist leaders** who embodied the will, sentiments and emotions of people were symbols of a nation's pride.\n\n[Image: Benito Mussolini]"
+                }
+              ]
+            },
+            {
+              "title": "Fascists favoured aggressive foreign",
+              "sequence_number": 7,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "(vii) **Fascists** favoured **aggressive foreign policy** and regarded **war** as an instrument for furthering **national interest**."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "Fascism in Italy",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Background",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "In the decade after the **First World War (1919 to 1929)**, democracy made remarkable progress all over the world. However, this trend did not last long and gave way to **totalitarian dictatorships** under different names and forms in **Russia, Italy, Germany and Spain**. These totalitarian countries were quite similar in their outlook as they 'dictated' the total behaviour of their citizens. Everywhere these countries threatened their neighbouring countries. They refused to work with the **League of Nations** except on their own terms. In brief, they sacrificed the individual for the sake of the State. Their motto was **\"everything for the State, everything within the State and nothing outside the State.\"**\n\nDuring this period, even in democratic countries, many people including some intellectuals, expressed their dissatisfaction with democracy and favoured dictatorship."
+                }
+              ]
+            },
+            {
+              "title": "Rise of Mussolini",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [
+                {
+                  "title": "Five members of the Fascist Party to be included in the Cabinet",
+                  "sequence_number": 1,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": ""
+                    }
+                  ]
+                },
+                {
+                  "title": "New elections to be announced",
+                  "sequence_number": 2,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "A conference of the **Fascist Party** was held at **Naples** on **October 24, 1922**. It was attended by about **40,000 armed volunteers**. In this conference, **Mussolini** announced that if his demands were not fulfilled, he would attack Rome with his volunteers. The demands put forward by Mussolini included the following:\n*   Five members of the Fascist Party to be included in the Cabinet;\n*   New elections to be announced;\n*   The Government should act firmly on its foreign policy; and\n*   Economic reforms to be implemented as early as possible."
+                    }
+                  ]
+                },
+                {
+                  "title": "The Government should act firmly on its foreign policy",
+                  "sequence_number": 3,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": ""
+                    }
+                  ]
+                },
+                {
+                  "title": "Economic reforms to be implemented as early as possible.",
+                  "sequence_number": 4,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": ""
+                    }
+                  ]
+                }
+              ],
+              "content_blocks": []
+            },
+            {
+              "title": "End of Fascism in Italy",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Italy was defeated in the **Second World War**. The career and life of **Mussolini** ended in disgrace. He was deposed by his own party council. In **April 1945** he was executed ending Fascism in Italy."
+                }
+              ]
+            },
+            {
+              "title": "Impact of Fascism",
+              "sequence_number": 4,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [
+                {
+                  "title": "Mussolini devoted himself to make Italy a powerful nation and carried out administrative",
+                  "sequence_number": 1,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "**Mussolini** devoted himself to make Italy a **powerful nation** and carried out **administrative and economic reforms**. He took measures to stall further **devaluation of the Italian currency**. He set up **hydroelectric power plants** to overcome the shortage of coal. He brought more lands under **cultivation** and tried to improve and expand the **transport system**."
+                    }
+                  ]
+                }
+              ],
+              "content_blocks": []
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "Nazi Dictatorship in Germany",
+          "sequence_number": 4,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Background",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "In the decade after the **First World War (1919 to 1929)**, democracy made remarkable progress all over the world. However, this trend did not last long and gave way to **totalitarian dictatorships** under different names and forms in **Russia, Italy, Germany and Spain**. These totalitarian countries were quite similar in their outlook as they 'dictated' the total behaviour of their citizens. Everywhere these countries threatened their neighbouring countries. They refused to work with the **League of Nations** except on their own terms. In brief, they sacrificed the individual for the sake of the State. Their motto was **\"everything for the State, everything within the State and nothing outside the State.\"**\n\nDuring this period, even in democratic countries, many people including some intellectuals, expressed their dissatisfaction with democracy and favoured dictatorship."
+                }
+              ]
+            },
+            {
+              "title": "Hitler's Rise To Power",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Adolf Hitler**, an Austrian by birth, had fought in the German army during the First World War and had attained the rank of a corporal. In **1919**, he joined a small political group called ‘The German Workers Party’ which was based in Munich. Soon he became its leader and changed its name to the **National Socialist Party** or the **Nazi party**."
+                },
+                {
+                  "content_md": "[Image: Adolf Hitler with his colleagues]"
+                },
+                {
+                  "content_md": "The Nazi Party had its own army. The army was divided into two groups. One group wore **brown shirts** and its main function was to protect its party members and to break up the meetings of the opposition parties. The other group wore **black shirts** and its main duty was to protect their party leaders."
+                },
+                {
+                  "content_md": "Hitler had planned to capture power through a march on Berlin. He was arrested and jailed, but released long before his term was over. In jail, he wrote **Mein Kampf** (literal meaning: ‘My Struggle’) which expressed some of the most monstrous ideas of the Nazi Movement.\n\nIn the elections of 1932, he failed to get a majority in the **Reichstag**. A coalition government, headed by Von Papen, could not continue for long. **President Hindenburg** then offered **Chancellorship** to Hitler who formed his first Nazi government on **January 30, 1933**. General Elections were ordered. In spite of the terror of the Nazis, the Nazi Party could not win a majority in the Parliament. Then Hitler assumed dictatorial powers.\n\nAfter President Hindenburg’s death, Hitler became **President and Chancellor** and adopted the designation of **“Fuhrer” (the Leader)**. Hitler abolished the Constitution and made himself the **Dictator of Germany**."
+                },
+                {
+                  "content_md": "**Fall of Hitler:** In the Second World War Germany was totally defeated by the Allied powers. With Hitler's death in 1945, Nazism came to an end in Germany."
+                }
+              ]
+            },
+            {
+              "title": "Fall of Hitler",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "In the **Second World War** **Germany** was totally defeated by the **Allied powers**. With **Hitler's death** in **1945**, **Nazism** came to an end in Germany."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "Causes for the Rise of Nazism",
+          "sequence_number": 5,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Humiliating Treaty of Versailles",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Defeat in the **First World War** and the conditions imposed by the **Treaty of Versailles** made the **Germans** feel humiliated and helpless. Germans looked down upon the **Weimar Republic** which had signed such a disgraceful treaty. Germany was forced to cede large chunks of her territory to **France, Belgium, Poland and Denmark**. Her **overseas possessions (colonies)** were divided by the Allies in the War among themselves. Germany was forced to pay heavy **reparations** to the tune of **33 billion dollars** and the total strength of the **German army** was fixed at **one lakh**. The terms of this treaty were greatly resented by the Germans who eagerly looked for an opportunity to avenge the same. These sentiments were exploited by **Hitler**. He openly encouraged the Germans, to consign the Treaty of Versailles into the waste-paper basket, to rebuild the empire of Germany, and to recapture the lost colonies."
+                }
+              ]
+            },
+            {
+              "title": "Growing Fear of Communism",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "After the **Bolshevik Revolution** in Russia, the **Communist influence** in Germany increased considerably. The **Communists** organised themselves effectively and succeeded in capturing a number of seats in **Reichstag**. Hitler warned the people that **Communists of Germany** would become the servants of their **Russian masters** and would follow the dictates of **Communists**. He, therefore, tried to persuade the people in Germany that **Nazism** alone could check the growing influence of **Communism**."
+                }
+              ]
+            },
+            {
+              "title": "Economic Crisis",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "As a result of the harsh terms of the **Treaty of Versailles**, Germany had to suffer in agricultural production, colonies, foreign investment, trade contracts, etc. The foreign countries raised tariffs against the German goods. The number of **unemployed people** increased. The condition of the farmers became miserable. By **June 1931**, debts on farmers had risen to **$300 million**.\n\nHitler promised the farmers that he would condone their debts. He won over the **Capitalists** by assuring that industries would not be nationalised. The **Nazis** exploited the situation and assured the people that if they would abide by **Nazi ideology** their economic misery would come to an end and Germany would regain her lost glory."
+                }
+              ]
+            },
+            {
+              "title": "Resurgence of Militant Nationalism",
+              "sequence_number": 4,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **Germans** could not reconcile with the **democratic parliamentary system** prevailing in their country. They preferred **prestige and glory** to liberty and freedom. They felt that only a **strong man** could restore the past prestige of Germany and check the rising popularity of **Communism**. When **Hitler** promised them all glory, they welcomed him with open arms."
+                }
+              ]
+            },
+            {
+              "title": "Anti-Semitic Propaganda",
+              "sequence_number": 5,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **anti-Semitic propaganda** carried on by the **Nazi party** also contributed to Hitler's popularity. The Nazis described the **Jews as traitors**. They said that the Jews had conspired with the Allies during the War and could again commit treason against Germany. They impressed upon the Germans that their hardship was due to the **exploitation by the Jews**, who dominated German economy. Due to this anti-Semitic propaganda many Germans rallied behind the Nazi Party."
+                }
+              ]
+            },
+            {
+              "title": "Absence of Strong Opposition",
+              "sequence_number": 6,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The rise of the **Nazi Party** in Germany was facilitated by the absence of any **strong opposition party**. As a result, the Nazi Party did not encounter any **effective resistance** and its popularity achieved great heights."
+                }
+              ]
+            },
+            {
+              "title": "Establishment of Volunteer Corps",
+              "sequence_number": 7,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Under the **Treaty of Versailles**, Germany's military force was considerably reduced and a large number of German soldiers were thrown out of employment. **Hitler** roped in all these soldiers and organised them into **Volunteer Corps**, that served as the **party army**. The members of this Volunteer Corps propagated the programme of the **Nazi Party** and worked for safeguarding its interests."
+                }
+              ]
+            },
+            {
+              "title": "Charismatic Personality of Hitler",
+              "sequence_number": 8,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Hitler had a **charismatic personality**. He had all the qualities required for a **popular leader**. He was a **shrewd politician** and a **brave soldier**. He knew the **art of moulding public opinion** in his favour according to the circumstances. He was a **gifted orator** who captivated the Germans by his emotional speeches. He told the Germans what they wanted to hear, i.e., the **betrayal of Germany by the Treaty of Versailles** and the **Jewish-Communist plot** to conquer the world. The Germans resented the humiliating and insulting behaviour meted out to them by the Allies and wanted to avenge the same. He openly encouraged the Germans to consign the **Treaty of Versailles into the waste-paper basket**, **rebuild the German Empire** and to **recapture the lost colonies**. He assured the Germans that if they would abide by the Nazi ideology their economic misery would come to an end. This greatly appealed to the German people and they extended full support to Hitler and his Nazi party."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "Aims of Nazism",
+          "sequence_number": 6,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "To exalt nationalism",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": ""
+                }
+              ]
+            },
+            {
+              "title": "To advocate the rule by a great leader from a single party",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "To advocate the rule by a **great leader** from a **single party**."
+                }
+              ]
+            },
+            {
+              "title": "To despise internationalism, peace and democracy",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "To despise **internationalism**, **peace** and **democracy**."
+                }
+              ]
+            },
+            {
+              "title": "To use force and brutality",
+              "sequence_number": 4,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "* To use **force** and **brutality**."
+                }
+              ]
+            },
+            {
+              "title": "To extol war",
+              "sequence_number": 5,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "In **Mein Kampf** (My Struggle), Hitler expressed the aims of the Nazi Movement. One of the key aims was:\n\n* To extol **war**."
+                }
+              ]
+            },
+            {
+              "title": "To uphold the racial supremacy of the Germans and to hate Jews.",
+              "sequence_number": 6,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Hitler believed in the **doctrine of racialism** which presented **Germans** as the **\"master race\"** with the right and destiny to dominate the world. This race, he said, would rule all other **inferior races**. For this, he wanted Germany to **cleanse itself** of the supposed contamination by **Jews, Christians and Communists**."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "Impact of Nazism",
+          "sequence_number": 7,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Established a Totalitarian State",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Hitler had no faith in the **parliamentary system** of government. He, therefore, eradicated those elements which offered opposition to his authority.\n\nHe concentrated all power into his hands, suppressed all opposition and propagated the ideology of Nazism. He changed the federal government into a **unitary government**. Hitler himself became the Governor of Prussia. The provincial legislatures were dissolved in **1934** and the sovereign power of the central government was established.\n\nVarious political parties were abolished. A ban was imposed on the press, public speeches and writing of articles. Even the members of the Nazi party who challenged Hitler's authority were severely dealt with. A secret police known as the **Gestapo**, kept a check on the activities of citizens. Those suspected of disloyalty to the State were arrested or executed without trial."
+                }
+              ]
+            },
+            {
+              "title": "Economic Reforms",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Hitler** introduced various reforms to meet the **economic crisis** after the War. He launched the first **Five Year Plan** to have greater production. The economic life of the country was organised with the objective of **removing unemployment** and making the nation **self-sufficient**. For this, the following measures were taken:\n\n[Image: Hitler started rearmament in violation of the Treaty of Versailles]\n\n*   **Factories** were set up to provide work to the labourers.\n*   **Industrial and agricultural production** and trade were encouraged.\n*   A **Food Corporation** was established to control food production, its pricing and distribution.\n*   **Price controls** were introduced and incentives were provided for workers.\n*   **Capitalists** were encouraged to increase production and **strikes were banned**.\n*   **Imports and exports** were controlled to maintain favourable trade balance.\n*   The production of **heavy armaments**, aeroplanes and naval ships on a large scale was increased.\n*   Projects of **public works**, building government offices, stadiums, art galleries; housing development, etc., were undertaken.\n*   The **trade unions were dissolved**. All the workers were put under one union whose chief was a harsh Nazi leader. He assured the workers of safeguarding their interests and rights.\n\nThus, Hitler freed Germany from the economic crisis and put an end to the problem of unemployment. The industrial production almost doubled and the foreign trade also expanded."
+                }
+              ]
+            },
+            {
+              "title": "Militarism and Compulsory Military Training",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Special efforts were made to increase the **military force** of the country. **Military training** was made **compulsory** which again created more employment.\n\nHitler believed that nations could become great only by defeating other nations in war. He started **rearmament** in violation of the **Treaty of Versailles**. This pleased the army officers who had felt humiliated by the terms of the Treaty."
+                }
+              ]
+            },
+            {
+              "title": "Repudiated Peace Treaties",
+              "sequence_number": 4,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The main objective of **Hitler's foreign policy** was to reject the **Treaty of Versailles**, which had humiliated Germany. Hitler openly condemned the **Treaty of Versailles**. He refused to pay the **war indemnity** as stipulated under the Treaty. He even resorted to the policy of **territorial expansion** and **fortification of Germany** in complete violation of the Treaty."
+                }
+              ]
+            },
+            {
+              "title": "Acquisition of Territories",
+              "sequence_number": 5,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Hitler** tried to acquire more territories for the **surplus German population**. Hitler said, \"Germany within her existing frontiers could attain only limited self-sufficiency in raw materials and none at all in foodstuffs. The only remedy lay in the acquisition of **greater living space**....\". Hitler tried to expand in **South and East of Europe** because that region was economically useful for Germany as it possessed huge potential for **wheat, oil and coal**. To attain this objective, Hitler made use of **force** and rejected all compromises. He entered into a **non-aggression treaty with Poland** for a period of ten years in **1934** for the safety of his eastern frontiers. He reclaimed the territory of **Saar** and **Rhineland** from France. In **1938**, he **annexed Austria** by force. He concluded a **non-aggression pact with Russia**."
+                }
+              ]
+            },
+            {
+              "title": "Racial Supremacy",
+              "sequence_number": 6,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Hitler believed in the **doctrine of racialism** which presented Germans as the **\"master race\"** with the right and destiny to dominate the world. This race, he said, would rule all other **inferior races**. For this, he wanted Germany to cleanse itself of the supposed contamination by **Jews**, **Christians** and **Communists**."
+                }
+              ]
+            },
+            {
+              "title": "Negative Aspects",
+              "sequence_number": 7,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Hitler** put an end to **civil liberties**. Those who were suspected of opposing him were treated harshly. Strict **censorship** was imposed on books, the press and the cinema. All **anti-Nazi books and magazines** were consigned to fire."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "Similarity Between the Causes of Fascism and Nazism",
+          "sequence_number": 8,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": []
+        },
+        {
+          "title": "Similarity Between the Ideologies of Fascism and Nazism",
+          "sequence_number": 9,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "1. To have faith in the **totalitarian rule**.\n2. To despise **democratic political systems**.\n3. To hold that the **State is supreme** and could suppress the **fundamental rights** and freedoms of individuals.\n4. To uphold **One-Party** and **One-Leader rule**.\n5. To believe in **aggressive nationalism** and **imperialism**.\n6. To regard **war** as an instrument for furthering national interests.\n7. To uphold intensely **nationalistic, anti-communist, anti-democratic rule**."
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    }
+  ],
+  "additional_sections": [
+    {
+      "title": "FASCISM",
+      "content_md": "The word 'Fascism' has been derived from the Italian word fascio which means union or league. It also refers to the ancient Roman symbol of power: the fasces, a bundle of sticks bound to an axe that symbolised civic unity and the authority of Roman officials to punish wrongdoers. Thus, 'Fascism' means autocracy or dictatorship where the power of the State is vested in one man only; and it is obligatory for all the others to obey his orders. Fascism was an intensely nationalistic, anti-communistic and anti-democratic movement which served as a model to dictatorial regimes in Italy and Germany.\n\n[Image: The Fasces]"
+    }
+  ],
+  "needs_review": [
+    "Five members of the Fascist Party to be included in the Cabinet",
+    "The Government should act firmly on its foreign policy",
+    "Economic reforms to be implemented as early as possible.",
+    "To exalt nationalism",
+    "Similarity Between the Causes of Fascism and Nazism"
+  ],
+  "manifest": {
+    "syllabus_leaves": [
+      {
+        "path": "Rise of Dictatorships > Causes for the rise of Fascism > Discontentment after the Treaty of Versailles",
+        "path_titles": [
+          "Rise of Dictatorships",
+          "Causes for the rise of Fascism",
+          "Discontentment after the Treaty of Versailles"
+        ],
+        "title": "Discontentment after the Treaty of Versailles",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Rise of Dictatorships > Causes for the rise of Fascism > Economic Crisis",
+        "path_titles": [
+          "Rise of Dictatorships",
+          "Causes for the rise of Fascism",
+          "Economic Crisis"
+        ],
+        "title": "Economic Crisis",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Rise of Dictatorships > Causes for the rise of Fascism > Political Instability",
+        "path_titles": [
+          "Rise of Dictatorships",
+          "Causes for the rise of Fascism",
+          "Political Instability"
+        ],
+        "title": "Political Instability",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Rise of Dictatorships > Causes for the rise of Fascism > Class Conflicts",
+        "path_titles": [
+          "Rise of Dictatorships",
+          "Causes for the rise of Fascism",
+          "Class Conflicts"
+        ],
+        "title": "Class Conflicts",
+        "sequence_number": 4,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Rise of Dictatorships > Causes for the rise of Fascism > Threat of Socialism or Communism",
+        "path_titles": [
+          "Rise of Dictatorships",
+          "Causes for the rise of Fascism",
+          "Threat of Socialism or Communism"
+        ],
+        "title": "Threat of Socialism or Communism",
+        "sequence_number": 5,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Rise of Dictatorships > Causes for the rise of Fascism > Failure of the League of Nations",
+        "path_titles": [
+          "Rise of Dictatorships",
+          "Causes for the rise of Fascism",
+          "Failure of the League of Nations"
+        ],
+        "title": "Failure of the League of Nations",
+        "sequence_number": 6,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Rise of Dictatorships > Causes for the rise of Fascism > Leadership Provided by Mussolini",
+        "path_titles": [
+          "Rise of Dictatorships",
+          "Causes for the rise of Fascism",
+          "Leadership Provided by Mussolini"
+        ],
+        "title": "Leadership Provided by Mussolini",
+        "sequence_number": 7,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Rise of Dictatorships > Aims of Fascism > Fascism was the antithesis of democracy.",
+        "path_titles": [
+          "Rise of Dictatorships",
+          "Aims of Fascism",
+          "Fascism was the antithesis of democracy."
+        ],
+        "title": "Fascism was the antithesis of democracy.",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Rise of Dictatorships > Aims of Fascism > Fascists supported one party and one leader.",
+        "path_titles": [
+          "Rise of Dictatorships",
+          "Aims of Fascism",
+          "Fascists supported one party and one leader."
+        ],
+        "title": "Fascists supported one party and one leader.",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Rise of Dictatorships > Aims of Fascism > Fascists favoured equal control over all sections of society.",
+        "path_titles": [
+          "Rise of Dictatorships",
+          "Aims of Fascism",
+          "Fascists favoured equal control over all sections of society."
+        ],
+        "title": "Fascists favoured equal control over all sections of society.",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Rise of Dictatorships > Aims of Fascism > Fascists laid stress on nationalism and not on individual institutions.",
+        "path_titles": [
+          "Rise of Dictatorships",
+          "Aims of Fascism",
+          "Fascists laid stress on nationalism and not on individual institutions."
+        ],
+        "title": "Fascists laid stress on nationalism and not on individual institutions.",
+        "sequence_number": 4,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Rise of Dictatorships > Aims of Fascism > They believed that the interests of the State must get precedence over individual interests because an individual gets all the rights from the State.",
+        "path_titles": [
+          "Rise of Dictatorships",
+          "Aims of Fascism",
+          "They believed that the interests of the State must get precedence over individual interests because an individual gets all the rights from the State."
+        ],
+        "title": "They believed that the interests of the State must get precedence over individual interests because an individual gets all the rights from the State.",
+        "sequence_number": 5,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Rise of Dictatorships > Aims of Fascism > Fascists regarded quality more important than quantity and therefore, opposed that form of democracy which equates a nation to the majority.",
+        "path_titles": [
+          "Rise of Dictatorships",
+          "Aims of Fascism",
+          "Fascists regarded quality more important than quantity and therefore, opposed that form of democracy which equates a nation to the majority."
+        ],
+        "title": "Fascists regarded quality more important than quantity and therefore, opposed that form of democracy which equates a nation to the majority.",
+        "sequence_number": 6,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Rise of Dictatorships > Aims of Fascism > Fascists favoured aggressive foreign",
+        "path_titles": [
+          "Rise of Dictatorships",
+          "Aims of Fascism",
+          "Fascists favoured aggressive foreign"
+        ],
+        "title": "Fascists favoured aggressive foreign",
+        "sequence_number": 7,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Rise of Dictatorships > Fascism in Italy > Background",
+        "path_titles": [
+          "Rise of Dictatorships",
+          "Fascism in Italy",
+          "Background"
+        ],
+        "title": "Background",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Rise of Dictatorships > Fascism in Italy > Rise of Mussolini > Five members of the Fascist Party to be included in the Cabinet",
+        "path_titles": [
+          "Rise of Dictatorships",
+          "Fascism in Italy",
+          "Rise of Mussolini",
+          "Five members of the Fascist Party to be included in the Cabinet"
+        ],
+        "title": "Five members of the Fascist Party to be included in the Cabinet",
+        "sequence_number": 1,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": false
+      },
+      {
+        "path": "Rise of Dictatorships > Fascism in Italy > Rise of Mussolini > New elections to be announced",
+        "path_titles": [
+          "Rise of Dictatorships",
+          "Fascism in Italy",
+          "Rise of Mussolini",
+          "New elections to be announced"
+        ],
+        "title": "New elections to be announced",
+        "sequence_number": 2,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "Rise of Dictatorships > Fascism in Italy > Rise of Mussolini > The Government should act firmly on its foreign policy",
+        "path_titles": [
+          "Rise of Dictatorships",
+          "Fascism in Italy",
+          "Rise of Mussolini",
+          "The Government should act firmly on its foreign policy"
+        ],
+        "title": "The Government should act firmly on its foreign policy",
+        "sequence_number": 3,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": false
+      },
+      {
+        "path": "Rise of Dictatorships > Fascism in Italy > Rise of Mussolini > Economic reforms to be implemented as early as possible.",
+        "path_titles": [
+          "Rise of Dictatorships",
+          "Fascism in Italy",
+          "Rise of Mussolini",
+          "Economic reforms to be implemented as early as possible."
+        ],
+        "title": "Economic reforms to be implemented as early as possible.",
+        "sequence_number": 4,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": false
+      },
+      {
+        "path": "Rise of Dictatorships > Fascism in Italy > End of Fascism in Italy",
+        "path_titles": [
+          "Rise of Dictatorships",
+          "Fascism in Italy",
+          "End of Fascism in Italy"
+        ],
+        "title": "End of Fascism in Italy",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Rise of Dictatorships > Fascism in Italy > Impact of Fascism > Mussolini devoted himself to make Italy a powerful nation and carried out administrative",
+        "path_titles": [
+          "Rise of Dictatorships",
+          "Fascism in Italy",
+          "Impact of Fascism",
+          "Mussolini devoted himself to make Italy a powerful nation and carried out administrative"
+        ],
+        "title": "Mussolini devoted himself to make Italy a powerful nation and carried out administrative",
+        "sequence_number": 1,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "Rise of Dictatorships > Nazi Dictatorship in Germany > Background",
+        "path_titles": [
+          "Rise of Dictatorships",
+          "Nazi Dictatorship in Germany",
+          "Background"
+        ],
+        "title": "Background",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Rise of Dictatorships > Nazi Dictatorship in Germany > Hitler's Rise To Power",
+        "path_titles": [
+          "Rise of Dictatorships",
+          "Nazi Dictatorship in Germany",
+          "Hitler's Rise To Power"
+        ],
+        "title": "Hitler's Rise To Power",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Rise of Dictatorships > Nazi Dictatorship in Germany > Fall of Hitler",
+        "path_titles": [
+          "Rise of Dictatorships",
+          "Nazi Dictatorship in Germany",
+          "Fall of Hitler"
+        ],
+        "title": "Fall of Hitler",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Rise of Dictatorships > Causes for the Rise of Nazism > Humiliating Treaty of Versailles",
+        "path_titles": [
+          "Rise of Dictatorships",
+          "Causes for the Rise of Nazism",
+          "Humiliating Treaty of Versailles"
+        ],
+        "title": "Humiliating Treaty of Versailles",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Rise of Dictatorships > Causes for the Rise of Nazism > Growing Fear of Communism",
+        "path_titles": [
+          "Rise of Dictatorships",
+          "Causes for the Rise of Nazism",
+          "Growing Fear of Communism"
+        ],
+        "title": "Growing Fear of Communism",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Rise of Dictatorships > Causes for the Rise of Nazism > Economic Crisis",
+        "path_titles": [
+          "Rise of Dictatorships",
+          "Causes for the Rise of Nazism",
+          "Economic Crisis"
+        ],
+        "title": "Economic Crisis",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Rise of Dictatorships > Causes for the Rise of Nazism > Resurgence of Militant Nationalism",
+        "path_titles": [
+          "Rise of Dictatorships",
+          "Causes for the Rise of Nazism",
+          "Resurgence of Militant Nationalism"
+        ],
+        "title": "Resurgence of Militant Nationalism",
+        "sequence_number": 4,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Rise of Dictatorships > Causes for the Rise of Nazism > Anti-Semitic Propaganda",
+        "path_titles": [
+          "Rise of Dictatorships",
+          "Causes for the Rise of Nazism",
+          "Anti-Semitic Propaganda"
+        ],
+        "title": "Anti-Semitic Propaganda",
+        "sequence_number": 5,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Rise of Dictatorships > Causes for the Rise of Nazism > Absence of Strong Opposition",
+        "path_titles": [
+          "Rise of Dictatorships",
+          "Causes for the Rise of Nazism",
+          "Absence of Strong Opposition"
+        ],
+        "title": "Absence of Strong Opposition",
+        "sequence_number": 6,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Rise of Dictatorships > Causes for the Rise of Nazism > Establishment of Volunteer Corps",
+        "path_titles": [
+          "Rise of Dictatorships",
+          "Causes for the Rise of Nazism",
+          "Establishment of Volunteer Corps"
+        ],
+        "title": "Establishment of Volunteer Corps",
+        "sequence_number": 7,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Rise of Dictatorships > Causes for the Rise of Nazism > Charismatic Personality of Hitler",
+        "path_titles": [
+          "Rise of Dictatorships",
+          "Causes for the Rise of Nazism",
+          "Charismatic Personality of Hitler"
+        ],
+        "title": "Charismatic Personality of Hitler",
+        "sequence_number": 8,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Rise of Dictatorships > Aims of Nazism > To exalt nationalism",
+        "path_titles": [
+          "Rise of Dictatorships",
+          "Aims of Nazism",
+          "To exalt nationalism"
+        ],
+        "title": "To exalt nationalism",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": false
+      },
+      {
+        "path": "Rise of Dictatorships > Aims of Nazism > To advocate the rule by a great leader from a single party",
+        "path_titles": [
+          "Rise of Dictatorships",
+          "Aims of Nazism",
+          "To advocate the rule by a great leader from a single party"
+        ],
+        "title": "To advocate the rule by a great leader from a single party",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Rise of Dictatorships > Aims of Nazism > To despise internationalism, peace and democracy",
+        "path_titles": [
+          "Rise of Dictatorships",
+          "Aims of Nazism",
+          "To despise internationalism, peace and democracy"
+        ],
+        "title": "To despise internationalism, peace and democracy",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Rise of Dictatorships > Aims of Nazism > To use force and brutality",
+        "path_titles": [
+          "Rise of Dictatorships",
+          "Aims of Nazism",
+          "To use force and brutality"
+        ],
+        "title": "To use force and brutality",
+        "sequence_number": 4,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Rise of Dictatorships > Aims of Nazism > To extol war",
+        "path_titles": [
+          "Rise of Dictatorships",
+          "Aims of Nazism",
+          "To extol war"
+        ],
+        "title": "To extol war",
+        "sequence_number": 5,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Rise of Dictatorships > Aims of Nazism > To uphold the racial supremacy of the Germans and to hate Jews.",
+        "path_titles": [
+          "Rise of Dictatorships",
+          "Aims of Nazism",
+          "To uphold the racial supremacy of the Germans and to hate Jews."
+        ],
+        "title": "To uphold the racial supremacy of the Germans and to hate Jews.",
+        "sequence_number": 6,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Rise of Dictatorships > Impact of Nazism > Established a Totalitarian State",
+        "path_titles": [
+          "Rise of Dictatorships",
+          "Impact of Nazism",
+          "Established a Totalitarian State"
+        ],
+        "title": "Established a Totalitarian State",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Rise of Dictatorships > Impact of Nazism > Economic Reforms",
+        "path_titles": [
+          "Rise of Dictatorships",
+          "Impact of Nazism",
+          "Economic Reforms"
+        ],
+        "title": "Economic Reforms",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Rise of Dictatorships > Impact of Nazism > Militarism and Compulsory Military Training",
+        "path_titles": [
+          "Rise of Dictatorships",
+          "Impact of Nazism",
+          "Militarism and Compulsory Military Training"
+        ],
+        "title": "Militarism and Compulsory Military Training",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Rise of Dictatorships > Impact of Nazism > Repudiated Peace Treaties",
+        "path_titles": [
+          "Rise of Dictatorships",
+          "Impact of Nazism",
+          "Repudiated Peace Treaties"
+        ],
+        "title": "Repudiated Peace Treaties",
+        "sequence_number": 4,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Rise of Dictatorships > Impact of Nazism > Acquisition of Territories",
+        "path_titles": [
+          "Rise of Dictatorships",
+          "Impact of Nazism",
+          "Acquisition of Territories"
+        ],
+        "title": "Acquisition of Territories",
+        "sequence_number": 5,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Rise of Dictatorships > Impact of Nazism > Racial Supremacy",
+        "path_titles": [
+          "Rise of Dictatorships",
+          "Impact of Nazism",
+          "Racial Supremacy"
+        ],
+        "title": "Racial Supremacy",
+        "sequence_number": 6,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Rise of Dictatorships > Impact of Nazism > Negative Aspects",
+        "path_titles": [
+          "Rise of Dictatorships",
+          "Impact of Nazism",
+          "Negative Aspects"
+        ],
+        "title": "Negative Aspects",
+        "sequence_number": 7,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Rise of Dictatorships > Similarity Between the Causes of Fascism and Nazism",
+        "path_titles": [
+          "Rise of Dictatorships",
+          "Similarity Between the Causes of Fascism and Nazism"
+        ],
+        "title": "Similarity Between the Causes of Fascism and Nazism",
+        "sequence_number": 8,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": false
+      },
+      {
+        "path": "Rise of Dictatorships > Similarity Between the Ideologies of Fascism and Nazism",
+        "path_titles": [
+          "Rise of Dictatorships",
+          "Similarity Between the Ideologies of Fascism and Nazism"
+        ],
+        "title": "Similarity Between the Ideologies of Fascism and Nazism",
+        "sequence_number": 9,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      }
+    ],
+    "stray_leaves": [
+      {
+        "title": "FASCISM",
+        "insert_after_index": 0,
+        "micro_topics": [],
+        "has_notes": true
+      }
+    ]
+  }
+}

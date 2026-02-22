@@ -24,32 +24,16 @@
       "TIME TAKEN",
       "IMPLEMENTATION OF THE CONSTITUTION",
       "SIGNIFICANCE OF JANUARY 26",
-      "Fact File",
-      "TERMS TO REMEMBER"
+      "TERMS TO REMEMBER",
+      "Amendment",
+      "Adopt",
+      "Democratic",
+      "Fraternity",
+      "Ideals"
     ],
     "in_syllabus_only": [],
-    "in_pdf_only": [
-      {
-        "title": "Fact File",
-        "insert_after_index": 11,
-        "micro_topics": []
-      },
-      {
-        "title": "TERMS TO REMEMBER",
-        "insert_after_index": 11,
-        "micro_topics": []
-      }
-    ],
-    "additional_sections": [
-      {
-        "title": "Fact File",
-        "content_md": "**Fact File**\n\n1. **Constituent Assembly elected**: July, 1946\n2. **First Session**: Dec. 9, 1946\n3. **Objectives Resolution**\n   - **Proposed**: Dec. 13, 1946\n   - **Passed**: Jan. 22, 1947\n4. **Drafting Committee set up**: Aug. 29, 1947\n5. **First Draft completed**: Feb. 1948\n6. **First Reading**: Nov. 1948\n7. **Second Reading**: Oct. 1949\n8. **Third Reading**: Nov. 1949\n9. **Constitution passed and adopted**: Nov. 26, 1949\n10. **Effective on**: Jan. 26, 1950\n11. **Constituent Assembly Members**\n    - **Undivided India**: 389\n    - **India by itself**: 299\n12. **At the time of Commencement**\n    - **Articles**: 395\n    - **Schedules**: 8"
-      },
-      {
-        "title": "TERMS TO REMEMBER",
-        "content_md": "**TERMS TO REMEMBER**\n\n*   **Amendment**: An addition or alteration to the Constitution.\n*   **Adopt**: Legalise.\n*   **Democratic**: Pertaining to democracy or a form of government in which people elect their representatives to form the government.\n*   **Fraternity**: Brotherhood or friendship.\n*   **Ideals**: A principle worth trying or living for."
-      }
-    ]
+    "in_pdf_only": [],
+    "additional_sections": []
   },
   "nodes": [
     {
@@ -69,7 +53,7 @@
               "content_md": "The **Constitution of India** came into effect on **26th January 1950**, when India became a **Sovereign Democratic Republic**."
             },
             {
-              "content_md": "**Constitution** is a comprehensive document containing the set of rules that describe the **rights and duties** of its citizens and the manner according to which the governance of a country is to be carried out. It regulates the position and powers of the **three organs of the government**—the **legislative**, the **executive** and the **judiciary**; and states how they are inter-related. It assumes special importance as it **moderates relations between the government and the governed**. Further, it **protects the interests of the citizens** by restraining the government from taking arbitrary decisions. The aim of a Constitution of a nation is to **ensure smooth governance for the welfare of its citizens**."
+              "content_md": "**Constitution** is a comprehensive document containing the set of rules that describe the **rights and duties of its citizens** and the manner according to which the **governance of a country** is to be carried out. It regulates the position and powers of the three organs of the government—the **legislative**, the **executive** and the **judiciary**; and states how they are inter-related. It assumes special importance as it **moderates relations between the government and the governed**. Further, it **protects the interests of the citizens** by restraining the government from taking arbitrary decisions. The aim of a Constitution of a nation is to ensure **smooth governance** for the welfare of its citizens."
             },
             {
               "content_md": "The principles of the Constitution distinguish a **constitutional or democratic government** from an **absolute monarchy or a dictatorship**."
@@ -87,7 +71,7 @@
       "children": [],
       "content_blocks": [
         {
-          "content_md": "We have studied in the Freedom Movement of India that the **Cabinet Mission** arrived in India in **1946** and put forward a set of proposals to meet the demands of the Freedom Fighters.\n\nOne of these proposals involved setting up of a **Constituent Assembly** whose members were to be elected indirectly by the **Provincial Legislative Assemblies (Lower House only)**. Elections to the Provincial Assembly were completed by **July 1946**. The **Princely States** were represented by the members nominated by the rulers of these States. The **Constituent Assembly of undivided India** consisted of **389 members** (292 elected, 93 nominated by the Princely states, three from Chief Commissioner Provinces and one from the British). The Constitution of India was framed by the **Constituent Assembly**."
+          "content_md": "The **Cabinet Mission** arrived in India in **1946** and put forward a set of proposals to meet the demands of the Freedom Fighters. One of these proposals involved setting up a **Constituent Assembly** whose members were to be elected indirectly by the **Provincial Legislative Assemblies** (Lower House only).\n\nElections to the Provincial Assembly were completed by **July 1946**. The **Princely States** were represented by members nominated by the rulers of these States. The **Constituent Assembly** of undivided India consisted of **389 members** (292 elected, 93 nominated by the Princely states, three from Chief Commissioner Provinces and one from the British). The **Constitution of India** was framed by the **Constituent Assembly**."
         }
       ]
     },
@@ -99,10 +83,7 @@
       "children": [],
       "content_blocks": [
         {
-          "content_md": "The first sitting of the **Constituent Assembly** was held on **December 9, 1946**. It was held at the present **Central Hall of the Parliament** and was presided over by **Dr. Sachidananda Sinha**, the oldest sitting member of the Central Assembly. On **December 11, 1946** **Dr. Rajendra Prasad** was elected President of the Constituent Assembly.\n\nThe **Muslim League** boycotted the Constituent Assembly to demand the creation of a separate State called **Pakistan**. Consequently, the members representing the territories which went to Pakistan withdrew from the Constituent Assembly of India. As a result, the membership of the Constituent Assembly of India stood at **299** against the original number of **389** members. Of these, **284** were actually present on **November 26, 1949**, and appended their signatures to the Constitution as finally passed. **Dr. Rajendra Prasad** continued to be the President of the Constituent Assembly of India.\n\nBetween **December 9, 1946** and **August 14, 1947** the Assembly held five sessions."
-        },
-        {
-          "content_md": "[Image: Dr. Rajendra Prasad signing the Constitution]"
+          "content_md": "The first sitting of the **Constituent Assembly** was held on **December 9, 1946**. It was held at the present **Central Hall of the Parliament** and was presided over by **Dr. Sachidananda Sinha**, the oldest sitting member of the Central Assembly. On **December 11, 1946**, **Dr. Rajendra Prasad** was elected **President of the Constituent Assembly**.\n\n[Image: Dr. Rajendra Prasad signing the Constitution]\n\nThe **Muslim League boycotted** the Constituent Assembly to demand the creation of a separate State called **Pakistan**. Consequently, the members representing the territories which went to Pakistan withdrew from the Constituent Assembly of India. As a result, the membership of the Constituent Assembly of India stood at **299** against the original number of **389** members. Of these, **284** were actually present on **November 26, 1949**, and appended their signatures to the Constitution as finally passed. Dr. Rajendra Prasad continued to be the President of the Constituent Assembly of India.\n\nBetween **December 9, 1946** and **August 14, 1947** the Assembly held five sessions."
         }
       ]
     },
@@ -111,55 +92,52 @@
       "sequence_number": 4,
       "depth": 0,
       "level_label": "Section",
-      "children": [],
-      "content_blocks": [
+      "children": [
         {
-          "content_md": "The wide-ranging membership of the **Constituent Assembly** gave representation to all shades of public opinion. The **Cabinet Mission plan** had ensured representation to only three categories—the **General category**, **Muslims** and **Sikhs**. The Congress leaders had, however, ensured that other communities like **Anglo-Indians**, **Indian Christians**, **Scheduled Castes** and **Scheduled Tribes** got representation.\n\n*   The **Anglo-Indians** were represented by **Mr. Frank Anthony** and **Mr. S.H. Prater**.\n*   The **Indian Christians**, by **Dr. H.C. Mukherjee** and **Joseph D'souza**.\n*   The **Parsees** by **Dr. H.P. Modi**.\n*   Though the Muslim League had boycotted the Assembly, there were still two members—**Zafar Imam** and **Mohammad Saadullah** who represented the **Muslim community**.\n*   The **Sikhs** were represented by **Sardar Hukum Singh** and **Ujjal Singh**.\n\nIt can be said that the Constituent Assembly was truly **national in character**."
+          "title": "Objectives Resolution",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "When the Constituent Assembly started the work of drafting the Constitution, **Pt. Jawaharlal Nehru** proposed the '**Objectives Resolution**' on **December 13, 1946**. The 'Resolution' highlighted the objectives and laid down the '**national goals**':\n1.  Free India will be nothing but a '**republic**'.\n2.  The ideals of **social, political and economic democracy** would be guaranteed to all people.\n3.  The republic would grant **Fundamental Rights** to citizens.\n4.  The state would safeguard the rights of **minorities and backward classes**.\n\nThe '**Objectives Resolution**' was passed by the **Constituent Assembly** on **January 22, 1947**."
+            }
+          ]
         }
-      ]
+      ],
+      "content_blocks": []
     },
     {
-      "title": "Objectives Resolution",
+      "title": "DRAFTING COMMITTEE",
       "sequence_number": 5,
       "depth": 0,
       "level_label": "Section",
       "children": [],
       "content_blocks": [
         {
-          "content_md": "When the Constituent Assembly started the work of drafting the Constitution, **Pt. Jawaharlal Nehru** proposed the '**Objectives Resolution**' on **December 13, 1946**. The 'Resolution' highlighted the objectives and laid down the '**national goals**'.\n\n1.  Free India will be nothing but a '**republic**'.\n2.  The ideals of **social, political and economic democracy** would be guaranteed to all people.\n3.  The republic would grant **Fundamental Rights** to citizens.\n4.  The state would safeguard the rights of **minorities and backward classes**.\n\nThe '**Objectives Resolution**' was passed by the Constituent Assembly on **January 22, 1947**."
+          "content_md": "The **Indian Independence Act, 1947**, by which two independent states of India and Pakistan were created, recognised the existence of the **Constituent Assembly of India**. This legal sanction enabled the **Constituent Assembly** to function after India's independence. The Assembly became a **sovereign body**. To carry on its work it appointed **eight committees**. The **Drafting Committee**, under the Chairmanship of **Dr. B.R. Ambedkar** was set up on **August 29, 1947** and was entrusted with the task of drafting the Constitution."
         }
       ]
     },
     {
-      "title": "DRAFTING COMMITTEE",
+      "title": "DR. AMBEDKAR'S CONTRIBUTION TO THE INDIAN CONSTITUTION",
       "sequence_number": 6,
       "depth": 0,
       "level_label": "Section",
       "children": [],
       "content_blocks": [
         {
-          "content_md": "The **Indian Independence Act, 1947**, by which two independent states of India and Pakistan were created, recognised the existence of the **Constituent Assembly of India**. This legal sanction enabled the **Constituent Assembly** to function after India's independence. The Assembly became a **sovereign body**. To carry on its work it appointed eight committees. The **Drafting Committee**, under the Chairmanship of **Dr. B.R. Ambedkar** was set up on **August 29, 1947** and was entrusted with the task of **drafting the Constitution**."
-        }
-      ]
-    },
-    {
-      "title": "DR. AMBEDKAR'S CONTRIBUTION TO THE INDIAN CONSTITUTION",
-      "sequence_number": 7,
-      "depth": 0,
-      "level_label": "Section",
-      "children": [],
-      "content_blocks": [
-        {
-          "content_md": "**Dr. Bhimrao Ambedkar**, popularly known as **Babasaheb**, was one of the architects of the **Constitution of India**. He was an eminent jurist, economist, politician and social reformer. The text of the Constitution prepared by **Babasaheb** provided for **constitutional guarantees** and protections for a wide range of **civil liberties** for individual citizens, including freedom of religion, the abolition of **untouchability**, social rights for women and a system of **reservation** of jobs in the government services for members of **Scheduled Castes** and **Scheduled Tribes**."
+          "content_md": "Dr. **Bhimrao Ambedkar**, popularly known as **Babasaheb**, was one of the architects of the **Constitution of India**. He was an eminent jurist, economist, politician and social reformer. The text of the Constitution prepared by Babasaheb provided for constitutional guarantees and protections for a wide range of civil liberties for individual citizens, including **freedom of religion**, the **abolition of untouchability**, social rights for women and a system of **reservation of jobs** in the government services for members of **Scheduled Castes** and **Scheduled Tribes**."
         },
         {
-          "content_md": "In order to shape India into a complete **Sovereign Democratic Republic**, in which the liberty and dignity of the individual is ensured, along with national integrity, **Babasaheb** incorporated the following principles in the **Constitution of India**:\n\n1.  Made the Indian Constitution **workable, flexible and strong** enough to hold the country together both in peace and in war.\n2.  Provided **special safeguards** to the **minorities** and certain classes, who are socially and educationally backward.\n3.  Incorporated the **Right to Constitutional Remedies** to ensure that the **Fundamental Rights** of the individuals are not infringed by the Centre or the State governments.\n4.  **Single citizenship**, **single judiciary** and uniformity in fundamental laws to integrate Indian society. Therefore, he proposed a **strong Centre** to maintain territorial integrity and administrative discipline.\n5.  Incorporated **Directive Principles** to ensure **social and economic democracy** and welfare of the people of India."
+          "content_md": "In order to shape India into a complete **Sovereign Democratic Republic**, in which the liberty and dignity of the individual is ensured, along with national integrity, Babasaheb incorporated the following principles in the Constitution of India:\n\n1.  Made the Indian Constitution **workable, flexible and strong** enough to hold the country together both in peace and in war.\n2.  Provided **special safeguards** to the minorities and certain classes, who are socially and educationally backward.\n3.  Incorporated the **Right to Constitutional Remedies** to ensure that the **Fundamental Rights** of the individuals are not infringed by the Centre or the State governments.\n4.  **Single citizenship**, single judiciary and uniformity in fundamental laws to integrate Indian society. Therefore, he proposed a **strong Centre** to maintain territorial integrity and administrative discipline.\n5.  Incorporated **Directive Principles** to ensure social and economic democracy and welfare of the people of India."
         }
       ]
     },
     {
       "title": "READINGS",
-      "sequence_number": 8,
+      "sequence_number": 7,
       "depth": 0,
       "level_label": "Section",
       "children": [],
@@ -171,7 +149,7 @@
     },
     {
       "title": "TIME TAKEN",
-      "sequence_number": 9,
+      "sequence_number": 8,
       "depth": 0,
       "level_label": "Section",
       "children": [],
@@ -183,39 +161,105 @@
     },
     {
       "title": "IMPLEMENTATION OF THE CONSTITUTION",
+      "sequence_number": 9,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "After the signing of the Constitution, only the clauses relating to **citizenship** and some others came into force immediately. This was to enable persons displaced as a result of the **partition**, to register themselves as Indian citizens.\n\nThe **Constitution** was **adopted and passed** by the Constituent Assembly on **November 26, 1949**. The Constitution as a whole **came into force** with effect from **January 26, 1950**.\n\nWith the coming into force of the Constitution, **C. Rajagopalachari** became the **Governor-General**. He replaced Lord Mountbatten. The **Constituent Assembly** became the **provisional parliament** until the new **General Elections** were held in **1951–52**. **Dr. Rajendra Prasad**, who was the President of the Constituent Assembly, took over as the **President of the Indian Union**."
+        }
+      ]
+    },
+    {
+      "title": "SIGNIFICANCE OF JANUARY 26",
       "sequence_number": 10,
       "depth": 0,
       "level_label": "Section",
       "children": [],
       "content_blocks": [
         {
-          "content_md": "After the signing of the Constitution, only the clauses relating to **citizenship** and some others came into force immediately. This was to enable persons displaced as a result of the partition, to register themselves as Indian citizens.\n\nThe Constitution was **adopted and passed** by the Constituent Assembly on **November 26, 1949**. The Constitution as a whole **came into force** with effect from **January 26, 1950**.\n\nWith the coming into force of the Constitution, **C. Rajagopalachari** became the **Governor-General**. He replaced **Lord Mountbatten**. The **Constituent Assembly** became the **provisional parliament** until the new **General Elections** were held in **1951–52**. **Dr. Rajendra Prasad**, who was the President of the Constituent Assembly took over as the **President of the Indian Union**."
+          "content_md": "The date **January 26, 1950** for the commencement of the Constitution was specially selected because of its historical importance. At the **Lahore Session of the Congress** held in **December 1929**, a resolution was passed which declared **Poorna Swaraj** or **Complete Independence** to be the objective of the Congress. **January 26, 1930** was fixed as the **first Independence Day**, which was to be so celebrated every year. Since then the day was celebrated as **Independence Day up to 1947**.\n\nOn achieving Independence, **15th August 1947** became the Independence Day. **January 26** was designated as the **Republic Day**."
         }
       ]
-    },
-    {
-      "title": "SIGNIFICANCE OF JANUARY 26",
-      "sequence_number": 11,
-      "depth": 0,
-      "level_label": "Section",
-      "children": [],
-      "content_blocks": [
-        {
-          "content_md": "The date **January 26, 1950** for the commencement of the Constitution was specially selected because of its historical importance. At the **Lahore Session** of the Congress held in **December 1929**, a resolution was passed which declared **Poorna Swaraj** or **Complete Independence** to be the objective of the Congress. **January 26, 1930** was fixed as the **first Independence Day**, which was to be so celebrated every year. Since then the day was celebrated as **Independence Day** up to 1947.\n\nOn achieving Independence, **15th August 1947** became the Independence Day. **January 26** was designated as the **Republic Day**."
-        }
-      ]
-    }
-  ],
-  "additional_sections": [
-    {
-      "title": "Fact File",
-      "content_md": "**Fact File**\n\n1. **Constituent Assembly elected**: July, 1946\n2. **First Session**: Dec. 9, 1946\n3. **Objectives Resolution**\n   - **Proposed**: Dec. 13, 1946\n   - **Passed**: Jan. 22, 1947\n4. **Drafting Committee set up**: Aug. 29, 1947\n5. **First Draft completed**: Feb. 1948\n6. **First Reading**: Nov. 1948\n7. **Second Reading**: Oct. 1949\n8. **Third Reading**: Nov. 1949\n9. **Constitution passed and adopted**: Nov. 26, 1949\n10. **Effective on**: Jan. 26, 1950\n11. **Constituent Assembly Members**\n    - **Undivided India**: 389\n    - **India by itself**: 299\n12. **At the time of Commencement**\n    - **Articles**: 395\n    - **Schedules**: 8"
     },
     {
       "title": "TERMS TO REMEMBER",
-      "content_md": "**TERMS TO REMEMBER**\n\n*   **Amendment**: An addition or alteration to the Constitution.\n*   **Adopt**: Legalise.\n*   **Democratic**: Pertaining to democracy or a form of government in which people elect their representatives to form the government.\n*   **Fraternity**: Brotherhood or friendship.\n*   **Ideals**: A principle worth trying or living for."
+      "sequence_number": 11,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "Amendment",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**Amendment**: An addition or alteration to the **Constitution**."
+            }
+          ]
+        },
+        {
+          "title": "Adopt",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "After the signing of the Constitution, only the clauses relating to **citizenship** and some others came into force immediately. This was to enable persons displaced as a result of the partition, to register themselves as Indian citizens."
+            },
+            {
+              "content_md": "The **Constitution was adopted** and passed by the Constituent Assembly on **November 26, 1949**. The Constitution as a whole came into force with effect from **January 26, 1950**."
+            },
+            {
+              "content_md": "With the coming into force of the Constitution, **C. Rajagopalachari** became the **Governor-General**. He replaced Lord Mountbatten. The **Constituent Assembly** became the **provisional parliament** until the new General Elections were held in 1951–52. **Dr. Rajendra Prasad**, who was the President of the Constituent Assembly took over as the **President of the Indian Union**."
+            }
+          ]
+        },
+        {
+          "title": "Democratic",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**Democratic**: Pertaining to **democracy** or a form of government in which people elect their representatives to form the government."
+            }
+          ]
+        },
+        {
+          "title": "Fraternity",
+          "sequence_number": 4,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**Fraternity**: Brotherhood or friendship."
+            }
+          ]
+        },
+        {
+          "title": "Ideals",
+          "sequence_number": 5,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**Ideals**: A principle worth trying or living for."
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
     }
   ],
+  "additional_sections": [],
   "needs_review": [],
   "manifest": {
     "syllabus_leaves": [
@@ -254,25 +298,15 @@
         "has_notes": true
       },
       {
-        "path": "COMPOSITION OF THE CONSTITUENT ASSEMBLY",
+        "path": "COMPOSITION OF THE CONSTITUENT ASSEMBLY > Objectives Resolution",
         "path_titles": [
-          "COMPOSITION OF THE CONSTITUENT ASSEMBLY"
-        ],
-        "title": "COMPOSITION OF THE CONSTITUENT ASSEMBLY",
-        "sequence_number": 4,
-        "depth": 0,
-        "level_label": "Section",
-        "has_notes": true
-      },
-      {
-        "path": "Objectives Resolution",
-        "path_titles": [
+          "COMPOSITION OF THE CONSTITUENT ASSEMBLY",
           "Objectives Resolution"
         ],
         "title": "Objectives Resolution",
-        "sequence_number": 5,
-        "depth": 0,
-        "level_label": "Section",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
         "has_notes": true
       },
       {
@@ -281,7 +315,7 @@
           "DRAFTING COMMITTEE"
         ],
         "title": "DRAFTING COMMITTEE",
-        "sequence_number": 6,
+        "sequence_number": 5,
         "depth": 0,
         "level_label": "Section",
         "has_notes": true
@@ -292,7 +326,7 @@
           "DR. AMBEDKAR'S CONTRIBUTION TO THE INDIAN CONSTITUTION"
         ],
         "title": "DR. AMBEDKAR'S CONTRIBUTION TO THE INDIAN CONSTITUTION",
-        "sequence_number": 7,
+        "sequence_number": 6,
         "depth": 0,
         "level_label": "Section",
         "has_notes": true
@@ -303,7 +337,7 @@
           "READINGS"
         ],
         "title": "READINGS",
-        "sequence_number": 8,
+        "sequence_number": 7,
         "depth": 0,
         "level_label": "Section",
         "has_notes": true
@@ -314,7 +348,7 @@
           "TIME TAKEN"
         ],
         "title": "TIME TAKEN",
-        "sequence_number": 9,
+        "sequence_number": 8,
         "depth": 0,
         "level_label": "Section",
         "has_notes": true
@@ -325,7 +359,7 @@
           "IMPLEMENTATION OF THE CONSTITUTION"
         ],
         "title": "IMPLEMENTATION OF THE CONSTITUTION",
-        "sequence_number": 10,
+        "sequence_number": 9,
         "depth": 0,
         "level_label": "Section",
         "has_notes": true
@@ -336,25 +370,72 @@
           "SIGNIFICANCE OF JANUARY 26"
         ],
         "title": "SIGNIFICANCE OF JANUARY 26",
-        "sequence_number": 11,
+        "sequence_number": 10,
         "depth": 0,
         "level_label": "Section",
         "has_notes": true
-      }
-    ],
-    "stray_leaves": [
+      },
       {
-        "title": "Fact File",
-        "insert_after_index": 11,
-        "micro_topics": [],
+        "path": "TERMS TO REMEMBER > Amendment",
+        "path_titles": [
+          "TERMS TO REMEMBER",
+          "Amendment"
+        ],
+        "title": "Amendment",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
         "has_notes": true
       },
       {
-        "title": "TERMS TO REMEMBER",
-        "insert_after_index": 11,
-        "micro_topics": [],
+        "path": "TERMS TO REMEMBER > Adopt",
+        "path_titles": [
+          "TERMS TO REMEMBER",
+          "Adopt"
+        ],
+        "title": "Adopt",
+        "sequence_number": 2,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "TERMS TO REMEMBER > Democratic",
+        "path_titles": [
+          "TERMS TO REMEMBER",
+          "Democratic"
+        ],
+        "title": "Democratic",
+        "sequence_number": 3,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "TERMS TO REMEMBER > Fraternity",
+        "path_titles": [
+          "TERMS TO REMEMBER",
+          "Fraternity"
+        ],
+        "title": "Fraternity",
+        "sequence_number": 4,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "TERMS TO REMEMBER > Ideals",
+        "path_titles": [
+          "TERMS TO REMEMBER",
+          "Ideals"
+        ],
+        "title": "Ideals",
+        "sequence_number": 5,
+        "depth": 1,
+        "level_label": "Topic",
         "has_notes": true
       }
-    ]
+    ],
+    "stray_leaves": []
   }
 }

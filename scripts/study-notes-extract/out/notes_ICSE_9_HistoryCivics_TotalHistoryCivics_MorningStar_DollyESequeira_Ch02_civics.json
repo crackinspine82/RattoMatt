@@ -13,59 +13,46 @@
   "discipline": "civics",
   "reconciliation": {
     "outline": [
-      "Salient Features of the Constitution-I",
       "SINGLE CITIZENSHIP",
       "UNIVERSAL ADULT FRANCHISE",
       "FUNDAMENTAL RIGHTS",
       "1. The Right to Equality—Articles 14 to 18",
-      "(a) Equality before Law: Article-14",
-      "Article-15",
+      "(a) Equality before Law: Article-14.",
+      "Article-15:",
       "(b) Equality of Opportunity: Article-16",
       "(c) Abolition of Untouchability: Article-17",
       "(d) Abolition of Titles: Article-18",
       "2. Right to Freedom—Articles 19 to 22",
       "(a) Under Article-19, the Constitution guarantees six basic freedoms to its Citizens, viz.",
-      "(i) Freedom of speech and expression.",
-      "(ii) Freedom to assemble peacefully without arms.",
-      "(iii) Freedom to form associations and unions.",
-      "(iv) Freedom to move freely throughout India.",
-      "(v) Freedom to reside and settle in any part of India.",
-      "(vi) Freedom to practise any profession, trade or business.",
       "RIGHT TO INFORMATION",
       "Supreme Court Declares Right to Privacy - A Fundamental Right",
       "(a) Right to Privacy - A Fundamental Right",
       "(b) Not an Absolute Right - It is Subjected to Reasonable Restrictions",
       "What Privacy includes",
       "Limitations",
-      "(i) Emergency: Article-19 can be suspended during Emergency.",
-      "(ii) Not Absolute",
-      "(iii) Laws of Parliament",
-      "(b) Protection in Respect of Conviction for Offences",
-      "(i) Against greater penalty than what is prescribed under the law is prohibited.",
-      "(ii) No one can be punished or prosecuted for the same offence twice.",
-      "(iii) A person cannot be compelled to be a witness in the case where he himself is accused of the offence.",
-      "(c) Protection of Life and Personal Liberty",
-      "(d) Protection Against Arrest and Detention",
-      "(i) Ordinary Circumstances",
-      "(ii) Preventive Detention",
+      "(i) Emergency:",
+      "(ii) Not Absolute:",
+      "(iii) Laws of Parliament:",
+      "(b) Protection in Respect of Conviction for Offences:",
+      "(c) Protection of Life and Personal Liberty:",
+      "(d) Protection Against Arrest and Detention:",
+      "(i) Ordinary Circumstances:",
+      "(ii) Preventive Detention:",
       "LIMITATIONS",
-      "(i) Public interest",
-      "(ii) Power of the Parliament",
+      "(i) Public interest:",
+      "(ii) Power of the Parliament:",
       "3. Right Against Exploitation—Articles 23 and 24",
-      "(i) Article 23-(a) freedom from slavery, beggary or other forms of forced labour.",
-      "(b) Trafficking in human beings",
-      "(ii) Article 24",
       "4. Right to Freedom of Religion",
       "5. Cultural and Educational Rights",
       "Articles 29 and 30: Protection of Minorities:",
       "Minorities and Educational Institutions:",
       "6. Right to Constitutional Remedies — Article 32",
       "IMPORTANT WRITS",
-      "(i) Habeas Corpus",
-      "(ii) Mandamus",
-      "(iii) Writ of Prohibition",
-      "(iv) Writ of Certiorari",
-      "(v) Quo-warranto",
+      "(i) Habeas Corpus:",
+      "(ii) Mandamus:",
+      "(iii) Writ of Prohibition:",
+      "(iv) Writ of Certiorari:",
+      "(v) Quo-warranto:",
       "7. Right to Education",
       "RIGHT TO PROPERTY",
       "CHECK ON ARBITRARY ACTIONS OF THE STATE",
@@ -78,297 +65,236 @@
     "in_syllabus_only": [],
     "in_pdf_only": [
       {
-        "title": "What Privacy includes",
-        "insert_after_index": 19,
-        "micro_topics": []
+        "title": "Supreme Court Declares Right to Privacy - A Fundamental Right",
+        "insert_after_index": 17,
+        "micro_topics": [
+          "(a) Right to Privacy - A Fundamental Right",
+          "(b) Not an Absolute Right - It is Subjected to Reasonable Restrictions",
+          "What Privacy includes"
+        ]
       },
       {
         "title": "LIMITATIONS",
-        "insert_after_index": 31,
+        "insert_after_index": 32,
         "micro_topics": [
-          "(i) Public interest",
-          "(ii) Power of the Parliament"
+          "(i) Public interest:",
+          "(ii) Power of the Parliament:"
         ]
       },
       {
-        "title": "(b) Trafficking in human beings",
-        "insert_after_index": 33,
+        "title": "RIGHT TO PROPERTY",
+        "insert_after_index": 45,
         "micro_topics": []
-      },
-      {
-        "title": "Articles 29 and 30: Protection of Minorities:",
-        "insert_after_index": 36,
-        "micro_topics": [
-          "Minorities and Educational Institutions:"
-        ]
       }
     ],
     "additional_sections": [
       {
-        "title": "What Privacy includes",
-        "content_md": "What Privacy includes\n1. Preservation of personal intimacies, the sanctity of family life, marriage, procreation, home and sexual orientation.\n2. A right to be left alone.\n3. Safeguards individual autonomy, protecting vital aspects of his/her life.\n4. Personal choices governing a way of life are intrinsic to privacy.\n5. It recognises plurality and diversity of our culture."
+        "title": "Supreme Court Declares Right to Privacy - A Fundamental Right",
+        "content_md": "On August 24, 2017, the Supreme Court of India declared the Right to Privacy as a fundamental right.\n\n**(a) Right to Privacy - A Fundamental Right**\nThe Supreme Court confirmed that the right to privacy is a fundamental right that does not need to be separately articulated but can be derived from Articles 14, 19 and 21 of the Constitution. It is a fundamental right about all information of a person and the choice that he/she makes. It protects an individual from the scrutiny of the State in their home, of their movements and over their reproductive choice, choice of partners, food habits, etc.\n\n**(b) Not an Absolute Right - It is Subjected to Reasonable Restrictions**\nThe Supreme Court clarified that the fundamental right to privacy is not absolute and will always be subject to reasonable restrictions. The State can impose restrictions on it to protect legitimate State interests but it can only do so by following the points given below:\n1. Existence of a law that justifies an encroachment on privacy;\n2. A legitimate State need that ensures that the nature of this law falls within the zone of reasonableness and without arbitrary State action; and\n3. The means adopted by the State are proportional to the objects and needs sought to be fulfilled by the law.\n\nAccording to the judgement, the legitimate aims of the state should be “protecting national security, preventing and investigating crime, encouraging innovation and the spread of knowledge, and preventing the dissipation of social welfare benefits.”\n\n**What Privacy includes**\n1. Preservation of personal intimacies, the sanctity of family life, marriage, procreation, home and sexual orientation.\n2. A right to be left alone.\n3. Safeguards individual autonomy, protecting vital aspects of his/her life.\n4. Personal choices governing a way of life are intrinsic to privacy.\n5. It recognises plurality and diversity of our culture."
       },
       {
         "title": "LIMITATIONS",
-        "content_md": "LIMITATIONS\n(i) Public interest: The authority or the State can take recourse to public interest and refuse to disclose the grounds of detention.\n(ii) Power of the Parliament: The legislature or the Parliament has the power to specify the maximum period of Preventive Detention."
+        "content_md": "**(i) Public interest:** The authority or the State can take recourse to public interest and refuse to disclose the grounds of detention.\n\n**(ii) Power of the Parliament:** The legislature or the Parliament has the power to specify the maximum period of Preventive Detention."
       },
       {
-        "title": "(b) Trafficking in human beings",
-        "content_md": "(b) Trafficking in human beings means buying and selling of human beings is prohibited. It also prohibits use of women or girls for immoral purposes."
-      },
-      {
-        "title": "Articles 29 and 30: Protection of Minorities:",
-        "content_md": "**Articles 29 and 30: Protection of Minorities:** Article 29 gives a section of the people or whole of them the right to preserve their distinct language, script and culture. In the matter of admission to any educational institution maintained by the State, admission cannot be denied on grounds of religion, colour, caste, creed or sex.\n\n**Minorities and Educational Institutions:** Article 30 gives all minorities the right to establish and administer the educational institutions of their choice. The State is also prohibited from discriminating against educational institutions in the matter of grants."
+        "title": "RIGHT TO PROPERTY",
+        "content_md": "Article 31 of the Constitution had earlier empowered the citizens of India to purchase, hold and dispose off movable as well as immovable property as a Fundamental Right. However, in keeping with the socialistic philosophy of the Constitution, the Right to Property was deleted from the list of Fundamental Rights by the 44th Amendment Act 1978. This amendment made the Right to Property (Article 300A) a Legal right."
       }
     ]
   },
   "nodes": [
     {
-      "title": "Salient Features of the Constitution-I",
+      "title": "SINGLE CITIZENSHIP",
       "sequence_number": 1,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "The Indian Constitution provides for a **Single Citizenship**. This means that **all Indians irrespective of the State of their domicile are the citizens of India**. This is unlike the system prevailing in the USA, where one can be a citizen of the New York State as well as an American citizen. In India, a person born in Punjab or in Kerala can only be a citizen of India and not a citizen of the State of their domicile as well. This has been done to ward off separatist tendencies and promote fraternity and unity among the people.\n\nBy the **Citizenship (Amendment) Act 2003**, the Government of India has granted dual citizenship to all the **Persons of Indian Origin (PIOs)**, who migrated to other countries after January 26, 1950. All privileges of an Indian citizen except the right to vote could be enjoyed by PIOs."
+        },
+        {
+          "content_md": "[Image: All are citizens of India]"
+        }
+      ]
+    },
+    {
+      "title": "UNIVERSAL ADULT FRANCHISE",
+      "sequence_number": 2,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "**Universal Adult Franchise** means that all persons of **18 years of age** and above have the **right to vote** irrespective of their caste, colour, religion, etc. The British had provided for **communal electorate** under the **Acts of 1919 and 1935**. The Constitution of Independent India has replaced this system by introducing **joint electorate**. According to this system, resident voters of a constituency have to vote for the same candidate irrespective of his caste or creed. Similarly, some seats are reserved for candidates from **Scheduled Castes** and **Scheduled Tribes**. All people from such constituencies have to vote for the candidates of the area. This system is aimed at curbing communal politics and fostering communal harmony."
+        }
+      ]
+    },
+    {
+      "title": "FUNDAMENTAL RIGHTS",
+      "sequence_number": 3,
       "depth": 0,
       "level_label": "Section",
       "children": [
         {
-          "title": "Single Citizenship",
+          "title": "1. The Right to Equality-Articles 14 to 18",
           "sequence_number": 1,
-          "depth": 1,
-          "level_label": "Topic",
-          "children": [],
-          "content_blocks": [
-            {
-              "content_md": "The Indian Constitution provides for a **Single Citizenship**. This means that all Indians irrespective of the **State of their domicile** are the **citizens of India**. This is unlike the system prevailing in the USA, where one can be a citizen of the New York State as well as an American citizen. In India, a person born in Punjab or in Kerala can only be a citizen of India and not a citizen of the State of their domicile as well. This has been done to ward off **separatist tendencies** and promote **fraternity** and **unity** among the people.\n\nBy the **Citizenship (Amendment) Act 2003** the Government of India has granted **dual citizenship** to all the **Persons of Indian Origin (PIOs)**, who migrated to other countries after **January 26, 1950**. All privileges of an Indian citizen except the **right to vote** could be enjoyed by PIOs."
-            },
-            {
-              "content_md": "[Image: All are citizens of India]"
-            }
-          ]
-        },
-        {
-          "title": "Universal Adult Franchise",
-          "sequence_number": 2,
-          "depth": 1,
-          "level_label": "Topic",
-          "children": [],
-          "content_blocks": [
-            {
-              "content_md": "**Universal Adult Franchise** means that all persons of **18 years of age and above** have the **right to vote** irrespective of their caste, colour, religion, etc. The British had provided for **communal electorate** under the **Acts of 1919 and 1935**. The Constitution of Independent India has replaced this system by introducing **joint electorate**. According to this system, resident voters of a constituency have to vote for the same candidate irrespective of his caste or creed. Similarly, some seats are reserved for candidates from **Scheduled Castes** and **Scheduled Tribes**. All people from such constituencies have to vote for the candidates of the area. This system is aimed at curbing communal politics and fostering communal harmony."
-            },
-            {
-              "content_md": "[Image: All are citizens of India]\n[Image: Right to Vote]"
-            }
-          ]
-        },
-        {
-          "title": "Fundamental Rights",
-          "sequence_number": 3,
           "depth": 1,
           "level_label": "Topic",
           "children": [
             {
-              "title": "1. The Right to Equality-Articles 14 to 18",
+              "title": "(a) Equality before Law: Article-14.",
               "sequence_number": 1,
               "depth": 2,
               "level_label": "Subtopic",
-              "children": [
+              "children": [],
+              "content_blocks": [
                 {
-                  "title": "(a) Equality before Law: Article-14",
-                  "sequence_number": 1,
-                  "depth": 3,
-                  "level_label": "Point",
-                  "children": [],
-                  "content_blocks": [
-                    {
-                      "content_md": "**Article-14** guarantees both **equality before law** as well as **equality in protection by law** irrespective of economic status, caste, colour, creed, religion, or sex. Practice of any kind of discrimination on these accounts makes it a **punishable offence**."
-                    }
-                  ]
-                },
-                {
-                  "title": "Article-15",
-                  "sequence_number": 2,
-                  "depth": 3,
-                  "level_label": "Point",
-                  "children": [],
-                  "content_blocks": [
-                    {
-                      "content_md": "**Article-15**: Prohibits **discrimination** on grounds mentioned in Article-14. For example, admission to educational institutions, allotment of shops etc., have to be made without discrimination mentioned in Article-14. This ensures **social and economic equality**."
-                    }
-                  ]
-                },
-                {
-                  "title": "(b) Equality of Opportunity: Article-16",
-                  "sequence_number": 3,
-                  "depth": 3,
-                  "level_label": "Point",
-                  "children": [],
-                  "content_blocks": [
-                    {
-                      "content_md": "**Article-16** provides for **equality of opportunity** for all citizens in matters relating to employment in an office under the **Central or State government**. It prohibits any sort of discrimination on grounds mentioned in Article-14. It also allows making of reservations of posts in favour of **Scheduled Castes and Tribes** by passing a law. At present 27 per cent posts in government service are reserved for **Other Backward Classes (OBCs)**, 15 percent for **Scheduled Castes** and 7.5 per cent for **Scheduled Tribes**."
-                    }
-                  ]
-                },
-                {
-                  "title": "(c) Abolition of Untouchability: Article-17",
-                  "sequence_number": 4,
-                  "depth": 3,
-                  "level_label": "Point",
-                  "children": [],
-                  "content_blocks": [
-                    {
-                      "content_md": "**Article-17** abolishes **untouchability** and its practice in any form. Any person preventing another from entering a place of public worship or using a public well, a public transport system, etc. can be punished by law."
-                    }
-                  ]
-                },
-                {
-                  "title": "(d) Abolition of Titles: Article-18",
-                  "sequence_number": 5,
-                  "depth": 3,
-                  "level_label": "Point",
-                  "children": [],
-                  "content_blocks": [
-                    {
-                      "content_md": "*   **Article-18** abolishes all titles like **Rai Sahib**, **Khan Bahadur**, **Maharaja**, etc. These titles are considered a negation of **equal status for all**.\n*   However, titles such as '**Bharat Ratna**', etc., given for **meritorious public service** or other titles in fields of **sports**, **academic honours** or **military service** are not covered by this provision."
-                    }
-                  ]
+                  "content_md": "**Article-14** guarantees both **equality before law** as well as equality in protection by law irrespective of economic status, caste, colour, creed, religion, or sex. Practice of any kind of discrimination on these accounts makes it a **punishable offence**."
                 }
-              ],
-              "content_blocks": []
+              ]
             },
             {
-              "title": "2. Right to Freedom-Articles 19 to 22",
+              "title": "Article-15:",
               "sequence_number": 2,
               "depth": 2,
               "level_label": "Subtopic",
-              "children": [
+              "children": [],
+              "content_blocks": [
                 {
-                  "title": "(a) Under Article-19, the Constitution guarantees six basic freedoms to its Citizens, viz.",
-                  "sequence_number": 1,
-                  "depth": 3,
-                  "level_label": "Point",
-                  "children": [
-                    {
-                      "title": "(i) Freedom of speech and expression.",
-                      "sequence_number": 1,
-                      "depth": 4,
-                      "level_label": "Sub-point",
-                      "children": [],
-                      "content_blocks": [
-                        {
-                          "content_md": "This freedom is guaranteed under **Article 19** of the Constitution.\n\nThere is no specific provision in our Constitution guaranteeing the **freedom of the Press** because freedom of the Press is included in the wider freedom of **'expression'** which is guaranteed by Article 19."
-                        },
-                        {
-                          "content_md": "### RIGHT TO INFORMATION\n**Right to Information (RTI)** has been included in **Article 19(1)** of the Constitution. **Right to Information** is an **implied Fundamental Right**. An implied Fundamental Right is the one which is a part of a named Fundamental Right or partakes of the same basic nature and character as that Fundamental Right. Since RTI is implicit in the **Right to Freedom of Speech and Expression (Article 19)**, it is an implied Fundamental Right because if one does not know the facts one cannot speak freely. The **Right to Information Act** came into force on **October 12, 2005**. This Act gives the citizens of India the right to:\n*   (a) seek and receive information from the government and other public authorities.\n*   (b) ask them certain questions.\n*   (c) take copies, including certified copies, of documents.\n*   (d) inspect documents.\n*   (e) take sample of materials.\n\nAny citizen can file an application under RTI with the **Public Information Officers (PIOs)**, **Assistant Public Information Officers (APIOs)** and seek the required information."
-                        }
-                      ]
-                    },
-                    {
-                      "title": "(ii) Freedom to assemble peacefully without arms.",
-                      "sequence_number": 2,
-                      "depth": 4,
-                      "level_label": "Sub-point",
-                      "children": [],
-                      "content_blocks": [
-                        {
-                          "content_md": ""
-                        }
-                      ]
-                    },
-                    {
-                      "title": "(iii) Freedom to form associations and unions.",
-                      "sequence_number": 3,
-                      "depth": 4,
-                      "level_label": "Sub-point",
-                      "children": [],
-                      "content_blocks": [
-                        {
-                          "content_md": "All citizens have the freedom to form associations and unions. This right is guaranteed under **Article-19** of the Constitution as one of the **six basic freedoms**."
-                        }
-                      ]
-                    },
-                    {
-                      "title": "(iv) Freedom to move freely throughout India.",
-                      "sequence_number": 4,
-                      "depth": 4,
-                      "level_label": "Sub-point",
-                      "children": [],
-                      "content_blocks": [
-                        {
-                          "content_md": "**Freedom to move freely throughout India**."
-                        }
-                      ]
-                    },
-                    {
-                      "title": "(v) Freedom to reside and settle in any part of India.",
-                      "sequence_number": 5,
-                      "depth": 4,
-                      "level_label": "Sub-point",
-                      "children": [],
-                      "content_blocks": [
-                        {
-                          "content_md": "The **Right to reside and settle in any part of India** cannot go against the laws of a particular territory where **larger national interest** is involved. For example, one cannot displace **Tribal communities** and settle in their territory."
-                        }
-                      ]
-                    },
-                    {
-                      "title": "(vi) Freedom to practise any profession, trade or business.",
-                      "sequence_number": 6,
-                      "depth": 4,
-                      "level_label": "Sub-point",
-                      "children": [],
-                      "content_blocks": [
-                        {
-                          "content_md": "All citizens have the freedom to practise any profession, or to carry on any occupation, trade or business.\n\nThe **Constitution** restricts the **State** from enacting laws which could curtail these freedoms. But at the same time, it does not mean that the State cannot make laws for the **public good** or for protection of interests of **trade and profession**. For example, the State can make laws to prescribe certain **minimum educational, technical or other qualifications** for entry to a certain profession."
-                        }
-                      ]
-                    }
-                  ],
-                  "content_blocks": []
+                  "content_md": "**Article-15** prohibits **discrimination** on grounds mentioned in Article-14. For example, admission to educational institutions, allotment of shops etc., have to be made without discrimination mentioned in Article-14. This ensures **social and economic equality**."
                 }
-              ],
-              "content_blocks": []
+              ]
             },
             {
-              "title": "RIGHT TO INFORMATION",
+              "title": "(b) Equality of Opportunity: Article-16",
               "sequence_number": 3,
               "depth": 2,
               "level_label": "Subtopic",
               "children": [],
               "content_blocks": [
                 {
-                  "content_md": "**Right to Information (RTI)** has been included in **Article 19(1)** of the Constitution. **Right to Information** is an **implied Fundamental Right**. An **implied Fundamental Right** is the one which is a part of a named Fundamental Right or partakes of the same basic nature and character as that Fundamental Right. Since **RTI** is implicit in the **Right to Freedom of Speech and Expression (Article19)**, it is an **implied Fundamental Right** because if one does not know the facts one cannot speak freely. The **Right to Information Act** came into force on **October 12, 2005**."
-                },
-                {
-                  "content_md": "This Act gives the citizens of India the right to:\n(a) seek and receive information from the government and other public authorities.\n(b) ask them certain questions.\n(c) take copies, including certified copies, of documents.\n(d) inspect documents.\n(e) take sample of materials.\n\nAny citizen can file an application under RTI with the **Public Information Officers (PIOs)**, **Assistant Public Information Officers (APIOs)** and seek the required information."
+                  "content_md": "**Article-16** provides for **equality of opportunity** for all citizens in matters relating to employment in an office under the **Central or State government**. It prohibits any sort of discrimination on grounds mentioned in Article-14. It also allows making of **reservations** of posts in favour of **Scheduled Castes** and **Scheduled Tribes** by passing a law. At present, the reservation for posts in government service is as follows:\n\n*   **27 per cent** for **Other Backward Classes (OBCs)**\n*   **15 percent** for **Scheduled Castes**\n*   **7.5 per cent** for **Scheduled Tribes**"
                 }
               ]
             },
             {
-              "title": "Supreme Court Declares Right to Privacy - A Fundamental Right",
+              "title": "(c) Abolition of Untouchability: Article-17",
               "sequence_number": 4,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Article-17** abolishes **untouchability** and its practice in any form. Any person preventing the other from entering a place of public worship or using a public well, a public transport system, etc. can be punished by law."
+                }
+              ]
+            },
+            {
+              "title": "(d) Abolition of Titles: Article-18",
+              "sequence_number": 5,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Article-18** abolishes all titles like **Rai Sahib**, **Khan Bahadur**, **Maharaja**, etc. These titles are considered a negation of **equal status for all**."
+                },
+                {
+                  "content_md": "However, titles such as **'Bharat Ratna'**, etc., given for **meritorious public service** or other titles in fields of **sports, academic honours or military service** are not covered by this provision."
+                },
+                {
+                  "content_md": "The **42nd Amendment Act, 1976** puts certain restriction on the **Right to Equality**. A person cannot move the Court if his/her right to equality is restricted to implement the **Directive Principles of State Policy**."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "2. Right to Freedom-Articles 19 to 22",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "(a) Under Article-19, the Constitution guarantees six basic freedoms to its Citizens, viz.",
+              "sequence_number": 1,
               "depth": 2,
               "level_label": "Subtopic",
               "children": [
                 {
-                  "title": "(a) Right to Privacy - A Fundamental Right",
+                  "title": "(i) Freedom of speech and expression.",
                   "sequence_number": 1,
                   "depth": 3,
                   "level_label": "Point",
                   "children": [],
                   "content_blocks": [
                     {
-                      "content_md": "The **Supreme Court** confirmed that the **right to privacy** is a **fundamental right** that does not need to be separately articulated but can be derived from **Articles 14, 19 and 21 of the Constitution**. It is a fundamental right about all information of a person and the choice that he/she makes. It protects an individual from the scrutiny of the State in their home, of their movements and over their reproductive choice, choice of partners, food habits, etc."
+                      "content_md": "**Right to Information (RTI)** has been included in **Article 19(1)** of the Constitution. **Right to Information** is an **implied Fundamental Right**. An implied Fundamental Right is the one which is a part of a named Fundamental Right or partakes of the same basic nature and character as that Fundamental Right. Since RTI is implicit in the **Right to Freedom of Speech and Expression (Article 19)**, it is an implied Fundamental Right because if one does not know the facts one cannot speak freely. The **Right to Information Act** came into force on **October 12, 2005**. This Act gives the citizens of India the right to:\n*   seek and receive information from the government and other public authorities.\n*   ask them certain questions.\n*   take copies, including certified copies, of documents.\n*   inspect documents.\n*   take sample of materials.\n\nAny citizen can file an application under RTI with the **Public Information Officers (PIOs)**, **Assistant Public Information Officers (APIOs)** and seek the required information."
+                    },
+                    {
+                      "content_md": "There is no specific provision in our Constitution guaranteeing the **freedom of the Press** because **freedom of the Press** is included in the wider freedom of '**expression**' which is guaranteed by **Article 19**."
                     }
                   ]
                 },
                 {
-                  "title": "(b) Not an Absolute Right - It is Subjected to Reasonable Restrictions",
+                  "title": "(ii) Freedom to assemble peacefully without arms.",
                   "sequence_number": 2,
                   "depth": 3,
                   "level_label": "Point",
                   "children": [],
                   "content_blocks": [
                     {
-                      "content_md": "The Supreme Court clarified that the **fundamental right to privacy** is **not absolute** and will always be subject to **reasonable restrictions**. The State can impose restrictions on it to protect **legitimate State interests** but it can only do so by following the points given below:\n1. Existence of a law that justifies an encroachment on privacy;\n2. A legitimate State need that ensures that the nature of this law falls within the zone of reasonableness and without arbitrary State action; and\n3. The means adopted by the State are proportional to the objects and needs sought to be fulfilled by the law.\n\nAccording to the judgement, the legitimate aims of the state should be “**protecting national security**, preventing and investigating crime, encouraging innovation and the spread of knowledge, and preventing the dissipation of social welfare benefits.”"
+                      "content_md": ""
+                    }
+                  ]
+                },
+                {
+                  "title": "(iii) Freedom to form associations and unions.",
+                  "sequence_number": 3,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": ""
+                    }
+                  ]
+                },
+                {
+                  "title": "(iv) Freedom to move freely throughout India.",
+                  "sequence_number": 4,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": ""
+                    }
+                  ]
+                },
+                {
+                  "title": "(v) Freedom to reside and settle in any part of India.",
+                  "sequence_number": 5,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "The **Right to reside and settle in any part of India** cannot go against the laws of a particular territory where **larger national interest** is involved. For example, one cannot displace **Tribal communities** and settle in their territory."
+                    }
+                  ]
+                },
+                {
+                  "title": "(vi) Freedom to practise any profession, trade or business.",
+                  "sequence_number": 6,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "Under **Article-19**, the Constitution guarantees the **freedom to practise any profession, trade or business**.\n\nThe Constitution restricts the State from enacting laws which could curtail these freedoms. However, at the same time, it does not mean that the State cannot make laws for the **public good** or for the **protection of interests of trade and profession**. For example, the State can make laws to prescribe certain minimum **educational, technical or other qualifications** for entry to a certain profession."
                     }
                   ]
                 }
@@ -376,13 +302,25 @@
               "content_blocks": []
             },
             {
+              "title": "RIGHT TO INFORMATION",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Right to Information (RTI)** has been included in **Article 19(1)** of the Constitution. Right to Information is an **implied Fundamental Right**. An implied Fundamental Right is the one which is a part of a named Fundamental Right or partakes of the same basic nature and character as that Fundamental Right. Since RTI is implicit in the **Right to Freedom of Speech and Expression (Article 19)**, it is an implied Fundamental Right because if one does not know the facts one cannot speak freely. The **Right to Information Act** came into force on **October 12, 2005**. This Act gives the citizens of India the right to:\n\n*   (a) seek and receive information from the government and other public authorities.\n*   (b) ask them certain questions.\n*   (c) take copies, including certified copies, of documents.\n*   (d) inspect documents.\n*   (e) take sample of materials.\n\nAny citizen can file an application under RTI with the **Public Information Officers (PIOs)**, **Assistant Public Information Officers (APIOs)** and seek the required information."
+                }
+              ]
+            },
+            {
               "title": "Limitations",
-              "sequence_number": 5,
+              "sequence_number": 3,
               "depth": 2,
               "level_label": "Subtopic",
               "children": [
                 {
-                  "title": "(i) Emergency: Article-19 can be suspended during Emergency.",
+                  "title": "(i) Emergency:",
                   "sequence_number": 1,
                   "depth": 3,
                   "level_label": "Point",
@@ -394,7 +332,7 @@
                   ]
                 },
                 {
-                  "title": "(ii) Not Absolute: The security of the State and national interest being of paramount interest, reasonable restrictions could be imposed on the implementation of this right.",
+                  "title": "(ii) Not Absolute:",
                   "sequence_number": 2,
                   "depth": 3,
                   "level_label": "Point",
@@ -406,19 +344,19 @@
                   ]
                 },
                 {
-                  "title": "(iii) Laws of Parliament: Legislations like Preventive Detention; Essential Services Maintenance Act (ESMA, a law to ensure the delivery of essential services like public transport, health services, etc., which if obstructed would affect the normal life of the people) impose certain restrictions on the Right to Freedom.",
+                  "title": "(iii) Laws of Parliament:",
                   "sequence_number": 3,
                   "depth": 3,
                   "level_label": "Point",
                   "children": [],
                   "content_blocks": [
                     {
-                      "content_md": "Legislations like **Preventive Detention**; **Essential Services Maintenance Act (ESMA)**, a law to ensure the delivery of essential services like public transport, health services, etc., which if obstructed would affect the normal life of the people, impose certain restrictions on the Right to Freedom."
+                      "content_md": "Legislations like **Preventive Detention**; **Essential Services Maintenance Act (ESMA)**, a law to ensure the delivery of essential services like public transport, health services, etc., which if obstructed would affect the normal life of the people) impose certain restrictions on the **Right to Freedom**."
                     }
                   ]
                 },
                 {
-                  "title": "(b) Protection in Respect of Conviction for Offences: Under Article-20 the following protections are available to a citizen:",
+                  "title": "(b) Protection in Respect of Conviction for Offences:",
                   "sequence_number": 4,
                   "depth": 3,
                   "level_label": "Point",
@@ -431,7 +369,7 @@
                       "children": [],
                       "content_blocks": [
                         {
-                          "content_md": "Under **Article-20**, a citizen is protected against a **greater penalty** than what is prescribed under the law."
+                          "content_md": "The imposition of a **greater penalty** than what is prescribed under the law for an offence is prohibited."
                         }
                       ]
                     },
@@ -485,12 +423,45 @@
                       "sequence_number": 1,
                       "depth": 4,
                       "level_label": "Sub-point",
-                      "children": [],
-                      "content_blocks": [
+                      "children": [
                         {
-                          "content_md": "In the case of **arrest under ordinary circumstances**, the arrested person has the following rights:"
+                          "title": "(a) To be informed of his/her offence.",
+                          "sequence_number": 1,
+                          "depth": 5,
+                          "level_label": "Sub-point",
+                          "children": [],
+                          "content_blocks": [
+                            {
+                              "content_md": ""
+                            }
+                          ]
+                        },
+                        {
+                          "title": "(b) To be presented before a magistrate within 24 hours from the time of arrest.",
+                          "sequence_number": 2,
+                          "depth": 5,
+                          "level_label": "Sub-point",
+                          "children": [],
+                          "content_blocks": [
+                            {
+                              "content_md": "To be presented before a **magistrate** within **24 hours** from the time of arrest. Such a person cannot be kept in custody for more than 24 hours without the permission of the magistrate."
+                            }
+                          ]
+                        },
+                        {
+                          "title": "(c) The right to consult a lawyer and prepare for defence at the trial.",
+                          "sequence_number": 3,
+                          "depth": 5,
+                          "level_label": "Sub-point",
+                          "children": [],
+                          "content_blocks": [
+                            {
+                              "content_md": "The right to **consult a lawyer** and prepare for **defence at the trial**."
+                            }
+                          ]
                         }
-                      ]
+                      ],
+                      "content_blocks": []
                     },
                     {
                       "title": "(ii) Preventive Detention:",
@@ -500,10 +471,7 @@
                       "children": [],
                       "content_blocks": [
                         {
-                          "content_md": "In case a person is detained under **Preventive Detention** such a person can be kept in custody for a period of **three months without trial**. Such a person has the rights as follows."
-                        },
-                        {
-                          "content_md": "(a) **Preventive Detention** does not mean that a person stands accused. It is only a **precautionary measure**.\n(b) Detention beyond three months can be extended only by an **Advisory Board** constituted for the purpose and consisting of a judge of the **High Court**.\n(c) **Grounds of detention** have to be specified and the detainee informed of these grounds. The latter also has the **right to make representation** against the detention order."
+                          "content_md": "In case a person is detained under **Preventive Detention** such a person can be kept in custody for a period of **three months without trial**. Such a person has the rights as follows.\n\n*   (a) **Preventive Detention** does not mean that a person stands accused. It is only a **precautionary measure**.\n*   (b) Detention beyond three months can be extended only by an **Advisory Board** constituted for the purpose and consisting of a judge of the **High Court**.\n*   (c) **Grounds of detention** have to be specified and the detainee informed of these grounds. The latter also has the **right to make representation** against the detention order."
                         }
                       ]
                     }
@@ -512,67 +480,79 @@
                 }
               ],
               "content_blocks": []
-            },
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "3. Right Against Exploitation-Articles 23 and 24",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
             {
-              "title": "3. Right Against Exploitation-Articles 23 and 24",
-              "sequence_number": 6,
-              "depth": 2,
-              "level_label": "Subtopic",
-              "children": [
-                {
-                  "title": "(i) Article 23-(a)",
-                  "sequence_number": 1,
-                  "depth": 3,
-                  "level_label": "Point",
-                  "children": [],
-                  "content_blocks": [
-                    {
-                      "content_md": "Freedom from **slavery, beggary** or other forms of **forced labour**."
-                    }
-                  ]
-                },
-                {
-                  "title": "(ii) Article 24",
-                  "sequence_number": 2,
-                  "depth": 3,
-                  "level_label": "Point",
-                  "children": [],
-                  "content_blocks": [
-                    {
-                      "content_md": "This article prohibits the **employment of children below the age of 14 years** in **factories, mines and other hazardous occupations**. The practice of **bonded labour** has also been declared **unlawful**."
-                    }
-                  ]
-                }
-              ],
-              "content_blocks": []
-            },
-            {
-              "title": "4. Right to Freedom of Religion",
-              "sequence_number": 7,
+              "title": "(i) Article 23-(a)",
+              "sequence_number": 1,
               "depth": 2,
               "level_label": "Subtopic",
               "children": [],
               "content_blocks": [
                 {
-                  "content_md": "**Articles 25 to 28** indicate the following:\n\n1. All persons are entitled to **freedom of conscience** and the right to freely **profess, practise and propagate** their religion.\n2. Subject to public order, morality and health, every **religious denomination** or any section thereof shall have the right-\n   (a) to establish and maintain institutions for religious and charitable purposes;\n   (b) to manage its own affairs in matters of religion;\n   (c) to own and acquire movable and immovable property; and\n   (d) to administer such property in accordance with law.\n3. No person shall be compelled to pay **taxes for the promotion of a particular religion**.\n4. No **religious instruction** shall be provided in any institution wholly maintained out of **State funds**.\n5. Even though religious instruction may be imparted in educational institutions recognised by or receiving funds from the State, no person attending such institutions shall be compelled to receive that religious instruction without the **consent of himself/herself** or of his/her **guardian** (in case the pupil be a minor)."
+                  "content_md": "**Article 23-(a)** grants freedom from **slavery**, **beggary** or other forms of **forced labour**."
                 }
               ]
             },
             {
-              "title": "5. Cultural and Educational Rights",
-              "sequence_number": 8,
+              "title": "(ii) Article 24",
+              "sequence_number": 2,
               "depth": 2,
               "level_label": "Subtopic",
               "children": [],
               "content_blocks": [
                 {
-                  "content_md": "**Articles 29 and 30: Protection of Minorities:** **Article 29** gives a section of the people or whole of them the right to preserve their distinct **language, script and culture**. In the matter of admission to any educational institution maintained by the State, admission cannot be denied on grounds of religion, colour, caste, creed or sex.\n\n**Minorities and Educational Institutions:** **Article 30** gives all minorities the right to establish and administer the educational institutions of their choice. The State is also prohibited from discriminating against educational institutions in the matter of grants."
+                  "content_md": "This article prohibits **employment of children below the age of 14 years** in **factories, mines and other hazardous occupations**. The practice of **bonded labour** has also been declared unlawful."
                 }
               ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "4. Right to Freedom of Religion",
+          "sequence_number": 4,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**Articles 25 to 28** indicate the following:\n\n1.  All persons are entitled to **freedom of conscience** and the right to freely **profess, practise and propagate** their religion.\n2.  Subject to **public order, morality and health**, every **religious denomination** or any section thereof shall have the right—\n    (a) to establish and maintain institutions for religious and charitable purposes;\n    (b) to manage its own affairs in matters of religion;\n    (c) to own and acquire movable and immovable property; and\n    (d) to administer such property in accordance with law.\n3.  No person shall be compelled to pay **taxes** for the promotion of a particular religion.\n4.  No **religious instruction** shall be provided in any institution wholly maintained out of **State funds**.\n5.  Even though religious instruction may be imparted in educational institutions recognised by or receiving funds from the State, no person attending such institutions shall be compelled to receive that religious instruction without the consent of himself/herself or of his/her **guardian** (in case the pupil be a minor)."
+            }
+          ]
+        },
+        {
+          "title": "5. Cultural and Educational Rights",
+          "sequence_number": 5,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**Articles 29 and 30: Protection of Minorities**: **Article 29** gives a section of the people or whole of them the right to preserve their **distinct language, script and culture**. In the matter of admission to any educational institution maintained by the State, admission cannot be denied on grounds of religion, colour, caste, creed or sex.\n\n**Minorities and Educational Institutions**: **Article 30** gives all minorities the right to establish and administer the educational institutions of their choice. The State is also prohibited from discriminating against educational institutions in the matter of grants."
             },
             {
-              "title": "6. Right to Constitutional Remedies",
-              "sequence_number": 9,
+              "content_md": "[Image: Cultural and Educational Rights]"
+            }
+          ]
+        },
+        {
+          "title": "6. Right to Constitutional Remedies Article 32",
+          "sequence_number": 6,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "IMPORTANT WRITS",
+              "sequence_number": 1,
               "depth": 2,
               "level_label": "Subtopic",
               "children": [
@@ -584,7 +564,7 @@
                   "children": [],
                   "content_blocks": [
                     {
-                      "content_md": "**Habeas Corpus**: It means **'to have the body'**. By issuing such a writ, the High Court or the Supreme Court can get the body of any person released if it has been **unlawfully detained** by any person or a group of persons or by the State. This writ is thus a great safeguard for the **personal freedom** of a citizen."
+                      "content_md": "**Habeas Corpus:** It means **‘to have the body’**. By issuing such a writ, the **High Court** or the **Supreme Court** can get the body of any person released if it has been **unlawfully detained** by any person or a group of persons or by the State. This writ is thus a great safeguard for the **personal freedom** of a citizen."
                     }
                   ]
                 },
@@ -596,7 +576,7 @@
                   "children": [],
                   "content_blocks": [
                     {
-                      "content_md": "In Latin it means **‘we order’**. It is a **command** or an order from a **Superior Court** to a **lower or an administrative authority** to perform a certain duty."
+                      "content_md": "In Latin it means ‘**we order**’. It is a **command** or an **order** from a **Superior Court** to a **lower** or an **administrative authority** to perform a certain duty."
                     }
                   ]
                 },
@@ -620,7 +600,7 @@
                   "children": [],
                   "content_blocks": [
                     {
-                      "content_md": "The **Writ of Certiorari** is issued by a **superior court** to a **judicial authority** desiring \"to be informed of what is going on.\" Though it appears similar to the **Writ of Prohibition**, there is a difference. The **Writ of Prohibition** is issued when certain proceedings are going on. The **Writ of Certiorari** is issued after the order has already been passed by the lower court."
+                      "content_md": "This writ is issued by a **superior court** to a judicial authority desiring \"to be informed of what is going on.\" Though it appears similar to the **Writ of Prohibition**, there is a difference. **Writ of Prohibition** is issued when certain proceedings are going on. The **Writ of Certiorari** is issued after the order has already been passed by the **lower court**."
                     }
                   ]
                 },
@@ -632,413 +612,365 @@
                   "children": [],
                   "content_blocks": [
                     {
-                      "content_md": "**Quo-warranto** means **\"by what order.\"** It is issued when a person has **usurped any office**. This writ, thus prevents public officers from **forcibly or wrongly holding a high public office**."
+                      "content_md": "The writ of **Quo-warranto** means **\"by what order\"**. It is issued when a person has **usurped any office**. This writ, thus, prevents **public officers** from forcibly or wrongly holding a high public office."
                     }
                   ]
                 }
               ],
               "content_blocks": []
-            },
-            {
-              "title": "7. Right to Education",
-              "sequence_number": 10,
-              "depth": 2,
-              "level_label": "Subtopic",
-              "children": [],
-              "content_blocks": [
-                {
-                  "content_md": "This right has been granted by the **Constitution (Eighty-six Amendment) Act, 2002**. By this Act a new **article 21A** has been inserted in the Constitution, which states, \"The State shall provide **free and compulsory education** to all children of the age of **6 to 14 years** in such manner as the state may, by law, determine\"."
-                }
-              ]
             }
           ],
           "content_blocks": []
         },
         {
-          "title": "RIGHT TO PROPERTY",
-          "sequence_number": 4,
-          "depth": 1,
-          "level_label": "Topic",
-          "children": [],
-          "content_blocks": [
-            {
-              "content_md": "**Article 31** of the Constitution had earlier empowered the citizens of India to purchase, hold and dispose off movable as well as immovable property as a **Fundamental Right**. However, in keeping with the socialistic philosophy of the Constitution, the Right to Property was deleted from the list of Fundamental Rights by the **44th Amendment Act 1978**. This amendment made the **Right to Property (Article 300A)** a **Legal right**."
-            }
-          ]
-        },
-        {
-          "title": "CHECK ON ARBITRARY ACTIONS OF THE STATE",
-          "sequence_number": 5,
-          "depth": 1,
-          "level_label": "Topic",
-          "children": [],
-          "content_blocks": [
-            {
-              "content_md": "The **Fundamental Rights** secured to the individual are in the nature of **limitations or restrictions** on the **arbitrary actions of the State**. **Article 13(2)** declares that all laws and executive orders in force immediately before the commencement of the Constitution, inconsistent with the fundamental rights are **void** to the extent of such inconsistency. This article, thus, provides for **judicial review** of all legislations in India. However, the Constitution has empowered the State to make valid exceptions to the rights on the grounds such as **security of the State**, **public order**, **public morality**, etc."
-            }
-          ]
-        },
-        {
-          "title": "RESTRICTIONS IMPOSED",
-          "sequence_number": 6,
-          "depth": 1,
-          "level_label": "Topic",
-          "children": [],
-          "content_blocks": [
-            {
-              "content_md": "**Fundamental Rights** are not absolute. Reasonable restrictions can be imposed on them because of the general welfare of the society.\n\n1. The **Fundamental Rights** can be suspended when the **President** declares a state of **Emergency** in the country in case of war, external aggression or armed rebellion. Such a suspension of rights is temporary. As soon as the **Emergency** is over, the rights are restored.\n2. For the security of the State and national interest reasonable restrictions on the **Fundamental Rights** can be imposed. **Parliament** has the power to modify the application of **Fundamental Rights** to the members of the **Armed Forces**, **Police Force** or **intelligence organisations** so as to ensure proper discharge of their duties.\n3. There are some laws which restrict the use of these rights in public interest. The **Maintenance of Internal Security Act (MISA)**, **Defence of India Rules (DIR)**, **Preventive Detention Act (PDA)**, the **National Security Act 1980 (NSA)**, **Essential Services Maintenance Act (ESMA)**, etc., are made to safeguard the interests of the nation, but they curtail the use of the **Fundamental Rights**."
-            }
-          ]
-        },
-        {
-          "title": "SUSPENSION OF FUNDAMENTAL RIGHTS",
+          "title": "7. Right to Education",
           "sequence_number": 7,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "The **Fundamental rights** guaranteed by the Constitution remain suspended, while a **proclamation of Emergency** is made by the **President** under **Article 352**. As soon as a proclamation of such an emergency is made, the **Legislature** is free to make any law and the **Executive** has the liberty to take any action, even though it restricts the right to freedom of speech and expression, assembly, association, movement, residence, profession or occupation. These restrictions remain in effect only as long as the emergency is in operation.\n\nWhen a proclamation of emergency is in operation, the President may by Order declare that the right to move a court for the enforcement of the Fundamental Rights shall remain suspended. In case of such a situation, the **Supreme Court** and the **High Courts** shall be powerless to issue the **writs** or to make any other order for the enforcement of any fundamental right."
+              "content_md": "This right has been granted by the **Constitution (Eighty-six Amendment) Act, 2002**. By this Act a new **article 21A** has been inserted in the Constitution, which states, \"The State shall provide **free and compulsory education** to all children of the **age of 6 to 14 years** in such manner as the state may, by law, determine\"."
             }
           ]
-        },
-        {
-          "title": "FUNDAMENTAL DUTIES",
-          "sequence_number": 8,
-          "depth": 1,
-          "level_label": "Topic",
-          "children": [
-            {
-              "title": "KINDS OF DUTIES",
-              "sequence_number": 1,
-              "depth": 2,
-              "level_label": "Subtopic",
-              "children": [],
-              "content_blocks": [
-                {
-                  "content_md": "The **Fundamental Duties** were added to the Constitution by the **42nd Amendment Act, 1976** and inserted in **Part IV** of the Constitution. The **Article 51-A** of the Constitution states the following ten duties of a citizen:\n(a) to abide by the Constitution and respect its ideals and institutions, the **National Flag** and the **National Anthem**;\n(b) to cherish and follow the **noble ideals** which inspired our national struggle for freedom;\n(c) to uphold and protect the **sovereignty, unity and integrity** of India;\n(d) to **defend the country** and render national service when called upon to do so;\n(e) to promote **harmony and spirit of common brotherhood** amongst all the people of India transcending religious, linguistic and regional or sectional diversities, to renounce practices derogatory to the dignity of women;\n(f) to value and preserve the rich heritage of our **composite culture**;\n(g) to protect and improve the **natural environment** including forests, lakes, rivers and wildlife, and have compassion for living creatures;\n(h) to develop the **scientific temper, humanism** and the spirit of inquiry and reform;\n(i) to safeguard **public property** and to abjure violence;\n(j) to strive towards **excellence** in all spheres of individual and collective activity, so that the nation constantly rises to higher levels of endeavour and achievement.\n(k) it is the duty of a parent or guardian to provide **opportunities for education** to his/her child or, as the case may be, ward between the age of six and fourteen years.\n\nThe clause (k) was added by the **Constitution (Eighty-sixth Amendment) Act, 2002**."
-                },
-                {
-                  "content_md": "[Image: Fundamental Duties]"
-                }
-              ]
-            },
-            {
-              "title": "IMPORTANCE OF FUNDAMENTAL DUTIES",
-              "sequence_number": 2,
-              "depth": 2,
-              "level_label": "Subtopic",
-              "children": [],
-              "content_blocks": [
-                {
-                  "content_md": "The **Fundamental Duties** are enlisted in the Constitution of India:\n1. to make the citizens aware of their **social and economic obligations**;\n2. to warn them to do and not to do certain things in the interest of their country, fellow citizens and themselves;\n3. to protect and awaken the people to their **cultural heritage**;\n4. to tame the **unruly elements** in society;\n5. to strengthen **national harmony** as they stir up patriotism."
-                }
-              ]
-            }
-          ],
-          "content_blocks": []
         }
       ],
       "content_blocks": []
+    },
+    {
+      "title": "CHECK ON ARBITRARY ACTIONS OF THE STATE",
+      "sequence_number": 4,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "The **Fundamental Rights** secured to the individual are in the nature of limitations or restrictions on the **arbitrary actions of the State**. **Article 13(2)** declares that all laws and executive orders in force immediately before the commencement of the Constitution, inconsistent with the fundamental rights are void to the extent of such inconsistency. This article, thus, provides for **judicial review** of all legislations in India. However, the Constitution has empowered the State to make valid exceptions to the rights on the grounds such as security of the State, public order, public morality, etc."
+        }
+      ]
+    },
+    {
+      "title": "RESTRICTIONS IMPOSED",
+      "sequence_number": 5,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "**Fundamental Rights** are not absolute. Reasonable restrictions can be imposed on them because of the general welfare of the society.\n\n1.  The **Fundamental Rights** can be suspended when the **President** declares a state of **Emergency** in the country in case of war, external aggression or armed rebellion. Such a suspension of rights is temporary. As soon as the **Emergency** is over, the rights are restored.\n2.  For the security of the State and national interest reasonable restrictions on the **Fundamental Rights** can be imposed. **Parliament** has the power to modify the application of **Fundamental Rights** to the members of the **Armed Forces**, **Police Force** or intelligence organisations so as to ensure proper discharge of their duties.\n3.  There are some laws which restrict the use of these rights in public interest. The **Maintenance of Internal Security Act (MISA)**, **Defence of India Rules (DIR)**, **Preventive Detention Act (PDA)**, the **National Security Act 1980 (NSA)**, **Essential Services Maintenance Act (ESMA)**, etc., are made to safeguard the interests of the nation, but they curtail the use of the **Fundamental Rights**."
+        }
+      ]
+    },
+    {
+      "title": "SUSPENSION OF FUNDAMENTAL RIGHTS",
+      "sequence_number": 6,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "The **Fundamental rights** guaranteed by the Constitution remain suspended, while a **proclamation of Emergency** is made by the **President** under **Article 352**. As soon as a proclamation of such an emergency is made, the **Legislature** is free to make any law and the **Executive** has the liberty to take any action, even though it restricts the right to freedom of speech and expression, assembly, association, movement, residence, profession or occupation. These restrictions remain in effect only as long as the emergency is in operation.\n\nWhen a proclamation of emergency is in operation, the **President** may by **Order** declare that the **right to move a court** for the enforcement of the Fundamental Rights shall remain suspended. In case of such a situation, the **Supreme Court** and the **High Courts** shall be powerless to issue the **writs** or to make any other order for the enforcement of any fundamental right."
+        }
+      ]
+    },
+    {
+      "title": "FUNDAMENTAL DUTIES",
+      "sequence_number": 7,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "**Duties** and **rights** go hand-in-hand; there can be no rights in a society where there are no duties. For example, if we have a right to life, it is our duty to respect others' life and not to injure another person. Similarly, the right to freedom implies that we have to maintain a self-restraint and accord similar rights to others which we want for ourselves.\n\nIt was in keeping with these ideals in view that **Fundamental Duties** were incorporated in the Constitution of India.\n\n[Image: Fundamental Duties]"
+        }
+      ]
+    },
+    {
+      "title": "KINDS OF DUTIES",
+      "sequence_number": 8,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "The **Fundamental Duties** were added to the Constitution by the **42nd Amendment Act, 1976** and inserted in **Part IV** of the Constitution. The **Article 51-A** of the Constitution states the following ten duties of a citizen:"
+        },
+        {
+          "content_md": "(a) to abide by the Constitution and respect its ideals and institutions, the National Flag and the National Anthem;\n(b) to cherish and follow the noble ideals which inspired our national struggle for freedom;\n(c) to uphold and protect the sovereignty, unity and integrity of India;\n(d) to defend the country and render national service when called upon to do so;\n(e) to promote harmony and spirit of common brotherhood amongst all the people of India transcending religious, linguistic and regional or sectional diversities, to renounce practices derogatory to the dignity of women;\n(f) to value and preserve the rich heritage of our composite culture;\n(g) to protect and improve the natural environment including forests, lakes, rivers and wildlife, and have compassion for living creatures;\n(h) to develop the scientific temper, humanism and the spirit of inquiry and reform;\n(i) to safeguard public property and to abjure violence;\n(j) to strive towards excellence in all spheres of individual and collective activity, so that the nation constantly rises to higher levels of endeavour and achievement.\n(k) it is the duty of a parent or guardian to provide opportunities for education to his/her child or, as the case may be, ward between the age of six and fourteen years.\n\nThe clause (k) was added by the Constitution (**Eighty-sixth Amendment) Act, 2002**."
+        },
+        {
+          "content_md": "[Image: Fundamental Duties]"
+        }
+      ]
+    },
+    {
+      "title": "IMPORTANCE OF FUNDAMENTAL DUTIES",
+      "sequence_number": 9,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "The **Fundamental Duties** are enlisted in the Constitution of India:\n1. to make the citizens aware of their social and economic obligations;\n2. to warn them to do and not to do certain things in the interest of their country, fellow citizens and themselves;\n3. to protect and awaken the people to their cultural heritage;\n4. to tame the unruly elements in society;\n5. to strengthen national harmony as they stir up patriotism."
+        }
+      ]
     }
   ],
   "additional_sections": [
     {
-      "title": "What Privacy includes",
-      "content_md": "What Privacy includes\n1. Preservation of personal intimacies, the sanctity of family life, marriage, procreation, home and sexual orientation.\n2. A right to be left alone.\n3. Safeguards individual autonomy, protecting vital aspects of his/her life.\n4. Personal choices governing a way of life are intrinsic to privacy.\n5. It recognises plurality and diversity of our culture."
+      "title": "Supreme Court Declares Right to Privacy - A Fundamental Right",
+      "content_md": "On August 24, 2017, the Supreme Court of India declared the Right to Privacy as a fundamental right.\n\n**(a) Right to Privacy - A Fundamental Right**\nThe Supreme Court confirmed that the right to privacy is a fundamental right that does not need to be separately articulated but can be derived from Articles 14, 19 and 21 of the Constitution. It is a fundamental right about all information of a person and the choice that he/she makes. It protects an individual from the scrutiny of the State in their home, of their movements and over their reproductive choice, choice of partners, food habits, etc.\n\n**(b) Not an Absolute Right - It is Subjected to Reasonable Restrictions**\nThe Supreme Court clarified that the fundamental right to privacy is not absolute and will always be subject to reasonable restrictions. The State can impose restrictions on it to protect legitimate State interests but it can only do so by following the points given below:\n1. Existence of a law that justifies an encroachment on privacy;\n2. A legitimate State need that ensures that the nature of this law falls within the zone of reasonableness and without arbitrary State action; and\n3. The means adopted by the State are proportional to the objects and needs sought to be fulfilled by the law.\n\nAccording to the judgement, the legitimate aims of the state should be “protecting national security, preventing and investigating crime, encouraging innovation and the spread of knowledge, and preventing the dissipation of social welfare benefits.”\n\n**What Privacy includes**\n1. Preservation of personal intimacies, the sanctity of family life, marriage, procreation, home and sexual orientation.\n2. A right to be left alone.\n3. Safeguards individual autonomy, protecting vital aspects of his/her life.\n4. Personal choices governing a way of life are intrinsic to privacy.\n5. It recognises plurality and diversity of our culture."
     },
     {
       "title": "LIMITATIONS",
-      "content_md": "LIMITATIONS\n(i) Public interest: The authority or the State can take recourse to public interest and refuse to disclose the grounds of detention.\n(ii) Power of the Parliament: The legislature or the Parliament has the power to specify the maximum period of Preventive Detention."
+      "content_md": "**(i) Public interest:** The authority or the State can take recourse to public interest and refuse to disclose the grounds of detention.\n\n**(ii) Power of the Parliament:** The legislature or the Parliament has the power to specify the maximum period of Preventive Detention."
     },
     {
-      "title": "(b) Trafficking in human beings",
-      "content_md": "(b) Trafficking in human beings means buying and selling of human beings is prohibited. It also prohibits use of women or girls for immoral purposes."
-    },
-    {
-      "title": "Articles 29 and 30: Protection of Minorities:",
-      "content_md": "**Articles 29 and 30: Protection of Minorities:** Article 29 gives a section of the people or whole of them the right to preserve their distinct language, script and culture. In the matter of admission to any educational institution maintained by the State, admission cannot be denied on grounds of religion, colour, caste, creed or sex.\n\n**Minorities and Educational Institutions:** Article 30 gives all minorities the right to establish and administer the educational institutions of their choice. The State is also prohibited from discriminating against educational institutions in the matter of grants."
+      "title": "RIGHT TO PROPERTY",
+      "content_md": "Article 31 of the Constitution had earlier empowered the citizens of India to purchase, hold and dispose off movable as well as immovable property as a Fundamental Right. However, in keeping with the socialistic philosophy of the Constitution, the Right to Property was deleted from the list of Fundamental Rights by the 44th Amendment Act 1978. This amendment made the Right to Property (Article 300A) a Legal right."
     }
   ],
   "needs_review": [
-    "(ii) Freedom to assemble peacefully without arms."
+    "(ii) Freedom to assemble peacefully without arms.",
+    "(iii) Freedom to form associations and unions.",
+    "(iv) Freedom to move freely throughout India.",
+    "(a) To be informed of his/her offence."
   ],
   "manifest": {
     "syllabus_leaves": [
       {
-        "path": "Salient Features of the Constitution-I > Single Citizenship",
+        "path": "SINGLE CITIZENSHIP",
         "path_titles": [
-          "Salient Features of the Constitution-I",
-          "Single Citizenship"
+          "SINGLE CITIZENSHIP"
         ],
-        "title": "Single Citizenship",
+        "title": "SINGLE CITIZENSHIP",
         "sequence_number": 1,
-        "depth": 1,
-        "level_label": "Topic",
+        "depth": 0,
+        "level_label": "Section",
         "has_notes": true
       },
       {
-        "path": "Salient Features of the Constitution-I > Universal Adult Franchise",
+        "path": "UNIVERSAL ADULT FRANCHISE",
         "path_titles": [
-          "Salient Features of the Constitution-I",
-          "Universal Adult Franchise"
+          "UNIVERSAL ADULT FRANCHISE"
         ],
-        "title": "Universal Adult Franchise",
+        "title": "UNIVERSAL ADULT FRANCHISE",
         "sequence_number": 2,
-        "depth": 1,
-        "level_label": "Topic",
+        "depth": 0,
+        "level_label": "Section",
         "has_notes": true
       },
       {
-        "path": "Salient Features of the Constitution-I > Fundamental Rights > 1. The Right to Equality-Articles 14 to 18 > (a) Equality before Law: Article-14",
+        "path": "FUNDAMENTAL RIGHTS > 1. The Right to Equality-Articles 14 to 18 > (a) Equality before Law: Article-14.",
         "path_titles": [
-          "Salient Features of the Constitution-I",
-          "Fundamental Rights",
+          "FUNDAMENTAL RIGHTS",
           "1. The Right to Equality-Articles 14 to 18",
-          "(a) Equality before Law: Article-14"
+          "(a) Equality before Law: Article-14."
         ],
-        "title": "(a) Equality before Law: Article-14",
+        "title": "(a) Equality before Law: Article-14.",
         "sequence_number": 1,
-        "depth": 3,
-        "level_label": "Point",
+        "depth": 2,
+        "level_label": "Subtopic",
         "has_notes": true
       },
       {
-        "path": "Salient Features of the Constitution-I > Fundamental Rights > 1. The Right to Equality-Articles 14 to 18 > Article-15",
+        "path": "FUNDAMENTAL RIGHTS > 1. The Right to Equality-Articles 14 to 18 > Article-15:",
         "path_titles": [
-          "Salient Features of the Constitution-I",
-          "Fundamental Rights",
+          "FUNDAMENTAL RIGHTS",
           "1. The Right to Equality-Articles 14 to 18",
-          "Article-15"
+          "Article-15:"
         ],
-        "title": "Article-15",
+        "title": "Article-15:",
         "sequence_number": 2,
-        "depth": 3,
-        "level_label": "Point",
+        "depth": 2,
+        "level_label": "Subtopic",
         "has_notes": true
       },
       {
-        "path": "Salient Features of the Constitution-I > Fundamental Rights > 1. The Right to Equality-Articles 14 to 18 > (b) Equality of Opportunity: Article-16",
+        "path": "FUNDAMENTAL RIGHTS > 1. The Right to Equality-Articles 14 to 18 > (b) Equality of Opportunity: Article-16",
         "path_titles": [
-          "Salient Features of the Constitution-I",
-          "Fundamental Rights",
+          "FUNDAMENTAL RIGHTS",
           "1. The Right to Equality-Articles 14 to 18",
           "(b) Equality of Opportunity: Article-16"
         ],
         "title": "(b) Equality of Opportunity: Article-16",
-        "sequence_number": 3,
-        "depth": 3,
-        "level_label": "Point",
-        "has_notes": true
-      },
-      {
-        "path": "Salient Features of the Constitution-I > Fundamental Rights > 1. The Right to Equality-Articles 14 to 18 > (c) Abolition of Untouchability: Article-17",
-        "path_titles": [
-          "Salient Features of the Constitution-I",
-          "Fundamental Rights",
-          "1. The Right to Equality-Articles 14 to 18",
-          "(c) Abolition of Untouchability: Article-17"
-        ],
-        "title": "(c) Abolition of Untouchability: Article-17",
-        "sequence_number": 4,
-        "depth": 3,
-        "level_label": "Point",
-        "has_notes": true
-      },
-      {
-        "path": "Salient Features of the Constitution-I > Fundamental Rights > 1. The Right to Equality-Articles 14 to 18 > (d) Abolition of Titles: Article-18",
-        "path_titles": [
-          "Salient Features of the Constitution-I",
-          "Fundamental Rights",
-          "1. The Right to Equality-Articles 14 to 18",
-          "(d) Abolition of Titles: Article-18"
-        ],
-        "title": "(d) Abolition of Titles: Article-18",
-        "sequence_number": 5,
-        "depth": 3,
-        "level_label": "Point",
-        "has_notes": true
-      },
-      {
-        "path": "Salient Features of the Constitution-I > Fundamental Rights > 2. Right to Freedom-Articles 19 to 22 > (a) Under Article-19, the Constitution guarantees six basic freedoms to its Citizens, viz. > (i) Freedom of speech and expression.",
-        "path_titles": [
-          "Salient Features of the Constitution-I",
-          "Fundamental Rights",
-          "2. Right to Freedom-Articles 19 to 22",
-          "(a) Under Article-19, the Constitution guarantees six basic freedoms to its Citizens, viz.",
-          "(i) Freedom of speech and expression."
-        ],
-        "title": "(i) Freedom of speech and expression.",
-        "sequence_number": 1,
-        "depth": 4,
-        "level_label": "Sub-point",
-        "has_notes": true
-      },
-      {
-        "path": "Salient Features of the Constitution-I > Fundamental Rights > 2. Right to Freedom-Articles 19 to 22 > (a) Under Article-19, the Constitution guarantees six basic freedoms to its Citizens, viz. > (ii) Freedom to assemble peacefully without arms.",
-        "path_titles": [
-          "Salient Features of the Constitution-I",
-          "Fundamental Rights",
-          "2. Right to Freedom-Articles 19 to 22",
-          "(a) Under Article-19, the Constitution guarantees six basic freedoms to its Citizens, viz.",
-          "(ii) Freedom to assemble peacefully without arms."
-        ],
-        "title": "(ii) Freedom to assemble peacefully without arms.",
-        "sequence_number": 2,
-        "depth": 4,
-        "level_label": "Sub-point",
-        "has_notes": false
-      },
-      {
-        "path": "Salient Features of the Constitution-I > Fundamental Rights > 2. Right to Freedom-Articles 19 to 22 > (a) Under Article-19, the Constitution guarantees six basic freedoms to its Citizens, viz. > (iii) Freedom to form associations and unions.",
-        "path_titles": [
-          "Salient Features of the Constitution-I",
-          "Fundamental Rights",
-          "2. Right to Freedom-Articles 19 to 22",
-          "(a) Under Article-19, the Constitution guarantees six basic freedoms to its Citizens, viz.",
-          "(iii) Freedom to form associations and unions."
-        ],
-        "title": "(iii) Freedom to form associations and unions.",
-        "sequence_number": 3,
-        "depth": 4,
-        "level_label": "Sub-point",
-        "has_notes": true
-      },
-      {
-        "path": "Salient Features of the Constitution-I > Fundamental Rights > 2. Right to Freedom-Articles 19 to 22 > (a) Under Article-19, the Constitution guarantees six basic freedoms to its Citizens, viz. > (iv) Freedom to move freely throughout India.",
-        "path_titles": [
-          "Salient Features of the Constitution-I",
-          "Fundamental Rights",
-          "2. Right to Freedom-Articles 19 to 22",
-          "(a) Under Article-19, the Constitution guarantees six basic freedoms to its Citizens, viz.",
-          "(iv) Freedom to move freely throughout India."
-        ],
-        "title": "(iv) Freedom to move freely throughout India.",
-        "sequence_number": 4,
-        "depth": 4,
-        "level_label": "Sub-point",
-        "has_notes": true
-      },
-      {
-        "path": "Salient Features of the Constitution-I > Fundamental Rights > 2. Right to Freedom-Articles 19 to 22 > (a) Under Article-19, the Constitution guarantees six basic freedoms to its Citizens, viz. > (v) Freedom to reside and settle in any part of India.",
-        "path_titles": [
-          "Salient Features of the Constitution-I",
-          "Fundamental Rights",
-          "2. Right to Freedom-Articles 19 to 22",
-          "(a) Under Article-19, the Constitution guarantees six basic freedoms to its Citizens, viz.",
-          "(v) Freedom to reside and settle in any part of India."
-        ],
-        "title": "(v) Freedom to reside and settle in any part of India.",
-        "sequence_number": 5,
-        "depth": 4,
-        "level_label": "Sub-point",
-        "has_notes": true
-      },
-      {
-        "path": "Salient Features of the Constitution-I > Fundamental Rights > 2. Right to Freedom-Articles 19 to 22 > (a) Under Article-19, the Constitution guarantees six basic freedoms to its Citizens, viz. > (vi) Freedom to practise any profession, trade or business.",
-        "path_titles": [
-          "Salient Features of the Constitution-I",
-          "Fundamental Rights",
-          "2. Right to Freedom-Articles 19 to 22",
-          "(a) Under Article-19, the Constitution guarantees six basic freedoms to its Citizens, viz.",
-          "(vi) Freedom to practise any profession, trade or business."
-        ],
-        "title": "(vi) Freedom to practise any profession, trade or business.",
-        "sequence_number": 6,
-        "depth": 4,
-        "level_label": "Sub-point",
-        "has_notes": true
-      },
-      {
-        "path": "Salient Features of the Constitution-I > Fundamental Rights > RIGHT TO INFORMATION",
-        "path_titles": [
-          "Salient Features of the Constitution-I",
-          "Fundamental Rights",
-          "RIGHT TO INFORMATION"
-        ],
-        "title": "RIGHT TO INFORMATION",
         "sequence_number": 3,
         "depth": 2,
         "level_label": "Subtopic",
         "has_notes": true
       },
       {
-        "path": "Salient Features of the Constitution-I > Fundamental Rights > Supreme Court Declares Right to Privacy - A Fundamental Right > (a) Right to Privacy - A Fundamental Right",
+        "path": "FUNDAMENTAL RIGHTS > 1. The Right to Equality-Articles 14 to 18 > (c) Abolition of Untouchability: Article-17",
         "path_titles": [
-          "Salient Features of the Constitution-I",
-          "Fundamental Rights",
-          "Supreme Court Declares Right to Privacy - A Fundamental Right",
-          "(a) Right to Privacy - A Fundamental Right"
+          "FUNDAMENTAL RIGHTS",
+          "1. The Right to Equality-Articles 14 to 18",
+          "(c) Abolition of Untouchability: Article-17"
         ],
-        "title": "(a) Right to Privacy - A Fundamental Right",
+        "title": "(c) Abolition of Untouchability: Article-17",
+        "sequence_number": 4,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "FUNDAMENTAL RIGHTS > 1. The Right to Equality-Articles 14 to 18 > (d) Abolition of Titles: Article-18",
+        "path_titles": [
+          "FUNDAMENTAL RIGHTS",
+          "1. The Right to Equality-Articles 14 to 18",
+          "(d) Abolition of Titles: Article-18"
+        ],
+        "title": "(d) Abolition of Titles: Article-18",
+        "sequence_number": 5,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "FUNDAMENTAL RIGHTS > 2. Right to Freedom-Articles 19 to 22 > (a) Under Article-19, the Constitution guarantees six basic freedoms to its Citizens, viz. > (i) Freedom of speech and expression.",
+        "path_titles": [
+          "FUNDAMENTAL RIGHTS",
+          "2. Right to Freedom-Articles 19 to 22",
+          "(a) Under Article-19, the Constitution guarantees six basic freedoms to its Citizens, viz.",
+          "(i) Freedom of speech and expression."
+        ],
+        "title": "(i) Freedom of speech and expression.",
         "sequence_number": 1,
         "depth": 3,
         "level_label": "Point",
         "has_notes": true
       },
       {
-        "path": "Salient Features of the Constitution-I > Fundamental Rights > Supreme Court Declares Right to Privacy - A Fundamental Right > (b) Not an Absolute Right - It is Subjected to Reasonable Restrictions",
+        "path": "FUNDAMENTAL RIGHTS > 2. Right to Freedom-Articles 19 to 22 > (a) Under Article-19, the Constitution guarantees six basic freedoms to its Citizens, viz. > (ii) Freedom to assemble peacefully without arms.",
         "path_titles": [
-          "Salient Features of the Constitution-I",
-          "Fundamental Rights",
-          "Supreme Court Declares Right to Privacy - A Fundamental Right",
-          "(b) Not an Absolute Right - It is Subjected to Reasonable Restrictions"
+          "FUNDAMENTAL RIGHTS",
+          "2. Right to Freedom-Articles 19 to 22",
+          "(a) Under Article-19, the Constitution guarantees six basic freedoms to its Citizens, viz.",
+          "(ii) Freedom to assemble peacefully without arms."
         ],
-        "title": "(b) Not an Absolute Right - It is Subjected to Reasonable Restrictions",
+        "title": "(ii) Freedom to assemble peacefully without arms.",
         "sequence_number": 2,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": false
+      },
+      {
+        "path": "FUNDAMENTAL RIGHTS > 2. Right to Freedom-Articles 19 to 22 > (a) Under Article-19, the Constitution guarantees six basic freedoms to its Citizens, viz. > (iii) Freedom to form associations and unions.",
+        "path_titles": [
+          "FUNDAMENTAL RIGHTS",
+          "2. Right to Freedom-Articles 19 to 22",
+          "(a) Under Article-19, the Constitution guarantees six basic freedoms to its Citizens, viz.",
+          "(iii) Freedom to form associations and unions."
+        ],
+        "title": "(iii) Freedom to form associations and unions.",
+        "sequence_number": 3,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": false
+      },
+      {
+        "path": "FUNDAMENTAL RIGHTS > 2. Right to Freedom-Articles 19 to 22 > (a) Under Article-19, the Constitution guarantees six basic freedoms to its Citizens, viz. > (iv) Freedom to move freely throughout India.",
+        "path_titles": [
+          "FUNDAMENTAL RIGHTS",
+          "2. Right to Freedom-Articles 19 to 22",
+          "(a) Under Article-19, the Constitution guarantees six basic freedoms to its Citizens, viz.",
+          "(iv) Freedom to move freely throughout India."
+        ],
+        "title": "(iv) Freedom to move freely throughout India.",
+        "sequence_number": 4,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": false
+      },
+      {
+        "path": "FUNDAMENTAL RIGHTS > 2. Right to Freedom-Articles 19 to 22 > (a) Under Article-19, the Constitution guarantees six basic freedoms to its Citizens, viz. > (v) Freedom to reside and settle in any part of India.",
+        "path_titles": [
+          "FUNDAMENTAL RIGHTS",
+          "2. Right to Freedom-Articles 19 to 22",
+          "(a) Under Article-19, the Constitution guarantees six basic freedoms to its Citizens, viz.",
+          "(v) Freedom to reside and settle in any part of India."
+        ],
+        "title": "(v) Freedom to reside and settle in any part of India.",
+        "sequence_number": 5,
         "depth": 3,
         "level_label": "Point",
         "has_notes": true
       },
       {
-        "path": "Salient Features of the Constitution-I > Fundamental Rights > Limitations > (i) Emergency: Article-19 can be suspended during Emergency.",
+        "path": "FUNDAMENTAL RIGHTS > 2. Right to Freedom-Articles 19 to 22 > (a) Under Article-19, the Constitution guarantees six basic freedoms to its Citizens, viz. > (vi) Freedom to practise any profession, trade or business.",
         "path_titles": [
-          "Salient Features of the Constitution-I",
-          "Fundamental Rights",
-          "Limitations",
-          "(i) Emergency: Article-19 can be suspended during Emergency."
+          "FUNDAMENTAL RIGHTS",
+          "2. Right to Freedom-Articles 19 to 22",
+          "(a) Under Article-19, the Constitution guarantees six basic freedoms to its Citizens, viz.",
+          "(vi) Freedom to practise any profession, trade or business."
         ],
-        "title": "(i) Emergency: Article-19 can be suspended during Emergency.",
+        "title": "(vi) Freedom to practise any profession, trade or business.",
+        "sequence_number": 6,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "FUNDAMENTAL RIGHTS > 2. Right to Freedom-Articles 19 to 22 > RIGHT TO INFORMATION",
+        "path_titles": [
+          "FUNDAMENTAL RIGHTS",
+          "2. Right to Freedom-Articles 19 to 22",
+          "RIGHT TO INFORMATION"
+        ],
+        "title": "RIGHT TO INFORMATION",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "FUNDAMENTAL RIGHTS > 2. Right to Freedom-Articles 19 to 22 > Limitations > (i) Emergency:",
+        "path_titles": [
+          "FUNDAMENTAL RIGHTS",
+          "2. Right to Freedom-Articles 19 to 22",
+          "Limitations",
+          "(i) Emergency:"
+        ],
+        "title": "(i) Emergency:",
         "sequence_number": 1,
         "depth": 3,
         "level_label": "Point",
         "has_notes": true
       },
       {
-        "path": "Salient Features of the Constitution-I > Fundamental Rights > Limitations > (ii) Not Absolute: The security of the State and national interest being of paramount interest, reasonable restrictions could be imposed on the implementation of this right.",
+        "path": "FUNDAMENTAL RIGHTS > 2. Right to Freedom-Articles 19 to 22 > Limitations > (ii) Not Absolute:",
         "path_titles": [
-          "Salient Features of the Constitution-I",
-          "Fundamental Rights",
+          "FUNDAMENTAL RIGHTS",
+          "2. Right to Freedom-Articles 19 to 22",
           "Limitations",
-          "(ii) Not Absolute: The security of the State and national interest being of paramount interest, reasonable restrictions could be imposed on the implementation of this right."
+          "(ii) Not Absolute:"
         ],
-        "title": "(ii) Not Absolute: The security of the State and national interest being of paramount interest, reasonable restrictions could be imposed on the implementation of this right.",
+        "title": "(ii) Not Absolute:",
         "sequence_number": 2,
         "depth": 3,
         "level_label": "Point",
         "has_notes": true
       },
       {
-        "path": "Salient Features of the Constitution-I > Fundamental Rights > Limitations > (iii) Laws of Parliament: Legislations like Preventive Detention; Essential Services Maintenance Act (ESMA, a law to ensure the delivery of essential services like public transport, health services, etc., which if obstructed would affect the normal life of the people) impose certain restrictions on the Right to Freedom.",
+        "path": "FUNDAMENTAL RIGHTS > 2. Right to Freedom-Articles 19 to 22 > Limitations > (iii) Laws of Parliament:",
         "path_titles": [
-          "Salient Features of the Constitution-I",
-          "Fundamental Rights",
+          "FUNDAMENTAL RIGHTS",
+          "2. Right to Freedom-Articles 19 to 22",
           "Limitations",
-          "(iii) Laws of Parliament: Legislations like Preventive Detention; Essential Services Maintenance Act (ESMA, a law to ensure the delivery of essential services like public transport, health services, etc., which if obstructed would affect the normal life of the people) impose certain restrictions on the Right to Freedom."
+          "(iii) Laws of Parliament:"
         ],
-        "title": "(iii) Laws of Parliament: Legislations like Preventive Detention; Essential Services Maintenance Act (ESMA, a law to ensure the delivery of essential services like public transport, health services, etc., which if obstructed would affect the normal life of the people) impose certain restrictions on the Right to Freedom.",
+        "title": "(iii) Laws of Parliament:",
         "sequence_number": 3,
         "depth": 3,
         "level_label": "Point",
         "has_notes": true
       },
       {
-        "path": "Salient Features of the Constitution-I > Fundamental Rights > Limitations > (b) Protection in Respect of Conviction for Offences: Under Article-20 the following protections are available to a citizen: > (i) Against greater penalty than what is prescribed under the law is prohibited.",
+        "path": "FUNDAMENTAL RIGHTS > 2. Right to Freedom-Articles 19 to 22 > Limitations > (b) Protection in Respect of Conviction for Offences: > (i) Against greater penalty than what is prescribed under the law is prohibited.",
         "path_titles": [
-          "Salient Features of the Constitution-I",
-          "Fundamental Rights",
+          "FUNDAMENTAL RIGHTS",
+          "2. Right to Freedom-Articles 19 to 22",
           "Limitations",
-          "(b) Protection in Respect of Conviction for Offences: Under Article-20 the following protections are available to a citizen:",
+          "(b) Protection in Respect of Conviction for Offences:",
           "(i) Against greater penalty than what is prescribed under the law is prohibited."
         ],
         "title": "(i) Against greater penalty than what is prescribed under the law is prohibited.",
@@ -1048,12 +980,12 @@
         "has_notes": true
       },
       {
-        "path": "Salient Features of the Constitution-I > Fundamental Rights > Limitations > (b) Protection in Respect of Conviction for Offences: Under Article-20 the following protections are available to a citizen: > (ii) No one can be punished or prosecuted for the same offence twice.",
+        "path": "FUNDAMENTAL RIGHTS > 2. Right to Freedom-Articles 19 to 22 > Limitations > (b) Protection in Respect of Conviction for Offences: > (ii) No one can be punished or prosecuted for the same offence twice.",
         "path_titles": [
-          "Salient Features of the Constitution-I",
-          "Fundamental Rights",
+          "FUNDAMENTAL RIGHTS",
+          "2. Right to Freedom-Articles 19 to 22",
           "Limitations",
-          "(b) Protection in Respect of Conviction for Offences: Under Article-20 the following protections are available to a citizen:",
+          "(b) Protection in Respect of Conviction for Offences:",
           "(ii) No one can be punished or prosecuted for the same offence twice."
         ],
         "title": "(ii) No one can be punished or prosecuted for the same offence twice.",
@@ -1063,12 +995,12 @@
         "has_notes": true
       },
       {
-        "path": "Salient Features of the Constitution-I > Fundamental Rights > Limitations > (b) Protection in Respect of Conviction for Offences: Under Article-20 the following protections are available to a citizen: > (iii) A person cannot be compelled to be a witness in the case where he himself is accused of the offence.",
+        "path": "FUNDAMENTAL RIGHTS > 2. Right to Freedom-Articles 19 to 22 > Limitations > (b) Protection in Respect of Conviction for Offences: > (iii) A person cannot be compelled to be a witness in the case where he himself is accused of the offence.",
         "path_titles": [
-          "Salient Features of the Constitution-I",
-          "Fundamental Rights",
+          "FUNDAMENTAL RIGHTS",
+          "2. Right to Freedom-Articles 19 to 22",
           "Limitations",
-          "(b) Protection in Respect of Conviction for Offences: Under Article-20 the following protections are available to a citizen:",
+          "(b) Protection in Respect of Conviction for Offences:",
           "(iii) A person cannot be compelled to be a witness in the case where he himself is accused of the offence."
         ],
         "title": "(iii) A person cannot be compelled to be a witness in the case where he himself is accused of the offence.",
@@ -1078,10 +1010,10 @@
         "has_notes": true
       },
       {
-        "path": "Salient Features of the Constitution-I > Fundamental Rights > Limitations > (c) Protection of Life and Personal Liberty:",
+        "path": "FUNDAMENTAL RIGHTS > 2. Right to Freedom-Articles 19 to 22 > Limitations > (c) Protection of Life and Personal Liberty:",
         "path_titles": [
-          "Salient Features of the Constitution-I",
-          "Fundamental Rights",
+          "FUNDAMENTAL RIGHTS",
+          "2. Right to Freedom-Articles 19 to 22",
           "Limitations",
           "(c) Protection of Life and Personal Liberty:"
         ],
@@ -1092,25 +1024,58 @@
         "has_notes": true
       },
       {
-        "path": "Salient Features of the Constitution-I > Fundamental Rights > Limitations > (d) Protection Against Arrest and Detention: > (i) Ordinary Circumstances:",
+        "path": "FUNDAMENTAL RIGHTS > 2. Right to Freedom-Articles 19 to 22 > Limitations > (d) Protection Against Arrest and Detention: > (i) Ordinary Circumstances: > (a) To be informed of his/her offence.",
         "path_titles": [
-          "Salient Features of the Constitution-I",
-          "Fundamental Rights",
+          "FUNDAMENTAL RIGHTS",
+          "2. Right to Freedom-Articles 19 to 22",
           "Limitations",
           "(d) Protection Against Arrest and Detention:",
-          "(i) Ordinary Circumstances:"
+          "(i) Ordinary Circumstances:",
+          "(a) To be informed of his/her offence."
         ],
-        "title": "(i) Ordinary Circumstances:",
+        "title": "(a) To be informed of his/her offence.",
         "sequence_number": 1,
-        "depth": 4,
+        "depth": 5,
+        "level_label": "Sub-point",
+        "has_notes": false
+      },
+      {
+        "path": "FUNDAMENTAL RIGHTS > 2. Right to Freedom-Articles 19 to 22 > Limitations > (d) Protection Against Arrest and Detention: > (i) Ordinary Circumstances: > (b) To be presented before a magistrate within 24 hours from the time of arrest.",
+        "path_titles": [
+          "FUNDAMENTAL RIGHTS",
+          "2. Right to Freedom-Articles 19 to 22",
+          "Limitations",
+          "(d) Protection Against Arrest and Detention:",
+          "(i) Ordinary Circumstances:",
+          "(b) To be presented before a magistrate within 24 hours from the time of arrest."
+        ],
+        "title": "(b) To be presented before a magistrate within 24 hours from the time of arrest.",
+        "sequence_number": 2,
+        "depth": 5,
         "level_label": "Sub-point",
         "has_notes": true
       },
       {
-        "path": "Salient Features of the Constitution-I > Fundamental Rights > Limitations > (d) Protection Against Arrest and Detention: > (ii) Preventive Detention:",
+        "path": "FUNDAMENTAL RIGHTS > 2. Right to Freedom-Articles 19 to 22 > Limitations > (d) Protection Against Arrest and Detention: > (i) Ordinary Circumstances: > (c) The right to consult a lawyer and prepare for defence at the trial.",
         "path_titles": [
-          "Salient Features of the Constitution-I",
-          "Fundamental Rights",
+          "FUNDAMENTAL RIGHTS",
+          "2. Right to Freedom-Articles 19 to 22",
+          "Limitations",
+          "(d) Protection Against Arrest and Detention:",
+          "(i) Ordinary Circumstances:",
+          "(c) The right to consult a lawyer and prepare for defence at the trial."
+        ],
+        "title": "(c) The right to consult a lawyer and prepare for defence at the trial.",
+        "sequence_number": 3,
+        "depth": 5,
+        "level_label": "Sub-point",
+        "has_notes": true
+      },
+      {
+        "path": "FUNDAMENTAL RIGHTS > 2. Right to Freedom-Articles 19 to 22 > Limitations > (d) Protection Against Arrest and Detention: > (ii) Preventive Detention:",
+        "path_titles": [
+          "FUNDAMENTAL RIGHTS",
+          "2. Right to Freedom-Articles 19 to 22",
           "Limitations",
           "(d) Protection Against Arrest and Detention:",
           "(ii) Preventive Detention:"
@@ -1122,65 +1087,61 @@
         "has_notes": true
       },
       {
-        "path": "Salient Features of the Constitution-I > Fundamental Rights > 3. Right Against Exploitation-Articles 23 and 24 > (i) Article 23-(a)",
+        "path": "FUNDAMENTAL RIGHTS > 3. Right Against Exploitation-Articles 23 and 24 > (i) Article 23-(a)",
         "path_titles": [
-          "Salient Features of the Constitution-I",
-          "Fundamental Rights",
+          "FUNDAMENTAL RIGHTS",
           "3. Right Against Exploitation-Articles 23 and 24",
           "(i) Article 23-(a)"
         ],
         "title": "(i) Article 23-(a)",
         "sequence_number": 1,
-        "depth": 3,
-        "level_label": "Point",
+        "depth": 2,
+        "level_label": "Subtopic",
         "has_notes": true
       },
       {
-        "path": "Salient Features of the Constitution-I > Fundamental Rights > 3. Right Against Exploitation-Articles 23 and 24 > (ii) Article 24",
+        "path": "FUNDAMENTAL RIGHTS > 3. Right Against Exploitation-Articles 23 and 24 > (ii) Article 24",
         "path_titles": [
-          "Salient Features of the Constitution-I",
-          "Fundamental Rights",
+          "FUNDAMENTAL RIGHTS",
           "3. Right Against Exploitation-Articles 23 and 24",
           "(ii) Article 24"
         ],
         "title": "(ii) Article 24",
         "sequence_number": 2,
-        "depth": 3,
-        "level_label": "Point",
+        "depth": 2,
+        "level_label": "Subtopic",
         "has_notes": true
       },
       {
-        "path": "Salient Features of the Constitution-I > Fundamental Rights > 4. Right to Freedom of Religion",
+        "path": "FUNDAMENTAL RIGHTS > 4. Right to Freedom of Religion",
         "path_titles": [
-          "Salient Features of the Constitution-I",
-          "Fundamental Rights",
+          "FUNDAMENTAL RIGHTS",
           "4. Right to Freedom of Religion"
         ],
         "title": "4. Right to Freedom of Religion",
-        "sequence_number": 7,
-        "depth": 2,
-        "level_label": "Subtopic",
+        "sequence_number": 4,
+        "depth": 1,
+        "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "Salient Features of the Constitution-I > Fundamental Rights > 5. Cultural and Educational Rights",
+        "path": "FUNDAMENTAL RIGHTS > 5. Cultural and Educational Rights",
         "path_titles": [
-          "Salient Features of the Constitution-I",
-          "Fundamental Rights",
+          "FUNDAMENTAL RIGHTS",
           "5. Cultural and Educational Rights"
         ],
         "title": "5. Cultural and Educational Rights",
-        "sequence_number": 8,
-        "depth": 2,
-        "level_label": "Subtopic",
+        "sequence_number": 5,
+        "depth": 1,
+        "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "Salient Features of the Constitution-I > Fundamental Rights > 6. Right to Constitutional Remedies > (i) Habeas Corpus:",
+        "path": "FUNDAMENTAL RIGHTS > 6. Right to Constitutional Remedies Article 32 > IMPORTANT WRITS > (i) Habeas Corpus:",
         "path_titles": [
-          "Salient Features of the Constitution-I",
-          "Fundamental Rights",
-          "6. Right to Constitutional Remedies",
+          "FUNDAMENTAL RIGHTS",
+          "6. Right to Constitutional Remedies Article 32",
+          "IMPORTANT WRITS",
           "(i) Habeas Corpus:"
         ],
         "title": "(i) Habeas Corpus:",
@@ -1190,11 +1151,11 @@
         "has_notes": true
       },
       {
-        "path": "Salient Features of the Constitution-I > Fundamental Rights > 6. Right to Constitutional Remedies > (ii) Mandamus:",
+        "path": "FUNDAMENTAL RIGHTS > 6. Right to Constitutional Remedies Article 32 > IMPORTANT WRITS > (ii) Mandamus:",
         "path_titles": [
-          "Salient Features of the Constitution-I",
-          "Fundamental Rights",
-          "6. Right to Constitutional Remedies",
+          "FUNDAMENTAL RIGHTS",
+          "6. Right to Constitutional Remedies Article 32",
+          "IMPORTANT WRITS",
           "(ii) Mandamus:"
         ],
         "title": "(ii) Mandamus:",
@@ -1204,11 +1165,11 @@
         "has_notes": true
       },
       {
-        "path": "Salient Features of the Constitution-I > Fundamental Rights > 6. Right to Constitutional Remedies > (iii) Writ of Prohibition:",
+        "path": "FUNDAMENTAL RIGHTS > 6. Right to Constitutional Remedies Article 32 > IMPORTANT WRITS > (iii) Writ of Prohibition:",
         "path_titles": [
-          "Salient Features of the Constitution-I",
-          "Fundamental Rights",
-          "6. Right to Constitutional Remedies",
+          "FUNDAMENTAL RIGHTS",
+          "6. Right to Constitutional Remedies Article 32",
+          "IMPORTANT WRITS",
           "(iii) Writ of Prohibition:"
         ],
         "title": "(iii) Writ of Prohibition:",
@@ -1218,11 +1179,11 @@
         "has_notes": true
       },
       {
-        "path": "Salient Features of the Constitution-I > Fundamental Rights > 6. Right to Constitutional Remedies > (iv) Writ of Certiorari:",
+        "path": "FUNDAMENTAL RIGHTS > 6. Right to Constitutional Remedies Article 32 > IMPORTANT WRITS > (iv) Writ of Certiorari:",
         "path_titles": [
-          "Salient Features of the Constitution-I",
-          "Fundamental Rights",
-          "6. Right to Constitutional Remedies",
+          "FUNDAMENTAL RIGHTS",
+          "6. Right to Constitutional Remedies Article 32",
+          "IMPORTANT WRITS",
           "(iv) Writ of Certiorari:"
         ],
         "title": "(iv) Writ of Certiorari:",
@@ -1232,11 +1193,11 @@
         "has_notes": true
       },
       {
-        "path": "Salient Features of the Constitution-I > Fundamental Rights > 6. Right to Constitutional Remedies > (v) Quo-warranto:",
+        "path": "FUNDAMENTAL RIGHTS > 6. Right to Constitutional Remedies Article 32 > IMPORTANT WRITS > (v) Quo-warranto:",
         "path_titles": [
-          "Salient Features of the Constitution-I",
-          "Fundamental Rights",
-          "6. Right to Constitutional Remedies",
+          "FUNDAMENTAL RIGHTS",
+          "6. Right to Constitutional Remedies Article 32",
+          "IMPORTANT WRITS",
           "(v) Quo-warranto:"
         ],
         "title": "(v) Quo-warranto:",
@@ -1246,121 +1207,108 @@
         "has_notes": true
       },
       {
-        "path": "Salient Features of the Constitution-I > Fundamental Rights > 7. Right to Education",
+        "path": "FUNDAMENTAL RIGHTS > 7. Right to Education",
         "path_titles": [
-          "Salient Features of the Constitution-I",
-          "Fundamental Rights",
+          "FUNDAMENTAL RIGHTS",
           "7. Right to Education"
         ],
         "title": "7. Right to Education",
-        "sequence_number": 10,
-        "depth": 2,
-        "level_label": "Subtopic",
-        "has_notes": true
-      },
-      {
-        "path": "Salient Features of the Constitution-I > RIGHT TO PROPERTY",
-        "path_titles": [
-          "Salient Features of the Constitution-I",
-          "RIGHT TO PROPERTY"
-        ],
-        "title": "RIGHT TO PROPERTY",
-        "sequence_number": 4,
-        "depth": 1,
-        "level_label": "Topic",
-        "has_notes": true
-      },
-      {
-        "path": "Salient Features of the Constitution-I > CHECK ON ARBITRARY ACTIONS OF THE STATE",
-        "path_titles": [
-          "Salient Features of the Constitution-I",
-          "CHECK ON ARBITRARY ACTIONS OF THE STATE"
-        ],
-        "title": "CHECK ON ARBITRARY ACTIONS OF THE STATE",
-        "sequence_number": 5,
-        "depth": 1,
-        "level_label": "Topic",
-        "has_notes": true
-      },
-      {
-        "path": "Salient Features of the Constitution-I > RESTRICTIONS IMPOSED",
-        "path_titles": [
-          "Salient Features of the Constitution-I",
-          "RESTRICTIONS IMPOSED"
-        ],
-        "title": "RESTRICTIONS IMPOSED",
-        "sequence_number": 6,
-        "depth": 1,
-        "level_label": "Topic",
-        "has_notes": true
-      },
-      {
-        "path": "Salient Features of the Constitution-I > SUSPENSION OF FUNDAMENTAL RIGHTS",
-        "path_titles": [
-          "Salient Features of the Constitution-I",
-          "SUSPENSION OF FUNDAMENTAL RIGHTS"
-        ],
-        "title": "SUSPENSION OF FUNDAMENTAL RIGHTS",
         "sequence_number": 7,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "Salient Features of the Constitution-I > FUNDAMENTAL DUTIES > KINDS OF DUTIES",
+        "path": "CHECK ON ARBITRARY ACTIONS OF THE STATE",
         "path_titles": [
-          "Salient Features of the Constitution-I",
-          "FUNDAMENTAL DUTIES",
-          "KINDS OF DUTIES"
+          "CHECK ON ARBITRARY ACTIONS OF THE STATE"
         ],
-        "title": "KINDS OF DUTIES",
-        "sequence_number": 1,
-        "depth": 2,
-        "level_label": "Subtopic",
+        "title": "CHECK ON ARBITRARY ACTIONS OF THE STATE",
+        "sequence_number": 4,
+        "depth": 0,
+        "level_label": "Section",
         "has_notes": true
       },
       {
-        "path": "Salient Features of the Constitution-I > FUNDAMENTAL DUTIES > IMPORTANCE OF FUNDAMENTAL DUTIES",
+        "path": "RESTRICTIONS IMPOSED",
         "path_titles": [
-          "Salient Features of the Constitution-I",
-          "FUNDAMENTAL DUTIES",
+          "RESTRICTIONS IMPOSED"
+        ],
+        "title": "RESTRICTIONS IMPOSED",
+        "sequence_number": 5,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "SUSPENSION OF FUNDAMENTAL RIGHTS",
+        "path_titles": [
+          "SUSPENSION OF FUNDAMENTAL RIGHTS"
+        ],
+        "title": "SUSPENSION OF FUNDAMENTAL RIGHTS",
+        "sequence_number": 6,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "FUNDAMENTAL DUTIES",
+        "path_titles": [
+          "FUNDAMENTAL DUTIES"
+        ],
+        "title": "FUNDAMENTAL DUTIES",
+        "sequence_number": 7,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "KINDS OF DUTIES",
+        "path_titles": [
+          "KINDS OF DUTIES"
+        ],
+        "title": "KINDS OF DUTIES",
+        "sequence_number": 8,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "IMPORTANCE OF FUNDAMENTAL DUTIES",
+        "path_titles": [
           "IMPORTANCE OF FUNDAMENTAL DUTIES"
         ],
         "title": "IMPORTANCE OF FUNDAMENTAL DUTIES",
-        "sequence_number": 2,
-        "depth": 2,
-        "level_label": "Subtopic",
+        "sequence_number": 9,
+        "depth": 0,
+        "level_label": "Section",
         "has_notes": true
       }
     ],
     "stray_leaves": [
       {
-        "title": "What Privacy includes",
-        "insert_after_index": 19,
-        "micro_topics": [],
+        "title": "Supreme Court Declares Right to Privacy - A Fundamental Right",
+        "insert_after_index": 17,
+        "micro_topics": [
+          "(a) Right to Privacy - A Fundamental Right",
+          "(b) Not an Absolute Right - It is Subjected to Reasonable Restrictions",
+          "What Privacy includes"
+        ],
         "has_notes": true
       },
       {
         "title": "LIMITATIONS",
-        "insert_after_index": 31,
+        "insert_after_index": 32,
         "micro_topics": [
-          "(i) Public interest",
-          "(ii) Power of the Parliament"
+          "(i) Public interest:",
+          "(ii) Power of the Parliament:"
         ],
         "has_notes": true
       },
       {
-        "title": "(b) Trafficking in human beings",
-        "insert_after_index": 33,
+        "title": "RIGHT TO PROPERTY",
+        "insert_after_index": 45,
         "micro_topics": [],
-        "has_notes": true
-      },
-      {
-        "title": "Articles 29 and 30: Protection of Minorities:",
-        "insert_after_index": 36,
-        "micro_topics": [
-          "Minorities and Educational Institutions:"
-        ],
         "has_notes": true
       }
     ]

@@ -23,18 +23,27 @@
       "(b) Term",
       "GRAM PANCHAYAT",
       "COMPOSITION",
+      "Sarpanch:",
+      "Members:",
+      "Office Bearers:",
       "FUNCTIONS",
       "1. Administrative Functions",
       "2. Social and Economic Functions",
       "3. Judicial Functions",
       "NYAYA PANCHAYATS",
       "PANCHAYAT SAMITI (AT THE BLOCK LEVEL)",
-      "Composition",
+      "Composition:",
       "Office Bearers",
+      "Chairperson",
+      "Deputy Chairperson",
+      "Secretary",
       "FUNCTIONS",
-      "ZILA PARISHAD (AT DISTRICT LEVEL)",
+      "VOILA PARISHAD (AT DISTRICT LEVEL)",
       "COMPOSITION",
       "Office Bearers",
+      "Chairman:",
+      "Deputy Chairperson:",
+      "Secretary:",
       "FUNCTIONS",
       "ACHIEVEMENTS OF THE PANCHAYATI RAJ SYSTEM",
       "Structure of Village Panchayat, Panchayat Samiti and Zila Parishad"
@@ -43,14 +52,14 @@
     "in_pdf_only": [
       {
         "title": "Structure of Village Panchayat, Panchayat Samiti and Zila Parishad",
-        "insert_after_index": 25,
+        "insert_after_index": 83,
         "micro_topics": []
       }
     ],
     "additional_sections": [
       {
         "title": "Structure of Village Panchayat, Panchayat Samiti and Zila Parishad",
-        "content_md": "| Level | Village Panchayat | Panchayat Samiti | Zila Parishad |\n|---|---|---|---|\n| **Level** | Village | Block/Circle | District |\n| **Composition** | Consists of minimum 5 and maximum 31 members directly elected by Gram Sabha. | Sarpanchs of Village Panchayats, MLAs and MPs belonging to that area, members of the Zila Parishad and Block Development Officer. | Deputy Commissioner, Heads of government departments, BDOs and Chairmen of all Panchayat Samitis, MPs and MLAs belonging to that district. |\n| **President** | Sarpanch | Chairman | Chairman |\n| **Functions** | Provision of civic amenities, looking after sanitation, management of common property, provision of primary education and primary health centres. | Coordination of the working of various Panchayats under it. Management of schools and colleges. Maintenance of hospitals and other health services. Help in the development of agriculture. | Coordination of the working of Panchayat Samitis under it. Recommendation for grants-in-aid for local bodies. Help in the formulation of various plans. Act as a link between the government and the local bodies. |"
+        "content_md": "| Level | Village Panchayat | Panchayat Samiti | Zila Parishad |\n| :--- | :--- | :--- | :--- |\n| | **Village** | **Block/Circle** | **District** |\n| **Composition** | Consists of minimum 5 and maximum 31 members directly elected by Gram Sabha. | Sarpanchs of Village Panchayats, MLAs and MPs belonging to that area, members of the Zila Parishad and Block Development Officer. | Deputy Commissioner, Heads of government departments, BDOs and Chairmen of all Panchayat Samitis, MPs and MLAs belonging to that district. |\n| **President** | **Sarpanch** | **Chairman** | **Chairman** |\n| **Functions** | Provision of civic amenities, looking after sanitation, management of common property, provision of primary education and primary health centres. | Coordination of the working of various Panchayats under it.<br><br>Management of schools and colleges.<br><br>Maintenance of hospitals and other health services.<br><br>Help in the development of agriculture. | Coordination of the working of Panchayat Samitis under it.<br><br>Recommendation for grants-in-aid for local bodies.<br><br>Help in the formulation of various plans.<br><br>Act as a link between the government and the local bodies. |"
       }
     ]
   },
@@ -60,24 +69,12 @@
       "sequence_number": 1,
       "depth": 0,
       "level_label": "Section",
-      "children": [
+      "children": [],
+      "content_blocks": [
         {
-          "title": "Rural: Three-tier system of Panchayati Raj- Gram Panchayat, Panchayat Samiti, Zila Parishad - their meaning and functions.",
-          "sequence_number": 1,
-          "depth": 1,
-          "level_label": "Topic",
-          "children": [],
-          "content_blocks": [
-            {
-              "content_md": "A **three-tier system of Local Self-Government** for rural areas came into effect in April 1993. There were the **Panchayats** at the village level, the **Block Samitis** and the **District Boards (The Zila Parishad)** at the apex. The nomenclature varies from state to state but the basic structure remains a three-tier one starting with the village (or group of small villages) at the base, the **Panchayat Samiti** at the Block level and the **Zila Parishad** at the District level."
-            },
-            {
-              "content_md": "### ORGANISATION OF PANCHAYATI RAJ INSTITUTION\nThe **three-tier system** comprises the following:\n1. **Gram Panchayats** at village level.\n2. **Panchayat Samiti** at block level or middle level.\n3. **Zila Parishad** at District level.\n\nIn addition, a **Nyaya Panchayat** has been provided for every three or four village Panchayats."
-            }
-          ]
+          "content_md": "We have the **Central Government** to look after the interests of the whole country, while we have **State Governments** to manage State administration. At the local level, we have **Local Self-Government**, which manages local affairs, through the representatives of the locality. **Local Self-Government** has thus become an integral part of the **three-tier system of the Government**."
         }
-      ],
-      "content_blocks": []
+      ]
     },
     {
       "title": "MEANING OF LOCAL SELF-GOVERNMENT",
@@ -87,7 +84,10 @@
       "children": [],
       "content_blocks": [
         {
-          "content_md": "**Local self-government** is an institution comprising locally elected representatives managing the affairs of the locality and providing them with basic amenities. In a rural area such an institution is called **Panchayat** and in an urban area it is known as **Municipal Corporation** or **Municipality**."
+          "content_md": "**Local self-government** is an institution comprising **locally elected representatives** managing the affairs of the locality and providing them with basic amenities. In a rural area such an institution is called **Panchayat** and in an urban area it is known as **Municipal Corporation** or **Municipality**."
+        },
+        {
+          "content_md": "[Image: Local Self-Government]"
         }
       ]
     },
@@ -99,10 +99,7 @@
       "children": [],
       "content_blocks": [
         {
-          "content_md": "**Local self-government** is quite different from **local government**. In **local government** the administration of a locality is looked after by the officials appointed by the State. Such officials are paid a salary; they include **patwari** or policeman or the village **chowkidar**, and the village postman. These officials provide certain services to the local people and do not have any say in management and administration of local affairs."
-        },
-        {
-          "content_md": "**Local self-government** consists of **elected representatives**. They receive government grants for their activities like sanitation, providing elementary education and settling disputes. That is to say that local people govern themselves."
+          "content_md": "**Local self-government** is quite different from **local government**. In **local government** the administration of a locality is looked after by the officials appointed by the State. Such officials are paid a salary; they include **patwari** or policeman or the **village chowkidar**, and the village postman. These officials provide certain services to the local people and do not have any say in management and administration of local affairs.\n\n**Local self-government** consists of **elected representatives**. They receive government grants for their activities like sanitation, providing elementary education and settling disputes. That is to say that local people govern themselves."
         }
       ]
     },
@@ -113,98 +110,26 @@
       "level_label": "Section",
       "children": [
         {
-          "title": "(i) These institutions provide the foundations on which the entire democratic structure of our country stands. These institutions make it possible for local people to take interest in their own affairs and groom them well to take on larger responsibilities later.",
+          "title": "(i)",
           "sequence_number": 1,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "These institutions provide the **foundations** on which the entire **democratic structure** of our country stands. These institutions make it possible for **local people** to take interest in their own affairs and groom them well to take on **larger responsibilities** later."
+              "content_md": "These institutions provide the foundations on which the entire **democratic structure** of our country stands. These institutions make it possible for local people to take interest in their own affairs and groom them well to take on **larger responsibilities** later."
             }
           ]
         },
         {
-          "title": "(ii) The local institutions provide a training ground for local leadership and to gain necessary experience for undertaking bigger challenges at the state or the national level.",
+          "title": "(ii)",
           "sequence_number": 2,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "The local institutions provide a **training ground** for **local leadership** and to gain necessary experience for undertaking **bigger challenges** at the state or the national level."
-            }
-          ]
-        },
-        {
-          "title": "(iii) Local people know their problems well and are best judges of their own needs.",
-          "sequence_number": 3,
-          "depth": 1,
-          "level_label": "Topic",
-          "children": [],
-          "content_blocks": [
-            {
-              "content_md": "**Local people** know their **problems** well and are best judges of their own **needs**."
-            }
-          ]
-        },
-        {
-          "title": "(iv) The local institutions encourage self-help and voluntary service and save the state of many unnecessary expenses.",
-          "sequence_number": 4,
-          "depth": 1,
-          "level_label": "Topic",
-          "children": [],
-          "content_blocks": [
-            {
-              "content_md": "The local institutions encourage **self-help** and **voluntary service** and save the state of many unnecessary expenses."
-            }
-          ]
-        },
-        {
-          "title": "(v) Lodal self-government institutions gain the support of local communities.",
-          "sequence_number": 5,
-          "depth": 1,
-          "level_label": "Topic",
-          "children": [],
-          "content_blocks": [
-            {
-              "content_md": "**Local self-government institutions** gain the support of **local communities**."
-            }
-          ]
-        },
-        {
-          "title": "(vi) Through these institutions government can reach ordinary citizens in times of need like National Emergency.",
-          "sequence_number": 6,
-          "depth": 1,
-          "level_label": "Topic",
-          "children": [],
-          "content_blocks": [
-            {
-              "content_md": "Through these institutions **government** can reach **ordinary citizens** in times of need like **National Emergency**."
-            }
-          ]
-        },
-        {
-          "title": "(vii) These institutions lessen the burden of workload on State and Central Government machinery.",
-          "sequence_number": 7,
-          "depth": 1,
-          "level_label": "Topic",
-          "children": [],
-          "content_blocks": [
-            {
-              "content_md": "These institutions lessen the burden of workload on **State and Central Government machinery**."
-            }
-          ]
-        },
-        {
-          "title": "(viii) They facilitate active participation of local people as an individual can evaluate the performance of the elected representatives.",
-          "sequence_number": 8,
-          "depth": 1,
-          "level_label": "Topic",
-          "children": [],
-          "content_blocks": [
-            {
-              "content_md": "They facilitate **active participation** of **local people** as an individual can evaluate the performance of the **elected representatives**."
+              "content_md": "The local institutions provide a **training ground for local leadership** and to gain necessary experience for undertaking bigger challenges at the state or the national level."
             }
           ]
         }
@@ -218,62 +143,62 @@
       "level_label": "Section",
       "children": [
         {
-          "title": "(i) To provide three-tier system of Panchayati Raj for all States having population of over 20 lakh,",
+          "title": "(i)",
           "sequence_number": 1,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "A **three-tier system of Panchayati Raj** is to be provided for all States having a population of over 20 lakh.\n\nA three-tier system of **Local Self-Government** for rural areas came into effect in April 1993. There were the **Panchayats** at the village level, the **Block Samitis** and the **District Boards** (The **Zila Parishad**) at the apex. The nomenclature varies from state to state but the basic structure remains a three-tier one starting with the village (or group of small villages) at the base, the **Panchayat Samiti** at the Block level and the **Zila Parishad** at the District level."
+              "content_md": "These institutions provide the **foundations** on which the entire **democratic structure** of our country stands. These institutions make it possible for **local people** to take interest in their own affairs and groom them well to take on **larger responsibilities** later."
             }
           ]
         },
         {
-          "title": "(ii) To hold Panchayat elections regularly every five years,",
+          "title": "(ii)",
           "sequence_number": 2,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "One of the salient features of the Constitution (73rd Amendment) Act, 1992 is to hold **Panchayat elections** regularly **every five years**."
+              "content_md": "This intermediate body at the block level is known by different names in different states, like **Panchayat Samiti**, **Kshetra Samiti**, **Janapada Panchayat** and **Panchayat Union Council**.\n\nThe **Community Block** is in fact Panchayat of the Panchayats."
             }
           ]
         },
         {
-          "title": "(iii) To provide reservation of seats for Scheduled Castes, Scheduled Tribes and women.",
+          "title": "(iii)",
           "sequence_number": 3,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "One of the salient features of the **Constitution (73rd Amendment) Act, 1992** is to provide **reservation of seats** for **Scheduled Castes**, **Scheduled Tribes** and **women**."
+              "content_md": ""
             }
           ]
         },
         {
-          "title": "(iv) To constitute State Finance Commissions every five years to make recommendations on financial powers of the Panchayats,",
+          "title": "(iv)",
           "sequence_number": 4,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "To constitute **State Finance Commissions** every five years to make recommendations on **financial powers of the Panchayats**."
+              "content_md": "**Nyaya Panchayat** also called **Panchayati Adalat** is set up for every three or four **Gram Panchayats**. These Panchayats exist only in some States and perform **judicial functions**. The chief characteristics of **Nyaya Panchayats** are the following:\n\n1.  They ensure **quick and inexpensive justice** to villagers.\n2.  They can impose a **fine** of up to Rs. 100.\n3.  They **cannot award a sentence of imprisonment**.\n4.  **Lawyers are not allowed** to appear before these Panchayats.\n5.  There is generally **no appeal** against the decision of a **Nyaya Panchayat** if the powers are exercised within their jurisdiction.\n6.  However, under the Panchayats Act, **Sub-divisional Magistrates** and **Sub-Judges** of the District are empowered to hear appeals.\n7.  No person can be a member of the **Nyaya Panchayat** and the **Panchayat Samiti**, **Gram Panchayat** or other local self-governing body at the same time.\n8.  The state government or the **State Judicial Service** decides the jurisdiction of these Panchayats.\n\nFrom the above account it can be stated that **Gram Sabha** acts as a **General Body** as well as legislature, the **Panchayat** as the **Executive** and **Nyaya Panchayat** as the **Judicial Body** for a village or a group of such villages."
             }
           ]
         },
         {
-          "title": "(v) To constitute District Planning Committee to prepare draft development plan for the district as a whole.",
+          "title": "(v)",
           "sequence_number": 5,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "To constitute **District Planning Committee** to prepare **draft development plan** for the district as a whole."
+              "content_md": "To approve **building plans**, undertake other development works including **roads and bridges** within the circle Panchayats."
             }
           ]
         }
@@ -306,7 +231,7 @@
           "children": [],
           "content_blocks": [
             {
-              "content_md": "The members of the **Gram Panchayat** are elected by the **Gram Sabha**. In essence **Gram Sabha** functions as the general body of the **Gram Panchayat**. All adult men and women in the village registered as voters are members of the **Gram Sabha**."
+              "content_md": "The members of the **Gram Panchayat** are elected by the **Gram Sabha**. In essence **Gram Sabha** functions as the general body of the Gram Panchayat. All adult men and women in the village registered as voters are members of the **Gram Sabha**."
             }
           ]
         },
@@ -316,7 +241,11 @@
           "depth": 1,
           "level_label": "Topic",
           "children": [],
-          "content_blocks": []
+          "content_blocks": [
+            {
+              "content_md": "This intermediate body at the block level is known by different names in different states, like **Panchayat Samiti**, **Kshetra Samiti**, **Janapada Panchayat** and **Panchayat Union Council**.\n\nThe **Community Block** is in fact **Panchayat of the Panchayats**."
+            }
+          ]
         },
         {
           "title": "(iii) Zila Parishad at District level.",
@@ -326,19 +255,10 @@
           "children": [],
           "content_blocks": [
             {
-              "content_md": "At the apex of the **three-tier Panchayati Raj system** lies the **Zila Parishad**. It is a **local self-government unit at district level**. **Panchayat Samiti** forms a link between the **Gram Panchayat** and **Zila Parishad**. The link between the **State Government** and the **Gram Panchayats** is the **Zila Parishad**.\n\nThe **Zila Parishad** is also known by different names in different States, like **District Development Council**, **Zila Parishad** and **Mohkuma Parishad**."
-            }
-          ]
-        },
-        {
-          "title": "In addition, a Nyaya Panchayat has been provided for every three or four village Panchayats.",
-          "sequence_number": 4,
-          "depth": 1,
-          "level_label": "Topic",
-          "children": [],
-          "content_blocks": [
+              "content_md": "At the apex of the **three-tier Panchayati Raj system** lies the **Zila Parishad**. It is a **local self-government unit at district level**. **Panchayat Samiti** forms a link between the **Gram Panchayat** and **Zila Parishad**. The link between the **State Government** and the **Gram Panchayats** is the **Zila Parishad**."
+            },
             {
-              "content_md": ""
+              "content_md": "The **Zila Parishad** is also known by different names in different States, like **District Development Council**, **Zila Parishad** and **Mohkuma Parishad**."
             }
           ]
         }
@@ -352,50 +272,50 @@
       "level_label": "Section",
       "children": [
         {
-          "title": "(i) He/She must be a citizen of India and not less than 21 years of age.",
+          "title": "(i)",
           "sequence_number": 1,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "He/She must be a **citizen of India** and not less than **21 years of age**."
+              "content_md": "The members of the **Gram Panchayat** are elected by the **Gram Sabha**. In essence **Gram Sabha** functions as the general body of the **Gram Panchayat**. All adult men and women in the village registered as voters are members of the **Gram Sabha**."
             }
           ]
         },
         {
-          "title": "(ii) He/She must be a registered voter, in the case of Panchayats, member of the Gram Sabha, in the constituency.",
+          "title": "(ii)",
           "sequence_number": 2,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "He/She must be a **registered voter**, in the case of Panchayats, member of the **Gram Sabha**, in the constituency."
+              "content_md": ""
             }
           ]
         },
         {
-          "title": "(iii) He/She should not be a convict or have been disqualified by a Law of the Parliament or an undischarged insolvent.",
+          "title": "(iii)",
           "sequence_number": 3,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "He/She should not be a **convict** or have been **disqualified by a Law of the Parliament** or an **undischarged insolvent**."
+              "content_md": "At the apex of the **three-tier Panchayati Raj system** lies the **Zila Parishad**. It is a **local self-government unit** at **district level**. **Panchayat Samiti** forms a link between the **Gram Panchayat** and **Zila Parishad**. The link between the **State Government** and the **Gram Panchayats** is the **Zila Parishad**.\n\nThe **Zila Parishad** is also known by different names in different States, like **District Development Council**, Zila Parishad and **Mohkuma Parishad**."
             }
           ]
         },
         {
-          "title": "(iv) He/She should not hold any office of profit under the Government.",
+          "title": "(iv)",
           "sequence_number": 4,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "He/She should not hold any **office of profit** under the Government."
+              "content_md": "(iv) The local institutions encourage **self-help** and **voluntary service** and save the state of many unnecessary expenses."
             }
           ]
         }
@@ -403,14 +323,14 @@
       "content_blocks": []
     },
     {
-      "title": "(b) Term:",
+      "title": "(b) Term",
       "sequence_number": 9,
       "depth": 0,
       "level_label": "Section",
       "children": [],
       "content_blocks": [
         {
-          "content_md": "The **Constitution (73rd Amendment) Act, 1992** relating to **Panchayats** and Part IX-A relating to **Municipalities** provide for, among other things, a **uniform and fixed term of 5 years** for both the **rural and urban local bodies**."
+          "content_md": "The **Constitution (73rd Amendment) Act, 1992** relating to **Panchayats** and **Part IX-A** relating to **Municipalities** provide for among other things a uniform and fixed term of **5 years** for both the rural and urban local bodies."
         }
       ]
     },
@@ -433,7 +353,7 @@
       "level_label": "Section",
       "children": [
         {
-          "title": "Sarpanch: He/She is the head of the Gram Panchayat.",
+          "title": "Sarpanch:",
           "sequence_number": 1,
           "depth": 1,
           "level_label": "Topic",
@@ -445,26 +365,26 @@
           ]
         },
         {
-          "title": "Members: Number of members of the Panchayat is fixed by the State.",
+          "title": "Members:",
           "sequence_number": 2,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "Number of members of the **Panchayat** is fixed by the **State**. The membership of a **Village Panchayat** is between **5 to 31**. In most of the States a **Village Panchayat** has **5 to 9** members. **One-third** of the seats of the **Panchayat** are **reserved for women**. Seats are also reserved for **Scheduled Castes/Tribes** in proportion to their population in the village. The members are elected on the principle of **Adult Franchise**."
+              "content_md": "- The number of members of the **Panchayat** is fixed by the **State**.\n- The membership of a **Village Panchayat** is between **5 to 31**. In most of the States, a **Village Panchayat** has **5 to 9 members**.\n- **One-third of the seats** of the Panchayat are reserved for **women**.\n- Seats are also reserved for **Scheduled Castes/Tribes** in proportion to their population in the village.\n- The members are elected on the principle of **Adult Franchise**."
             }
           ]
         },
         {
-          "title": "Office Bearers: The Sarpanch and Vice-Sarpanch are honorary members.",
+          "title": "Office Bearers:",
           "sequence_number": 3,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "The **Sarpanch** and **Vice-Sarpanch** are **honorary members**. They are not paid a salary. A paid **Secretary** to the Panchayat and a **Treasurer**, if the Panchayat is large, are appointed by the **State government** through the **district authorities**."
+              "content_md": "The **Sarpanch** and **Vice-Sarpanch** are honorary members. They are not paid a salary. A paid **Secretary** to the Panchayat and a **Treasurer**, if the Panchayat is large, are appointed by the State government through the district authorities."
             }
           ]
         }
@@ -484,86 +404,86 @@
           "level_label": "Topic",
           "children": [
             {
-              "title": "(i) All public works and public welfare functions like construction, repair and maintenance of village roads, cart tracks, bridges, drains, tanks and wells.",
+              "title": "(i)",
               "sequence_number": 1,
               "depth": 2,
               "level_label": "Subtopic",
               "children": [],
               "content_blocks": [
                 {
-                  "content_md": "This includes all **public works** and **public welfare functions** like the **construction, repair and maintenance** of **village roads, cart tracks, bridges, drains, tanks and wells**."
+                  "content_md": "The members of the **Gram Panchayat** are elected by the **Gram Sabha**. In essence **Gram Sabha** functions as the general body of the **Gram Panchayat**. All adult men and women in the village registered as voters are members of the **Gram Sabha**."
                 }
               ]
             },
             {
-              "title": "(ii) Upkeep of cremation and burial grounds.",
+              "title": "(ii)",
               "sequence_number": 2,
               "depth": 2,
               "level_label": "Subtopic",
               "children": [],
               "content_blocks": [
                 {
-                  "content_md": "As part of its administrative functions, the Gram Panchayat is responsible for the **upkeep of cremation and burial grounds**."
+                  "content_md": "The **local institutions** provide a **training ground for local leadership** and to gain necessary experience for undertaking bigger challenges at the state or the national level."
                 }
               ]
             },
             {
-              "title": "(iii) Sanitation, health, setting up of health centres and dispensaries.",
+              "title": "(iii)",
               "sequence_number": 3,
               "depth": 2,
               "level_label": "Subtopic",
               "children": [],
               "content_blocks": [
                 {
-                  "content_md": "One of the administrative functions of the Gram Panchayat is matters relating to **Sanitation**, **health**, and the setting up of **health centres** and **dispensaries**."
+                  "content_md": "### ZILA PARISHAD (AT DISTRICT LEVEL)\n\nAt the apex of the three-tier **Panchayati Raj system** lies the **Zila Parishad**. It is a local self-government unit at district level. **Panchayat Samiti** forms a link between the **Gram Panchayat** and **Zila Parishad**. The link between the State Government and the **Gram Panchayats** is the **Zila Parishad**.\n\nThe **Zila Parishad** is also known by different names in different States, like **District Development Council**, **Zila Parishad** and **Mohkuma Parishad**."
                 }
               ]
             },
             {
-              "title": "(iv) Providing primary education.",
+              "title": "(iv)",
               "sequence_number": 4,
               "depth": 2,
               "level_label": "Subtopic",
               "children": [],
               "content_blocks": [
                 {
-                  "content_md": "Providing **primary education**."
+                  "content_md": "To pay special attention to **development of agriculture** through undertaking **minor irrigation schemes**, distribution of **quality seeds and fertilisers**."
                 }
               ]
             },
             {
-              "title": "(v) Arranging irrigation facilities, seeds, fertilisers.",
+              "title": "(v)",
               "sequence_number": 5,
               "depth": 2,
               "level_label": "Subtopic",
               "children": [],
               "content_blocks": [
                 {
-                  "content_md": "Arranging **irrigation facilities**, **seeds**, **fertilisers**."
+                  "content_md": "To approve **building plans**, undertake other **development works** including **roads** and **bridges** within the circle Panchayats."
                 }
               ]
             },
             {
-              "title": "(vi) Registration of births and deaths.",
+              "title": "(vi)",
               "sequence_number": 6,
               "depth": 2,
               "level_label": "Subtopic",
               "children": [],
               "content_blocks": [
                 {
-                  "content_md": "One of the **administrative functions** of the **Gram Panchayat** is the **registration of births and deaths**."
+                  "content_md": "* To provide **drinking water** and execute other **community development programmes**."
                 }
               ]
             },
             {
-              "title": "(vii) Maintaining records of common village property, their sale and purchase and land grants.",
+              "title": "(vii)",
               "sequence_number": 7,
               "depth": 2,
               "level_label": "Subtopic",
               "children": [],
               "content_blocks": [
                 {
-                  "content_md": "Maintaining records of **common village property**, their **sale and purchase** and **land grants**."
+                  "content_md": "*   These institutions lessen the burden of workload on **State and Central Government machinery**."
                 }
               ]
             }
@@ -577,50 +497,50 @@
           "level_label": "Topic",
           "children": [
             {
-              "title": "(i) Construction of guest houses, libraries, marriage halls, etc;",
+              "title": "(i)",
               "sequence_number": 1,
               "depth": 2,
               "level_label": "Subtopic",
               "children": [],
               "content_blocks": [
                 {
-                  "content_md": "Construction of **guest houses**, **libraries**, **marriage halls**, etc."
+                  "content_md": "These institutions provide the foundations on which the entire **democratic structure** of our country stands. These institutions make it possible for **local people** to take interest in their own affairs and groom them well to take on **larger responsibilities** later."
                 }
               ]
             },
             {
-              "title": "(ii) Organising regular village melas, fairs and exhibitions;",
+              "title": "(ii)",
               "sequence_number": 2,
               "depth": 2,
               "level_label": "Subtopic",
               "children": [],
               "content_blocks": [
                 {
-                  "content_md": "Organising regular village **melas**, **fairs** and **exhibitions**."
+                  "content_md": "This intermediate body at the block level is known by different names in different states, like **Panchayat Samiti**, **Kshetra Samiti**, **Janapada Panchayat** and **Panchayat Union Council**.\n\nThe **Community Block** is in fact Panchayat of the Panchayats."
                 }
               ]
             },
             {
-              "title": "(iii) Planting of trees, parks, gardens and playgrounds for recreation;",
+              "title": "(iii)",
               "sequence_number": 3,
               "depth": 2,
               "level_label": "Subtopic",
               "children": [],
               "content_blocks": [
                 {
-                  "content_md": "This function includes the **planting of trees, parks, gardens** and **playgrounds for recreation**."
+                  "content_md": "#### ZILA PARISHAD (AT DISTRICT LEVEL)\n\nAt the apex of the **three-tier Panchayati Raj system** lies the **Zila Parishad**. It is a **local self-government unit at district level**. **Panchayat Samiti** forms a link between the **Gram Panchayat** and **Zila Parishad**. The link between the **State Government** and the **Gram Panchayats** is the **Zila Parishad**.\n\nThe **Zila Parishad** is also known by different names in different States, like **District Development Council**, **Zila Parishad** and **Mohkuma Parishad**."
                 }
               ]
             },
             {
-              "title": "(iv) Establishing fair price shops, Cooperative Credit Societies.",
+              "title": "(iv)",
               "sequence_number": 4,
               "depth": 2,
               "level_label": "Subtopic",
               "children": [],
               "content_blocks": [
                 {
-                  "content_md": "A Gram Panchayat may perform the function of establishing **fair price shops** and **Cooperative Credit Societies**."
+                  "content_md": "The local institutions encourage **self-help** and **voluntary service** and save the state of many unnecessary expenses."
                 }
               ]
             }
@@ -632,24 +552,12 @@
           "sequence_number": 3,
           "depth": 1,
           "level_label": "Topic",
-          "children": [
+          "children": [],
+          "content_blocks": [
             {
-              "title": "These are discussed under Nyaya Panchayats.",
-              "sequence_number": 1,
-              "depth": 2,
-              "level_label": "Subtopic",
-              "children": [],
-              "content_blocks": [
-                {
-                  "content_md": "**Nyaya Panchayat** also called **Panchayati Adalat** is set up for every three or four **Gram Panchayats**. These Panchayats exist only in some States and perform **judicial functions**. The chief characteristics of Nyaya Panchayats are the following:\n1.  They ensure **quick and inexpensive justice** to villagers.\n2.  They can impose a **fine of up to Rs. 100**.\n3.  They **cannot award a sentence of imprisonment**.\n4.  **Lawyers are not allowed** to appear before these Panchayats.\n5.  There is generally **no appeal** against the decision of a Nyaya Panchayat if the powers are exercised within their jurisdiction.\n6.  However, under the Panchayats Act, **Sub-divisional Magistrates** and **Sub-Judges** of the District are empowered to hear appeals.\n7.  No person can be a member of the Nyaya Panchayat and the Panchayat Samiti, Gram Panchayat or other local self-governing body at the same time.\n8.  The state government or the **State Judicial Service** decides the jurisdiction of these Panchayats."
-                },
-                {
-                  "content_md": "From the above account it can be stated that **Gram Sabha** acts as a **General Body** as well as legislature, the **Panchayat** as the **Executive** and **Nyaya Panchayat** as the **Judicial Body** for a village or a group of such villages."
-                }
-              ]
+              "content_md": "These are discussed under **Nyaya Panchayats**."
             }
-          ],
-          "content_blocks": []
+          ]
         }
       ],
       "content_blocks": []
@@ -661,7 +569,7 @@
       "level_label": "Section",
       "children": [
         {
-          "title": "(i) They ensure quick and inexpensive justice to villagers.",
+          "title": "(i)",
           "sequence_number": 1,
           "depth": 1,
           "level_label": "Topic",
@@ -673,79 +581,85 @@
           ]
         },
         {
-          "title": "(ii) They can impose a fine of up to Rs. 100.",
+          "title": "(ii)",
           "sequence_number": 2,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "They can impose a **fine** of up to **Rs. 100**."
+              "content_md": "This intermediate body at the block level is known by different names in different states, like **Panchayat Samiti**, **Kshetra Samiti**, **Janapada Panchayat** and **Panchayat Union Council**.\n\nThe **Community Block** is in fact Panchayat of the Panchayats."
+            },
+            {
+              "content_md": "[Image: Panchayat Samiti Office, Dahanu]"
             }
           ]
         },
         {
-          "title": "(iii) They cannot award a sentence of imprisonment.",
+          "title": "(iii)",
           "sequence_number": 3,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "They cannot award a **sentence of imprisonment**."
+              "content_md": "At the apex of the **three-tier Panchayati Raj system** lies the **Zila Parishad**. It is a local self-government unit at district level. **Panchayat Samiti** forms a link between the **Gram Panchayat** and **Zila Parishad**. The link between the **State Government** and the **Gram Panchayats** is the **Zila Parishad**.\n\nThe **Zila Parishad** is also known by different names in different States, like **District Development Council**, **Zila Parishad** and **Mohkuma Parishad**."
             }
           ]
         },
         {
-          "title": "(iv) Lawyers are not allowed to appear before these Panchayats.",
+          "title": "(iv)",
           "sequence_number": 4,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "Lawyers are not allowed to appear before these Panchayats."
+              "content_md": "The **Nyaya Panchayat**, also called **Panchayati Adalat**, is set up for every three or four Gram Panchayats. These Panchayats exist only in some States and perform judicial functions. The chief characteristics of Nyaya Panchayats are the following:\n1.  They ensure **quick and inexpensive justice** to villagers.\n2.  They can impose a **fine of up to Rs. 100**.\n3.  They **cannot award a sentence of imprisonment**.\n4.  **Lawyers are not allowed** to appear before these Panchayats.\n5.  There is generally **no appeal against the decision** of a Nyaya Panchayat if the powers are exercised within their jurisdiction.\n6.  However, under the Panchayats Act, **Sub-divisional Magistrates** and **Sub-Judges** of the District are empowered to hear appeals.\n7.  No person can be a member of the Nyaya Panchayat and the Panchayat Samiti, Gram Panchayat or other local self-governing body at the same time.\n8.  The **state government** or the **State Judicial Service** decides the jurisdiction of these Panchayats."
+            },
+            {
+              "content_md": "From the above account it can be stated that the **Gram Sabha** acts as a **General Body** as well as legislature, the **Panchayat** as the **Executive** and the **Nyaya Panchayat** as the **Judicial Body** for a village or a group of such villages."
             }
           ]
         },
         {
-          "title": "(v) There is generally no appeal against the decision of a Nyaya Panchayat if the powers are exercised within their jurisdiction.",
+          "title": "(v)",
           "sequence_number": 5,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "There is generally no appeal against the decision of a **Nyaya Panchayat** if the powers are exercised within their **jurisdiction**."
+              "content_md": "At the apex of the **three-tier Panchayati Raj system** lies the **Zila Parishad**. It is a **local self-government unit** at district level. **Panchayat Samiti** forms a link between the **Gram Panchayat** and **Zila Parishad**. The link between the **State Government** and the **Gram Panchayats** is the **Zila Parishad**.\n\nThe **Zila Parishad** is also known by different names in different States, like **District Development Council**, **Zila Parishad** and **Mohkuma Parishad**."
             }
           ]
         },
         {
-          "title": "(vi) However, under the Panchayats Act, Sub-divisional Magistrates and Sub-Judges of the District are empowered to hear appeals.",
+          "title": "(vi)",
           "sequence_number": 6,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "However, under the **Panchayats Act**, **Sub-divisional Magistrates** and **Sub-Judges** of the District are empowered to hear appeals."
+              "content_md": "Gandhiji's dream of every village being a republic has been translated into reality with the introduction of the **three-tier Panchayati Raj System**.\n\nThe **Ministry of Rural Development** gives **training** to the members of the Panchayats at all levels in order to implement the **rural development programmes** under schemes such as **Swarnajayanti Gram Swarozgar Yojana (SGSY)**. The Panchayati Raj system has, thus, brought government close to people."
             }
           ]
         },
         {
-          "title": "(vii) No person can be a member of the Nyaya Panchayat and the Panchayat Samiti, Gram Panchayat or other local self-governing body at the same time.",
+          "title": "(vii)",
           "sequence_number": 7,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "No person can be a member of the **Nyaya Panchayat** and the **Panchayat Samiti**, **Gram Panchayat** or other local self-governing body at the same time."
+              "content_md": "To act as a **link** between the **Gram Panchayat** and **Zila Parishad**."
             }
           ]
         },
         {
-          "title": "(viii) The state government or the State Judicial Service decides the jurisdiction of these Panchayats.",
+          "title": "(viii)",
           "sequence_number": 8,
           "depth": 1,
           "level_label": "Topic",
@@ -767,7 +681,7 @@
       "children": [],
       "content_blocks": [
         {
-          "content_md": "This intermediate body at the block level is known by different names in different states, like **Panchayat Samiti**, **Kshetra Samiti**, **Janapada Panchayat** and **Panchayat Union Council**.\n\nThe **Community Block** is in fact Panchayat of the Panchayats."
+          "content_md": "This intermediate body at the block level is known by different names in different states, like **Panchayat Samiti**, **Kshetra Samiti**, **Janapada Panchayat** and **Panchayat Union Council**.\n\nThe **Community Block** is in fact Panchayat of the Panchayats.\n\n[Image: Panchayat Samiti Office, Dahanu]"
         }
       ]
     },
@@ -778,74 +692,74 @@
       "level_label": "Section",
       "children": [
         {
-          "title": "(i) Sarpanchs of all Panchayats concerned.",
+          "title": "(i)",
           "sequence_number": 1,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "* **Sarpanchs** of all **Panchayats** concerned."
+              "content_md": "These institutions provide the **foundations** on which the entire **democratic structure** of our country stands. These institutions make it possible for **local people** to take interest in their own affairs and groom them well to take on **larger responsibilities** later."
             }
           ]
         },
         {
-          "title": "(ii) Members of Legislative Assembly of the State from the area.",
+          "title": "(ii)",
           "sequence_number": 2,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "* **Members of Legislative Assembly** of the State from the area."
+              "content_md": "This intermediate body at the block level is known by different names in different states, like **Panchayat Samiti**, **Kshetra Samiti**, **Janapada Panchayat** and **Panchayat Union Council**.\n\nThe **Community Block** is in fact Panchayat of the Panchayats."
             }
           ]
         },
         {
-          "title": "(iii) Members of Parliament belonging to the area.",
+          "title": "(iii)",
           "sequence_number": 3,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "The composition of the **Panchayat Samiti** includes **Members of Parliament** belonging to the area as its members."
+              "content_md": "- **Zila Parishad** at District level."
             }
           ]
         },
         {
-          "title": "(iv) Block Development Officers of the block or the area served by them.",
+          "title": "(iv)",
           "sequence_number": 4,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "The **Block Development Officers** of the block or the area served by them are members of the Panchayat Samiti."
+              "content_md": "* The local institutions encourage **self-help** and **voluntary service** and save the state of many unnecessary expenses."
             }
           ]
         },
         {
-          "title": "(v) Co-opted members (provisional) representing women, Scheduled Castes/ Tribes.",
+          "title": "(v)",
           "sequence_number": 5,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "The Panchayat Samiti includes **Co-opted members** (provisional) representing women, **Scheduled Castes/ Tribes**."
+              "content_md": "(v) To constitute **District Planning Committee** to prepare draft development plan for the district as a whole."
             }
           ]
         },
         {
-          "title": "(vi) Representatives of Cooperative Societies (only in certain States).",
+          "title": "(vi)",
           "sequence_number": 6,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": ""
+              "content_md": "The members of the **Gram Panchayat** are elected by the **Gram Sabha**. In essence **Gram Sabha** functions as the general body of the **Gram Panchayat**. All adult men and women in the village registered as voters are members of the **Gram Sabha**."
             }
           ]
         }
@@ -859,38 +773,38 @@
       "level_label": "Section",
       "children": [
         {
-          "title": "Chairperson-elected from amongst its own members.",
+          "title": "Chairperson",
           "sequence_number": 1,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "**Chairperson**—elected from amongst its own members."
+              "content_md": "The **Chairperson** is elected from amongst the own members of the Panchayat Samiti."
             }
           ]
         },
         {
-          "title": "Deputy Chairperson—elected from amongst its own members.",
+          "title": "Deputy Chairperson",
           "sequence_number": 2,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "**Deputy Chairperson**—elected from amongst its own members."
+              "content_md": "**Elected** by **members** amongst themselves."
             }
           ]
         },
         {
-          "title": "Secretary-A salaried employee appointed by the State authorities through District Administration.",
+          "title": "Secretary",
           "sequence_number": 3,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "**Secretary**: A salaried employee appointed by the **State authorities** through **District Administration**."
+              "content_md": "**Secretary**: A **whole-time paid employee** of the **state government**."
             }
           ]
         }
@@ -904,86 +818,50 @@
       "level_label": "Section",
       "children": [
         {
-          "title": "(i) To supervise and coordinate the working of Gram Panchayats.",
+          "title": "(i)",
           "sequence_number": 1,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "To **supervise** and **coordinate** the working of **Gram Panchayats**."
+              "content_md": "* These institutions provide the foundations on which the entire **democratic structure** of our country stands. These institutions make it possible for **local people to take interest in their own affairs** and groom them well to take on **larger responsibilities** later."
             }
           ]
         },
         {
-          "title": "(ii) To conduct higher education (higher secondary level and above) for a group of villages or at block level.",
+          "title": "(ii)",
           "sequence_number": 2,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "To conduct **higher education** (**higher secondary level** and above) for a group of villages or at **block level**."
+              "content_md": "The **local institutions** provide a **training ground** for **local leadership** and to gain **necessary experience** for undertaking bigger challenges at the **state or the national level**."
             }
           ]
         },
         {
-          "title": "(iii) To provide hospital and health services with various facilities at community block level.",
+          "title": "(iii)",
           "sequence_number": 3,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "To provide **hospital and health services** with various facilities at **community block level**."
+              "content_md": "### ZILA PARISHAD (AT DISTRICT LEVEL)\n\nAt the apex of the **three-tier Panchayati Raj system** lies the **Zila Parishad**. It is a **local self-government unit at district level**. **Panchayat Samiti** forms a link between the **Gram Panchayat** and **Zila Parishad**. The link between the **State Government** and the **Gram Panchayats** is the **Zila Parishad**.\n\nThe **Zila Parishad** is also known by different names in different States, like **District Development Council**, **Zila Parishad** and **Mohkuma Parishad**."
             }
           ]
         },
         {
-          "title": "(iv) To pay special attention to development of agriculture through undertaking minor irrigation schemes, distribution of quality seeds and fertilisers.",
+          "title": "(iv)",
           "sequence_number": 4,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "To pay special attention to the **development of agriculture** through undertaking **minor irrigation schemes**, distribution of **quality seeds** and **fertilisers**."
-            }
-          ]
-        },
-        {
-          "title": "(v) To approve building plans, undertake other development works including roads and bridges within the circle Panchayats.",
-          "sequence_number": 5,
-          "depth": 1,
-          "level_label": "Topic",
-          "children": [],
-          "content_blocks": [
-            {
-              "content_md": "To approve **building plans**, undertake other **development works** including **roads and bridges** within the circle Panchayats."
-            }
-          ]
-        },
-        {
-          "title": "(vi) To provide drinking water and execute other community development programmes.",
-          "sequence_number": 6,
-          "depth": 1,
-          "level_label": "Topic",
-          "children": [],
-          "content_blocks": [
-            {
-              "content_md": "To provide **drinking water** and execute other **community development programmes**."
-            }
-          ]
-        },
-        {
-          "title": "(vii) To act as a link between the Gram Panchayat and Zila Parishad.",
-          "sequence_number": 7,
-          "depth": 1,
-          "level_label": "Topic",
-          "children": [],
-          "content_blocks": [
-            {
-              "content_md": "The Panchayat Samiti functions to act as a **link** between the **Gram Panchayat** and **Zila Parishad**."
+              "content_md": "The local institutions encourage **self-help** and **voluntary service** and save the state of many unnecessary expenses."
             }
           ]
         }
@@ -991,14 +869,14 @@
       "content_blocks": []
     },
     {
-      "title": "VILA PARISHAD (AT DISTRICT LEVEL)",
+      "title": "VOILA PARISHAD (AT DISTRICT LEVEL)",
       "sequence_number": 18,
       "depth": 0,
       "level_label": "Section",
       "children": [],
       "content_blocks": [
         {
-          "content_md": "At the apex of the **three-tier Panchayati Raj system** lies the **Zila Parishad**. It is a local self-government unit at district level. **Panchayat Samiti** forms a link between the **Gram Panchayat** and **Zila Parishad**. The link between the State Government and the **Gram Panchayats** is the **Zila Parishad**.\n\nThe **Zila Parishad** is also known by different names in different States, like **District Development Council**, **Zila Parishad** and **Mohkuma Parishad**."
+          "content_md": "At the apex of the **three-tier Panchayati Raj system** lies the **Zila Parishad**. It is a **local self-government unit** at district level. **Panchayat Samiti** forms a link between the **Gram Panchayat** and **Zila Parishad**. The link between the **State Government** and the **Gram Panchayats** is the **Zila Parishad**.\n\nThe **Zila Parishad** is also known by different names in different States, like **District Development Council**, Zila Parishad and **Mohkuma Parishad**."
         }
       ]
     },
@@ -1010,7 +888,7 @@
       "children": [],
       "content_blocks": [
         {
-          "content_md": "**Sarpanch**: He/She is the head of the **Gram Panchayat**. In some states a **Sarpanch** is elected directly and in others indirectly by members of the **Gram Panchayat**. A **Vice-Sarpanch** from amongst its own members is also elected.\n\n**Members**: Number of members of the **Panchayat** is fixed by the **State**. The membership of a **Village Panchayat** is between 5 to 31. In most of the States a **Village Panchayat** has 5 to 9 members. One-third of the seats of the **Panchayat** are reserved for women. Seats are also reserved for **Scheduled Castes/Tribes** in proportion to their population in the village. The members are elected on the principle of **Adult Franchise**.\n\n**Office Bearers**: The **Sarpanch** and **Vice-Sarpanch** are honorary members. They are not paid a salary. A paid **Secretary** to the **Panchayat** and a **Treasurer**, if the **Panchayat** is large, are appointed by the **State government** through the district authorities."
+          "content_md": "**Sarpanch**: He/She is the head of the **Gram Panchayat**. In some states a Sarpanch is elected directly and in others indirectly by members of the Gram Panchayat. A **Vice-Sarpanch** from amongst its own members is also elected.\n\n**Members**: Number of members of the Panchayat is fixed by the **State**. The membership of a Village Panchayat is between **5 to 31**. In most of the States a Village Panchayat has **5 to 9 members**. **One-third** of the seats of the Panchayat are reserved for **women**. Seats are also reserved for **Scheduled Castes/Tribes** in proportion to their population in the village. The members are elected on the principle of **Adult Franchise**.\n\n**Office Bearers**: The **Sarpanch** and **Vice-Sarpanch** are **honorary members**. They are not paid a salary. A paid **Secretary** to the Panchayat and a **Treasurer**, if the Panchayat is large, are appointed by the **State government** through the district authorities."
         }
       ]
     },
@@ -1021,38 +899,38 @@
       "level_label": "Section",
       "children": [
         {
-          "title": "Chairman: Presides over the meetings and conduct proceedings.",
+          "title": "Chairman:",
           "sequence_number": 1,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "The **Chairman** presides over the meetings and conducts proceedings. He is elected by the members from amongst themselves."
+              "content_md": "The **Chairman** of the Zila Parishad presides over the meetings and conducts proceedings. He is **elected by members from amongst themselves**."
             }
           ]
         },
         {
-          "title": "Deputy Chairperson: Elected by members amongst themselves.",
+          "title": "Deputy Chairperson:",
           "sequence_number": 2,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "**Deputy Chairperson**: Elected by members amongst themselves."
+              "content_md": "The **Deputy Chairperson** is elected by the members from amongst themselves."
             }
           ]
         },
         {
-          "title": "Secretary: 'A whole time paid employee of the state government.",
+          "title": "Secretary:",
           "sequence_number": 3,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "**Secretary**: A whole time paid employee of the state government."
+              "content_md": "A **whole time paid employee** of the **state government**."
             }
           ]
         }
@@ -1066,86 +944,86 @@
       "level_label": "Section",
       "children": [
         {
-          "title": "(i) Overseeing all-round development work of the district under the overall charge of an experienced functionary like the Deputy Commissioner.",
+          "title": "(i)",
           "sequence_number": 1,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "Overseeing **all-round development work** of the **district** under the overall charge of an experienced functionary like the **Deputy Commissioner**."
+              "content_md": "These institutions provide the **foundations** on which the entire **democratic structure** of our country stands. These institutions make it possible for **local people** to take interest in their own affairs and groom them well to take on **larger responsibilities** later."
             }
           ]
         },
         {
-          "title": "(ii) The Standing Committees have each a Chairperson, and Deputy Chairperson, holds discussions and take decisions.",
+          "title": "(ii)",
           "sequence_number": 2,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "The **Standing Committees** have each a **Chairperson**, and **Deputy Chairperson**, holds discussions and take decisions. Members of the **District Boards** are also included in the **Standing Committee**."
+              "content_md": "The **local institutions** provide a **training ground for local leadership** and to gain necessary experience for undertaking bigger challenges at the state or the national level."
             }
           ]
         },
         {
-          "title": "(iii) In practice, the Working Committee functions as the executive body of the District Board.",
+          "title": "(iii)",
           "sequence_number": 3,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "In practice, the **Working Committee** functions as the **executive body** of the **District Board**."
+              "content_md": "At the apex of the three-tier Panchayati Raj system lies the **Zila Parishad**. It is a local self-government unit at district level. **Panchayat Samiti** forms a link between the **Gram Panchayat** and **Zila Parishad**. The link between the **State Government** and the **Gram Panchayats** is the **Zila Parishad**.\n\nThe **Zila Parishad** is also known by different names in different States, like **District Development Council**, **Zila Parishad** and **Mohkuma Parishad**."
             }
           ]
         },
         {
-          "title": "(iv) Supervision of working of Panchayats is carried out.",
+          "title": "(iv)",
           "sequence_number": 4,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "**Supervision of working of Panchayats** is carried out."
+              "content_md": "(iv) The local institutions encourage **self-help** and **voluntary service** and save the state of many unnecessary expenses."
             }
           ]
         },
         {
-          "title": "(v) In some states like in Assam, Bihar and Punjab scrutiny of the budget estimates of Panchayat Samitis is done.",
+          "title": "(v)",
           "sequence_number": 5,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "In some states like in **Assam**, **Bihar** and **Punjab** scrutiny of the budget estimates of **Panchayat Samitis** is done."
+              "content_md": "**Local self-government institutions** gain the support of local communities."
             }
           ]
         },
         {
-          "title": "(vi) It cooperates with and coordinates the work of Panchayat Samitis for undertaking various development works specially minor irrigation works, vocational and industrial schools, village industries, sanitation and public health.",
+          "title": "(vi)",
           "sequence_number": 6,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "It cooperates with and coordinates the work of **Panchayat Samitis** for undertaking various development works, specially **minor irrigation works**, **vocational and industrial schools**, **village industries**, **sanitation** and **public health**."
+              "content_md": "At the apex of the **three-tier Panchayati Raj system** lies the **Zila Parishad**. It is a local self-government unit at district level. **Panchayat Samiti** forms a link between the **Gram Panchayat** and **Zila Parishad**. The link between the State Government and the Gram Panchayats is the Zila Parishad.\n\nThe Zila Parishad is also known by different names in different States, like **District Development Council**, **Zila Parishad** and **Mohkuma Parishad**."
             }
           ]
         },
         {
-          "title": "(vii) It advises the State Government on all matters relating to the Gram Panchayats and Panchayat Samitis under their own jurisdiction.",
+          "title": "(vii)",
           "sequence_number": 7,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "It advises the **State Government** on all matters relating to the **Gram Panchayats** and **Panchayat Samitis** under their own jurisdiction."
+              "content_md": "* To act as a **link** between the **Gram Panchayat** and **Zila Parishad**."
             }
           ]
         }
@@ -1160,10 +1038,10 @@
       "children": [],
       "content_blocks": [
         {
-          "content_md": "Gandhiji's dream of every village being a republic has been translated into reality with the introduction of the **three-tier Panchayati Raj System**.\n\nThe **Ministry of Rural Development** gives training to the members of the Panchayats at all levels in order to implement the rural development programmes under schemes such as **Swarnajayanti Gram Swarozgar Yojana (SGSY)**. The Panchayati Raj system has, thus, brought government close to people."
+          "content_md": "**Gandhiji's dream** of every village being a republic has been translated into reality with the introduction of the **three-tier Panchayati Raj System**."
         },
         {
-          "content_md": "*   The Central government has started the process of **digitisation** of over 2.5 lakh Gram Panchayats across the country. Under this, all Gram Panchayats will be converted to 'digital' Panchayats to provide speedy delivery of government services and welfare schemes to people in rural areas. As a part of the **Digital India program**, the Government of India has started the **eGram Swaraj**, a user-friendly web-based portal. It is a step towards complete digitisation of villages and will maintain all records of developmental activities of villages and will be accessible on mobile phones.\n*   Panchayati Raj system ensures **effective coordination** between government programmes and those of voluntary agencies.\n*   The **District Rural Development Agencies (DRDAs)** in close cooperation with **Zila Parishads** release funds to Gram Panchayats under the **Jawahar Gram Samridhi Yojana (JGSY)**. Its main objective is to create demand driven village infrastructure. JGSY is now implemented through Panchayats all over the country. The **Mahatma Gandhi National Rural Employment Guarantee Act, 2005**, provides every rural household 100 days of work in a year which involves unskilled manual work. **Gram Panchayat** is the implementing agency of this scheme."
+          "content_md": "*   The **Ministry of Rural Development** gives training to the members of the Panchayats at all levels in order to implement the rural development programmes under schemes such as **Swarnajayanti Gram Swarozgar Yojana (SGSY)**. The Panchayati Raj system has, thus, brought government close to people.\n*   The Central government has started the process of **digitisation of over 2.5 lakh Gram Panchayats** across the country. Under this, all Gram Panchayats will be converted to **'digital' Panchayats** to provide **speedy delivery of government services and welfare schemes** to people in rural areas. As a part of the **Digital India program**, the Government of India has started the **eGram Swaraj**, a user-friendly web-based portal. It is a step towards complete digitisation of villages and will maintain all records of developmental activities of villages and will be accessible on mobile phones.\n*   Panchayati Raj system ensures **effective coordination** between government programmes and those of voluntary agencies.\n*   The **District Rural Development Agencies (DRDAs)** in close cooperation with **Zila Parishads** release funds to Gram Panchayats under the **Jawahar Gram Samridhi Yojana (JGSY)**. Its main objective is to create demand driven village infrastructure. JGSY is now implemented through Panchayats all over the country. The **Mahatma Gandhi National Rural Employment Guarantee Act, 2005**, provides every rural household **100 days of work** in a year which involves unskilled manual work. **Gram Panchayat** is the **implementing agency** of this scheme."
         }
       ]
     }
@@ -1171,28 +1049,26 @@
   "additional_sections": [
     {
       "title": "Structure of Village Panchayat, Panchayat Samiti and Zila Parishad",
-      "content_md": "| Level | Village Panchayat | Panchayat Samiti | Zila Parishad |\n|---|---|---|---|\n| **Level** | Village | Block/Circle | District |\n| **Composition** | Consists of minimum 5 and maximum 31 members directly elected by Gram Sabha. | Sarpanchs of Village Panchayats, MLAs and MPs belonging to that area, members of the Zila Parishad and Block Development Officer. | Deputy Commissioner, Heads of government departments, BDOs and Chairmen of all Panchayat Samitis, MPs and MLAs belonging to that district. |\n| **President** | Sarpanch | Chairman | Chairman |\n| **Functions** | Provision of civic amenities, looking after sanitation, management of common property, provision of primary education and primary health centres. | Coordination of the working of various Panchayats under it. Management of schools and colleges. Maintenance of hospitals and other health services. Help in the development of agriculture. | Coordination of the working of Panchayat Samitis under it. Recommendation for grants-in-aid for local bodies. Help in the formulation of various plans. Act as a link between the government and the local bodies. |"
+      "content_md": "| Level | Village Panchayat | Panchayat Samiti | Zila Parishad |\n| :--- | :--- | :--- | :--- |\n| | **Village** | **Block/Circle** | **District** |\n| **Composition** | Consists of minimum 5 and maximum 31 members directly elected by Gram Sabha. | Sarpanchs of Village Panchayats, MLAs and MPs belonging to that area, members of the Zila Parishad and Block Development Officer. | Deputy Commissioner, Heads of government departments, BDOs and Chairmen of all Panchayat Samitis, MPs and MLAs belonging to that district. |\n| **President** | **Sarpanch** | **Chairman** | **Chairman** |\n| **Functions** | Provision of civic amenities, looking after sanitation, management of common property, provision of primary education and primary health centres. | Coordination of the working of various Panchayats under it.<br><br>Management of schools and colleges.<br><br>Maintenance of hospitals and other health services.<br><br>Help in the development of agriculture. | Coordination of the working of Panchayat Samitis under it.<br><br>Recommendation for grants-in-aid for local bodies.<br><br>Help in the formulation of various plans.<br><br>Act as a link between the government and the local bodies. |"
     }
   ],
   "needs_review": [
+    "(iii)",
     "PANCHAYATI RAJ SYSTEM",
-    "(ii) Panchayat Samiti at block level or middle level.",
-    "In addition, a Nyaya Panchayat has been provided for every three or four village Panchayats.",
-    "(i) They ensure quick and inexpensive justice to villagers.",
-    "(vi) Representatives of Cooperative Societies (only in certain States)."
+    "(ii)",
+    "(i)"
   ],
   "manifest": {
     "syllabus_leaves": [
       {
-        "path": "Local Self-Government-Rural > Rural: Three-tier system of Panchayati Raj- Gram Panchayat, Panchayat Samiti, Zila Parishad - their meaning and functions.",
+        "path": "Local Self-Government-Rural",
         "path_titles": [
-          "Local Self-Government-Rural",
-          "Rural: Three-tier system of Panchayati Raj- Gram Panchayat, Panchayat Samiti, Zila Parishad - their meaning and functions."
+          "Local Self-Government-Rural"
         ],
-        "title": "Rural: Three-tier system of Panchayati Raj- Gram Panchayat, Panchayat Samiti, Zila Parishad - their meaning and functions.",
+        "title": "Local Self-Government-Rural",
         "sequence_number": 1,
-        "depth": 1,
-        "level_label": "Topic",
+        "depth": 0,
+        "level_label": "Section",
         "has_notes": true
       },
       {
@@ -1218,156 +1094,84 @@
         "has_notes": true
       },
       {
-        "path": "SIGNIFICANCE OF LOCAL SELF-GOVERNMENT > (i) These institutions provide the foundations on which the entire democratic structure of our country stands. These institutions make it possible for local people to take interest in their own affairs and groom them well to take on larger responsibilities later.",
+        "path": "SIGNIFICANCE OF LOCAL SELF-GOVERNMENT > (i)",
         "path_titles": [
           "SIGNIFICANCE OF LOCAL SELF-GOVERNMENT",
-          "(i) These institutions provide the foundations on which the entire democratic structure of our country stands. These institutions make it possible for local people to take interest in their own affairs and groom them well to take on larger responsibilities later."
+          "(i)"
         ],
-        "title": "(i) These institutions provide the foundations on which the entire democratic structure of our country stands. These institutions make it possible for local people to take interest in their own affairs and groom them well to take on larger responsibilities later.",
+        "title": "(i)",
         "sequence_number": 1,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "SIGNIFICANCE OF LOCAL SELF-GOVERNMENT > (ii) The local institutions provide a training ground for local leadership and to gain necessary experience for undertaking bigger challenges at the state or the national level.",
+        "path": "SIGNIFICANCE OF LOCAL SELF-GOVERNMENT > (ii)",
         "path_titles": [
           "SIGNIFICANCE OF LOCAL SELF-GOVERNMENT",
-          "(ii) The local institutions provide a training ground for local leadership and to gain necessary experience for undertaking bigger challenges at the state or the national level."
+          "(ii)"
         ],
-        "title": "(ii) The local institutions provide a training ground for local leadership and to gain necessary experience for undertaking bigger challenges at the state or the national level.",
+        "title": "(ii)",
         "sequence_number": 2,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "SIGNIFICANCE OF LOCAL SELF-GOVERNMENT > (iii) Local people know their problems well and are best judges of their own needs.",
-        "path_titles": [
-          "SIGNIFICANCE OF LOCAL SELF-GOVERNMENT",
-          "(iii) Local people know their problems well and are best judges of their own needs."
-        ],
-        "title": "(iii) Local people know their problems well and are best judges of their own needs.",
-        "sequence_number": 3,
-        "depth": 1,
-        "level_label": "Topic",
-        "has_notes": true
-      },
-      {
-        "path": "SIGNIFICANCE OF LOCAL SELF-GOVERNMENT > (iv) The local institutions encourage self-help and voluntary service and save the state of many unnecessary expenses.",
-        "path_titles": [
-          "SIGNIFICANCE OF LOCAL SELF-GOVERNMENT",
-          "(iv) The local institutions encourage self-help and voluntary service and save the state of many unnecessary expenses."
-        ],
-        "title": "(iv) The local institutions encourage self-help and voluntary service and save the state of many unnecessary expenses.",
-        "sequence_number": 4,
-        "depth": 1,
-        "level_label": "Topic",
-        "has_notes": true
-      },
-      {
-        "path": "SIGNIFICANCE OF LOCAL SELF-GOVERNMENT > (v) Lodal self-government institutions gain the support of local communities.",
-        "path_titles": [
-          "SIGNIFICANCE OF LOCAL SELF-GOVERNMENT",
-          "(v) Lodal self-government institutions gain the support of local communities."
-        ],
-        "title": "(v) Lodal self-government institutions gain the support of local communities.",
-        "sequence_number": 5,
-        "depth": 1,
-        "level_label": "Topic",
-        "has_notes": true
-      },
-      {
-        "path": "SIGNIFICANCE OF LOCAL SELF-GOVERNMENT > (vi) Through these institutions government can reach ordinary citizens in times of need like National Emergency.",
-        "path_titles": [
-          "SIGNIFICANCE OF LOCAL SELF-GOVERNMENT",
-          "(vi) Through these institutions government can reach ordinary citizens in times of need like National Emergency."
-        ],
-        "title": "(vi) Through these institutions government can reach ordinary citizens in times of need like National Emergency.",
-        "sequence_number": 6,
-        "depth": 1,
-        "level_label": "Topic",
-        "has_notes": true
-      },
-      {
-        "path": "SIGNIFICANCE OF LOCAL SELF-GOVERNMENT > (vii) These institutions lessen the burden of workload on State and Central Government machinery.",
-        "path_titles": [
-          "SIGNIFICANCE OF LOCAL SELF-GOVERNMENT",
-          "(vii) These institutions lessen the burden of workload on State and Central Government machinery."
-        ],
-        "title": "(vii) These institutions lessen the burden of workload on State and Central Government machinery.",
-        "sequence_number": 7,
-        "depth": 1,
-        "level_label": "Topic",
-        "has_notes": true
-      },
-      {
-        "path": "SIGNIFICANCE OF LOCAL SELF-GOVERNMENT > (viii) They facilitate active participation of local people as an individual can evaluate the performance of the elected representatives.",
-        "path_titles": [
-          "SIGNIFICANCE OF LOCAL SELF-GOVERNMENT",
-          "(viii) They facilitate active participation of local people as an individual can evaluate the performance of the elected representatives."
-        ],
-        "title": "(viii) They facilitate active participation of local people as an individual can evaluate the performance of the elected representatives.",
-        "sequence_number": 8,
-        "depth": 1,
-        "level_label": "Topic",
-        "has_notes": true
-      },
-      {
-        "path": "SALIENT FEATURES OF THE CONSTITUTION (73RD AMENDMENT) ACT, 1992 > (i) To provide three-tier system of Panchayati Raj for all States having population of over 20 lakh,",
+        "path": "SALIENT FEATURES OF THE CONSTITUTION (73RD AMENDMENT) ACT, 1992 > (i)",
         "path_titles": [
           "SALIENT FEATURES OF THE CONSTITUTION (73RD AMENDMENT) ACT, 1992",
-          "(i) To provide three-tier system of Panchayati Raj for all States having population of over 20 lakh,"
+          "(i)"
         ],
-        "title": "(i) To provide three-tier system of Panchayati Raj for all States having population of over 20 lakh,",
+        "title": "(i)",
         "sequence_number": 1,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "SALIENT FEATURES OF THE CONSTITUTION (73RD AMENDMENT) ACT, 1992 > (ii) To hold Panchayat elections regularly every five years,",
+        "path": "SALIENT FEATURES OF THE CONSTITUTION (73RD AMENDMENT) ACT, 1992 > (ii)",
         "path_titles": [
           "SALIENT FEATURES OF THE CONSTITUTION (73RD AMENDMENT) ACT, 1992",
-          "(ii) To hold Panchayat elections regularly every five years,"
+          "(ii)"
         ],
-        "title": "(ii) To hold Panchayat elections regularly every five years,",
+        "title": "(ii)",
         "sequence_number": 2,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "SALIENT FEATURES OF THE CONSTITUTION (73RD AMENDMENT) ACT, 1992 > (iii) To provide reservation of seats for Scheduled Castes, Scheduled Tribes and women.",
+        "path": "SALIENT FEATURES OF THE CONSTITUTION (73RD AMENDMENT) ACT, 1992 > (iii)",
         "path_titles": [
           "SALIENT FEATURES OF THE CONSTITUTION (73RD AMENDMENT) ACT, 1992",
-          "(iii) To provide reservation of seats for Scheduled Castes, Scheduled Tribes and women."
+          "(iii)"
         ],
-        "title": "(iii) To provide reservation of seats for Scheduled Castes, Scheduled Tribes and women.",
+        "title": "(iii)",
         "sequence_number": 3,
         "depth": 1,
         "level_label": "Topic",
-        "has_notes": true
+        "has_notes": false
       },
       {
-        "path": "SALIENT FEATURES OF THE CONSTITUTION (73RD AMENDMENT) ACT, 1992 > (iv) To constitute State Finance Commissions every five years to make recommendations on financial powers of the Panchayats,",
+        "path": "SALIENT FEATURES OF THE CONSTITUTION (73RD AMENDMENT) ACT, 1992 > (iv)",
         "path_titles": [
           "SALIENT FEATURES OF THE CONSTITUTION (73RD AMENDMENT) ACT, 1992",
-          "(iv) To constitute State Finance Commissions every five years to make recommendations on financial powers of the Panchayats,"
+          "(iv)"
         ],
-        "title": "(iv) To constitute State Finance Commissions every five years to make recommendations on financial powers of the Panchayats,",
+        "title": "(iv)",
         "sequence_number": 4,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "SALIENT FEATURES OF THE CONSTITUTION (73RD AMENDMENT) ACT, 1992 > (v) To constitute District Planning Committee to prepare draft development plan for the district as a whole.",
+        "path": "SALIENT FEATURES OF THE CONSTITUTION (73RD AMENDMENT) ACT, 1992 > (v)",
         "path_titles": [
           "SALIENT FEATURES OF THE CONSTITUTION (73RD AMENDMENT) ACT, 1992",
-          "(v) To constitute District Planning Committee to prepare draft development plan for the district as a whole."
+          "(v)"
         ],
-        "title": "(v) To constitute District Planning Committee to prepare draft development plan for the district as a whole.",
+        "title": "(v)",
         "sequence_number": 5,
         "depth": 1,
         "level_label": "Topic",
@@ -1406,7 +1210,7 @@
         "sequence_number": 2,
         "depth": 1,
         "level_label": "Topic",
-        "has_notes": false
+        "has_notes": true
       },
       {
         "path": "ORGANISATION OF PANCHAYATI RAJ INSTITUTION > (iii) Zila Parishad at District level.",
@@ -1421,71 +1225,59 @@
         "has_notes": true
       },
       {
-        "path": "ORGANISATION OF PANCHAYATI RAJ INSTITUTION > In addition, a Nyaya Panchayat has been provided for every three or four village Panchayats.",
-        "path_titles": [
-          "ORGANISATION OF PANCHAYATI RAJ INSTITUTION",
-          "In addition, a Nyaya Panchayat has been provided for every three or four village Panchayats."
-        ],
-        "title": "In addition, a Nyaya Panchayat has been provided for every three or four village Panchayats.",
-        "sequence_number": 4,
-        "depth": 1,
-        "level_label": "Topic",
-        "has_notes": false
-      },
-      {
-        "path": "(a) Qualification for Election to Local Bodies > (i) He/She must be a citizen of India and not less than 21 years of age.",
+        "path": "(a) Qualification for Election to Local Bodies > (i)",
         "path_titles": [
           "(a) Qualification for Election to Local Bodies",
-          "(i) He/She must be a citizen of India and not less than 21 years of age."
+          "(i)"
         ],
-        "title": "(i) He/She must be a citizen of India and not less than 21 years of age.",
+        "title": "(i)",
         "sequence_number": 1,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "(a) Qualification for Election to Local Bodies > (ii) He/She must be a registered voter, in the case of Panchayats, member of the Gram Sabha, in the constituency.",
+        "path": "(a) Qualification for Election to Local Bodies > (ii)",
         "path_titles": [
           "(a) Qualification for Election to Local Bodies",
-          "(ii) He/She must be a registered voter, in the case of Panchayats, member of the Gram Sabha, in the constituency."
+          "(ii)"
         ],
-        "title": "(ii) He/She must be a registered voter, in the case of Panchayats, member of the Gram Sabha, in the constituency.",
+        "title": "(ii)",
         "sequence_number": 2,
         "depth": 1,
         "level_label": "Topic",
-        "has_notes": true
+        "has_notes": false
       },
       {
-        "path": "(a) Qualification for Election to Local Bodies > (iii) He/She should not be a convict or have been disqualified by a Law of the Parliament or an undischarged insolvent.",
+        "path": "(a) Qualification for Election to Local Bodies > (iii)",
         "path_titles": [
           "(a) Qualification for Election to Local Bodies",
-          "(iii) He/She should not be a convict or have been disqualified by a Law of the Parliament or an undischarged insolvent."
+          "(iii)"
         ],
-        "title": "(iii) He/She should not be a convict or have been disqualified by a Law of the Parliament or an undischarged insolvent.",
+        "title": "(iii)",
         "sequence_number": 3,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "(a) Qualification for Election to Local Bodies > (iv) He/She should not hold any office of profit under the Government.",
+        "path": "(a) Qualification for Election to Local Bodies > (iv)",
         "path_titles": [
           "(a) Qualification for Election to Local Bodies",
-          "(iv) He/She should not hold any office of profit under the Government."
+          "(iv)"
         ],
-        "title": "(iv) He/She should not hold any office of profit under the Government.",
+        "title": "(iv)",
         "sequence_number": 4,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "(b) Term:",
+        "path": "(b) Term",
         "path_titles": [
-          "(b) Term:"
+          "(b) Term"
         ],
-        "title": "(b) Term:",
+        "title": "(b) Term",
         "sequence_number": 9,
         "depth": 0,
         "level_label": "Section",
@@ -1503,288 +1295,287 @@
         "has_notes": true
       },
       {
-        "path": "COMPOSITION > Sarpanch: He/She is the head of the Gram Panchayat.",
+        "path": "COMPOSITION > Sarpanch:",
         "path_titles": [
           "COMPOSITION",
-          "Sarpanch: He/She is the head of the Gram Panchayat."
+          "Sarpanch:"
         ],
-        "title": "Sarpanch: He/She is the head of the Gram Panchayat.",
+        "title": "Sarpanch:",
         "sequence_number": 1,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "COMPOSITION > Members: Number of members of the Panchayat is fixed by the State.",
+        "path": "COMPOSITION > Members:",
         "path_titles": [
           "COMPOSITION",
-          "Members: Number of members of the Panchayat is fixed by the State."
+          "Members:"
         ],
-        "title": "Members: Number of members of the Panchayat is fixed by the State.",
+        "title": "Members:",
         "sequence_number": 2,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "COMPOSITION > Office Bearers: The Sarpanch and Vice-Sarpanch are honorary members.",
+        "path": "COMPOSITION > Office Bearers:",
         "path_titles": [
           "COMPOSITION",
-          "Office Bearers: The Sarpanch and Vice-Sarpanch are honorary members."
+          "Office Bearers:"
         ],
-        "title": "Office Bearers: The Sarpanch and Vice-Sarpanch are honorary members.",
+        "title": "Office Bearers:",
         "sequence_number": 3,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "FUNCTIONS > 1. Administrative Functions > (i) All public works and public welfare functions like construction, repair and maintenance of village roads, cart tracks, bridges, drains, tanks and wells.",
+        "path": "FUNCTIONS > 1. Administrative Functions > (i)",
         "path_titles": [
           "FUNCTIONS",
           "1. Administrative Functions",
-          "(i) All public works and public welfare functions like construction, repair and maintenance of village roads, cart tracks, bridges, drains, tanks and wells."
+          "(i)"
         ],
-        "title": "(i) All public works and public welfare functions like construction, repair and maintenance of village roads, cart tracks, bridges, drains, tanks and wells.",
+        "title": "(i)",
         "sequence_number": 1,
         "depth": 2,
         "level_label": "Subtopic",
         "has_notes": true
       },
       {
-        "path": "FUNCTIONS > 1. Administrative Functions > (ii) Upkeep of cremation and burial grounds.",
+        "path": "FUNCTIONS > 1. Administrative Functions > (ii)",
         "path_titles": [
           "FUNCTIONS",
           "1. Administrative Functions",
-          "(ii) Upkeep of cremation and burial grounds."
+          "(ii)"
         ],
-        "title": "(ii) Upkeep of cremation and burial grounds.",
+        "title": "(ii)",
         "sequence_number": 2,
         "depth": 2,
         "level_label": "Subtopic",
         "has_notes": true
       },
       {
-        "path": "FUNCTIONS > 1. Administrative Functions > (iii) Sanitation, health, setting up of health centres and dispensaries.",
+        "path": "FUNCTIONS > 1. Administrative Functions > (iii)",
         "path_titles": [
           "FUNCTIONS",
           "1. Administrative Functions",
-          "(iii) Sanitation, health, setting up of health centres and dispensaries."
+          "(iii)"
         ],
-        "title": "(iii) Sanitation, health, setting up of health centres and dispensaries.",
+        "title": "(iii)",
         "sequence_number": 3,
         "depth": 2,
         "level_label": "Subtopic",
         "has_notes": true
       },
       {
-        "path": "FUNCTIONS > 1. Administrative Functions > (iv) Providing primary education.",
+        "path": "FUNCTIONS > 1. Administrative Functions > (iv)",
         "path_titles": [
           "FUNCTIONS",
           "1. Administrative Functions",
-          "(iv) Providing primary education."
+          "(iv)"
         ],
-        "title": "(iv) Providing primary education.",
+        "title": "(iv)",
         "sequence_number": 4,
         "depth": 2,
         "level_label": "Subtopic",
         "has_notes": true
       },
       {
-        "path": "FUNCTIONS > 1. Administrative Functions > (v) Arranging irrigation facilities, seeds, fertilisers.",
+        "path": "FUNCTIONS > 1. Administrative Functions > (v)",
         "path_titles": [
           "FUNCTIONS",
           "1. Administrative Functions",
-          "(v) Arranging irrigation facilities, seeds, fertilisers."
+          "(v)"
         ],
-        "title": "(v) Arranging irrigation facilities, seeds, fertilisers.",
+        "title": "(v)",
         "sequence_number": 5,
         "depth": 2,
         "level_label": "Subtopic",
         "has_notes": true
       },
       {
-        "path": "FUNCTIONS > 1. Administrative Functions > (vi) Registration of births and deaths.",
+        "path": "FUNCTIONS > 1. Administrative Functions > (vi)",
         "path_titles": [
           "FUNCTIONS",
           "1. Administrative Functions",
-          "(vi) Registration of births and deaths."
+          "(vi)"
         ],
-        "title": "(vi) Registration of births and deaths.",
+        "title": "(vi)",
         "sequence_number": 6,
         "depth": 2,
         "level_label": "Subtopic",
         "has_notes": true
       },
       {
-        "path": "FUNCTIONS > 1. Administrative Functions > (vii) Maintaining records of common village property, their sale and purchase and land grants.",
+        "path": "FUNCTIONS > 1. Administrative Functions > (vii)",
         "path_titles": [
           "FUNCTIONS",
           "1. Administrative Functions",
-          "(vii) Maintaining records of common village property, their sale and purchase and land grants."
+          "(vii)"
         ],
-        "title": "(vii) Maintaining records of common village property, their sale and purchase and land grants.",
+        "title": "(vii)",
         "sequence_number": 7,
         "depth": 2,
         "level_label": "Subtopic",
         "has_notes": true
       },
       {
-        "path": "FUNCTIONS > 2. Social and Economic Functions > (i) Construction of guest houses, libraries, marriage halls, etc;",
+        "path": "FUNCTIONS > 2. Social and Economic Functions > (i)",
         "path_titles": [
           "FUNCTIONS",
           "2. Social and Economic Functions",
-          "(i) Construction of guest houses, libraries, marriage halls, etc;"
+          "(i)"
         ],
-        "title": "(i) Construction of guest houses, libraries, marriage halls, etc;",
+        "title": "(i)",
         "sequence_number": 1,
         "depth": 2,
         "level_label": "Subtopic",
         "has_notes": true
       },
       {
-        "path": "FUNCTIONS > 2. Social and Economic Functions > (ii) Organising regular village melas, fairs and exhibitions;",
+        "path": "FUNCTIONS > 2. Social and Economic Functions > (ii)",
         "path_titles": [
           "FUNCTIONS",
           "2. Social and Economic Functions",
-          "(ii) Organising regular village melas, fairs and exhibitions;"
+          "(ii)"
         ],
-        "title": "(ii) Organising regular village melas, fairs and exhibitions;",
+        "title": "(ii)",
         "sequence_number": 2,
         "depth": 2,
         "level_label": "Subtopic",
         "has_notes": true
       },
       {
-        "path": "FUNCTIONS > 2. Social and Economic Functions > (iii) Planting of trees, parks, gardens and playgrounds for recreation;",
+        "path": "FUNCTIONS > 2. Social and Economic Functions > (iii)",
         "path_titles": [
           "FUNCTIONS",
           "2. Social and Economic Functions",
-          "(iii) Planting of trees, parks, gardens and playgrounds for recreation;"
+          "(iii)"
         ],
-        "title": "(iii) Planting of trees, parks, gardens and playgrounds for recreation;",
+        "title": "(iii)",
         "sequence_number": 3,
         "depth": 2,
         "level_label": "Subtopic",
         "has_notes": true
       },
       {
-        "path": "FUNCTIONS > 2. Social and Economic Functions > (iv) Establishing fair price shops, Cooperative Credit Societies.",
+        "path": "FUNCTIONS > 2. Social and Economic Functions > (iv)",
         "path_titles": [
           "FUNCTIONS",
           "2. Social and Economic Functions",
-          "(iv) Establishing fair price shops, Cooperative Credit Societies."
+          "(iv)"
         ],
-        "title": "(iv) Establishing fair price shops, Cooperative Credit Societies.",
+        "title": "(iv)",
         "sequence_number": 4,
         "depth": 2,
         "level_label": "Subtopic",
         "has_notes": true
       },
       {
-        "path": "FUNCTIONS > 3. Judicial Functions > These are discussed under Nyaya Panchayats.",
+        "path": "FUNCTIONS > 3. Judicial Functions",
         "path_titles": [
           "FUNCTIONS",
-          "3. Judicial Functions",
-          "These are discussed under Nyaya Panchayats."
+          "3. Judicial Functions"
         ],
-        "title": "These are discussed under Nyaya Panchayats.",
-        "sequence_number": 1,
-        "depth": 2,
-        "level_label": "Subtopic",
+        "title": "3. Judicial Functions",
+        "sequence_number": 3,
+        "depth": 1,
+        "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "NYAYA PANCHAYATS > (i) They ensure quick and inexpensive justice to villagers.",
+        "path": "NYAYA PANCHAYATS > (i)",
         "path_titles": [
           "NYAYA PANCHAYATS",
-          "(i) They ensure quick and inexpensive justice to villagers."
+          "(i)"
         ],
-        "title": "(i) They ensure quick and inexpensive justice to villagers.",
+        "title": "(i)",
         "sequence_number": 1,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": false
       },
       {
-        "path": "NYAYA PANCHAYATS > (ii) They can impose a fine of up to Rs. 100.",
+        "path": "NYAYA PANCHAYATS > (ii)",
         "path_titles": [
           "NYAYA PANCHAYATS",
-          "(ii) They can impose a fine of up to Rs. 100."
+          "(ii)"
         ],
-        "title": "(ii) They can impose a fine of up to Rs. 100.",
+        "title": "(ii)",
         "sequence_number": 2,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "NYAYA PANCHAYATS > (iii) They cannot award a sentence of imprisonment.",
+        "path": "NYAYA PANCHAYATS > (iii)",
         "path_titles": [
           "NYAYA PANCHAYATS",
-          "(iii) They cannot award a sentence of imprisonment."
+          "(iii)"
         ],
-        "title": "(iii) They cannot award a sentence of imprisonment.",
+        "title": "(iii)",
         "sequence_number": 3,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "NYAYA PANCHAYATS > (iv) Lawyers are not allowed to appear before these Panchayats.",
+        "path": "NYAYA PANCHAYATS > (iv)",
         "path_titles": [
           "NYAYA PANCHAYATS",
-          "(iv) Lawyers are not allowed to appear before these Panchayats."
+          "(iv)"
         ],
-        "title": "(iv) Lawyers are not allowed to appear before these Panchayats.",
+        "title": "(iv)",
         "sequence_number": 4,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "NYAYA PANCHAYATS > (v) There is generally no appeal against the decision of a Nyaya Panchayat if the powers are exercised within their jurisdiction.",
+        "path": "NYAYA PANCHAYATS > (v)",
         "path_titles": [
           "NYAYA PANCHAYATS",
-          "(v) There is generally no appeal against the decision of a Nyaya Panchayat if the powers are exercised within their jurisdiction."
+          "(v)"
         ],
-        "title": "(v) There is generally no appeal against the decision of a Nyaya Panchayat if the powers are exercised within their jurisdiction.",
+        "title": "(v)",
         "sequence_number": 5,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "NYAYA PANCHAYATS > (vi) However, under the Panchayats Act, Sub-divisional Magistrates and Sub-Judges of the District are empowered to hear appeals.",
+        "path": "NYAYA PANCHAYATS > (vi)",
         "path_titles": [
           "NYAYA PANCHAYATS",
-          "(vi) However, under the Panchayats Act, Sub-divisional Magistrates and Sub-Judges of the District are empowered to hear appeals."
+          "(vi)"
         ],
-        "title": "(vi) However, under the Panchayats Act, Sub-divisional Magistrates and Sub-Judges of the District are empowered to hear appeals.",
+        "title": "(vi)",
         "sequence_number": 6,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "NYAYA PANCHAYATS > (vii) No person can be a member of the Nyaya Panchayat and the Panchayat Samiti, Gram Panchayat or other local self-governing body at the same time.",
+        "path": "NYAYA PANCHAYATS > (vii)",
         "path_titles": [
           "NYAYA PANCHAYATS",
-          "(vii) No person can be a member of the Nyaya Panchayat and the Panchayat Samiti, Gram Panchayat or other local self-governing body at the same time."
+          "(vii)"
         ],
-        "title": "(vii) No person can be a member of the Nyaya Panchayat and the Panchayat Samiti, Gram Panchayat or other local self-governing body at the same time.",
+        "title": "(vii)",
         "sequence_number": 7,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "NYAYA PANCHAYATS > (viii) The state government or the State Judicial Service decides the jurisdiction of these Panchayats.",
+        "path": "NYAYA PANCHAYATS > (viii)",
         "path_titles": [
           "NYAYA PANCHAYATS",
-          "(viii) The state government or the State Judicial Service decides the jurisdiction of these Panchayats."
+          "(viii)"
         ],
-        "title": "(viii) The state government or the State Judicial Service decides the jurisdiction of these Panchayats.",
+        "title": "(viii)",
         "sequence_number": 8,
         "depth": 1,
         "level_label": "Topic",
@@ -1802,203 +1593,167 @@
         "has_notes": true
       },
       {
-        "path": "Composition: > (i) Sarpanchs of all Panchayats concerned.",
+        "path": "Composition: > (i)",
         "path_titles": [
           "Composition:",
-          "(i) Sarpanchs of all Panchayats concerned."
+          "(i)"
         ],
-        "title": "(i) Sarpanchs of all Panchayats concerned.",
+        "title": "(i)",
         "sequence_number": 1,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "Composition: > (ii) Members of Legislative Assembly of the State from the area.",
+        "path": "Composition: > (ii)",
         "path_titles": [
           "Composition:",
-          "(ii) Members of Legislative Assembly of the State from the area."
+          "(ii)"
         ],
-        "title": "(ii) Members of Legislative Assembly of the State from the area.",
+        "title": "(ii)",
         "sequence_number": 2,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "Composition: > (iii) Members of Parliament belonging to the area.",
+        "path": "Composition: > (iii)",
         "path_titles": [
           "Composition:",
-          "(iii) Members of Parliament belonging to the area."
+          "(iii)"
         ],
-        "title": "(iii) Members of Parliament belonging to the area.",
+        "title": "(iii)",
         "sequence_number": 3,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "Composition: > (iv) Block Development Officers of the block or the area served by them.",
+        "path": "Composition: > (iv)",
         "path_titles": [
           "Composition:",
-          "(iv) Block Development Officers of the block or the area served by them."
+          "(iv)"
         ],
-        "title": "(iv) Block Development Officers of the block or the area served by them.",
+        "title": "(iv)",
         "sequence_number": 4,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "Composition: > (v) Co-opted members (provisional) representing women, Scheduled Castes/ Tribes.",
+        "path": "Composition: > (v)",
         "path_titles": [
           "Composition:",
-          "(v) Co-opted members (provisional) representing women, Scheduled Castes/ Tribes."
+          "(v)"
         ],
-        "title": "(v) Co-opted members (provisional) representing women, Scheduled Castes/ Tribes.",
+        "title": "(v)",
         "sequence_number": 5,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "Composition: > (vi) Representatives of Cooperative Societies (only in certain States).",
+        "path": "Composition: > (vi)",
         "path_titles": [
           "Composition:",
-          "(vi) Representatives of Cooperative Societies (only in certain States)."
+          "(vi)"
         ],
-        "title": "(vi) Representatives of Cooperative Societies (only in certain States).",
+        "title": "(vi)",
         "sequence_number": 6,
         "depth": 1,
         "level_label": "Topic",
-        "has_notes": false
+        "has_notes": true
       },
       {
-        "path": "Office Bearers > Chairperson-elected from amongst its own members.",
+        "path": "Office Bearers > Chairperson",
         "path_titles": [
           "Office Bearers",
-          "Chairperson-elected from amongst its own members."
+          "Chairperson"
         ],
-        "title": "Chairperson-elected from amongst its own members.",
+        "title": "Chairperson",
         "sequence_number": 1,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "Office Bearers > Deputy Chairperson—elected from amongst its own members.",
+        "path": "Office Bearers > Deputy Chairperson",
         "path_titles": [
           "Office Bearers",
-          "Deputy Chairperson—elected from amongst its own members."
+          "Deputy Chairperson"
         ],
-        "title": "Deputy Chairperson—elected from amongst its own members.",
+        "title": "Deputy Chairperson",
         "sequence_number": 2,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "Office Bearers > Secretary-A salaried employee appointed by the State authorities through District Administration.",
+        "path": "Office Bearers > Secretary",
         "path_titles": [
           "Office Bearers",
-          "Secretary-A salaried employee appointed by the State authorities through District Administration."
+          "Secretary"
         ],
-        "title": "Secretary-A salaried employee appointed by the State authorities through District Administration.",
+        "title": "Secretary",
         "sequence_number": 3,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "FUNCTIONS > (i) To supervise and coordinate the working of Gram Panchayats.",
+        "path": "FUNCTIONS > (i)",
         "path_titles": [
           "FUNCTIONS",
-          "(i) To supervise and coordinate the working of Gram Panchayats."
+          "(i)"
         ],
-        "title": "(i) To supervise and coordinate the working of Gram Panchayats.",
+        "title": "(i)",
         "sequence_number": 1,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "FUNCTIONS > (ii) To conduct higher education (higher secondary level and above) for a group of villages or at block level.",
+        "path": "FUNCTIONS > (ii)",
         "path_titles": [
           "FUNCTIONS",
-          "(ii) To conduct higher education (higher secondary level and above) for a group of villages or at block level."
+          "(ii)"
         ],
-        "title": "(ii) To conduct higher education (higher secondary level and above) for a group of villages or at block level.",
+        "title": "(ii)",
         "sequence_number": 2,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "FUNCTIONS > (iii) To provide hospital and health services with various facilities at community block level.",
+        "path": "FUNCTIONS > (iii)",
         "path_titles": [
           "FUNCTIONS",
-          "(iii) To provide hospital and health services with various facilities at community block level."
+          "(iii)"
         ],
-        "title": "(iii) To provide hospital and health services with various facilities at community block level.",
+        "title": "(iii)",
         "sequence_number": 3,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "FUNCTIONS > (iv) To pay special attention to development of agriculture through undertaking minor irrigation schemes, distribution of quality seeds and fertilisers.",
+        "path": "FUNCTIONS > (iv)",
         "path_titles": [
           "FUNCTIONS",
-          "(iv) To pay special attention to development of agriculture through undertaking minor irrigation schemes, distribution of quality seeds and fertilisers."
+          "(iv)"
         ],
-        "title": "(iv) To pay special attention to development of agriculture through undertaking minor irrigation schemes, distribution of quality seeds and fertilisers.",
+        "title": "(iv)",
         "sequence_number": 4,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "FUNCTIONS > (v) To approve building plans, undertake other development works including roads and bridges within the circle Panchayats.",
+        "path": "VOILA PARISHAD (AT DISTRICT LEVEL)",
         "path_titles": [
-          "FUNCTIONS",
-          "(v) To approve building plans, undertake other development works including roads and bridges within the circle Panchayats."
+          "VOILA PARISHAD (AT DISTRICT LEVEL)"
         ],
-        "title": "(v) To approve building plans, undertake other development works including roads and bridges within the circle Panchayats.",
-        "sequence_number": 5,
-        "depth": 1,
-        "level_label": "Topic",
-        "has_notes": true
-      },
-      {
-        "path": "FUNCTIONS > (vi) To provide drinking water and execute other community development programmes.",
-        "path_titles": [
-          "FUNCTIONS",
-          "(vi) To provide drinking water and execute other community development programmes."
-        ],
-        "title": "(vi) To provide drinking water and execute other community development programmes.",
-        "sequence_number": 6,
-        "depth": 1,
-        "level_label": "Topic",
-        "has_notes": true
-      },
-      {
-        "path": "FUNCTIONS > (vii) To act as a link between the Gram Panchayat and Zila Parishad.",
-        "path_titles": [
-          "FUNCTIONS",
-          "(vii) To act as a link between the Gram Panchayat and Zila Parishad."
-        ],
-        "title": "(vii) To act as a link between the Gram Panchayat and Zila Parishad.",
-        "sequence_number": 7,
-        "depth": 1,
-        "level_label": "Topic",
-        "has_notes": true
-      },
-      {
-        "path": "VILA PARISHAD (AT DISTRICT LEVEL)",
-        "path_titles": [
-          "VILA PARISHAD (AT DISTRICT LEVEL)"
-        ],
-        "title": "VILA PARISHAD (AT DISTRICT LEVEL)",
+        "title": "VOILA PARISHAD (AT DISTRICT LEVEL)",
         "sequence_number": 18,
         "depth": 0,
         "level_label": "Section",
@@ -2016,120 +1771,120 @@
         "has_notes": true
       },
       {
-        "path": "Office Bearers > Chairman: Presides over the meetings and conduct proceedings.",
+        "path": "Office Bearers > Chairman:",
         "path_titles": [
           "Office Bearers",
-          "Chairman: Presides over the meetings and conduct proceedings."
+          "Chairman:"
         ],
-        "title": "Chairman: Presides over the meetings and conduct proceedings.",
+        "title": "Chairman:",
         "sequence_number": 1,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "Office Bearers > Deputy Chairperson: Elected by members amongst themselves.",
+        "path": "Office Bearers > Deputy Chairperson:",
         "path_titles": [
           "Office Bearers",
-          "Deputy Chairperson: Elected by members amongst themselves."
+          "Deputy Chairperson:"
         ],
-        "title": "Deputy Chairperson: Elected by members amongst themselves.",
+        "title": "Deputy Chairperson:",
         "sequence_number": 2,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "Office Bearers > Secretary: 'A whole time paid employee of the state government.",
+        "path": "Office Bearers > Secretary:",
         "path_titles": [
           "Office Bearers",
-          "Secretary: 'A whole time paid employee of the state government."
+          "Secretary:"
         ],
-        "title": "Secretary: 'A whole time paid employee of the state government.",
+        "title": "Secretary:",
         "sequence_number": 3,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "FUNCTIONS > (i) Overseeing all-round development work of the district under the overall charge of an experienced functionary like the Deputy Commissioner.",
+        "path": "FUNCTIONS > (i)",
         "path_titles": [
           "FUNCTIONS",
-          "(i) Overseeing all-round development work of the district under the overall charge of an experienced functionary like the Deputy Commissioner."
+          "(i)"
         ],
-        "title": "(i) Overseeing all-round development work of the district under the overall charge of an experienced functionary like the Deputy Commissioner.",
+        "title": "(i)",
         "sequence_number": 1,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "FUNCTIONS > (ii) The Standing Committees have each a Chairperson, and Deputy Chairperson, holds discussions and take decisions.",
+        "path": "FUNCTIONS > (ii)",
         "path_titles": [
           "FUNCTIONS",
-          "(ii) The Standing Committees have each a Chairperson, and Deputy Chairperson, holds discussions and take decisions."
+          "(ii)"
         ],
-        "title": "(ii) The Standing Committees have each a Chairperson, and Deputy Chairperson, holds discussions and take decisions.",
+        "title": "(ii)",
         "sequence_number": 2,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "FUNCTIONS > (iii) In practice, the Working Committee functions as the executive body of the District Board.",
+        "path": "FUNCTIONS > (iii)",
         "path_titles": [
           "FUNCTIONS",
-          "(iii) In practice, the Working Committee functions as the executive body of the District Board."
+          "(iii)"
         ],
-        "title": "(iii) In practice, the Working Committee functions as the executive body of the District Board.",
+        "title": "(iii)",
         "sequence_number": 3,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "FUNCTIONS > (iv) Supervision of working of Panchayats is carried out.",
+        "path": "FUNCTIONS > (iv)",
         "path_titles": [
           "FUNCTIONS",
-          "(iv) Supervision of working of Panchayats is carried out."
+          "(iv)"
         ],
-        "title": "(iv) Supervision of working of Panchayats is carried out.",
+        "title": "(iv)",
         "sequence_number": 4,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "FUNCTIONS > (v) In some states like in Assam, Bihar and Punjab scrutiny of the budget estimates of Panchayat Samitis is done.",
+        "path": "FUNCTIONS > (v)",
         "path_titles": [
           "FUNCTIONS",
-          "(v) In some states like in Assam, Bihar and Punjab scrutiny of the budget estimates of Panchayat Samitis is done."
+          "(v)"
         ],
-        "title": "(v) In some states like in Assam, Bihar and Punjab scrutiny of the budget estimates of Panchayat Samitis is done.",
+        "title": "(v)",
         "sequence_number": 5,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "FUNCTIONS > (vi) It cooperates with and coordinates the work of Panchayat Samitis for undertaking various development works specially minor irrigation works, vocational and industrial schools, village industries, sanitation and public health.",
+        "path": "FUNCTIONS > (vi)",
         "path_titles": [
           "FUNCTIONS",
-          "(vi) It cooperates with and coordinates the work of Panchayat Samitis for undertaking various development works specially minor irrigation works, vocational and industrial schools, village industries, sanitation and public health."
+          "(vi)"
         ],
-        "title": "(vi) It cooperates with and coordinates the work of Panchayat Samitis for undertaking various development works specially minor irrigation works, vocational and industrial schools, village industries, sanitation and public health.",
+        "title": "(vi)",
         "sequence_number": 6,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "FUNCTIONS > (vii) It advises the State Government on all matters relating to the Gram Panchayats and Panchayat Samitis under their own jurisdiction.",
+        "path": "FUNCTIONS > (vii)",
         "path_titles": [
           "FUNCTIONS",
-          "(vii) It advises the State Government on all matters relating to the Gram Panchayats and Panchayat Samitis under their own jurisdiction."
+          "(vii)"
         ],
-        "title": "(vii) It advises the State Government on all matters relating to the Gram Panchayats and Panchayat Samitis under their own jurisdiction.",
+        "title": "(vii)",
         "sequence_number": 7,
         "depth": 1,
         "level_label": "Topic",
@@ -2150,7 +1905,7 @@
     "stray_leaves": [
       {
         "title": "Structure of Village Panchayat, Panchayat Samiti and Zila Parishad",
-        "insert_after_index": 25,
+        "insert_after_index": 83,
         "micro_topics": [],
         "has_notes": true
       }

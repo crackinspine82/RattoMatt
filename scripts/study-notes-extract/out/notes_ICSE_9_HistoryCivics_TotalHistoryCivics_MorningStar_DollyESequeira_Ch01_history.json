@@ -13,39 +13,38 @@
   "discipline": "history",
   "reconciliation": {
     "outline": [
+      "SYLLABUS",
       "BRONZE AGE CIVILISATIONS",
       "THE HARAPPAN CIVILISATION",
       "SOURCES",
-      "The Great Bath",
-      "The Citadel",
-      "Seals",
-      "Bearded Man",
-      "Dancing Girl",
-      "Dockyard",
-      "Script",
+      "1. The Great Bath",
+      "2. The Citadel",
+      "3. Seals",
+      "4. Bearded Man",
+      "5. Dancing Girl",
+      "6. Dockyard",
+      "7. Script",
       "ORIGIN OF THE CIVILISATION",
       "Foreign Origin",
       "Indigenous Origin",
       "EXTENT OF THE CIVILISATION",
       "URBAN PLANNING",
       "HARAPPAN CITIES",
+      "COMMON ELEMENTS BETWEEN MOHENJO-DARO AND HARAPPA",
       "FEATURES OF URBAN PLANNING",
       "HOUSES",
       "MONUMENTAL ARCHITECTURE",
-      "The Great Bath",
-      "Granaries",
+      "(a) The Great Bath",
+      "(b) Granaries",
       "TRADE",
       "Internal Trade",
       "External Trade",
       "ART AND CRAFT",
-      "Dress",
-      "Ornaments",
-      "Toys and Amusements",
       "DECLINE OF THE CIVILISATION",
-      "Floods and Earthquakes",
-      "Increased Aridity",
-      "Deforestation",
-      "Attack",
+      "(a) Floods and Earthquakes",
+      "(b) Increased Aridity",
+      "(c) Deforestation",
+      "(d) Attack",
       "HERITAGE",
       "EXERCISES",
       "I. Multiple-Choice Questions",
@@ -53,35 +52,207 @@
       "III. Structured Questions",
       "IV. Thinking Skills"
     ],
-    "in_syllabus_only": [
-      "COMMON ELEMENTS BETWEEN MOHENJO-DARO AND HARAPPA"
-    ],
+    "in_syllabus_only": [],
     "in_pdf_only": [
       {
+        "title": "BRONZE AGE CIVILISATIONS",
+        "insert_after_index": 0,
+        "micro_topics": []
+      },
+      {
         "title": "EXTENT OF THE CIVILISATION",
-        "insert_after_index": 13,
+        "insert_after_index": 10,
+        "micro_topics": []
+      },
+      {
+        "title": "HOUSES",
+        "insert_after_index": 10,
+        "micro_topics": []
+      },
+      {
+        "title": "MONUMENTAL ARCHITECTURE",
+        "insert_after_index": 10,
+        "micro_topics": [
+          "(a) The Great Bath",
+          "(b) Granaries"
+        ]
+      },
+      {
+        "title": "HERITAGE",
+        "insert_after_index": 10,
         "micro_topics": []
       }
     ],
     "additional_sections": [
       {
+        "title": "BRONZE AGE CIVILISATIONS",
+        "content_md": "From using stone tools, man gradually came to know the use of metals. Metals were more durable than stone and could be used for making a variety of tools, implements and weapons. The first metal to be discovered was copper. For a long time stone implements continued to be used along with copper. The period when man used both stone and copper tools is known as the Chalcolithic Period.\n\nLater on, man learnt the art of mixing copper with tin or zinc to produce the alloy called Bronze. Bronze is harder and more ductile than copper and is, therefore, more suitable for the manufacture of tools and weapons. Because of the importance of bronze in the growth of the first civilisations, these civilisations are known as the Bronze Age Civilisations.\n\nBy about 2500 BC, four bronze age civilisations emerged. These were:\n(i) the Harappan Civilisation in northern and western parts of India and Pakistan;\n(ii) the Mesopotamian Civilisation on the banks of river Euphrates and Tigris in modern Iraq;\n(iii) the Chinese Civilisation in the valley of Hwang Ho and Yangtze rivers; and\n(iv) the Egyptian Civilisation on the banks of Nile river in Egypt."
+      },
+      {
         "title": "EXTENT OF THE CIVILISATION",
-        "content_md": "The entire area of the Harappan civilisation is triangular in shape and accounts for about 1.3 million sq.km and was the largest area amongst the ancient civilisations. It extended from Sutkagendor (on the sea-coast of South Baluchistan) in the west, to Alamgirpur (in the upper Ganga-Yamuna Doab in western UP) in the east and from Manda (in Jammu) in the north to Bhagatrav in Narmada estuary in the south.\nThe Harappan culture covered parts of Punjab, Haryana, Sindh, Baluchistan, Gujarat, Rajasthan and the fringes of Western Uttar Pradesh. Consequent to the partition of India, the main centres of civilisation, i.e., Harappa, Mohenjo-daro, Chanhudaro and Sutkagendor are now in Pakistan. Some of the centres of this civilisation in India are Manda, Banawali, Kalibangan, Alamgirpur, Lothal, Rupar and Rangpur. In recent years, many more extensions of this civilisation in Gujarat and Punjab have been discovered. Dholavira in Gujarat is the most prominent among them. The largest sites of the Harappan Civilisation however, are Mohenjo-daro, Harappa, Kalibangan and Lothal."
+        "content_md": "The entire area of the Harappan civilisation is triangular in shape and accounts for about 1.3 million sq.km and was the largest area amongst the ancient civilisations. It extended from Sutkagendor (on the sea-coast of South Baluchistan) in the west, to Alamgirpur (in the upper Ganga-Yamuna Doab in western UP) in the east and from Manda (in Jammu) in the north to Bhagatrav in Narmada estuary in the south.\n\nThe Harappan culture covered parts of Punjab, Haryana, Sindh, Baluchistan, Gujarat, Rajasthan and the fringes of Western Uttar Pradesh. Consequent to the partition of India, the main centres of civilisation, i.e., Harappa, Mohenjo-daro, Chanhudaro and Sutkagendor are now in Pakistan. Some of the centres of this civilisation in India are Manda, Banawali, Kalibangan, Alamgirpur, Lothal, Rupar and Rangpur. In recent years, many more extensions of this civilisation in Gujarat and Punjab have been discovered. Dholavira in Gujarat is the most prominent among them. The largest sites of the Harappan Civilisation however, are Mohenjo-daro, Harappa, Kalibangan and Lothal."
+      },
+      {
+        "title": "HOUSES",
+        "content_md": "[Image: Granaries]\n\nThe main characteristics of houses were the following:\n1. The residential buildings were built according to a set plan on a high mound in order to protect them from floods. Their foundations were deep.\n2. There were variations in the size of houses from single room tenements to bigger houses with courtyards, up to twelve rooms, private wells and toilets. Each house had covered drains connected with street drains.\n3. The entrances to the houses were from the narrow lanes which cut the streets at right angles.\n4. The kitchen was placed in a sheltered corner of the courtyard and the ground floor contained storerooms and well chambers.\n5. The houses were made of brick and wood. Each house had doors, windows and ventilators. Doors and windows opened on the side of the streets and not on the main roads."
+      },
+      {
+        "title": "MONUMENTAL ARCHITECTURE",
+        "content_md": "The contribution of the Harappans to architectural design is evident from the following public buildings.\n\n(a) The Great Bath: For details refer to the Sources in this Chapter.\n(b) Granaries: Granaries have been found at several sites—Mohenjo-daro, Harappa, Lothal and Kalibangan. However, at Harappa, there were two rows of six granaries each. To the south of the granaries at Harappa working floors consisting of rows of circular brick platforms were discovered. It is believed that these floors were meant for threshing grain because wheat and barley grains were found in the crevices of the floors. Two-roomed barracks, which possibly accommodated labourers have also been found at Harappa. The location of Harappa near the river Ravi suggests that food grains were brought to this place by boat. It was built on a raised platform to protect it from floods. The granary had ventilation to prevent grains from becoming mildewed."
+      },
+      {
+        "title": "HERITAGE",
+        "content_md": "The decline of the physical aspects of the Harappan civilisation did not lead to the total disappearance of all the traits of this civilisation. Many of its features were found in the later cultural development. The Harappan way of making baked pottery, bricks, beads, jewellery, textiles, etc. was adopted by the later civilisations. One of the most remarkable achievements of the Harappan people was the cultivation of cotton, which was adopted by the Egyptians after several centuries. In the religious sphere, the worship of Pashupati Shiva, the female deity as Mother Goddess, sacred trees, animals, serpents, religious symbols, etc., which were prevalent during the Harappan period, some of them have continued to this day."
       }
     ]
   },
   "nodes": [
     {
-      "title": "The Harappan Civilisation",
+      "title": "SYLLABUS",
       "sequence_number": 1,
       "depth": 0,
       "level_label": "Section",
-      "children": [],
-      "content_blocks": [
+      "children": [
         {
-          "content_md": "The **Harappan Civilisation** is considered to be the first civilisation that arose in the north-western regions of the Indian subcontinent. It is so called after the name of the first major site of this civilisation, i.e., **Harappa**, which was discovered in **1921** in the province of West Punjab in Pakistan. It is also known as the **Indus Valley Civilisation** because some of its important sites, which were excavated first, are located in the valley of the **river Indus**.\n\nThe discovery of the **Indus Valley Civilisation** in the 20th century was an important event in the history of India. Up to this time it was believed that the history of India began with the advent of Aryans. However, the discovery of the **Harappan Civilisation** pushed back the history of India by at least a thousand years, so as to put it at par with the other oldest **Bronze Age civilisations** of the world, namely **Mesopotamian** and **Egyptian Civilisations**.\n\nThe **Harappan Civilisation** is also referred to as the **Harappan Culture**. The term '**Culture**' is used by the archaeologists for a group of objects distinctive in style, that are usually found together within a specific geographical area and period of time. In the case of **Harappan culture**, these distinctive objects are **seals**, **weights**, **stone blades** and **baked bricks**."
+          "title": "The Harappan Civilisation",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **Harappan Civilisation** is considered to be the first civilisation that arose in the north-western regions of the Indian subcontinent. It is so called after the name of the first major site of this civilisation, i.e., **Harappa**, which was discovered in 1921 in the province of West Punjab in Pakistan. It is also known as the **Indus Valley Civilisation** because some of its important sites, which were excavated first, are located in the valley of the river Indus.\n\nThe discovery of Indus Valley Civilisation in the 20th century was an important event in the history of India. Up to this time it was believed that the history of India began with the advent of Aryans. However, the discovery of the Harappan Civilisation pushed back the history of India by at least a thousand years, so as to put it at par with the other oldest **Bronze Age civilisations** of the world, namely **Mesopotamian** and **Egyptian Civilisations**.\n\nThe Harappan Civilisation is also referred to as the **Harappan Culture**. The term **'Culture'** is used by the archaeologists for a group of objects distinctive in style, that are usually found together within a specific geographical area and period of time. In the case of Harappan culture, these distinctive objects are **seals**, **weights**, **stone blades** and **baked bricks**."
+            }
+          ]
+        },
+        {
+          "title": "Sources",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Great Bath",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **Great Bath** is one of the largest public buildings at **Mohenjo-daro**. It has a large rectangular tank in a courtyard surrounded by a corridor on all four sides. There are two flights of-steps one in the north and the other in the south leading into the tank. To make the pool watertight, **burnt bricks** and **mortar** lined with **bitumen** and **gypsum** were used for construction. The water for the bath was provided by a well in an adjacent room. Surrounding the bath, were **porticos** and sets of rooms, and a stairway which led to an upper storey. Some scholars believe that these rooms were provided for the members of some kind of priesthood, whereas others think that the rooms were provided for changing clothes. This structure, with several distinctive features, has led scholars to suggest that it was meant for some kind of a **ritual bath**."
+                },
+                {
+                  "content_md": "The Great Bath is an important source of information that throws light on the life of the people and culture of the Harappan Civilisation:\n* The construction of the Great Bath indicates that the **art of building** had reached a high degree of perfection at that time.\n* The massive structure points out that there might have existed a **ruling class** that could mobilise labour, collect taxes and build such a huge structure for the public.\n* The design of the Great Bath portrays the **efficient planning** in the structural features relating to water supply and sewage disposal.\n* Most of the scholars agree that the Great Bath might have been used for **religious purposes**. This indicates the importance attached to **ceremonial bathing** in sacred tanks, pools and rivers since time immemorial.\n* A lot of planning must have been made to construct such a huge structure. This is indicated by the use of bricks, whether sun-dried or baked, which were of a **standardised size**."
+                },
+                {
+                  "content_md": "[Image: The Great Bath]"
+                }
+              ]
+            },
+            {
+              "title": "Citadel",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The raised area of each city was called the **Citadel**. It owed its height to the buildings constructed on mud brick platforms. The citadel had the houses of the **ruling class** and important buildings like the **Great Bath**, the **granary**, the **assembly hall** and the **workshops**."
+                },
+                {
+                  "content_md": "The Citadel provides useful insights about the following:\n\n*   The Citadel points to the elaborate planning that went into the development of cities and justifies that the Harappan civilisation was an **urban civilisation**.\n*   The presence of specific buildings and houses of the ruling class, indicate some sort of **political organisation** and **social classification**.\n*   There were buildings on the Citadel probably meant for **public purposes** like the granary and the Great Bath."
+                }
+              ]
+            },
+            {
+              "title": "seals",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "[Image: Pashupati Seal]\n[Image: Unicorn Seal]\n\nThe seals used by the Harappans show their **artistic skills**. About **2000 seals** have been discovered. Of these a great majority comprise **short inscriptions** with pictures of the **one-horned bull, buffalo, tiger, goat, elephant and rhinoceros**. Material used in making the seals comprise **terracotta, steatite, agate**, etc. Most of the seals are **rectangular or square** but some of them are **circular** in shape."
+                },
+                {
+                  "content_md": "Harappan seals provide useful information about the **script, trade, religion and beliefs** of the Harappans:\n\n*   **Seals of Pashupati** show that people believed in **Shiva**. It is shown as a **three-faced deity** wearing a buffalo-horned head-dress, seated cross-legged on a throne and surrounded by an elephant, a tiger, a buffalo and a rhinoceros, with two deer at his feet. This deity has been identified as **Pashupati Mahadeva**.\n*   The **unicorn seal** shows their **mythical beliefs**. The seals bear some kind of **script which has not yet been deciphered**.\n*   The seals were produced mainly for **commercial purpose**. The seals were used by traders to stamp their goods. After a bag with goods was tied, a layer of wet clay was applied on the knot, and the seal was pressed on it leaving an **impression**. If the bag reached its destination with its seal intact, it indicated that it had not been tampered with. It also conveyed the **identity of the sender or the owner**. These seals were found in different regions. This indicates that the Harappan trade had spread over a vast area.\n*   Probably seals were also used as **amulets**, carried on the persons of their owners, as **modern-day identity cards**."
+                }
+              ]
+            },
+            {
+              "title": "bearded man",
+              "sequence_number": 4,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **stone sculpture** of a man with a beard was discovered from **Mohenjo-daro**. The statue has a **shawl** worn over the left shoulder and the eyes are half-closed as if in a state of **meditation**.\n\n*   Some scholars believe that this is the statue of a **yogi** or a **priest**.\n*   This sculpture is of **high artistic value** and points to the existence of **skilled artisans** in the Harappan Civilisation who could make beautiful **three-dimensional figures**.\n\n[Image: Bearded Man]"
+                }
+              ]
+            },
+            {
+              "title": "dancing girl",
+              "sequence_number": 5,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **bronze statue** of a **dancing girl**, which has been found at **Mohenjo-daro**, is a **masterpiece of art** and it shows a high degree of development in the **art of sculpture**. The figurine shows **vigour, variety** and **ingenuity**. The right arm of the dancing girl rests on the hip and the left arm is heavily bangled. It holds a small bowl against her left leg.\n\n[Image: Dancing Girl]"
+                }
+              ]
+            },
+            {
+              "title": "dockyard",
+              "sequence_number": 6,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "A **rectangular dockyard** was discovered at **Lothal** in Gujarat. This dockyard is believed to be one of the oldest dockyards in the world. It was surrounded by a **massive brick wall**, probably as a protection against floods. The dockyard made of baked bricks, was connected by channels to the **Gulf of Cambay**. Archaeologists have also found the remains of **stone anchors, marine shells and seals**, which can be traced to the **Persian Gulf**. These, along with a structure identified as a **warehouse**, strongly suggest that Lothal was a port with a dockyard.\n\nAccording to the historians, the town planners here had studied tides in detail to be able to leverage connecting rivers at high tide for ships to come into the port. The dockyard is most scientifically designed to withstand the flow of water and its current. It also had a water locking to keep the water in. It has been suggested by the archaeologists that a coastal route existed linking **Lothal** and **Dholavira** to **Sutkagendor** on the Makran Coast.\n\n[Image: Lothal—Dockyard]"
+                },
+                {
+                  "content_md": "**Lothal** was an important trading and manufacturing centre of the Indus Valley civilisation and was used for carrying out **overseas trade**. The dockyard provides the following information:\n*   It indicates the existence of trade both **internal and external**.\n*   It testifies the **hydraulic knowledge** of the Harappans as the boats could dock at Lothal."
+                }
+              ]
+            },
+            {
+              "title": "script",
+              "sequence_number": 7,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The Harappans used a script which is regarded as **pictographic** since its signs represent, birds, fish and varieties of the human form. The number of signs of Harappan script is known to be between **375 and 400**. The script is found inscribed on a number of seals, copper tools, rims of jars, copper and terracotta tablets, jewellery and on an ancient signboard."
+                },
+                {
+                  "content_md": "[Image: Letters on an Ancient Signboard showing Harappan Script]\n\nThe script provides following information about the Harappans:\n\n*   The script used by the Harappans was **not alphabetical** as it has too many signs.\n*   The script was written from **right to left** as is evident from a seal which shows wider space on the right than the left; indicating that the engraver might have started from the right and he ran out of space when he reached the left hand side.\n*   The availability of the script on a wide variety of objects indicate that probably many people were literate."
+                },
+                {
+                  "content_md": "### THINK ABOUT IT\nIn 1875, the first seal which had the engraving of a humpless bull and six signs above it was discovered. More than a hundred years later, we don't know what is written on these seals. What is the script? What is the language? What is the subject matter? Who were the Harappans? - All these questions remain unanswered."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "Origin, extent, urban planning, trade, art & craft, and its decline",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": ""
+            }
+          ]
         }
-      ]
+      ],
+      "content_blocks": []
     },
     {
       "title": "BRONZE AGE CIVILISATIONS",
@@ -94,7 +265,7 @@
           "content_md": "From using stone tools, man gradually came to know the use of metals. Metals were more durable than stone and could be used for making a variety of tools, implements and weapons. The first metal to be discovered was **copper**. For a long time stone implements continued to be used along with copper. The period when man used both stone and copper tools is known as the **Chalcolithic Period**.\n\nLater on, man learnt the art of mixing copper with tin or zinc to produce the alloy called **Bronze**. Bronze is harder and more ductile than copper and is, therefore, more suitable for the manufacture of tools and weapons. Because of the importance of bronze in the growth of the first civilisations, these civilisations are known as the **Bronze Age Civilisations**."
         },
         {
-          "content_md": "By about **2500 BC**, four bronze age civilisations emerged. These were:\n\n1.  the **Harappan Civilisation** in northern and western parts of India and Pakistan;\n2.  the **Mesopotamian Civilisation** on the banks of river Euphrates and Tigris in modern Iraq;\n3.  the **Chinese Civilisation** in the valley of Hwang Ho and Yangtze rivers; and\n4.  the **Egyptian Civilisation** on the banks of Nile river in Egypt."
+          "content_md": "By about 2500 BC, four bronze age civilisations emerged. These were:\n\n1.  the **Harappan Civilisation** in northern and western parts of India and Pakistan;\n2.  the **Mesopotamian Civilisation** on the banks of river Euphrates and Tigris in modern Iraq;\n3.  the **Chinese Civilisation** in the valley of Hwang Ho and Yangtze rivers; and\n4.  the **Egyptian Civilisation** on the banks of Nile river in Egypt."
         }
       ]
     },
@@ -106,7 +277,7 @@
       "children": [],
       "content_blocks": [
         {
-          "content_md": "The **Harappan Civilisation** is considered to be the first civilisation that arose in the north-western regions of the Indian subcontinent. It is so called after the name of the first major site of this civilisation, i.e., **Harappa**, which was discovered in **1921** in the province of West Punjab in Pakistan. It is also known as the **Indus Valley Civilisation** because some of its important sites, which were excavated first, are located in the valley of the river Indus.\n\nThe discovery of Indus Valley Civilisation in the 20th century was an important event in the history of India. Up to this time it was believed that the history of India began with the advent of Aryans. However, the discovery of the Harappan Civilisation pushed back the history of India by at least a thousand years, so as to put it at par with the other oldest **Bronze Age civilisations** of the world, namely **Mesopotamian and Egyptian Civilisations**.\n\nThe Harappan Civilisation is also referred to as the **Harappan Culture**. The term **'Culture'** is used by the archaeologists for a group of objects distinctive in style, that are usually found together within a specific geographical area and period of time. In the case of Harappan culture, these distinctive objects are **seals, weights, stone blades and baked bricks**."
+          "content_md": "The **Harappan Civilisation** is considered to be the first civilisation that arose in the north-western regions of the Indian subcontinent. It is so called after the name of the first major site of this civilisation, i.e., **Harappa**, which was discovered in 1921 in the province of West Punjab in Pakistan. It is also known as the **Indus Valley Civilisation** because some of its important sites, which were excavated first, are located in the valley of the river Indus.\n\nThe discovery of Indus Valley Civilisation in the 20th century was an important event in the history of India. Up to this time it was believed that the history of India began with the advent of Aryans. However, the discovery of the Harappan Civilisation pushed back the history of India by at least a thousand years, so as to put it at par with the other oldest **Bronze Age civilisations** of the world, namely **Mesopotamian and Egyptian Civilisations**.\n\nThe Harappan Civilisation is also referred to as the **Harappan Culture**. The term **‘Culture’** is used by the archaeologists for a group of objects distinctive in style, that are usually found together within a specific geographical area and period of time. In the case of Harappan culture, these distinctive objects are **seals**, **weights**, **stone blades** and **baked bricks**."
         }
       ]
     },
@@ -117,17 +288,17 @@
       "level_label": "Section",
       "children": [
         {
-          "title": "The Great Bath",
+          "title": "1. The Great Bath",
           "sequence_number": 1,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "**The Great Bath** is one of the largest public buildings at **Mohenjo-daro**. It has a large **rectangular tank** in a courtyard surrounded by a **corridor** on all four sides. There are **two flights of steps**, one in the north and the other in the south leading into the tank. To make the pool watertight, **burnt bricks** and **mortar** lined with **bitumen** and **gypsum** were used for construction. The water for the bath was provided by a well in an adjacent room. Surrounding the bath, were **porticos** and **sets of rooms**, and a stairway which led to an upper storey. Some scholars believe that these rooms were provided for the members of some kind of priesthood, whereas others think that the rooms were provided for changing clothes. This structure, with several distinctive features, has led scholars to suggest that it was meant for some kind of a **ritual bath**."
+              "content_md": "The **Great Bath** is one of the largest public buildings at **Mohenjo-daro**. It has a large rectangular tank in a courtyard surrounded by a corridor on all four sides. There are two flights of steps, one in the north and the other in the south, leading into the tank. To make the pool watertight, **burnt bricks** and **mortar lined with bitumen and gypsum** were used for construction. The water for the bath was provided by a well in an adjacent room. Surrounding the bath were porticos and sets of rooms, and a stairway which led to an upper storey. Some scholars believe that these rooms were provided for the members of some kind of priesthood, whereas others think that the rooms were provided for changing clothes. This structure, with several distinctive features, has led scholars to suggest that it was meant for some kind of a **ritual bath**."
             },
             {
-              "content_md": "The Great Bath is an important source of information that throws light on the life of the people and culture of the Harappan Civilisation:\n* The construction of the Great Bath indicates that the **art of building** had reached a high degree of perfection at that time.\n* The massive structure points out that there might have existed a **ruling class** that could mobilise labour, collect taxes and build such a huge structure for the public.\n* The design of the Great Bath portrays the **efficient planning** in the structural features relating to water supply and sewage disposal.\n* Most of the scholars agree that the Great Bath might have been used for **religious purposes**. This indicates the importance attached to ceremonial bathing in sacred tanks, pools and rivers since time immemorial.\n* A lot of planning must have been made to construct such a huge structure. This is indicated by the use of **bricks**, whether sun-dried or baked, which were of a **standardised size**."
+              "content_md": "The Great Bath is an important source of information that throws light on the life of the people and culture of the Harappan Civilisation:\n\n*   The construction of the Great Bath indicates that the **art of building** had reached a high degree of perfection at that time.\n*   The massive structure points out that there might have existed a **ruling class** that could mobilise labour, collect taxes and build such a huge structure for the public.\n*   The design of the Great Bath portrays the **efficient planning** in the structural features relating to water supply and sewage disposal.\n*   Most of the scholars agree that the Great Bath might have been used for **religious purposes**. This indicates the importance attached to **ceremonial bathing** in sacred tanks, pools and rivers since time immemorial.\n*   A lot of planning must have been made to construct such a huge structure. This is indicated by the use of bricks, whether sun-dried or baked, which were of a **standardised size**."
             },
             {
               "content_md": "[Image: The Great Bath]"
@@ -135,7 +306,7 @@
           ]
         },
         {
-          "title": "The Citadel",
+          "title": "2. The Citadel",
           "sequence_number": 2,
           "depth": 1,
           "level_label": "Topic",
@@ -143,78 +314,90 @@
           "content_blocks": [
             {
               "content_md": "The raised area of each city was called the **Citadel**. It owed its height to the buildings constructed on **mud brick platforms**. The citadel had the houses of the **ruling class** and important buildings like the **Great Bath**, the **granary**, the **assembly hall** and the **workshops**."
+            },
+            {
+              "content_md": "The Citadel provides useful insights about the following:\n* The Citadel points to the elaborate planning that went into the development of cities and justifies that the Harappan civilisation was an **urban civilisation**.\n* The presence of specific buildings and houses of the ruling class, indicate some sort of **political organisation** and **social classification**.\n* There were buildings on the Citadel probably meant for public purposes like the **granary** and the **Great Bath**."
             }
           ]
         },
         {
-          "title": "Seals",
+          "title": "3. Seals",
           "sequence_number": 3,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "[Image: Pashupati Seal]\n\n[Image: Unicorn Seal]\n\nThe **seals** used by the Harappans show their artistic skills. About **2000 seals** have been discovered. Of these a great majority comprise short inscriptions with pictures of the **one-horned bull, buffalo, tiger, goat, elephant and rhinoceros**. Material used in making the seals comprise **terracotta, steatite, agate, etc.** Most of the seals are **rectangular or square** but some of them are **circular** in shape."
+              "content_md": "[Image: Pashupati Seal]\n[Image: Unicorn Seal]\n\nThe **seals** used by the Harappans show their artistic skills. About 2000 seals have been discovered. Of these a great majority comprise short inscriptions with pictures of the **one-horned bull**, **buffalo**, **tiger**, **goat**, **elephant** and **rhinoceros**. Material used in making the seals comprise **terracotta**, **steatite**, **agate**, etc. Most of the seals are **rectangular** or **square** but some of them are **circular** in shape."
             },
             {
-              "content_md": "Harappan seals provide useful information about the script, trade, religion and beliefs of the Harappans:\n\n*   **Seals of Pashupati** show that people believed in Shiva. It is shown as a three-faced deity wearing a buffalo-horned head-dress, seated cross-legged on a throne and surrounded by an elephant, a tiger, a buffalo and a rhinoceros, with two deer at his feet. This deity has been identified as **Pashupati Mahadeva**.\n*   The **unicorn seal** shows their mythical beliefs. The seals bear some kind of script which has not yet been deciphered.\n*   The seals were produced mainly for **commercial purpose**. The seals were used by traders to stamp their goods. After a bag with goods was tied, a layer of wet clay was applied on the knot, and the seal was pressed on it leaving an **impression**. If the bag reached its destination with its seal intact, it indicated that it had not been tampered with. It also conveyed the identity of the sender or the owner. These seals were found in different regions. This indicates that the Harappan trade had spread over a vast area.\n*   Probably seals were also used as **amulets**, carried on the persons of their owners, as modern-day identity cards."
+              "content_md": "Harappan seals provide useful information about the script, trade, religion and beliefs of the Harappans:\n*   **Seals of Pashupati** show that people believed in **Shiva**. It is shown as a three-faced deity wearing a buffalo-horned head-dress, seated cross-legged on a throne and surrounded by an elephant, a tiger, a buffalo and a rhinoceros, with two deer at his feet. This deity has been identified as **Pashupati Mahadeva**.\n*   The **unicorn seal** shows their mythical beliefs. The seals bear some kind of script which has not yet been deciphered.\n*   The seals were produced mainly for **commercial purpose**. The seals were used by traders to stamp their goods. After a bag with goods was tied, a layer of wet clay was applied on the knot, and the seal was pressed on it leaving an **impression**. If the bag reached its destination with its seal intact, it indicated that it had not been tampered with. It also conveyed the identity of the sender or the owner. These seals were found in different regions. This indicates that the **Harappan trade** had spread over a vast area.\n*   Probably seals were also used as **amulets**, carried on the persons of their owners, as modern-day identity cards."
             }
           ]
         },
         {
-          "title": "Bearded Man",
+          "title": "4. Bearded Man",
           "sequence_number": 4,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "The **stone sculpture** of a man with a beard was discovered from **Mohenjo-daro**. The statue has a **shawl** worn over the left shoulder and the eyes are half-closed as if in a state of **meditation**.\n\n* Some scholars believe that this is the statue of a **yogi** or a **priest**.\n* This sculpture is of high **artistic value** and points to the existence of **skilled artisans** in the Harappan Civilisation who could make beautiful **three-dimensional figures**.\n\n[Image: Bearded Man]"
+              "content_md": "The **stone sculpture** of a man with a beard was discovered from **Mohenjo-daro**. The statue has a **shawl** worn over the left shoulder and the **eyes are half-closed** as if in a state of meditation."
+            },
+            {
+              "content_md": "*   Some scholars believe that this is the statue of a **yogi** or a **priest**.\n*   This sculpture is of **high artistic value** and points to the existence of **skilled artisans** in the Harappan Civilisation who could make beautiful **three-dimensional figures**."
+            },
+            {
+              "content_md": "[Image: Bearded Man]"
             }
           ]
         },
         {
-          "title": "Dancing Girl",
+          "title": "5. Dancing Girl",
           "sequence_number": 5,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "The **bronze statue** of a **dancing girl**, which has been found at **Mohenjo-daro**, is a masterpiece of art and it shows a high degree of development in the **art of sculpture**. The figurine shows vigour, variety and ingenuity. The right arm of the dancing girl rests on the hip and the left arm is heavily bangled. It holds a small bowl against her left leg.\n\n[Image: Dancing Girl]"
+              "content_md": "The **bronze statue** of a **dancing girl**, which has been found at **Mohenjo-daro**, is a **masterpiece of art** and it shows a high degree of development in the **art of sculpture**. The figurine shows **vigour, variety and ingenuity**. The right arm of the dancing girl rests on the hip and the left arm is heavily bangled. It holds a small bowl against her left leg.\n\n[Image: Dancing Girl]"
             }
           ]
         },
         {
-          "title": "Dockyard",
+          "title": "6. Dockyard",
           "sequence_number": 6,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "A rectangular dockyard was discovered at **Lothal** in **Gujarat**. This dockyard is believed to be one of the oldest dockyards in the world. It was surrounded by a massive brick wall, probably as a protection against floods. The dockyard, made of baked bricks, was connected by channels to the **Gulf of Cambay**. Archaeologists have also found the remains of **stone anchors**, **marine shells** and **seals**, which can be traced to the **Persian Gulf**. These, along with a structure identified as a **warehouse**, strongly suggest that **Lothal** was a port with a dockyard.\n\nAccording to the historians, the town planners here had studied tides in detail to be able to leverage connecting rivers at high tide for ships to come into the port. The dockyard is most scientifically designed to withstand the flow of water and its current. It also had a water locking to keep the water in. It has been suggested by the archaeologists that a coastal route existed linking **Lothal** and **Dholavira** to **Sutkagendor** on the **Makran Coast**."
+              "content_md": "A **rectangular dockyard** was discovered at **Lothal** in **Gujarat**. This dockyard is believed to be one of the oldest dockyards in the world. It was surrounded by a massive brick wall, probably as a protection against floods. The dockyard made of baked bricks, was connected by channels to the **Gulf of Cambay**. Archaeologists have also found the remains of **stone anchors, marine shells and seals**, which can be traced to the **Persian Gulf**. These, along with a structure identified as a **warehouse**, strongly suggest that Lothal was a port with a dockyard.\n\nAccording to the historians, the town planners here had studied tides in detail to be able to leverage connecting rivers at high tide for ships to come into the port. The dockyard is most scientifically designed to withstand the flow of water and its current. It also had a water locking to keep the water in. It has been suggested by the archaeologists that a coastal route existed linking **Lothal** and **Dholavira** to **Sutkagendor** on the Makran Coast.\n\n[Image: Lothal—Dockyard]"
             },
             {
-              "content_md": "[Image: Lothal—Dockyard]"
-            },
-            {
-              "content_md": "**Lothal** was an important trading and manufacturing centre of the **Indus Valley civilisation** and was used for carrying out **overseas trade**. The dockyard provides the following information:\n* It indicates the existence of trade both **internal** and **external**.\n* It testifies the **hydraulic knowledge** of the Harappans as the boats could dock at **Lothal**."
+              "content_md": "Lothal was an important trading and manufacturing centre of the Indus Valley civilisation and was used for carrying out **overseas trade**. The dockyard provides the following information:\n* It indicates the existence of trade both **internal and external**.\n* It testifies the **hydraulic knowledge** of the Harappans as the boats could dock at Lothal."
             }
           ]
         },
         {
-          "title": "Script",
+          "title": "7. Script",
           "sequence_number": 7,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "The Harappans used a script which is regarded as **pictographic** since its signs represent, birds, fish and varieties of the human form. The number of signs of **Harappan script** is known to be between 375 and 400. The script is found inscribed on a number of seals, copper tools, rims of jars, copper and terracotta tablets, jewellery and on an ancient signboard.\n\n[Image: Letters on an Ancient Signboard showing Harappan Script]\n\nThe script provides following information about the Harappans:\n\n*   The script used by the Harappans was **not alphabetical** as it has too many signs.\n*   The script was **written from right to left** as is evident from a seal which shows wider space on the right than the left; indicating that the engraver might have started from the right and he ran out of space when he reached the left hand side.\n*   The availability of the script on a wide variety of objects indicate that probably many people were literate."
+              "content_md": "The Harappans used a script which is regarded as **pictographic** since its signs represent, birds, fish and varieties of the human form. The number of signs of Harappan script is known to be between **375 and 400**. The script is found inscribed on a number of **seals**, **copper tools**, **rims of jars**, **copper and terracotta tablets**, **jewellery** and on an **ancient signboard**."
             },
             {
-              "content_md": "### THINK ABOUT IT\n\nIn **1875**, the first seal which had the engraving of a humpless bull and six signs above it was discovered. More than a hundred years later, we don't know what is written on these seals. What is the script? What is the language? What is the subject matter? Who were the Harappans? - All these questions remain unanswered."
+              "content_md": "[Image: Letters on an Ancient Signboard showing Harappan Script]"
+            },
+            {
+              "content_md": "The script provides following information about the Harappans:\n\n*   The script used by the Harappans was **not alphabetical** as it has too many signs.\n*   The script was written from **right to left** as is evident from a seal which shows wider space on the right than the left; indicating that the engraver might have started from the right and he ran out of space when he reached the left hand side.\n*   The availability of the script on a wide variety of objects indicate that probably many people were literate."
+            },
+            {
+              "content_md": "**THINK ABOUT IT**\n\nIn **1875**, the first seal which had the engraving of a humpless bull and six signs above it was discovered. More than a hundred years later, we don't know what is written on these seals. What is the script? What is the language? What is the subject matter? Who were the Harappans? - All these questions remain unanswered."
             }
           ]
         }
@@ -235,7 +418,7 @@
           "children": [],
           "content_blocks": [
             {
-              "content_md": "Some scholars believe that this civilisation came into existence as a result of a **sudden migration** of people with an urban civilisation to the Indus basin. According to these scholars, the Harappan Civilisation was an **offshoot of the Mesopotamian Civilisation**. However, excavations at various Harappan sites have indicated **striking differences** between the Harappan and the Mesopotamian Civilisations.\n\nSome scholars also held the view that **trade with Mesopotamia** played an important role in the transformation of the Harappan Civilisation from the early stage to the mature phase. But this theory has been **rejected** on the ground that **no evidence of trade with Mesopotamia during the early Harappan period** has been found."
+              "content_md": "Some scholars believe that this civilisation came into existence as a result of a **sudden migration** of people with an urban civilisation to the **Indus basin**. According to these scholars, the **Harappan Civilisation** was an offshoot of the **Mesopotamian Civilisation**. However, excavations at various Harappan sites have indicated striking differences between the Harappan and the Mesopotamian Civilisations. Some scholars also held the view that **trade with Mesopotamia** played an important role in the transformation of the Harappan Civilisation from the early stage to the mature phase. But this theory has been rejected on the ground that no evidence of trade with Mesopotamia during the early Harappan period has been found."
             }
           ]
         },
@@ -247,7 +430,7 @@
           "children": [],
           "content_blocks": [
             {
-              "content_md": "**Indigenous Origin**: The recent researches show that roots of the **Harappan Civilisation** lie deep in the Indian soil. According to some historians, the urban Harappan culture was only an **outgrowth of the extensive local village cultures** and not of foreign origin. These cultures probably contributed to the growth of the Harappan Civilisation, together with the external stimulus provided by trade contacts with **Mesopotamia**. These historians found some marked similarities between the **pre-Harappan and proto-Harappan cultures** at **Kot Diji**, **Amri** and **Kalibangan** in terms of **granary**, **defensive walls** and **long distance trade** in these settlements. From this, historians concluded that the Harappan Civilisation **evolved from these agricultural communities**."
+              "content_md": "The recent researches show that roots of the **Harappan Civilisation** lie deep in the **Indian soil**. According to some historians, the **urban Harappan culture** was only an outgrowth of the extensive **local village cultures** and not of foreign origin. These cultures probably contributed to the growth of the Harappan Civilisation, together with the external stimulus provided by trade contacts with Mesopotamia. These historians found some marked similarities between the **pre-Harappan and proto-Harappan cultures** at **Kot Diji**, **Amri** and **Kalibangan** in terms of **granary**, **defensive walls** and **long distance trade** in these settlements. From this historians concluded that the **Harappan Civilisation evolved from these agricultural communities**."
             }
           ]
         }
@@ -268,10 +451,13 @@
           "children": [],
           "content_blocks": [
             {
-              "content_md": "The two most important Harappan cities are — **Harappa** in Montgomery district of Punjab and **Mohenjo-daro** in Larkana district of Sindh (now both in Pakistan). These two cities are linked by the river Indus and hence the name of the civilisation is the **Indus Valley Civilisation**. A third city lies at **Chanhudaro**, about 130 km south of Mohenjo-daro. The fourth city is at **Lothal** in Gujarat, at the head of the Gulf of Cambay. The fifth city lies at **Kalibangan** in northern Rajasthan and the sixth called **Banawali** is situated in Fatehabad district in Haryana.\n\nThe Harappan culture has been found in its mature and flourishing stage not only in these six cities but also in the cities of **Sutkagendor** and **Surkotada**, each of which has a **citadel**. The later Harappan phase has also been discovered in **Rangpur** in Khathiawar in Gujarat.\n\nThe ruins of Mohenjo-daro were designated a **UNESCO World Heritage site** in 1980."
+              "content_md": "The two most important **Harappan cities** are — **Harappa** in Montgomery district of Punjab and **Mohenjo-daro** in Larkana district of Sindh (now both in Pakistan). These two cities are linked by the river **Indus** and hence the name of the civilisation is the **Indus Valley Civilisation**. A third city lies at **Chanhudaro**, about 130 km south of Mohenjo-daro. The fourth city is at **Lothal** in Gujarat, at the head of the Gulf of Cambay. The fifth city lies at **Kalibangan** in northern Rajasthan and the sixth called **Banawali** is situated in Fatehabad district in Haryana."
             },
             {
-              "content_md": "### COMMON ELEMENTS BETWEEN MOHENJO-DARO AND HARAPPA\n\n*   Both are located on river banks— **Mohenjo-daro** on the right bank of the Indus, and **Harappa** on the left bank of the Ravi.\n*   Both measured around 5.0 km in circuit.\n*   Ground plans including layout of streets, blocks of houses were common to both the cities.\n*   Water supply, drainage, granaries were common in both the cities.\n*   Indoor plumbing, paved bathrooms, brick drainpipes, a network of brick-lined sewage channel (something unique to the Harappan Civilisation) is seen in both the cities."
+              "content_md": "### COMMON ELEMENTS BETWEEN MOHENJO-DARO AND HARAPPA\n*   Both are located on river banks— **Mohenjo-daro** on the right bank of the **Indus**, and **Harappa** on the left bank of the **Ravi**.\n*   Both measured around **5.0 km in circuit**.\n*   **Ground plans** including layout of streets, blocks of houses were common to both the cities.\n*   **Water supply, drainage, granaries** were common in both the cities.\n*   **Indoor plumbing, paved bathrooms, brick drainpipes**, a network of **brick-lined sewage channel** (something unique to the Harappan Civilisation) is seen in both the cities."
+            },
+            {
+              "content_md": "The **Harappan culture** has been found in its mature and flourishing stage not only in these six cities but also in the cities of **Sutkagendor** and **Surkotada**, each of which has a **citadel**. The later Harappan phase has also been discovered in **Rangpur** in Khathiawar in Gujarat.\n\nThe ruins of **Mohenjo-daro** were designated a **UNESCO World Heritage site** in **1980**."
             }
           ]
         },
@@ -283,7 +469,7 @@
           "children": [],
           "content_blocks": [
             {
-              "content_md": "*   Both are located on river banks—**Mohenjo-daro** on the right bank of the **Indus**, and **Harappa** on the left bank of the **Ravi**.\n*   Both measured around **5.0 km** in circuit.\n*   **Ground plans** including layout of streets, blocks of houses were common to both the cities.\n*   **Water supply**, **drainage**, **granaries** were common in both the cities.\n*   **Indoor plumbing**, **paved bathrooms**, **brick drainpipes**, a network of **brick-lined sewage channel** (something unique to the Harappan Civilisation) is seen in both the cities."
+              "content_md": "* Both are located on river banks—**Mohenjo-daro** on the right bank of the **Indus**, and **Harappa** on the left bank of the **Ravi**.\n* Both measured around **5.0 km** in circuit.\n* **Ground plans** including **layout of streets**, blocks of houses were common to both the cities.\n* **Water supply**, **drainage**, **granaries** were common in both the cities.\n* **Indoor plumbing**, **paved bathrooms**, **brick drainpipes**, a network of **brick-lined sewage channel** (something unique to the Harappan Civilisation) is seen in both the cities."
             }
           ]
         },
@@ -295,10 +481,10 @@
           "children": [],
           "content_blocks": [
             {
-              "content_md": "The most striking feature of the **Harappan civilisation** is its **urban planning**. The Indus cities differed from the **Sumerian cities** in Mesopotamian civilisation, in modern Iraq. While the Sumerian cities developed around the temple and followed a circular pattern, the Indus cities followed a **grid pattern**. This is indicated by the regularity of the divisions, the alignment of streets, the planning of the houses and public buildings with the provision for thoroughfares."
+              "content_md": "The most striking feature of the Harappan civilisation is its **urban planning**. The Indus cities differed from the **Sumerian cities** in Mesopotamian civilisation, in modern Iraq. While the Sumerian cities developed around the temple and followed a circular pattern, the Indus cities followed a **grid pattern**. This is indicated by the regularity of the divisions, the alignment of streets, the planning of the houses and public buildings with the provision for thoroughfares."
             },
             {
-              "content_md": "The main characteristics of town planning were the following:\n1.  Each city was divided into two parts — the raised area, called the **'Citadel'** and the **'lower town.'** The citadel owed its height to the buildings which were constructed on mud brick platforms. The citadel was separated from the lower town by a wall. The important buildings like the **Great Bath**, the **granary**, the **assembly hall** and the **workshops** were located on the citadel. The lower town had the residential buildings where the people lived and worked.\n2.  The main streets followed a **grid pattern** running from north to south or from east to west.\n3.  The houses at street corners were rounded to allow carts to pass easily.\n4.  House drains emptied all waste water into the street drains.\n5.  The streets crossed the main road at right angles, dividing the city into square or rectangular blocks."
+              "content_md": "The main characteristics of town planning were the following:\n1.  Each city was divided into two parts — the raised area, called the '**Citadel**' and the '**lower town**'. The citadel owed its height to the buildings which were constructed on mud brick platforms. The citadel was separated from the lower town by a wall. The important buildings like the **Great Bath**, the **granary**, the **assembly hall** and the **workshops** were located on the citadel. The lower town had the residential buildings where the people lived and worked.\n2.  The main streets followed a **grid pattern** running from north to south or from east to west.\n3.  The houses at street corners were rounded to allow carts to pass easily.\n4.  House drains emptied all waste water into the street drains.\n5.  The streets crossed the main road at right angles, dividing the city into square or rectangular blocks."
             }
           ]
         }
@@ -313,7 +499,7 @@
       "children": [],
       "content_blocks": [
         {
-          "content_md": "The main characteristics of houses were the following:\n1. The **residential buildings** were built according to a set plan on a **high mound** in order to protect them from floods. Their foundations were deep.\n2. There were variations in the size of houses from single room tenements to bigger houses with courtyards, up to twelve rooms, **private wells and toilets**. Each house had **covered drains** connected with street drains.\n3. The entrances to the houses were from the narrow lanes which cut the streets at right angles.\n4. The kitchen was placed in a sheltered corner of the courtyard and the ground floor contained storerooms and well chambers.\n5. The houses were made of **brick and wood**. Each house had doors, windows and ventilators. Doors and windows opened on the side of the streets and not on the main roads."
+          "content_md": "[Image: Granaries]\n\nThe main characteristics of houses were the following:\n1. The **residential buildings** were built according to a **set plan** on a **high mound** in order to protect them from floods. Their foundations were deep.\n2. There were variations in the size of houses from **single room tenements** to **bigger houses** with **courtyards**, up to twelve rooms, **private wells** and **toilets**. Each house had **covered drains** connected with **street drains**.\n3. The entrances to the houses were from the **narrow lanes** which cut the streets at right angles.\n4. The **kitchen** was placed in a sheltered corner of the courtyard and the ground floor contained **storerooms** and **well chambers**.\n5. The houses were made of **brick and wood**. Each house had **doors**, **windows** and **ventilators**. Doors and windows opened on the side of the streets and not on the main roads."
         }
       ]
     },
@@ -324,17 +510,17 @@
       "level_label": "Section",
       "children": [
         {
-          "title": "The Great Bath",
+          "title": "(a) The Great Bath",
           "sequence_number": 1,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "**The Great Bath** is one of the largest public buildings at **Mohenjo-daro**. It has a large rectangular tank in a courtyard surrounded by a corridor on all four sides. There are two flights of steps, one in the north and the other in the south, leading into the tank. To make the pool watertight, **burnt bricks** and **mortar** lined with **bitumen** and **gypsum** were used for construction. The water for the bath was provided by a well in an adjacent room. Surrounding the bath, were **porticos** and sets of **rooms**, and a stairway which led to an upper storey. Some scholars believe that these rooms were provided for the members of some kind of priesthood, whereas others think that the rooms were provided for changing clothes. This structure, with several distinctive features, has led scholars to suggest that it was meant for some kind of a **ritual bath**."
+              "content_md": "**The Great Bath** is one of the largest public buildings at **Mohenjo-daro**. It has a large rectangular tank in a courtyard surrounded by a corridor on all four sides. There are two flights of steps, one in the north and the other in the south, leading into the tank. To make the pool watertight, **burnt bricks** and **mortar** lined with **bitumen** and **gypsum** were used for construction. The water for the bath was provided by a well in an adjacent room. Surrounding the bath, were **porticos** and sets of rooms, and a stairway which led to an upper storey. Some scholars believe that these rooms were provided for the members of some kind of priesthood, whereas others think that the rooms were provided for changing clothes. This structure, with several distinctive features, has led scholars to suggest that it was meant for some kind of a **ritual bath**."
             },
             {
-              "content_md": "The Great Bath is an important source of information that throws light on the life of the people and culture of the Harappan Civilisation:\n\n*   The construction of the Great Bath indicates that the **art of building** had reached a high degree of perfection at that time.\n*   The massive structure points out that there might have existed a **ruling class** that could mobilise labour, collect taxes and build such a huge structure for the public.\n*   The design of the Great Bath portrays the **efficient planning** in the structural features relating to water supply and sewage disposal.\n*   Most of the scholars agree that the Great Bath might have been used for **religious purposes**. This indicates the importance attached to **ceremonial bathing** in sacred tanks, pools and rivers since time immemorial.\n*   A lot of planning must have been made to construct such a huge structure. This is indicated by the use of bricks, whether sun-dried or baked, which were of a **standardised size**."
+              "content_md": "The Great Bath is an important source of information that throws light on the life of the people and culture of the Harappan Civilisation:\n\n*   The construction of the Great Bath indicates that the **art of building** had reached a high degree of perfection at that time.\n*   The massive structure points out that there might have existed a **ruling class** that could mobilise labour, collect taxes and build such a huge structure for the public.\n*   The design of the Great Bath portrays the **efficient planning** in the structural features relating to water supply and sewage disposal.\n*   Most of the scholars agree that the Great Bath might have been used for **religious purposes**. This indicates the importance attached to ceremonial bathing in sacred tanks, pools and rivers since time immemorial.\n*   A lot of planning must have been made to construct such a huge structure. This is indicated by the use of bricks, whether sun-dried or baked, which were of a **standardised size**."
             },
             {
               "content_md": "[Image: The Great Bath]"
@@ -342,17 +528,14 @@
           ]
         },
         {
-          "title": "Granaries",
+          "title": "(b) Granaries",
           "sequence_number": 2,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "[Image: Granaries]"
-            },
-            {
-              "content_md": "**Granaries** have been found at several sites—**Mohenjo-daro**, **Harappa**, **Lothal** and **Kalibangan**. However, at **Harappa**, there were two rows of six granaries each. To the south of the granaries at Harappa **working floors** consisting of rows of **circular brick platforms** were discovered. It is believed that these floors were meant for **threshing grain** because **wheat** and **barley** grains were found in the crevices of the floors. Two-roomed **barracks**, which possibly accommodated labourers have also been found at Harappa. The location of Harappa near the **river Ravi** suggests that food grains were brought to this place by boat. It was built on a **raised platform** to protect it from floods. The granary had **ventilation** to prevent grains from becoming mildewed."
+              "content_md": "**Granaries** have been found at several sites—**Mohenjo-daro**, **Harappa**, **Lothal** and **Kalibangan**.\n*   At **Harappa**, there were two rows of six granaries each. \n*   To the south of the granaries at Harappa, **working floors** consisting of rows of **circular brick platforms** were discovered. It is believed that these floors were meant for **threshing grain** because wheat and barley grains were found in the crevices of the floors.\n*   **Two-roomed barracks**, which possibly accommodated labourers, have also been found at Harappa.\n*   The location of Harappa near the **river Ravi** suggests that food grains were brought to this place by boat.\n*   The granary was built on a **raised platform** to protect it from floods and had **ventilation** to prevent grains from becoming mildewed."
             }
           ]
         }
@@ -373,7 +556,10 @@
           "children": [],
           "content_blocks": [
             {
-              "content_md": "The Harappans carried on considerable trade in **stone, metal, shell, etc.**, within the **Indus civilisation zone**. In some cases common products have been found in all the areas, indicating some kind of trade. They, however, did not use metal money but carried on all exchanges through **barter**.\n\nThe cities like **Mohenjo-daro, Harappa and Lothal** were important centres for **metallurgy**, producing tools and weapons as well as kitchenware and other objects for wide distribution. **Rice** seems to have been imported to **Punjab from Gujarat**. **Lothal and Surkotada** provided **cotton** for the expanding townships of Mohenjo-daro, Harappa, Banawali, etc. **Balakot and Chanhudaro** were centres for **bangle-making**. **Lothal and Chanhudaro** were centres for the **manufacturing of beads**."
+              "content_md": "The Harappans carried on considerable trade in **stone**, **metal**, **shell**, etc., within the **Indus civilisation zone**. In some cases common products have been found in all the areas, indicating some kind of trade. They, however, did not use metal money but carried on all exchanges through **barter**."
+            },
+            {
+              "content_md": "The cities like **Mohenjo-daro**, **Harappa** and **Lothal** were important centres for **metallurgy**, producing tools and weapons as well as kitchenware and other objects for wide distribution. \n\n* **Rice** seems to have been imported to **Punjab** from **Gujarat**.\n* **Lothal** and **Surkotada** provided **cotton** for the expanding townships of **Mohenjo-daro**, **Harappa**, **Banawali**, etc.\n* **Balakot** and **Chanhudaro** were centres for **bangle-making**.\n* **Lothal** and **Chanhudaro** were centres for the **manufacturing of beads**."
             }
           ]
         },
@@ -385,7 +571,13 @@
           "children": [],
           "content_blocks": [
             {
-              "content_md": "Besides internal trade, the Harappans also had commercial contacts with their western neighbours. **Lothal**, **Surkotada** and **Balakot** were some of the important trading coastal towns which carried on trade with **Mesopotamia** and other **West Asian sites**. They had also set up a trading colony in **northern Afghanistan** which facilitated trade with **Central Asia**.\n\nThe **Mesopotamian records** from about **2350 BC** onwards refer to trade relations with **Meluha**, which was the ancient name given to the **Indus region**. The Mesopotamian texts refer to two intermediate trading stations called **Dilmun** and **Makan**, which lay between Mesopotamia and Meluha. **Dilmun** has been identified with **Bahrain** on the **Persian Gulf**. Possibly the trade with these countries used to be carried out by sea. Mesopotamian texts refer to Meluha as a **land of seafarers**. Besides, the depictions of **ships and boats on seals** also indicate this.\n\nThe Harappan merchants were exporting to and importing goods from the West and Central Asian sites. **Gold** was imported from North Karnataka and Afghanistan; **copper** from Rajasthan, South India, Baluchistan and Arabia; **lead** from either East or South India."
+              "content_md": "Besides internal trade, the **Harappans** also had commercial contacts with their western neighbours. **Lothal**, **Surkotada** and **Balakot** were some of the important trading coastal towns which carried on trade with **Mesopotamia** and other **West Asian sites**. They had also set up a trading colony in northern Afghanistan which facilitated trade with **Central Asia**."
+            },
+            {
+              "content_md": "The **Mesopotamian records** from about **2350 BC** onwards refer to trade relations with **Meluha**, which was the ancient name given to the **Indus region**. The Mesopotamian texts refer to two intermediate trading stations called **Dilmun** and **Makan**, which lay between Mesopotamia and Meluha. **Dilmun** has been identified with **Bahrain** on the Persian Gulf. Possibly the trade with these countries used to be carried out by sea. Mesopotamian texts refer to Meluha as a **land of seafarers**. Besides, the depictions of ships and boats on seals also indicate this."
+            },
+            {
+              "content_md": "The Harappan merchants were exporting to and importing goods from the West and Central Asian sites.\n*   **Gold** was imported from North Karnataka and Afghanistan.\n*   **Copper** from Rajasthan, South India, Baluchistan and Arabia.\n*   **Lead** from either East or South India."
             }
           ]
         }
@@ -400,100 +592,61 @@
       "children": [],
       "content_blocks": [
         {
-          "content_md": "All the works of **Harappan art**, including **figurines** of clay and terracotta, stone and bronze **sculpture**, **seals** and **beads**, are products of **skilled craftsmen**. A piece of **woven cotton** was discovered from Mohenjo-daro and textile impressions were found on several objects. This shows **weaving** was an important craft. The Harappans practised **boat-making**. **Seal-making** and making **terracotta articles** were important crafts. The subjects portrayed on the seals and terracotta figures include human beings, animals and birds. The human figurines were shown wearing heavy ornaments and jewellery and elaborate headgear. Among the inanimate objects the most common were terracotta models of bullock carts and ploughs.\n\nThe **goldsmiths** made **jewellery** of silver, gold and precious stones. The Harappans also knew the art of **bead-making**.\n\nHarappans produced their own characteristic **pottery** which was made glossy and shining. Earthen vessels and pottery, crafted on the **potter's wheel**, were decorated with black geometrical designs. The large jars with narrow necks and red pots with black decoration bear evidence of their artistic skill."
-        }
-      ]
-    },
-    {
-      "title": "Dress",
-      "sequence_number": 11,
-      "depth": 0,
-      "level_label": "Section",
-      "children": [],
-      "content_blocks": [
-        {
-          "content_md": "The Indus Valley **men** used to wear a **dhoti** as is depicted on a potsherd from Harappa. They wore a **shawl** as an upper garment as shown by the famous figure of the priest from Mohenjo-daro. The **women** wore a **skirt** and used a **cloak** to cover arms and shoulders. The discovery of **needles and buttons** at some sites show that at least some of the clothes were **stitched**."
-        }
-      ]
-    },
-    {
-      "title": "Ornaments",
-      "sequence_number": 12,
-      "depth": 0,
-      "level_label": "Section",
-      "children": [],
-      "content_blocks": [
-        {
-          "content_md": "Ornaments were worn by both **men and women**. Some of the common ornaments were **necklaces**, **finger-rings**, **bangles**, **armlets**, **anklets**, **nose rings**, **fan-shaped head-dress** and **earrings**. They were made of **gold**, **silver**, **precious stones** and **ivory**."
-        },
-        {
-          "content_md": "[Image: Ornaments]"
-        }
-      ]
-    },
-    {
-      "title": "Toys and Amusements",
-      "sequence_number": 13,
-      "depth": 0,
-      "level_label": "Section",
-      "children": [],
-      "content_blocks": [
-        {
-          "content_md": "People played **games** and had many other forms of **entertainment**. They played **dice** and went on **hunting** and **fishing expeditions**. Their main **musical instruments** were the **drum** and the **lyre**. **Toys** of birds, animals, figurines, carts and whistles were also made."
+          "content_md": "All the works of **Harappan art**, including **figurines** of clay and terracotta, **stone** and **bronze sculpture**, **seals** and **beads**, are products of **skilled craftsmen**. A piece of **woven cotton** was discovered from **Mohenjo-daro** and textile impressions were found on several objects. This shows **weaving** was an important craft. The Harappans practised **boat-making**. **Seal-making** and making **terracotta articles** were important crafts. The subjects portrayed on the seals and terracotta figures include human beings, animals and birds. The human figurines were shown wearing heavy ornaments and jewellery and elaborate headgear. Among the inanimate objects the most common were terracotta models of bullock carts and ploughs.\n\nThe **goldsmiths** made **jewellery** of silver, gold and precious stones. The Harappans also knew the art of **bead-making**.\n\nHarappans produced their own characteristic **pottery** which was made glossy and shining. Earthen vessels and pottery, crafted on the **potter's wheel**, were decorated with **black geometrical designs**. The large jars with narrow necks and red pots with black decoration bear evidence of their artistic skill."
         }
       ]
     },
     {
       "title": "DECLINE OF THE CIVILISATION",
-      "sequence_number": 14,
+      "sequence_number": 11,
       "depth": 0,
       "level_label": "Section",
       "children": [
         {
-          "title": "Floods and Earthquakes",
+          "title": "(a) Floods and Earthquakes",
           "sequence_number": 1,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "It is held by some scholars that **floods** in **Mohenjo-daro** led to the abandonment of this settlement. They have inferred this from the fact that the houses and streets at Mohenjo-daro were found covered with **silty clay** left by the flood waters which had submerged the streets and houses. The people of Mohenjo-daro again built up houses and streets on top of the debris of the previous buildings, after the floods had receded. But a time came, when the impoverished Harappans at Mohenjo-daro could not take it anymore and simply abandoned the settlement.\n\nAccording to a famous hydrologist, **R.L. Raikes**, such flooding could not be the result of normal flooding in the river Indus. **Earthquakes** might have raised the level of the **flood plains of the Indus river**. This uplift of the plain of the Indus blocked the passage of the river to the sea and the rising water levels of the river led to the inundation of the hinterland of Mohenjo-daro."
+              "content_md": "It is held by some scholars that **floods** in **Mohenjo-daro** led to the abandonment of this settlement. They have inferred this from the fact that the houses and streets at Mohenjo-daro were found covered with **silty clay** left by the flood waters which had submerged the streets and houses. The people of Mohenjo-daro again built up houses and streets on top of the debris of the previous buildings, after the floods had receded. But a time came, when the impoverished **Harappans** at Mohenjo-daro could not take it anymore and simply abandoned the settlement.\n\nAccording to a famous hydrologist, **R.L. Raikes**, such flooding could not be the result of normal flooding in the river Indus. **Earthquakes** might have raised the level of the **flood plains of the Indus river**. This uplift of the plain of the Indus blocked the passage of the river to the sea and the rising water levels of the river led to the inundation of the hinterland of Mohenjo-daro."
             }
           ]
         },
         {
-          "title": "Increased Aridity",
+          "title": "(b) Increased Aridity",
           "sequence_number": 2,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "According to renowned historians, **D.P. Agarwal and Sood**, the Harappan civilisation declined because of **increasing aridity** in the area and the **drying up of the river Ghaggar**. **Sutlej** and **Yamuna** used to be the tributaries of the river Ghaggar and because of some **tectonic disturbances**, the Sutlej stream was captured by the Indus river and the Yamuna shifted east to join the Ganges. This change left the Ghaggar waterless. The **ecological disturbance** caused by the increased aridity and **shift in the drainage pattern** led to the decline of the Harappan civilisation."
+              "content_md": "According to renowned historians, **D.P. Agarwal and Sood**, the Harappan civilisation declined because of **increasing aridity** in the area and the **drying up of the river Ghaggar**. Sutlej and Yamuna used to be the tributaries of the river Ghaggar and because of some **tectonic disturbances**, the **Sutlej stream was captured by the Indus river** and the **Yamuna shifted east to join the Ganges**. This change left the Ghaggar waterless. The **ecological disturbance** caused by the increased aridity and shift in the drainage pattern led to the decline of the Harappan civilisation."
             }
           ]
         },
         {
-          "title": "Deforestation",
+          "title": "(c) Deforestation",
           "sequence_number": 3,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "Since the Indus valley civilisation was a **Bronze Age culture**, enormous quantities of wood were needed to **produce bronze**. Wood was also needed to produce **jewellery**, to **bake bricks, pottery, stoneware** and to **make boats and furniture**. This could have led to **deforestation** leading to **climatic change** in the region."
+              "content_md": "Since the **Indus valley civilisation** was a **Bronze Age culture**, enormous quantities of wood were needed to **produce bronze**. Wood was also needed to produce **jewellery**, to **bake bricks**, **pottery**, **stoneware** and to make **boats and furniture**. This could have led to **deforestation** leading to **climatic change** in the region."
             }
           ]
         },
         {
-          "title": "Attack",
+          "title": "(d) Attack",
           "sequence_number": 4,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "Some historians like **Mortimer Wheeler** believed that the **Aryans** destroyed the Indus settlements. According to Mortimer Wheeler in the last phase of **Mohenjo-daro**, men, women and children were massacred in the streets and houses as is evident from the **skeletons of 13 males and females and one child** found lying in a room."
+              "content_md": "Some historians like **Mortimer Wheeler** believed that the **Aryans** destroyed the Indus settlements. According to **Mortimer Wheeler** in the last phase of **Mohenjo-daro**, men, women and children were massacred in the streets and houses as is evident from the skeletons of 13 males and females and one child found lying in a room."
             }
           ]
         }
@@ -502,19 +655,19 @@
     },
     {
       "title": "HERITAGE",
-      "sequence_number": 15,
+      "sequence_number": 12,
       "depth": 0,
       "level_label": "Section",
       "children": [],
       "content_blocks": [
         {
-          "content_md": "The decline of the physical aspects of the **Harappan civilisation** did not lead to the total disappearance of all the traits of this civilisation. Many of its features were found in the later cultural development. The Harappan way of making **baked pottery, bricks, beads, jewellery, textiles, etc.** was adopted by the later civilisations. One of the most remarkable achievements of the Harappan people was the **cultivation of cotton**, which was adopted by the Egyptians after several centuries. In the religious sphere, the worship of **Pashupati Shiva**, the female deity as **Mother Goddess**, sacred **trees, animals, serpents, religious symbols, etc.**, which were prevalent during the Harappan period, some of them have continued to this day."
+          "content_md": "The decline of the physical aspects of the **Harappan civilisation** did not lead to the total disappearance of all the traits of this civilisation. Many of its features were found in the later cultural development. The Harappan way of making **baked pottery, bricks, beads, jewellery, textiles, etc.** was adopted by the later civilisations. One of the most remarkable achievements of the Harappan people was the **cultivation of cotton**, which was adopted by the Egyptians after several centuries. In the religious sphere, the worship of **Pashupati Shiva**, the female deity as **Mother Goddess**, sacred trees, animals, serpents, religious symbols, etc., which were prevalent during the Harappan period, some of them have continued to this day."
         }
       ]
     },
     {
       "title": "EXERCISES",
-      "sequence_number": 16,
+      "sequence_number": 13,
       "depth": 0,
       "level_label": "Section",
       "children": [
@@ -548,11 +701,7 @@
           "depth": 1,
           "level_label": "Topic",
           "children": [],
-          "content_blocks": [
-            {
-              "content_md": ""
-            }
-          ]
+          "content_blocks": []
         },
         {
           "title": "IV. Thinking Skills",
@@ -572,11 +721,28 @@
   ],
   "additional_sections": [
     {
+      "title": "BRONZE AGE CIVILISATIONS",
+      "content_md": "From using stone tools, man gradually came to know the use of metals. Metals were more durable than stone and could be used for making a variety of tools, implements and weapons. The first metal to be discovered was copper. For a long time stone implements continued to be used along with copper. The period when man used both stone and copper tools is known as the Chalcolithic Period.\n\nLater on, man learnt the art of mixing copper with tin or zinc to produce the alloy called Bronze. Bronze is harder and more ductile than copper and is, therefore, more suitable for the manufacture of tools and weapons. Because of the importance of bronze in the growth of the first civilisations, these civilisations are known as the Bronze Age Civilisations.\n\nBy about 2500 BC, four bronze age civilisations emerged. These were:\n(i) the Harappan Civilisation in northern and western parts of India and Pakistan;\n(ii) the Mesopotamian Civilisation on the banks of river Euphrates and Tigris in modern Iraq;\n(iii) the Chinese Civilisation in the valley of Hwang Ho and Yangtze rivers; and\n(iv) the Egyptian Civilisation on the banks of Nile river in Egypt."
+    },
+    {
       "title": "EXTENT OF THE CIVILISATION",
-      "content_md": "The entire area of the Harappan civilisation is triangular in shape and accounts for about 1.3 million sq.km and was the largest area amongst the ancient civilisations. It extended from Sutkagendor (on the sea-coast of South Baluchistan) in the west, to Alamgirpur (in the upper Ganga-Yamuna Doab in western UP) in the east and from Manda (in Jammu) in the north to Bhagatrav in Narmada estuary in the south.\nThe Harappan culture covered parts of Punjab, Haryana, Sindh, Baluchistan, Gujarat, Rajasthan and the fringes of Western Uttar Pradesh. Consequent to the partition of India, the main centres of civilisation, i.e., Harappa, Mohenjo-daro, Chanhudaro and Sutkagendor are now in Pakistan. Some of the centres of this civilisation in India are Manda, Banawali, Kalibangan, Alamgirpur, Lothal, Rupar and Rangpur. In recent years, many more extensions of this civilisation in Gujarat and Punjab have been discovered. Dholavira in Gujarat is the most prominent among them. The largest sites of the Harappan Civilisation however, are Mohenjo-daro, Harappa, Kalibangan and Lothal."
+      "content_md": "The entire area of the Harappan civilisation is triangular in shape and accounts for about 1.3 million sq.km and was the largest area amongst the ancient civilisations. It extended from Sutkagendor (on the sea-coast of South Baluchistan) in the west, to Alamgirpur (in the upper Ganga-Yamuna Doab in western UP) in the east and from Manda (in Jammu) in the north to Bhagatrav in Narmada estuary in the south.\n\nThe Harappan culture covered parts of Punjab, Haryana, Sindh, Baluchistan, Gujarat, Rajasthan and the fringes of Western Uttar Pradesh. Consequent to the partition of India, the main centres of civilisation, i.e., Harappa, Mohenjo-daro, Chanhudaro and Sutkagendor are now in Pakistan. Some of the centres of this civilisation in India are Manda, Banawali, Kalibangan, Alamgirpur, Lothal, Rupar and Rangpur. In recent years, many more extensions of this civilisation in Gujarat and Punjab have been discovered. Dholavira in Gujarat is the most prominent among them. The largest sites of the Harappan Civilisation however, are Mohenjo-daro, Harappa, Kalibangan and Lothal."
+    },
+    {
+      "title": "HOUSES",
+      "content_md": "[Image: Granaries]\n\nThe main characteristics of houses were the following:\n1. The residential buildings were built according to a set plan on a high mound in order to protect them from floods. Their foundations were deep.\n2. There were variations in the size of houses from single room tenements to bigger houses with courtyards, up to twelve rooms, private wells and toilets. Each house had covered drains connected with street drains.\n3. The entrances to the houses were from the narrow lanes which cut the streets at right angles.\n4. The kitchen was placed in a sheltered corner of the courtyard and the ground floor contained storerooms and well chambers.\n5. The houses were made of brick and wood. Each house had doors, windows and ventilators. Doors and windows opened on the side of the streets and not on the main roads."
+    },
+    {
+      "title": "MONUMENTAL ARCHITECTURE",
+      "content_md": "The contribution of the Harappans to architectural design is evident from the following public buildings.\n\n(a) The Great Bath: For details refer to the Sources in this Chapter.\n(b) Granaries: Granaries have been found at several sites—Mohenjo-daro, Harappa, Lothal and Kalibangan. However, at Harappa, there were two rows of six granaries each. To the south of the granaries at Harappa working floors consisting of rows of circular brick platforms were discovered. It is believed that these floors were meant for threshing grain because wheat and barley grains were found in the crevices of the floors. Two-roomed barracks, which possibly accommodated labourers have also been found at Harappa. The location of Harappa near the river Ravi suggests that food grains were brought to this place by boat. It was built on a raised platform to protect it from floods. The granary had ventilation to prevent grains from becoming mildewed."
+    },
+    {
+      "title": "HERITAGE",
+      "content_md": "The decline of the physical aspects of the Harappan civilisation did not lead to the total disappearance of all the traits of this civilisation. Many of its features were found in the later cultural development. The Harappan way of making baked pottery, bricks, beads, jewellery, textiles, etc. was adopted by the later civilisations. One of the most remarkable achievements of the Harappan people was the cultivation of cotton, which was adopted by the Egyptians after several centuries. In the religious sphere, the worship of Pashupati Shiva, the female deity as Mother Goddess, sacred trees, animals, serpents, religious symbols, etc., which were prevalent during the Harappan period, some of them have continued to this day."
     }
   ],
   "needs_review": [
+    "Origin, extent, urban planning, trade, art & craft, and its decline",
     "I. Multiple-Choice Questions",
     "II. Short Answer Questions",
     "III. Structured Questions",
@@ -585,15 +751,119 @@
   "manifest": {
     "syllabus_leaves": [
       {
-        "path": "The Harappan Civilisation",
+        "path": "SYLLABUS > The Harappan Civilisation",
         "path_titles": [
+          "SYLLABUS",
           "The Harappan Civilisation"
         ],
         "title": "The Harappan Civilisation",
         "sequence_number": 1,
-        "depth": 0,
-        "level_label": "Section",
+        "depth": 1,
+        "level_label": "Topic",
         "has_notes": true
+      },
+      {
+        "path": "SYLLABUS > Sources > Great Bath",
+        "path_titles": [
+          "SYLLABUS",
+          "Sources",
+          "Great Bath"
+        ],
+        "title": "Great Bath",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "SYLLABUS > Sources > Citadel",
+        "path_titles": [
+          "SYLLABUS",
+          "Sources",
+          "Citadel"
+        ],
+        "title": "Citadel",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "SYLLABUS > Sources > seals",
+        "path_titles": [
+          "SYLLABUS",
+          "Sources",
+          "seals"
+        ],
+        "title": "seals",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "SYLLABUS > Sources > bearded man",
+        "path_titles": [
+          "SYLLABUS",
+          "Sources",
+          "bearded man"
+        ],
+        "title": "bearded man",
+        "sequence_number": 4,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "SYLLABUS > Sources > dancing girl",
+        "path_titles": [
+          "SYLLABUS",
+          "Sources",
+          "dancing girl"
+        ],
+        "title": "dancing girl",
+        "sequence_number": 5,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "SYLLABUS > Sources > dockyard",
+        "path_titles": [
+          "SYLLABUS",
+          "Sources",
+          "dockyard"
+        ],
+        "title": "dockyard",
+        "sequence_number": 6,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "SYLLABUS > Sources > script",
+        "path_titles": [
+          "SYLLABUS",
+          "Sources",
+          "script"
+        ],
+        "title": "script",
+        "sequence_number": 7,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "SYLLABUS > Origin, extent, urban planning, trade, art & craft, and its decline",
+        "path_titles": [
+          "SYLLABUS",
+          "Origin, extent, urban planning, trade, art & craft, and its decline"
+        ],
+        "title": "Origin, extent, urban planning, trade, art & craft, and its decline",
+        "sequence_number": 3,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": false
       },
       {
         "path": "BRONZE AGE CIVILISATIONS",
@@ -618,84 +888,84 @@
         "has_notes": true
       },
       {
-        "path": "SOURCES > The Great Bath",
+        "path": "SOURCES > 1. The Great Bath",
         "path_titles": [
           "SOURCES",
-          "The Great Bath"
+          "1. The Great Bath"
         ],
-        "title": "The Great Bath",
+        "title": "1. The Great Bath",
         "sequence_number": 1,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "SOURCES > The Citadel",
+        "path": "SOURCES > 2. The Citadel",
         "path_titles": [
           "SOURCES",
-          "The Citadel"
+          "2. The Citadel"
         ],
-        "title": "The Citadel",
+        "title": "2. The Citadel",
         "sequence_number": 2,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "SOURCES > Seals",
+        "path": "SOURCES > 3. Seals",
         "path_titles": [
           "SOURCES",
-          "Seals"
+          "3. Seals"
         ],
-        "title": "Seals",
+        "title": "3. Seals",
         "sequence_number": 3,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "SOURCES > Bearded Man",
+        "path": "SOURCES > 4. Bearded Man",
         "path_titles": [
           "SOURCES",
-          "Bearded Man"
+          "4. Bearded Man"
         ],
-        "title": "Bearded Man",
+        "title": "4. Bearded Man",
         "sequence_number": 4,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "SOURCES > Dancing Girl",
+        "path": "SOURCES > 5. Dancing Girl",
         "path_titles": [
           "SOURCES",
-          "Dancing Girl"
+          "5. Dancing Girl"
         ],
-        "title": "Dancing Girl",
+        "title": "5. Dancing Girl",
         "sequence_number": 5,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "SOURCES > Dockyard",
+        "path": "SOURCES > 6. Dockyard",
         "path_titles": [
           "SOURCES",
-          "Dockyard"
+          "6. Dockyard"
         ],
-        "title": "Dockyard",
+        "title": "6. Dockyard",
         "sequence_number": 6,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "SOURCES > Script",
+        "path": "SOURCES > 7. Script",
         "path_titles": [
           "SOURCES",
-          "Script"
+          "7. Script"
         ],
-        "title": "Script",
+        "title": "7. Script",
         "sequence_number": 7,
         "depth": 1,
         "level_label": "Topic",
@@ -773,24 +1043,24 @@
         "has_notes": true
       },
       {
-        "path": "MONUMENTAL ARCHITECTURE > The Great Bath",
+        "path": "MONUMENTAL ARCHITECTURE > (a) The Great Bath",
         "path_titles": [
           "MONUMENTAL ARCHITECTURE",
-          "The Great Bath"
+          "(a) The Great Bath"
         ],
-        "title": "The Great Bath",
+        "title": "(a) The Great Bath",
         "sequence_number": 1,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "MONUMENTAL ARCHITECTURE > Granaries",
+        "path": "MONUMENTAL ARCHITECTURE > (b) Granaries",
         "path_titles": [
           "MONUMENTAL ARCHITECTURE",
-          "Granaries"
+          "(b) Granaries"
         ],
-        "title": "Granaries",
+        "title": "(b) Granaries",
         "sequence_number": 2,
         "depth": 1,
         "level_label": "Topic",
@@ -832,81 +1102,48 @@
         "has_notes": true
       },
       {
-        "path": "Dress",
-        "path_titles": [
-          "Dress"
-        ],
-        "title": "Dress",
-        "sequence_number": 11,
-        "depth": 0,
-        "level_label": "Section",
-        "has_notes": true
-      },
-      {
-        "path": "Ornaments",
-        "path_titles": [
-          "Ornaments"
-        ],
-        "title": "Ornaments",
-        "sequence_number": 12,
-        "depth": 0,
-        "level_label": "Section",
-        "has_notes": true
-      },
-      {
-        "path": "Toys and Amusements",
-        "path_titles": [
-          "Toys and Amusements"
-        ],
-        "title": "Toys and Amusements",
-        "sequence_number": 13,
-        "depth": 0,
-        "level_label": "Section",
-        "has_notes": true
-      },
-      {
-        "path": "DECLINE OF THE CIVILISATION > Floods and Earthquakes",
+        "path": "DECLINE OF THE CIVILISATION > (a) Floods and Earthquakes",
         "path_titles": [
           "DECLINE OF THE CIVILISATION",
-          "Floods and Earthquakes"
+          "(a) Floods and Earthquakes"
         ],
-        "title": "Floods and Earthquakes",
+        "title": "(a) Floods and Earthquakes",
         "sequence_number": 1,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "DECLINE OF THE CIVILISATION > Increased Aridity",
+        "path": "DECLINE OF THE CIVILISATION > (b) Increased Aridity",
         "path_titles": [
           "DECLINE OF THE CIVILISATION",
-          "Increased Aridity"
+          "(b) Increased Aridity"
         ],
-        "title": "Increased Aridity",
+        "title": "(b) Increased Aridity",
         "sequence_number": 2,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "DECLINE OF THE CIVILISATION > Deforestation",
+        "path": "DECLINE OF THE CIVILISATION > (c) Deforestation",
         "path_titles": [
           "DECLINE OF THE CIVILISATION",
-          "Deforestation"
+          "(c) Deforestation"
         ],
-        "title": "Deforestation",
+        "title": "(c) Deforestation",
         "sequence_number": 3,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "DECLINE OF THE CIVILISATION > Attack",
+        "path": "DECLINE OF THE CIVILISATION > (d) Attack",
         "path_titles": [
           "DECLINE OF THE CIVILISATION",
-          "Attack"
+          "(d) Attack"
         ],
-        "title": "Attack",
+        "title": "(d) Attack",
         "sequence_number": 4,
         "depth": 1,
         "level_label": "Topic",
@@ -918,7 +1155,7 @@
           "HERITAGE"
         ],
         "title": "HERITAGE",
-        "sequence_number": 15,
+        "sequence_number": 12,
         "depth": 0,
         "level_label": "Section",
         "has_notes": true
@@ -974,8 +1211,35 @@
     ],
     "stray_leaves": [
       {
+        "title": "BRONZE AGE CIVILISATIONS",
+        "insert_after_index": 0,
+        "micro_topics": [],
+        "has_notes": true
+      },
+      {
         "title": "EXTENT OF THE CIVILISATION",
-        "insert_after_index": 13,
+        "insert_after_index": 10,
+        "micro_topics": [],
+        "has_notes": true
+      },
+      {
+        "title": "HOUSES",
+        "insert_after_index": 10,
+        "micro_topics": [],
+        "has_notes": true
+      },
+      {
+        "title": "MONUMENTAL ARCHITECTURE",
+        "insert_after_index": 10,
+        "micro_topics": [
+          "(a) The Great Bath",
+          "(b) Granaries"
+        ],
+        "has_notes": true
+      },
+      {
+        "title": "HERITAGE",
+        "insert_after_index": 10,
         "micro_topics": [],
         "has_notes": true
       }

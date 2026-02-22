@@ -1,0 +1,618 @@
+{
+  "board": "ICSE",
+  "grade": 10,
+  "subject": "HistoryCivics",
+  "book_slug": "TotalHistoryCivics_MorningStar_DollyESequeira",
+  "book_meta": {
+    "book_name": "Total History & Civics",
+    "publication": "Morning Star",
+    "author": "Dolly E. Sequeira"
+  },
+  "chapter_sequence_number": 6,
+  "chapter_title": "Mahatma Gandhi and the National Movement",
+  "discipline": "history",
+  "reconciliation": {
+    "outline": [
+      "II. MASS PHASE OF THE NATIONAL MOVEMENT (1915-1947)",
+      "Mahatma Gandhi and the National Movement",
+      "EARLY LIFE",
+      "Champaran Satyagraha (1917)",
+      "Ahmedabad Satyagraha (1918)",
+      "Kheda Satyagraha (1918)",
+      "NON-COOPERATION MOVEMENT",
+      "Causes that led to the Non-Cooperation Movement",
+      "1. Rowlatt Act",
+      "GANDHIJI'S METHODS AND DIRECTIONS",
+      "2. Jallianwala Bagh Tragedy",
+      "3. Khilafat Movement",
+      "Objectives of the Non-Cooperation Movement",
+      "Programmes",
+      "Activities During Non-Cooperation Movement",
+      "Repression by the Government",
+      "Suspension of the Non-Cooperation Movement",
+      "Chauri Chaura",
+      "IMPACT OF THE NON-COOPERATION MOVEMENT",
+      "FACTORS LEADING TO CIVIL DISOBEDIENCE MOVEMENT",
+      "1. Simon Commission",
+      "Recommendations of the Simon Commission",
+      "Nehru Report* (1928)",
+      "2. Declaration of Poorna Swaraj",
+      "CIVIL DISOBEDIENCE MOVEMENT (1930-1934)",
+      "Dandi March",
+      "The Programme of the Movement",
+      "The Progress of the Movement",
+      "Repression by the Government",
+      "Round Table Conference",
+      "First Round Table Conference (November 12, 1930 to January 19, 1931)",
+      "Gandhi-Irwin Pact",
+      "Second Round Table Conference (September 7 to December 1, 1931)",
+      "Third Round Table Conference (November 17, 1932 to December 24, 1932)",
+      "Renewal of Civil Disobedience Movement",
+      "IMPACT OF THE CIVIL DISOBEDIENCE MOVEMENT",
+      "Dr. Bhimrao Ambedkar's Contribution",
+      "CHAPTER AT A GLANCE"
+    ],
+    "in_syllabus_only": [],
+    "in_pdf_only": [
+      {
+        "title": "EARLY LIFE",
+        "insert_after_index": 0,
+        "micro_topics": []
+      },
+      {
+        "title": "Champaran Satyagraha (1917)",
+        "insert_after_index": 0,
+        "micro_topics": []
+      },
+      {
+        "title": "Ahmedabad Satyagraha (1918)",
+        "insert_after_index": 0,
+        "micro_topics": []
+      },
+      {
+        "title": "Kheda Satyagraha (1918)",
+        "insert_after_index": 0,
+        "micro_topics": []
+      },
+      {
+        "title": "GANDHIJI'S METHODS AND DIRECTIONS",
+        "insert_after_index": 0,
+        "micro_topics": [
+          "Satyagraha",
+          "Doctrine of Non-Violence",
+          "Swadeshi",
+          "Mass Movement"
+        ]
+      },
+      {
+        "title": "Objectives of the Non-Cooperation Movement",
+        "insert_after_index": 2,
+        "micro_topics": []
+      },
+      {
+        "title": "Activities During Non-Cooperation Movement",
+        "insert_after_index": 3,
+        "micro_topics": []
+      },
+      {
+        "title": "Repression by the Government",
+        "insert_after_index": 3,
+        "micro_topics": []
+      },
+      {
+        "title": "Recommendations of the Simon Commission",
+        "insert_after_index": 6,
+        "micro_topics": []
+      },
+      {
+        "title": "Nehru Report* (1928)",
+        "insert_after_index": 6,
+        "micro_topics": []
+      },
+      {
+        "title": "The Progress of the Movement",
+        "insert_after_index": 7,
+        "micro_topics": []
+      },
+      {
+        "title": "Repression by the Government",
+        "insert_after_index": 7,
+        "micro_topics": []
+      },
+      {
+        "title": "Round Table Conference",
+        "insert_after_index": 8,
+        "micro_topics": []
+      },
+      {
+        "title": "First Round Table Conference (November 12, 1930 to January 19, 1931)",
+        "insert_after_index": 8,
+        "micro_topics": []
+      },
+      {
+        "title": "Third Round Table Conference (November 17, 1932 to December 24, 1932)",
+        "insert_after_index": 8,
+        "micro_topics": []
+      },
+      {
+        "title": "Dr. Bhimrao Ambedkar's Contribution",
+        "insert_after_index": 9,
+        "micro_topics": []
+      }
+    ],
+    "additional_sections": [
+      {
+        "title": "EARLY LIFE",
+        "content_md": "Mahatma Gandhi was born in 1869 at Porbanda in the Kathiawad district of Gujarat. His father was the Diwan of Rajkot State. In 1888, he went to England to study Law. On completing his studies, he came back to India and started practising Law at Rajkot. From 1893 to 1914 he practised Law in South Africa.\n\nIn South Africa, on a journey by train from Durban to Pretoria, he was forcibly thrown out of a first-class compartment, even though he had a valid ticket. Gandhiji was hurt by the racial injustice and discrimination to which Indians had to submit in South Africa. Indians could not travel with the Europeans and were not allowed to enter the hotels and clubs meant for the Europeans.\n\nGandhiji soon became the leader of the struggle for justice in South Africa. During 1893-1914 he was engaged in a heroic struggle against the racist authorities in South Africa. He formed the Natal Indian Congress and suffered imprisonment. He started his non-violent civil disobedience movement to protest against the discriminating treatment meted out to the Indians. The South African government had to listen to the voice of reason and in 1914 repealed most of the unjust acts against the Indians. Thus, it was during this struggle that Mahatma Gandhi evolved the technique of satyagraha (non-violent resistance) based on truth and non-violence.\n\nGandhiji returned to India in January 1915 and spent the next four years in studying the Indian situation. During the course of 1917 and early 1918 he was involved in three significant struggles-in Champaran (Bihar), in Ahmedabad and in Kheda (Gujarat)."
+      },
+      {
+        "title": "Champaran Satyagraha (1917)",
+        "content_md": "Gandhiji's first great experiment in Satyagraha was accomplished in 1917 in Champaran, Bihar. It established the method of passive and non-violent resistance. The indigo cultivators of Champaran were greatly exploited by European planters. They were bound by law to grow indigo on 3/20th (the tinkathia system) of their land and sell it to the British planters at prices fixed by them. They invited Gandhiji to take up their cause but the district authorities banned his entry to the district. He offered satyagraha as a result of which an inquiry was conducted into the conditions of the peasants. This helped in giving the indigo cultivators some relief."
+      },
+      {
+        "title": "Ahmedabad Satyagraha (1918)",
+        "content_md": "Gandhiji led the mill-workers of Ahmedabad in a strike against the mill-owners who had refused to pay them higher wages. When the workers seemed to weaken, he provided them support by undertaking a fast (hunger strike). Afraid of the consequences, the mill-owners agreed on the fourth day of Gandhiji's fast to give a 35 per cent increase in wages."
+      },
+      {
+        "title": "Kheda Satyagraha (1918)",
+        "content_md": "Crops failed in Kheda and the peasants were not in a position to pay land revenue. The government refused to forgo the land revenue. Gandhiji organised the peasants to offer Satyagraha. The peasants refused to pay the revenue and ultimately the government was forced to arrive at a settlement with the peasants. Sardar Vallabhbhai Patel became Gandhiji's follower during this struggle.\n\nThese first experiments in Satyagraha brought Gandhiji in close contact with the masses, both the peasants in the rural areas and the workers in the urban areas."
+      },
+      {
+        "title": "GANDHIJI'S METHODS AND DIRECTIONS",
+        "content_md": "The methods used by Mahatma Gandhi during the freedom struggle were the following:\n\n**Satyagraha**: The term Satyagraha is made up of two Sanskrit words—Satya (truth) and Agraha (insistence to hold fast).\n\nTo Gandhiji, Satyagraha was a moral force born of truth and non-violence. It meant to be fearless, truthful as well as peaceful, suffering willingly while refusing to submit to what is wrong. But, even while resisting evil, it would not involve hatred towards the evil-doer.\n\nGandhiji's Satyagraha Movement was directed against the British system of exploitation and not the British people individually or collectively.\n\nGandhiji made a distinction between Satyagraha and passive resistance. Passive resistance does not exclude the use of physical force for the purpose of gaining one's end, whereas Satyagraha excludes the use of violence.\n\n**Doctrine of Non-Violence**: Non-violence or Ahimsa means non-killing or avoiding injury, but for Gandhiji, it meant avoiding injury to anything by thought, word or deed.\n\nAccording to Gandhiji, non-violence is not a negative but a positive and active force. It is the virtue of the strong which requires benevolence and sympathy. Mahatma Gandhi set an example before the whole world of achieving freedom from the mighty British power through a non-violent struggle.\n\n**Swadeshi**: Swadeshi means producing necessary items in one's own country and using them for one's use without being dependent on imported goods. Gandhiji believed that the use of Swadeshi goods would make us self-sufficient and eliminate our dependence on imported goods. Gandhiji emphasised manual labour and the use of the Charkha and Khadi.\n\n**Mass Movement**: The South African experiment gave Gandhiji the experience of leading Indians belonging to different religions, regions and social classes. South Africa built his faith in the ability of the Indian masses to participate in the freedom movement."
+      },
+      {
+        "title": "Objectives of the Non-Cooperation Movement",
+        "content_md": "At a special session of the Congress held at Kolkata in September 1920 a special resolution was adopted accepting Non-Cooperation Movement as the only option left open for the people of India. The regular session of the Congress at Nagpur in December, 1920 ratified this resolution.\nThe Non-Cooperation Movement sought to achieve the following objectives:\n(i) To attain self government within the British Empire if possible and outside if necessary.\n(ii) Annulment of the Rowlatt Act and remedying the 'Punjab wrong', i.e., the British Government should express its regret on the happenings in Punjab, particularly in Amritsar.\n(iii) Remedying the 'Khilafat wrong', i.e., the British should adopt a lenient attitude towards Turkey, and restore the old status of the Sultan of Turkey."
+      },
+      {
+        "title": "Activities During Non-Cooperation Movement",
+        "content_md": "[Image: Dr. Rajendra Prasad]\n[Image: Rabindranath Tagore]\nThe nation enthusiastically responded to the call of Gandhiji. The people were ready to practise non-cooperation with the government in every field.\n\n* Lawyers such as Deshbandhu Chittaranjan Das, Motilal Nehru, C. Rajagopalachari, Dr. Rajendra Prasad and many others gave up their legal practice.\n* Students left schools and colleges.\n* The Congress boycotted the elections to the legislatures by not putting up candidates for the first elections to the Councils.\n* Charkhas were manufactured for the people to spin cloth. Gandhiji himself started spinning.\n* The Jamia Millia Islamia was established as a national university. The Bihar Vidyapith, Kashi Vidyapith and the Gujarat Vidyapith were the other national universities that were established with teachers like Acharya Narendra Dev, Dr. Zakir Hussain and Lala Lajpat Rai.\n* Rabindranath Tagore and many other distinguished citizens of India renounced their titles and awards. Gandhiji returned the medals that were awarded for his work in South Africa.\n* People contributed generously to finance the movement.\n* Shops selling foreign goods and liquor were picketed. Foreign cloth was burnt in market places.\n* In Kheda, Gujarat, many peasants organised non-violent campaigns against the high land revenue.\n* In many forest villages, peasants proclaimed 'Swaraj' and believed that 'Gandhi Raj' was about to be established.\n* In Malabar, the Moplas rebelled against the authorities. This rebellion assumed a communal character when they killed many Hindus. This unfortunate incident gave a severe blow to the Hindu-Muslim unity.\n* The Prince of Wales came to India in 1921. The people boycotted his visit at Mumbai, observed a hartal and arranged a meeting on the beach. The mob turned unruly and riots followed. The police opened fire. This turmoil of three days killed 59 people."
+      },
+      {
+        "title": "Repression by the Government",
+        "content_md": "The Government took severe measures to suppress the movement. Under Gandhiji's inspiration, prison lost its terror and became a place of pilgrimage. All important leaders except Gandhiji were arrested and sent to jail.\n\nProcessions and public meetings were banned. The Khilafat and the Congress volunteer organisations were declared illegal. Unfortunately the whole movement was abruptly called off on February 12, 1922, at Gandhiji's insistence, following the news of the Chauri Chaura incident."
+      },
+      {
+        "title": "Recommendations of the Simon Commission",
+        "content_md": "The following were the recommendations of the commission:\n1. Dyarchy should be abolished and there should be complete autonomy in the Provinces including the department of law and order, but the Governor should be given overriding powers in certain matters like the internal security.\n2. Provincial Legislative Councils should be enlarged.\n3. Federal government at the Centre, should embrace not only British India but also the Princely States.\n4. The Governor-General should select and appoint members of his Cabinet.\n5. British troops and British officers should stay on in Indian regiments for many more years.\n6. High Courts should be under the administrative control of the Government of India.\n7. The Communal representation was to continue."
+      },
+      {
+        "title": "Nehru Report* (1928)",
+        "content_md": "*For Information only*\n\nLord Birkenhead, the Secretary of State for India, justified the exclusion of Indians in the Simon Commission by stating that the Indians were not united and could not arrive at an 'agreed scheme of reforms'. To refute this charge, an All Parties Conference was convened in 1928. Liberals and Assertive Nationalists, leaders of the Hindu Mahasabha, the Muslim League and the Depressed Classes came together. Motilal Nehru was made chairman of the committee with Sir Tej Bahadur Sapru and N.C. Kelkar as his principal associates. The report submitted by the All Parties Conference is known as the Nehru Report. The Nehru Report proposed:\n* Dominion Status for India;\n* That the Parliament of India should consist of (a) the Senate elected for 7 years, containing 200 members elected by the Provincial Councils and (b) the House of Representation with 500 members elected for five years through adult franchise;\n* Joint electorates with reservation of seats for minorities (except in the Punjab and Bengal) on population basis with the right to contest additional seats;\n* Creation of 'new provinces' on linguistic basis;\n* 'Nineteen Fundamental Rights' including the right to vote, freedom from arbitrary arrest, searches and seizures and freedom of conscience."
+      },
+      {
+        "title": "The Progress of the Movement",
+        "content_md": "The movement spread rapidly. Violation of Salt Laws all over the country was soon followed by defiance of forest laws in Maharashtra, Karnataka and the Central Provinces and refusal to pay the rural chaukidari tax in Eastern India.\n\nEverywhere in the country people joined hartals, demonstrations and the campaign to boycott foreign goods and refused to pay taxes. Lakhs of Indians offered Satyagraha. The boycott of British goods and the picketing of liquor shops were a part of the daily programme.\n\nThe movement reached the extreme north-western corner of India and stirred the brave Pathans. Under the leadership of Khan Abdul Ghaffar Khan, popularly known as 'The Frontier Gandhi', the Pathans organised the society of Khudai Khidmatgars (or Servants of God), known popularly as Red Shirts. They were pledged to non-violence and the freedom struggle.\n\nThe movement also became popular in the easternmost part of the country where the Manipuris joined the movement with great enthusiasm. In Nagaland, Rani Gaidilieu, at the age of 13 responded to Gandhiji's call and raised the banner of revolt against the British rule.\n\nCivil Disobedience Movement resulted in mass strikes and setting up of parallel governments in several places."
+      },
+      {
+        "title": "Repression by the Government",
+        "content_md": "[Image: Khan Abdul Ghaffar Khan with Gandhiji]\nThe Government resorted to firing, lathi charges and large scale imprisonment. Over 90,000 Satyagrahis including Congress leaders and Gandhiji were imprisoned. The Congress was declared illegal and severe restrictions were imposed on the nationalist Press.\n\nThere were demonstrations at Peshawar to protest against the arrest of Ghaffar Khan. A platoon of Garhwal troops refused to open fire on the demonstrators. The Commander of the platoon, Thakur Chandra Singh and others were severely punished.\n\nProtest meetings were held everywhere. The textile and railway workers of Mumbai went on strike. There were instances of firing at Delhi and Kolkata."
+      },
+      {
+        "title": "Round Table Conference",
+        "content_md": "The Indian Round Table Conference held three sessions which are also referred to as the First, Second and Third Round Table Conferences."
+      },
+      {
+        "title": "First Round Table Conference (November 12, 1930 to January 19, 1931)",
+        "content_md": "The first Round Table Conference was held in London. The Congress, which was unhappy with the report of Simon Commission, boycotted the conference but other political parties and interest groups were well represented.\n\nThe British realised the futility of holding a conference on the question of constitutional reforms for India without the representatives of the Congress."
+      },
+      {
+        "title": "Third Round Table Conference (November 17, 1932 to December 24, 1932)",
+        "content_md": "It was attended by 46 delegates only. The Indian National Congress refused to attend the conference. Dr. Bhimrao Ambedkar, who attended the conference demanded separate electorate for the Depressed Classes. Consequently, the then Prime Minister of Britain, Ramsay Macdonald announced an award known as the Communal Award. This award provided separate representation to the Muslims, Buddhists, Sikhs, Indian Christians, Anglo-Indians, Europeans and the Depressed Classes.\n\nMahatma Gandhi strongly opposed this award on the grounds that it would disintegrate Indian society and started a fast in protest against it. On 24 September, 1932, the agreement known as Poona Pact was signed between Dr. Bhimrao Ambedkar and the Congress. The agreement provided reservation of seats for the depressed classes in the Provincial legislatures, within the general electorate and not by creating a separate electorate. Due to the pact, the depressed classes received 148 seats in the legislature, instead of the 71 as allocated in the Communal Award earlier proposed by the British Prime Minister, Ramsay MacDonald."
+      },
+      {
+        "title": "Dr. Bhimrao Ambedkar's Contribution",
+        "content_md": "Dr Bhimrao Ramji Ambedkar, popularly known as Babasaheb was one of the architects of the Indian Constitution. He was a well-known economist, politician, social reformer and an eminent jurist. Babasaheb's efforts to eradicate the social evils like untouchability and caste restrictions were remarkable. Throughout his life, he fought for the rights of the dalits and other socially backward classes. He was appointed as India's first Law Minister in the Cabinet of Jawaharlal Nehru. He was posthumously awarded the Bharat Ratna.\n\nBhimrao Ambedkar was born to Ramji Maloji Sakpal and Bhimabai Sakpal on April 14, 1891 in Mhow in Madhya Pradesh.\n\nFrom his childhood days, Babasaheb had to face caste discrimination. Although he was able to attend school, he and other children due to their caste were segregated and given little attention by the teachers. In 1908 he entered Elphinstone College, which was affiliated to the Mumbai University (University of Bombay), becoming the first from his community to do so.\n\nBy 1912, he obtained his B.A. degree in Economics and Political Science from Mumbai University. In 1913, he moved to the United States on a scholarship awarded by the Gaekwad ruler of Baroda. He passed his M.A. Exam in June 1915, majoring in Economics. He received his PhD in Economics in 1927. At the London School of Economics, he took a Master's degree in 1921. In 1923, he finished his law studies and was admitted to the British Bar as a Barrister.\n\nWhile practising law in the Bombay High Court, he tried to uplift the dalits in order to educate them. His first organised attempt to achieve this was the Bahishkrit Hitakarini Sabha to promote education and socio-economic improvement, as well as the welfare of depressed classes. For the protection of Dalit rights he started many periodicals like Mook Nayak, Bahishkrit Bharat, and Equality Janta.\n\nBabasaheb was appointed as Independent India's first Law Minister, and also the Chairman of the Constitution Drafting Committee, set up by the Assembly to write India's new Constitution. Babasaheb Ambedkar emphasised the need to establish harmonious relations between all the classes of the society. In 1950, Babasaheb converted to Buddhism. On October 14, 1956 Babasaheb organised a public ceremony to convert around five lakh of his supporters to Buddhism.\n\nBabasaheb passed away at his home in Delhi on December 6, 1956. He made immense contribution in shaping modern India. He led millions of oppressed to a life of self-respect, dignity, and responsibility."
+      }
+    ]
+  },
+  "nodes": [
+    {
+      "title": "Mass Phase of the National Movement (1915-1947)",
+      "sequence_number": 1,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "Mahatma Gandhi-Non-Cooperation Movement",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Causes (Khilafat Movement, Rowlatt Act, Jallianwala Bagh Tragedy)",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "### Causes that led to the Non-Cooperation Movement\n\n1.  **Rowlatt Act**: On receiving a report from the **Sedition Committee** headed by **Justice Rowlatt**, two Bills called the **Rowlatt Bills**, were introduced in the Central Legislature in **February, 1919**. The purpose of the Bills was to curb the growing upsurge in the country. In spite of opposition from the Indians, the **Rowlatt Act** was passed in **March, 1919**. This Act authorised the Government to imprison any person without trial and convict him in a court.\n    \n    The Rowlatt Act implied:\n    *   (i) Arrest of a person without warrant.\n    *   (ii) **In-camera trial** (trial in seclusion).\n    *   (iii) Restrictions on movements of individuals.\n    *   (iv) Suspension of the **Right of Habeas Corpus**.\n\n    The Act came like a sudden blow to the Indians who were expecting self-governance. Gandhiji appealed to the Viceroy to withhold his consent to such measures. However his appeal was ignored. He started '**Satyagraha**' as a challenge to the government.\n\n    The **Rowlatt Satyagraha** emerged as the first all India struggle against the British government. However, it was largely confined to cities only. In April 1919, there occurred a number of demonstrations and strikes in the country. The British government took brutal measures to suppress this anti-British struggle. In fact, the **Jallianwala Bagh massacre** on the orders of **General Dyer** in Amritsar on **April 13, 1919** was a part of this repression.\n\n    However, an important feature of the Rowlatt Satyagraha was **Hindu-Muslim unity**. This was the call given by Mahatma Gandhi, who always saw a unified India belonging to the people of all religions — Hindus, Muslims, Sikhs, Christians, Buddhists, Jains and Parsis. He wanted that Hindus and Muslims should support each other in any just cause.\n\n[Image: Gandhiji with his Charkha]"
+                },
+                {
+                  "content_md": "2.  **Jallianwala Bagh Tragedy**: A large but peaceful crowd gathered at the **Jallianwala Bagh** in Amritsar on **April 13, 1919**, to protest against the Rowlatt Act and the arrest of leaders like **Dr. Saifuddin Kitchlu** and **Dr. Satya Pal**. Jallianwala Bagh had only one exit, its other three sides were enclosed by buildings. **General Reginald Dyer**, the military Commander of Amritsar surrounded the Bagh (garden) with a contingent of 50 troops. Without any warnings, after closing the exit with his troops, he ordered them to shoot at the crowd. The troops kept on firing till their ammunition was exhausted. About **one thousand innocent demonstrators were killed** and many more wounded. The conscience of the nation was shaken at the massacre of innocent people. On learning about this gruesome massacre, **Rabindranath Tagore** expressed the pain and anger of the country by renouncing his **Knighthood**, i.e., giving up the honour granted by the British Crown for exceptional personal achievement or public service.\n\n    After the massacre, the British government made a half-hearted attempt at constitutional reform. But it also made it clear that it had no intention of parting with political power or sharing it with Indians. The British government also refused to annul the Rowlatt Act and make amends for the atrocities in Punjab.\n\n[Image: Jallianwala Bagh Memorial]"
+                },
+                {
+                  "content_md": "3.  **Khilafat Movement**: In the **First World War**, Turkey was defeated and the **Ottoman Empire** was divided. The **Sultan of Turkey**, who was the **Caliph** was deprived of all authority. The Caliph was looked upon by large sections of Muslims as their religious head. They felt that any weakening of the Caliph's position would adversely affect the position of the Muslims. In the First World War, the British fought against Turkey.\n\n    The Muslim population in India started a powerful agitation known as the **Khilafat Movement**, under the leadership of the **Ali Brothers**—**Mohammed Ali** and **Shaukat Ali**, Maulana Azad, Hakim Ajmal Khan and Hasrat Mohani.\n\n    The Khilafatists formed a **three-point programme**:\n    *   (a) the Ottoman Caliph should retain his empire;\n    *   (b) the Caliph must be left with sufficient territory to enable him to defend the Islamic faith; and\n    *   (c) the Arab lands (Arabia, Syria, Iraq, Palestine) must remain under the Muslim rule.\n    \n    '**Khilafat Day**' was observed on **October 17, 1919** on an all-India scale.\n\n    Gandhiji saw in the Khilafat Movement an opportunity for uniting Hindus and Muslims. He said that the Congress plea for Hindu-Muslim unity \"would be an empty phrase if the Hindus hold aloof from the Muslims when their vital interests are at stake\". **Mahatma Gandhi** was elected as **President of the All-India Khilafat Conference** in **November 1919**. He advised the Khilafat Committee to adopt a policy of **Non-Cooperation** with the Government.\n\n    By **August 31, 1920**, the **Khilafat Non-Cooperation Movement** started. People resigned from government services; shops selling foreign goods were picketed; students boycotted schools and colleges; and '**hartals**' and demonstrations were held. By the end of 1920, the Khilafat Movement and the Congress Non-Cooperation Movement merged into one nationwide movement.\n\n[Image: Mohammed Ali | Shaukat Ali]"
+                }
+              ]
+            },
+            {
+              "title": "Programme and suspension",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "### Programmes\nThe movement included the following programmes:\n\n**Boycott programmes**\n*   Boycott of government schools, colleges and courts.\n*   Boycott of foreign goods.\n*   Boycott of elections to be held for the Councils as suggested by the reforms of 1919.\n*   Resignation from nominated seats in local bodies.\n*   Surrender of titles and honorary offices.\n*   Refusal to attend government functions.\n\n**Swadeshi programmes**\n*   Popularisation of **Swadeshi** and **Khadi** by reviving hand-spinning and hand-weaving.\n*   Establishment of national schools and colleges and private arbitration courts known as **panchayats** all over India.\n*   Development of unity between Hindus and Muslims.\n*   Removal of untouchability and other measures for **Harijan** welfare.\n*   Emancipation and upliftment of women."
+                },
+                {
+                  "content_md": "### Activities During Non-Cooperation Movement\nThe nation enthusiastically responded to the call of Gandhiji. The people were ready to practise non-cooperation with the government in every field.\n\n*   Lawyers such as **Deshbandhu Chittaranjan Das**, **Motilal Nehru**, **C. Rajagopalachari**, **Dr. Rajendra Prasad** and many others gave up their legal practice.\n*   Students left schools and colleges.\n*   The Congress boycotted the elections to the legislatures by not putting up candidates for the first elections to the Councils.\n*   **Charkhas** were manufactured for the people to spin cloth. Gandhiji himself started spinning.\n*   The **Jamia Millia Islamia** was established as a national university. The **Bihar Vidyapith**, **Kashi Vidyapith** and the **Gujarat Vidyapith** were the other national universities that were established with teachers like Acharya Narendra Dev, Dr. Zakir Hussain and Lala Lajpat Rai.\n*   **Rabindranath Tagore** and many other distinguished citizens of India renounced their titles and awards. Gandhiji returned the medals that were awarded for his work in South Africa.\n*   People contributed generously to finance the movement.\n*   Shops selling foreign goods and liquor were picketed. Foreign cloth was burnt in market places.\n*   In **Kheda**, Gujarat, many peasants organised non-violent campaigns against the high land revenue.\n*   In many forest villages, peasants proclaimed **‘Swaraj’** and believed that **‘Gandhi Raj’** was about to be established.\n*   In **Malabar**, the **Moplas** rebelled against the authorities. This rebellion assumed a communal character when they killed many Hindus. This unfortunate incident gave a severe blow to the Hindu-Muslim unity.\n*   The **Prince of Wales** came to India in **1921**. The people boycotted his visit at Mumbai, observed a hartal and arranged a meeting on the beach. The mob turned unruly and riots followed. The police opened fire. This turmoil of three days killed 59 people."
+                },
+                {
+                  "content_md": "### Repression by the Government\nThe Government took severe measures to suppress the movement. Under Gandhiji's inspiration, prison lost its terror and became a place of pilgrimage. All important leaders except Gandhiji were arrested and sent to jail.\n\nProcessions and public meetings were banned. The Khilafat and the Congress volunteer organisations were declared illegal. Unfortunately the whole movement was abruptly called off on **February 12, 1922**, at Gandhiji's insistence, following the news of the **Chauri Chaura** incident."
+                },
+                {
+                  "content_md": "### Suspension of the Non-Cooperation Movement\n**Chauri Chaura**: The tragedy at **Chauri Chaura**, a village in Gorakhpur district in Uttar Pradesh, occurred on **February 5, 1922**. A procession of about 3,000 peasants marched to the police station to protest against the police officer who had beaten some volunteers picketing a liquor shop. The police fired at the peasants. This infuriated the demonstrators and they set the nearby police station on fire, killing 22 policemen who were inside the police station. There were a few violent incidents in other parts of the country. Gandhiji, a believer in **‘Ahimsa’** was greatly shocked at these incidents and he withdrew the Non-Cooperation Movement on **February 12, 1922**.\n\nThis action of Gandhiji of suspending the agitation was severely criticised by leaders like **Motilal Nehru** and **Lala Lajpat Rai**. **Subhas Chandra Bose** called it a **national calamity**. Gandhiji assured **Jawaharlal Nehru**, \"If the thing had not been suspended we would have been leading not a non-violent struggle. The cause will prosper by this retreat.\" Nevertheless, everybody respected his decision in view of the great personal influence of Gandhiji.\n\nGandhiji suspended the law-breaking part of the movement and asked Congressmen to pay attention to the **constructive programmes**, i.e., removal of untouchability, Hindu-Muslim unity and the popularisation of Swadeshi and khadi. Gandhiji was arrested for propagating sedition on **March 10, 1922**. He was sentenced to six years' imprisonment. Gandhiji was released after two years because of his ill health."
+                }
+              ]
+            },
+            {
+              "title": "Chauri Chaura incident and impact of the Movement",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "### Suspension of the Non-Cooperation Movement\n\n[Image: Memorial built at Chauri Chaura, Gorakhpur]\n\n**Chauri Chaura**: The tragedy at **Chauri Chaura**, a village in Gorakhpur district in Uttar Pradesh, occurred on **February 5, 1922**. A procession of about 3,000 peasants marched to the police station to protest against the police officer who had beaten some volunteers picketing a liquor shop. The police fired at the peasants. This infuriated the demonstrators and they set the nearby police station on fire, killing **22 policemen** who were inside the police station. There were a few violent incidents in other parts of the country. Gandhiji, a believer in **'Ahimsa'** was greatly shocked at these incidents and he withdrew the Non-Cooperation Movement on **February 12, 1922**.\n\nThis action of Gandhiji of suspending the agitation was severely criticised by leaders like **Motilal Nehru** and **Lala Lajpat Rai**. **Subhas Chandra Bose** called it a **national calamity**. Gandhiji assured Jawaharlal Nehru, \"If the thing had not been suspended we would have been leading not a non-violent struggle. The cause will prosper by this retreat.\" Nevertheless, everybody respected his decision in view of the great personal influence of Gandhiji.\n\nGandhiji suspended the law-breaking part of the movement and asked Congressmen to pay attention to the **constructive programmes**, i.e., removal of untouchability, Hindu-Muslim unity and the popularisation of Swadeshi and khadi. Gandhiji was arrested for propagating sedition on **March 10, 1922**. He was sentenced to six years' imprisonment. Gandhiji was released after two years because of his ill health."
+                },
+                {
+                  "content_md": "### IMPACT OF THE NON-COOPERATION MOVEMENT\n\nThe movement failed to achieve any of its three main demands, namely: (i) obtaining Swaraj; (ii) obtaining an apology for the Jallianwala Bagh massacre and (iii) solving the Khilafat problem. Gandhiji's promise to achieve Swaraj within one year of launching the movement was not fulfilled. But its ultimate gain outweighed the immediate losses.\n\nIt was a great step forward in the course of the Indian national movement in the following ways:\n\n1.  **The National Movement Became a Mass Movement**: The Indian National Movement, for the first time in history, acquired a real mass base with the participation of different sections of Indian society such as peasants, workers, students, teachers and women. However, the big industrialists, capitalists and zamindars still remained hostile. Jawaharlal Nehru described Non-Cooperation as 'a peaceful rebellion, a most civilized form of warfare, and yet dangerous to the stability of the State (British) rule.'\n2.  **Instilled Confidence Among the People**: It generated a desire for freedom and inspired people to challenge the colonial rule. Renowned historian Bipin Chandra has rightly said, \"Out of the experience of this attempt to defy openly the foreign rulers and the Government they had set up, was born a new sense of self-confidence and self-esteem.”\n3.  **The Congress Became a Revolutionary Movement**: It transformed the Indian National Congress from a deliberative assembly into an organisation for action. It became the organiser and leader of the masses in their national struggle. Thus, the Congress became a force to reckon with.\n4.  **Fostered Hindu-Muslim Unity**: It fostered Hindu-Muslim unity which could be seen in the merger of the Khilafat issue with this Movement. It provided an opportunity to the Congress to bring the urban Muslims into the National Movement by convincing them that the nation was equally concerned with the problems affecting them.\n5.  **Promoted Social Reforms**: As a consequence of the Non-Cooperation Movement several steps were taken in the direction of prohibition and removal of untouchability. Many national schools and colleges were set up in different parts of the country. The boycott of the foreign goods led to the promotion of Indian handicrafts and industries. **'Khadi'** became the symbol of the National Movement.\n6.  **Spread Nationalism to Every Part of the Country**: The Movement gave a new boost to nationalism in India. At its annual session at **Nagpur in December 1920**, changes were made in the Constitution of the Congress. Provincial Congress Committees were reorganised on the basis of linguistic areas. The Congress was now to be led by a **Working Committee** of 15 members, including the President and the secretaries. This would enable the Congress to function as a continuous political organisation and would provide it with the machinery for implementing resolutions. The Congress organisation was able to reach down to villages. Its membership fee was reduced to four annas per year to enable the rural and urban poor to become its members.\n7.  **Popularised the Cult of Swaraj**: The goal of the Non-Cooperation Movement was to attain **Swaraj** within the British empire, if possible, and outside, if necessary. The Congress realised the nature and value of the popular support and though the movement failed immediately to attain Swaraj, it definitely came nearer to it."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "The Civil Disobedience Movement",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Causes (reaction to the Simon Commission (clauses will not be tested) Declaration of Poorna Swaraj at the Lahore Session of 1929)",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Mahatma Gandhi** gave the call for a **Civil Disobedience Movement** in **1930**. This movement was to be different from the **Non-Cooperation movement** in the sense that the Non-Cooperation movement (1921-22) sought to bring the working of the government to a standstill by not cooperating with the administration, whereas the Civil Disobedience Movement was an attempt at paralysing the administration by breaking some specific rules and regulations. The circumstances that led to the Civil Disobedience Movement were the following:"
+                }
+              ]
+            },
+            {
+              "title": "Dandi March, programme and impact of the Movement",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "### Dandi March\n\nOn **12th March**, Mahatma Gandhi began the historic march from **Sabarmati Ashram** to **Dandi**, a village on the Gujarat sea coast. A number of people followed him. On the morning of **6th April**, Gandhiji violated the **Salt Law** at Dandi by picking up some salt left by the sea waves. According to the Salt Law, the government had the monopoly to manufacture and sell salt. He had selected to attack the Salt Laws because the **salt-tax** affected all sections of society, especially the poor. Gandhiji's breaking of the Salt Laws marked the beginning of the **Civil Disobedience Movement**.\n\n[Image: Gandhiji leading the Dandi March]"
+                },
+                {
+                  "content_md": "### The Programme of the Movement\n\n**Civil Disobedience Movement** involved:\n1. Defiance of **Salt Laws**,\n2. Boycott of liquor,\n3. Boycott of foreign cloth and British goods of all kinds, and\n4. Non-payment of taxes and revenues.\n\nCivil Disobedience Movement was different from the Non-Cooperation Movement. The former involved **non-payment of taxes** and land-revenue as well as **violation of laws** of different kinds in addition to Non-Cooperation activities."
+                },
+                {
+                  "content_md": "### Impact of the Civil Disobedience Movement\n\nThe Civil Disobedience did not succeed immediately in winning freedom. But it played a significant role by deepening the social roots of the freedom struggle. The importance of the Movement can be summed up as follows:\n\n1. The Movement caused a tide of **patriotic fervour** in the country that would not leave the Government in peace. The Government withdrew the ban on the Congress in June 1934. The suspension of the Movement did not mean that people had abandoned their struggle for freedom.\n2. The Civil Disobedience Movement **widened the base of the freedom struggle**. A large number of social groups like merchants and shopkeepers, peasants, tribals and workers in different parts of the country were mobilised for the Indian national movement.\n3. It made people understand the significance of the principles of **non-violence**. People could resist violence with tolerance and courage.\n4. The movement also popularised new methods of propaganda. **Prabhat Pheris**, in which hundreds of men and women went around singing patriotic songs in the early morning became popular in towns and villages. Handwritten **Patrikas** or news-sheets were issued in large numbers. Even children were organised into **Vanara Sena** and girls had their own separate **Manjari Sena** or the cat army.\n5. The Movement under the leadership of Birla and the **'Harijan Sevak Sangh'** changed the social conditions. The depressed classes were given entry into temples and access to wells, which was earlier denied to them.\n6. It brought **women out of their homes** to participate in politics and to make them equal partners in the freedom struggle.\n7. The Government was convinced that basic Constitutional reforms were necessary. The **Government of India Act, 1935**, introduced the principle of a **Federation** and the principle of **Provincial Autonomy**; i.e., responsible Government in the Provinces.\n8. The movement revived the will to fight the elections. In 1937 the Congress achieved positive results in the elections to the Central Legislative Assembly and Provincial Legislative Assemblies."
+                }
+              ]
+            },
+            {
+              "title": "Gandhi-Irwin Pact and the Second Round Table Conference",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Since the Satyagraha could not be suppressed, the Government, through Tej Bahadur Sapru and Jayakar, started negotiations with Gandhiji in jail. This resulted in the signing of a pact by Gandhiji and Lord Irwin, the Viceroy, in March 1931. This is known as the **Gandhi-Irwin Pact**.\n\nThe government agreed to:\n(i) Withdraw all ordinances and end prosecutions.\n(ii) Release all political prisoners, except those guilty of violence.\n(iii) Permit peaceful picketing of liquor and foreign cloth shops.\n(iv) Restore the confiscated properties of the satyagrahis.\n(v) Permit the free collection or manufacture of salt by persons near the sea coast.\n\nThe Congress, in its turn, consented to the following:\n(i) To suspend the **Civil Disobedience Movement**.\n(ii) To participate in the second session of the **Round Table Conference**.\n(iii) Not to press for investigation into police excesses."
+                },
+                {
+                  "content_md": "[Image: Gandhiji at the Second Round Table Conference]\n\n**Second Round Table Conference (September 7 to December 1, 1931)**: It was attended by Gandhiji as a sole representative of the Congress, according to the terms of the **Gandhi-Irwin Pact** of 1931. The conference was soon deadlocked on the minorities issue, with **separate electorates** being demanded now not only by Muslims but also by the Depressed Classes, Indian Christians, Anglo-Indians and Europeans. The question of Independence or setting up of a responsible Government receded into the background. The British government refused to concede the immediate grant of **dominion status**. Gandhiji returned to India disappointed."
+                }
+              ]
+            },
+            {
+              "title": "Reason for renewal of the Civil Disobedience Movement",
+              "sequence_number": 4,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "After the failure of the talks at the **Second Session of the Round Table Conference**, Gandhiji came back to India. Upon returning, Gandhiji found a new and severe wave of repression from the British government, including the imposition of strict laws to prevent public gatherings, demonstrations and boycotts, which directly contradicted the goals of the independence movement. The **Great Depression of the 1930s** had hit the farmers in India. Besides, the **Congress Party was declared illegal** and many prominent leaders like **Jawaharlal Nehru** and **Abdul Ghaffar Khan** were imprisoned. Gandhiji sought an interview with **Viceroy Willingdon**. The interview was refused."
+                },
+                {
+                  "content_md": "The Congress passed a resolution for the **renewal of the Civil Disobedience Movement**. On **January 4, 1932**, Gandhiji was arrested.\n\nThe government resorted to repression, issued **Ordinances** and assumed special powers. The Congress was declared illegal. Congress leaders were arrested and their properties were seized. Communalism was fanned. Gradually the Civil Disobedience Movement lost its force. Congress called it off in **1934**. Gandhiji withdrew himself from active politics for a year."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        }
+      ],
+      "content_blocks": []
+    }
+  ],
+  "additional_sections": [
+    {
+      "title": "EARLY LIFE",
+      "content_md": "Mahatma Gandhi was born in 1869 at Porbanda in the Kathiawad district of Gujarat. His father was the Diwan of Rajkot State. In 1888, he went to England to study Law. On completing his studies, he came back to India and started practising Law at Rajkot. From 1893 to 1914 he practised Law in South Africa.\n\nIn South Africa, on a journey by train from Durban to Pretoria, he was forcibly thrown out of a first-class compartment, even though he had a valid ticket. Gandhiji was hurt by the racial injustice and discrimination to which Indians had to submit in South Africa. Indians could not travel with the Europeans and were not allowed to enter the hotels and clubs meant for the Europeans.\n\nGandhiji soon became the leader of the struggle for justice in South Africa. During 1893-1914 he was engaged in a heroic struggle against the racist authorities in South Africa. He formed the Natal Indian Congress and suffered imprisonment. He started his non-violent civil disobedience movement to protest against the discriminating treatment meted out to the Indians. The South African government had to listen to the voice of reason and in 1914 repealed most of the unjust acts against the Indians. Thus, it was during this struggle that Mahatma Gandhi evolved the technique of satyagraha (non-violent resistance) based on truth and non-violence.\n\nGandhiji returned to India in January 1915 and spent the next four years in studying the Indian situation. During the course of 1917 and early 1918 he was involved in three significant struggles-in Champaran (Bihar), in Ahmedabad and in Kheda (Gujarat)."
+    },
+    {
+      "title": "Champaran Satyagraha (1917)",
+      "content_md": "Gandhiji's first great experiment in Satyagraha was accomplished in 1917 in Champaran, Bihar. It established the method of passive and non-violent resistance. The indigo cultivators of Champaran were greatly exploited by European planters. They were bound by law to grow indigo on 3/20th (the tinkathia system) of their land and sell it to the British planters at prices fixed by them. They invited Gandhiji to take up their cause but the district authorities banned his entry to the district. He offered satyagraha as a result of which an inquiry was conducted into the conditions of the peasants. This helped in giving the indigo cultivators some relief."
+    },
+    {
+      "title": "Ahmedabad Satyagraha (1918)",
+      "content_md": "Gandhiji led the mill-workers of Ahmedabad in a strike against the mill-owners who had refused to pay them higher wages. When the workers seemed to weaken, he provided them support by undertaking a fast (hunger strike). Afraid of the consequences, the mill-owners agreed on the fourth day of Gandhiji's fast to give a 35 per cent increase in wages."
+    },
+    {
+      "title": "Kheda Satyagraha (1918)",
+      "content_md": "Crops failed in Kheda and the peasants were not in a position to pay land revenue. The government refused to forgo the land revenue. Gandhiji organised the peasants to offer Satyagraha. The peasants refused to pay the revenue and ultimately the government was forced to arrive at a settlement with the peasants. Sardar Vallabhbhai Patel became Gandhiji's follower during this struggle.\n\nThese first experiments in Satyagraha brought Gandhiji in close contact with the masses, both the peasants in the rural areas and the workers in the urban areas."
+    },
+    {
+      "title": "GANDHIJI'S METHODS AND DIRECTIONS",
+      "content_md": "The methods used by Mahatma Gandhi during the freedom struggle were the following:\n\n**Satyagraha**: The term Satyagraha is made up of two Sanskrit words—Satya (truth) and Agraha (insistence to hold fast).\n\nTo Gandhiji, Satyagraha was a moral force born of truth and non-violence. It meant to be fearless, truthful as well as peaceful, suffering willingly while refusing to submit to what is wrong. But, even while resisting evil, it would not involve hatred towards the evil-doer.\n\nGandhiji's Satyagraha Movement was directed against the British system of exploitation and not the British people individually or collectively.\n\nGandhiji made a distinction between Satyagraha and passive resistance. Passive resistance does not exclude the use of physical force for the purpose of gaining one's end, whereas Satyagraha excludes the use of violence.\n\n**Doctrine of Non-Violence**: Non-violence or Ahimsa means non-killing or avoiding injury, but for Gandhiji, it meant avoiding injury to anything by thought, word or deed.\n\nAccording to Gandhiji, non-violence is not a negative but a positive and active force. It is the virtue of the strong which requires benevolence and sympathy. Mahatma Gandhi set an example before the whole world of achieving freedom from the mighty British power through a non-violent struggle.\n\n**Swadeshi**: Swadeshi means producing necessary items in one's own country and using them for one's use without being dependent on imported goods. Gandhiji believed that the use of Swadeshi goods would make us self-sufficient and eliminate our dependence on imported goods. Gandhiji emphasised manual labour and the use of the Charkha and Khadi.\n\n**Mass Movement**: The South African experiment gave Gandhiji the experience of leading Indians belonging to different religions, regions and social classes. South Africa built his faith in the ability of the Indian masses to participate in the freedom movement."
+    },
+    {
+      "title": "Objectives of the Non-Cooperation Movement",
+      "content_md": "At a special session of the Congress held at Kolkata in September 1920 a special resolution was adopted accepting Non-Cooperation Movement as the only option left open for the people of India. The regular session of the Congress at Nagpur in December, 1920 ratified this resolution.\nThe Non-Cooperation Movement sought to achieve the following objectives:\n(i) To attain self government within the British Empire if possible and outside if necessary.\n(ii) Annulment of the Rowlatt Act and remedying the 'Punjab wrong', i.e., the British Government should express its regret on the happenings in Punjab, particularly in Amritsar.\n(iii) Remedying the 'Khilafat wrong', i.e., the British should adopt a lenient attitude towards Turkey, and restore the old status of the Sultan of Turkey."
+    },
+    {
+      "title": "Activities During Non-Cooperation Movement",
+      "content_md": "[Image: Dr. Rajendra Prasad]\n[Image: Rabindranath Tagore]\nThe nation enthusiastically responded to the call of Gandhiji. The people were ready to practise non-cooperation with the government in every field.\n\n* Lawyers such as Deshbandhu Chittaranjan Das, Motilal Nehru, C. Rajagopalachari, Dr. Rajendra Prasad and many others gave up their legal practice.\n* Students left schools and colleges.\n* The Congress boycotted the elections to the legislatures by not putting up candidates for the first elections to the Councils.\n* Charkhas were manufactured for the people to spin cloth. Gandhiji himself started spinning.\n* The Jamia Millia Islamia was established as a national university. The Bihar Vidyapith, Kashi Vidyapith and the Gujarat Vidyapith were the other national universities that were established with teachers like Acharya Narendra Dev, Dr. Zakir Hussain and Lala Lajpat Rai.\n* Rabindranath Tagore and many other distinguished citizens of India renounced their titles and awards. Gandhiji returned the medals that were awarded for his work in South Africa.\n* People contributed generously to finance the movement.\n* Shops selling foreign goods and liquor were picketed. Foreign cloth was burnt in market places.\n* In Kheda, Gujarat, many peasants organised non-violent campaigns against the high land revenue.\n* In many forest villages, peasants proclaimed 'Swaraj' and believed that 'Gandhi Raj' was about to be established.\n* In Malabar, the Moplas rebelled against the authorities. This rebellion assumed a communal character when they killed many Hindus. This unfortunate incident gave a severe blow to the Hindu-Muslim unity.\n* The Prince of Wales came to India in 1921. The people boycotted his visit at Mumbai, observed a hartal and arranged a meeting on the beach. The mob turned unruly and riots followed. The police opened fire. This turmoil of three days killed 59 people."
+    },
+    {
+      "title": "Repression by the Government",
+      "content_md": "The Government took severe measures to suppress the movement. Under Gandhiji's inspiration, prison lost its terror and became a place of pilgrimage. All important leaders except Gandhiji were arrested and sent to jail.\n\nProcessions and public meetings were banned. The Khilafat and the Congress volunteer organisations were declared illegal. Unfortunately the whole movement was abruptly called off on February 12, 1922, at Gandhiji's insistence, following the news of the Chauri Chaura incident."
+    },
+    {
+      "title": "Recommendations of the Simon Commission",
+      "content_md": "The following were the recommendations of the commission:\n1. Dyarchy should be abolished and there should be complete autonomy in the Provinces including the department of law and order, but the Governor should be given overriding powers in certain matters like the internal security.\n2. Provincial Legislative Councils should be enlarged.\n3. Federal government at the Centre, should embrace not only British India but also the Princely States.\n4. The Governor-General should select and appoint members of his Cabinet.\n5. British troops and British officers should stay on in Indian regiments for many more years.\n6. High Courts should be under the administrative control of the Government of India.\n7. The Communal representation was to continue."
+    },
+    {
+      "title": "Nehru Report* (1928)",
+      "content_md": "*For Information only*\n\nLord Birkenhead, the Secretary of State for India, justified the exclusion of Indians in the Simon Commission by stating that the Indians were not united and could not arrive at an 'agreed scheme of reforms'. To refute this charge, an All Parties Conference was convened in 1928. Liberals and Assertive Nationalists, leaders of the Hindu Mahasabha, the Muslim League and the Depressed Classes came together. Motilal Nehru was made chairman of the committee with Sir Tej Bahadur Sapru and N.C. Kelkar as his principal associates. The report submitted by the All Parties Conference is known as the Nehru Report. The Nehru Report proposed:\n* Dominion Status for India;\n* That the Parliament of India should consist of (a) the Senate elected for 7 years, containing 200 members elected by the Provincial Councils and (b) the House of Representation with 500 members elected for five years through adult franchise;\n* Joint electorates with reservation of seats for minorities (except in the Punjab and Bengal) on population basis with the right to contest additional seats;\n* Creation of 'new provinces' on linguistic basis;\n* 'Nineteen Fundamental Rights' including the right to vote, freedom from arbitrary arrest, searches and seizures and freedom of conscience."
+    },
+    {
+      "title": "The Progress of the Movement",
+      "content_md": "The movement spread rapidly. Violation of Salt Laws all over the country was soon followed by defiance of forest laws in Maharashtra, Karnataka and the Central Provinces and refusal to pay the rural chaukidari tax in Eastern India.\n\nEverywhere in the country people joined hartals, demonstrations and the campaign to boycott foreign goods and refused to pay taxes. Lakhs of Indians offered Satyagraha. The boycott of British goods and the picketing of liquor shops were a part of the daily programme.\n\nThe movement reached the extreme north-western corner of India and stirred the brave Pathans. Under the leadership of Khan Abdul Ghaffar Khan, popularly known as 'The Frontier Gandhi', the Pathans organised the society of Khudai Khidmatgars (or Servants of God), known popularly as Red Shirts. They were pledged to non-violence and the freedom struggle.\n\nThe movement also became popular in the easternmost part of the country where the Manipuris joined the movement with great enthusiasm. In Nagaland, Rani Gaidilieu, at the age of 13 responded to Gandhiji's call and raised the banner of revolt against the British rule.\n\nCivil Disobedience Movement resulted in mass strikes and setting up of parallel governments in several places."
+    },
+    {
+      "title": "Repression by the Government",
+      "content_md": "[Image: Khan Abdul Ghaffar Khan with Gandhiji]\nThe Government resorted to firing, lathi charges and large scale imprisonment. Over 90,000 Satyagrahis including Congress leaders and Gandhiji were imprisoned. The Congress was declared illegal and severe restrictions were imposed on the nationalist Press.\n\nThere were demonstrations at Peshawar to protest against the arrest of Ghaffar Khan. A platoon of Garhwal troops refused to open fire on the demonstrators. The Commander of the platoon, Thakur Chandra Singh and others were severely punished.\n\nProtest meetings were held everywhere. The textile and railway workers of Mumbai went on strike. There were instances of firing at Delhi and Kolkata."
+    },
+    {
+      "title": "Round Table Conference",
+      "content_md": "The Indian Round Table Conference held three sessions which are also referred to as the First, Second and Third Round Table Conferences."
+    },
+    {
+      "title": "First Round Table Conference (November 12, 1930 to January 19, 1931)",
+      "content_md": "The first Round Table Conference was held in London. The Congress, which was unhappy with the report of Simon Commission, boycotted the conference but other political parties and interest groups were well represented.\n\nThe British realised the futility of holding a conference on the question of constitutional reforms for India without the representatives of the Congress."
+    },
+    {
+      "title": "Third Round Table Conference (November 17, 1932 to December 24, 1932)",
+      "content_md": "It was attended by 46 delegates only. The Indian National Congress refused to attend the conference. Dr. Bhimrao Ambedkar, who attended the conference demanded separate electorate for the Depressed Classes. Consequently, the then Prime Minister of Britain, Ramsay Macdonald announced an award known as the Communal Award. This award provided separate representation to the Muslims, Buddhists, Sikhs, Indian Christians, Anglo-Indians, Europeans and the Depressed Classes.\n\nMahatma Gandhi strongly opposed this award on the grounds that it would disintegrate Indian society and started a fast in protest against it. On 24 September, 1932, the agreement known as Poona Pact was signed between Dr. Bhimrao Ambedkar and the Congress. The agreement provided reservation of seats for the depressed classes in the Provincial legislatures, within the general electorate and not by creating a separate electorate. Due to the pact, the depressed classes received 148 seats in the legislature, instead of the 71 as allocated in the Communal Award earlier proposed by the British Prime Minister, Ramsay MacDonald."
+    },
+    {
+      "title": "Dr. Bhimrao Ambedkar's Contribution",
+      "content_md": "Dr Bhimrao Ramji Ambedkar, popularly known as Babasaheb was one of the architects of the Indian Constitution. He was a well-known economist, politician, social reformer and an eminent jurist. Babasaheb's efforts to eradicate the social evils like untouchability and caste restrictions were remarkable. Throughout his life, he fought for the rights of the dalits and other socially backward classes. He was appointed as India's first Law Minister in the Cabinet of Jawaharlal Nehru. He was posthumously awarded the Bharat Ratna.\n\nBhimrao Ambedkar was born to Ramji Maloji Sakpal and Bhimabai Sakpal on April 14, 1891 in Mhow in Madhya Pradesh.\n\nFrom his childhood days, Babasaheb had to face caste discrimination. Although he was able to attend school, he and other children due to their caste were segregated and given little attention by the teachers. In 1908 he entered Elphinstone College, which was affiliated to the Mumbai University (University of Bombay), becoming the first from his community to do so.\n\nBy 1912, he obtained his B.A. degree in Economics and Political Science from Mumbai University. In 1913, he moved to the United States on a scholarship awarded by the Gaekwad ruler of Baroda. He passed his M.A. Exam in June 1915, majoring in Economics. He received his PhD in Economics in 1927. At the London School of Economics, he took a Master's degree in 1921. In 1923, he finished his law studies and was admitted to the British Bar as a Barrister.\n\nWhile practising law in the Bombay High Court, he tried to uplift the dalits in order to educate them. His first organised attempt to achieve this was the Bahishkrit Hitakarini Sabha to promote education and socio-economic improvement, as well as the welfare of depressed classes. For the protection of Dalit rights he started many periodicals like Mook Nayak, Bahishkrit Bharat, and Equality Janta.\n\nBabasaheb was appointed as Independent India's first Law Minister, and also the Chairman of the Constitution Drafting Committee, set up by the Assembly to write India's new Constitution. Babasaheb Ambedkar emphasised the need to establish harmonious relations between all the classes of the society. In 1950, Babasaheb converted to Buddhism. On October 14, 1956 Babasaheb organised a public ceremony to convert around five lakh of his supporters to Buddhism.\n\nBabasaheb passed away at his home in Delhi on December 6, 1956. He made immense contribution in shaping modern India. He led millions of oppressed to a life of self-respect, dignity, and responsibility."
+    }
+  ],
+  "needs_review": [],
+  "manifest": {
+    "syllabus_leaves": [
+      {
+        "path": "Mass Phase of the National Movement (1915-1947) > Mahatma Gandhi-Non-Cooperation Movement > Causes (Khilafat Movement, Rowlatt Act, Jallianwala Bagh Tragedy)",
+        "path_titles": [
+          "Mass Phase of the National Movement (1915-1947)",
+          "Mahatma Gandhi-Non-Cooperation Movement",
+          "Causes (Khilafat Movement, Rowlatt Act, Jallianwala Bagh Tragedy)"
+        ],
+        "title": "Causes (Khilafat Movement, Rowlatt Act, Jallianwala Bagh Tragedy)",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Mass Phase of the National Movement (1915-1947) > Mahatma Gandhi-Non-Cooperation Movement > Programme and suspension",
+        "path_titles": [
+          "Mass Phase of the National Movement (1915-1947)",
+          "Mahatma Gandhi-Non-Cooperation Movement",
+          "Programme and suspension"
+        ],
+        "title": "Programme and suspension",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Mass Phase of the National Movement (1915-1947) > Mahatma Gandhi-Non-Cooperation Movement > Chauri Chaura incident and impact of the Movement",
+        "path_titles": [
+          "Mass Phase of the National Movement (1915-1947)",
+          "Mahatma Gandhi-Non-Cooperation Movement",
+          "Chauri Chaura incident and impact of the Movement"
+        ],
+        "title": "Chauri Chaura incident and impact of the Movement",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Mass Phase of the National Movement (1915-1947) > The Civil Disobedience Movement > Causes (reaction to the Simon Commission (clauses will not be tested) Declaration of Poorna Swaraj at the Lahore Session of 1929)",
+        "path_titles": [
+          "Mass Phase of the National Movement (1915-1947)",
+          "The Civil Disobedience Movement",
+          "Causes (reaction to the Simon Commission (clauses will not be tested) Declaration of Poorna Swaraj at the Lahore Session of 1929)"
+        ],
+        "title": "Causes (reaction to the Simon Commission (clauses will not be tested) Declaration of Poorna Swaraj at the Lahore Session of 1929)",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Mass Phase of the National Movement (1915-1947) > The Civil Disobedience Movement > Dandi March, programme and impact of the Movement",
+        "path_titles": [
+          "Mass Phase of the National Movement (1915-1947)",
+          "The Civil Disobedience Movement",
+          "Dandi March, programme and impact of the Movement"
+        ],
+        "title": "Dandi March, programme and impact of the Movement",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Mass Phase of the National Movement (1915-1947) > The Civil Disobedience Movement > Gandhi-Irwin Pact and the Second Round Table Conference",
+        "path_titles": [
+          "Mass Phase of the National Movement (1915-1947)",
+          "The Civil Disobedience Movement",
+          "Gandhi-Irwin Pact and the Second Round Table Conference"
+        ],
+        "title": "Gandhi-Irwin Pact and the Second Round Table Conference",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Mass Phase of the National Movement (1915-1947) > The Civil Disobedience Movement > Reason for renewal of the Civil Disobedience Movement",
+        "path_titles": [
+          "Mass Phase of the National Movement (1915-1947)",
+          "The Civil Disobedience Movement",
+          "Reason for renewal of the Civil Disobedience Movement"
+        ],
+        "title": "Reason for renewal of the Civil Disobedience Movement",
+        "sequence_number": 4,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      }
+    ],
+    "stray_leaves": [
+      {
+        "title": "EARLY LIFE",
+        "insert_after_index": 0,
+        "micro_topics": [],
+        "has_notes": true
+      },
+      {
+        "title": "Champaran Satyagraha (1917)",
+        "insert_after_index": 0,
+        "micro_topics": [],
+        "has_notes": true
+      },
+      {
+        "title": "Ahmedabad Satyagraha (1918)",
+        "insert_after_index": 0,
+        "micro_topics": [],
+        "has_notes": true
+      },
+      {
+        "title": "Kheda Satyagraha (1918)",
+        "insert_after_index": 0,
+        "micro_topics": [],
+        "has_notes": true
+      },
+      {
+        "title": "GANDHIJI'S METHODS AND DIRECTIONS",
+        "insert_after_index": 0,
+        "micro_topics": [
+          "Satyagraha",
+          "Doctrine of Non-Violence",
+          "Swadeshi",
+          "Mass Movement"
+        ],
+        "has_notes": true
+      },
+      {
+        "title": "Objectives of the Non-Cooperation Movement",
+        "insert_after_index": 2,
+        "micro_topics": [],
+        "has_notes": true
+      },
+      {
+        "title": "Activities During Non-Cooperation Movement",
+        "insert_after_index": 3,
+        "micro_topics": [],
+        "has_notes": true
+      },
+      {
+        "title": "Repression by the Government",
+        "insert_after_index": 3,
+        "micro_topics": [],
+        "has_notes": true
+      },
+      {
+        "title": "Recommendations of the Simon Commission",
+        "insert_after_index": 6,
+        "micro_topics": [],
+        "has_notes": true
+      },
+      {
+        "title": "Nehru Report* (1928)",
+        "insert_after_index": 6,
+        "micro_topics": [],
+        "has_notes": true
+      },
+      {
+        "title": "The Progress of the Movement",
+        "insert_after_index": 7,
+        "micro_topics": [],
+        "has_notes": true
+      },
+      {
+        "title": "Repression by the Government",
+        "insert_after_index": 7,
+        "micro_topics": [],
+        "has_notes": true
+      },
+      {
+        "title": "Round Table Conference",
+        "insert_after_index": 8,
+        "micro_topics": [],
+        "has_notes": true
+      },
+      {
+        "title": "First Round Table Conference (November 12, 1930 to January 19, 1931)",
+        "insert_after_index": 8,
+        "micro_topics": [],
+        "has_notes": true
+      },
+      {
+        "title": "Third Round Table Conference (November 17, 1932 to December 24, 1932)",
+        "insert_after_index": 8,
+        "micro_topics": [],
+        "has_notes": true
+      },
+      {
+        "title": "Dr. Bhimrao Ambedkar's Contribution",
+        "insert_after_index": 9,
+        "micro_topics": [],
+        "has_notes": true
+      }
+    ]
+  }
+}

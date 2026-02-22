@@ -11,23 +11,24 @@ import {
   type DragStartEvent,
 } from '@dnd-kit/core';
 import { SortableContext, verticalListSortingStrategy, arrayMove } from '@dnd-kit/sortable';
-import { getRevisionNotes, saveRevisionNotes, setStatus, type DraftNode, type DraftNoteBlock } from '../api';
+import { getRevisionNotes, saveRevisionNotes, setStatus, type DraftNode, type RevisionNoteBlock } from '../api';
 import { RichTextBlockEditor } from '../components/RichTextEditor';
 import { buildNodesTree, NotesTreeSidebar } from '../components/NotesTreeSidebar';
 import { flattenTree } from '../structureUtils';
 import { SortableBlockRow } from '../components/SortableBlockRow';
 
 const UNDO_MAX = 5;
-type UndoSnapshot = { blocks: DraftNoteBlock[]; selectedNodeId: string | null };
+type UndoSnapshot = { blocks: RevisionNoteBlock[]; selectedNodeId: string | null };
 
-function renumberBlocks(blocks: DraftNoteBlock[]): DraftNoteBlock[] {
-  const byNode = blocks.reduce<Record<string, DraftNoteBlock[]>>((acc, b) => {
-    const id = b.draft_syllabus_node_id;
+function renumberBlocks(blocks: RevisionNoteBlock[]): RevisionNoteBlock[] {
+  const byNode = blocks.reduce<Record<string, RevisionNoteBlock[]>>((acc, b) => {
+    const id = b.syllabus_node_id ?? '';
+    if (!id) return acc;
     if (!acc[id]) acc[id] = [];
     acc[id].push(b);
     return acc;
   }, {});
-  const result: DraftNoteBlock[] = [];
+  const result: RevisionNoteBlock[] = [];
   for (const list of Object.values(byNode)) {
     list.sort((a, b) => a.sequence_number - b.sequence_number);
     list.forEach((b, i) => result.push({ ...b, sequence_number: i + 1 }));
@@ -40,14 +41,16 @@ export default function RevisionNotesEditor() {
   const { itemId } = useParams<{ itemId: string }>();
   const navigate = useNavigate();
   const [nodes, setNodes] = useState<DraftNode[]>([]);
-  const [blocks, setBlocks] = useState<DraftNoteBlock[]>([]);
+  const [blocks, setBlocks] = useState<RevisionNoteBlock[]>([]);
+  const [orphanedBlocks, setOrphanedBlocks] = useState<RevisionNoteBlock[]>([]);
+  const [noPublishedStructure, setNoPublishedStructure] = useState(false);
   const [loading, setLoading] = useState(true);
   const [saving, setSaving] = useState(false);
   const [error, setError] = useState('');
   const [selectedNodeId, setSelectedNodeId] = useState<string | null>(null);
   const [activeBlockId, setActiveBlockId] = useState<string | null>(null);
   const [undoStack, setUndoStack] = useState<UndoSnapshot[]>([]);
-  const blocksRef = useRef<DraftNoteBlock[]>([]);
+  const blocksRef = useRef<RevisionNoteBlock[]>([]);
   const contentRef = useRef<HTMLDivElement>(null);
 
   const SIDEBAR_WIDTH_KEY = 'curation-app-sidebar-width';
@@ -127,6 +130,8 @@ export default function RevisionNotesEditor() {
       .then((data) => {
         setNodes(data.nodes);
         setBlocks(data.blocks);
+        setOrphanedBlocks(data.orphaned_blocks ?? []);
+        setNoPublishedStructure(data.no_published_structure ?? false);
       })
       .catch((err) => setError(err instanceof Error ? err.message : 'Failed to load'))
       .finally(() => setLoading(false));
@@ -137,7 +142,7 @@ export default function RevisionNotesEditor() {
 
   function pushUndo(snapshot?: UndoSnapshot) {
     const toPush: UndoSnapshot = snapshot ?? {
-      blocks: JSON.parse(JSON.stringify(blocksRef.current)) as DraftNoteBlock[],
+      blocks: JSON.parse(JSON.stringify(blocksRef.current)) as RevisionNoteBlock[],
       selectedNodeId,
     };
     setUndoStack((prev) => {
@@ -149,7 +154,7 @@ export default function RevisionNotesEditor() {
   function handleUndo() {
     const snapshot = undoStack[undoStack.length - 1];
     if (!snapshot) return;
-    const restoredBlocks = JSON.parse(JSON.stringify(snapshot.blocks)) as DraftNoteBlock[];
+    const restoredBlocks = JSON.parse(JSON.stringify(snapshot.blocks)) as RevisionNoteBlock[];
     setBlocks(restoredBlocks);
     setSelectedNodeId(snapshot.selectedNodeId);
     setUndoStack((prev) => prev.slice(0, -1));
@@ -160,13 +165,16 @@ export default function RevisionNotesEditor() {
     setSaving(true);
     setError('');
     try {
-      const payload = blocks.map((b) => ({
-        draft_syllabus_node_id: b.draft_syllabus_node_id,
-        sequence_number: b.sequence_number,
-        content_html: b.content_html,
-      }));
+      const payload = blocks
+        .filter((b) => b.syllabus_node_id != null)
+        .map((b) => ({
+          syllabus_node_id: b.syllabus_node_id!,
+          sequence_number: b.sequence_number,
+          content_html: b.content_html,
+        }));
       const res = await saveRevisionNotes(itemId, payload);
       setBlocks(res.blocks);
+      setOrphanedBlocks(res.orphaned_blocks ?? []);
     } catch (err) {
       setError(err instanceof Error ? err.message : 'Save failed');
     } finally {
@@ -192,8 +200,9 @@ export default function RevisionNotesEditor() {
 
   const blocksByNode = useMemo(
     () =>
-      blocks.reduce<Record<string, DraftNoteBlock[]>>((acc, b) => {
-        const id = b.draft_syllabus_node_id;
+      blocks.reduce<Record<string, RevisionNoteBlock[]>>((acc, b) => {
+        const id = b.syllabus_node_id ?? '';
+        if (!id) return acc;
         if (!acc[id]) acc[id] = [];
         acc[id].push(b);
         return acc;
@@ -237,9 +246,9 @@ export default function RevisionNotesEditor() {
 
   function handleAddBlock(nodeId: string) {
     pushUndo();
-    const newBlock: DraftNoteBlock = {
+    const newBlock: RevisionNoteBlock = {
       id: `temp-${Date.now()}`,
-      draft_syllabus_node_id: nodeId,
+      syllabus_node_id: nodeId,
       sequence_number: 0,
       content_html: '',
     };
@@ -251,7 +260,7 @@ export default function RevisionNotesEditor() {
     pushUndo();
     setBlocks((prev) => {
       const updated = prev.map((b) =>
-        b.id === blockId ? { ...b, draft_syllabus_node_id: targetNodeId } : b
+        b.id === blockId ? { ...b, syllabus_node_id: targetNodeId } : b
       );
       return renumberBlocks(updated);
     });
@@ -284,10 +293,10 @@ export default function RevisionNotesEditor() {
     pushUndo();
     const sourceBlock = blocks.find((b) => b.id === activeId);
     const targetBlock = blocks.find((b) => b.id === overId);
-    if (!sourceBlock || !targetBlock) return;
+    if (!sourceBlock || !targetBlock || sourceBlock.syllabus_node_id == null || targetBlock.syllabus_node_id == null) return;
 
-    const sourceNodeId = sourceBlock.draft_syllabus_node_id;
-    const targetNodeId = targetBlock.draft_syllabus_node_id;
+    const sourceNodeId = sourceBlock.syllabus_node_id;
+    const targetNodeId = targetBlock.syllabus_node_id;
 
     const sourceList = [...(blocksByNode[sourceNodeId] ?? [])].sort(
       (a, b) => a.sequence_number - b.sequence_number
@@ -302,19 +311,19 @@ export default function RevisionNotesEditor() {
     if (sourceNodeId === targetNodeId) {
       const reordered = arrayMove(sourceList, oldIndex, newIndex);
       const renumbered = reordered.map((b, i) => ({ ...b, sequence_number: i + 1 }));
-      const otherBlocks = blocks.filter((b) => b.draft_syllabus_node_id !== sourceNodeId);
+      const otherBlocks = blocks.filter((b) => b.syllabus_node_id !== sourceNodeId);
       setBlocks([...otherBlocks, ...renumbered]);
     } else {
       const withoutSource = blocks.filter((b) => b.id !== activeId);
-      const moved = { ...sourceBlock, draft_syllabus_node_id: targetNodeId };
+      const moved = { ...sourceBlock, syllabus_node_id: targetNodeId };
       const newTargetList = [...targetList];
       newTargetList.splice(newIndex, 0, moved);
       const renumberedTarget = newTargetList.map((b, i) => ({
         ...b,
-        draft_syllabus_node_id: targetNodeId,
+        syllabus_node_id: targetNodeId,
         sequence_number: i + 1,
       }));
-      const otherBlocks = withoutSource.filter((b) => b.draft_syllabus_node_id !== targetNodeId);
+      const otherBlocks = withoutSource.filter((b) => b.syllabus_node_id !== targetNodeId);
       setBlocks(renumberBlocks([...otherBlocks, ...renumberedTarget]));
       setSelectedNodeId(targetNodeId);
     }
@@ -348,6 +357,15 @@ export default function RevisionNotesEditor() {
       {error && <p style={{ color: 'var(--danger)', marginBottom: 16, padding: '0 24px' }}>{error}</p>}
       {loading ? (
         <p style={{ padding: 24 }}>Loading…</p>
+      ) : noPublishedStructure ? (
+        <div style={{ padding: 24, maxWidth: 560 }}>
+          <p style={{ color: 'var(--text)', fontSize: 16, marginBottom: 12 }}>
+            <strong>Publish the Structure item for this chapter first.</strong>
+          </p>
+          <p style={{ color: 'var(--text-muted)', fontSize: 14 }}>
+            Revision notes are keyed to the <em>published</em> syllabus tree. Open the Structure item for this chapter, edit the draft structure and full extract, then mark it ready and run the publish script. After that, you can generate and edit revision notes here.
+          </p>
+        </div>
       ) : (
         <DndContext
           sensors={sensors}
@@ -375,10 +393,15 @@ export default function RevisionNotesEditor() {
               style={{ flex: 1, minWidth: 0, overflowY: 'auto', padding: 24, background: 'var(--bg)' }}
             >
               <p style={{ color: 'var(--text-muted)', marginBottom: 16 }}>
-                {nodes.length} nodes, {blocks.length} revision note blocks
+                {nodes.length} nodes (published), {blocks.length} revision note blocks
                 {blocks.length > 0 && ` (${blocks.filter((b) => (b.content_html || '').trim().length > 0).length} with content)`}.
                 Tree is read-only.
               </p>
+              {orphanedBlocks.length > 0 && (
+                <div style={{ marginBottom: 16, padding: 12, background: 'var(--surface)', borderRadius: 8, border: '1px solid var(--border)', fontSize: 14 }}>
+                  <strong>Orphaned</strong> ({orphanedBlocks.length} block{orphanedBlocks.length !== 1 ? 's' : ''}): draft content whose node was removed from the published structure. They are not published; you can delete or re-assign after re-adding a node.
+                </div>
+              )}
               {blocks.length === 0 && nodes.length > 0 && (
                 <div style={{ marginBottom: 16, padding: 12, background: 'var(--selected-bg)', borderRadius: 8, border: '1px solid var(--border)', fontSize: 14 }}>
                   <strong>No revision note blocks for this chapter.</strong> Import generated revision notes: from <code>backend/</code> run{' '}

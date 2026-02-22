@@ -43,107 +43,100 @@
       "Principles of Dhamma",
       "IMPACT OF DHAMMA ON ASHOKA'S IMPERIAL POLICY"
     ],
-    "in_syllabus_only": [
-      "(i) The death and destruction caused by the Kalinga war brought about a great change in the personal and political life of Ashoka.",
-      "(ii) Kalinga changed Ashoka's personal life.",
-      "(iii) The prisoners of war were used for agricultural work.",
-      "(iv) Ashoka himself went on tours to preach Buddhism to people.",
-      "(v) Ashoka, after the Kalinga War, embraced Buddhism and followed the Buddhist principles in his State Policy like non-violence and disapproval of empty rituals,",
-      "(vi) He got erected several pillars and edicts to spread the teachings of Buddhism.",
-      "(vii) On account of abandonment of war there was a decline in military preparedness and efficiency.",
-      "(a) It marked the end of small states.",
-      "(b) It helped in establishing trade links with foreign countries.",
-      "(c) It made India strong and helped the Mauryan kings face foreign aggressions successfully.",
-      "(d) After Ashoka's victory over Kalinga, the era of conquests and wars was over.",
-      "(i) Ashoka added a new fifth_province, Kalinga in the existing four provinces, with Tosali as its capital.",
-      "(ii) The Mauryan centralised monarchy became a paternal despotism under Ashoka.",
-      "(iii) Ashoka simplified many rigorous practices related to administration regarding taxation and crop collection.",
-      "(iv) Ashoka appointed Mahamatras (Governors) to look after the welfare of his subjects.",
-      "(i) Respect for elders and love for children.",
-      "(ii) Ahimsa or non-violence.",
-      "(iii) Good deeds or good karma would give happiness to man in the next birth.",
-      "(iv) He taught people to respect all religions.",
-      "(v) He disapproved empty rituals.",
-      "(i) Religious unity",
-      "(ii) Moral values",
-      "(iii) End of orimes",
-      "(iv) Public welfare"
-    ],
+    "in_syllabus_only": [],
     "in_pdf_only": [
       {
-        "title": "BINDUSARA",
-        "insert_after_index": 13,
+        "title": "Civil Administration",
+        "insert_after_index": 17,
+        "micro_topics": []
+      },
+      {
+        "title": "(i) Central Government",
+        "insert_after_index": 17,
+        "micro_topics": []
+      },
+      {
+        "title": "(ii) Provincial Government",
+        "insert_after_index": 17,
+        "micro_topics": []
+      },
+      {
+        "title": "(iii) District Administration",
+        "insert_after_index": 17,
+        "micro_topics": []
+      },
+      {
+        "title": "(iv) Administration of Cities",
+        "insert_after_index": 17,
+        "micro_topics": []
+      },
+      {
+        "title": "(v) The Revenue System",
+        "insert_after_index": 17,
+        "micro_topics": []
+      },
+      {
+        "title": "(vi) The Spy System",
+        "insert_after_index": 17,
+        "micro_topics": []
+      },
+      {
+        "title": "(vii) Military Administration",
+        "insert_after_index": 17,
         "micro_topics": []
       }
     ],
     "additional_sections": [
       {
-        "title": "BINDUSARA",
-        "content_md": "Bindusara succeeded his father, Chandragupta Maurya. The Greek historian Athenacus calls him a 'slayer of foes'. He conquered many parts of South India after defeating sixteen rulers. During his rule he faced a revolt in Takshila. It was quelled by his second son Ashoka, who was the governor there. Bindusara maintained friendly relations with the rulers of Greece."
+        "title": "Civil Administration",
+        "content_md": "Civil Administration: The Civil administration had two main divisions—the Central Government and the Provincial Government."
+      },
+      {
+        "title": "(i) Central Government",
+        "content_md": "(i) Central Government: The Mauryan government was centralised and was managed by several officers of different ranks. The king was the supreme authority and his throne was hereditary. He was also the supreme judge. Megasthenes, the Greek ambassador at the court of Chandragupta Maurya, in his book Indica and Chanakya in the Arthashastra, tell us about the Mauryan administration.\nAshoka brought about some changes in the administrative system of Chandragupta Maurya. He appointed Mahamatras (governors) to look after the welfare of his subjects.\nAt the central level, the king was assisted by the council of ministers (Mantri Parishad) headed by the Prime Minister. Each minister was responsible for his department. The council of ministers included the chief Pujari of the state called Purohit; Senapati, who advised the king on matters related to war and peace; the head treasurer called Sannidhata; and Samaharta, the taxation expert. The other important officers were Accountant General, one incharge of agriculture, Superintendent of mines, Superintendent of Ports, Controller of Commerce, as well as the Superintendent of Weights and Measures."
+      },
+      {
+        "title": "(ii) Provincial Government",
+        "content_md": "(ii) Provincial Government: Ashoka made alterations only in the central government and not in the provincial government. During his grandfather's time there were four provinces and after the addition of Kalinga in Ashoka's time, there were five provinces as shown below:\n\n| Province | Capital |\n| :--- | :--- |\n| 1. Magadha | Pataliputra |\n| 2. Gandhara (North-western Province) | Takshila |\n| 3. Avanti (Eastern Province) | Ujjain |\n| 4. Southern Province | Swarnagiri |\n| 5. Kalinga | Tosali |\n\nHead of the province was called Kumar or Aryaputra. Only the princes were appointed to this position. During Ashoka's time the Kumar was assisted by the Governor (Mahamatra). According to some rock and pillar edicts of Ashoka, besides the Mahamatra, other officers took active part in the administration of the provinces. Pradeshika collected taxes. Rajuka performed the functions of modern day Tehsildar or revenue officer. The Yukta was the treasurer."
+      },
+      {
+        "title": "(iii) District Administration",
+        "content_md": "(iii) District Administration: The provinces were divided into districts called Janapadas. Their administration was looked after by Pradeshika, Rajuka and Yukta."
+      },
+      {
+        "title": "(iv) Administration of Cities",
+        "content_md": "(iv) Administration of Cities: Important cities, the capitals of provinces as given earlier, had their own administrative system. The head of the city was called Nagaradhyaksha. According to Megasthenes, the administration of Pataliputra, the capital city of the Mauryan empire was looked after by a committee of 30 members."
+      },
+      {
+        "title": "(v) The Revenue System",
+        "content_md": "(v) The Revenue System: The land revenue was the chief source of income in the Mauryan empire. It was one-sixth to one-fourth of the produce. Two kinds of taxes, namely Bali and Bhaga are mentioned in the Edicts of Ashoka. Bhaga was levied on agricultural produce and the cattle at the rate of one-sixth. According to historians Vincent Smith and Shamashastri, Bali was a religious tribute.\nToll tax was imposed on articles which were brought for sale. Taxes were levied on liquor shops and gambling houses. Some taxes were collected from forests and mines. From the revenue collected, the state provided various facilities like roads, irrigation, hospitals and met other expenses of the state."
+      },
+      {
+        "title": "(vi) The Spy System",
+        "content_md": "(vi) The Spy System: Chandragupta Maurya had a wide network of spies in his empire. There were spies against the spies and on important matters more than one agent was asked to collect information. The king was always kept informed of the working of the bureaucracy."
+      },
+      {
+        "title": "(vii) Military Administration",
+        "content_md": "(vii) Military Administration: Chandragupta Maurya maintained a huge army consisting of infantry, cavalry, elephants and chariots. According to Megasthenes the Mauryan Army consisted of 6,00,000 infantry, 30,000 cavalry, and 9000 war-elephants. According to another source, the Mauryas maintained 8000 chariots. The chief weapons used were bows, arrows, shields, swords, etc.\nThe king was the commander-in-chief of the army. The whole army was under a military commission of thirty members. The Mauryas also had a well-laid recruitment policy. The soldiers were paid salary in cash. The Mauryan king had built forts at strategic places for safety and security of the empire."
       }
     ]
   },
   "nodes": [
     {
-      "title": "SYLLABUS",
-      "sequence_number": 1,
-      "depth": 0,
-      "level_label": "Section",
-      "children": [
-        {
-          "title": "The Mauryan Empire",
-          "sequence_number": 1,
-          "depth": 1,
-          "level_label": "Topic",
-          "children": [],
-          "content_blocks": [
-            {
-              "content_md": ""
-            }
-          ]
-        },
-        {
-          "title": "Sources: Arthashastra, Indika, Ashokan Edicts, Sanchi Stupa.",
-          "sequence_number": 2,
-          "depth": 1,
-          "level_label": "Topic",
-          "children": [],
-          "content_blocks": [
-            {
-              "content_md": ""
-            }
-          ]
-        },
-        {
-          "title": "Political history and administration (Chandragupta Maurya and Ashoka); Ashoka's Dhamma.",
-          "sequence_number": 3,
-          "depth": 1,
-          "level_label": "Topic",
-          "children": [],
-          "content_blocks": [
-            {
-              "content_md": ""
-            }
-          ]
-        }
-      ],
-      "content_blocks": []
-    },
-    {
       "title": "THE MAURYAS",
-      "sequence_number": 2,
+      "sequence_number": 1,
       "depth": 0,
       "level_label": "Section",
       "children": [],
       "content_blocks": [
         {
-          "content_md": "The **Mauryan empire** was founded in the **4th century BC** by **Chandragupta Maurya**. He organised a powerful army and laid the foundation of a vast empire. He overthrew the **Nandas** from **Magadha** and the **Greek Satraps** from the **North-West Frontier** and unified a large part of the Indian subcontinent under his centralised government. His successor **Bindusara** kept the Mauryan Empire intact and further extended its boundaries.\n\n[Image: Chanakya]\n\nThe reign of Bindusara's son, **Ashoka** constitutes one of the brightest periods in the Indian history. After the **Kalinga War**, Ashoka devoted his life to human welfare. He considered his subjects as his children. He built many marvels in art and architecture, some of which have survived up to this day."
+          "content_md": "The **Mauryan empire** was founded in the **4th century BC** by **Chandragupta Maurya**. He organised a powerful army and laid the foundation of a vast empire. He overthrew the **Nandas** from Magadha and the **Greek Satraps** from the North-West Frontier and unified a large part of the Indian subcontinent under his centralised government. His successor **Bindusara** kept the Mauryan Empire intact and further extended its boundaries.\n\n[Image: Chanakya]\n\nThe reign of Bindusara's son, **Ashoka** constitutes one of the brightest periods in the Indian history. After the **Kalinga War**, Ashoka devoted his life to human welfare. He considered his subjects as his children. He built many marvels in art and architecture, some of which have survived up to this day."
         }
       ]
     },
     {
       "title": "SOURCES",
-      "sequence_number": 3,
+      "sequence_number": 2,
       "depth": 0,
       "level_label": "Section",
       "children": [
@@ -173,10 +166,10 @@
               "children": [],
               "content_blocks": [
                 {
-                  "content_md": "**Megasthenes** was the **Greek ambassador** at the court of **Chandragupta Maurya**. He was sent as an ambassador to the court by **Seleucus Nicator**, the Greek ruler. He wrote a book named **Indika** which contains his impressions of what he heard and saw during his stay in India. Megasthenes' original **Indika** has been lost, but its fragments still survive in the writings of later Greek authors like **Strabo**, **Arrian** and **Diodorus**. Megasthenes wrote the following account about what he saw in India."
+                  "content_md": "**Indika**: **Megasthenes** was the **Greek ambassador** at the court of **Chandragupta Maurya**. He was sent as an ambassador to the court by **Seleucus Nicator**, the Greek ruler. He wrote a book named **Indika** which contains his impressions of what he heard and saw during his stay in India. Megasthenes' original **Indika** has been lost, but its fragments still survive in the writings of later Greek authors like **Strabo**, **Arrian** and **Diodorus**. Megasthenes wrote the following account about what he saw in India."
                 },
                 {
-                  "content_md": "\"The occasions on which the emperor appears in public are celebrated with **grand royal processions**. He is carried in a **golden palanquin**. His guards ride elephants decorated with gold and silver. Some of the guards carry trees on which live birds, including a flock of trained parrots, circle about the head of the emperor. The king is normally surrounded by **armed women**. He is afraid that someone may try to kill him. He has special servants to taste the food before he eats. He never sleeps in the same bedroom for two nights\"."
+                  "content_md": "\"The occasions on which the emperor appears in public are celebrated with grand royal processions. He is carried in a golden palanquin. His guards ride elephants decorated with gold and silver. Some of the guards carry trees on which live birds, including a flock of trained parrots, circle about the head of the emperor. The king is normally surrounded by armed women. He is afraid that someone may try to kill him. He has special servants to taste the food before he eats. He never sleeps in the same bedroom for two nights\"."
                 }
               ]
             }
@@ -197,13 +190,19 @@
               "children": [],
               "content_blocks": [
                 {
-                  "content_md": "An **edict** is a decree issued by a Sovereign. The edicts of Ashoka form the most important source of Mauryan history. They are the oldest, best preserved and precisely dated records of India. These edicts are inscribed on rocks and pillars throughout the country and include **14 Major Rock edicts**, **Seven Pillar edicts** and a number of **Minor Rock edicts**. The inscriptions on these edicts provide a useful insight into the life and ideals of Ashoka in particular and about the history of the Mauryas in general.\n\nExcept those at Shahbazgarhi and Mansehra, which are inscribed in the **Kharosthi script** running, like Arabic, from right to left, the rest are all engraved in the **Brahmi lipi**, written from left to right.\n\nThe most important event of Ashoka's reign was the **conquest of Kalinga**. The indescribable sufferings and atrocities of the Kalinga war deeply touched Ashoka's conscience and he made a solemn resolve not to take up arms any more. The war drum (**bherighosha**) was silenced forever, and henceforth were heard only the echoes of '**Dhammaghosha**', the call to non-violence and universal peace."
+                  "content_md": "An **edict** is a decree issued by a **Sovereign**. The edicts of Ashoka form the most important source of Mauryan history. They are the oldest, best preserved and precisely dated records of India. These edicts are inscribed on rocks and pillars throughout the country and include **14 Major Rock edicts**, **Seven Pillar edicts** and a number of **Minor Rock edicts**. The inscriptions on these edicts provide a useful insight into the life and ideals of Ashoka in particular and about the history of the Mauryas in general."
+                },
+                {
+                  "content_md": "Except those at Shahbazgarhi and Mansehra, which are inscribed in the **Kharosthi script** running, like Arabic, from right to left, the rest are all engraved in the **Brahmi lipi**, written from left to right."
+                },
+                {
+                  "content_md": "The most important event of Ashoka's reign was the conquest of **Kalinga**. The indescribable sufferings and atrocities of the Kalinga war deeply touched Ashoka's conscience and he made a solemn resolve not to take up arms any more. The war drum (**bherighosha**) was silenced forever, and henceforth were heard only the echoes of '**Dhammaghosha**', the call to **non-violence** and universal peace."
                 },
                 {
                   "content_md": "[Image: Ashokan Edict]"
                 },
                 {
-                  "content_md": "In pursuance of his policy of **non-violence**, Ashoka prohibited killing of animals for sacrifices; advocated restraint in the number that had to be killed for consumption; protected some of the animals, and in general condemned cruel acts against animals. Reference to protection of animals is made in the **Rock Edict-I** which states,\n\n\"Formerly, in the great refectory and temple of the heaven-beloved king Piyadasi, daily were many hundred thousand animals sacrificed for the sake of meat food. So even at this day while this religious edict is under promulgation, from the sacrifice of animals for the sake of food, some two are killed, or one is killed; but now the joyful chorus resounds again and again that henceforward not a single animal shall be put do death.\"\n(As translated by James Princep)."
+                  "content_md": "In pursuance of his policy of **non-violence**, Ashoka prohibited killing of animals for sacrifices; advocated restraint in the number that had to be killed for consumption; protected some of the animals, and in general condemned cruel acts against animals. Reference to protection of animals is made in the **Rock Edict-I** which states,\n\"Formerly, in the great refectory and temple of the heaven-beloved king Piyadasi, daily were many hundred thousand animals sacrificed for the sake of meat food. So even at this day while this religious edict is under promulgation, from the sacrifice of animals for the sake of food, some two are killed, or one is killed; but now the joyful chorus resounds again and again that henceforward not a single animal shall be put do death.\"\n— (As translated by **James Princep**)."
                 }
               ]
             },
@@ -215,10 +214,7 @@
               "children": [],
               "content_blocks": [
                 {
-                  "content_md": "[Image: Sanchi Stupa]\n\nA **stupa** is a semi-spherical solid dome-like structure made of **unburnt bricks and stones**. The **Buddhist stupa** has special significance. It represents the spiritual body of **Buddha** containing his **relics** such as hair, teeth or bones. A casket containing these relics is placed at the base of the dome. The foundation of the **Sanchi Stupa** was laid by **Ashoka** at Sanchi about 45 km from Bhopal in **Madhya Pradesh**. There are four **gateways** in four directions. They have carved panels depicting events from the life of Buddha and some tales from **Jataka stories**. Buddha is represented by symbols like the **peepal tree, lotus, or a wheel**. The pillars are surmounted by **capitals** which contain sculptures of lions. The most important of these capitals is the **Lion Capital**, a sculpture showing four Asiatic lions standing back to back, on an elaborate base that includes other animals. It was officially adopted as the **Emblem of India**, in **1950**."
-                },
-                {
-                  "content_md": "[Image: Lion Capital]"
+                  "content_md": "A **stupa** is a semi-spherical solid dome-like structure made of unburnt bricks and stones. The **Buddhist stupa** has special significance. It represents the spiritual body of Buddha containing his **relics** such as hair, teeth or bones. A casket containing these relics is placed at the base of the dome. The foundation of the **Sanchi Stupa** was laid by **Ashoka** at Sanchi about 45 km from Bhopal in Madhya Pradesh. There are four gateways in four directions. They have carved panels depicting events from the life of Buddha and some tales from **Jataka stories**. Buddha is represented by symbols like the peepal tree, lotus, or a wheel. The pillars are surmounted by capitals which contain sculptures of lions. The most important of these capitals is the **Lion Capital**, a sculpture showing four Asiatic lions standing back to back, on an elaborate base that includes other animals. It was officially adopted as the **Emblem of India**, in 1950."
                 }
               ]
             }
@@ -230,7 +226,7 @@
     },
     {
       "title": "THE MAURYAN EMPIRE",
-      "sequence_number": 4,
+      "sequence_number": 3,
       "depth": 0,
       "level_label": "Section",
       "children": [
@@ -242,7 +238,19 @@
           "children": [],
           "content_blocks": [
             {
-              "content_md": "**Chandragupta Maurya** was the founder of the **Mauryan Empire**. Not much is known about his childhood. According to a legend he had been dismissed from the service of **Nandas** who ruled before him. He met **Kautilya** at **Takshila**. Kautilya, who later became famous as **Chanakya**, was the son of a Brahmin. Kautilya too was wronged by the Nandas. He, therefore, joined hands with Chandragupta to destroy the **Nanda dynasty**.\n\nAfter a long series of battles with Chandragupta, the Nanda capital at **Pataliputra** fell. This led to the emergence of a new dynasty — the **Mauryan dynasty** with Chandragupta Maurya as the emperor.\n\n**Alexander**, the Greek ruler had conquered many states in the North-Western part of India. After his death his territories in the Indian subcontinent were taken over by Chandragupta Maurya. With the help of Chanakya he embarked on the consolidation process of his empire.\n\nIn **305 BC**, India was again attacked by **Seleucus**, a former general under Alexander. Chandragupta defeated Seleucus. According to the treaty signed with Seleucus, Chandragupta got **Kabul, Kandahar, Herat and Baluchistan** from the Greek commander. Seleucus gave his daughter Helen, in marriage to Chandragupta. After this victory Chandragupta appointed **Pushyagupta** as the governor of his North-Western province. He then proceeded to the south and captured some territories there.\n\nChandragupta's empire extended from **Kabul** and **Kandahar** in the North-West to **Mysore** in the south; and from **Bengal** in the east to **Saurashtra** in the west.\n\nAccording to the **Jain tradition**, after ruling for 24 years, he renounced the world. He handed over the kingdom to his son, **Bindusara**."
+              "content_md": "**Chandragupta Maurya** was the founder of the **Mauryan Empire**. Not much is known about his childhood. According to a legend he had been dismissed from the service of **Nandas** who ruled before him. He met **Kautilya** at **Takshila**. Kautilya, who later became famous as **Chanakya**, was the son of a Brahmin. Kautilya too was wronged by the Nandas. He, therefore, joined hands with Chandragupta to destroy the **Nanda dynasty**.\n\nAfter a long series of battles with Chandragupta, the Nanda capital at **Pataliputra** fell. This led to the emergence of a new dynasty — the **Mauryan dynasty** with **Chandragupta Maurya** as the emperor."
+            },
+            {
+              "content_md": "**Alexander**, the Greek ruler had conquered many states in the North-Western part of India. After his death his territories in the Indian subcontinent were taken over by **Chandragupta Maurya**. With the help of **Chanakya** he embarked on the consolidation process of his empire."
+            },
+            {
+              "content_md": "In **305 BC**, India was again attacked by **Seleucus**, a former general under Alexander. **Chandragupta defeated Seleucus**. According to the treaty signed with Seleucus, Chandragupta got **Kabul**, **Kandahar**, **Herat** and **Baluchistan** from the Greek commander. Seleucus gave his daughter **Helen**, in marriage to Chandragupta. After this victory Chandragupta appointed **Pushyagupta** as the governor of his North-Western province. He then proceeded to the south and captured some territories there."
+            },
+            {
+              "content_md": "**Chandragupta's empire** extended from **Kabul** and **Kandahar** in the North-West to **Mysore** in the south; and from **Bengal** in the east to **Saurashtra** in the west."
+            },
+            {
+              "content_md": "According to the **Jain tradition**, after ruling for 24 years, he renounced the world. He handed over the kingdom to his son, **Bindusara**."
             }
           ]
         },
@@ -254,7 +262,7 @@
           "children": [],
           "content_blocks": [
             {
-              "content_md": "**Bindusara** succeeded his father, **Chandragupta Maurya**. The Greek historian **Athenacus** calls him a **'slayer of foes'**. He conquered many parts of **South India** after defeating **sixteen rulers**. During his rule he faced a revolt in **Takshila**. It was quelled by his second son **Ashoka**, who was the governor there. **Bindusara** maintained friendly relations with the rulers of **Greece**."
+              "content_md": "**Bindusara** succeeded his father, **Chandragupta Maurya**. The Greek historian **Athenacus** calls him a **'slayer of foes'**. He conquered many parts of **South India** after defeating **sixteen rulers**. During his rule he faced a **revolt in Takshila**. It was quelled by his second son **Ashoka**, who was the governor there. **Bindusara** maintained friendly relations with the **rulers of Greece**."
             }
           ]
         },
@@ -263,136 +271,55 @@
           "sequence_number": 3,
           "depth": 1,
           "level_label": "Topic",
-          "children": [],
-          "content_blocks": [
-            {
-              "content_md": "Ashoka succeeded to the throne after his father Bindusara's death. On ascending the throne, Ashoka took the title of **'Devanamapriya'** (The Beloved of the Gods) and **‘Priyadarshi’** (The Beautiful One)."
-            }
-          ]
-        },
-        {
-          "title": "Kalinga War",
-          "sequence_number": 4,
-          "depth": 1,
-          "level_label": "Topic",
-          "children": [],
-          "content_blocks": [
-            {
-              "content_md": "After ascending the throne, **Ashoka** fought the famous **Kalinga War**. According to **Megasthenes**, the Greek historian at the court of Chandragupta Maurya, the ruler of Kalinga had a powerful army comprising infantry, cavalry and elephants. Ashoka faced tough resistance. According to the **Rock Edict-XIII**, both sides suffered losses, but people of Kalinga suffered the most. Though Ashoka won the war, it had far reaching consequences for him and his empire."
-            }
-          ]
-        },
-        {
-          "title": "Consequences of Kalinga War",
-          "sequence_number": 5,
-          "depth": 1,
-          "level_label": "Topic",
           "children": [
             {
-              "title": "(i) The death and destruction caused by the Kalinga war brought about a great change in the personal and political life of Ashoka.",
+              "title": "Kalinga War",
               "sequence_number": 1,
               "depth": 2,
               "level_label": "Subtopic",
               "children": [],
               "content_blocks": [
                 {
-                  "content_md": "He abandoned the policy of '**conquest by force**' (**bherigosha**) and ambition of '**victory in all directions**' (**Digvijay**) and embraced the policy of religion (**Dhammagosha**)."
+                  "content_md": "After ascending the throne, **Ashoka** fought the famous **Kalinga War**. According to Megasthenes, the Greek historian at the court of Chandragupta Maurya, the ruler of Kalinga had a powerful army comprising infantry, cavalry and elephants. Ashoka faced tough resistance. According to the **Rock Edict-XIII**, both sides suffered losses, but people of Kalinga suffered the most. Though Ashoka won the war, it had far reaching consequences for him and his empire."
                 }
               ]
             },
             {
-              "title": "(ii) Kalinga changed Ashoka's personal life.",
+              "title": "Consequences of Kalinga War",
               "sequence_number": 2,
               "depth": 2,
               "level_label": "Subtopic",
               "children": [],
               "content_blocks": [
                 {
-                  "content_md": "He stopped hunting and eating meat and abandoned the life of luxury."
+                  "content_md": "The **Kalinga War** had a profound effect on the policies and personality of **Ashoka**."
+                },
+                {
+                  "content_md": "(i) The death and destruction caused by the Kalinga war brought about a great change in the personal and political life of Ashoka. He abandoned the policy of 'conquest by force' (**bherigosha**) and 'ambition of victory in all directions' (**Digvijay**) and embraced the policy of religion (**Dhammagosha**).\n(ii) Kalinga changed Ashoka's personal life. He stopped hunting and eating meat and abandoned the life of luxury.\n(iii) The prisoners of war were used for agricultural work. It resulted in an increase in production and brought about economic prosperity in his empire.\n(iv) Ashoka himself went on tours to preach **Buddhism** to people. He also sent missionaries to the various parts of the world. He sent his daughter, **Sanghamitra** and son, **Mahindra** to **Sri Lanka** to propagate **Buddhism**.\n(v) Ashoka, after the Kalinga War, embraced **Buddhism** and followed the Buddhist principles in his State Policy like non-violence and disapproval of empty rituals.\n(vi) He got erected several pillars and edicts to spread the teachings of **Buddhism**. He ordered the construction of 84,000 **Stupas** to keep the relics of Buddha. He gave donations to Buddhist **viharas**.\n(vii) On account of abandonment of war there was a decline in military preparedness and efficiency."
                 }
               ]
             },
             {
-              "title": "(iii) The prisoners of war were used for agricultural work.",
+              "title": "Extent of Ashoka's Empire",
               "sequence_number": 3,
               "depth": 2,
               "level_label": "Subtopic",
               "children": [],
               "content_blocks": [
                 {
-                  "content_md": "The **prisoners of war** were used for **agricultural work**. It resulted in an **increase in production** and brought about **economic prosperity** in his empire."
-                }
-              ]
-            },
-            {
-              "title": "(iv) Ashoka himself went on tours to preach Buddhism to people.",
-              "sequence_number": 4,
-              "depth": 2,
-              "level_label": "Subtopic",
-              "children": [],
-              "content_blocks": [
-                {
-                  "content_md": "**Ashoka** himself went on tours to preach **Buddhism** to people. He also sent missionaries to the various parts of the world. He sent his daughter, **Sanghamitra** and son, **Mahindra** to **Sri Lanka** to propagate **Buddhism**."
-                }
-              ]
-            },
-            {
-              "title": "(v) Ashoka, after the Kalinga War, embraced Buddhism and followed the Buddhist principles in his State Policy like non-violence and disapproval of empty rituals,",
-              "sequence_number": 5,
-              "depth": 2,
-              "level_label": "Subtopic",
-              "children": [],
-              "content_blocks": [
-                {
-                  "content_md": "**Ashoka**, after the **Kalinga War**, embraced **Buddhism** and followed the **Buddhist principles** in his **State Policy** like **non-violence** and **disapproval of empty rituals**."
-                }
-              ]
-            },
-            {
-              "title": "(vi) He got erected several pillars and edicts to spread the teachings of Buddhism.",
-              "sequence_number": 6,
-              "depth": 2,
-              "level_label": "Subtopic",
-              "children": [],
-              "content_blocks": [
-                {
-                  "content_md": "He got erected several **pillars** and **edicts** to spread the teachings of **Buddhism**. He ordered the construction of 84,000 **Stupas** to keep the **relics of Buddha**. He gave donations to **Buddhist viharas**."
-                }
-              ]
-            },
-            {
-              "title": "(vii) On account of abandonment of war there was a decline in military preparedness and efficiency.",
-              "sequence_number": 7,
-              "depth": 2,
-              "level_label": "Subtopic",
-              "children": [],
-              "content_blocks": [
-                {
-                  "content_md": "On account of the **abandonment of war**, there was a **decline in military preparedness and efficiency**."
+                  "content_md": "After his victory at **Kalinga**, **Ashoka's empire** extended from **Hindukush** in the north-west to **river Pennar** in the south. It also included some parts of **Nepal** in the north and **Kabul**, **Herat** and **Kandahar** provinces outside the present boundary of India.\n\n[Image: ASHOKA'S EMPIRE]"
                 }
               ]
             }
           ],
           "content_blocks": []
-        },
-        {
-          "title": "Extent of Ashoka's Empire",
-          "sequence_number": 6,
-          "depth": 1,
-          "level_label": "Topic",
-          "children": [],
-          "content_blocks": [
-            {
-              "content_md": "After his victory at **Kalinga**, **Ashoka's empire** extended from **Hindukush** in the north-west to **river Pennar** in the south. It also included some parts of **Nepal** in the north and **Kabul**, **Herat** and **Kandahar** provinces outside the present boundary of India.\n\n[Image: ASHOKA'S EMPIRE]"
-            }
-          ]
         }
       ],
       "content_blocks": []
     },
     {
       "title": "MAURYAN ADMINISTRATION",
-      "sequence_number": 5,
+      "sequence_number": 4,
       "depth": 0,
       "level_label": "Section",
       "children": [
@@ -401,211 +328,25 @@
           "sequence_number": 1,
           "depth": 1,
           "level_label": "Topic",
-          "children": [
+          "children": [],
+          "content_blocks": [
             {
-              "title": "(a) It marked the end of small states.",
-              "sequence_number": 1,
-              "depth": 2,
-              "level_label": "Subtopic",
-              "children": [],
-              "content_blocks": [
-                {
-                  "content_md": "It marked the end of **small states**."
-                }
-              ]
+              "content_md": "The **Mauryan empire** beginning with **Chandragupta Maurya** was vast, with an **all-India character**.\n\nSeleucus, whom Chandragupta defeated in war, had handed him four provinces of **Kabul**, **Kandahar**, **Herat** and **Baluchistan**. These remained with the Mauryan empire right up to the end of **Ashoka's** rule. During **Bindusara's** rule, Ashoka reached **Takshila** and quelled the revolt there. After Bindusara had established his rule over **South India** no other king ever ruled over the whole of India. The fact that **Chandragupta Maurya** spent his last years at **Shravanabelagola** in **Karnataka** speaks volumes about the all India character of the Mauryan empire."
             },
             {
-              "title": "(b) It helped in establishing trade links with foreign countries.",
-              "sequence_number": 2,
-              "depth": 2,
-              "level_label": "Subtopic",
-              "children": [],
-              "content_blocks": [
-                {
-                  "content_md": "It helped in establishing **trade links with foreign countries**."
-                }
-              ]
-            },
-            {
-              "title": "(c) It made India strong and helped the Mauryan kings face foreign aggressions successfully.",
-              "sequence_number": 3,
-              "depth": 2,
-              "level_label": "Subtopic",
-              "children": [],
-              "content_blocks": [
-                {
-                  "content_md": "It made **India** strong and helped the **Mauryan kings** face **foreign aggressions** successfully."
-                }
-              ]
-            },
-            {
-              "title": "(d) After Ashoka's victory over Kalinga, the era of conquests and wars was over.",
-              "sequence_number": 4,
-              "depth": 2,
-              "level_label": "Subtopic",
-              "children": [],
-              "content_blocks": [
-                {
-                  "content_md": "After **Ashoka's victory over Kalinga**, the era of **conquests and wars was over**. It helped the Mauryan kings to pay more attention to the **social and economic life** of the people. Hence, there was an all-round **economic prosperity**."
-                }
-              ]
+              "content_md": "The chief advantages of the **Pan-Indian character** of his empire were the following:\n(a) It marked the **end of small states**.\n(b) It helped in establishing **trade links with foreign countries**.\n(c) It made **India strong** and helped the Mauryan kings face **foreign aggressions successfully**.\n(d) After Ashoka's victory over Kalinga, the **era of conquests and wars was over**. It helped the Mauryan kings to pay more attention to social and economic life of the people. Hence, there was an **all-round economic prosperity**."
             }
-          ],
-          "content_blocks": []
+          ]
         },
         {
           "title": "Administration",
           "sequence_number": 2,
           "depth": 1,
           "level_label": "Topic",
-          "children": [
-            {
-              "title": "(i) Ashoka added a new fifth_province, Kalinga in the existing four provinces, with Tosali as its capital.",
-              "sequence_number": 1,
-              "depth": 2,
-              "level_label": "Subtopic",
-              "children": [],
-              "content_blocks": [
-                {
-                  "content_md": "Ashoka added a new **fifth province**, **Kalinga** in the existing four provinces, with **Tosali** as its capital."
-                }
-              ]
-            },
-            {
-              "title": "(ii) The Mauryan centralised monarchy became a paternal despotism under Ashoka.",
-              "sequence_number": 2,
-              "depth": 2,
-              "level_label": "Subtopic",
-              "children": [],
-              "content_blocks": [
-                {
-                  "content_md": "The **Mauryan centralised monarchy** became a **paternal despotism** under Ashoka. In one of his Edicts, Ashoka says, ‘all men are my children’."
-                }
-              ]
-            },
-            {
-              "title": "(iii) Ashoka simplified many rigorous practices related to administration regarding taxation and crop collection.",
-              "sequence_number": 3,
-              "depth": 2,
-              "level_label": "Subtopic",
-              "children": [],
-              "content_blocks": [
-                {
-                  "content_md": "This helped to increase **productivity** and **economic activity** across the Empire."
-                }
-              ]
-            },
-            {
-              "title": "(iv) Ashoka appointed Mahamatras (Governors) to look after the welfare of his subjects.",
-              "sequence_number": 4,
-              "depth": 2,
-              "level_label": "Subtopic",
-              "children": [],
-              "content_blocks": [
-                {
-                  "content_md": "Ashoka appointed **Mahamatras** (**Governors**) to look after the welfare of his subjects."
-                }
-              ]
-            }
-          ],
-          "content_blocks": []
-        },
-        {
-          "title": "Civil Administration",
-          "sequence_number": 3,
-          "depth": 1,
-          "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "The **Civil administration** had two main divisions—the **Central Government** and the **Provincial Government**."
-            }
-          ]
-        },
-        {
-          "title": "(i) Central Government",
-          "sequence_number": 4,
-          "depth": 1,
-          "level_label": "Topic",
-          "children": [],
-          "content_blocks": [
-            {
-              "content_md": "The **Mauryan government** was centralised and was managed by several officers of different ranks. The **king** was the supreme authority and his throne was hereditary. He was also the **supreme judge**. **Megasthenes**, the Greek ambassador at the court of Chandragupta Maurya, in his book **Indica** and **Chanakya** in the **Arthashastra**, tell us about the Mauryan administration.\n\n**Ashoka** brought about some changes in the administrative system of Chandragupta Maurya. He appointed **Mahamatras** (governors) to look after the welfare of his subjects.\n\nAt the central level, the king was assisted by the **council of ministers (Mantri Parishad)** headed by the **Prime Minister**. Each minister was responsible for his department. The council of ministers included the chief Pujari of the state called **Purohit**; **Senapati**, who advised the king on matters related to war and peace; the head treasurer called **Sannidhata**; and **Samaharta**, the taxation expert. The other important officers were **Accountant General**, one incharge of agriculture, **Superintendent of mines**, **Superintendent of Ports**, **Controller of Commerce**, as well as the **Superintendent of Weights and Measures**."
-            }
-          ]
-        },
-        {
-          "title": "(ii) Provincial Government",
-          "sequence_number": 5,
-          "depth": 1,
-          "level_label": "Topic",
-          "children": [],
-          "content_blocks": [
-            {
-              "content_md": "Ashoka made alterations only in the central government and not in the provincial government. During his grandfather's time there were four provinces and after the addition of Kalinga in Ashoka's time, there were five provinces as shown below:\n\n**Provinces and their Capitals**\n\n| Province | Capital |\n| :--- | :--- |\n| 1. Magadha | Pataliputra |\n| 2. Gandhara (North-western Province) | Takshila |\n| 3. Avanti (Eastern Province) | Ujjain |\n| 4. Southern Province | Swarnagiri |\n| 5. Kalinga | Tosali |"
-            },
-            {
-              "content_md": "The head of the province was called **Kumar** or **Aryaputra**. Only the princes were appointed to this position. During Ashoka's time the **Kumar** was assisted by the **Governor (Mahamatra)**. According to some rock and pillar edicts of Ashoka, besides the **Mahamatra**, other officers took active part in the administration of the provinces. **Pradeshika** collected taxes. **Rajuka** performed the functions of modern day Tehsildar or revenue officer. The **Yukta** was the treasurer."
-            }
-          ]
-        },
-        {
-          "title": "(iii) District Administration",
-          "sequence_number": 6,
-          "depth": 1,
-          "level_label": "Topic",
-          "children": [],
-          "content_blocks": [
-            {
-              "content_md": "The provinces were divided into districts called **Janapadas**. Their administration was looked after by **Pradeshika**, **Rajuka** and **Yukta**."
-            }
-          ]
-        },
-        {
-          "title": "(iv) Administration of Cities",
-          "sequence_number": 7,
-          "depth": 1,
-          "level_label": "Topic",
-          "children": [],
-          "content_blocks": [
-            {
-              "content_md": "Important cities, the capitals of provinces as given earlier, had their own administrative system. The head of the city was called **Nagaradhyaksha**. According to **Megasthenes**, the administration of **Pataliputra**, the capital city of the Mauryan empire, was looked after by a **committee of 30 members**."
-            }
-          ]
-        },
-        {
-          "title": "(v) The Revenue System",
-          "sequence_number": 8,
-          "depth": 1,
-          "level_label": "Topic",
-          "children": [],
-          "content_blocks": [
-            {
-              "content_md": "The **land revenue** was the chief source of income in the Mauryan empire. It was **one-sixth to one-fourth of the produce**. Two kinds of taxes, namely **Bali** and **Bhaga** are mentioned in the Edicts of Ashoka. **Bhaga** was levied on agricultural produce and the cattle at the rate of **one-sixth**. According to historians Vincent Smith and Shamashastri, **Bali** was a religious tribute.\n\n**Toll tax** was imposed on articles which were brought for sale. Taxes were levied on **liquor shops** and **gambling houses**. Some taxes were collected from **forests** and **mines**. From the revenue collected, the state provided various facilities like **roads, irrigation, hospitals** and met other expenses of the state."
-            }
-          ]
-        },
-        {
-          "title": "(vi) The Spy System",
-          "sequence_number": 9,
-          "depth": 1,
-          "level_label": "Topic",
-          "children": [],
-          "content_blocks": [
-            {
-              "content_md": "**Chandragupta Maurya** had a wide **network of spies** in his empire. There were spies against the spies and on important matters more than one agent was asked to collect information. The king was always kept informed of the working of the **bureaucracy**."
-            }
-          ]
-        },
-        {
-          "title": "(vii) Military Administration",
-          "sequence_number": 10,
-          "depth": 1,
-          "level_label": "Topic",
-          "children": [],
-          "content_blocks": [
-            {
-              "content_md": "**Chandragupta Maurya** maintained a huge army consisting of **infantry**, **cavalry**, **elephants** and **chariots**. According to **Megasthenes** the Mauryan Army consisted of **6,00,000 infantry**, **30,000 cavalry**, and **9,000 war-elephants**. According to another source, the Mauryas maintained **8,000 chariots**. The chief weapons used were **bows**, **arrows**, **shields**, **swords**, etc.\n\nThe **king** was the **commander-in-chief** of the army. The whole army was under a **military commission of thirty members**. The Mauryas also had a well-laid **recruitment policy**. The soldiers were paid **salary in cash**. The Mauryan king had built **forts** at strategic places for safety and security of the empire."
+              "content_md": "It was **Chandragupta Maurya**, under the guidance of **Chanakya**, who laid the foundations of an elaborate system of administration. **Chanakya** wrote a book **‘Arthashastra’** in which he describes the principles of politics and the **art of administration**. Chandragupta’s son **Bindusara** retained the same system and **Ashoka** made some changes necessitated by the change of heart after the Kalinga War.\n\n(i) **Ashoka** added a new fifth province, **Kalinga** in the existing four provinces, with **Tosali** as its capital.\n(ii) The Mauryan centralised monarchy became a **paternal despotism** under Ashoka. In one of his Edicts, Ashoka says, **‘all men are my children’**.\n(iii) **Ashoka** simplified many rigorous practices related to administration regarding taxation and crop collection. This helped to increase productivity and economic activity across the Empire.\n(iv) **Ashoka** appointed **Mahamatras** (Governors) to look after the welfare of his subjects.\n\nMauryan administration had two main divisions—**Civil Administration** and **Military Administration**."
             }
           ]
         }
@@ -614,136 +355,31 @@
     },
     {
       "title": "ASHOKA'S DHAMMA",
-      "sequence_number": 6,
-      "depth": 0,
-      "level_label": "Section",
-      "children": [],
-      "content_blocks": [
-        {
-          "content_md": "After the **Kalinga war** **Ashoka** became the people's king. He embraced **Buddhism** but did not impose it on his subjects. He wanted his subjects to follow such a **Dhamma** that may be based on the unifying principles of all major religions of the world. The **Dhamma** as described in **Ashoka's Edicts** is not a religion or religious system, but a **'Moral Law'**, **'a Common Code of Conduct'** or an **'Ethical Order'**, which is a common meeting ground of all religions."
-        }
-      ]
-    },
-    {
-      "title": "Principles of Dhamma",
-      "sequence_number": 7,
+      "sequence_number": 5,
       "depth": 0,
       "level_label": "Section",
       "children": [
         {
-          "title": "(i) Respect for elders and love for children.",
+          "title": "Principles of Dhamma",
           "sequence_number": 1,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "(i) **Respect for elders** and **love for children**."
+              "content_md": "Ashoka's Dhamma has the following salient points:\n\n1.  **Respect for elders** and love for children.\n2.  **Ahimsa** or non-violence.\n3.  **Good deeds** or **good karma** would give happiness to man in the next birth.\n4.  He taught people to **respect all religions**.\n5.  He disapproved **empty rituals**."
             }
           ]
         },
         {
-          "title": "(ii) Ahimsa or non-violence.",
+          "title": "MPACT OF DHAMMA ON\nSHOKA'S IMPERIAL POLICY",
           "sequence_number": 2,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "**Ahimsa** or **non-violence**."
-            }
-          ]
-        },
-        {
-          "title": "(iii) Good deeds or good karma would give happiness to man in the next birth.",
-          "sequence_number": 3,
-          "depth": 1,
-          "level_label": "Topic",
-          "children": [],
-          "content_blocks": [
-            {
-              "content_md": "**Good deeds** or **good karma** would give happiness to man in the next birth."
-            }
-          ]
-        },
-        {
-          "title": "(iv) He taught people to respect all religions.",
-          "sequence_number": 4,
-          "depth": 1,
-          "level_label": "Topic",
-          "children": [],
-          "content_blocks": [
-            {
-              "content_md": "He taught people to respect all religions."
-            }
-          ]
-        },
-        {
-          "title": "(v) He disapproved empty rituals.",
-          "sequence_number": 5,
-          "depth": 1,
-          "level_label": "Topic",
-          "children": [],
-          "content_blocks": [
-            {
-              "content_md": "He disapproved **empty rituals**."
-            }
-          ]
-        }
-      ],
-      "content_blocks": []
-    },
-    {
-      "title": "MPACT OF DHAMMA ON SHOKA'S IMPERIAL POLICY",
-      "sequence_number": 8,
-      "depth": 0,
-      "level_label": "Section",
-      "children": [
-        {
-          "title": "(i) Religious unity",
-          "sequence_number": 1,
-          "depth": 1,
-          "level_label": "Topic",
-          "children": [],
-          "content_blocks": [
-            {
-              "content_md": "People belonging to different religions followed their emperor's policy of **religious tolerance**."
-            }
-          ]
-        },
-        {
-          "title": "(ii) Moral values",
-          "sequence_number": 2,
-          "depth": 1,
-          "level_label": "Topic",
-          "children": [],
-          "content_blocks": [
-            {
-              "content_md": "People under the influence of **Dhamma** started living a moral life."
-            }
-          ]
-        },
-        {
-          "title": "(iii) End of orimes",
-          "sequence_number": 3,
-          "depth": 1,
-          "level_label": "Topic",
-          "children": [],
-          "content_blocks": [
-            {
-              "content_md": "The policy of **Ahimsa** did have a great moral impact on people. **Thefts**, **crimes** and other such activities almost came to an end."
-            }
-          ]
-        },
-        {
-          "title": "(iv) Public welfare",
-          "sequence_number": 4,
-          "depth": 1,
-          "level_label": "Topic",
-          "children": [],
-          "content_blocks": [
-            {
-              "content_md": "With the policy of conquests and wars having come to an end, **Ashoka's Dhamma** helped officials to undertake **public welfare** and **public work schemes**. This resulted in prosperity and helped people to lead a peaceful life."
+              "content_md": "1. **Religious unity:** People belonging to different religions followed their emperor's policy of **religious tolerance**.\n2. **Moral values:** People under the influence of **Dhamma** started living a moral life.\n3. **End of crimes:** The policy of **Ahimsa** did have a great moral impact on people. Thefts, crimes and other such activities almost came to an end.\n4. **Public welfare:** With the policy of conquests and wars having come to an end, **Ashoka's Dhamma** helped officials to undertake public welfare and public work schemes. This resulted in prosperity and helped people to lead a peaceful life."
             }
           ]
         }
@@ -753,60 +389,48 @@
   ],
   "additional_sections": [
     {
-      "title": "BINDUSARA",
-      "content_md": "Bindusara succeeded his father, Chandragupta Maurya. The Greek historian Athenacus calls him a 'slayer of foes'. He conquered many parts of South India after defeating sixteen rulers. During his rule he faced a revolt in Takshila. It was quelled by his second son Ashoka, who was the governor there. Bindusara maintained friendly relations with the rulers of Greece."
+      "title": "Civil Administration",
+      "content_md": "Civil Administration: The Civil administration had two main divisions—the Central Government and the Provincial Government."
+    },
+    {
+      "title": "(i) Central Government",
+      "content_md": "(i) Central Government: The Mauryan government was centralised and was managed by several officers of different ranks. The king was the supreme authority and his throne was hereditary. He was also the supreme judge. Megasthenes, the Greek ambassador at the court of Chandragupta Maurya, in his book Indica and Chanakya in the Arthashastra, tell us about the Mauryan administration.\nAshoka brought about some changes in the administrative system of Chandragupta Maurya. He appointed Mahamatras (governors) to look after the welfare of his subjects.\nAt the central level, the king was assisted by the council of ministers (Mantri Parishad) headed by the Prime Minister. Each minister was responsible for his department. The council of ministers included the chief Pujari of the state called Purohit; Senapati, who advised the king on matters related to war and peace; the head treasurer called Sannidhata; and Samaharta, the taxation expert. The other important officers were Accountant General, one incharge of agriculture, Superintendent of mines, Superintendent of Ports, Controller of Commerce, as well as the Superintendent of Weights and Measures."
+    },
+    {
+      "title": "(ii) Provincial Government",
+      "content_md": "(ii) Provincial Government: Ashoka made alterations only in the central government and not in the provincial government. During his grandfather's time there were four provinces and after the addition of Kalinga in Ashoka's time, there were five provinces as shown below:\n\n| Province | Capital |\n| :--- | :--- |\n| 1. Magadha | Pataliputra |\n| 2. Gandhara (North-western Province) | Takshila |\n| 3. Avanti (Eastern Province) | Ujjain |\n| 4. Southern Province | Swarnagiri |\n| 5. Kalinga | Tosali |\n\nHead of the province was called Kumar or Aryaputra. Only the princes were appointed to this position. During Ashoka's time the Kumar was assisted by the Governor (Mahamatra). According to some rock and pillar edicts of Ashoka, besides the Mahamatra, other officers took active part in the administration of the provinces. Pradeshika collected taxes. Rajuka performed the functions of modern day Tehsildar or revenue officer. The Yukta was the treasurer."
+    },
+    {
+      "title": "(iii) District Administration",
+      "content_md": "(iii) District Administration: The provinces were divided into districts called Janapadas. Their administration was looked after by Pradeshika, Rajuka and Yukta."
+    },
+    {
+      "title": "(iv) Administration of Cities",
+      "content_md": "(iv) Administration of Cities: Important cities, the capitals of provinces as given earlier, had their own administrative system. The head of the city was called Nagaradhyaksha. According to Megasthenes, the administration of Pataliputra, the capital city of the Mauryan empire was looked after by a committee of 30 members."
+    },
+    {
+      "title": "(v) The Revenue System",
+      "content_md": "(v) The Revenue System: The land revenue was the chief source of income in the Mauryan empire. It was one-sixth to one-fourth of the produce. Two kinds of taxes, namely Bali and Bhaga are mentioned in the Edicts of Ashoka. Bhaga was levied on agricultural produce and the cattle at the rate of one-sixth. According to historians Vincent Smith and Shamashastri, Bali was a religious tribute.\nToll tax was imposed on articles which were brought for sale. Taxes were levied on liquor shops and gambling houses. Some taxes were collected from forests and mines. From the revenue collected, the state provided various facilities like roads, irrigation, hospitals and met other expenses of the state."
+    },
+    {
+      "title": "(vi) The Spy System",
+      "content_md": "(vi) The Spy System: Chandragupta Maurya had a wide network of spies in his empire. There were spies against the spies and on important matters more than one agent was asked to collect information. The king was always kept informed of the working of the bureaucracy."
+    },
+    {
+      "title": "(vii) Military Administration",
+      "content_md": "(vii) Military Administration: Chandragupta Maurya maintained a huge army consisting of infantry, cavalry, elephants and chariots. According to Megasthenes the Mauryan Army consisted of 6,00,000 infantry, 30,000 cavalry, and 9000 war-elephants. According to another source, the Mauryas maintained 8000 chariots. The chief weapons used were bows, arrows, shields, swords, etc.\nThe king was the commander-in-chief of the army. The whole army was under a military commission of thirty members. The Mauryas also had a well-laid recruitment policy. The soldiers were paid salary in cash. The Mauryan king had built forts at strategic places for safety and security of the empire."
     }
   ],
-  "needs_review": [
-    "The Mauryan Empire",
-    "Sources: Arthashastra, Indika, Ashokan Edicts, Sanchi Stupa.",
-    "Political history and administration (Chandragupta Maurya and Ashoka); Ashoka's Dhamma."
-  ],
+  "needs_review": [],
   "manifest": {
     "syllabus_leaves": [
-      {
-        "path": "SYLLABUS > The Mauryan Empire",
-        "path_titles": [
-          "SYLLABUS",
-          "The Mauryan Empire"
-        ],
-        "title": "The Mauryan Empire",
-        "sequence_number": 1,
-        "depth": 1,
-        "level_label": "Topic",
-        "has_notes": false
-      },
-      {
-        "path": "SYLLABUS > Sources: Arthashastra, Indika, Ashokan Edicts, Sanchi Stupa.",
-        "path_titles": [
-          "SYLLABUS",
-          "Sources: Arthashastra, Indika, Ashokan Edicts, Sanchi Stupa."
-        ],
-        "title": "Sources: Arthashastra, Indika, Ashokan Edicts, Sanchi Stupa.",
-        "sequence_number": 2,
-        "depth": 1,
-        "level_label": "Topic",
-        "has_notes": false
-      },
-      {
-        "path": "SYLLABUS > Political history and administration (Chandragupta Maurya and Ashoka); Ashoka's Dhamma.",
-        "path_titles": [
-          "SYLLABUS",
-          "Political history and administration (Chandragupta Maurya and Ashoka); Ashoka's Dhamma."
-        ],
-        "title": "Political history and administration (Chandragupta Maurya and Ashoka); Ashoka's Dhamma.",
-        "sequence_number": 3,
-        "depth": 1,
-        "level_label": "Topic",
-        "has_notes": false
-      },
       {
         "path": "THE MAURYAS",
         "path_titles": [
           "THE MAURYAS"
         ],
         "title": "THE MAURYAS",
-        "sequence_number": 2,
+        "sequence_number": 1,
         "depth": 0,
         "level_label": "Section",
         "has_notes": true
@@ -888,447 +512,88 @@
         "has_notes": true
       },
       {
-        "path": "THE MAURYAN EMPIRE > ASHOKA",
+        "path": "THE MAURYAN EMPIRE > ASHOKA > Kalinga War",
         "path_titles": [
           "THE MAURYAN EMPIRE",
-          "ASHOKA"
-        ],
-        "title": "ASHOKA",
-        "sequence_number": 3,
-        "depth": 1,
-        "level_label": "Topic",
-        "has_notes": true
-      },
-      {
-        "path": "THE MAURYAN EMPIRE > Kalinga War",
-        "path_titles": [
-          "THE MAURYAN EMPIRE",
+          "ASHOKA",
           "Kalinga War"
         ],
         "title": "Kalinga War",
-        "sequence_number": 4,
-        "depth": 1,
-        "level_label": "Topic",
-        "has_notes": true
-      },
-      {
-        "path": "THE MAURYAN EMPIRE > Consequences of Kalinga War > (i) The death and destruction caused by the Kalinga war brought about a great change in the personal and political life of Ashoka.",
-        "path_titles": [
-          "THE MAURYAN EMPIRE",
-          "Consequences of Kalinga War",
-          "(i) The death and destruction caused by the Kalinga war brought about a great change in the personal and political life of Ashoka."
-        ],
-        "title": "(i) The death and destruction caused by the Kalinga war brought about a great change in the personal and political life of Ashoka.",
         "sequence_number": 1,
         "depth": 2,
         "level_label": "Subtopic",
         "has_notes": true
       },
       {
-        "path": "THE MAURYAN EMPIRE > Consequences of Kalinga War > (ii) Kalinga changed Ashoka's personal life.",
+        "path": "THE MAURYAN EMPIRE > ASHOKA > Consequences of Kalinga War",
         "path_titles": [
           "THE MAURYAN EMPIRE",
-          "Consequences of Kalinga War",
-          "(ii) Kalinga changed Ashoka's personal life."
+          "ASHOKA",
+          "Consequences of Kalinga War"
         ],
-        "title": "(ii) Kalinga changed Ashoka's personal life.",
+        "title": "Consequences of Kalinga War",
         "sequence_number": 2,
         "depth": 2,
         "level_label": "Subtopic",
         "has_notes": true
       },
       {
-        "path": "THE MAURYAN EMPIRE > Consequences of Kalinga War > (iii) The prisoners of war were used for agricultural work.",
+        "path": "THE MAURYAN EMPIRE > ASHOKA > Extent of Ashoka's Empire",
         "path_titles": [
           "THE MAURYAN EMPIRE",
-          "Consequences of Kalinga War",
-          "(iii) The prisoners of war were used for agricultural work."
-        ],
-        "title": "(iii) The prisoners of war were used for agricultural work.",
-        "sequence_number": 3,
-        "depth": 2,
-        "level_label": "Subtopic",
-        "has_notes": true
-      },
-      {
-        "path": "THE MAURYAN EMPIRE > Consequences of Kalinga War > (iv) Ashoka himself went on tours to preach Buddhism to people.",
-        "path_titles": [
-          "THE MAURYAN EMPIRE",
-          "Consequences of Kalinga War",
-          "(iv) Ashoka himself went on tours to preach Buddhism to people."
-        ],
-        "title": "(iv) Ashoka himself went on tours to preach Buddhism to people.",
-        "sequence_number": 4,
-        "depth": 2,
-        "level_label": "Subtopic",
-        "has_notes": true
-      },
-      {
-        "path": "THE MAURYAN EMPIRE > Consequences of Kalinga War > (v) Ashoka, after the Kalinga War, embraced Buddhism and followed the Buddhist principles in his State Policy like non-violence and disapproval of empty rituals,",
-        "path_titles": [
-          "THE MAURYAN EMPIRE",
-          "Consequences of Kalinga War",
-          "(v) Ashoka, after the Kalinga War, embraced Buddhism and followed the Buddhist principles in his State Policy like non-violence and disapproval of empty rituals,"
-        ],
-        "title": "(v) Ashoka, after the Kalinga War, embraced Buddhism and followed the Buddhist principles in his State Policy like non-violence and disapproval of empty rituals,",
-        "sequence_number": 5,
-        "depth": 2,
-        "level_label": "Subtopic",
-        "has_notes": true
-      },
-      {
-        "path": "THE MAURYAN EMPIRE > Consequences of Kalinga War > (vi) He got erected several pillars and edicts to spread the teachings of Buddhism.",
-        "path_titles": [
-          "THE MAURYAN EMPIRE",
-          "Consequences of Kalinga War",
-          "(vi) He got erected several pillars and edicts to spread the teachings of Buddhism."
-        ],
-        "title": "(vi) He got erected several pillars and edicts to spread the teachings of Buddhism.",
-        "sequence_number": 6,
-        "depth": 2,
-        "level_label": "Subtopic",
-        "has_notes": true
-      },
-      {
-        "path": "THE MAURYAN EMPIRE > Consequences of Kalinga War > (vii) On account of abandonment of war there was a decline in military preparedness and efficiency.",
-        "path_titles": [
-          "THE MAURYAN EMPIRE",
-          "Consequences of Kalinga War",
-          "(vii) On account of abandonment of war there was a decline in military preparedness and efficiency."
-        ],
-        "title": "(vii) On account of abandonment of war there was a decline in military preparedness and efficiency.",
-        "sequence_number": 7,
-        "depth": 2,
-        "level_label": "Subtopic",
-        "has_notes": true
-      },
-      {
-        "path": "THE MAURYAN EMPIRE > Extent of Ashoka's Empire",
-        "path_titles": [
-          "THE MAURYAN EMPIRE",
+          "ASHOKA",
           "Extent of Ashoka's Empire"
         ],
         "title": "Extent of Ashoka's Empire",
-        "sequence_number": 6,
-        "depth": 1,
-        "level_label": "Topic",
-        "has_notes": true
-      },
-      {
-        "path": "MAURYAN ADMINISTRATION > Pan-Indian Character > (a) It marked the end of small states.",
-        "path_titles": [
-          "MAURYAN ADMINISTRATION",
-          "Pan-Indian Character",
-          "(a) It marked the end of small states."
-        ],
-        "title": "(a) It marked the end of small states.",
-        "sequence_number": 1,
-        "depth": 2,
-        "level_label": "Subtopic",
-        "has_notes": true
-      },
-      {
-        "path": "MAURYAN ADMINISTRATION > Pan-Indian Character > (b) It helped in establishing trade links with foreign countries.",
-        "path_titles": [
-          "MAURYAN ADMINISTRATION",
-          "Pan-Indian Character",
-          "(b) It helped in establishing trade links with foreign countries."
-        ],
-        "title": "(b) It helped in establishing trade links with foreign countries.",
-        "sequence_number": 2,
-        "depth": 2,
-        "level_label": "Subtopic",
-        "has_notes": true
-      },
-      {
-        "path": "MAURYAN ADMINISTRATION > Pan-Indian Character > (c) It made India strong and helped the Mauryan kings face foreign aggressions successfully.",
-        "path_titles": [
-          "MAURYAN ADMINISTRATION",
-          "Pan-Indian Character",
-          "(c) It made India strong and helped the Mauryan kings face foreign aggressions successfully."
-        ],
-        "title": "(c) It made India strong and helped the Mauryan kings face foreign aggressions successfully.",
         "sequence_number": 3,
         "depth": 2,
         "level_label": "Subtopic",
         "has_notes": true
       },
       {
-        "path": "MAURYAN ADMINISTRATION > Pan-Indian Character > (d) After Ashoka's victory over Kalinga, the era of conquests and wars was over.",
+        "path": "MAURYAN ADMINISTRATION > Pan-Indian Character",
         "path_titles": [
           "MAURYAN ADMINISTRATION",
-          "Pan-Indian Character",
-          "(d) After Ashoka's victory over Kalinga, the era of conquests and wars was over."
+          "Pan-Indian Character"
         ],
-        "title": "(d) After Ashoka's victory over Kalinga, the era of conquests and wars was over.",
-        "sequence_number": 4,
-        "depth": 2,
-        "level_label": "Subtopic",
-        "has_notes": true
-      },
-      {
-        "path": "MAURYAN ADMINISTRATION > Administration > (i) Ashoka added a new fifth_province, Kalinga in the existing four provinces, with Tosali as its capital.",
-        "path_titles": [
-          "MAURYAN ADMINISTRATION",
-          "Administration",
-          "(i) Ashoka added a new fifth_province, Kalinga in the existing four provinces, with Tosali as its capital."
-        ],
-        "title": "(i) Ashoka added a new fifth_province, Kalinga in the existing four provinces, with Tosali as its capital.",
-        "sequence_number": 1,
-        "depth": 2,
-        "level_label": "Subtopic",
-        "has_notes": true
-      },
-      {
-        "path": "MAURYAN ADMINISTRATION > Administration > (ii) The Mauryan centralised monarchy became a paternal despotism under Ashoka.",
-        "path_titles": [
-          "MAURYAN ADMINISTRATION",
-          "Administration",
-          "(ii) The Mauryan centralised monarchy became a paternal despotism under Ashoka."
-        ],
-        "title": "(ii) The Mauryan centralised monarchy became a paternal despotism under Ashoka.",
-        "sequence_number": 2,
-        "depth": 2,
-        "level_label": "Subtopic",
-        "has_notes": true
-      },
-      {
-        "path": "MAURYAN ADMINISTRATION > Administration > (iii) Ashoka simplified many rigorous practices related to administration regarding taxation and crop collection.",
-        "path_titles": [
-          "MAURYAN ADMINISTRATION",
-          "Administration",
-          "(iii) Ashoka simplified many rigorous practices related to administration regarding taxation and crop collection."
-        ],
-        "title": "(iii) Ashoka simplified many rigorous practices related to administration regarding taxation and crop collection.",
-        "sequence_number": 3,
-        "depth": 2,
-        "level_label": "Subtopic",
-        "has_notes": true
-      },
-      {
-        "path": "MAURYAN ADMINISTRATION > Administration > (iv) Ashoka appointed Mahamatras (Governors) to look after the welfare of his subjects.",
-        "path_titles": [
-          "MAURYAN ADMINISTRATION",
-          "Administration",
-          "(iv) Ashoka appointed Mahamatras (Governors) to look after the welfare of his subjects."
-        ],
-        "title": "(iv) Ashoka appointed Mahamatras (Governors) to look after the welfare of his subjects.",
-        "sequence_number": 4,
-        "depth": 2,
-        "level_label": "Subtopic",
-        "has_notes": true
-      },
-      {
-        "path": "MAURYAN ADMINISTRATION > Civil Administration",
-        "path_titles": [
-          "MAURYAN ADMINISTRATION",
-          "Civil Administration"
-        ],
-        "title": "Civil Administration",
-        "sequence_number": 3,
-        "depth": 1,
-        "level_label": "Topic",
-        "has_notes": true
-      },
-      {
-        "path": "MAURYAN ADMINISTRATION > (i) Central Government",
-        "path_titles": [
-          "MAURYAN ADMINISTRATION",
-          "(i) Central Government"
-        ],
-        "title": "(i) Central Government",
-        "sequence_number": 4,
-        "depth": 1,
-        "level_label": "Topic",
-        "has_notes": true
-      },
-      {
-        "path": "MAURYAN ADMINISTRATION > (ii) Provincial Government",
-        "path_titles": [
-          "MAURYAN ADMINISTRATION",
-          "(ii) Provincial Government"
-        ],
-        "title": "(ii) Provincial Government",
-        "sequence_number": 5,
-        "depth": 1,
-        "level_label": "Topic",
-        "has_notes": true
-      },
-      {
-        "path": "MAURYAN ADMINISTRATION > (iii) District Administration",
-        "path_titles": [
-          "MAURYAN ADMINISTRATION",
-          "(iii) District Administration"
-        ],
-        "title": "(iii) District Administration",
-        "sequence_number": 6,
-        "depth": 1,
-        "level_label": "Topic",
-        "has_notes": true
-      },
-      {
-        "path": "MAURYAN ADMINISTRATION > (iv) Administration of Cities",
-        "path_titles": [
-          "MAURYAN ADMINISTRATION",
-          "(iv) Administration of Cities"
-        ],
-        "title": "(iv) Administration of Cities",
-        "sequence_number": 7,
-        "depth": 1,
-        "level_label": "Topic",
-        "has_notes": true
-      },
-      {
-        "path": "MAURYAN ADMINISTRATION > (v) The Revenue System",
-        "path_titles": [
-          "MAURYAN ADMINISTRATION",
-          "(v) The Revenue System"
-        ],
-        "title": "(v) The Revenue System",
-        "sequence_number": 8,
-        "depth": 1,
-        "level_label": "Topic",
-        "has_notes": true
-      },
-      {
-        "path": "MAURYAN ADMINISTRATION > (vi) The Spy System",
-        "path_titles": [
-          "MAURYAN ADMINISTRATION",
-          "(vi) The Spy System"
-        ],
-        "title": "(vi) The Spy System",
-        "sequence_number": 9,
-        "depth": 1,
-        "level_label": "Topic",
-        "has_notes": true
-      },
-      {
-        "path": "MAURYAN ADMINISTRATION > (vii) Military Administration",
-        "path_titles": [
-          "MAURYAN ADMINISTRATION",
-          "(vii) Military Administration"
-        ],
-        "title": "(vii) Military Administration",
-        "sequence_number": 10,
-        "depth": 1,
-        "level_label": "Topic",
-        "has_notes": true
-      },
-      {
-        "path": "ASHOKA'S DHAMMA",
-        "path_titles": [
-          "ASHOKA'S DHAMMA"
-        ],
-        "title": "ASHOKA'S DHAMMA",
-        "sequence_number": 6,
-        "depth": 0,
-        "level_label": "Section",
-        "has_notes": true
-      },
-      {
-        "path": "Principles of Dhamma > (i) Respect for elders and love for children.",
-        "path_titles": [
-          "Principles of Dhamma",
-          "(i) Respect for elders and love for children."
-        ],
-        "title": "(i) Respect for elders and love for children.",
+        "title": "Pan-Indian Character",
         "sequence_number": 1,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "Principles of Dhamma > (ii) Ahimsa or non-violence.",
+        "path": "MAURYAN ADMINISTRATION > Administration",
         "path_titles": [
-          "Principles of Dhamma",
-          "(ii) Ahimsa or non-violence."
+          "MAURYAN ADMINISTRATION",
+          "Administration"
         ],
-        "title": "(ii) Ahimsa or non-violence.",
+        "title": "Administration",
         "sequence_number": 2,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "Principles of Dhamma > (iii) Good deeds or good karma would give happiness to man in the next birth.",
+        "path": "ASHOKA'S DHAMMA > Principles of Dhamma",
         "path_titles": [
-          "Principles of Dhamma",
-          "(iii) Good deeds or good karma would give happiness to man in the next birth."
+          "ASHOKA'S DHAMMA",
+          "Principles of Dhamma"
         ],
-        "title": "(iii) Good deeds or good karma would give happiness to man in the next birth.",
-        "sequence_number": 3,
-        "depth": 1,
-        "level_label": "Topic",
-        "has_notes": true
-      },
-      {
-        "path": "Principles of Dhamma > (iv) He taught people to respect all religions.",
-        "path_titles": [
-          "Principles of Dhamma",
-          "(iv) He taught people to respect all religions."
-        ],
-        "title": "(iv) He taught people to respect all religions.",
-        "sequence_number": 4,
-        "depth": 1,
-        "level_label": "Topic",
-        "has_notes": true
-      },
-      {
-        "path": "Principles of Dhamma > (v) He disapproved empty rituals.",
-        "path_titles": [
-          "Principles of Dhamma",
-          "(v) He disapproved empty rituals."
-        ],
-        "title": "(v) He disapproved empty rituals.",
-        "sequence_number": 5,
-        "depth": 1,
-        "level_label": "Topic",
-        "has_notes": true
-      },
-      {
-        "path": "MPACT OF DHAMMA ON SHOKA'S IMPERIAL POLICY > (i) Religious unity",
-        "path_titles": [
-          "MPACT OF DHAMMA ON SHOKA'S IMPERIAL POLICY",
-          "(i) Religious unity"
-        ],
-        "title": "(i) Religious unity",
+        "title": "Principles of Dhamma",
         "sequence_number": 1,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "MPACT OF DHAMMA ON SHOKA'S IMPERIAL POLICY > (ii) Moral values",
+        "path": "ASHOKA'S DHAMMA > MPACT OF DHAMMA ON\nSHOKA'S IMPERIAL POLICY",
         "path_titles": [
-          "MPACT OF DHAMMA ON SHOKA'S IMPERIAL POLICY",
-          "(ii) Moral values"
+          "ASHOKA'S DHAMMA",
+          "MPACT OF DHAMMA ON\nSHOKA'S IMPERIAL POLICY"
         ],
-        "title": "(ii) Moral values",
+        "title": "MPACT OF DHAMMA ON\nSHOKA'S IMPERIAL POLICY",
         "sequence_number": 2,
-        "depth": 1,
-        "level_label": "Topic",
-        "has_notes": true
-      },
-      {
-        "path": "MPACT OF DHAMMA ON SHOKA'S IMPERIAL POLICY > (iii) End of orimes",
-        "path_titles": [
-          "MPACT OF DHAMMA ON SHOKA'S IMPERIAL POLICY",
-          "(iii) End of orimes"
-        ],
-        "title": "(iii) End of orimes",
-        "sequence_number": 3,
-        "depth": 1,
-        "level_label": "Topic",
-        "has_notes": true
-      },
-      {
-        "path": "MPACT OF DHAMMA ON SHOKA'S IMPERIAL POLICY > (iv) Public welfare",
-        "path_titles": [
-          "MPACT OF DHAMMA ON SHOKA'S IMPERIAL POLICY",
-          "(iv) Public welfare"
-        ],
-        "title": "(iv) Public welfare",
-        "sequence_number": 4,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
@@ -1336,8 +601,50 @@
     ],
     "stray_leaves": [
       {
-        "title": "BINDUSARA",
-        "insert_after_index": 13,
+        "title": "Civil Administration",
+        "insert_after_index": 17,
+        "micro_topics": [],
+        "has_notes": true
+      },
+      {
+        "title": "(i) Central Government",
+        "insert_after_index": 17,
+        "micro_topics": [],
+        "has_notes": true
+      },
+      {
+        "title": "(ii) Provincial Government",
+        "insert_after_index": 17,
+        "micro_topics": [],
+        "has_notes": true
+      },
+      {
+        "title": "(iii) District Administration",
+        "insert_after_index": 17,
+        "micro_topics": [],
+        "has_notes": true
+      },
+      {
+        "title": "(iv) Administration of Cities",
+        "insert_after_index": 17,
+        "micro_topics": [],
+        "has_notes": true
+      },
+      {
+        "title": "(v) The Revenue System",
+        "insert_after_index": 17,
+        "micro_topics": [],
+        "has_notes": true
+      },
+      {
+        "title": "(vi) The Spy System",
+        "insert_after_index": 17,
+        "micro_topics": [],
+        "has_notes": true
+      },
+      {
+        "title": "(vii) Military Administration",
+        "insert_after_index": 17,
         "micro_topics": [],
         "has_notes": true
       }

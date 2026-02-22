@@ -1,7 +1,7 @@
 {
   "name": "study-notes-generate",
   "version": "1.0.0",
-  "description": "Generate one concise Markdown study-note file per chapter from PDF + syllabus. See docs/STUDY_NOTE_GENERATION.md.",
+  "description": "Generate one concise Markdown study-note file per chapter from PDF + syllabus or from published DB (note_blocks). See docs/STUDY_NOTE_GENERATION.md.",
   "type": "module",
   "scripts": {
     "generate": "node generate-study-notes.mjs"
@@ -9,6 +9,7 @@
   "dependencies": {
     "dotenv": "^16.4.0",
     "@google/genai": "^1.0.0",
-    "pdf-lib": "^1.17.1"
+    "pdf-lib": "^1.17.1",
+    "pg": "^8.11.0"
   }
 }

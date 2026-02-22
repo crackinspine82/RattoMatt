@@ -76,14 +76,15 @@
       "has_notes": true
     },
     {
-      "path": "INVENTION OF THE PRINTING PRESS",
+      "path": "CAUSES OF RENAISSANCE > INVENTION OF THE PRINTING PRESS",
       "path_titles": [
+        "CAUSES OF RENAISSANCE",
         "INVENTION OF THE PRINTING PRESS"
       ],
       "title": "INVENTION OF THE PRINTING PRESS",
-      "sequence_number": 2,
-      "depth": 0,
-      "level_label": "Section",
+      "sequence_number": 5,
+      "depth": 1,
+      "level_label": "Topic",
       "has_notes": true
     },
     {
@@ -123,39 +124,14 @@
       "has_notes": true
     },
     {
-      "path": "Beginning of Renaissance > ",
+      "path": "Beginning of Renaissance",
       "path_titles": [
-        "Beginning of Renaissance",
-        ""
+        "Beginning of Renaissance"
       ],
-      "title": "",
-      "sequence_number": 1,
-      "depth": 1,
-      "level_label": "Topic",
-      "has_notes": true
-    },
-    {
-      "path": "Beginning of Renaissance > ",
-      "path_titles": [
-        "Beginning of Renaissance",
-        ""
-      ],
-      "title": "",
-      "sequence_number": 2,
-      "depth": 1,
-      "level_label": "Topic",
-      "has_notes": true
-    },
-    {
-      "path": "Beginning of Renaissance > ",
-      "path_titles": [
-        "Beginning of Renaissance",
-        ""
-      ],
-      "title": "",
+      "title": "Beginning of Renaissance",
       "sequence_number": 3,
-      "depth": 1,
-      "level_label": "Topic",
+      "depth": 0,
+      "level_label": "Section",
       "has_notes": true
     },
     {
@@ -195,15 +171,29 @@
       "has_notes": true
     },
     {
-      "path": "IMPACT OF RENAISSANCE > LITERATURE",
+      "path": "IMPACT OF RENAISSANCE > LITERATURE > Literature in Italy",
       "path_titles": [
         "IMPACT OF RENAISSANCE",
-        "LITERATURE"
+        "LITERATURE",
+        "Literature in Italy"
       ],
-      "title": "LITERATURE",
-      "sequence_number": 4,
-      "depth": 1,
-      "level_label": "Topic",
+      "title": "Literature in Italy",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "IMPACT OF RENAISSANCE > LITERATURE > Literature in England",
+      "path_titles": [
+        "IMPACT OF RENAISSANCE",
+        "LITERATURE",
+        "Literature in England"
+      ],
+      "title": "Literature in England",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
       "has_notes": true
     },
     {
@@ -219,12 +209,12 @@
       "has_notes": true
     },
     {
-      "path": "CONSEQUENCES OF RENAISSANCE > Ded to the Reformation Movement in Europe",
+      "path": "CONSEQUENCES OF RENAISSANCE > Led to the Reformation Movement in Europe",
       "path_titles": [
         "CONSEQUENCES OF RENAISSANCE",
-        "Ded to the Reformation Movement in Europe"
+        "Led to the Reformation Movement in Europe"
       ],
-      "title": "Ded to the Reformation Movement in Europe",
+      "title": "Led to the Reformation Movement in Europe",
       "sequence_number": 1,
       "depth": 1,
       "level_label": "Topic",
@@ -315,12 +305,5 @@
       "has_notes": true
     }
   ],
-  "stray_leaves": [
-    {
-      "title": "Definition of Renaissance",
-      "insert_after_index": 0,
-      "micro_topics": [],
-      "has_notes": true
-    }
-  ]
+  "stray_leaves": []
 }

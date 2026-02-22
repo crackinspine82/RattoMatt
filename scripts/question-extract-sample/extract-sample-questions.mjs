@@ -2,9 +2,11 @@
 /**
  * Sample question extraction: for 2 History + 2 Civics chapters, generate
  * 2 questions per (question_type, difficulty_level) with model answer and rubric.
- * Uses notes JSON from study-notes-extract as context. Requires GEMINI_API_KEY.
+ * Uses notes JSON from study-notes-extract as context, or published DB (--from-db).
+ * Requires GEMINI_API_KEY. With --from-db requires DATABASE_URL (e.g. backend/.env).
  *
- * Run: node extract-sample-questions.mjs [--chapter=1|2] [--types=mcq_standard,short_answer] [--difficulties=1,2] [--dry-run]
+ * Run (file): node extract-sample-questions.mjs [--chapter=1|2] [--types=...] [--difficulties=1,2] [--dry-run]
+ * Run (DB):   node extract-sample-questions.mjs --from-db (--chapter-id=uuid | --grade=N --book=slug --chapter=N [--discipline=history|civics]) [--types=...] [--dry-run]
  * Output: out/sample_questions_Ch{N}_{discipline}.json
  */
 
@@ -18,6 +20,18 @@ const ROOT = path.resolve(__dirname, '../..');
 const DOCS = path.join(ROOT, 'docs');
 const NOTES_OUT = path.join(__dirname, '../study-notes-extract/out');
 const OUT_DIR = path.join(__dirname, 'out');
+
+// Load backend .env for DATABASE_URL when using --from-db
+try {
+  const backendEnv = path.join(ROOT, 'backend', '.env');
+  if (fs.existsSync(backendEnv)) {
+    const lines = fs.readFileSync(backendEnv, 'utf8').split('\n');
+    for (const line of lines) {
+      const m = line.match(/^\s*([A-Za-z_][A-Za-z0-9_]*)\s*=\s*(.*)$/);
+      if (m && !process.env[m[1]]) process.env[m[1]] = m[2].replace(/^["']|["']$/g, '').trim();
+    }
+  }
+} catch (_) {}
 
 const QUESTION_TYPES = [
   'mcq_standard',
@@ -40,6 +54,54 @@ const DIFFICULTY_TAGS = { 1: 'easy', 2: 'medium', 3: 'difficult', 4: 'complex' }
 const QUESTIONS_PER_CELL = 2;
 const DELAY_MS = 3000;
 const MAX_RETRIES = 3;
+
+function hasFromDb() {
+  return process.argv.includes('--from-db');
+}
+
+function getChapterIdArg() {
+  const arg = process.argv.find((a) => a.startsWith('--chapter-id='));
+  if (!arg) return null;
+  return arg.slice('--chapter-id='.length).trim() || null;
+}
+
+function getGradeArg() {
+  const arg = process.argv.find((a) => a.startsWith('--grade='));
+  if (!arg) return null;
+  const n = parseInt(arg.slice('--grade='.length).trim(), 10);
+  return Number.isFinite(n) ? n : null;
+}
+
+function getBookFilter() {
+  const arg = process.argv.find((a) => a.startsWith('--book='));
+  if (!arg) return null;
+  return arg.slice('--book='.length).trim() || null;
+}
+
+function getChapterNumArg() {
+  const arg = process.argv.find((a) => a.startsWith('--chapter='));
+  if (!arg) return null;
+  const n = parseInt(arg.slice('--chapter='.length).trim(), 10);
+  return Number.isFinite(n) ? n : null;
+}
+
+function getDisciplineArg() {
+  const arg = process.argv.find((a) => a.startsWith('--discipline='));
+  if (!arg) return null;
+  const d = arg.slice('--discipline='.length).trim().toLowerCase();
+  return d === 'history' || d === 'civics' ? d : null;
+}
+
+function loadPublications() {
+  const p = path.join(ROOT, 'docs', 'icse_publications.json');
+  const raw = fs.readFileSync(p, 'utf8');
+  return JSON.parse(raw).publications || [];
+}
+
+function stripHtmlToText(html) {
+  if (!html || typeof html !== 'string') return '';
+  return html.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
+}
 
 function getGeminiModel() {
   return process.env.GEMINI_MODEL?.trim() || 'gemini-2.0-flash';
@@ -190,14 +252,58 @@ Output format:
 }`;
 }
 
+async function runOneChapter(apiKey, notes, chapterNum, discipline, types, difficulties, dryRun, fileLabel) {
+  const items = [];
+  let cellIndex = 0;
+  const totalCells = types.length * difficulties.length;
+  for (const questionType of types) {
+    for (const difficultyLevel of difficulties) {
+      cellIndex++;
+      if (dryRun) {
+        console.log(`[dry-run] ${fileLabel} ${questionType} difficulty=${difficultyLevel}`);
+        items.push({
+          question_type: questionType,
+          difficulty_level: difficultyLevel,
+          difficulty_tag: DIFFICULTY_TAGS[difficultyLevel],
+          questions: [],
+        });
+        continue;
+      }
+      const prompt = buildPrompt(notes, questionType, difficultyLevel);
+      try {
+        const result = await runWithRetry(apiKey, prompt);
+        const questions = Array.isArray(result?.questions) ? result.questions.slice(0, QUESTIONS_PER_CELL) : [];
+        items.push({
+          question_type: questionType,
+          difficulty_level: difficultyLevel,
+          difficulty_tag: DIFFICULTY_TAGS[difficultyLevel],
+          questions: questions.map((q) => ({
+            question_text: q.question_text ?? '',
+            model_answer_text: q.model_answer_text ?? '',
+            rubric: q.rubric ?? {},
+          })),
+        });
+        console.log(`  ${fileLabel} ${questionType} d=${difficultyLevel} (${cellIndex}/${totalCells}) ok`);
+      } catch (err) {
+        console.error(`  ${fileLabel} ${questionType} d=${difficultyLevel} failed:`, err.message);
+        items.push({
+          question_type: questionType,
+          difficulty_level: difficultyLevel,
+          difficulty_tag: DIFFICULTY_TAGS[difficultyLevel],
+          questions: [],
+          error: err.message,
+        });
+      }
+      await delay(DELAY_MS);
+    }
+  }
+  return items;
+}
+
 async function main() {
   const apiKey = process.env.GEMINI_API_KEY?.trim();
   if (!apiKey) {
     console.error('Set GEMINI_API_KEY in .env');
-    process.exit(1);
-  }
-  if (!fs.existsSync(NOTES_OUT)) {
-    console.error('Notes dir not found:', NOTES_OUT);
     process.exit(1);
   }
   fs.mkdirSync(OUT_DIR, { recursive: true });
@@ -206,59 +312,88 @@ async function main() {
   const typesFilter = getTypesFilter();
   const difficultiesFilter = getDifficultiesFilter();
   const dryRun = process.argv.includes('--dry-run');
-
-  const list = listNotesFiles();
   const types = typesFilter.length ? typesFilter : QUESTION_TYPES;
   const difficulties = difficultiesFilter.length ? difficultiesFilter : DIFFICULTY_LEVELS;
 
+  if (hasFromDb()) {
+    const { getPool, resolveChapter, loadNodesWithNoteBlocks } = await import('../shared/db-published.mjs');
+    const pool = getPool();
+    const chapterIdArg = getChapterIdArg();
+    let resolved;
+    if (chapterIdArg) {
+      resolved = await resolveChapter(pool, { chapterId: chapterIdArg });
+      if (!resolved) {
+        console.error('Chapter not found for --chapter-id');
+        process.exit(1);
+      }
+    } else {
+      const grade = getGradeArg();
+      const book = getBookFilter();
+      const chapterNum = getChapterNumArg();
+      const discipline = getDisciplineArg();
+      if (grade == null || !book || chapterNum == null) {
+        console.error('--from-db requires either --chapter-id=uuid or --grade=N --book=slug --chapter=N [--discipline=history|civics]');
+        process.exit(1);
+      }
+      const publications = loadPublications();
+      const pub = publications.find((p) => p.slug === book || p.name === book);
+      const subjectName = pub?.name ?? book;
+      resolved = await resolveChapter(pool, { board: 'ICSE', grade, subjectName, chapterNum, discipline });
+      if (!resolved) {
+        console.error('Chapter not found for given grade/book/chapter/discipline');
+        process.exit(1);
+      }
+    }
+    const nodes = await loadNodesWithNoteBlocks(pool, resolved.chapterId);
+    const bookSlug = getBookFilter() && loadPublications().find((p) => p.slug === getBookFilter()) ? getBookFilter() : (resolved.subjectName || '').replace(/\s+/g, '_');
+    const notes = {
+      board: 'ICSE',
+      grade: resolved.grade,
+      subject: resolved.subjectName,
+      book_slug: bookSlug || 'unknown',
+      chapter_title: resolved.chapterTitle,
+      chapter_sequence_number: resolved.sequenceNumber,
+      discipline: resolved.discipline ?? 'history',
+      nodes: nodes.map((n) => ({
+        title: n.title,
+        content_blocks: [{ content_md: stripHtmlToText(n.content_html) }],
+      })),
+    };
+    const nodeIdsForRoundRobin = nodes.map((n) => n.id);
+    const fileLabel = `Ch${resolved.sequenceNumber}_${notes.discipline}(from-db)`;
+    let items = await runOneChapter(apiKey, notes, resolved.sequenceNumber, notes.discipline, types, difficulties, dryRun, fileLabel);
+    if (nodeIdsForRoundRobin.length > 0) {
+      items = items.map((item, i) => ({ ...item, syllabus_node_id: nodeIdsForRoundRobin[i % nodeIdsForRoundRobin.length] }));
+    }
+    const out = {
+      board: notes.board,
+      grade: notes.grade,
+      subject: notes.subject,
+      book_slug: notes.book_slug,
+      book_meta: { book_name: notes.chapter_title || '' },
+      chapter_sequence_number: notes.chapter_sequence_number,
+      chapter_title: notes.chapter_title,
+      discipline: notes.discipline,
+      generated_at: new Date().toISOString(),
+      items,
+    };
+    const outFile = path.join(OUT_DIR, `sample_questions_Ch${String(notes.chapter_sequence_number).padStart(2, '0')}_${notes.discipline}.json`);
+    fs.writeFileSync(outFile, JSON.stringify(out, null, 2), 'utf8');
+    console.log('Wrote', outFile);
+    return;
+  }
+
+  if (!fs.existsSync(NOTES_OUT)) {
+    console.error('Notes dir not found:', NOTES_OUT);
+    process.exit(1);
+  }
+
+  const list = listNotesFiles();
   for (const { file, book_slug, chapterNum, discipline } of list) {
     if (chapterFilter != null && chapterNum !== chapterFilter) continue;
     const notesPath = path.join(NOTES_OUT, file);
     const notes = JSON.parse(fs.readFileSync(notesPath, 'utf8'));
-    const items = [];
-    let cellIndex = 0;
-    const totalCells = types.length * difficulties.length;
-    for (const questionType of types) {
-      for (const difficultyLevel of difficulties) {
-        cellIndex++;
-        if (dryRun) {
-          console.log(`[dry-run] ${file} ${questionType} difficulty=${difficultyLevel}`);
-          items.push({
-            question_type: questionType,
-            difficulty_level: difficultyLevel,
-            difficulty_tag: DIFFICULTY_TAGS[difficultyLevel],
-            questions: [],
-          });
-          continue;
-        }
-        const prompt = buildPrompt(notes, questionType, difficultyLevel);
-        try {
-          const result = await runWithRetry(apiKey, prompt);
-          const questions = Array.isArray(result?.questions) ? result.questions.slice(0, QUESTIONS_PER_CELL) : [];
-          items.push({
-            question_type: questionType,
-            difficulty_level: difficultyLevel,
-            difficulty_tag: DIFFICULTY_TAGS[difficultyLevel],
-            questions: questions.map((q) => ({
-              question_text: q.question_text ?? '',
-              model_answer_text: q.model_answer_text ?? '',
-              rubric: q.rubric ?? {},
-            })),
-          });
-          console.log(`  ${file} ${questionType} d=${difficultyLevel} (${cellIndex}/${totalCells}) ok`);
-        } catch (err) {
-          console.error(`  ${file} ${questionType} d=${difficultyLevel} failed:`, err.message);
-          items.push({
-            question_type: questionType,
-            difficulty_level: difficultyLevel,
-            difficulty_tag: DIFFICULTY_TAGS[difficultyLevel],
-            questions: [],
-            error: err.message,
-          });
-        }
-        await delay(DELAY_MS);
-      }
-    }
+    const items = await runOneChapter(apiKey, notes, chapterNum, discipline, types, difficulties, dryRun, file);
     const out = {
       board: notes.board,
       grade: notes.grade,

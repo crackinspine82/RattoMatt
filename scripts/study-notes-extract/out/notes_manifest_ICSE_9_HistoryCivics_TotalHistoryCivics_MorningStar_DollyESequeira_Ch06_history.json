@@ -92,57 +92,29 @@
       "has_notes": true
     },
     {
-      "path": "The Age of the Guptas > Gupta Administration > Provincial and Local Administration > Provincial Administration",
+      "path": "The Age of the Guptas > Gupta Administration > Provincial and Local Administration",
       "path_titles": [
         "The Age of the Guptas",
         "Gupta Administration",
-        "Provincial and Local Administration",
-        "Provincial Administration"
+        "Provincial and Local Administration"
       ],
-      "title": "Provincial Administration",
-      "sequence_number": 1,
-      "depth": 3,
-      "level_label": "Point",
-      "has_notes": true
-    },
-    {
-      "path": "The Age of the Guptas > Gupta Administration > Provincial and Local Administration > Village Administration",
-      "path_titles": [
-        "The Age of the Guptas",
-        "Gupta Administration",
-        "Provincial and Local Administration",
-        "Village Administration"
-      ],
-      "title": "Village Administration",
-      "sequence_number": 2,
-      "depth": 3,
-      "level_label": "Point",
-      "has_notes": true
-    },
-    {
-      "path": "The Age of the Guptas > Gupta Administration > Provincial and Local Administration > Town Administration",
-      "path_titles": [
-        "The Age of the Guptas",
-        "Gupta Administration",
-        "Provincial and Local Administration",
-        "Town Administration"
-      ],
-      "title": "Town Administration",
+      "title": "Provincial and Local Administration",
       "sequence_number": 3,
-      "depth": 3,
-      "level_label": "Point",
+      "depth": 2,
+      "level_label": "Subtopic",
       "has_notes": true
     },
     {
-      "path": "The Age of the Guptas > Feudal Nature of Polity",
+      "path": "The Age of the Guptas > Gupta Administration > Feudal Nature of Polity",
       "path_titles": [
         "The Age of the Guptas",
+        "Gupta Administration",
         "Feudal Nature of Polity"
       ],
       "title": "Feudal Nature of Polity",
       "sequence_number": 4,
-      "depth": 1,
-      "level_label": "Topic",
+      "depth": 2,
+      "level_label": "Subtopic",
       "has_notes": true
     },
     {
@@ -152,7 +124,7 @@
         "The Golden Age of Indian Culture"
       ],
       "title": "The Golden Age of Indian Culture",
-      "sequence_number": 5,
+      "sequence_number": 4,
       "depth": 1,
       "level_label": "Topic",
       "has_notes": true
@@ -171,29 +143,27 @@
       "has_notes": true
     },
     {
-      "path": "The Age of the Guptas > Science > Aryabhatta",
+      "path": "The Age of the Guptas > Science",
       "path_titles": [
         "The Age of the Guptas",
-        "Science",
-        "Aryabhatta"
+        "Science"
       ],
-      "title": "Aryabhatta",
-      "sequence_number": 1,
-      "depth": 2,
-      "level_label": "Subtopic",
+      "title": "Science",
+      "sequence_number": 6,
+      "depth": 1,
+      "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "The Age of the Guptas > Culture > The Vishnu Temple at Deogarh",
+      "path": "The Age of the Guptas > Culture",
       "path_titles": [
         "The Age of the Guptas",
-        "Culture",
-        "The Vishnu Temple at Deogarh"
+        "Culture"
       ],
-      "title": "The Vishnu Temple at Deogarh",
-      "sequence_number": 1,
-      "depth": 2,
-      "level_label": "Subtopic",
+      "title": "Culture",
+      "sequence_number": 7,
+      "depth": 1,
+      "level_label": "Topic",
       "has_notes": true
     },
     {
@@ -210,5 +180,18 @@
       "has_notes": true
     }
   ],
-  "stray_leaves": []
+  "stray_leaves": [
+    {
+      "title": "Aryabhatta",
+      "insert_after_index": 16,
+      "micro_topics": [],
+      "has_notes": true
+    },
+    {
+      "title": "The Vishnu Temple at Deogarh",
+      "insert_after_index": 17,
+      "micro_topics": [],
+      "has_notes": true
+    }
+  ]
 }

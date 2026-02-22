@@ -1,0 +1,1056 @@
+{
+  "board": "ICSE",
+  "grade": 10,
+  "subject": "HistoryCivics",
+  "book_slug": "TotalHistoryCivics_MorningStar_DollyESequeira",
+  "book_meta": {
+    "book_name": "Total History & Civics",
+    "publication": "Morning Star",
+    "author": "Dolly E. Sequeira"
+  },
+  "chapter_sequence_number": 4,
+  "chapter_title": "Second Phase of the Indian National Movement",
+  "discipline": "history",
+  "reconciliation": {
+    "outline": [
+      "CAUSES OF PARTITION OF BENGAL",
+      "THE ANTI-PARTITION MOVEMENT",
+      "People's Reaction",
+      "Impact of the Anti-Partition Movement",
+      "SURAT SPLIT OF 1907",
+      "THE ASSERTIVE NATIONALISTS",
+      "Causes for the Rise of Assertive Nationalism",
+      "Main Objective of Assertive Nationalists",
+      "Methods of Assertive Nationalists",
+      "The Repressive Measures of the Government",
+      "ACHIEVEMENTS OF ASSERTIVE NATIONALISTS",
+      "Home Rule Movement",
+      "LEADERS OF ASSERTIVE NATIONALISM",
+      "Bal Gangadhar Tilak (1856-1920)",
+      "His Contributions",
+      "Bipin Chandra Pal (1858-1932)",
+      "His Contributions",
+      "Lala Lajpat Rai (1865-1928)",
+      "His Contributions"
+    ],
+    "in_syllabus_only": [],
+    "in_pdf_only": [
+      {
+        "title": "The Repressive Measures of the Government",
+        "insert_after_index": 37,
+        "micro_topics": []
+      }
+    ],
+    "additional_sections": [
+      {
+        "title": "The Repressive Measures of the Government",
+        "content_md": "The Assertive Nationalists suffered most for the cause of freedom. Since the movement for boycott of British goods was gaining ground, the government launched a campaign of repression against the Assertive leaders. In 1908, Tilak was tried and sentenced to six years of imprisonment. He was sent to Mandalay prison in Burma (Myanmar). Other leaders like Lajpat Rai were deported to Burma without trial."
+      }
+    ]
+  },
+  "nodes": [
+    {
+      "title": "CAUSES OF PARTITION OF BENGAL",
+      "sequence_number": 1,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "Bengal was the nerve centre of Indian nationalism at that time.",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "1. **Bengal** was the **nerve centre of Indian nationalism** at that time. So the **British** hoped to stop the **rising tide of nationalism** by **partitioning Bengal**. Explaining the political purpose behind the partition, **Sir Herbert Risley**, the **Home Secretary to the Government**, said, “**Bengal united is a power**. **Bengal divided** will pull in several different ways..... One of our main objects is to **split up** and thereby to **weaken a solid body of opponents to our rule**.”"
+            }
+          ]
+        },
+        {
+          "title": "The Partition of the state was intended to curb Bengali influence.",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **Partition of the state** was intended to curb **Bengali influence** by not only placing Bengalis under **two administrations** but by reducing them to a **minority in Bengal** itself."
+            }
+          ]
+        },
+        {
+          "title": "The Partition was meant to foster division on the basis of religion.",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **Partition** was meant to foster division on the basis of **religion**. **East Bengal** would be predominantly a **Muslim majority** state and **West Bengal** would have a **Hindu majority**."
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    },
+    {
+      "title": "THE ANTI-PARTITION MOVEMENT",
+      "sequence_number": 2,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "People started a strong movement against the Partition, known as the **Anti-partition Movement**.\n\nThe **Partition of Bengal** led to a mighty upsurge which brought people and political leaders together. The **Indian National Congress** and the nationalists of Bengal opposed the Partition. Within Bengal, different sections of the population—**zamindars, merchants, lawyers, students and women**—rose up in opposition to the partition of their province.\n\nMany protest meetings were held by eminent leaders like **Surendranath Banerjee**, **Krishna Kumar Mitra**, **P.C. Ray**, **B.C. Pal** and **Ananda Mohan Bose**. The **Early Nationalists** and the **Assertive Nationalists** cooperated with one another during the course of the movement. The leaders condemned partition through newspapers like **Bengali**, **Hitabadi** and **Sanjibani**.\n\nThe **Anti-Partition Movement** was initiated on **August 7, 1905**. On that day, a massive demonstration against the Partition was organised from the Town Hall in Kolkata. From this meeting, the delegates dispersed to spread the movement to the rest of the province."
+        }
+      ]
+    },
+    {
+      "title": "People's Reaction",
+      "sequence_number": 3,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "The Partition came into effect on October 16, 1905.",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The scheme of the Partition of Bengal was implemented on **October 16, 1905**."
+            }
+          ]
+        },
+        {
+          "title": "The streets of Kolkata were full of the cries of 'Bande Mataram'",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The streets of Kolkata were full of the cries of **'Bande Mataram'**, composed by **Bankim Chandra Chattopadhyay**. It became the **theme song of the national movement**."
+            }
+          ]
+        },
+        {
+          "title": "Rabindranath Tagore composed the patriotic song, ‘Amar Sonar Bangla'",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**Rabindranath Tagore** composed the patriotic song, ‘**Amar Sonar Bangla**' (My Golden Bengal), for the occasion which was sung by huge crowds parading the streets."
+            }
+          ]
+        },
+        {
+          "title": "The ceremony of Raksha Bandhan was celebrated in a new way.",
+          "sequence_number": 4,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The ceremony of **Raksha Bandhan** was celebrated in a new way. **Hindus** and **Muslims** tied **rakhis** on one another's wrists as the symbol of **unbreakable unity** of the **Bengalis** and the two halves of Bengal."
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    },
+    {
+      "title": "Impact of the Anti-Partition Movement",
+      "sequence_number": 4,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "The Partition of Bengal along with the Anti-Partition Movement accelerated the Nationalist Movement",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "Lord Curzon \"had fired a very big gun but the recoil was tremendous”. A wave of indignation swept across the whole province and had the following impact:\n\n1.  The **Partition of Bengal** along with the **Anti-Partition Movement** accelerated the **Nationalist Movement** by spreading it among the general masses. The people rose in unity to resist, to suffer and to sacrifice.\n2.  The ideas of **Swadeshi** and **Boycott**, born of the popular feelings in 1905, took shape and it was realised that Swadeshi and Boycott were complementary and one would not succeed without the other. Swadeshi and Boycott were used as weapons of political agitation and a training in **self-sufficiency** for the attainment of **Swaraj**. British goods were burnt at public places and shops selling them were picketed. The spirit of Swadeshi spread to almost every walk of life—industries, education, culture, literature, etc.\n3.  The **Swadeshi Movement** not only played an important role in the growth of nationalism and patriotism among the masses but it also helped in the **revival of India's traditional and homegrown industries**. This in turn led to an increase in indigenous production and thereby helped in promoting India's economy. When indigenous manufactured products began to be sold in Indian markets, the price of British products dropped. All this helped in the revival of Indian economy.\n4.  A number of indigenous industries like soap and matchstick factories, textile mills, tanneries, banks, insurance companies and so on started growing and pushed the country towards achieving **self-sufficiency** and **self-reliance**.\n5.  The Partition of Bengal left a lasting legacy of **communal distrust and violence**. In fact, the British policy of **Divide and Rule** created a rift between two communities that persisted for decades and ultimately led to the tragic events during the partition of India in 1947.\n6.  The people lost their faith in the fair play and justice of the British. Lord Curzon refused to concede to the demands of annulling the partition. He said, “**Partition of Bengal is a settled fact and what is settled cannot be unsettled.**”\n7.  The Anti-Partition agitation backfired the plans of Lord Curzon. It gave added strength to the **National Movement**. The methods adopted by the Early Nationalists lost their appeal and gave an opportunity to the **Assertive Nationalists** to lead the National Movement.\n\nThe Partition of Bengal was **revoked in 1911**. A new scheme of Partition of Bengal was implemented on linguistic rather than on religious grounds. Hindi, Odiya (Oriya) and Assamese speaking areas were separated from Bengal. Thus, Bihar, Odisha and Assam became separate provinces. The administrative capital of British India was shifted from Kolkata to Delhi in 1911."
+            }
+          ]
+        },
+        {
+          "title": "The ideas of Swadeshi and Boycott, born of the popular feelings in 1905, took shape",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The ideas of **Swadeshi** and **Boycott**, born of the popular feelings in 1905, took shape and it was realised that **Swadeshi** and **Boycott** were complementary and one would not succeed without the other. **Swadeshi** and **Boycott** were used as weapons of political agitation and a training in self-sufficiency for the attainment of **Swaraj**. British goods were burnt at public places and shops selling them were picketed. The spirit of **Swadeshi** spread to almost every walk of life—industries, education, culture, literature, etc."
+            }
+          ]
+        },
+        {
+          "title": "The Swadeshi Movement not only played an important role in the growth of nationalism and patriotism among the masses",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **Swadeshi Movement** not only played an important role in the growth of **nationalism** and **patriotism** among the masses but it also helped in the **revival of India's traditional and homegrown industries**. This in turn led to an increase in **indigenous production** and thereby helped in **promoting India's economy**. When indigenous manufactured products began to be sold in Indian markets, the price of British products dropped. All this helped in the **revival of Indian economy**."
+            }
+          ]
+        },
+        {
+          "title": "A number of indigenous industries like soap and matchstick factories, textile mills, tanneries, banks, insurance companies and so on started growing",
+          "sequence_number": 4,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "A number of **indigenous industries** like soap and matchstick factories, textile mills, tanneries, banks, insurance companies and so on started growing and pushed the country towards achieving **self-sufficiency** and **self-reliance**."
+            }
+          ]
+        },
+        {
+          "title": "The Partition of Bengal left a lasting legacy of communal distrust and violence.",
+          "sequence_number": 5,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **Partition of Bengal** left a lasting legacy of **communal distrust and violence**. In fact, the **British policy of Divide and Rule** created a rift between two communities that persisted for decades and ultimately led to the tragic events during the **partition of India in 1947**."
+            }
+          ]
+        },
+        {
+          "title": "The people lost their faith in the fair play and justice of the British.",
+          "sequence_number": 6,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The people lost their faith in the **fair play and justice of the British**. **Lord Curzon** refused to concede to the demands of annulling the partition. He said, **“Partition of Bengal is a settled fact and what is settled cannot be unsettled.”**"
+            }
+          ]
+        },
+        {
+          "title": "The Anti-Partition agitation backfired the plans of Lord Curzon.",
+          "sequence_number": 7,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **Anti-Partition agitation** backfired the plans of **Lord Curzon**. It gave added strength to the **National Movement**. The methods adopted by the **Early Nationalists** lost their appeal and gave an opportunity to the **Assertive Nationalists** to lead the National Movement."
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    },
+    {
+      "title": "SURAT SPLIT OF 1907",
+      "sequence_number": 5,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "The **Swadeshi movement** cast its shadow on the growing differences between the **Early Nationalists** and the **Assertive Nationalists**. The Assertive Nationalists wanted to extend the **Swadeshi** and **Boycott** to the rest of India and make it a vehicle for a full-fledged political mass struggle leading to **Swaraj**. The Early Nationalists, however, did not approve it for the whole of India and wanted it to be confined to Bengal only. The Early Nationalists did not want to extend open support to boycott which was in conflict with their policy of \"petition and persuasion”."
+        },
+        {
+          "content_md": "The Early Nationalists and the Assertive Nationalists sank their differences and passed a resolution at the **Calcutta session in 1906** condemning the Partition of Bengal. The dispute between the two wings of the Congress on the issue of Swadeshi, Swaraj and National Education was not resolved. There was also a disagreement over the candidature of the next President. Finally, **Dadabhai Naoroji**, who was respected by both the groups, became the President in 1906.\n\nIn the 1906 session, Dadabhai declared that **Swaraj** or self-government as it existed in Canada and Australia would be the goal of the Indians and the Swadeshi and Boycott Movements will have the support of the Congress."
+        },
+        {
+          "content_md": "The differences between the two sections continued. They surfaced again in the next session in **1907 at Surat**. The Assertive Nationalists proposed the name of **Lala Lajpat Rai** as President while the Early Nationalists proposed the name of **Rashbehari Ghosh**. When the session at Surat began in **December 1907** there was utter confusion. This led to the split in the Congress and the Assertive Nationalist leaders were expelled. For nine years they remained out of the Congress."
+        },
+        {
+          "content_md": "The split in the Congress was unfortunate because it gave an opportunity to the British to exploit the situation to their advantage. They adopted a policy of '**concession and repression**'—concession for the Early Nationalists as well as the Muslims and repression to the Assertive Nationalists.\n\nThe **Surat Split** also weakened the national movement. The Early Nationalists, however, were largely able to capture the Congress organisation and in the **Allahabad convention, held in April 1908**, the split was formalised."
+        }
+      ]
+    },
+    {
+      "title": "THE ASSERTIVE NATIONALISTS",
+      "sequence_number": 6,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "In the second phase of the national movement, there emerged a new and a younger group of leaders within the Congress who did not agree with the methods and ideology of the Early Nationalist leaders. These young leaders stood for complete **Swaraj** to be achieved by more self-reliant methods. They also wanted to have a mass-base for their movement. This group of leaders came to be known as **Assertive Nationalists**. They were so called because they had a different outlook that advocated active resistance to British imperialism. They condemned the British rule in India and held it responsible for the country's downfall. They called upon the people of India to make sacrifices for the sake of their country. Three prominent leaders of this group were **Bal Gangadhar Tilak**, **Lala Lajpat Rai** and **Bipin Chandra Pal**. They are famous as the **Lal-Bal-Pal trio**."
+        }
+      ]
+    },
+    {
+      "title": "Causes for the Rise of Assertive Nationalism",
+      "sequence_number": 7,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "Recognition of the True Nature of the British Rule:",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The efforts made by the **Early Nationalist leaders** through their writings, agitation and petitions to the British government, exposed the true character of the British rule in India. It was felt that the British rule was responsible for the **economic ruin of India** and her growing poverty. Some of the political events from **1892 to 1905**, such as the reduction in the number of Indian members in the **Calcutta Corporation** and the **restrictions on the press**, made Indians realise that instead of giving them more rights, the British were taking away even their few existing rights. All this convinced the Indians that India could not make progress unless **British imperialism** was replaced by a government run by them. Thus, the **Assertive Nationalist ideology** found favour with the masses."
+            }
+          ]
+        },
+        {
+          "title": "Failure of the Early Nationalists:",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The younger elements within the Congress were dissatisfied with the achievements of the **Early Nationalists**. They strongly criticised the methods of **peaceful constitutional agitation**. The **Assertive Nationalists** advocated the adoption of European assertive methods to face **British imperialism**. The **Early Nationalists** were loyal to the crown and their political objective was to improve their chances of getting seats in the central **Provincial legislatures** or **judicial services**. The **Assertive Nationalists** accused the **Early Nationalists** of limiting their activities to the middle class of the society. The failure of the **Early Nationalists** to get something substantial from the **British government** led to the demand for more vigorous political action using a radical approach.\n\n[Image: Aurobindo Ghose]"
+            }
+          ]
+        },
+        {
+          "title": "Worsening Economic Conditions:",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **evil economic consequences of foreign rule** was exposed towards the end of the 19th century when there were **famines**, which ravaged India from **1896 to 1900** and took a toll on over **ninety lakh lives**. The government did nothing to help the people. On the other hand, it spent a huge amount of money on the **Silver Jubilee celebrations of Queen Victoria's accession** to the throne."
+            },
+            {
+              "content_md": "These events revealed to the Indians their plight of utter helplessness. They attributed all this to **anti-national policies** followed by the British government. The **worsening economic condition** of the people and the **unjust and repressive policies** of the British provided a congenial atmosphere for the growth of **Assertive Nationalism**."
+            }
+          ]
+        },
+        {
+          "title": "Growing Consciousness Among Indians:",
+          "sequence_number": 4,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **nationalist writers and agitators** blamed the **British rule** for the **poverty of the people**. Leaders of this new ideology made all efforts to develop **self-respect** and **self-confidence** among the people. **Assertive Nationalist leaders** like **Aurobindo Ghose**, **Bal Gangadhar Tilak**, **Lala Lajpat Rai** and **Bipin Chandra Pal** asked the nationalists to rely on the abilities of the Indians. **Bipin Chandra Pal** reminded the people, '**Self-help and self-sacrifice** is the real force in the field of nationalism'."
+            }
+          ]
+        },
+        {
+          "title": "Need for Mass Action:",
+          "sequence_number": 5,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **Assertive Nationalist leaders** taught the people that the remedy to their sad condition lay in their own hands. This belief in **self-effort** created an urge for extending the national movement to the **masses**. **Swami Vivekananda** said, \"The only hope of India is from the masses. The upper classes are physically and morally dead.\" Thus, there was the realisation that only the masses could make the immense sacrifices needed to win freedom."
+            }
+          ]
+        },
+        {
+          "title": "Influence of International Events:",
+          "sequence_number": 6,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**Assertive Nationalism** was inspired by the examples of international events. For the first time, **Japan**, an Asian country, defeated **Russia**. **Italian forces** were defeated by the **Abyssinians** in **Ethiopia**. In **South Africa**, the **Boers** fought for three years (**1899-1902**) against the **British Empire**. In **Ireland** people were waging a full-scale **Home Rule agitation**. These events **broke the myth of the invincibility of the Europeans**. The Assertive Nationalists felt that the united masses could throw out the British yoke."
+            }
+          ]
+        },
+        {
+          "title": "Growth of Education and Unemployment:",
+          "sequence_number": 7,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The number of **educated Indians** increased considerably by the close of the **19th century**. Large numbers of them were employed in the administration on **low salaries**, while many others faced **unemployment**. Their **grievances** made them look critically at the **nature of the British rule**. These educated low paid or unemployed Indians became the **followers of Assertive Nationalism**."
+            }
+          ]
+        },
+        {
+          "title": "Ill-treatment of Indians Abroad:",
+          "sequence_number": 8,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "Indians had helped the British to develop their colonies in other parts of the world. But everywhere, especially in **South Africa**, Indians were subjected to **racial discrimination**. They were denied the **right to vote** and could not enter the hotels, clubs, buses or railway coaches reserved for the Whites. The discriminatory treatment meted out to the Indians in British colonies was resented by the Indians and led to the **rise of Assertive Nationalism**."
+            }
+          ]
+        },
+        {
+          "title": "Existence of a Nationalist School of Thought:",
+          "sequence_number": 9,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "A **school of nationalism** had existed in the country from almost the beginning of the national movement. This school was represented by leaders like **Rajnarain Bose** and **Ashwani Kumar Dutt** in Bengal and **Vishnu Shastri Chiplunkar** in Maharashtra. These nationalists found an opportunity to lead the **second stage of the national movement** at the dawn of the 20th century. The most outstanding Assertive leaders were **Lokmanya Tilak**, **Bipin Chandra Pal**, **Aurobindo Ghose** and **Lala Lajpat Rai**. These leaders considered no personal sacrifice too great for the good of their country. They declared **Swaraj** or **Independence** as the goal of the national movement and directed all their energy towards achieving the goal."
+            }
+          ]
+        },
+        {
+          "title": "Repressive Policies of Lord Curzon:",
+          "sequence_number": 10,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "Lord Curzon's seven-year rule in India was full of repressive measures. He refused to recognise India as a nation. He was not in favour of giving freedom to India because he believed that the English were destined to rule over India. Therefore, he took several repressive measures to crush **Indian Nationalism**. These measures included:\n\n*   The **Act of 1898** which made it an offence to provoke people against the British.\n*   **The Calcutta Corporation Act (1899)** which reduced the strength of elected members from India, thereby giving the British a majority.\n*   The **Official Secrets Act**.\n*   **The Indian Universities Act of 1904** which imposed strict official control over the Indian universities because Curzon considered them as the centres of nationalism.\n\nAll these measures created resentment in India."
+            }
+          ]
+        },
+        {
+          "title": "Partition of Bengal:",
+          "sequence_number": 11,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **Presidency of Bengal** was the most thickly populated province in British India. It comprised Bengal, Bihar, Odisha, Chota Nagpur and some other remote areas. It had a huge population of over 80 million. On **July 20, 1905** **Lord Curzon** announced the division of the province of Bengal into the following two provinces:"
+            },
+            {
+              "content_md": "1. **'Bengal'** which included the western districts of Bengal proper, Bihar and Odisha with a population of 54 million. **Calcutta (Kolkata)** was made its capital.\n2. **'Eastern Bengal and Assam'** which comprised the eastern districts of Bengal proper and Assam with a population of 31 million. **Dacca** was made the capital of the new province of Eastern Bengal and Assam."
+            },
+            {
+              "content_md": "The province of Eastern Bengal was dominated by **Bengali Muslims** and the Province of Bengal was dominated by a **non-Bengali population**—with 31 million non-Bengalis out of a total of 54 million. In both the provinces, the **Hindu-Bengali population** became a minority."
+            },
+            {
+              "content_md": "The scheme of the **Partition of Bengal** was implemented on **October 16, 1905**."
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    },
+    {
+      "title": "Main Objective of Assertive Nationalists",
+      "sequence_number": 8,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "The main objective of the Assertive Nationalists was the immediate attainment of '**Swaraj**'. This means **complete independence** and not just **self-government** as in the colonies of Australia, New Zealand, etc."
+        }
+      ]
+    },
+    {
+      "title": "Methods of Assertive Nationalists",
+      "sequence_number": 9,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "Swadeshi:",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**Swadeshi** means producing necessary items in one's own country and using them for one's use without being dependent on imported goods. The **Swadeshi** idea was popularised by occasional **bonfires of foreign cloth, salt and sugar**."
+            }
+          ]
+        },
+        {
+          "title": "Boycott:",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**Swadeshi** and **boycott** are two sides of the same coin. **Tilak** said, \"When you accept Swadeshi, you must boycott foreign goods\". **Economic boycott** of British goods and use of Swadeshi was designed to **encourage Indian industries** and provide the people with more opportunities for employment. It also proved as the most effective weapon for **harming British interests in India**. **Lala Lajpat Rai** said, \"We desire to turn our faces away from government house and turn them to huts of people. This is the spiritual significance of the boycott movement.\""
+            }
+          ]
+        },
+        {
+          "title": "National Education:",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "A **National scheme of education** was planned which was to replace that of **Government controlled universities and colleges**. The Assertive Nationalists tried to enlist the students in their service. When the British government threatened to take disciplinary action against the students, the national leaders advocated **national universities** that were free from government control. A large number of **national schools** were established in East Bengal. **Bengal National College** was set up at Kolkata and **Pachaiyappa National College** at Chennai. In Punjab, the **D.A.V Movement** made considerable effort in spreading education through various schools and colleges. Efforts were also made to give education a **national orientation** in the **vernacular languages**."
+            }
+          ]
+        },
+        {
+          "title": "Passive Resistance:",
+          "sequence_number": 4,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **Assertive leaders** believed in adopting the policy of **non-violent resistance** and **vigorous political action** to achieve their aims. They believed that political rights could not be won by an organisation which could not 'distinguish between begging rights and claiming them'. They, therefore, asked the people to refuse to cooperate with the government and to **boycott** government service, courts, schools and colleges. They advocated courage, self-confidence and a spirit of sacrifice to achieve their goal of **Swaraj**.\n\n[Image: Bonfire of Foreign Goods]"
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    },
+    {
+      "title": "ACHIEVEMENTS OF ASSERTIVE NATIONALISTS",
+      "sequence_number": 10,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "The Assertive Nationalists added a glorious chapter to the history of the national movement. They clarified its objectives, taught people self-confidence and self-reliance and prepared the social base of the movement to include the middle class, students, youth and women. Their achievements were the following:"
+        },
+        {
+          "content_md": "1. These leaders were able to **inculcate national pride** by extolling India's past. **Tilak** revived the **Ganapati and Shivaji festivals** to arouse national sentiments. Through his writings in **Mahratta** and the **Kesari** Tilak preached nationalism.\n2. They gave **new slogans** to the Indian nationalist movement like ‘**non-cooperation, passive resistance, mass agitation, and self-reliance**’.\n3. They spoke, wrote and edited newspapers in **vernacular languages** and thus, succeeded in conveying their message to a large number of people.\n4. Through their writings and speeches, they infused in the Indians the **spirit of active nationalism**. It was their efforts that produced a class of nationalists willing to sacrifice their lives and property for the sake of their country. They exposed the hollowness of the belief in the sense of justice and fair play of the British rulers.\n5. **Self-reliance** was promoted by setting up **Swadeshi stores** that sold Indian made goods. **Jamshedji Tata** established Iron and Steel industry despite the fact that the industry had a long gestation period. **Bengal Chemical Works** was set up during this phase. Even **Rabindranath Tagore** set up a **Swadeshi Bhandar**.\n6. They declared that what India needed was **total freedom** from foreign rule.\n7. Many new **educational institutions** were set up during the Swadeshi Movement. The **National Council of Education** was set up in **1906**. It later developed into **Jadavpur University**. Similarly **National College** was set up at Kolkata with **Sri Aurobindo Ghose** as its Principal.\n8. The Movement which had started from Bengal, soon **spread to other parts of the country**. Swadeshi and boycott of foreign goods assumed an **all-India character**.\n9. It was because of the efforts and sacrifices made by Assertive leaders that the **Partition of Bengal was annulled in 1911**. This gave fresh self-confidence to Indian nationalists."
+        }
+      ]
+    },
+    {
+      "title": "Home Rule Movement",
+      "sequence_number": 11,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "Due to the rift between the **Moderates** and the **Assertive Nationalists**, **Bal Gangadhar Tilak** and **Annie Besant** launched two different **Home Rule Leagues**. Tilak formed the League at **Belgaum (Karnataka)** in **April 1916**, whereas Annie Besant established it at **Madras (Chennai)** in **September 1916**. Although these were two separate leagues yet they collaborated with each other to achieve their goal of bringing **self-rule** to India without any international interference. In the process, both Tilak and Annie Besant awakened nationalism across India and laid the foundation for India's goal of achieving **self-governance**."
+        }
+      ]
+    },
+    {
+      "title": "LEADERS OF ASSERTIVE NATIONALISM",
+      "sequence_number": 12,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "Bal Gangadhar Tilak (1856-1920)",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**Bal Gangadhar Tilak** is known as the '**Father of the Assertive Nationalism**'. He played a leading role in popularising the cult of patriotism and making the Congress movement broad-based.\n\nTilak was born in Maharashtra. After taking his degree in Law he founded the **Poona New English School**. The **Deccan Education Society** was founded by him under **Justice Ranade's** guidance in 1884. Both Gokhale and Tilak were its members. The Society set up many educational institutions, including the famous **Fergusson College** at Pune."
+            }
+          ]
+        },
+        {
+          "title": "Bipin Chandra Pal (1858-1932)",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "Born in **Sylhet**, now a part of Bangladesh, in **1858**, **Bipin Chandra Pal** is known as the '**Father of the Revolutionary Thought in India**.' He started his political career as a social reformer attached to the **Brahmo Samaj**. He visited a number of European countries and the United States of America. It was during these visits that he observed how people resisted foreign domination. In **1886** he joined the **Indian National Congress**."
+            }
+          ]
+        },
+        {
+          "title": "Lala Lajpat Rai (1865-1928)",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "Lala Lajpat Rai was popularly known as **‘Punjab Kesari’** or **'Sher-e-Punjab'**. He was an eminent lawyer, prolific writer, enlightened educator, social reformer and a staunch fighter against the British rule. He was born at Dhudike, Jagraon in Punjab. He was influenced by the **Arya Samaj Movement**. Lord Curzon's ruthless measures forced him to fight the British rule through mass education. His speeches against the misrule of the British invited their wrath and he was arrested several times.\n\nHe joined the Congress in **1888** and remained its worker till the end of his life. He joined the **Assertive Nationalists** in **1907**. He carried on agitation against the agrarian policy of the British government. He was arrested and deported along with Sardar Ajit Singh to Mandalay.\n\nLalaji supported workers' movements and in **1920** became the first president of the **All India Trade Union Congress**. He was one of the first Indians to link **imperialism with capitalism**. This justified the need for the working class to join the national movement.\n\nIn **1920** he was elected president of the **Indian National Congress**. He became a member of the **Servants of India Society**.\n\nLalaji was arrested in **1922**, along with the other leaders. On his release, he joined Motilal Nehru and his **Swaraj Party**. In **1923** he was elected to the Central Legislative Assembly. He, however, left the Swaraj Party because he did not share its political philosophy."
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    }
+  ],
+  "additional_sections": [
+    {
+      "title": "The Repressive Measures of the Government",
+      "content_md": "The Assertive Nationalists suffered most for the cause of freedom. Since the movement for boycott of British goods was gaining ground, the government launched a campaign of repression against the Assertive leaders. In 1908, Tilak was tried and sentenced to six years of imprisonment. He was sent to Mandalay prison in Burma (Myanmar). Other leaders like Lajpat Rai were deported to Burma without trial."
+    }
+  ],
+  "needs_review": [],
+  "manifest": {
+    "syllabus_leaves": [
+      {
+        "path": "CAUSES OF PARTITION OF BENGAL > Bengal was the nerve centre of Indian nationalism at that time.",
+        "path_titles": [
+          "CAUSES OF PARTITION OF BENGAL",
+          "Bengal was the nerve centre of Indian nationalism at that time."
+        ],
+        "title": "Bengal was the nerve centre of Indian nationalism at that time.",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "CAUSES OF PARTITION OF BENGAL > The Partition of the state was intended to curb Bengali influence.",
+        "path_titles": [
+          "CAUSES OF PARTITION OF BENGAL",
+          "The Partition of the state was intended to curb Bengali influence."
+        ],
+        "title": "The Partition of the state was intended to curb Bengali influence.",
+        "sequence_number": 2,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "CAUSES OF PARTITION OF BENGAL > The Partition was meant to foster division on the basis of religion.",
+        "path_titles": [
+          "CAUSES OF PARTITION OF BENGAL",
+          "The Partition was meant to foster division on the basis of religion."
+        ],
+        "title": "The Partition was meant to foster division on the basis of religion.",
+        "sequence_number": 3,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "THE ANTI-PARTITION MOVEMENT",
+        "path_titles": [
+          "THE ANTI-PARTITION MOVEMENT"
+        ],
+        "title": "THE ANTI-PARTITION MOVEMENT",
+        "sequence_number": 2,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "People's Reaction > The Partition came into effect on October 16, 1905.",
+        "path_titles": [
+          "People's Reaction",
+          "The Partition came into effect on October 16, 1905."
+        ],
+        "title": "The Partition came into effect on October 16, 1905.",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "People's Reaction > The streets of Kolkata were full of the cries of 'Bande Mataram'",
+        "path_titles": [
+          "People's Reaction",
+          "The streets of Kolkata were full of the cries of 'Bande Mataram'"
+        ],
+        "title": "The streets of Kolkata were full of the cries of 'Bande Mataram'",
+        "sequence_number": 2,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "People's Reaction > Rabindranath Tagore composed the patriotic song, ‘Amar Sonar Bangla'",
+        "path_titles": [
+          "People's Reaction",
+          "Rabindranath Tagore composed the patriotic song, ‘Amar Sonar Bangla'"
+        ],
+        "title": "Rabindranath Tagore composed the patriotic song, ‘Amar Sonar Bangla'",
+        "sequence_number": 3,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "People's Reaction > The ceremony of Raksha Bandhan was celebrated in a new way.",
+        "path_titles": [
+          "People's Reaction",
+          "The ceremony of Raksha Bandhan was celebrated in a new way."
+        ],
+        "title": "The ceremony of Raksha Bandhan was celebrated in a new way.",
+        "sequence_number": 4,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Impact of the Anti-Partition Movement > The Partition of Bengal along with the Anti-Partition Movement accelerated the Nationalist Movement",
+        "path_titles": [
+          "Impact of the Anti-Partition Movement",
+          "The Partition of Bengal along with the Anti-Partition Movement accelerated the Nationalist Movement"
+        ],
+        "title": "The Partition of Bengal along with the Anti-Partition Movement accelerated the Nationalist Movement",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Impact of the Anti-Partition Movement > The ideas of Swadeshi and Boycott, born of the popular feelings in 1905, took shape",
+        "path_titles": [
+          "Impact of the Anti-Partition Movement",
+          "The ideas of Swadeshi and Boycott, born of the popular feelings in 1905, took shape"
+        ],
+        "title": "The ideas of Swadeshi and Boycott, born of the popular feelings in 1905, took shape",
+        "sequence_number": 2,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Impact of the Anti-Partition Movement > The Swadeshi Movement not only played an important role in the growth of nationalism and patriotism among the masses",
+        "path_titles": [
+          "Impact of the Anti-Partition Movement",
+          "The Swadeshi Movement not only played an important role in the growth of nationalism and patriotism among the masses"
+        ],
+        "title": "The Swadeshi Movement not only played an important role in the growth of nationalism and patriotism among the masses",
+        "sequence_number": 3,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Impact of the Anti-Partition Movement > A number of indigenous industries like soap and matchstick factories, textile mills, tanneries, banks, insurance companies and so on started growing",
+        "path_titles": [
+          "Impact of the Anti-Partition Movement",
+          "A number of indigenous industries like soap and matchstick factories, textile mills, tanneries, banks, insurance companies and so on started growing"
+        ],
+        "title": "A number of indigenous industries like soap and matchstick factories, textile mills, tanneries, banks, insurance companies and so on started growing",
+        "sequence_number": 4,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Impact of the Anti-Partition Movement > The Partition of Bengal left a lasting legacy of communal distrust and violence.",
+        "path_titles": [
+          "Impact of the Anti-Partition Movement",
+          "The Partition of Bengal left a lasting legacy of communal distrust and violence."
+        ],
+        "title": "The Partition of Bengal left a lasting legacy of communal distrust and violence.",
+        "sequence_number": 5,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Impact of the Anti-Partition Movement > The people lost their faith in the fair play and justice of the British.",
+        "path_titles": [
+          "Impact of the Anti-Partition Movement",
+          "The people lost their faith in the fair play and justice of the British."
+        ],
+        "title": "The people lost their faith in the fair play and justice of the British.",
+        "sequence_number": 6,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Impact of the Anti-Partition Movement > The Anti-Partition agitation backfired the plans of Lord Curzon.",
+        "path_titles": [
+          "Impact of the Anti-Partition Movement",
+          "The Anti-Partition agitation backfired the plans of Lord Curzon."
+        ],
+        "title": "The Anti-Partition agitation backfired the plans of Lord Curzon.",
+        "sequence_number": 7,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "SURAT SPLIT OF 1907",
+        "path_titles": [
+          "SURAT SPLIT OF 1907"
+        ],
+        "title": "SURAT SPLIT OF 1907",
+        "sequence_number": 5,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "THE ASSERTIVE NATIONALISTS",
+        "path_titles": [
+          "THE ASSERTIVE NATIONALISTS"
+        ],
+        "title": "THE ASSERTIVE NATIONALISTS",
+        "sequence_number": 6,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "Causes for the Rise of Assertive Nationalism > Recognition of the True Nature of the British Rule:",
+        "path_titles": [
+          "Causes for the Rise of Assertive Nationalism",
+          "Recognition of the True Nature of the British Rule:"
+        ],
+        "title": "Recognition of the True Nature of the British Rule:",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Causes for the Rise of Assertive Nationalism > Failure of the Early Nationalists:",
+        "path_titles": [
+          "Causes for the Rise of Assertive Nationalism",
+          "Failure of the Early Nationalists:"
+        ],
+        "title": "Failure of the Early Nationalists:",
+        "sequence_number": 2,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Causes for the Rise of Assertive Nationalism > Worsening Economic Conditions:",
+        "path_titles": [
+          "Causes for the Rise of Assertive Nationalism",
+          "Worsening Economic Conditions:"
+        ],
+        "title": "Worsening Economic Conditions:",
+        "sequence_number": 3,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Causes for the Rise of Assertive Nationalism > Growing Consciousness Among Indians:",
+        "path_titles": [
+          "Causes for the Rise of Assertive Nationalism",
+          "Growing Consciousness Among Indians:"
+        ],
+        "title": "Growing Consciousness Among Indians:",
+        "sequence_number": 4,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Causes for the Rise of Assertive Nationalism > Need for Mass Action:",
+        "path_titles": [
+          "Causes for the Rise of Assertive Nationalism",
+          "Need for Mass Action:"
+        ],
+        "title": "Need for Mass Action:",
+        "sequence_number": 5,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Causes for the Rise of Assertive Nationalism > Influence of International Events:",
+        "path_titles": [
+          "Causes for the Rise of Assertive Nationalism",
+          "Influence of International Events:"
+        ],
+        "title": "Influence of International Events:",
+        "sequence_number": 6,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Causes for the Rise of Assertive Nationalism > Growth of Education and Unemployment:",
+        "path_titles": [
+          "Causes for the Rise of Assertive Nationalism",
+          "Growth of Education and Unemployment:"
+        ],
+        "title": "Growth of Education and Unemployment:",
+        "sequence_number": 7,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Causes for the Rise of Assertive Nationalism > Ill-treatment of Indians Abroad:",
+        "path_titles": [
+          "Causes for the Rise of Assertive Nationalism",
+          "Ill-treatment of Indians Abroad:"
+        ],
+        "title": "Ill-treatment of Indians Abroad:",
+        "sequence_number": 8,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Causes for the Rise of Assertive Nationalism > Existence of a Nationalist School of Thought:",
+        "path_titles": [
+          "Causes for the Rise of Assertive Nationalism",
+          "Existence of a Nationalist School of Thought:"
+        ],
+        "title": "Existence of a Nationalist School of Thought:",
+        "sequence_number": 9,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Causes for the Rise of Assertive Nationalism > Repressive Policies of Lord Curzon:",
+        "path_titles": [
+          "Causes for the Rise of Assertive Nationalism",
+          "Repressive Policies of Lord Curzon:"
+        ],
+        "title": "Repressive Policies of Lord Curzon:",
+        "sequence_number": 10,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Causes for the Rise of Assertive Nationalism > Partition of Bengal:",
+        "path_titles": [
+          "Causes for the Rise of Assertive Nationalism",
+          "Partition of Bengal:"
+        ],
+        "title": "Partition of Bengal:",
+        "sequence_number": 11,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Main Objective of Assertive Nationalists",
+        "path_titles": [
+          "Main Objective of Assertive Nationalists"
+        ],
+        "title": "Main Objective of Assertive Nationalists",
+        "sequence_number": 8,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "Methods of Assertive Nationalists > Swadeshi:",
+        "path_titles": [
+          "Methods of Assertive Nationalists",
+          "Swadeshi:"
+        ],
+        "title": "Swadeshi:",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Methods of Assertive Nationalists > Boycott:",
+        "path_titles": [
+          "Methods of Assertive Nationalists",
+          "Boycott:"
+        ],
+        "title": "Boycott:",
+        "sequence_number": 2,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Methods of Assertive Nationalists > National Education:",
+        "path_titles": [
+          "Methods of Assertive Nationalists",
+          "National Education:"
+        ],
+        "title": "National Education:",
+        "sequence_number": 3,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Methods of Assertive Nationalists > Passive Resistance:",
+        "path_titles": [
+          "Methods of Assertive Nationalists",
+          "Passive Resistance:"
+        ],
+        "title": "Passive Resistance:",
+        "sequence_number": 4,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "ACHIEVEMENTS OF ASSERTIVE NATIONALISTS",
+        "path_titles": [
+          "ACHIEVEMENTS OF ASSERTIVE NATIONALISTS"
+        ],
+        "title": "ACHIEVEMENTS OF ASSERTIVE NATIONALISTS",
+        "sequence_number": 10,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "Home Rule Movement",
+        "path_titles": [
+          "Home Rule Movement"
+        ],
+        "title": "Home Rule Movement",
+        "sequence_number": 11,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "LEADERS OF ASSERTIVE NATIONALISM > Bal Gangadhar Tilak (1856-1920)",
+        "path_titles": [
+          "LEADERS OF ASSERTIVE NATIONALISM",
+          "Bal Gangadhar Tilak (1856-1920)"
+        ],
+        "title": "Bal Gangadhar Tilak (1856-1920)",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "LEADERS OF ASSERTIVE NATIONALISM > Bipin Chandra Pal (1858-1932)",
+        "path_titles": [
+          "LEADERS OF ASSERTIVE NATIONALISM",
+          "Bipin Chandra Pal (1858-1932)"
+        ],
+        "title": "Bipin Chandra Pal (1858-1932)",
+        "sequence_number": 2,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "LEADERS OF ASSERTIVE NATIONALISM > Lala Lajpat Rai (1865-1928)",
+        "path_titles": [
+          "LEADERS OF ASSERTIVE NATIONALISM",
+          "Lala Lajpat Rai (1865-1928)"
+        ],
+        "title": "Lala Lajpat Rai (1865-1928)",
+        "sequence_number": 3,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      }
+    ],
+    "stray_leaves": [
+      {
+        "title": "The Repressive Measures of the Government",
+        "insert_after_index": 37,
+        "micro_topics": [],
+        "has_notes": true
+      }
+    ]
+  }
+}

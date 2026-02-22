@@ -1,0 +1,2066 @@
+{
+  "board": "ICSE",
+  "grade": 10,
+  "subject": "HistoryCivics",
+  "book_slug": "TotalHistoryCivics_MorningStar_DollyESequeira",
+  "book_meta": {
+    "book_name": "Total History & Civics",
+    "publication": "Morning Star",
+    "author": "Dolly E. Sequeira"
+  },
+  "chapter_sequence_number": 6,
+  "chapter_title": "The High Courts and Subordinate Courts",
+  "discipline": "civics",
+  "reconciliation": {
+    "outline": [
+      "THE HIGH COURTS",
+      "Composition",
+      "Qualifications",
+      "Appointment of Judges",
+      "Conditions of Service",
+      "A. Retirement, Removal and Transfer",
+      "B. Salaries and Emoluments of Judges",
+      "C. Restrictions on Practice",
+      "D. Other Conditions",
+      "POWERS AND JURISDICTION OF HIGH COURT",
+      "Original Jurisdiction",
+      "Appellate Jurisdiction",
+      "Civil Cases",
+      "Criminal Cases",
+      "Advisory Jurisdiction",
+      "Revisory Jurisdiction",
+      "PUBLIC INTEREST LITIGATION (PIL)",
+      "Judicial Review",
+      "Court of Record",
+      "FUNCTIONS OF THE HIGH COURT",
+      "Settlement of Disputes",
+      "Original:",
+      "On Appeal:",
+      "Enforcement of Fundamental Rights (Power to Issue Writs)",
+      "*OTHER FUNCTIONS",
+      "1. High Court's Power of Superintendence",
+      "2. Administrative Functions",
+      "INDEPENDENCE OF THE HIGH COURT",
+      "SUBORDINATE COURTS",
+      "Structure and Composition",
+      "Civil Courts",
+      "1. The Court of the District Judge",
+      "2. Court of Civil Judge",
+      "3. Munsif's Courts",
+      "4. Courts of Small Causes",
+      "Term of Office",
+      "Administrative Control:",
+      "Appeals:",
+      "Criminal Courts",
+      "Classification of Criminal Courts",
+      "Sessions Court:",
+      "DIFFERENCES BETWEEN COURT OF THE DISTRICT JUDGE AND SESSIONS COURT",
+      "Court of Chief Metropolitan Magistrate or Chief Judicial Magistrate:",
+      "Court of the First Class Magistrates:",
+      "Court of the Second Class Magistrates:",
+      "Appeals",
+      "*COURTS OF REVENUE",
+      "1. Board of Revenue:",
+      "2. Commissioner's Court:",
+      "3. Collector's Court:",
+      "4. Tehsildar's Court:",
+      "5. Naib Tehsildar's Court:",
+      "LOK ADALATS",
+      "Types of Lok Adalats",
+      "National Lok Adalat:",
+      "Permanent Lok Adalat:",
+      "Mobile Lok Adalats:",
+      "Working of Lok Adalats",
+      "Advantages of Lok Adalats",
+      "Scope of Lok Adalats",
+      "Family Courts"
+    ],
+    "in_syllabus_only": [],
+    "in_pdf_only": [
+      {
+        "title": "Appeals:",
+        "insert_after_index": 37,
+        "micro_topics": []
+      },
+      {
+        "title": "DIFFERENCES BETWEEN COURT OF THE DISTRICT JUDGE AND SESSIONS COURT",
+        "insert_after_index": 40,
+        "micro_topics": [
+          "Court of the District Judge",
+          "Sessions Court"
+        ]
+      }
+    ],
+    "additional_sections": [
+      {
+        "title": "Appeals:",
+        "content_md": "Appeals: Appeals from the decree or order of a court lie in the next higher court. Therefore, an appeal from the decree or order of the Small Cause Court lies to the court of Sub-Judge or Munsif. Appeals from orders of the Sub-Judge lie to the Court of the Civil Judge (First Class). The appeals from the orders and judgements of the District Courts and the Additional District Courts lie to the High Court."
+      },
+      {
+        "title": "DIFFERENCES BETWEEN COURT OF THE DISTRICT JUDGE AND SESSIONS COURT",
+        "content_md": "| Court of the District Judge | Sessions Court |\n| :--- | :--- |\n| 1. It is the highest civil court of the district. | 1. It is highest criminal court of the district. |\n| 2. It is presided over by a District Judge. | 2. It is presided over by a Sessions Judge. |\n| 3. The District Judge and the Additional District Judges are appointed by the Governor in consultation with the Chief Justice of the High Court of the concerned State. | 3. The Sessions Judge and the Additional Sessions Judges are appointed by the Governor in consultation with the Chief Justice of the High Court of the concerned State. |\n| 4. The District Judge decides civil cases related to land, property, money transactions, arbitration, guardianship, marriage, divorce and will. | 4. The Sessions Judge decides criminal cases like murders, theft, dacoity, pick-pocketing, etc. |\n| 5. The District Judge acts as a Deputy Commissioner and District Collector and in this capacity he/ she maintains law and order and supervises the collection of revenue and taxes in the district. | 5. The Sessions Judge does not perform any administrative functions. |"
+      }
+    ]
+  },
+  "nodes": [
+    {
+      "title": "THE HIGH COURTS",
+      "sequence_number": 1,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "Composition",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "Each High Court consists of a **Chief Justice** and such other **Judges** as the **President of India** may appoint from time to time.\n\nBesides, the President has the power to appoint:\n1.  **additional judges** for a temporary period not exceeding two years, for the clearance of arrears of work in a High Court;\n2.  an **acting Judge**, when a permanent Judge (other than the Chief Justice) is temporarily absent or unable to perform his/her duties or is appointed to act temporarily as Chief Justice. The acting Judge holds office until the permanent Judge resumes his/her office."
+            }
+          ]
+        },
+        {
+          "title": "Qualifications",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "According to the **Constitution**, a person shall be qualified for appointment as a **Judge of a High Court** under the following conditions:\n*   (i) Should be a **citizen of India**.\n*   (ii) Should not be over 62 years.\n*   (iii) Has held a **judicial office** in the territory of India for at least ten years;\n    **or**\n    Has been an **advocate of a High Court** for at least ten years.\n\nThe qualification \"He/She should have been a **distinguished Jurist**\", which was added by the **42nd Amendment Act (1976)**, was omitted by the **44th Amendment Act (1978)**."
+            }
+          ]
+        },
+        {
+          "title": "Appointment of Judges",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **Chief Justice of a High Court** is appointed by the **President of India** in consultation with the **Chief Justice of the Supreme Court** and the **Governor of the concerned State**.\n\n**Other Judges** of a High Court are appointed by the **President**. The President shall consult the **Chief Justice of India**, the **Governor of the State** and the **Chief Justice of the High Court** in the matter of appointment of a Judge to the High Court."
+            }
+          ]
+        },
+        {
+          "title": "Conditions of Service",
+          "sequence_number": 4,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "Service conditions of the judges of High Courts ensure that the High Courts are **independent** in carrying out their work from the **Legislative** and the **Executive wings** of the government."
+            }
+          ]
+        },
+        {
+          "title": "A. Retirement, Removal and Transfer",
+          "sequence_number": 5,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "1.  A Judge of a High Court enjoys **security of tenure** and can remain in office till he/she has attained the **age of 62 years**. Neither an additional nor an acting Judge can hold office beyond the age of 62 years.\n\n    A judge of a High Court can be removed by the **President** on the ground of \"**proved misbehaviour or incapacity**\" on an address of each House of Parliament. Such an address (request) should be supported by a **majority of the total membership** of the House and by **two-thirds of the members present and voting**. This procedure is known as **impeachment** and is the same as that for a judge of the Supreme Court. In August 2011, **Justice Soumitra Sen** of the Calcutta High Court became the first Judge in India's history against whom an 'impeachment motion' was passed in the Rajya Sabha. Justice Sen was charged with misappropriation of public funds. However, Justice Sen escaped impeachment as Lok Sabha dropped the proceedings against him when he resigned from his post as Calcutta High Court Judge.\n\n2.  The President can **transfer any Judge** from one High Court to another only if the following conditions are fulfilled:\n    * (i) orders for transfer can be issued after consulting the **Chief Justice of India**,\n    * (ii) the Chief Justice of India's recommendation must be made in consultation with **four senior-most judges of the Supreme Court**,\n    * (iii) the views of the **Chief Justices of the High Courts**—one from which the transfer is taking place and another to which the transfer is to be effected—must also be obtained, and\n    * (iv) when a judge has been transferred, he/she shall be entitled to **compensatory allowance** in addition to his/her salary."
+            }
+          ]
+        },
+        {
+          "title": "B. Salaries and Emoluments of Judges",
+          "sequence_number": 6,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **Chief Justice** of a High Court and other **Judges** of the High Court are paid a monthly salary, as decided by the **Parliament**. They are entitled to a **rent-free accommodation** and other allowances. After retirement, they get a **pension**. The salaries and allowances of the Judges cannot be changed to their disadvantage during the course of their service except during the period of a **Financial Emergency**. The salaries and allowances of the Judges of a High Court are charged on the **Consolidated Fund of the State**. So these **cannot be voted upon by the State Legislature**."
+            }
+          ]
+        },
+        {
+          "title": "C. Restrictions on Practice",
+          "sequence_number": 7,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "A **Judge** who has worked as a **permanent Judge of a High Court** can practise after his **retirement** only in the **Supreme Court** or in those **High Courts where he/she has not served** as a judge. He/She is **prohibited from practising** in other courts or judicial tribunals."
+            }
+          ]
+        },
+        {
+          "title": "D. Other Conditions",
+          "sequence_number": 8,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "(i)",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **Constitution of India** provides for a **High Court** for each State. **Parliament** may, however, establish a common High Court for two or more States/Union Territories. This depends on the area and the population to which a High Court has to serve and the amount of work it has to handle. There are **25 High Courts** in India, including those having jurisdiction over more than one State. Among the Union Territories, only Delhi has a High Court of its own."
+                }
+              ]
+            },
+            {
+              "title": "(ii)",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Criminal Courts** exercise jurisdiction in cases related to **murder**, **robbery**, **theft**, **assault**, etc."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "POWERS AND JURISDICTION OF HIGH COURT",
+          "sequence_number": 9,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **jurisdiction** of a **High Court** of a **State** extends to the **territorial limits** of that State. If there is a **common High Court** for two or more States or **Union Territories** then the jurisdiction of such a court extends to the territorial limits of the States or the Union Territories."
+            }
+          ]
+        },
+        {
+          "title": "Original Jurisdiction",
+          "sequence_number": 10,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "(i)",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The President has the power to appoint:\n* **Additional judges** for a temporary period not exceeding two years, for the clearance of arrears of work in a High Court."
+                }
+              ]
+            },
+            {
+              "title": "(ii)",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "### SUBORDINATE COURTS\n\n#### Structure and Composition\n\n**Subordinate Courts** are the courts, which function at the district level and below. Therefore, all the courts in India except the Supreme Court and the High Courts, are subordinate courts.\n\nThe organisation and structure of the **Subordinate Courts** are generally uniform throughout the country. For the purpose of judicial administration every State is divided into a number of districts, each under the jurisdiction of a **District Judge**. Every district has **Civil Courts**, **Criminal Courts** and **Courts of Revenue**."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "Appellate Jurisdiction",
+          "sequence_number": 11,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**Appellate Jurisdiction** of High Court means that the **High Court** has the power to accept appeals against the decisions of **District Courts**, in **civil** as well as **criminal matters**."
+            }
+          ]
+        },
+        {
+          "title": "Civil Cases",
+          "sequence_number": 12,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "(i)",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The President has the power to appoint:\n\n*   **additional judges** for a temporary period **not exceeding two years**, for the **clearance of arrears of work** in a High Court."
+                }
+              ]
+            },
+            {
+              "title": "(ii)",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Criminal Courts** exercise jurisdiction in cases related to **murder**, **robbery**, **theft**, **assault**, etc."
+                },
+                {
+                  "content_md": "### Classification of Criminal Courts\nAccording to the **Code of Criminal Procedure (1973)** in every state there shall be criminal courts of the following classes:\n(i) **Courts of Sessions**;\n(ii) **Judicial Magistrates of the First Class** and in any Metropolitan area **Metropolitan Magistrates**;\n(iii) **Judicial Magistrates of the Second Class**;\n(iv) **Executive Magistrates**."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "Criminal Cases",
+          "sequence_number": 13,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "(i)",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **Constitution of India** provides for a **High Court** for each State. **Parliament** may, however, establish a **common High Court** for two or more States/Union Territories. This depends on the area and the population to which a High Court has to serve and the amount of work it has to handle. There are **25 High Courts** in India, including those having jurisdiction over more than one State. Among the **Union Territories**, only **Delhi** has a High Court of its own."
+                }
+              ]
+            },
+            {
+              "title": "(ii)",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "an **acting Judge**, when a permanent Judge (other than the Chief Justice) is temporarily absent or unable to perform his/her duties or is appointed to act temporarily as **Chief Justice**. The acting Judge holds office until the permanent Judge resumes his/her office."
+                }
+              ]
+            },
+            {
+              "title": "(iii)",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Every High Court has the power to **interpret the Constitution**. This power is known as the power of **Judicial Review**."
+                }
+              ]
+            },
+            {
+              "title": "(iv)",
+              "sequence_number": 4,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Along with the **Supreme Court**, it enjoys **original jurisdiction** for the **enforcement of Fundamental Rights** guaranteed by the Constitution. It can also issue **writs** for the enforcement of Fundamental Rights."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "Advisory Jurisdiction",
+          "sequence_number": 14,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **High Courts** can advise any **government department**, **legislature** or the **Governor**, if they seek it, on constitutional as well as on other matters of law. Their advice is **not binding** on the agency seeking such advice."
+            }
+          ]
+        },
+        {
+          "title": "Revisory Jurisdiction",
+          "sequence_number": 15,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**Revisory Jurisdiction** means that the **High Court** can call for the record of a case which has been decided by a **subordinate court**. This is done because the High Court feels that the Subordinate Court has exercised a jurisdiction not vested in it or the latter has not followed proper procedure. Therefore, the High Court can review the case and take appropriate action on it. This is known as the **Revisory Jurisdiction of the High Court**."
+            },
+            {
+              "content_md": "A revisory jurisdiction is applicable in the following cases:\n*   injustice or an error of law apparent on the face of the record.\n*   violation of the principles of natural justice.\n*   arbitrary authority leading to wrong judgements.\n*   flagrant error in procedure."
+            }
+          ]
+        },
+        {
+          "title": "PUBLIC INTEREST LITIGATION (PIL)",
+          "sequence_number": 16,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "A **Public Interest Litigation (PIL)** can be filed directly in the Supreme Court under **Article 32** or in a High Court under **Article 226**. A PIL can be initiated by simply writing a letter to a judge. The court may then choose to convert the letter into a formal PIL to address issues of public concern. Sometimes a court takes action on its own initiative, such as converting a newspaper report into a PIL, as seen in several famous cases like the Delhi Air Pollution Case. A PIL is a tool for **Judicial review** of the courts. It aims at ensuring justice to all. Any citizen/agency who is capable can file petitions on behalf of those who cannot or do not have the means to do so."
+            }
+          ]
+        },
+        {
+          "title": "Judicial Review",
+          "sequence_number": 17,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "Like the Supreme Court, the High Court has the power of **Judicial Review**. If any law, executive order or any ordinance passed by the State Legislature or any other authority infringes the **Fundamental Rights** or contravenes any provision of the **Constitution**, the High Court can declare it 'null and void'. The High Court may withdraw a constitutional case from a Subordinate Court and deal with it or send it back with its directions."
+            },
+            {
+              "content_md": "The **42nd Amendment Act, 1976**, introduced provisions, where the power of the High Court to judge the constitutionality of a State law was withdrawn during the Emergency. But with the repeal of certain parts of the 42nd Amendment, the High Courts regained their powers of considering the Constitutional validity of any State law or executive order or ordinance."
+            }
+          ]
+        },
+        {
+          "title": "Court of Record",
+          "sequence_number": 18,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "(i)",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **Constitution of India** provides for a **High Court** for each State. **Parliament** may, however, establish a common **High Court** for two or more States/**Union Territories**. This depends on the area and the population to which a **High Court** has to serve and the amount of work it has to handle. There are **25 High Courts** in India, including those having jurisdiction over more than one State. Among the **Union Territories**, only **Delhi** has a **High Court** of its own."
+                }
+              ]
+            },
+            {
+              "title": "(ii)",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Lok Adalat** means **'People's Court'**. It is an **alternative dispute redressal mechanism** where disputes/cases pending in the court of law or at pre-litigation stage are settled amicably. On the recommendation of **Justice P.N. Bhagwati**, Lok Adalats were set up by **Legal Services Authorities Act, 1987** as a legal forum to provide legal aid and quick justice to those who are not in a position to engage lawyers or bear the expenses of legal proceedings. There is **no court fee** payable when a matter is filed in a Lok Adalat. The Legal Services Authorities Act, (1987) provides that State or district authorities shall organise Lok Adalats from time to time. All decisions of the Lok Adalats shall be deemed to be **decrees of a Civil Court** and shall be **binding** on the parties to the dispute. The main condition of the Lok Adalat is that both parties in a dispute should agree for a settlement.\n\nVoluntary organisations organise such courts in places like factories, farms, commercial complexes and the neighbourhood of the litigants to settle disputes in a spirit of harmony and compromise. Cases are settled informally and cordially with the involvement of conflicting parties. Lok Adalats also resolve cases which have not yet gone to any court."
+                },
+                {
+                  "content_md": "[Image: Logo of Lok Adalat]"
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "FUNCTIONS OF THE HIGH COURT",
+          "sequence_number": 19,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": ""
+            }
+          ]
+        },
+        {
+          "title": "Settlement of Disputes",
+          "sequence_number": 20,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**Original**: The High Court has **original jurisdiction** to settle disputes relating to **State revenue** and its collection; to hear directly cases related to **will, divorce, marriage, company law** and **contempt of Court**; to **interpret the Constitution**; for **enforcement of Fundamental Rights**; and petitions related to the **election of the MPs, MLAs** and other local bodies.\n\n**On Appeal**: The High Court has the power to accept **appeals** against the decisions of **District Courts** in both the **civil and criminal cases** as discussed earlier in the chapter."
+            }
+          ]
+        },
+        {
+          "title": "Original:",
+          "sequence_number": 21,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**Original:** The High Court has **original jurisdiction** to settle disputes relating to **State revenue** and its collection; to hear directly cases related to **will**, **divorce**, **marriage**, **company law** and **contempt of Court**; to **interpret the Constitution**; for **enforcement of Fundamental Rights**; and **petitions** related to the **election of the MPs, MLAs and other local bodies**."
+            }
+          ]
+        },
+        {
+          "title": "On Appeal:",
+          "sequence_number": 22,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **High Court** has the power to accept **appeals** against the decisions of **District Courts** in both the **civil** and **criminal cases** as discussed earlier in the chapter."
+            }
+          ]
+        },
+        {
+          "title": "Enforcement of Fundamental Rights (Power to Issue Writs)",
+          "sequence_number": 23,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "All the High Courts are empowered to issue **'writs'**. A **writ** is an order from a judicial authority asking a person to perform some act or refrain from performing an act. The writs that are issued are **Habeas Corpus**, **Mandamus**, **Prohibition**, **Quo Warranto** and **Certiorari**. These writs are greatly instrumental in the protection of **Fundamental Rights** of the citizens. The nature and scope of these Writs has been explained in the previous chapter, which deals with the jurisdiction of the Supreme Court."
+            }
+          ]
+        },
+        {
+          "title": "*OTHER FUNCTIONS",
+          "sequence_number": 24,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": ""
+            }
+          ]
+        },
+        {
+          "title": "1. High Court's Power of Superintendence",
+          "sequence_number": 25,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "(i)",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **Constitution of India** provides for a **High Court** for each State. **Parliament** may, however, establish a **common High Court** for two or more States/Union Territories. This depends on the area and the population to which a High Court has to serve and the amount of work it has to handle. There are **25 High Courts** in India, including those having jurisdiction over more than one State. Among the Union Territories, only Delhi has a High Court of its own."
+                }
+              ]
+            },
+            {
+              "title": "(ii)",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": ""
+                }
+              ]
+            },
+            {
+              "title": "(iii)",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "### *COURTS OF REVENUE\n\nThese Courts deal with cases relating to the **maintenance of land records** and the **assessment and collection of land revenue**.\n\n1.  **Board of Revenue**: is the highest authority in the field of revenue in a State. Working directly under the High Court, it hears appeals against the decisions of the Lower Courts of Revenue that come under its jurisdiction.\n2.  **Commissioner's Court**: with the aid of generally three to four Deputy Commissioners looks after the assessment and collection of revenues of all districts in a particular division.\n3.  **Collector's Court**: generally headed by the Deputy Commissioner of the District, helps the revenue department in the process of assessment and collection of revenue in addition to his/her original duties as the administrator of the district. He/She hears first appeals against the decision of the Tehsildar.\n4.  **Tehsildar's Court**: A Tehsildar is responsible for the collection of the revenue and property taxes as assessed by the Naib Tehsildars.\n5.  **Naib Tehsildar's Court**: This is the lowest court. Naib Tehsildars hear cases relating to the assessment of the land revenue and property taxes from farmers. Appeals against their assessments can be taken to the Tehsildar.\n\n\n*For Information only"
+                }
+              ]
+            },
+            {
+              "title": "(iv)",
+              "sequence_number": 4,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": ""
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "2. Administrative Functions",
+          "sequence_number": 26,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "As the head of the **State Judiciary**, the **High Court** has **administrative control** over the **subordinate judiciary** in the State in respect of certain matters, besides its appellate and supervisory jurisdiction over them. Such powers include control over **District Judges**, Judges of the City Civil Courts, Metropolitan Magistrates and members of the **judicial service** of the State."
+            },
+            {
+              "content_md": "1. The appointment, posting and promotion of **District Judges** shall be made by the **Governor** in consultation with the Judges of the **High Court**.\n2. The **High Court** and the **State Public Service Commission** are consulted by the **Governor** in appointing persons to the **judicial service** of the State.\n3. **High Court's control** over lower courts extends to matters such as:\n   (i) recall of **District Judges** who are on deputation,\n   (ii) transfer of **District Judges**, and\n   (iii) promotions and confirmations of persons belonging to the **judicial service** of the State and holding a post, inferior to the post of **District Judge**."
+            }
+          ]
+        },
+        {
+          "title": "1.",
+          "sequence_number": 27,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **Constitution of India** provides for a **High Court** for each State. **Parliament** may, however, establish a common **High Court** for two or more **States/Union Territories**. This depends on the area and the population to which a **High Court** has to serve and the amount of work it has to handle. There are **25 High Courts** in India, including those having jurisdiction over more than one State. Among the **Union Territories**, only **Delhi** has a **High Court** of its own."
+            }
+          ]
+        },
+        {
+          "title": "2.",
+          "sequence_number": 28,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "As the head of the **State Judiciary**, the **High Court** has **administrative control** over the **subordinate judiciary** in the State in respect of certain matters, besides its appellate and supervisory jurisdiction over them. Such powers include control over **District Judges**, Judges of the **City Civil Courts**, **Metropolitan Magistrates** and members of the **judicial service of the State**."
+            },
+            {
+              "content_md": "1. The **appointment, posting and promotion of District Judges** shall be made by the **Governor** in consultation with the **Judges of the High Court**.\n2. The **High Court** and the **State Public Service Commission** are consulted by the **Governor** in appointing persons to the **judicial service of the State**.\n3. High Court's control over lower courts extends to matters such as:\n   *  recall of **District Judges** who are on deputation,\n   *  transfer of **District Judges**, and\n   *  promotions and confirmations of persons belonging to the **judicial service of the State** and holding a post, inferior to the post of **District Judge**."
+            }
+          ]
+        },
+        {
+          "title": "3.",
+          "sequence_number": 29,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "(i)",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **Constitution of India** provides for a **High Court** for each State. **Parliament** may, however, establish a common **High Court** for two or more States/Union Territories. This depends on the area and the population to which a **High Court** has to serve and the amount of work it has to handle. There are **25 High Courts** in India, including those having jurisdiction over more than one State. Among the Union Territories, only **Delhi** has a **High Court** of its own."
+                }
+              ]
+            },
+            {
+              "title": "(ii)",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **High Court** can punish anyone who commits a **contempt of its orders**."
+                }
+              ]
+            },
+            {
+              "title": "(iii)",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "These Courts deal with cases relating to the maintenance of **land records** and the **assessment** and **collection of land revenue**."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "INDEPENDENCE OF THE HIGH COURT",
+          "sequence_number": 30,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The independence of the High Courts in carrying out their work is ensured by providing **security of tenure** and **security of pay and allowances** to the Judges. (For details refer to the heading *Conditions of Service* in this Chapter)."
+            },
+            {
+              "content_md": "Besides, the independence of High Courts is ensured by undertaking the following measures:\n\n1.  **Full control** over its procedure of work and establishment.\n2.  The High Court can punish a person for **contempt of court** if its authority is lowered.\n3.  **No discussion in the State Legislature** on the conduct of High Court Judges.\n4.  **Prohibition on practice after retirement** for Judges."
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    },
+    {
+      "title": "SUBORDINATE COURTS",
+      "sequence_number": 2,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "Structure and Composition",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**Subordinate Courts** are the courts, which function at the **district level** and below. Therefore, all the courts in India except the **Supreme Court** and the **High Courts**, are **subordinate courts**."
+            },
+            {
+              "content_md": "The organisation and structure of the **Subordinate Courts** are generally uniform throughout the country. For the purpose of judicial administration every State is divided into a number of districts, each under the jurisdiction of a **District Judge**. Every district has **Civil Courts**, **Criminal Courts** and **Courts of Revenue**."
+            }
+          ]
+        },
+        {
+          "title": "Civil Courts",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**Civil courts** exercise **jurisdiction** in the cases related to **land**, **property** and **money transactions**; **arbitration**; **guardianship**; **marriages**; **divorce**; and cases involving a **Will**. These courts are graded in the following manner:"
+            }
+          ]
+        },
+        {
+          "title": "1. The Court of the District Judge",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "It is the **principal** or the **highest court of the district**. It decides both **civil** and **criminal cases**. When a judge decides civil cases he/she is called the **District Judge** and when he/she decides criminal cases he/she is called the **Sessions Judge**. In some districts **Additional Judges** are appointed by the Governor in consultation with the Chief Justice of the High Court of the concerned State.\n\nIn order to be a **District Judge** or an **Additional Judge** a person should be an advocate of **seven years' standing** or an official in the **Judicial Service of the Union** or the **State Public Service Commission**.\n\nUsually, the **District Judge** also acts as a **Deputy Commissioner** and **District Collector**. In that capacity, he/she maintains law and order as well as supervises the collection of revenue and taxes from the district. Thus, he/she possesses **administrative power** in addition to his **judicial power**."
+            }
+          ]
+        },
+        {
+          "title": "2. Court of Civil Judge",
+          "sequence_number": 4,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The next cadre is designated as **Civil Judge**. This post is sometimes combined with the post of **Chief Judicial Magistrate** and can try cases punishable with **imprisonment for seven years and fine**."
+            }
+          ]
+        },
+        {
+          "title": "3. Munsif's Courts",
+          "sequence_number": 5,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "A **Munsif** is authorised to deal with **civil cases** involving not more than ₹20,000. Appeals against their decisions lie with the Civil Judge who is the next higher authority."
+            }
+          ]
+        },
+        {
+          "title": "4. Courts of Small Causes",
+          "sequence_number": 6,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "*   These petty courts are headed by the **junior-most Magistrates** and have jurisdiction in cases where the value of the subject matter is small.\n*   There can be **no appeal** against their decisions.\n*   The **value of suits** are fixed by the **State Government** from time to time."
+            }
+          ]
+        },
+        {
+          "title": "Term of Office",
+          "sequence_number": 7,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **District Judge** and the **Additional District Judge** are appointed by the **Governor** in consultation with the **Judges of High Court** of the concerned State. Except the **District Judge** and the **Additional District Judge**, all other judges are appointed through competitive examinations held by **State Public Service Commission**.\n\nThe rules regarding the **transfer**, **leave** and **conditions of service** of the **District Judge** and **Additional District Judge** are formulated by the **High Court**."
+            }
+          ]
+        },
+        {
+          "title": "Administrative Control:",
+          "sequence_number": 8,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **District Judge** exercises administrative control over all **Civil Courts** in the district. The civil courts have no jurisdiction to try matters pertaining to **agricultural land**. Such cases are heard by the **Revenue Courts**."
+            }
+          ]
+        },
+        {
+          "title": "Criminal Courts",
+          "sequence_number": 9,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**Criminal Courts** exercise jurisdiction in cases related to **murder, robbery, theft, assault, etc.**"
+            }
+          ]
+        },
+        {
+          "title": "Classification of Criminal Courts",
+          "sequence_number": 10,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "According to the **Code of Criminal Procedure (1973)** in every state there shall be criminal courts of the following classes:\n\n*   (i) **Courts of Sessions**;\n*   (ii) **Judicial Magistrates of the First Class** and in any Metropolitan area **Metropolitan Magistrates**;\n*   (iii) **Judicial Magistrates of the Second Class**;\n*   (iv) **Executive Magistrates**."
+            }
+          ]
+        },
+        {
+          "title": "Sessions Court:",
+          "sequence_number": 11,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **Sessions Court** is the **highest criminal court** of the district. Usually it is presided over by the **District Judge**, who is called the **District and Sessions Judge**. The Sessions Court deals with cases concerning more serious offences such as **robbery**, **dacoity** and **murder**. The **Sessions or Additional Sessions Judge** alone can award **death sentences** or **life imprisonment**. It is mandatory that a sentence of death must be confirmed by the **High Court** before it is carried out, irrespective of whether an appeal is made to the High Court or not."
+            }
+          ]
+        },
+        {
+          "title": "Court of Chief Metropolitan Magistrate or Chief Judicial Magistrate:",
+          "sequence_number": 12,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "These **Magistrates** deal with less serious offences and they cannot pass a **sentence of death** or of **imprisonment for life**. They can pass a sentence of imprisonment only up to **seven years**."
+            }
+          ]
+        },
+        {
+          "title": "Court of the First Class Magistrates:",
+          "sequence_number": 13,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "These Magistrates take up less serious cases and can award **imprisonment up to three years** or a **fine of ₹ 5,000** or both. They can **hear appeals** against the decisions of lower courts."
+            }
+          ]
+        },
+        {
+          "title": "Court of the Second Class Magistrates:",
+          "sequence_number": 14,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "These Magistrates deal with comparatively, less serious criminal cases and can sentence a person to **imprisonment for not more than two years** or impose a **fine of ₹1,000** or both."
+            }
+          ]
+        },
+        {
+          "title": "Appeals",
+          "sequence_number": 15,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "As the **Indian judicial system** is a **single integrated system of courts**, appeals can be made in higher courts against orders of lower courts. The **Sessions Judge** hears appeals against the judgement of the **Chief Metropolitan Magistrate** or **Chief Judicial Magistrate**. Appeals against judgement of **Sessions Courts** are permitted to the **High Court**."
+            }
+          ]
+        },
+        {
+          "title": "*COURTS OF REVENUE",
+          "sequence_number": 16,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "These Courts deal with cases relating to the **maintenance of land records** and the **assessment and collection of land revenue**."
+            }
+          ]
+        },
+        {
+          "title": "1. Board of Revenue:",
+          "sequence_number": 17,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **Board of Revenue** is the **highest authority** in the field of **revenue** in a State. Working directly under the **High Court**, it hears appeals against the decisions of the **Lower Courts of Revenue** that come under its jurisdiction."
+            }
+          ]
+        },
+        {
+          "title": "2. Commissioner's Court:",
+          "sequence_number": 18,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "With the aid of generally three to four **Deputy Commissioners**, the **Commissioner's Court** looks after the **assessment and collection of revenues** of all districts in a particular **division**."
+            }
+          ]
+        },
+        {
+          "title": "3. Collector's Court:",
+          "sequence_number": 19,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **Collector's Court** is generally headed by the **Deputy Commissioner of the District**. It helps the revenue department in the process of **assessment and collection of revenue** in addition to his/her original duties as the administrator of the district. He/She hears **first appeals** against the decision of the **Tehsildar**."
+            }
+          ]
+        },
+        {
+          "title": "4. Tehsildar's Court:",
+          "sequence_number": 20,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "A **Tehsildar** is responsible for the collection of the **revenue** and **property taxes** as assessed by the **Naib Tehsildars**."
+            }
+          ]
+        },
+        {
+          "title": "5. Naib Tehsildar's Court:",
+          "sequence_number": 21,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "This is the **lowest court**. **Naib Tehsildars** hear cases relating to the **assessment of the land revenue and property taxes** from farmers. Appeals against their assessments can be taken to the **Tehsildar**."
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    },
+    {
+      "title": "LOK ADALATS",
+      "sequence_number": 3,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "Types of Lok Adalats",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**National Lok Adalat:** National Lok Adalats are held at regular intervals where on a single day Lok Adalats are held throughout the country, in all the courts right from the Supreme Court till the Taluk Level. Here cases are disposed off in huge numbers. From **February 2015**, National Lok Adalats are being held on a specific subject matter every month.\n\n**Permanent Lok Adalat:** Permanent Lok Adalats are organised under **Section 22-B of the Legal Services Authorities Act, 1987**. These adalats have been set up as permanent bodies with a Chairman and two members for providing compulsory **pre-litigative mechanism** for conciliation and settlement of cases like criminal compoundable offences, traffic challans, revenue cases, bank recovery cases, motor accident claims, cheque dishonour cases, labour disputes, matrimonial disputes, land acquisition cases, consumer matters and other civil cases. Here, even if the parties fail to reach a settlement, the Permanent Lok Adalats have the jurisdiction to decide the dispute, provided, the dispute does not relate to any offence. Further, the **Award of the Permanent Lok Adalat** is final and binding on all the parties.\n\n**Mobile Lok Adalats:** These adalats are organised in various parts of the country in **Multi-utility Vans** which travel from one location to another to resolve petty cases and to spread legal awareness among the people."
+            }
+          ]
+        },
+        {
+          "title": "National Lok Adalat:",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**National Lok Adalats** are held at regular intervals where on a single day **Lok Adalats** are held throughout the country, in all the courts right from the **Supreme Court** till the **Taluk Level**. Here cases are disposed off in huge numbers. From **February 2015**, **National Lok Adalats** are being held on a specific subject matter every month."
+            }
+          ]
+        },
+        {
+          "title": "Permanent Lok Adalat:",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**Permanent Lok Adalats** are organised under **Section 22-B of the Legal Services Authorities Act, 1987**. These adalats have been set up as **permanent bodies** with a Chairman and two members for providing **compulsory pre-litigative mechanism** for conciliation and settlement of cases like criminal compoundable offences, traffic challans, revenue cases, bank recovery cases, motor accident claims, cheque dishonour cases, labour disputes, matrimonial disputes, land acquisition cases, consumer matters and other civil cases. Here, even if the parties fail to reach a settlement, the Permanent Lok Adalats have the jurisdiction to decide the dispute, provided, the dispute does not relate to any offence. Further, the **Award of the Permanent Lok Adalat is final and binding** on all the parties."
+            }
+          ]
+        },
+        {
+          "title": "Mobile Lok Adalats:",
+          "sequence_number": 4,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "These adalats are organised in various parts of the country in **Multi-utility Vans** which travel from one location to another to resolve petty cases and to spread legal awareness among the people."
+            }
+          ]
+        },
+        {
+          "title": "Working of Lok Adalats",
+          "sequence_number": 5,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "Judges, law graduates, public workers or social workers inform the litigants about their rights and duties. The judges of the **Lok Adalats** are actually **conciliators**. These Adalats are assisted by **Legal Aid Committees** and **Social Action Groups** which advise the people about legal matters and help them to solve the cases by mutual participation. Thus, they try to bring compromise or agreement between the parties.\n\nThe first Lok Adalat was held at Junagarh in Gujarat on **March 14, 1982**. The modern ideology of Lok Adalat was proposed and implemented by **Justice P.N. Bhagwati**, former Chief Justice of India. The **National Legal Services Authority (NALSA)** and other legal services institutions conduct Lok Adalats. The Member Secretary of the State Legal Services Authority organises Lok Adalats. Each bench includes a sitting or retired judge of the High Court or a sitting or retired judicial officer. The bench may also include a member of the legal profession or a social worker."
+            }
+          ]
+        },
+        {
+          "title": "Advantages of Lok Adalats",
+          "sequence_number": 6,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "(i)",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The President has the power to appoint:\n(i) **additional judges** for a temporary period not exceeding two years, for the clearance of arrears of work in a High Court."
+                }
+              ]
+            },
+            {
+              "title": "(ii)",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Criminal Courts** exercise jurisdiction in cases related to **murder**, **robbery**, **theft**, **assault**, etc. The **Criminal Courts** can be classified as:\n*   (i) **Courts of Sessions**\n*   (ii) **Judicial Magistrates of the First Class** and in any Metropolitan area **Metropolitan Magistrates**\n*   (iii) **Judicial Magistrates of the Second Class**\n*   (iv) **Executive Magistrates**"
+                }
+              ]
+            },
+            {
+              "title": "(iii)",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Every High Court has the **power to interpret the Constitution**. This power is known as the **power of Judicial Review**."
+                }
+              ]
+            },
+            {
+              "title": "(iv)",
+              "sequence_number": 4,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Service conditions** of the judges of High Courts ensure that the High Courts are **independent**."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "Scope of Lok Adalats",
+          "sequence_number": 7,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The system of **Lok Adalats** has now become so popular that various government departments like the **Telephone Department**, **Traffic** and the **Electricity Boards** have begun to hold **Lok Adalats** solving hundreds of cases in a single day.\n\nIt is the need of the hour that **Lok Adalats** are organised more frequently and their jurisdiction is expanded. There are lakhs of cases pending in different courts all over India. These courts can play important role in the settlement of family feuds, disputes between the neighbours and minor cases of assault and injury. Weaker sections of society cannot afford the delay or the costs involved in court procedures. The institution of **Lok Adalat** tends to promote **social justice** as in Delhi where permanent **Lok Adalats** have already been set up for settlement of all pending disputes concerning Delhi Development Authority, Mahanagar Telephone Nigam, Municipal Corporation and National Insurance Co. Ltd."
+            }
+          ]
+        },
+        {
+          "title": "Family Courts",
+          "sequence_number": 8,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **Family Courts Act (1984)** was enacted to secure speedy settlement of disputes relating to **marriage and family affairs**. The Act provides that Family Courts would be set up in cities having a population of more than **10 lakh**. However, based on the recommendation made by the **Parliamentary Committee on Empowerment of Women**, all the **State Governments/UT Administrations** have been asked to set-up **one Family Court in each district** of the Country."
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    }
+  ],
+  "additional_sections": [
+    {
+      "title": "Appeals:",
+      "content_md": "Appeals: Appeals from the decree or order of a court lie in the next higher court. Therefore, an appeal from the decree or order of the Small Cause Court lies to the court of Sub-Judge or Munsif. Appeals from orders of the Sub-Judge lie to the Court of the Civil Judge (First Class). The appeals from the orders and judgements of the District Courts and the Additional District Courts lie to the High Court."
+    },
+    {
+      "title": "DIFFERENCES BETWEEN COURT OF THE DISTRICT JUDGE AND SESSIONS COURT",
+      "content_md": "| Court of the District Judge | Sessions Court |\n| :--- | :--- |\n| 1. It is the highest civil court of the district. | 1. It is highest criminal court of the district. |\n| 2. It is presided over by a District Judge. | 2. It is presided over by a Sessions Judge. |\n| 3. The District Judge and the Additional District Judges are appointed by the Governor in consultation with the Chief Justice of the High Court of the concerned State. | 3. The Sessions Judge and the Additional Sessions Judges are appointed by the Governor in consultation with the Chief Justice of the High Court of the concerned State. |\n| 4. The District Judge decides civil cases related to land, property, money transactions, arbitration, guardianship, marriage, divorce and will. | 4. The Sessions Judge decides criminal cases like murders, theft, dacoity, pick-pocketing, etc. |\n| 5. The District Judge acts as a Deputy Commissioner and District Collector and in this capacity he/ she maintains law and order and supervises the collection of revenue and taxes in the district. | 5. The Sessions Judge does not perform any administrative functions. |"
+    }
+  ],
+  "needs_review": [
+    "FUNCTIONS OF THE HIGH COURT",
+    "*OTHER FUNCTIONS",
+    "(ii)",
+    "(iv)"
+  ],
+  "manifest": {
+    "syllabus_leaves": [
+      {
+        "path": "THE HIGH COURTS > Composition",
+        "path_titles": [
+          "THE HIGH COURTS",
+          "Composition"
+        ],
+        "title": "Composition",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "THE HIGH COURTS > Qualifications",
+        "path_titles": [
+          "THE HIGH COURTS",
+          "Qualifications"
+        ],
+        "title": "Qualifications",
+        "sequence_number": 2,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "THE HIGH COURTS > Appointment of Judges",
+        "path_titles": [
+          "THE HIGH COURTS",
+          "Appointment of Judges"
+        ],
+        "title": "Appointment of Judges",
+        "sequence_number": 3,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "THE HIGH COURTS > Conditions of Service",
+        "path_titles": [
+          "THE HIGH COURTS",
+          "Conditions of Service"
+        ],
+        "title": "Conditions of Service",
+        "sequence_number": 4,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "THE HIGH COURTS > A. Retirement, Removal and Transfer",
+        "path_titles": [
+          "THE HIGH COURTS",
+          "A. Retirement, Removal and Transfer"
+        ],
+        "title": "A. Retirement, Removal and Transfer",
+        "sequence_number": 5,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "THE HIGH COURTS > B. Salaries and Emoluments of Judges",
+        "path_titles": [
+          "THE HIGH COURTS",
+          "B. Salaries and Emoluments of Judges"
+        ],
+        "title": "B. Salaries and Emoluments of Judges",
+        "sequence_number": 6,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "THE HIGH COURTS > C. Restrictions on Practice",
+        "path_titles": [
+          "THE HIGH COURTS",
+          "C. Restrictions on Practice"
+        ],
+        "title": "C. Restrictions on Practice",
+        "sequence_number": 7,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "THE HIGH COURTS > D. Other Conditions > (i)",
+        "path_titles": [
+          "THE HIGH COURTS",
+          "D. Other Conditions",
+          "(i)"
+        ],
+        "title": "(i)",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "THE HIGH COURTS > D. Other Conditions > (ii)",
+        "path_titles": [
+          "THE HIGH COURTS",
+          "D. Other Conditions",
+          "(ii)"
+        ],
+        "title": "(ii)",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "THE HIGH COURTS > POWERS AND JURISDICTION OF HIGH COURT",
+        "path_titles": [
+          "THE HIGH COURTS",
+          "POWERS AND JURISDICTION OF HIGH COURT"
+        ],
+        "title": "POWERS AND JURISDICTION OF HIGH COURT",
+        "sequence_number": 9,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "THE HIGH COURTS > Original Jurisdiction > (i)",
+        "path_titles": [
+          "THE HIGH COURTS",
+          "Original Jurisdiction",
+          "(i)"
+        ],
+        "title": "(i)",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "THE HIGH COURTS > Original Jurisdiction > (ii)",
+        "path_titles": [
+          "THE HIGH COURTS",
+          "Original Jurisdiction",
+          "(ii)"
+        ],
+        "title": "(ii)",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "THE HIGH COURTS > Appellate Jurisdiction",
+        "path_titles": [
+          "THE HIGH COURTS",
+          "Appellate Jurisdiction"
+        ],
+        "title": "Appellate Jurisdiction",
+        "sequence_number": 11,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "THE HIGH COURTS > Civil Cases > (i)",
+        "path_titles": [
+          "THE HIGH COURTS",
+          "Civil Cases",
+          "(i)"
+        ],
+        "title": "(i)",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "THE HIGH COURTS > Civil Cases > (ii)",
+        "path_titles": [
+          "THE HIGH COURTS",
+          "Civil Cases",
+          "(ii)"
+        ],
+        "title": "(ii)",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "THE HIGH COURTS > Criminal Cases > (i)",
+        "path_titles": [
+          "THE HIGH COURTS",
+          "Criminal Cases",
+          "(i)"
+        ],
+        "title": "(i)",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "THE HIGH COURTS > Criminal Cases > (ii)",
+        "path_titles": [
+          "THE HIGH COURTS",
+          "Criminal Cases",
+          "(ii)"
+        ],
+        "title": "(ii)",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "THE HIGH COURTS > Criminal Cases > (iii)",
+        "path_titles": [
+          "THE HIGH COURTS",
+          "Criminal Cases",
+          "(iii)"
+        ],
+        "title": "(iii)",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "THE HIGH COURTS > Criminal Cases > (iv)",
+        "path_titles": [
+          "THE HIGH COURTS",
+          "Criminal Cases",
+          "(iv)"
+        ],
+        "title": "(iv)",
+        "sequence_number": 4,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "THE HIGH COURTS > Advisory Jurisdiction",
+        "path_titles": [
+          "THE HIGH COURTS",
+          "Advisory Jurisdiction"
+        ],
+        "title": "Advisory Jurisdiction",
+        "sequence_number": 14,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "THE HIGH COURTS > Revisory Jurisdiction",
+        "path_titles": [
+          "THE HIGH COURTS",
+          "Revisory Jurisdiction"
+        ],
+        "title": "Revisory Jurisdiction",
+        "sequence_number": 15,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "THE HIGH COURTS > PUBLIC INTEREST LITIGATION (PIL)",
+        "path_titles": [
+          "THE HIGH COURTS",
+          "PUBLIC INTEREST LITIGATION (PIL)"
+        ],
+        "title": "PUBLIC INTEREST LITIGATION (PIL)",
+        "sequence_number": 16,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "THE HIGH COURTS > Judicial Review",
+        "path_titles": [
+          "THE HIGH COURTS",
+          "Judicial Review"
+        ],
+        "title": "Judicial Review",
+        "sequence_number": 17,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "THE HIGH COURTS > Court of Record > (i)",
+        "path_titles": [
+          "THE HIGH COURTS",
+          "Court of Record",
+          "(i)"
+        ],
+        "title": "(i)",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "THE HIGH COURTS > Court of Record > (ii)",
+        "path_titles": [
+          "THE HIGH COURTS",
+          "Court of Record",
+          "(ii)"
+        ],
+        "title": "(ii)",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "THE HIGH COURTS > FUNCTIONS OF THE HIGH COURT",
+        "path_titles": [
+          "THE HIGH COURTS",
+          "FUNCTIONS OF THE HIGH COURT"
+        ],
+        "title": "FUNCTIONS OF THE HIGH COURT",
+        "sequence_number": 19,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": false
+      },
+      {
+        "path": "THE HIGH COURTS > Settlement of Disputes",
+        "path_titles": [
+          "THE HIGH COURTS",
+          "Settlement of Disputes"
+        ],
+        "title": "Settlement of Disputes",
+        "sequence_number": 20,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "THE HIGH COURTS > Original:",
+        "path_titles": [
+          "THE HIGH COURTS",
+          "Original:"
+        ],
+        "title": "Original:",
+        "sequence_number": 21,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "THE HIGH COURTS > On Appeal:",
+        "path_titles": [
+          "THE HIGH COURTS",
+          "On Appeal:"
+        ],
+        "title": "On Appeal:",
+        "sequence_number": 22,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "THE HIGH COURTS > Enforcement of Fundamental Rights (Power to Issue Writs)",
+        "path_titles": [
+          "THE HIGH COURTS",
+          "Enforcement of Fundamental Rights (Power to Issue Writs)"
+        ],
+        "title": "Enforcement of Fundamental Rights (Power to Issue Writs)",
+        "sequence_number": 23,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "THE HIGH COURTS > *OTHER FUNCTIONS",
+        "path_titles": [
+          "THE HIGH COURTS",
+          "*OTHER FUNCTIONS"
+        ],
+        "title": "*OTHER FUNCTIONS",
+        "sequence_number": 24,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": false
+      },
+      {
+        "path": "THE HIGH COURTS > 1. High Court's Power of Superintendence > (i)",
+        "path_titles": [
+          "THE HIGH COURTS",
+          "1. High Court's Power of Superintendence",
+          "(i)"
+        ],
+        "title": "(i)",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "THE HIGH COURTS > 1. High Court's Power of Superintendence > (ii)",
+        "path_titles": [
+          "THE HIGH COURTS",
+          "1. High Court's Power of Superintendence",
+          "(ii)"
+        ],
+        "title": "(ii)",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": false
+      },
+      {
+        "path": "THE HIGH COURTS > 1. High Court's Power of Superintendence > (iii)",
+        "path_titles": [
+          "THE HIGH COURTS",
+          "1. High Court's Power of Superintendence",
+          "(iii)"
+        ],
+        "title": "(iii)",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "THE HIGH COURTS > 1. High Court's Power of Superintendence > (iv)",
+        "path_titles": [
+          "THE HIGH COURTS",
+          "1. High Court's Power of Superintendence",
+          "(iv)"
+        ],
+        "title": "(iv)",
+        "sequence_number": 4,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": false
+      },
+      {
+        "path": "THE HIGH COURTS > 2. Administrative Functions",
+        "path_titles": [
+          "THE HIGH COURTS",
+          "2. Administrative Functions"
+        ],
+        "title": "2. Administrative Functions",
+        "sequence_number": 26,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "THE HIGH COURTS > 1.",
+        "path_titles": [
+          "THE HIGH COURTS",
+          "1."
+        ],
+        "title": "1.",
+        "sequence_number": 27,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "THE HIGH COURTS > 2.",
+        "path_titles": [
+          "THE HIGH COURTS",
+          "2."
+        ],
+        "title": "2.",
+        "sequence_number": 28,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "THE HIGH COURTS > 3. > (i)",
+        "path_titles": [
+          "THE HIGH COURTS",
+          "3.",
+          "(i)"
+        ],
+        "title": "(i)",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "THE HIGH COURTS > 3. > (ii)",
+        "path_titles": [
+          "THE HIGH COURTS",
+          "3.",
+          "(ii)"
+        ],
+        "title": "(ii)",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "THE HIGH COURTS > 3. > (iii)",
+        "path_titles": [
+          "THE HIGH COURTS",
+          "3.",
+          "(iii)"
+        ],
+        "title": "(iii)",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "THE HIGH COURTS > INDEPENDENCE OF THE HIGH COURT",
+        "path_titles": [
+          "THE HIGH COURTS",
+          "INDEPENDENCE OF THE HIGH COURT"
+        ],
+        "title": "INDEPENDENCE OF THE HIGH COURT",
+        "sequence_number": 30,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "SUBORDINATE COURTS > Structure and Composition",
+        "path_titles": [
+          "SUBORDINATE COURTS",
+          "Structure and Composition"
+        ],
+        "title": "Structure and Composition",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "SUBORDINATE COURTS > Civil Courts",
+        "path_titles": [
+          "SUBORDINATE COURTS",
+          "Civil Courts"
+        ],
+        "title": "Civil Courts",
+        "sequence_number": 2,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "SUBORDINATE COURTS > 1. The Court of the District Judge",
+        "path_titles": [
+          "SUBORDINATE COURTS",
+          "1. The Court of the District Judge"
+        ],
+        "title": "1. The Court of the District Judge",
+        "sequence_number": 3,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "SUBORDINATE COURTS > 2. Court of Civil Judge",
+        "path_titles": [
+          "SUBORDINATE COURTS",
+          "2. Court of Civil Judge"
+        ],
+        "title": "2. Court of Civil Judge",
+        "sequence_number": 4,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "SUBORDINATE COURTS > 3. Munsif's Courts",
+        "path_titles": [
+          "SUBORDINATE COURTS",
+          "3. Munsif's Courts"
+        ],
+        "title": "3. Munsif's Courts",
+        "sequence_number": 5,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "SUBORDINATE COURTS > 4. Courts of Small Causes",
+        "path_titles": [
+          "SUBORDINATE COURTS",
+          "4. Courts of Small Causes"
+        ],
+        "title": "4. Courts of Small Causes",
+        "sequence_number": 6,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "SUBORDINATE COURTS > Term of Office",
+        "path_titles": [
+          "SUBORDINATE COURTS",
+          "Term of Office"
+        ],
+        "title": "Term of Office",
+        "sequence_number": 7,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "SUBORDINATE COURTS > Administrative Control:",
+        "path_titles": [
+          "SUBORDINATE COURTS",
+          "Administrative Control:"
+        ],
+        "title": "Administrative Control:",
+        "sequence_number": 8,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "SUBORDINATE COURTS > Criminal Courts",
+        "path_titles": [
+          "SUBORDINATE COURTS",
+          "Criminal Courts"
+        ],
+        "title": "Criminal Courts",
+        "sequence_number": 9,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "SUBORDINATE COURTS > Classification of Criminal Courts",
+        "path_titles": [
+          "SUBORDINATE COURTS",
+          "Classification of Criminal Courts"
+        ],
+        "title": "Classification of Criminal Courts",
+        "sequence_number": 10,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "SUBORDINATE COURTS > Sessions Court:",
+        "path_titles": [
+          "SUBORDINATE COURTS",
+          "Sessions Court:"
+        ],
+        "title": "Sessions Court:",
+        "sequence_number": 11,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "SUBORDINATE COURTS > Court of Chief Metropolitan Magistrate or Chief Judicial Magistrate:",
+        "path_titles": [
+          "SUBORDINATE COURTS",
+          "Court of Chief Metropolitan Magistrate or Chief Judicial Magistrate:"
+        ],
+        "title": "Court of Chief Metropolitan Magistrate or Chief Judicial Magistrate:",
+        "sequence_number": 12,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "SUBORDINATE COURTS > Court of the First Class Magistrates:",
+        "path_titles": [
+          "SUBORDINATE COURTS",
+          "Court of the First Class Magistrates:"
+        ],
+        "title": "Court of the First Class Magistrates:",
+        "sequence_number": 13,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "SUBORDINATE COURTS > Court of the Second Class Magistrates:",
+        "path_titles": [
+          "SUBORDINATE COURTS",
+          "Court of the Second Class Magistrates:"
+        ],
+        "title": "Court of the Second Class Magistrates:",
+        "sequence_number": 14,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "SUBORDINATE COURTS > Appeals",
+        "path_titles": [
+          "SUBORDINATE COURTS",
+          "Appeals"
+        ],
+        "title": "Appeals",
+        "sequence_number": 15,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "SUBORDINATE COURTS > *COURTS OF REVENUE",
+        "path_titles": [
+          "SUBORDINATE COURTS",
+          "*COURTS OF REVENUE"
+        ],
+        "title": "*COURTS OF REVENUE",
+        "sequence_number": 16,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "SUBORDINATE COURTS > 1. Board of Revenue:",
+        "path_titles": [
+          "SUBORDINATE COURTS",
+          "1. Board of Revenue:"
+        ],
+        "title": "1. Board of Revenue:",
+        "sequence_number": 17,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "SUBORDINATE COURTS > 2. Commissioner's Court:",
+        "path_titles": [
+          "SUBORDINATE COURTS",
+          "2. Commissioner's Court:"
+        ],
+        "title": "2. Commissioner's Court:",
+        "sequence_number": 18,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "SUBORDINATE COURTS > 3. Collector's Court:",
+        "path_titles": [
+          "SUBORDINATE COURTS",
+          "3. Collector's Court:"
+        ],
+        "title": "3. Collector's Court:",
+        "sequence_number": 19,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "SUBORDINATE COURTS > 4. Tehsildar's Court:",
+        "path_titles": [
+          "SUBORDINATE COURTS",
+          "4. Tehsildar's Court:"
+        ],
+        "title": "4. Tehsildar's Court:",
+        "sequence_number": 20,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "SUBORDINATE COURTS > 5. Naib Tehsildar's Court:",
+        "path_titles": [
+          "SUBORDINATE COURTS",
+          "5. Naib Tehsildar's Court:"
+        ],
+        "title": "5. Naib Tehsildar's Court:",
+        "sequence_number": 21,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "LOK ADALATS > Types of Lok Adalats",
+        "path_titles": [
+          "LOK ADALATS",
+          "Types of Lok Adalats"
+        ],
+        "title": "Types of Lok Adalats",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "LOK ADALATS > National Lok Adalat:",
+        "path_titles": [
+          "LOK ADALATS",
+          "National Lok Adalat:"
+        ],
+        "title": "National Lok Adalat:",
+        "sequence_number": 2,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "LOK ADALATS > Permanent Lok Adalat:",
+        "path_titles": [
+          "LOK ADALATS",
+          "Permanent Lok Adalat:"
+        ],
+        "title": "Permanent Lok Adalat:",
+        "sequence_number": 3,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "LOK ADALATS > Mobile Lok Adalats:",
+        "path_titles": [
+          "LOK ADALATS",
+          "Mobile Lok Adalats:"
+        ],
+        "title": "Mobile Lok Adalats:",
+        "sequence_number": 4,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "LOK ADALATS > Working of Lok Adalats",
+        "path_titles": [
+          "LOK ADALATS",
+          "Working of Lok Adalats"
+        ],
+        "title": "Working of Lok Adalats",
+        "sequence_number": 5,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "LOK ADALATS > Advantages of Lok Adalats > (i)",
+        "path_titles": [
+          "LOK ADALATS",
+          "Advantages of Lok Adalats",
+          "(i)"
+        ],
+        "title": "(i)",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "LOK ADALATS > Advantages of Lok Adalats > (ii)",
+        "path_titles": [
+          "LOK ADALATS",
+          "Advantages of Lok Adalats",
+          "(ii)"
+        ],
+        "title": "(ii)",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "LOK ADALATS > Advantages of Lok Adalats > (iii)",
+        "path_titles": [
+          "LOK ADALATS",
+          "Advantages of Lok Adalats",
+          "(iii)"
+        ],
+        "title": "(iii)",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "LOK ADALATS > Advantages of Lok Adalats > (iv)",
+        "path_titles": [
+          "LOK ADALATS",
+          "Advantages of Lok Adalats",
+          "(iv)"
+        ],
+        "title": "(iv)",
+        "sequence_number": 4,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "LOK ADALATS > Scope of Lok Adalats",
+        "path_titles": [
+          "LOK ADALATS",
+          "Scope of Lok Adalats"
+        ],
+        "title": "Scope of Lok Adalats",
+        "sequence_number": 7,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "LOK ADALATS > Family Courts",
+        "path_titles": [
+          "LOK ADALATS",
+          "Family Courts"
+        ],
+        "title": "Family Courts",
+        "sequence_number": 8,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      }
+    ],
+    "stray_leaves": [
+      {
+        "title": "Appeals:",
+        "insert_after_index": 37,
+        "micro_topics": [],
+        "has_notes": true
+      },
+      {
+        "title": "DIFFERENCES BETWEEN COURT OF THE DISTRICT JUDGE AND SESSIONS COURT",
+        "insert_after_index": 40,
+        "micro_topics": [
+          "Court of the District Judge",
+          "Sessions Court"
+        ],
+        "has_notes": true
+      }
+    ]
+  }
+}

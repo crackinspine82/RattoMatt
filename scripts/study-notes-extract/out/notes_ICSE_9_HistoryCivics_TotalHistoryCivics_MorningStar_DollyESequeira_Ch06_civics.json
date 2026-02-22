@@ -13,92 +13,88 @@
   "discipline": "civics",
   "reconciliation": {
     "outline": [
+      "Local Self-Government -Urban",
       "THE CONSTITUTION (74TH AMENDMENT) ACT, 1992",
       "MUNICIPAL CORPORATION",
       "ELECTION",
       "TERM",
       "COMPOSITION",
       "(a) General Council",
-      "(b) Mayor",
       "The Municipal Corporation of Delhi",
+      "(b) Mayor",
       "Functions of the Mayor",
       "(c) Standing Committees",
       "(d) Municipal Commissioner",
       "FUNCTIONS OF THE MUNICIPAL CORPORATION",
-      "1. Compulsory Functions",
-      "2. Discretionary or Optional Functions",
+      "Compulsory Functions",
+      "2. Discretionary or Optional Functions:",
       "MUNICIPAL COMMITTEE",
-      "(a) General Body of the Municipal Committee",
-      "(b) Chairman/President",
-      "(c) Chief Executive Officer",
-      "Other Office Bearers",
+      "(a) General Body of the Municipal Committee:",
+      "Eligibility:",
+      "Term:",
+      "(b) Chairman/President:",
+      "(c) Chief Executive Officer:",
+      "Other Office Bearers:",
       "COOPERATION AND COORDINATION BETWEEN LOCAL SELF-GOVERNMENT AND LOCAL GOVERNMENT",
       "THE DISTRICT ADMINISTRATION",
-      "Appointment",
-      "Other Office Bearers",
-      "Functions",
-      "EXERCISES",
-      "I. Multiple-Choice Questions",
-      "II. Short Answer Questions",
-      "III. Structured Questions",
-      "IV. Thinking Skills"
+      "Appointment:",
+      "Other Office Bearers:",
+      "Functions:",
+      "Difference Between a Municipal Corporation and a Municipal Committee"
     ],
     "in_syllabus_only": [],
     "in_pdf_only": [
       {
+        "title": "The Municipal Corporation of Delhi",
+        "insert_after_index": 17,
+        "micro_topics": []
+      },
+      {
         "title": "COOPERATION AND COORDINATION BETWEEN LOCAL SELF-GOVERNMENT AND LOCAL GOVERNMENT",
-        "insert_after_index": 39,
-        "micro_topics": [
-          "THE DISTRICT ADMINISTRATION",
-          "Appointment",
-          "Other Office Bearers",
-          "Functions"
-        ]
+        "insert_after_index": 32,
+        "micro_topics": []
+      },
+      {
+        "title": "Difference Between a Municipal Corporation and a Municipal Committee",
+        "insert_after_index": 36,
+        "micro_topics": []
       }
     ],
     "additional_sections": [
       {
-        "title": "COOPERATION AND COORDINATION BETWEEN LOCAL SELF-GOVERNMENT AND LOCAL GOVERNMENT",
-        "content_md": "### THE DISTRICT ADMINISTRATION\nA distinction has already been drawn between the local self-government unit and the local government. The local government in an area functions at the district level under the overall charge of a District Collector or Deputy Commissioner. A Deputy Commissioner often combines both these functions. He is also the highest officer in a district for the purpose of revenue collection and is therefore also called District Collector.\n\n**Appointment:** The Deputy Commissioner belongs to the Indian Administrative Service (IAS) and is appointed by the State government. A District Collector or Deputy Commissioner is a highly trained officer in all aspects of administration and management of local affairs.\n\n**Other Office Bearers:** A number of government officers, heading various departments, work under the Deputy Commissioner. Among these officers some are exclusively deputed to rural areas with variety of duties. These include Tehsildar, Naib Tehsildars, Kanungos, Lekhpal or Patwari all concerned with preparation and maintenance of land records and revenue collection from district down to village level. At the district level law and order is looked after by the Superintendent of Police. Under him, work deputy superintendents, inspectors and subedars. A number of villages are provided a police chowki and a chowkidar is also placed on duty in each village. Other important officers at the district level include Chief Medical Officer, Inspector of Education and District Judge, etc.\nAll of these government officers work in close cooperation and coordination with the Panchayats often through the Block Development Officer. Further the Deputy Commissioner is also represented on the Zila Parishad. Therefore, he also influences the policies and programmes of the Panchayats.\n\n**Functions:** The Deputy Commissioner is the chief executive officer of the district. As such he performs almost every function of local government in the district. These include:\n(i) Collection of Revenue.\n(ii) Maintenance and Updating of land record.\n(iii) Law and Order.\n(iv) Supervision and execution of all plans of the Union and State governments.\n(v) Provision of civic amenities and execution of public works.\n(vi) Implementation of policies and programmes in respect of Panchayati Raj institutions.\n(vii) Supersession, dissolution, holding of election, etc., in respect of Panchayati Raj institutions."
+        "title": "The Municipal Corporation of Delhi",
+        "content_md": "The Municipal Corporation of Delhi had its first formal meeting on June 1, 1863. According to officials the municipality came into being in February 1863 and acted as a constituent committee to frame by laws to run the city.\n\nThe year also marked the setting up of the first sanitation and conservancy system with a Unani dispensary in Sadar Bazar as well as the introduction of registration births and deaths. The next year saw the introduction of fire fighting system, water supply and taxation. Municipal Corporation of Delhi as set up by the an Act of Parliament in 1958 is the second largest municipal body in the world."
+      },
+      {
+        "title": "Difference Between a Municipal Corporation and a Municipal Committee",
+        "content_md": "| Municipal Corporation | Municipal Committee |\n| :--- | :--- |\n| 1. These are meant for big cities. | 1. These are meant for smaller cities. |\n| 2. The head of the corporation is known as Mayor. | 2. The head of a Municipal committee is known as Chairperson/President. |\n| 3. It has more powers and more sources of revenue. | 3. It has comparatively less powers and fewer sources of revenue. |\n| 4. It deals with the State government directly. | 4. It deals with the State government through the District Administration. |"
       }
     ]
   },
   "nodes": [
     {
-      "title": "SYLLABUS",
+      "title": "Local Self-Government-Urban",
       "sequence_number": 1,
       "depth": 0,
       "level_label": "Section",
       "children": [
         {
-          "title": "Local Self-Government-Urban",
+          "title": "Urban: Municipal Committees and Municipal Corporations-meaning and functions.",
           "sequence_number": 1,
           "depth": 1,
           "level_label": "Topic",
-          "children": [
+          "children": [],
+          "content_blocks": [
             {
-              "title": "Urban: Municipal Committees and Municipal Corporations-meaning and functions.",
-              "sequence_number": 1,
-              "depth": 2,
-              "level_label": "Subtopic",
-              "children": [],
-              "content_blocks": [
-                {
-                  "content_md": "### MUNICIPAL CORPORATION\n\nA **Municipal Corporation** is a local self-government unit in big cities.\n\nThe Municipal Corporation carries out its functions through well organised divisions or departments. For example, Water Supply and Sewage Disposal Undertaking, Housing Board, Education Department and Electricity Department. Each of these departments are looked after by experienced and qualified persons.\n\n> **The Municipal Corporation of Delhi**\n> The Municipal Corporation of Delhi had its first formal meeting on June 1, 1863. According to officials the municipality came into being in February 1863 and acted as a constituent committee to frame by laws to run the city.\n> The year also marked the setting up of the first sanitation and conservancy system with a Unani dispensary in Sadar Bazar as well as the introduction of registration births and deaths. The next year saw the introduction of fire fighting system, water supply and taxation. Municipal Corporation of Delhi as set up by the an Act of Parliament in 1958 is the second largest municipal body in the world."
-                },
-                {
-                  "content_md": "### FUNCTIONS OF THE MUNICIPAL CORPORATION\n\nThe **Municipal Corporation** is the local self-government unit of the city. It deals with all the matters that concern the residents of the city. These functions are generally divided into two categories—the **obligatory or compulsory functions** and **discretionary or optional functions** (functions depending on availability of funds)."
-                },
-                {
-                  "content_md": "**Municipal Councils** and **Municipal Corporations** are constituted in smaller urban areas and larger urban areas respectively. The Governor of a state determines the areas for different forms of urban bodies based on the population of the area, density of population, revenue generated by the local body, percentage of employment in non-agricultural activities and other factors.\n\n### MUNICIPAL COMMITTEE\n\nA **Municipal Committee** is set up for smaller towns. Such bodies are also called **Municipal Boards** or **Municipalities**. Their organisation is more or less similar to Municipal Corporation. Due to their smaller size these have generally three wings—**General Body**, **Chairman/President**, **Chief Executive Officer** or the **Secretary**."
-                },
-                {
-                  "content_md": "### Difference Between a Municipal Corporation and a Municipal Committee\n\n| Municipal Corporation | Municipal Committee |\n| :--- | :--- |\n| 1. These are meant for big cities. | 1. These are meant for smaller cities. |\n| 2. The head of the corporation is known as **Mayor**. | 2. The head of a Municipal committee is known as **Chairperson/President**. |\n| 3. It has more powers and more sources of revenue. | 3. It has comparatively less powers and fewer sources of revenue. |\n| 4. It deals with the State government directly. | 4. It deals with the State government through the District Administration. |"
-                }
-              ]
+              "content_md": "### MUNICIPAL CORPORATION\n\nA **Municipal Corporation** is a local self-government unit in big cities.\n\nThe Municipal Corporation carries out its functions through well organised divisions or departments. For example, **Water Supply and Sewage Disposal Undertaking**, **Housing Board**, **Education Department** and **Electricity Department**. Each of these departments are looked after by experienced and qualified persons."
+            },
+            {
+              "content_md": "### FUNCTIONS OF THE MUNICIPAL CORPORATION\n\nThe Municipal Corporation is the local self-government unit of the city. It deals with all the matters that concern the residents of the city. These functions are generally divided into two categories—the **obligatory or compulsory functions** and **discretionary or optional functions** (functions depending on availability of funds)."
+            },
+            {
+              "content_md": "[Image: Medical camp being organised by Municipal Corporation]\n\n**Municipal Councils** and **Municipal Corporations** are constituted in smaller urban areas and larger urban areas respectively. The Governor of a state determines the areas for different forms of urban bodies based on the population of the area, density of population, revenue generated by the local body, percentage of employment in non-agricultural activities and other factors.\n\n### MUNICIPAL COMMITTEE\n\nA **Municipal Committee** is set up for smaller towns. Such bodies are also called **Municipal Boards** or **Municipalities**. Their organisation is more or less similar to a Municipal Corporation. Due to their smaller size these have generally three wings—**General Body**, **Chairman/President**, **Chief Executive Officer** or the **Secretary**.\n\n[Image: Municipal Corporation constructs and maintains roads and flyovers]"
             }
-          ],
-          "content_blocks": []
+          ]
         }
       ],
       "content_blocks": []
@@ -110,7 +106,7 @@
       "level_label": "Section",
       "children": [
         {
-          "title": "The salient features of the Act",
+          "title": "The salient features of the Act are the following:",
           "sequence_number": 1,
           "depth": 1,
           "level_label": "Topic",
@@ -123,13 +119,10 @@
               "children": [],
               "content_blocks": [
                 {
-                  "content_md": "In many States **local bodies** had become weak and ineffective on account of a variety of reasons including the **failure to hold regular elections**. As a result **Urban Local Bodies** were not able to perform effectively as vibrant democratic units of self-government. In order to make the urban local bodies more effective, the **Constitution (74th Amendment) Act, 1992**, also known as the **Nagarpalika and Municipalities Act** was passed."
+                  "content_md": "In many States local bodies had become weak and ineffective on account of a variety of reasons including the failure to hold regular elections. As a result Urban Local Bodies were not able to perform effectively as vibrant democratic units of self-government. In order to make the urban local bodies more effective, the **Constitution (74th Amendment) Act, 1992**, also known as the **Nagarpalika and Municipalities Act** was passed."
                 },
                 {
-                  "content_md": "The salient features of the Act are the following:\n*   (i) The Act gives **constitutional status** to urban local bodies.\n*   (ii) The Act provides for **direct election** to all the local self-government bodies.\n*   (iii) A **fixed tenure of five years** for the municipalities has been prescribed.\n*   (iv) **33 per cent of the seats** should be reserved for **women** under each category of SC/ST/Backward Classes.\n*   (v) **District Planning Committee** to be constituted by the State Government.\n\nThe Act provides for **three tier local bodies** for urban areas as under:\n*   (i) **Municipal Corporations** for larger urban areas.\n*   (ii) **Municipal Councils** for smaller urban areas.\n*   (iii) **Nagar Panchayats** for areas in transition from a rural area to urban area.\n\nIn addition, there are **Town Area Committees**, **Cantonment Boards** and **Port Trusts** in certain urban areas."
-                },
-                {
-                  "content_md": "[Image: Urban Self-Governing Bodies]"
+                  "content_md": "The salient features of the Act are the following:\n* The Act gives **constitutional status** to urban local bodies.\n* The Act provides for **direct election** to all the local self-government bodies.\n* A fixed tenure of **five years** for the municipalities has been prescribed.\n* **33 per cent of the seats** should be reserved for **women** under each category of SC/ST/Backward Classes.\n* **District Planning Committee** to be constituted by the State Government.\n\nThe Act provides for **three tier local bodies** for urban areas as under:\n* **Municipal Corporations** for larger urban areas.\n* **Municipal Councils** for smaller urban areas.\n* **Nagar Panchayats** for areas in transition from a rural area to urban area.\n\nIn addition, there are **Town Area Committees**, **Cantonment Boards** and **Port Trusts** in certain urban areas."
                 }
               ]
             },
@@ -141,7 +134,7 @@
               "children": [],
               "content_blocks": [
                 {
-                  "content_md": "The **Act** provides for **direct election** to all the **local self-government bodies**."
+                  "content_md": "The Act provides for **direct election** to all the **local self-government bodies**."
                 }
               ]
             },
@@ -153,7 +146,7 @@
               "children": [],
               "content_blocks": [
                 {
-                  "content_md": "A **fixed tenure of five years** has been provided in the **Constitution (74th Amendment) Act, 1992**. It can be **dissolved** even before the completion of its term by the **Governor of the State** on the advice of the **Council of Ministers**. However, the election for the Municipal Corporation should be completed before the **expiry of its term**. In case of dissolution, elections should be held **within six months of its dissolution**."
+                  "content_md": "A **fixed tenure of five years** has been provided in the **Constitution (74th Amendment) Act, 1992**. It can be **dissolved** even before the completion of its term by the **Governor of the State** on the advice of the **Council of Ministers**. However, the election for the Municipal Corporation should be completed before the expiry of its term. In case of **dissolution**, elections should be held within **six months** of its dissolution."
                 }
               ]
             },
@@ -165,7 +158,7 @@
               "children": [],
               "content_blocks": [
                 {
-                  "content_md": "**33 per cent** of the seats should be **reserved for women** under each category of **SC/ST/Backward Classes**."
+                  "content_md": "Under the **Constitution (74th Amendment) Act, 1992**, **33 per cent of the seats** should be **reserved for women** under each category of **SC/ST/Backward Classes**."
                 }
               ]
             },
@@ -177,7 +170,7 @@
               "children": [],
               "content_blocks": [
                 {
-                  "content_md": "The **Constitution (74th Amendment) Act, 1992**, provides for a **District Planning Committee** to be constituted by the **State Government**."
+                  "content_md": "*   **District Planning Committee** to be constituted by the **State Government**."
                 }
               ]
             }
@@ -198,7 +191,10 @@
               "children": [],
               "content_blocks": [
                 {
-                  "content_md": "**Municipal Corporation** is a **local self-government** unit in big cities.\n\nThe Municipal Corporation carries out its functions through well organised divisions or departments. For example, Water Supply and Sewage Disposal Undertaking, Housing Board, Education Department and Electricity Department. Each of these departments are looked after by experienced and qualified persons."
+                  "content_md": "A **Municipal Corporation** is a **local self-government unit** in **big cities**.\n\nThe Municipal Corporation carries out its functions through well-organised **divisions or departments**. For example, Water Supply and Sewage Disposal Undertaking, Housing Board, Education Department and Electricity Department. Each of these departments are looked after by experienced and qualified persons."
+                },
+                {
+                  "content_md": "### The Municipal Corporation of Delhi\nThe Municipal Corporation of Delhi had its first formal meeting on **June 1, 1863**. According to officials the municipality came into being in **February 1863** and acted as a constituent committee to frame by laws to run the city.\n\nThe year also marked the setting up of the first **sanitation and conservancy system** with a Unani dispensary in Sadar Bazar as well as the introduction of **registration of births and deaths**. The next year saw the introduction of **fire fighting system, water supply and taxation**. Municipal Corporation of Delhi as set up by an Act of Parliament in 1958 is the **second largest municipal body in the world**."
                 }
               ]
             },
@@ -210,10 +206,10 @@
               "children": [],
               "content_blocks": [
                 {
-                  "content_md": "A **Municipal Committee** is set up for smaller towns. Such bodies are also called **Municipal Boards** or **Municipalities**. Their organisation is more or less similar to a Municipal Corporation. Due to their smaller size, these have generally three wings—**General Body**, **Chairman/President**, **Chief Executive Officer** or the **Secretary**."
+                  "content_md": "Municipal Councils and Municipal Corporations are constituted in smaller urban areas and larger urban areas respectively. The Governor of a state determines the areas for different forms of urban bodies based on the population of the area, density of population, revenue generated by the local body, percentage of employment in non-agricultural activities and other factors."
                 },
                 {
-                  "content_md": "[Image: Municipal Corporation constructs and maintains roads and flyovers]"
+                  "content_md": "A **Municipal Committee** is set up for smaller towns. Such bodies are also called **Municipal Boards** or **Municipalities**. Their organisation is more or less similar to a Municipal Corporation. Due to their smaller size these have generally three wings—**General Body**, **Chairman/President**, **Chief Executive Officer** or the **Secretary**.\n\n[Image: Municipal Corporation constructs and maintains roads and flyovers]"
                 }
               ]
             },
@@ -225,7 +221,7 @@
               "children": [],
               "content_blocks": [
                 {
-                  "content_md": "As per the **Constitution (74th Amendment) Act, 1992**, which provides for a three-tier system of urban local bodies, **Nagar Panchayats** are constituted for areas in transition from a rural area to an urban area."
+                  "content_md": "The **Constitution (74th Amendment) Act, 1992** provides for three-tier local bodies for urban areas. One of these bodies is the **Nagar Panchayat**.\n\n*   **Nagar Panchayats** are constituted for areas in transition from a rural area to an urban area."
                 }
               ]
             }
@@ -240,7 +236,7 @@
           "children": [],
           "content_blocks": [
             {
-              "content_md": "In addition, there are **Town Area Committees**, **Cantonment Boards** and **Port Trusts** in certain urban areas.\n\n[Image: Urban Self-Governing Bodies]"
+              "content_md": ""
             }
           ]
         }
@@ -261,7 +257,7 @@
           "children": [],
           "content_blocks": [
             {
-              "content_md": "The members of the Corporation are elected in the same way as members of the **Legislative Assembly**. However, instead of **Constituency**, Municipal areas are known as **Wards**. The elections are held on the basis of **Universal Adult Franchise** through **secret ballot**. The number of representatives depends on the population of the city."
+              "content_md": "The **members of the Corporation** are elected in the same way as members of the **Legislative Assembly**. However, instead of **Constituency**, Municipal areas are known as **Wards**. The elections are held on the basis of **Universal Adult Franchise** through **secret ballot**. The number of representatives depends on the population of the city."
             }
           ]
         },
@@ -273,7 +269,7 @@
           "children": [],
           "content_blocks": [
             {
-              "content_md": "A fixed tenure of **five years** has been provided in the **Constitution (74th Amendment) Act, 1992**. It can be **dissolved** even before the completion of its term by the **Governor of the State** on the advice of the **Council of Ministers**. However, the election for the Municipal Corporation should be completed before the expiry of its term. In case of dissolution, elections should be held within **six months** of its dissolution."
+              "content_md": "A **fixed tenure of five years** has been provided in the **Constitution (74th Amendment) Act, 1992**. It can be **dissolved** even before the completion of its term by the **Governor of the State** on the advice of the Council of Ministers. However, the election for the Municipal Corporation should be completed before the expiry of its term. In case of dissolution, elections should be held within **six months** of its dissolution."
             }
           ]
         },
@@ -291,7 +287,7 @@
               "children": [],
               "content_blocks": [
                 {
-                  "content_md": "The **General Council** is formed of elected members known as **Municipal Councillors**. These members are elected directly on the basis of **Universal Adult Franchise** through secret ballot. The number of seats in a Corporation depends on the population of the city and is determined by the State government. There are reserved constituencies for **Scheduled Castes** and **Scheduled Tribes**. The General Council co-opts some members as **Aldermen**. They are generally eminent persons of the city and are nominated by the **Governor**. The General Council appoints many other officials except the **Municipal Commissioner**."
+                  "content_md": "### (a) General Council\n\nThe **General Council** is formed of elected members known as **Municipal Councillors**. These members are elected directly on the basis of **Universal Adult Franchise** through secret ballot. The number of seats in a Corporation depends on the population of the city and is determined by the **State government**. There are **reserved constituencies** for **Scheduled Castes** and **Scheduled Tribes**. The **General Council** co-opts some members as **Aldermen**. They are generally eminent persons of the city and are nominated by the **Governor**. The **General Council** appoints many other officials except the **Municipal Commissioner**."
                 }
               ]
             },
@@ -303,7 +299,7 @@
               "children": [],
               "content_blocks": [
                 {
-                  "content_md": "The **Councillors** together with **Aldermen** elect from amongst themselves the **Mayor** and the **Deputy Mayor**. They are generally elected for a period of **one year** but can be re-elected annually for the full term of the Corporation."
+                  "content_md": "The **Councillors** together with **Aldermen** elect from amongst themselves the **Mayor** and the **Deputy Mayor**. They are generally elected for a period of one year but can be re-elected annually for the full term of the Corporation."
                 }
               ]
             },
@@ -315,7 +311,7 @@
               "children": [],
               "content_blocks": [
                 {
-                  "content_md": "The members of the **General Council** are represented on **Standing Committees** through elections. There are different Standing Committees to deal with subjects like **finance**, **health**, **engineering**, **taxation** and **welfare schemes**."
+                  "content_md": "The members of the **General Council** are represented on **Standing Committees** through elections. There are different **Standing Committees** to deal with subjects like **finance**, **health**, **engineering**, **taxation** and **welfare schemes**."
                 }
               ]
             },
@@ -327,106 +323,37 @@
               "children": [],
               "content_blocks": [
                 {
-                  "content_md": "The **Municipal Commissioner** is appointed by the **Governor** usually for a term of 5 years. In the case of Union Territory, he/she is appointed by the **Central Government**. He/She is the **Chief Executive** of the Corporation. His/Her functions include the following:"
+                  "content_md": "The **Municipal Commissioner** is appointed by the **Governor** usually for a term of 5 years. In the case of a Union Territory, he/she is appointed by the **Central Government**. He/She is the **Chief Executive** of the Corporation."
                 },
                 {
-                  "content_md": "1. To carry on and control the **administration** of the Corporation.\n2. To **implement the projects and programmes** as laid down by the General Council.\n3. To **maintain and safeguard all municipal properties**, records etc.\n4. To prepare **financial budgets** and perform other related functions.\n5. To take part in the meetings of the Council but he cannot move any resolution or vote in the meetings. He also **keeps records** of the minutes and proceedings of the meetings."
+                  "content_md": "His/Her functions include the following:\n\n1.  To carry on and control the **administration of the Corporation**.\n2.  To implement the **projects and programmes** as laid down by the **General Council**.\n3.  To **maintain and safeguard** all municipal properties, records etc.\n4.  To prepare **financial budgets** and perform other related functions.\n5.  To take part in the meetings of the Council but he cannot move any resolution or vote in the meetings. He also **keeps records** of the minutes and proceedings of the meetings."
                 }
               ]
             }
           ],
           "content_blocks": []
-        }
-      ],
-      "content_blocks": []
-    },
-    {
-      "title": "The Municipal Corporation of Delhi",
-      "sequence_number": 4,
-      "depth": 0,
-      "level_label": "Section",
-      "children": [],
-      "content_blocks": [
-        {
-          "content_md": "The **Municipal Corporation of Delhi** had its first formal meeting on **June 1, 1863**. According to officials, the municipality came into being in **February 1863** and acted as a constituent committee to frame by-laws to run the city.\n\n*   The year also marked the setting up of the first **sanitation and conservancy system** with a Unani dispensary in Sadar Bazar as well as the introduction of **registration of births and deaths**.\n*   The next year saw the introduction of a **fire fighting system, water supply and taxation**.\n*   The Municipal Corporation of Delhi, as set up by an **Act of Parliament in 1958**, is the **second largest municipal body in the world**."
-        }
-      ]
-    },
-    {
-      "title": "Functions of the Mayor",
-      "sequence_number": 5,
-      "depth": 0,
-      "level_label": "Section",
-      "children": [
-        {
-          "title": "Considered as the 'First Citizen'",
-          "sequence_number": 1,
-          "depth": 1,
-          "level_label": "Topic",
-          "children": [],
-          "content_blocks": [
-            {
-              "content_md": "The **Mayor** is considered as the **‘First Citizen’**. He/she represents the city at various ceremonies and receives foreign guests coming to visit the city. This is considered his most important duty."
-            }
-          ]
         },
         {
-          "title": "He/She presides over the meetings of the Corporation.",
-          "sequence_number": 2,
-          "depth": 1,
-          "level_label": "Topic",
-          "children": [],
-          "content_blocks": [
-            {
-              "content_md": "He/She presides over the meetings of the **Corporation**."
-            }
-          ]
-        },
-        {
-          "title": "He/She regulates and conducts business of the Corporation.",
-          "sequence_number": 3,
-          "depth": 1,
-          "level_label": "Topic",
-          "children": [],
-          "content_blocks": [
-            {
-              "content_md": "He/She regulates and conducts business of the Corporation."
-            }
-          ]
-        },
-        {
-          "title": "He/She fixes the agenda for consideration at the meetings of the Corporation.",
+          "title": "The Municipal Corporation of Delhi",
           "sequence_number": 4,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "He/She fixes the **agenda** for consideration at the **meetings of the Corporation**."
+              "content_md": "The **Municipal Corporation of Delhi** had its first formal meeting on **June 1, 1863**. According to officials the municipality came into being in **February 1863** and acted as a constituent committee to frame by-laws to run the city.\n\nThe year also marked the setting up of the **first sanitation and conservancy system** with a **Unani dispensary in Sadar Bazar** as well as the introduction of **registration of births and deaths**. The next year saw the introduction of a **fire fighting system, water supply and taxation**. The Municipal Corporation of Delhi, as set up by an **Act of Parliament in 1958**, is the **second largest municipal body in the world**."
             }
           ]
         },
         {
-          "title": "He/She obtains reports from the Municipal Commissioner regarding various projects and programmes undertaken by the Corporation.",
+          "title": "Functions of the Mayor",
           "sequence_number": 5,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "He/She obtains reports from the **Municipal Commissioner** regarding various **projects and programmes** undertaken by the **Corporation**."
-            }
-          ]
-        },
-        {
-          "title": "He/She acts as a link between the Corporation and the State government.",
-          "sequence_number": 6,
-          "depth": 1,
-          "level_label": "Topic",
-          "children": [],
-          "content_blocks": [
-            {
-              "content_md": "He/She acts as a link between the **Corporation** and the **State government**."
+              "content_md": "1. Considered as the **‘First Citizen’**, he/she represents the city at various ceremonies and receives foreign guests coming to visit the city. This is considered his most important duty.\n2. He/She **presides over the meetings** of the Corporation.\n3. He/She **regulates and conducts business** of the Corporation.\n4. He/She **fixes the agenda** for consideration at the meetings of the Corporation.\n5. He/She **obtains reports** from the **Municipal Commissioner** regarding various projects and programmes undertaken by the Corporation.\n6. He/She acts as a **link between the Corporation and the State government**."
             }
           ]
         }
@@ -435,7 +362,7 @@
     },
     {
       "title": "FUNCTIONS OF THE MUNICIPAL CORPORATION",
-      "sequence_number": 6,
+      "sequence_number": 4,
       "depth": 0,
       "level_label": "Section",
       "children": [
@@ -444,157 +371,31 @@
           "sequence_number": 1,
           "depth": 1,
           "level_label": "Topic",
-          "children": [
+          "children": [],
+          "content_blocks": [
             {
-              "title": "Provision of electricity, water, sewage disposal",
-              "sequence_number": 1,
-              "depth": 2,
-              "level_label": "Subtopic",
-              "children": [],
-              "content_blocks": [
-                {
-                  "content_md": "Provision of **electricity**, **water**, **sewage disposal**. These functions are carried through various departments which have the services of **experts and engineers** who are appointed as full time employees of the Corporation."
-                }
-              ]
-            },
-            {
-              "title": "Provision of public health services",
-              "sequence_number": 2,
-              "depth": 2,
-              "level_label": "Subtopic",
-              "children": [],
-              "content_blocks": [
-                {
-                  "content_md": "This includes the provision of **public health services**, which involves:\n*   Providing **hospitals**, **dispensaries**, and **family welfare centres**.\n*   Organising and carrying on special **public health measures** to prevent the spread of **communicable diseases**.\n*   **Removal and disposal of garbage** and dealing with other city wastes are **priority functions**.\n*   The Corporation appoints its own staff to carry on these functions."
-                }
-              ]
-            },
-            {
-              "title": "Provision of public conveniences and utilities like roads, buildings, bus-shelters, demolition of dangerous structures, plantation of trees, provision of public urinals and toilets.",
-              "sequence_number": 3,
-              "depth": 2,
-              "level_label": "Subtopic",
-              "children": [],
-              "content_blocks": [
-                {
-                  "content_md": "Provision of **public conveniences and utilities** like roads, buildings, bus-shelters, demolition of dangerous structures, plantation of trees, provision of public urinals and toilets."
-                }
-              ]
-            },
-            {
-              "title": "Provision of educational institutions like primary and secondary schools including organisation of adult literacy classes, organising and undertaking promotion of sports and games and providing necessary facilities.",
-              "sequence_number": 4,
-              "depth": 2,
-              "level_label": "Subtopic",
-              "children": [],
-              "content_blocks": [
-                {
-                  "content_md": "Provision of **educational institutions** like **primary and secondary schools** including organisation of **adult literacy classes**, organising and undertaking **promotion of sports and games** and providing necessary facilities."
-                }
-              ]
-            },
-            {
-              "title": "Maintenance of records of births and deaths and maintenance and upkeep of cremation and burial grounds.",
-              "sequence_number": 5,
-              "depth": 2,
-              "level_label": "Subtopic",
-              "children": [],
-              "content_blocks": [
-                {
-                  "content_md": "This function includes the **maintenance of records of births and deaths** and the **maintenance and upkeep of cremation and burial grounds**."
-                }
-              ]
-            },
-            {
-              "title": "Undertaking of public safety and security like maintenance of fire department together with fire engines; disaster like",
-              "sequence_number": 6,
-              "depth": 2,
-              "level_label": "Subtopic",
-              "children": [],
-              "content_blocks": [
-                {
-                  "content_md": "Undertaking of **public safety and security** like maintenance of **fire department** together with **fire engines**; disaster management for events like **floods** and **earthquakes** through management groups, etc."
-                }
-              ]
+              "content_md": "These include:\n1.  **Provision of electricity, water, sewage disposal**. These functions are carried through various departments which have the services of experts and engineers who are appointed as full time employees of the Corporation.\n2.  **Provision of public health services** like provision of **hospitals, dispensaries, family welfare centres**. It has to organise and carry on special public health measures to prevent the spread of **communicable diseases**. Removal and disposal of garbage, and dealing with other city wastes are priority functions. The Corporation appoints its own staff to carry on these functions.\n3.  **Provision of public conveniences and utilities** like roads, buildings, bus-shelters, demolition of dangerous structures, plantation of trees, and provision of public urinals and toilets.\n4.  **Provision of educational institutions** like primary and secondary schools including organisation of adult literacy classes, organising and undertaking promotion of sports and games and providing necessary facilities.\n5.  **Maintenance of records of births and deaths** and maintenance and upkeep of cremation and burial grounds.\n6.  Undertaking of **public safety and security** like maintenance of **fire department** together with fire engines; disaster like floods and earthquake management groups etc.\n7.  Preparation, publishing and issuing of an **annual report of the Corporation** stating its various activities, projects and programmes."
             }
-          ],
-          "content_blocks": []
-        },
-        {
-          "title": "2. Discretionary or Optional Functions:",
-          "sequence_number": 2,
-          "depth": 1,
-          "level_label": "Topic",
-          "children": [
-            {
-              "title": "Public housing through housing boards.",
-              "sequence_number": 1,
-              "depth": 2,
-              "level_label": "Subtopic",
-              "children": [],
-              "content_blocks": [
-                {
-                  "content_md": "Among the **Discretionary or Optional Functions** of a Municipal Corporation is the provision of **public housing through housing boards**."
-                }
-              ]
-            },
-            {
-              "title": "Construction and maintenance of public parks, libraries, museums, theatre, akharas, picnic resorts etc.",
-              "sequence_number": 2,
-              "depth": 2,
-              "level_label": "Subtopic",
-              "children": [],
-              "content_blocks": [
-                {
-                  "content_md": "This is a **Discretionary or Optional Function** of a Municipal Corporation. It includes the **construction and maintenance** of:\n\n*   **public parks**\n*   **libraries**\n*   **museums**\n*   **theatre**\n*   **akharas**\n*   **picnic resorts etc.**"
-                }
-              ]
-            },
-            {
-              "title": "Establishing and maintaining children's homes, orphanages, old-age homes, night shelters and rest houses.",
-              "sequence_number": 3,
-              "depth": 2,
-              "level_label": "Subtopic",
-              "children": [],
-              "content_blocks": [
-                {
-                  "content_md": "One of the **Discretionary or Optional Functions** of a **Municipal Corporation** is to establish and maintain **children's homes, orphanages, old-age homes, night shelters and rest houses**."
-                }
-              ]
-            },
-            {
-              "title": "Undertaking welfare schemes, organising fares, functions, melas.",
-              "sequence_number": 4,
-              "depth": 2,
-              "level_label": "Subtopic",
-              "children": [],
-              "content_blocks": [
-                {
-                  "content_md": "* Undertaking **welfare schemes**, organising **fares**, **functions**, **melas**."
-                }
-              ]
-            },
-            {
-              "title": "Beautification of city.",
-              "sequence_number": 5,
-              "depth": 2,
-              "level_label": "Subtopic",
-              "children": [],
-              "content_blocks": [
-                {
-                  "content_md": "The **beautification of the city** is a discretionary or optional function of the Municipal Corporation."
-                }
-              ]
-            }
-          ],
-          "content_blocks": []
+          ]
         }
       ],
       "content_blocks": []
     },
     {
+      "title": "2. Discretionary or Optional Functions:",
+      "sequence_number": 5,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "These include the following:\n(i) **Public housing** through **housing boards**.\n(ii) Construction and maintenance of **public parks**, **libraries**, **museums**, **theatre**, akharas, picnic resorts etc.\n(iii) Establishing and maintaining **children's homes**, **orphanages**, **old-age homes**, **night shelters** and **rest houses**.\n(iv) Undertaking **welfare schemes**, organising fares, functions, melas.\n(v) **Beautification of city**."
+        }
+      ]
+    },
+    {
       "title": "MUNICIPAL COMMITTEE",
-      "sequence_number": 7,
+      "sequence_number": 6,
       "depth": 0,
       "level_label": "Section",
       "children": [
@@ -606,43 +407,67 @@
           "children": [],
           "content_blocks": [
             {
-              "content_md": "The members of the **General Body** of the **Municipal Committee** are called **Councillors**. They are elected from Municipal **wards**. The number of members depends on the population of the city."
+              "content_md": "The members of the **General Body** of the **Municipal Committee** are called **Councillors**. They are elected from **Municipal wards**. The number of members depends on the population of the city."
             }
           ]
         },
         {
-          "title": "(b) Chairman/President:",
+          "title": "Eligibility:",
           "sequence_number": 2,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "A **Chairperson** and a **Vice-Chairperson** are elected indirectly by the members from among themselves. The **Chairperson** of a Municipality enjoys vast powers. His functions are similar to those of the **Mayor**."
+              "content_md": "Eligibility for contesting elections to the **General Body of the Municipal Committee** are same as in the case of **Municipal Corporation**."
             }
           ]
         },
         {
-          "title": "(c) Chief Executive Officer:",
+          "title": "Term:",
           "sequence_number": 3,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "The **Chief Executive Officer** is an appointee of the **State government** and usually belongs to the **State Civil Services**. He looks after the **administrative wing** of the Municipal Committee."
+              "content_md": "A **fixed tenure of five years** has been provided in the **Constitution (74th Amendment) Act, 1992**. It can be **dissolved** even before the completion of its term by the **Governor of the State** on the advice of the **Council of Ministers**. However, the election for the Municipal Corporation should be completed before the expiry of its term. In case of dissolution, elections should be held **within six months of its dissolution**."
             }
           ]
         },
         {
-          "title": "Other Office Bearers:",
+          "title": "(b) Chairman/President:",
           "sequence_number": 4,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "Like in the case of a Municipal Corporation, a **Municipal Committee** also has various departments like **Education**, **Health**, **Engineering**, **Taxation** etc. These departments are under the administrative control of senior officers and engineers or other experts."
+              "content_md": "A **Chairperson** and a **Vice-Chairperson** are elected indirectly by the members from among themselves. The **Chairperson** of a Municipality enjoys vast powers. His functions are similar to those of the **Mayor**. (Kindly refer to Functions of Mayor)"
+            }
+          ]
+        },
+        {
+          "title": "(c) Chief Executive Officer:",
+          "sequence_number": 5,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **Chief Executive Officer** is an appointee of the **State government** and usually belongs to the **State Civil Services**. He looks after the **administrative wing** of the **Municipal Committee**."
+            }
+          ]
+        },
+        {
+          "title": "Other Office Bearers:",
+          "sequence_number": 6,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "Like in the case of a **Municipal Corporation**, a **Municipal Committee** also has various departments like **Education, Health, Engineering, Taxation** etc. These departments are under the administrative control of **senior officers and engineers** or other experts."
             }
           ]
         }
@@ -651,149 +476,43 @@
     },
     {
       "title": "THE DISTRICT ADMINISTRATION",
-      "sequence_number": 8,
+      "sequence_number": 7,
       "depth": 0,
       "level_label": "Section",
       "children": [
         {
-          "title": "Functions:",
-          "sequence_number": 1,
-          "depth": 1,
-          "level_label": "Topic",
-          "children": [
-            {
-              "title": "Collection of Revenue.",
-              "sequence_number": 1,
-              "depth": 2,
-              "level_label": "Subtopic",
-              "children": [],
-              "content_blocks": []
-            },
-            {
-              "title": "Maintenance and Updating of land record.",
-              "sequence_number": 2,
-              "depth": 2,
-              "level_label": "Subtopic",
-              "children": [],
-              "content_blocks": [
-                {
-                  "content_md": "The **Deputy Commissioner**, as the chief executive officer of the district, performs almost every function of local government in the district. One of these key functions is the **Maintenance and Updating of land record**.\n\nOther government officers, heading various departments, work under the Deputy Commissioner. Among these, some are exclusively deputed to rural areas with a variety of duties. This includes the following officials who are all concerned with the **preparation and maintenance of land records** and revenue collection from the district down to the village level:\n*   **Tehsildar**\n*   **Naib Tehsildars**\n*   **Kanungos**\n*   **Lekhpal or Patwari**"
-                }
-              ]
-            },
-            {
-              "title": "Law and Order.",
-              "sequence_number": 3,
-              "depth": 2,
-              "level_label": "Subtopic",
-              "children": [],
-              "content_blocks": [
-                {
-                  "content_md": ""
-                }
-              ]
-            },
-            {
-              "title": "Supervision and execution of all plans of the Union and State governments.",
-              "sequence_number": 4,
-              "depth": 2,
-              "level_label": "Subtopic",
-              "children": [],
-              "content_blocks": [
-                {
-                  "content_md": "This is one of the functions of the **Deputy Commissioner**, who is the chief executive officer of the district."
-                }
-              ]
-            },
-            {
-              "title": "Provision of civic amenities and execution of public works.",
-              "sequence_number": 5,
-              "depth": 2,
-              "level_label": "Subtopic",
-              "children": [],
-              "content_blocks": [
-                {
-                  "content_md": ""
-                }
-              ]
-            },
-            {
-              "title": "Implementation of policies and programmes in respect of Panchayati Raj institutions.",
-              "sequence_number": 6,
-              "depth": 2,
-              "level_label": "Subtopic",
-              "children": [],
-              "content_blocks": [
-                {
-                  "content_md": ""
-                }
-              ]
-            },
-            {
-              "title": "Supersession, dissolution, holding of election, etc., in respect of Panchayati Raj institutions.",
-              "sequence_number": 7,
-              "depth": 2,
-              "level_label": "Subtopic",
-              "children": [],
-              "content_blocks": [
-                {
-                  "content_md": "As part of the functions of the **Deputy Commissioner**, who is the chief executive officer of the district, one of the key responsibilities includes:\n\n*   **Supersession, dissolution, holding of election, etc., in respect of Panchayati Raj institutions.**"
-                }
-              ]
-            }
-          ],
-          "content_blocks": []
-        }
-      ],
-      "content_blocks": []
-    },
-    {
-      "title": "EXERCISES",
-      "sequence_number": 9,
-      "depth": 0,
-      "level_label": "Section",
-      "children": [
-        {
-          "title": "I. Multiple-Choice Questions",
+          "title": "Appointment:",
           "sequence_number": 1,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": ""
+              "content_md": "The **Deputy Commissioner** belongs to the **Indian Administrative Service (IAS)** and is appointed by the State government. A **District Collector** or **Deputy Commissioner** is a highly trained officer in all aspects of administration and management of local affairs."
             }
           ]
         },
         {
-          "title": "II. Short Answer Questions",
+          "title": "Other Office Bearers:",
           "sequence_number": 2,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
-          "content_blocks": []
+          "content_blocks": [
+            {
+              "content_md": "Like in the case of a **Municipal Corporation**, a **Municipal Committee** also has various departments like **Education**, **Health**, **Engineering**, **Taxation** etc. These departments are under the administrative control of senior officers and engineers or other experts."
+            }
+          ]
         },
         {
-          "title": "III. Structured Questions",
+          "title": "Functions:",
           "sequence_number": 3,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": ""
-            }
-          ]
-        },
-        {
-          "title": "IV. Thinking Skills",
-          "sequence_number": 4,
-          "depth": 1,
-          "level_label": "Topic",
-          "children": [],
-          "content_blocks": [
-            {
-              "content_md": ""
+              "content_md": "The **Municipal Corporation** is the local self-government unit of the city. It deals with all the matters that concern the residents of the city. These functions are generally divided into two categories—the **obligatory or compulsory functions** and **discretionary or optional functions** (functions depending on availability of funds)."
             }
           ]
         }
@@ -803,40 +522,36 @@
   ],
   "additional_sections": [
     {
-      "title": "COOPERATION AND COORDINATION BETWEEN LOCAL SELF-GOVERNMENT AND LOCAL GOVERNMENT",
-      "content_md": "### THE DISTRICT ADMINISTRATION\nA distinction has already been drawn between the local self-government unit and the local government. The local government in an area functions at the district level under the overall charge of a District Collector or Deputy Commissioner. A Deputy Commissioner often combines both these functions. He is also the highest officer in a district for the purpose of revenue collection and is therefore also called District Collector.\n\n**Appointment:** The Deputy Commissioner belongs to the Indian Administrative Service (IAS) and is appointed by the State government. A District Collector or Deputy Commissioner is a highly trained officer in all aspects of administration and management of local affairs.\n\n**Other Office Bearers:** A number of government officers, heading various departments, work under the Deputy Commissioner. Among these officers some are exclusively deputed to rural areas with variety of duties. These include Tehsildar, Naib Tehsildars, Kanungos, Lekhpal or Patwari all concerned with preparation and maintenance of land records and revenue collection from district down to village level. At the district level law and order is looked after by the Superintendent of Police. Under him, work deputy superintendents, inspectors and subedars. A number of villages are provided a police chowki and a chowkidar is also placed on duty in each village. Other important officers at the district level include Chief Medical Officer, Inspector of Education and District Judge, etc.\nAll of these government officers work in close cooperation and coordination with the Panchayats often through the Block Development Officer. Further the Deputy Commissioner is also represented on the Zila Parishad. Therefore, he also influences the policies and programmes of the Panchayats.\n\n**Functions:** The Deputy Commissioner is the chief executive officer of the district. As such he performs almost every function of local government in the district. These include:\n(i) Collection of Revenue.\n(ii) Maintenance and Updating of land record.\n(iii) Law and Order.\n(iv) Supervision and execution of all plans of the Union and State governments.\n(v) Provision of civic amenities and execution of public works.\n(vi) Implementation of policies and programmes in respect of Panchayati Raj institutions.\n(vii) Supersession, dissolution, holding of election, etc., in respect of Panchayati Raj institutions."
+      "title": "The Municipal Corporation of Delhi",
+      "content_md": "The Municipal Corporation of Delhi had its first formal meeting on June 1, 1863. According to officials the municipality came into being in February 1863 and acted as a constituent committee to frame by laws to run the city.\n\nThe year also marked the setting up of the first sanitation and conservancy system with a Unani dispensary in Sadar Bazar as well as the introduction of registration births and deaths. The next year saw the introduction of fire fighting system, water supply and taxation. Municipal Corporation of Delhi as set up by the an Act of Parliament in 1958 is the second largest municipal body in the world."
+    },
+    {
+      "title": "Difference Between a Municipal Corporation and a Municipal Committee",
+      "content_md": "| Municipal Corporation | Municipal Committee |\n| :--- | :--- |\n| 1. These are meant for big cities. | 1. These are meant for smaller cities. |\n| 2. The head of the corporation is known as Mayor. | 2. The head of a Municipal committee is known as Chairperson/President. |\n| 3. It has more powers and more sources of revenue. | 3. It has comparatively less powers and fewer sources of revenue. |\n| 4. It deals with the State government directly. | 4. It deals with the State government through the District Administration. |"
     }
   ],
   "needs_review": [
-    "Collection of Revenue.",
-    "Law and Order.",
-    "Provision of civic amenities and execution of public works.",
-    "Implementation of policies and programmes in respect of Panchayati Raj institutions.",
-    "I. Multiple-Choice Questions",
-    "II. Short Answer Questions",
-    "III. Structured Questions",
-    "IV. Thinking Skills"
+    "In addition, there are Town Area Committees, Cantonment Boards and Port Trusts in certain urban areas."
   ],
   "manifest": {
     "syllabus_leaves": [
       {
-        "path": "SYLLABUS > Local Self-Government-Urban > Urban: Municipal Committees and Municipal Corporations-meaning and functions.",
+        "path": "Local Self-Government-Urban > Urban: Municipal Committees and Municipal Corporations-meaning and functions.",
         "path_titles": [
-          "SYLLABUS",
           "Local Self-Government-Urban",
           "Urban: Municipal Committees and Municipal Corporations-meaning and functions."
         ],
         "title": "Urban: Municipal Committees and Municipal Corporations-meaning and functions.",
         "sequence_number": 1,
-        "depth": 2,
-        "level_label": "Subtopic",
+        "depth": 1,
+        "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "THE CONSTITUTION (74TH AMENDMENT) ACT, 1992 > The salient features of the Act > The Act gives constitutional status to urban local bodies.",
+        "path": "THE CONSTITUTION (74TH AMENDMENT) ACT, 1992 > The salient features of the Act are the following: > The Act gives constitutional status to urban local bodies.",
         "path_titles": [
           "THE CONSTITUTION (74TH AMENDMENT) ACT, 1992",
-          "The salient features of the Act",
+          "The salient features of the Act are the following:",
           "The Act gives constitutional status to urban local bodies."
         ],
         "title": "The Act gives constitutional status to urban local bodies.",
@@ -846,10 +561,10 @@
         "has_notes": true
       },
       {
-        "path": "THE CONSTITUTION (74TH AMENDMENT) ACT, 1992 > The salient features of the Act > The Act provides for direct election to all the local self-government bodies.",
+        "path": "THE CONSTITUTION (74TH AMENDMENT) ACT, 1992 > The salient features of the Act are the following: > The Act provides for direct election to all the local self-government bodies.",
         "path_titles": [
           "THE CONSTITUTION (74TH AMENDMENT) ACT, 1992",
-          "The salient features of the Act",
+          "The salient features of the Act are the following:",
           "The Act provides for direct election to all the local self-government bodies."
         ],
         "title": "The Act provides for direct election to all the local self-government bodies.",
@@ -859,10 +574,10 @@
         "has_notes": true
       },
       {
-        "path": "THE CONSTITUTION (74TH AMENDMENT) ACT, 1992 > The salient features of the Act > A fixed tenure of five years for the municipalities has been prescribed.",
+        "path": "THE CONSTITUTION (74TH AMENDMENT) ACT, 1992 > The salient features of the Act are the following: > A fixed tenure of five years for the municipalities has been prescribed.",
         "path_titles": [
           "THE CONSTITUTION (74TH AMENDMENT) ACT, 1992",
-          "The salient features of the Act",
+          "The salient features of the Act are the following:",
           "A fixed tenure of five years for the municipalities has been prescribed."
         ],
         "title": "A fixed tenure of five years for the municipalities has been prescribed.",
@@ -872,10 +587,10 @@
         "has_notes": true
       },
       {
-        "path": "THE CONSTITUTION (74TH AMENDMENT) ACT, 1992 > The salient features of the Act > 33 per cent of the seats should be reserved for women under each category of SC/ST/Backward Classes.",
+        "path": "THE CONSTITUTION (74TH AMENDMENT) ACT, 1992 > The salient features of the Act are the following: > 33 per cent of the seats should be reserved for women under each category of SC/ST/Backward Classes.",
         "path_titles": [
           "THE CONSTITUTION (74TH AMENDMENT) ACT, 1992",
-          "The salient features of the Act",
+          "The salient features of the Act are the following:",
           "33 per cent of the seats should be reserved for women under each category of SC/ST/Backward Classes."
         ],
         "title": "33 per cent of the seats should be reserved for women under each category of SC/ST/Backward Classes.",
@@ -885,10 +600,10 @@
         "has_notes": true
       },
       {
-        "path": "THE CONSTITUTION (74TH AMENDMENT) ACT, 1992 > The salient features of the Act > District Planning Committee to be constituted by the State Government.",
+        "path": "THE CONSTITUTION (74TH AMENDMENT) ACT, 1992 > The salient features of the Act are the following: > District Planning Committee to be constituted by the State Government.",
         "path_titles": [
           "THE CONSTITUTION (74TH AMENDMENT) ACT, 1992",
-          "The salient features of the Act",
+          "The salient features of the Act are the following:",
           "District Planning Committee to be constituted by the State Government."
         ],
         "title": "District Planning Committee to be constituted by the State Government.",
@@ -946,7 +661,7 @@
         "sequence_number": 3,
         "depth": 1,
         "level_label": "Topic",
-        "has_notes": true
+        "has_notes": false
       },
       {
         "path": "MUNICIPAL CORPORATION > ELECTION",
@@ -1025,229 +740,50 @@
         "has_notes": true
       },
       {
-        "path": "The Municipal Corporation of Delhi",
+        "path": "MUNICIPAL CORPORATION > The Municipal Corporation of Delhi",
         "path_titles": [
+          "MUNICIPAL CORPORATION",
           "The Municipal Corporation of Delhi"
         ],
         "title": "The Municipal Corporation of Delhi",
         "sequence_number": 4,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "MUNICIPAL CORPORATION > Functions of the Mayor",
+        "path_titles": [
+          "MUNICIPAL CORPORATION",
+          "Functions of the Mayor"
+        ],
+        "title": "Functions of the Mayor",
+        "sequence_number": 5,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "FUNCTIONS OF THE MUNICIPAL CORPORATION > Compulsory Functions",
+        "path_titles": [
+          "FUNCTIONS OF THE MUNICIPAL CORPORATION",
+          "Compulsory Functions"
+        ],
+        "title": "Compulsory Functions",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "2. Discretionary or Optional Functions:",
+        "path_titles": [
+          "2. Discretionary or Optional Functions:"
+        ],
+        "title": "2. Discretionary or Optional Functions:",
+        "sequence_number": 5,
         "depth": 0,
         "level_label": "Section",
-        "has_notes": true
-      },
-      {
-        "path": "Functions of the Mayor > Considered as the 'First Citizen'",
-        "path_titles": [
-          "Functions of the Mayor",
-          "Considered as the 'First Citizen'"
-        ],
-        "title": "Considered as the 'First Citizen'",
-        "sequence_number": 1,
-        "depth": 1,
-        "level_label": "Topic",
-        "has_notes": true
-      },
-      {
-        "path": "Functions of the Mayor > He/She presides over the meetings of the Corporation.",
-        "path_titles": [
-          "Functions of the Mayor",
-          "He/She presides over the meetings of the Corporation."
-        ],
-        "title": "He/She presides over the meetings of the Corporation.",
-        "sequence_number": 2,
-        "depth": 1,
-        "level_label": "Topic",
-        "has_notes": true
-      },
-      {
-        "path": "Functions of the Mayor > He/She regulates and conducts business of the Corporation.",
-        "path_titles": [
-          "Functions of the Mayor",
-          "He/She regulates and conducts business of the Corporation."
-        ],
-        "title": "He/She regulates and conducts business of the Corporation.",
-        "sequence_number": 3,
-        "depth": 1,
-        "level_label": "Topic",
-        "has_notes": true
-      },
-      {
-        "path": "Functions of the Mayor > He/She fixes the agenda for consideration at the meetings of the Corporation.",
-        "path_titles": [
-          "Functions of the Mayor",
-          "He/She fixes the agenda for consideration at the meetings of the Corporation."
-        ],
-        "title": "He/She fixes the agenda for consideration at the meetings of the Corporation.",
-        "sequence_number": 4,
-        "depth": 1,
-        "level_label": "Topic",
-        "has_notes": true
-      },
-      {
-        "path": "Functions of the Mayor > He/She obtains reports from the Municipal Commissioner regarding various projects and programmes undertaken by the Corporation.",
-        "path_titles": [
-          "Functions of the Mayor",
-          "He/She obtains reports from the Municipal Commissioner regarding various projects and programmes undertaken by the Corporation."
-        ],
-        "title": "He/She obtains reports from the Municipal Commissioner regarding various projects and programmes undertaken by the Corporation.",
-        "sequence_number": 5,
-        "depth": 1,
-        "level_label": "Topic",
-        "has_notes": true
-      },
-      {
-        "path": "Functions of the Mayor > He/She acts as a link between the Corporation and the State government.",
-        "path_titles": [
-          "Functions of the Mayor",
-          "He/She acts as a link between the Corporation and the State government."
-        ],
-        "title": "He/She acts as a link between the Corporation and the State government.",
-        "sequence_number": 6,
-        "depth": 1,
-        "level_label": "Topic",
-        "has_notes": true
-      },
-      {
-        "path": "FUNCTIONS OF THE MUNICIPAL CORPORATION > Compulsory Functions > Provision of electricity, water, sewage disposal",
-        "path_titles": [
-          "FUNCTIONS OF THE MUNICIPAL CORPORATION",
-          "Compulsory Functions",
-          "Provision of electricity, water, sewage disposal"
-        ],
-        "title": "Provision of electricity, water, sewage disposal",
-        "sequence_number": 1,
-        "depth": 2,
-        "level_label": "Subtopic",
-        "has_notes": true
-      },
-      {
-        "path": "FUNCTIONS OF THE MUNICIPAL CORPORATION > Compulsory Functions > Provision of public health services",
-        "path_titles": [
-          "FUNCTIONS OF THE MUNICIPAL CORPORATION",
-          "Compulsory Functions",
-          "Provision of public health services"
-        ],
-        "title": "Provision of public health services",
-        "sequence_number": 2,
-        "depth": 2,
-        "level_label": "Subtopic",
-        "has_notes": true
-      },
-      {
-        "path": "FUNCTIONS OF THE MUNICIPAL CORPORATION > Compulsory Functions > Provision of public conveniences and utilities like roads, buildings, bus-shelters, demolition of dangerous structures, plantation of trees, provision of public urinals and toilets.",
-        "path_titles": [
-          "FUNCTIONS OF THE MUNICIPAL CORPORATION",
-          "Compulsory Functions",
-          "Provision of public conveniences and utilities like roads, buildings, bus-shelters, demolition of dangerous structures, plantation of trees, provision of public urinals and toilets."
-        ],
-        "title": "Provision of public conveniences and utilities like roads, buildings, bus-shelters, demolition of dangerous structures, plantation of trees, provision of public urinals and toilets.",
-        "sequence_number": 3,
-        "depth": 2,
-        "level_label": "Subtopic",
-        "has_notes": true
-      },
-      {
-        "path": "FUNCTIONS OF THE MUNICIPAL CORPORATION > Compulsory Functions > Provision of educational institutions like primary and secondary schools including organisation of adult literacy classes, organising and undertaking promotion of sports and games and providing necessary facilities.",
-        "path_titles": [
-          "FUNCTIONS OF THE MUNICIPAL CORPORATION",
-          "Compulsory Functions",
-          "Provision of educational institutions like primary and secondary schools including organisation of adult literacy classes, organising and undertaking promotion of sports and games and providing necessary facilities."
-        ],
-        "title": "Provision of educational institutions like primary and secondary schools including organisation of adult literacy classes, organising and undertaking promotion of sports and games and providing necessary facilities.",
-        "sequence_number": 4,
-        "depth": 2,
-        "level_label": "Subtopic",
-        "has_notes": true
-      },
-      {
-        "path": "FUNCTIONS OF THE MUNICIPAL CORPORATION > Compulsory Functions > Maintenance of records of births and deaths and maintenance and upkeep of cremation and burial grounds.",
-        "path_titles": [
-          "FUNCTIONS OF THE MUNICIPAL CORPORATION",
-          "Compulsory Functions",
-          "Maintenance of records of births and deaths and maintenance and upkeep of cremation and burial grounds."
-        ],
-        "title": "Maintenance of records of births and deaths and maintenance and upkeep of cremation and burial grounds.",
-        "sequence_number": 5,
-        "depth": 2,
-        "level_label": "Subtopic",
-        "has_notes": true
-      },
-      {
-        "path": "FUNCTIONS OF THE MUNICIPAL CORPORATION > Compulsory Functions > Undertaking of public safety and security like maintenance of fire department together with fire engines; disaster like",
-        "path_titles": [
-          "FUNCTIONS OF THE MUNICIPAL CORPORATION",
-          "Compulsory Functions",
-          "Undertaking of public safety and security like maintenance of fire department together with fire engines; disaster like"
-        ],
-        "title": "Undertaking of public safety and security like maintenance of fire department together with fire engines; disaster like",
-        "sequence_number": 6,
-        "depth": 2,
-        "level_label": "Subtopic",
-        "has_notes": true
-      },
-      {
-        "path": "FUNCTIONS OF THE MUNICIPAL CORPORATION > 2. Discretionary or Optional Functions: > Public housing through housing boards.",
-        "path_titles": [
-          "FUNCTIONS OF THE MUNICIPAL CORPORATION",
-          "2. Discretionary or Optional Functions:",
-          "Public housing through housing boards."
-        ],
-        "title": "Public housing through housing boards.",
-        "sequence_number": 1,
-        "depth": 2,
-        "level_label": "Subtopic",
-        "has_notes": true
-      },
-      {
-        "path": "FUNCTIONS OF THE MUNICIPAL CORPORATION > 2. Discretionary or Optional Functions: > Construction and maintenance of public parks, libraries, museums, theatre, akharas, picnic resorts etc.",
-        "path_titles": [
-          "FUNCTIONS OF THE MUNICIPAL CORPORATION",
-          "2. Discretionary or Optional Functions:",
-          "Construction and maintenance of public parks, libraries, museums, theatre, akharas, picnic resorts etc."
-        ],
-        "title": "Construction and maintenance of public parks, libraries, museums, theatre, akharas, picnic resorts etc.",
-        "sequence_number": 2,
-        "depth": 2,
-        "level_label": "Subtopic",
-        "has_notes": true
-      },
-      {
-        "path": "FUNCTIONS OF THE MUNICIPAL CORPORATION > 2. Discretionary or Optional Functions: > Establishing and maintaining children's homes, orphanages, old-age homes, night shelters and rest houses.",
-        "path_titles": [
-          "FUNCTIONS OF THE MUNICIPAL CORPORATION",
-          "2. Discretionary or Optional Functions:",
-          "Establishing and maintaining children's homes, orphanages, old-age homes, night shelters and rest houses."
-        ],
-        "title": "Establishing and maintaining children's homes, orphanages, old-age homes, night shelters and rest houses.",
-        "sequence_number": 3,
-        "depth": 2,
-        "level_label": "Subtopic",
-        "has_notes": true
-      },
-      {
-        "path": "FUNCTIONS OF THE MUNICIPAL CORPORATION > 2. Discretionary or Optional Functions: > Undertaking welfare schemes, organising fares, functions, melas.",
-        "path_titles": [
-          "FUNCTIONS OF THE MUNICIPAL CORPORATION",
-          "2. Discretionary or Optional Functions:",
-          "Undertaking welfare schemes, organising fares, functions, melas."
-        ],
-        "title": "Undertaking welfare schemes, organising fares, functions, melas.",
-        "sequence_number": 4,
-        "depth": 2,
-        "level_label": "Subtopic",
-        "has_notes": true
-      },
-      {
-        "path": "FUNCTIONS OF THE MUNICIPAL CORPORATION > 2. Discretionary or Optional Functions: > Beautification of city.",
-        "path_titles": [
-          "FUNCTIONS OF THE MUNICIPAL CORPORATION",
-          "2. Discretionary or Optional Functions:",
-          "Beautification of city."
-        ],
-        "title": "Beautification of city.",
-        "sequence_number": 5,
-        "depth": 2,
-        "level_label": "Subtopic",
         "has_notes": true
       },
       {
@@ -1263,13 +799,37 @@
         "has_notes": true
       },
       {
+        "path": "MUNICIPAL COMMITTEE > Eligibility:",
+        "path_titles": [
+          "MUNICIPAL COMMITTEE",
+          "Eligibility:"
+        ],
+        "title": "Eligibility:",
+        "sequence_number": 2,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "MUNICIPAL COMMITTEE > Term:",
+        "path_titles": [
+          "MUNICIPAL COMMITTEE",
+          "Term:"
+        ],
+        "title": "Term:",
+        "sequence_number": 3,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
         "path": "MUNICIPAL COMMITTEE > (b) Chairman/President:",
         "path_titles": [
           "MUNICIPAL COMMITTEE",
           "(b) Chairman/President:"
         ],
         "title": "(b) Chairman/President:",
-        "sequence_number": 2,
+        "sequence_number": 4,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
@@ -1281,7 +841,7 @@
           "(c) Chief Executive Officer:"
         ],
         "title": "(c) Chief Executive Officer:",
-        "sequence_number": 3,
+        "sequence_number": 5,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
@@ -1293,161 +853,65 @@
           "Other Office Bearers:"
         ],
         "title": "Other Office Bearers:",
-        "sequence_number": 4,
-        "depth": 1,
-        "level_label": "Topic",
-        "has_notes": true
-      },
-      {
-        "path": "THE DISTRICT ADMINISTRATION > Functions: > Collection of Revenue.",
-        "path_titles": [
-          "THE DISTRICT ADMINISTRATION",
-          "Functions:",
-          "Collection of Revenue."
-        ],
-        "title": "Collection of Revenue.",
-        "sequence_number": 1,
-        "depth": 2,
-        "level_label": "Subtopic",
-        "has_notes": false
-      },
-      {
-        "path": "THE DISTRICT ADMINISTRATION > Functions: > Maintenance and Updating of land record.",
-        "path_titles": [
-          "THE DISTRICT ADMINISTRATION",
-          "Functions:",
-          "Maintenance and Updating of land record."
-        ],
-        "title": "Maintenance and Updating of land record.",
-        "sequence_number": 2,
-        "depth": 2,
-        "level_label": "Subtopic",
-        "has_notes": true
-      },
-      {
-        "path": "THE DISTRICT ADMINISTRATION > Functions: > Law and Order.",
-        "path_titles": [
-          "THE DISTRICT ADMINISTRATION",
-          "Functions:",
-          "Law and Order."
-        ],
-        "title": "Law and Order.",
-        "sequence_number": 3,
-        "depth": 2,
-        "level_label": "Subtopic",
-        "has_notes": false
-      },
-      {
-        "path": "THE DISTRICT ADMINISTRATION > Functions: > Supervision and execution of all plans of the Union and State governments.",
-        "path_titles": [
-          "THE DISTRICT ADMINISTRATION",
-          "Functions:",
-          "Supervision and execution of all plans of the Union and State governments."
-        ],
-        "title": "Supervision and execution of all plans of the Union and State governments.",
-        "sequence_number": 4,
-        "depth": 2,
-        "level_label": "Subtopic",
-        "has_notes": true
-      },
-      {
-        "path": "THE DISTRICT ADMINISTRATION > Functions: > Provision of civic amenities and execution of public works.",
-        "path_titles": [
-          "THE DISTRICT ADMINISTRATION",
-          "Functions:",
-          "Provision of civic amenities and execution of public works."
-        ],
-        "title": "Provision of civic amenities and execution of public works.",
-        "sequence_number": 5,
-        "depth": 2,
-        "level_label": "Subtopic",
-        "has_notes": false
-      },
-      {
-        "path": "THE DISTRICT ADMINISTRATION > Functions: > Implementation of policies and programmes in respect of Panchayati Raj institutions.",
-        "path_titles": [
-          "THE DISTRICT ADMINISTRATION",
-          "Functions:",
-          "Implementation of policies and programmes in respect of Panchayati Raj institutions."
-        ],
-        "title": "Implementation of policies and programmes in respect of Panchayati Raj institutions.",
         "sequence_number": 6,
-        "depth": 2,
-        "level_label": "Subtopic",
-        "has_notes": false
-      },
-      {
-        "path": "THE DISTRICT ADMINISTRATION > Functions: > Supersession, dissolution, holding of election, etc., in respect of Panchayati Raj institutions.",
-        "path_titles": [
-          "THE DISTRICT ADMINISTRATION",
-          "Functions:",
-          "Supersession, dissolution, holding of election, etc., in respect of Panchayati Raj institutions."
-        ],
-        "title": "Supersession, dissolution, holding of election, etc., in respect of Panchayati Raj institutions.",
-        "sequence_number": 7,
-        "depth": 2,
-        "level_label": "Subtopic",
+        "depth": 1,
+        "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "EXERCISES > I. Multiple-Choice Questions",
+        "path": "THE DISTRICT ADMINISTRATION > Appointment:",
         "path_titles": [
-          "EXERCISES",
-          "I. Multiple-Choice Questions"
+          "THE DISTRICT ADMINISTRATION",
+          "Appointment:"
         ],
-        "title": "I. Multiple-Choice Questions",
+        "title": "Appointment:",
         "sequence_number": 1,
         "depth": 1,
         "level_label": "Topic",
-        "has_notes": false
+        "has_notes": true
       },
       {
-        "path": "EXERCISES > II. Short Answer Questions",
+        "path": "THE DISTRICT ADMINISTRATION > Other Office Bearers:",
         "path_titles": [
-          "EXERCISES",
-          "II. Short Answer Questions"
+          "THE DISTRICT ADMINISTRATION",
+          "Other Office Bearers:"
         ],
-        "title": "II. Short Answer Questions",
+        "title": "Other Office Bearers:",
         "sequence_number": 2,
         "depth": 1,
         "level_label": "Topic",
-        "has_notes": false
+        "has_notes": true
       },
       {
-        "path": "EXERCISES > III. Structured Questions",
+        "path": "THE DISTRICT ADMINISTRATION > Functions:",
         "path_titles": [
-          "EXERCISES",
-          "III. Structured Questions"
+          "THE DISTRICT ADMINISTRATION",
+          "Functions:"
         ],
-        "title": "III. Structured Questions",
+        "title": "Functions:",
         "sequence_number": 3,
         "depth": 1,
         "level_label": "Topic",
-        "has_notes": false
-      },
-      {
-        "path": "EXERCISES > IV. Thinking Skills",
-        "path_titles": [
-          "EXERCISES",
-          "IV. Thinking Skills"
-        ],
-        "title": "IV. Thinking Skills",
-        "sequence_number": 4,
-        "depth": 1,
-        "level_label": "Topic",
-        "has_notes": false
+        "has_notes": true
       }
     ],
     "stray_leaves": [
       {
+        "title": "The Municipal Corporation of Delhi",
+        "insert_after_index": 17,
+        "micro_topics": [],
+        "has_notes": true
+      },
+      {
         "title": "COOPERATION AND COORDINATION BETWEEN LOCAL SELF-GOVERNMENT AND LOCAL GOVERNMENT",
-        "insert_after_index": 39,
-        "micro_topics": [
-          "THE DISTRICT ADMINISTRATION",
-          "Appointment",
-          "Other Office Bearers",
-          "Functions"
-        ],
+        "insert_after_index": 32,
+        "micro_topics": [],
+        "has_notes": false
+      },
+      {
+        "title": "Difference Between a Municipal Corporation and a Municipal Committee",
+        "insert_after_index": 36,
+        "micro_topics": [],
         "has_notes": true
       }
     ]

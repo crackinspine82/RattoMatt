@@ -1,0 +1,259 @@
+{
+  "syllabus_leaves": [
+    {
+      "path": "Causes of World War II > Dissatisfaction with the Treaty of Versailles",
+      "path_titles": [
+        "Causes of World War II",
+        "Dissatisfaction with the Treaty of Versailles"
+      ],
+      "title": "Dissatisfaction with the Treaty of Versailles",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Causes of World War II > Rise of Fascism and Nazism",
+      "path_titles": [
+        "Causes of World War II",
+        "Rise of Fascism and Nazism"
+      ],
+      "title": "Rise of Fascism and Nazism",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Causes of World War II > Policy of Appeasement",
+      "path_titles": [
+        "Causes of World War II",
+        "Policy of Appeasement"
+      ],
+      "title": "Policy of Appeasement",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Causes of World War II > Japanese Invasion of China",
+      "path_titles": [
+        "Causes of World War II",
+        "Japanese Invasion of China"
+      ],
+      "title": "Japanese Invasion of China",
+      "sequence_number": 4,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Causes of World War II > Failure of the League of Nations",
+      "path_titles": [
+        "Causes of World War II",
+        "Failure of the League of Nations"
+      ],
+      "title": "Failure of the League of Nations",
+      "sequence_number": 5,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Causes of World War II > Hitler's Invasion of Poland (Immediate Cause)",
+      "path_titles": [
+        "Causes of World War II",
+        "Hitler's Invasion of Poland (Immediate Cause)"
+      ],
+      "title": "Hitler's Invasion of Poland (Immediate Cause)",
+      "sequence_number": 6,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "EVENTS OF THE WAR > Conquest of Norway, Denmark and Holland",
+      "path_titles": [
+        "EVENTS OF THE WAR",
+        "Conquest of Norway, Denmark and Holland"
+      ],
+      "title": "Conquest of Norway, Denmark and Holland",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "EVENTS OF THE WAR > Fall of France",
+      "path_titles": [
+        "EVENTS OF THE WAR",
+        "Fall of France"
+      ],
+      "title": "Fall of France",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "EVENTS OF THE WAR > The Battle of Britain",
+      "path_titles": [
+        "EVENTS OF THE WAR",
+        "The Battle of Britain"
+      ],
+      "title": "The Battle of Britain",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "EVENTS OF THE WAR > The Battle of Stalingrad",
+      "path_titles": [
+        "EVENTS OF THE WAR",
+        "The Battle of Stalingrad"
+      ],
+      "title": "The Battle of Stalingrad",
+      "sequence_number": 4,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "EVENTS OF THE WAR > The Battle for Berlin",
+      "path_titles": [
+        "EVENTS OF THE WAR",
+        "The Battle for Berlin"
+      ],
+      "title": "The Battle for Berlin",
+      "sequence_number": 5,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "EVENTS OF THE WAR > Attack on Pearl Harbour",
+      "path_titles": [
+        "EVENTS OF THE WAR",
+        "Attack on Pearl Harbour"
+      ],
+      "title": "Attack on Pearl Harbour",
+      "sequence_number": 6,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "EVENTS OF THE WAR > Bombing of Hiroshima and Nagasaki",
+      "path_titles": [
+        "EVENTS OF THE WAR",
+        "Bombing of Hiroshima and Nagasaki"
+      ],
+      "title": "Bombing of Hiroshima and Nagasaki",
+      "sequence_number": 7,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "CONSEQUENCES OF THE SECOND WORLD WAR > Defeat of Axis Powers",
+      "path_titles": [
+        "CONSEQUENCES OF THE SECOND WORLD WAR",
+        "Defeat of Axis Powers"
+      ],
+      "title": "Defeat of Axis Powers",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "CONSEQUENCES OF THE SECOND WORLD WAR > Formation of the UN",
+      "path_titles": [
+        "CONSEQUENCES OF THE SECOND WORLD WAR",
+        "Formation of the UN"
+      ],
+      "title": "Formation of the UN",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "CONSEQUENCES OF THE SECOND WORLD WAR > Cold War",
+      "path_titles": [
+        "CONSEQUENCES OF THE SECOND WORLD WAR",
+        "Cold War"
+      ],
+      "title": "Cold War",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "CONSEQUENCES OF THE SECOND WORLD WAR > MEANING OF COLD WAR",
+      "path_titles": [
+        "CONSEQUENCES OF THE SECOND WORLD WAR",
+        "MEANING OF COLD WAR"
+      ],
+      "title": "MEANING OF COLD WAR",
+      "sequence_number": 4,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "CONSEQUENCES OF THE SECOND WORLD WAR > The Democratic and Capitalist Bloc",
+      "path_titles": [
+        "CONSEQUENCES OF THE SECOND WORLD WAR",
+        "The Democratic and Capitalist Bloc"
+      ],
+      "title": "The Democratic and Capitalist Bloc",
+      "sequence_number": 5,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "CONSEQUENCES OF THE SECOND WORLD WAR > The Communist Bloc",
+      "path_titles": [
+        "CONSEQUENCES OF THE SECOND WORLD WAR",
+        "The Communist Bloc"
+      ],
+      "title": "The Communist Bloc",
+      "sequence_number": 6,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "CONSEQUENCES OF THE SECOND WORLD WAR > Military Alliances > North Atlantic Treaty Organisation (NATO)",
+      "path_titles": [
+        "CONSEQUENCES OF THE SECOND WORLD WAR",
+        "Military Alliances",
+        "North Atlantic Treaty Organisation (NATO)"
+      ],
+      "title": "North Atlantic Treaty Organisation (NATO)",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "CONSEQUENCES OF THE SECOND WORLD WAR > Military Alliances > Warsaw Pact",
+      "path_titles": [
+        "CONSEQUENCES OF THE SECOND WORLD WAR",
+        "Military Alliances",
+        "Warsaw Pact"
+      ],
+      "title": "Warsaw Pact",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    }
+  ],
+  "stray_leaves": []
+}

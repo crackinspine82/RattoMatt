@@ -95,91 +95,87 @@
       "has_notes": true
     },
     {
-      "path": "FOOD AND DRESS",
+      "path": "SOCIETY > FOOD AND DRESS",
       "path_titles": [
+        "SOCIETY",
         "FOOD AND DRESS"
       ],
       "title": "FOOD AND DRESS",
-      "sequence_number": 6,
-      "depth": 0,
-      "level_label": "Section",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "ENTERTAINMENT",
+      "path": "SOCIETY > ENTERTAINMENT",
       "path_titles": [
+        "SOCIETY",
         "ENTERTAINMENT"
       ],
       "title": "ENTERTAINMENT",
-      "sequence_number": 7,
-      "depth": 0,
-      "level_label": "Section",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "POSITION OF WOMEN",
+      "path": "SOCIETY > POSITION OF WOMEN",
       "path_titles": [
+        "SOCIETY",
         "POSITION OF WOMEN"
       ],
       "title": "POSITION OF WOMEN",
-      "sequence_number": 8,
-      "depth": 0,
-      "level_label": "Section",
+      "sequence_number": 4,
+      "depth": 1,
+      "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "MARRIAGE",
+      "path": "SOCIETY > MARRIAGE",
       "path_titles": [
+        "SOCIETY",
         "MARRIAGE"
       ],
       "title": "MARRIAGE",
-      "sequence_number": 9,
-      "depth": 0,
-      "level_label": "Section",
+      "sequence_number": 5,
+      "depth": 1,
+      "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "ECONOMY",
+      "path": "ECONOMY > AGRICULTURE",
       "path_titles": [
-        "ECONOMY"
-      ],
-      "title": "ECONOMY",
-      "sequence_number": 10,
-      "depth": 0,
-      "level_label": "Section",
-      "has_notes": true
-    },
-    {
-      "path": "AGRICULTURE",
-      "path_titles": [
+        "ECONOMY",
         "AGRICULTURE"
       ],
       "title": "AGRICULTURE",
-      "sequence_number": 11,
-      "depth": 0,
-      "level_label": "Section",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "OTHER OCCUPATIONS",
+      "path": "ECONOMY > OTHER OCCUPATIONS",
       "path_titles": [
+        "ECONOMY",
         "OTHER OCCUPATIONS"
       ],
       "title": "OTHER OCCUPATIONS",
-      "sequence_number": 12,
-      "depth": 0,
-      "level_label": "Section",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "TRADE",
+      "path": "ECONOMY > TRADE",
       "path_titles": [
+        "ECONOMY",
         "TRADE"
       ],
       "title": "TRADE",
-      "sequence_number": 13,
-      "depth": 0,
-      "level_label": "Section",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
       "has_notes": true
     }
   ],

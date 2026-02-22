@@ -41,6 +41,11 @@ Extracts chapter → topic → micro-topic structure from textbook PDFs using th
   - `node extract.mjs --book=TotalHistoryCivics_MorningStar_DollyESequeira`
   - or `BOOK_SLUG=TotalHistoryCivics_MorningStar_DollyESequeira node extract.mjs`
 
+- **Extract one chapter and merge into existing syllabus JSON:**  
+  If a chapter was skipped (e.g. API failure) or you added a PDF later, run extraction for that chapter only and merge into the existing file. Requires the syllabus file to already exist (from a previous full run).
+  - `node extract.mjs --book=TotalHistoryCivics_MorningStar_DollyESequeira --chapter=7 --discipline=history --merge`  
+  The script will process only the PDF matching chapter 7 and history (e.g. `History_7 - Title.pdf`), then update `out/syllabus_ICSE_10_HistoryCivics_TotalHistoryCivics_MorningStar_DollyESequeira.json` in place.
+
 The script reads `docs/icse_publications.json` and walks `Books/ICSE/{grade}/{subject}/{book_slug}/`. Only publications that have a matching folder are processed. Chapter PDFs follow the naming in `docs/BOOKS_FOLDER_CONVENTION.md` (e.g. `1 - Title.pdf` or `History_1 - Title.pdf`). Cover PDFs are skipped.
 
 Output is written to `scripts/syllabus-extract/out/syllabus_ICSE_{grade}_{subject}_{book_slug}.json`. The script waits 2.5s between chapter API calls. On 429 rate limit it retries up to 3 times with exponential backoff (8s, 16s, 32s) before skipping that chapter. To seed Postgres (subjects, chapters, topics, micro_topics), use the backend seed script: from `backend/` run `DATABASE_URL=... npm run seed:syllabus -- ../scripts/syllabus-extract/out/<filename>.json`. See `backend/README.md`.

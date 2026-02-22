@@ -13,50 +13,99 @@
   "discipline": "history",
   "reconciliation": {
     "outline": [
+      "SYLLABUS",
       "SOURCES",
-      "Inscriptions",
-      "The Brihadeshwara temple",
+      "1. Inscriptions:",
+      "2. The Brihadeshwara temple:",
       "POLITICAL HISTORY",
-      "Rajaraja I",
-      "Rajendra Chola",
+      "Rajaraja I:",
+      "Rajendra Chola:",
       "THE CHOLA ADMINISTRATION",
-      "Central Government",
-      "Provincial Government",
-      "Local Self-Government",
-      "The Revenue",
-      "The Chola Art",
+      "Central Government:",
+      "Provincial Government:",
+      "Local Self-Government:",
+      "THINK ABOUT IT.",
+      "The Revenue:",
+      "The Chola Art:",
       "EXERCISES",
-      "Multiple-Choice Questions",
-      "Short Answer Questions",
-      "Structured Questions",
-      "Thinking Skills"
+      "I. Multiple-Choice Questions",
+      "II. Short Answer Questions",
+      "III. Structured Questions",
+      "IV. Thinking Skills"
     ],
     "in_syllabus_only": [],
-    "in_pdf_only": [],
-    "additional_sections": []
+    "in_pdf_only": [
+      {
+        "title": "Introduction",
+        "insert_after_index": 3,
+        "micro_topics": []
+      },
+      {
+        "title": "THINK ABOUT IT.",
+        "insert_after_index": 21,
+        "micro_topics": []
+      }
+    ],
+    "additional_sections": [
+      {
+        "title": "Introduction",
+        "content_md": "The southern part of the Indian peninsula situated south of the Krishna river was inhabited by the Dravidians. They had their own language and culture. This region was home to three powerful kingdoms—the Cheras, the Pandyas and the Cholas. The most powerful of the three were the Cholas.\n\nThe Chola Empire which arose in the ninth century, brought under its control a large part of the peninsula. The Cholas developed a powerful navy which enabled them to develop India's sea-trade in the Indian Ocean and to conquer Sri Lanka and the Maldive Islands. By the end of the 9th century, the Cholas defeated the Pallavas of Kanchi and weakened the Pandyans bringing the Tamil country (Tondamandala) under their control."
+      },
+      {
+        "title": "THINK ABOUT IT.",
+        "content_md": "According to leading Archeometallurgist Sharada Srinivasan \"In terms of the scale of accomplishments in art and architecture and the wealth of writing and epigraphic records, the Cholas would come across as one of the richest dynasties in South Indian history... There is a profusion of inscriptions that give meticulous details about administration, social life, and material culture... The Brihadeshwara Temple alone that was consecrated in 1010 CE by Rajaraja I has nearly a hundred inscriptions... the Cholas were also the first empire with grand commercial and territorial ambitions outside of the Indian subcontinent with a maritime outreach of expeditions, conquests or trade to Sri Lanka, the Maldives, China, Java/ Sumatra and southeast Asia.\" What was the effect of this grand empire on Sri Lanka and South-East Asia? Do we have evidence of the same?"
+      }
+    ]
   },
   "nodes": [
     {
-      "title": "SOURCES",
+      "title": "SYLLABUS",
       "sequence_number": 1,
       "depth": 0,
       "level_label": "Section",
       "children": [
         {
-          "title": "Inscriptions",
+          "title": "Medieval India (A) The Cholas",
           "sequence_number": 1,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "The main source of information for the history of the **Chola period** is the large number of inscriptions of that period. **Rajaraja I** conceived the idea of prefixing to his inscriptions the main achievements of his reign. The example of Rajaraja was followed by his successors as well. Consequently, there exists a formal record of the transactions made by each Chola ruler.\n\nThe inscriptions of the Cholas are in the form of **Copper-plate grants**, **stone inscriptions** and inscriptions made on the **walls and pillars of temples**. The **Copper-plate grants** known as **Anbil** and **Karandi** as well as the **Kanyakumari stone inscription** give a long list of rulers indicating the origin of the Chola dynasty. Another set of **Copper-plate** contains 31 copper sheets. These plates are written in **Sanskrit** and **Tamil**. They record a grant made to a temple by **Rajendra Chola I**."
+              "content_md": "##### SYLLABUS\n\n**Medieval India (A) The Cholas**\n\n**Sources**: Inscriptions, Brihadeshwara Temple.\n\n**Political history and administration** (Rajaraja I, Rajendra I)."
             },
             {
-              "content_md": "[Image: Copper-plate Inscriptions]"
+              "content_md": "The southern part of the Indian peninsula situated south of the **Krishna river** was inhabited by the **Dravidians**. They had their own language and culture. This region was home to three powerful kingdoms—the **Cheras**, the **Pandyas** and the **Cholas**. The most powerful of the three were the **Cholas**.\n\nThe **Chola Empire** which arose in the **ninth century**, brought under its control a large part of the peninsula. The Cholas developed a powerful navy which enabled them to develop India's **sea-trade** in the **Indian Ocean** and to conquer **Sri Lanka** and the **Maldive Islands**. By the end of the 9th century, the Cholas defeated the **Pallavas of Kanchi** and weakened the **Pandyans** bringing the Tamil country (**Tondamandala**) under their control."
+            }
+          ]
+        },
+        {
+          "title": "Sources: Inscriptions, Brihadeshwara Temple.",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The important sources of information about the **Cholas** are the following:"
+            }
+          ]
+        },
+        {
+          "title": "Political history and administration (Rajaraja I, Rajendra I).",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "Chola ruler **Vijayalaya** established Chola rule in Tamil land, with **Thanjavur** as his capital, during the middle of the ninth century. After his death, his grandson, **Parantaka I**, became the king. He conquered Madurai and defeated the Pandyas and the rulers of Lanka. By the 11th century AD the Chola power had reached the height of its glory. **Rajaraja I** and his son, **Rajendra Chola** were the two prominent rulers of this dynasty."
             },
             {
-              "content_md": "The inscriptions provide the following information about the Cholas.\n1.  They tell us about the **Chola administration**. For example, the **Uttaramerur inscription** gives information on the village administration, taxation and land revenue.\n2.  They record gifts and endowments to temples and brahmanas. **Copper-plate inscriptions** are the records of grants of villages, plots of land or other privileges to individuals or institutions by the Cholas. For example, the **Leyden grant** (so called as they are preserved in the Museum of Leyden in Holland) of **Parantaka Chola** and those of Parakesari Uttama Chola are among the most important.\n3.  They inform us about the construction of a temple or the setting up of a new image of the deity.\n4.  Some inscriptions have **royal orders** on taxation and land revenue, resolutions of village assemblies, judgements delivered against persons guilty of theft, murder and other crimes.\n5.  Inscriptions on temple walls served the purpose of **public registrations** such as the record of sales, mortgages and other forms of transfers of property rights in village lands."
+              "content_md": "**Rajaraja I**: Rajaraja I was a brilliant general and campaigned in many directions. He attacked the kingdoms of the **Pandyas** and the **Cheras** as well as parts of **Mysore**. Rajaraja annexed parts of **Deccan** and overran **Vengi**. He did this in order to prove the strength of the Chola power. He took some territories of **Mysore**, **Travancore** and **Coorg**.\n\nThe coasts of Kerala, Ceylon (Sri Lanka) and the Maldive Islands had become rich through the money that came to them from overseas trade. India sent textiles, spices and precious stones to the West Asian countries. The people who came from Western Asia to trade in these goods were the **Arab merchants**, who exchanged money for goods. Foreigners brought wealth to India through their trade.\n\nRajaraja was aware of the importance of controlling the sea. He decided to show his strength along the coasts of South India. So, he took out a naval expedition and attacked both **Sri Lanka** and the **Maldive Islands**. He conquered the northern half of Sri Lanka.\n\nHe built the **Rajarajeshwara temple** of Lord Shiva at **Thanjavur**. On the walls of this temple are inscribed the main works of Rajaraja I. Under his rule, the **Cholas became the supreme power in Southern India**. The increase in trade brought prosperity to their kingdom, **Cholamandal**. In fact, the word, **Coromandel** has been derived from Cholamandal."
+            },
+            {
+              "content_md": "**Rajendra Chola**: Rajendra succeeded his father, **Rajaraja I**. He continued his father's policies. He invaded and annexed the whole island of **Sri Lanka**. Sri Lanka was not able to free herself from the Chola control for another 50 years.\n\nRajendra's campaigns were daring. Once his armies marched up to the east coast of India, through **Odisha**, and up to the **Ganga river**. Rajendra Chola himself led the army up to the Godavari and thereafter his generals took charge of the army. The Chola army defeated **Mahipala**, king of Bengal. To commemorate this victory, he adopted the title of **Gangaikonda** and built a new capital called **Gangaikonda-Cholapuram** in the present State of Tamil Nadu.\n\nHis most daring campaign was in South-East Asia. For centuries, Indian merchants had been trading with various parts of South-East Asia and southern China, through the **Straits of Malacca**, which was held by the kingdom of **Shrivijaya** (modern day Indonesia). As the merchants of Shrivijaya began creating problems for the Indian merchants, the Indian merchants appealed to Rajendra Chola for help. He sent out a huge navy and defeated the Shrivijaya king. As a result, Indian trade with South-East Asia and southern China continued, thereby greatly enriching the Chola kingdom. He built magnificent palaces and beautiful temples at his new capital Gangaikonda-Cholapuram.\n\n[Image: Vimana of Brihadeshwara Temple]"
             }
           ]
         }
@@ -64,66 +113,130 @@
       "content_blocks": []
     },
     {
-      "title": "The Brihadeshwara temple",
+      "title": "SOURCES",
       "sequence_number": 2,
       "depth": 0,
       "level_label": "Section",
       "children": [
         {
-          "title": "The temple has a portrait of Rajaraja Chola paying obeisance to Lord Nataraja.",
+          "title": "1. Inscriptions:",
           "sequence_number": 1,
           "depth": 1,
           "level_label": "Topic",
-          "children": [],
+          "children": [
+            {
+              "title": "(1)",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Inscriptions**: The **main source of information** for the history of the **Chola period** is the large number of inscriptions of that period. **Rajaraja I** conceived the idea of prefixing to his inscriptions the main achievements of his reign. The example of Rajaraja was followed by his successors as well. Consequently, there exists a formal record of the transactions made by each Chola ruler."
+                },
+                {
+                  "content_md": "The inscriptions of the Cholas are in the form of **Copper-plate grants**, **stone inscriptions** and inscriptions made on the **walls and pillars of temples**. The Copper-plate grants known as **Anbil** and **Karandi** as well as the **Kanyakumari stone inscription** give a long list of rulers indicating the origin of the **Chola dynasty**. Another set of Copper-plate contains 31 copper sheets. These plates are written in Sanskrit and Tamil. They record a grant made to a temple by **Rajendra Chola I**."
+                },
+                {
+                  "content_md": "[Image: Copper-plate Inscriptions]"
+                }
+              ]
+            },
+            {
+              "title": "(ii)",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "They record **gifts and endowments** to temples and brahmanas. **Copper-plate inscriptions** are the records of **grants of villages**, **plots of land** or other privileges to individuals or institutions by the Cholas. For example, the **Leyden grant** (so called as they are preserved in the Museum of Leyden in Holland) of **Parantaka Chola** and those of **Parakesari Uttama Chola** are among the most important."
+                }
+              ]
+            },
+            {
+              "title": "(iii)",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "They inform us about the **construction of a temple** or the **setting up of a new image** of the deity."
+                }
+              ]
+            },
+            {
+              "title": "(iv)",
+              "sequence_number": 4,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Some inscriptions have **royal orders** on **taxation** and **land revenue**, **resolutions of village assemblies**, **judgements delivered** against persons guilty of theft, murder and other crimes."
+                }
+              ]
+            },
+            {
+              "title": "(v)",
+              "sequence_number": 5,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Inscriptions on temple walls served the purpose of **public registrations** such as the record of **sales**, **mortgages** and other forms of **transfers of property rights** in village lands."
+                }
+              ]
+            }
+          ],
           "content_blocks": []
         },
         {
-          "title": "Inscriptions in the temple point towards Rajaraja as the chief architect of the temple.",
+          "title": "2. The Brihadeshwara temple:",
           "sequence_number": 2,
           "depth": 1,
           "level_label": "Topic",
-          "children": [],
-          "content_blocks": [
+          "children": [
             {
-              "content_md": "Inscriptions in the temple point towards **Rajaraja** as the **chief architect of the temple**."
-            }
-          ]
-        },
-        {
-          "title": "Depictions of dancers showing eighty one of hundred and eight karanas",
-          "sequence_number": 3,
-          "depth": 1,
-          "level_label": "Topic",
-          "children": [],
-          "content_blocks": [
+              "title": "(i)",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "They tell us about the **Chola administration**. For example, the **Uttaramerur inscription** gives information on the **village administration**, **taxation** and **land revenue**."
+                }
+              ]
+            },
             {
-              "content_md": "Depictions of dancers showing eighty one of hundred and eight **karanas** (synchronised movements of hands and feet) in **Bharata Natyam** are carved here. It shows that the temple was a platform for talented dancers to showcase their talent. These depictions are first of their kind."
-            }
-          ]
-        },
-        {
-          "title": "The inscriptions mention the different kinds of jewels used in the Chola period.",
-          "sequence_number": 4,
-          "depth": 1,
-          "level_label": "Topic",
-          "children": [],
-          "content_blocks": [
+              "title": "(ii)",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "They record **gifts** and **endowments** to temples and brahmanas. **Copper-plate inscriptions** are the records of grants of villages, plots of land or other privileges to individuals or institutions by the Cholas. For example, the **Leyden grant** (so called as they are preserved in the Museum of Leyden in Holland) of **Parantaka Chola** and those of **Parakesari Uttama Chola** are among the most important."
+                }
+              ]
+            },
             {
-              "content_md": "The inscriptions mention the different kinds of jewels used in the **Chola period**. A total of twenty three different types of **pearls**, eleven varieties of **diamonds** and **rubies** are mentioned in these inscriptions."
+              "title": "(iii)",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "They inform us about the **construction of a temple** or the **setting up of a new image** of the deity."
+                }
+              ]
             }
-          ]
-        },
-        {
-          "title": "It is one of the few temples that have Ashta-dikpaalakas",
-          "sequence_number": 5,
-          "depth": 1,
-          "level_label": "Topic",
-          "children": [],
-          "content_blocks": [
-            {
-              "content_md": "It is one of the few temples that have **Ashta-dikpaalakas** (Guardians of the eight directions) idols."
-            }
-          ]
+          ],
+          "content_blocks": []
         }
       ],
       "content_blocks": []
@@ -135,26 +248,35 @@
       "level_label": "Section",
       "children": [
         {
-          "title": "Rajaraja I",
+          "title": "Rajaraja I:",
           "sequence_number": 1,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "**Rajaraja I** was a brilliant general and campaigned in many directions. He attacked the kingdoms of the **Pandyas** and the **Cheras** as well as parts of **Mysore**. Rajaraja annexed parts of **Deccan** and overran **Vengi**. He did this in order to prove the strength of the Chola power. He took some territories of **Mysore**, **Travancore** and **Coorg**.\n\nThe coasts of Kerala, **Ceylon (Sri Lanka)** and the **Maldive Islands** had become rich through the money that came to them from overseas trade. India sent textiles, spices and precious stones to the West Asian countries. The people who came from Western Asia to trade in these goods were the Arab merchants, who exchanged money for goods. Foreigners brought wealth to India through their trade.\n\nRajaraja was aware of the importance of controlling the sea. He decided to show his strength along the coasts of South India. So, he took out a **naval expedition** and attacked both **Sri Lanka** and the **Maldive Islands**. He conquered the northern half of Sri Lanka.\n\nHe built the **Rajarajeshwara temple** of Lord Shiva at **Thanjavur**. On the walls of this temple are inscribed the main works of Rajaraja I. Under his rule, the **Cholas** became the supreme power in Southern India. The increase in trade brought prosperity to their kingdom, **Cholamandal**. In fact, the word, **Coromandel** has been derived from **Cholamandal**."
+              "content_md": "**Rajaraja I** was a brilliant general and campaigned in many directions. He attacked the kingdoms of the **Pandyas** and the **Cheras** as well as parts of **Mysore**. Rajaraja annexed parts of **Deccan** and overran **Vengi**. He did this in order to prove the strength of the Chola power. He took some territories of **Mysore**, **Travancore** and **Coorg**."
+            },
+            {
+              "content_md": "The coasts of **Kerala**, **Ceylon (Sri Lanka)** and the **Maldive Islands** had become rich through the money that came to them from **overseas trade**. India sent textiles, spices and precious stones to the West Asian countries. The people who came from Western Asia to trade in these goods were the **Arab merchants**, who exchanged money for goods. Foreigners brought wealth to India through their trade."
+            },
+            {
+              "content_md": "Rajaraja was aware of the importance of controlling the sea. He decided to show his strength along the coasts of South India. So, he took out a **naval expedition** and attacked both **Sri Lanka** and the **Maldive Islands**. He conquered the northern half of Sri Lanka."
+            },
+            {
+              "content_md": "He built the **Rajarajeshwara temple** of Lord Shiva at **Thanjavur**. On the walls of this temple are inscribed the main works of **Rajaraja I**. Under his rule, the **Cholas** became the supreme power in Southern India. The increase in trade brought prosperity to their kingdom, **Cholamandal**. In fact, the word, **Coromandel** has been derived from **Cholamandal**."
             }
           ]
         },
         {
-          "title": "Rajendra Chola",
+          "title": "Rajendra Chola:",
           "sequence_number": 2,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "**Rajendra Chola** succeeded his father, **Rajaraja I**. He continued his father's policies. He invaded and annexed the whole island of **Sri Lanka**. Sri Lanka was not able to free herself from the Chola control for another **50 years**.\n\n**Rajendra's campaigns** were daring. Once his armies marched up to the east coast of India, through **Odisha**, and up to the **Ganga river**. **Rajendra Chola** himself led the army up to the Godavari and thereafter his generals took charge of the army. The Chola army defeated **Mahipala, king of Bengal**. To commemorate this victory, he adopted the title of **Gangaikonda** and built a new capital called **Gangaikonda-Cholapuram** in the present State of Tamil Nadu.\n\nHis most daring campaign was in **South-East Asia**. For centuries, Indian merchants had been trading with various parts of South-East Asia and southern China, through the **Straits of Malacca**, which was held by the kingdom of **Shrivijaya** (modern day Indonesia). As the merchants of Shrivijaya began creating problems for the Indian merchants, the Indian merchants appealed to **Rajendra Chola** for help. He sent out a huge navy and defeated the **Shrivijaya king**. As a result, Indian trade with South-East Asia and southern China continued, thereby greatly enriching the Chola kingdom. He built magnificent palaces and beautiful temples at his new capital **Gangaikonda-Cholapuram**.\n\n[Image: Vimana of Brihadeshwara Temple]"
+              "content_md": "**Rajendra Chola** succeeded his father, **Rajaraja I**. He continued his father's policies. He invaded and annexed the whole island of **Sri Lanka**. Sri Lanka was not able to free herself from the Chola control for another 50 years.\n\nRajendra's campaigns were daring. Once his armies marched up to the east coast of India, through Odisha, and up to the **Ganga river**. Rajendra Chola himself led the army up to the Godavari and thereafter his generals took charge of the army. The Chola army defeated **Mahipala, king of Bengal**. To commemorate this victory, he adopted the title of **Gangaikonda** and built a new capital called **Gangaikonda-Cholapuram** in the present State of Tamil Nadu.\n\nHis most daring campaign was in **South-East Asia**. For centuries, Indian merchants had been trading with various parts of South-East Asia and southern China, through the **Straits of Malacca**, which was held by the kingdom of **Shrivijaya** (modern day Indonesia). As the merchants of Shrivijaya began creating problems for the Indian merchants, the Indian merchants appealed to Rajendra Chola for help. He sent out a huge navy and defeated the **Shrivijaya king**. As a result, Indian trade with South-East Asia and southern China continued, thereby greatly enriching the Chola kingdom. He built magnificent palaces and beautiful temples at his new capital Gangaikonda-Cholapuram."
             }
           ]
         }
@@ -168,19 +290,19 @@
       "level_label": "Section",
       "children": [
         {
-          "title": "Central Government",
+          "title": "Central Government:",
           "sequence_number": 1,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "The **king** was the most important person in the Chola administration as all authority was vested in him. But he had a **Council of Ministers** to advise him. The king often went on tours in order to keep a check on the administration. The officers were paid by giving them assignments in revenue-bearing lands. The princes were associated with the ruling sovereigns and actively employed in peace and war. The Central government looked after **external defence**, **internal peace and order**, promotion of **general prosperity** and **cultural progress** of the empire."
+              "content_md": "The **king** was the most important person in the **Chola administration** as all **authority was vested in him**. But he had a **Council of Ministers** to advise him. The king often went on tours in order to keep a check on the administration. The officers were paid by giving them assignments in **revenue-bearing lands**. The **princes** were associated with the ruling sovereigns and actively employed in peace and war. The Central government looked after **external defence**, **internal peace and order**, promotion of **general prosperity** and **cultural progress** of the empire."
             }
           ]
         },
         {
-          "title": "Provincial Government",
+          "title": "Provincial Government:",
           "sequence_number": 2,
           "depth": 1,
           "level_label": "Topic",
@@ -192,7 +314,7 @@
           ]
         },
         {
-          "title": "Local Self-Government",
+          "title": "Local Self-Government:",
           "sequence_number": 3,
           "depth": 1,
           "level_label": "Topic",
@@ -202,13 +324,7 @@
               "content_md": "The Cholas were good administrators. They believed in **local self-government**. In many of the villages the administration was carried out, not by the government officials but by the villagers themselves. These villages had three types of village assemblies, namely, the **ur**, the **sabha** and the **nagaram**. There are long inscriptions on the walls of some of the village temples giving details of how the ur and sabha were organised."
             },
             {
-              "content_md": "The **ur** was the common type of assembly of the villages where the land was held by all classes of people who were, therefore, members of the local assembly. The **sabha** was an exclusively Brahmin assembly of the villages, where all the land belonged to the Brahmins. The **nagaram** was an assembly of merchants and belonged to localities where traders and merchants were in a dominant position. Villagers who owned land were chosen by a vote to the council. The life and the work of the villages were discussed in these councils. This was a source of popular strength because it united the people. All affairs concerning the village, such as, collection of taxes, settlement of disputes and allocation of water were looked after by the committees."
-            },
-            {
-              "content_md": "The temple in the Chola kingdom was the centre of social activity. It was not only a place of worship, but was also a place where people gathered.\n\nSome temples owned huge lands and participated in inland and overseas trade. The lands donated to the temples were known as the **devadaya** or **devadana**. In some cases, instead of giving land to temples, land-revenue of certain villages was assigned to the temple and the concerned villagers were instructed to pay land-revenue in produce and in gold to the temple treasury. The temples were also the biggest employers after the State, providing work and means of livelihood to a large number of people. The temples used to take care of the welfare of its workers by providing food, clothing and housing facilities and by arranging proper education and establishing hospitals."
-            },
-            {
-              "content_md": "The temple was also a centre for education. The priests of the temple were the local teachers as there were no separate schools. The schools were housed in the temple courtyard. The students learnt their lessons in two languages - Sanskrit and Tamil. The religious teaching was in Sanskrit since texts such as the Vedas had to be studied. The students learnt Tamil, the language which was widely spoken in the Chola kingdom."
+              "content_md": "*   The **ur** was the common type of assembly of the villages where the land was held by all classes of people who were, therefore, members of the local assembly.\n*   The **sabha** was an exclusively Brahmin assembly of the villages, where all the land belonged to the Brahmins.\n*   The **nagaram** was an assembly of merchants and belonged to localities where traders and merchants were in a dominant position.\n\nVillagers who owned land were chosen by a vote to the council. The life and the work of the villages were discussed in these councils. This was a source of popular strength because it united the people. All affairs concerning the village, such as, collection of taxes, settlement of disputes and allocation of water were looked after by the committees."
             }
           ]
         }
@@ -216,197 +332,389 @@
       "content_blocks": []
     },
     {
-      "title": "The Revenue",
+      "title": "The Revenue:",
       "sequence_number": 5,
       "depth": 0,
       "level_label": "Section",
       "children": [],
       "content_blocks": [
         {
-          "content_md": "The **revenue** of the Chola kingdom came from—**taxes on land** and the **produce of the land**, and **tax on trade**. Part of the revenue was kept for the king. The rest was used on **public works**, such as the building of roads and tanks, on **salaries of officials**, on paying for the **upkeep of the army**, and on the **building of temples**. The taxes on land were collected by the officials from the **village councils**."
+          "content_md": "The **revenue** of the Chola kingdom came from—**taxes on land** and the **produce of the land**, and **tax on trade**. Part of the revenue was kept for the king. The rest was used on **public works**, such as the building of roads and tanks, on salaries of officials, on paying for the upkeep of the army, and on the building of temples. The taxes on land were collected by the officials from the **village councils**."
         }
       ]
     },
     {
-      "title": "The Chola Art",
+      "title": "The Chola Art:",
       "sequence_number": 6,
       "depth": 0,
       "level_label": "Section",
       "children": [],
       "content_blocks": [
         {
-          "content_md": "The **Chola rulers** were great conquerors and efficient administrators. They loved **art and architecture**. They built **temples, canals, roads, cities and palaces**. Most of the Chola temples were built in the **Dravidian style**. Early Chola temples were simple structures. Later, temples became bigger and more grand."
-        },
-        {
-          "content_md": "The art of making **stone and metal images** had made rapid progress under the Chola rulers.\n\nThe Cholas excelled in making images of gods and goddesses. The **bronze image** of **Lord Shiva** as **‘Nataraja’—Lord of Dance**, is an excellent work of art. The image of Nataraja has been described as the **\"cultural epitome”** of the Chola period."
-        },
-        {
-          "content_md": "[Image: Nataraja]"
+          "content_md": "The **Chola rulers** were great conquerors and efficient administrators. They loved **art and architecture**. They built temples, canals, roads, cities and palaces. Most of the **Chola temples** were built in the **Dravidian style**. Early Chola temples were simple structures. Later, temples became bigger and more grand.\n\nThe art of making **stone and metal images** had made rapid progress under the Chola rulers.\n\nThe Cholas excelled in making **images of gods and goddesses**. The **bronze image** of **Lord Shiva** as **'Nataraja'—Lord of Dance**, is an excellent work of art. The image of Nataraja has been described as the **\"cultural epitome”** of the Chola period.\n\n[Image: Nataraja]"
         }
       ]
+    },
+    {
+      "title": "EXERCISES",
+      "sequence_number": 7,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "I. Multiple-Choice Questions",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": ""
+            }
+          ]
+        },
+        {
+          "title": "II. Short Answer Questions",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": ""
+            }
+          ]
+        },
+        {
+          "title": "III. Structured Questions",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": ""
+            }
+          ]
+        },
+        {
+          "title": "IV. Thinking Skills",
+          "sequence_number": 4,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": ""
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
     }
   ],
-  "additional_sections": [],
+  "additional_sections": [
+    {
+      "title": "Introduction",
+      "content_md": "The southern part of the Indian peninsula situated south of the Krishna river was inhabited by the Dravidians. They had their own language and culture. This region was home to three powerful kingdoms—the Cheras, the Pandyas and the Cholas. The most powerful of the three were the Cholas.\n\nThe Chola Empire which arose in the ninth century, brought under its control a large part of the peninsula. The Cholas developed a powerful navy which enabled them to develop India's sea-trade in the Indian Ocean and to conquer Sri Lanka and the Maldive Islands. By the end of the 9th century, the Cholas defeated the Pallavas of Kanchi and weakened the Pandyans bringing the Tamil country (Tondamandala) under their control."
+    },
+    {
+      "title": "THINK ABOUT IT.",
+      "content_md": "According to leading Archeometallurgist Sharada Srinivasan \"In terms of the scale of accomplishments in art and architecture and the wealth of writing and epigraphic records, the Cholas would come across as one of the richest dynasties in South Indian history... There is a profusion of inscriptions that give meticulous details about administration, social life, and material culture... The Brihadeshwara Temple alone that was consecrated in 1010 CE by Rajaraja I has nearly a hundred inscriptions... the Cholas were also the first empire with grand commercial and territorial ambitions outside of the Indian subcontinent with a maritime outreach of expeditions, conquests or trade to Sri Lanka, the Maldives, China, Java/ Sumatra and southeast Asia.\" What was the effect of this grand empire on Sri Lanka and South-East Asia? Do we have evidence of the same?"
+    }
+  ],
   "needs_review": [
-    "The temple has a portrait of Rajaraja Chola paying obeisance to Lord Nataraja."
+    "I. Multiple-Choice Questions",
+    "II. Short Answer Questions",
+    "III. Structured Questions",
+    "IV. Thinking Skills"
   ],
   "manifest": {
     "syllabus_leaves": [
       {
-        "path": "SOURCES > Inscriptions",
+        "path": "SYLLABUS > Medieval India (A) The Cholas",
         "path_titles": [
-          "SOURCES",
-          "Inscriptions"
+          "SYLLABUS",
+          "Medieval India (A) The Cholas"
         ],
-        "title": "Inscriptions",
+        "title": "Medieval India (A) The Cholas",
         "sequence_number": 1,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "The Brihadeshwara temple > The temple has a portrait of Rajaraja Chola paying obeisance to Lord Nataraja.",
+        "path": "SYLLABUS > Sources: Inscriptions, Brihadeshwara Temple.",
         "path_titles": [
-          "The Brihadeshwara temple",
-          "The temple has a portrait of Rajaraja Chola paying obeisance to Lord Nataraja."
+          "SYLLABUS",
+          "Sources: Inscriptions, Brihadeshwara Temple."
         ],
-        "title": "The temple has a portrait of Rajaraja Chola paying obeisance to Lord Nataraja.",
+        "title": "Sources: Inscriptions, Brihadeshwara Temple.",
+        "sequence_number": 2,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "SYLLABUS > Political history and administration (Rajaraja I, Rajendra I).",
+        "path_titles": [
+          "SYLLABUS",
+          "Political history and administration (Rajaraja I, Rajendra I)."
+        ],
+        "title": "Political history and administration (Rajaraja I, Rajendra I).",
+        "sequence_number": 3,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "SOURCES > 1. Inscriptions: > (1)",
+        "path_titles": [
+          "SOURCES",
+          "1. Inscriptions:",
+          "(1)"
+        ],
+        "title": "(1)",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "SOURCES > 1. Inscriptions: > (ii)",
+        "path_titles": [
+          "SOURCES",
+          "1. Inscriptions:",
+          "(ii)"
+        ],
+        "title": "(ii)",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "SOURCES > 1. Inscriptions: > (iii)",
+        "path_titles": [
+          "SOURCES",
+          "1. Inscriptions:",
+          "(iii)"
+        ],
+        "title": "(iii)",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "SOURCES > 1. Inscriptions: > (iv)",
+        "path_titles": [
+          "SOURCES",
+          "1. Inscriptions:",
+          "(iv)"
+        ],
+        "title": "(iv)",
+        "sequence_number": 4,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "SOURCES > 1. Inscriptions: > (v)",
+        "path_titles": [
+          "SOURCES",
+          "1. Inscriptions:",
+          "(v)"
+        ],
+        "title": "(v)",
+        "sequence_number": 5,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "SOURCES > 2. The Brihadeshwara temple: > (i)",
+        "path_titles": [
+          "SOURCES",
+          "2. The Brihadeshwara temple:",
+          "(i)"
+        ],
+        "title": "(i)",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "SOURCES > 2. The Brihadeshwara temple: > (ii)",
+        "path_titles": [
+          "SOURCES",
+          "2. The Brihadeshwara temple:",
+          "(ii)"
+        ],
+        "title": "(ii)",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "SOURCES > 2. The Brihadeshwara temple: > (iii)",
+        "path_titles": [
+          "SOURCES",
+          "2. The Brihadeshwara temple:",
+          "(iii)"
+        ],
+        "title": "(iii)",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "POLITICAL HISTORY > Rajaraja I:",
+        "path_titles": [
+          "POLITICAL HISTORY",
+          "Rajaraja I:"
+        ],
+        "title": "Rajaraja I:",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "POLITICAL HISTORY > Rajendra Chola:",
+        "path_titles": [
+          "POLITICAL HISTORY",
+          "Rajendra Chola:"
+        ],
+        "title": "Rajendra Chola:",
+        "sequence_number": 2,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "THE CHOLA ADMINISTRATION > Central Government:",
+        "path_titles": [
+          "THE CHOLA ADMINISTRATION",
+          "Central Government:"
+        ],
+        "title": "Central Government:",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "THE CHOLA ADMINISTRATION > Provincial Government:",
+        "path_titles": [
+          "THE CHOLA ADMINISTRATION",
+          "Provincial Government:"
+        ],
+        "title": "Provincial Government:",
+        "sequence_number": 2,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "THE CHOLA ADMINISTRATION > Local Self-Government:",
+        "path_titles": [
+          "THE CHOLA ADMINISTRATION",
+          "Local Self-Government:"
+        ],
+        "title": "Local Self-Government:",
+        "sequence_number": 3,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "The Revenue:",
+        "path_titles": [
+          "The Revenue:"
+        ],
+        "title": "The Revenue:",
+        "sequence_number": 5,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "The Chola Art:",
+        "path_titles": [
+          "The Chola Art:"
+        ],
+        "title": "The Chola Art:",
+        "sequence_number": 6,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "EXERCISES > I. Multiple-Choice Questions",
+        "path_titles": [
+          "EXERCISES",
+          "I. Multiple-Choice Questions"
+        ],
+        "title": "I. Multiple-Choice Questions",
         "sequence_number": 1,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": false
       },
       {
-        "path": "The Brihadeshwara temple > Inscriptions in the temple point towards Rajaraja as the chief architect of the temple.",
+        "path": "EXERCISES > II. Short Answer Questions",
         "path_titles": [
-          "The Brihadeshwara temple",
-          "Inscriptions in the temple point towards Rajaraja as the chief architect of the temple."
+          "EXERCISES",
+          "II. Short Answer Questions"
         ],
-        "title": "Inscriptions in the temple point towards Rajaraja as the chief architect of the temple.",
+        "title": "II. Short Answer Questions",
         "sequence_number": 2,
         "depth": 1,
         "level_label": "Topic",
-        "has_notes": true
+        "has_notes": false
       },
       {
-        "path": "The Brihadeshwara temple > Depictions of dancers showing eighty one of hundred and eight karanas",
+        "path": "EXERCISES > III. Structured Questions",
         "path_titles": [
-          "The Brihadeshwara temple",
-          "Depictions of dancers showing eighty one of hundred and eight karanas"
+          "EXERCISES",
+          "III. Structured Questions"
         ],
-        "title": "Depictions of dancers showing eighty one of hundred and eight karanas",
+        "title": "III. Structured Questions",
         "sequence_number": 3,
         "depth": 1,
         "level_label": "Topic",
-        "has_notes": true
+        "has_notes": false
       },
       {
-        "path": "The Brihadeshwara temple > The inscriptions mention the different kinds of jewels used in the Chola period.",
+        "path": "EXERCISES > IV. Thinking Skills",
         "path_titles": [
-          "The Brihadeshwara temple",
-          "The inscriptions mention the different kinds of jewels used in the Chola period."
+          "EXERCISES",
+          "IV. Thinking Skills"
         ],
-        "title": "The inscriptions mention the different kinds of jewels used in the Chola period.",
+        "title": "IV. Thinking Skills",
         "sequence_number": 4,
         "depth": 1,
         "level_label": "Topic",
-        "has_notes": true
-      },
-      {
-        "path": "The Brihadeshwara temple > It is one of the few temples that have Ashta-dikpaalakas",
-        "path_titles": [
-          "The Brihadeshwara temple",
-          "It is one of the few temples that have Ashta-dikpaalakas"
-        ],
-        "title": "It is one of the few temples that have Ashta-dikpaalakas",
-        "sequence_number": 5,
-        "depth": 1,
-        "level_label": "Topic",
-        "has_notes": true
-      },
-      {
-        "path": "POLITICAL HISTORY > Rajaraja I",
-        "path_titles": [
-          "POLITICAL HISTORY",
-          "Rajaraja I"
-        ],
-        "title": "Rajaraja I",
-        "sequence_number": 1,
-        "depth": 1,
-        "level_label": "Topic",
-        "has_notes": true
-      },
-      {
-        "path": "POLITICAL HISTORY > Rajendra Chola",
-        "path_titles": [
-          "POLITICAL HISTORY",
-          "Rajendra Chola"
-        ],
-        "title": "Rajendra Chola",
-        "sequence_number": 2,
-        "depth": 1,
-        "level_label": "Topic",
-        "has_notes": true
-      },
-      {
-        "path": "THE CHOLA ADMINISTRATION > Central Government",
-        "path_titles": [
-          "THE CHOLA ADMINISTRATION",
-          "Central Government"
-        ],
-        "title": "Central Government",
-        "sequence_number": 1,
-        "depth": 1,
-        "level_label": "Topic",
-        "has_notes": true
-      },
-      {
-        "path": "THE CHOLA ADMINISTRATION > Provincial Government",
-        "path_titles": [
-          "THE CHOLA ADMINISTRATION",
-          "Provincial Government"
-        ],
-        "title": "Provincial Government",
-        "sequence_number": 2,
-        "depth": 1,
-        "level_label": "Topic",
-        "has_notes": true
-      },
-      {
-        "path": "THE CHOLA ADMINISTRATION > Local Self-Government",
-        "path_titles": [
-          "THE CHOLA ADMINISTRATION",
-          "Local Self-Government"
-        ],
-        "title": "Local Self-Government",
-        "sequence_number": 3,
-        "depth": 1,
-        "level_label": "Topic",
-        "has_notes": true
-      },
-      {
-        "path": "The Revenue",
-        "path_titles": [
-          "The Revenue"
-        ],
-        "title": "The Revenue",
-        "sequence_number": 5,
-        "depth": 0,
-        "level_label": "Section",
-        "has_notes": true
-      },
-      {
-        "path": "The Chola Art",
-        "path_titles": [
-          "The Chola Art"
-        ],
-        "title": "The Chola Art",
-        "sequence_number": 6,
-        "depth": 0,
-        "level_label": "Section",
-        "has_notes": true
+        "has_notes": false
       }
     ],
-    "stray_leaves": []
+    "stray_leaves": [
+      {
+        "title": "Introduction",
+        "insert_after_index": 3,
+        "micro_topics": [],
+        "has_notes": true
+      },
+      {
+        "title": "THINK ABOUT IT.",
+        "insert_after_index": 21,
+        "micro_topics": [],
+        "has_notes": true
+      }
+    ]
   }
 }

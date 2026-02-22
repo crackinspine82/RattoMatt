@@ -56,9 +56,11 @@ type NotesJson = {
 };
 
 type StudyNotesGeneratedSection = {
-  title: string;
+  title?: string;
   level_label?: string;
   content_md?: string;
+  /** Published syllabus node ID (from syllabus_nodes). Required for import into draft_revision_note_blocks. */
+  syllabus_node_id?: string;
 };
 
 type StudyNotesGeneratedJson = {
@@ -76,6 +78,8 @@ type StudyNotesGeneratedJson = {
 };
 
 type QuestionItemJson = {
+  /** Published syllabus_node_id for this section; applied to all questions in this item. */
+  syllabus_node_id?: string;
   question_type: string;
   difficulty_level: number;
   difficulty_tag?: string;
@@ -327,28 +331,27 @@ async function importNotesIntoDraft(
   return blocks;
 }
 
-/** Import study_notes_*.json (from study-notes-generate) into draft_revision_note_blocks (Revision Notes). Matches or creates draft_syllabus_nodes by title. */
+/** Import study_notes_*.json (from study-notes-generate) into draft_revision_note_blocks. Uses syllabus_node_id from each section (published node). */
 async function importStudyNotesGeneratedIntoRevisionDraft(
   pool: ReturnType<typeof getPool>,
   chapterId: string,
   data: StudyNotesGeneratedJson
 ): Promise<number> {
   const sections = data.sections ?? [];
+  const validNodeIds = new Set(
+    (await pool.query<{ id: string }>('SELECT id FROM syllabus_nodes WHERE chapter_id = $1', [chapterId])).rows.map((r) => r.id)
+  );
   let blocks = 0;
   for (let i = 0; i < sections.length; i++) {
     const sec = sections[i];
-    const title = (sec.title || '').trim();
     const contentMd = (sec.content_md || '').trim();
     if (!contentMd) continue;
-    const levelLabel = (sec.level_label || 'Section').slice(0, 30);
-    let draftNodeId = await findDraftNodeByTitle(pool, chapterId, title);
-    if (!draftNodeId) {
-      draftNodeId = await createDraftNodeForSection(pool, chapterId, title, levelLabel, i + 1);
-    }
+    const syllabusNodeId = sec.syllabus_node_id?.trim();
+    if (!syllabusNodeId || !validNodeIds.has(syllabusNodeId)) continue;
     const html = mdToHtml(contentMd);
     await pool.query(
-      'INSERT INTO draft_revision_note_blocks (draft_syllabus_node_id, sequence_number, content_html) VALUES ($1, $2, $3)',
-      [draftNodeId, 1, html || '']
+      'INSERT INTO draft_revision_note_blocks (chapter_id, syllabus_node_id, sequence_number, content_html) VALUES ($1, $2, $3, $4)',
+      [chapterId, syllabusNodeId, 1, html || '']
     );
     blocks++;
   }
@@ -376,11 +379,15 @@ async function importQuestionsIntoDraft(
 ): Promise<number> {
   await pool.query('DELETE FROM draft_rubrics WHERE draft_question_id IN (SELECT id FROM draft_questions WHERE chapter_id = $1)', [chapterId]);
   await pool.query('DELETE FROM draft_questions WHERE chapter_id = $1', [chapterId]);
+  const validNodeIds = new Set(
+    (await pool.query<{ id: string }>('SELECT id FROM syllabus_nodes WHERE chapter_id = $1', [chapterId])).rows.map((r) => r.id)
+  );
   let count = 0;
   const discipline = (data.discipline === 'history' || data.discipline === 'civics') ? data.discipline : 'history';
   for (const item of data.items || []) {
     const questionType = (item.question_type || 'short_answer').slice(0, 80);
     const difficultyLevel = Math.min(4, Math.max(1, Number(item.difficulty_level) || 2));
+    const syllabusNodeId = item.syllabus_node_id && validNodeIds.has(item.syllabus_node_id) ? item.syllabus_node_id : null;
     for (const q of item.questions || []) {
       const rubric = q.rubric || {};
       const answerInputType = (rubric.answer_input_type === 'typed' || rubric.answer_input_type === 'choice')
@@ -392,10 +399,11 @@ async function importQuestionsIntoDraft(
           ? JSON.stringify(q.scenario_data)
           : null;
       const ins = await pool.query<{ id: string }>(
-        `INSERT INTO draft_questions (chapter_id, question_text, question_type, discipline, difficulty_level, answer_input_type, marks, source_type, model_answer_text, scenario_data)
-         VALUES ($1, $2, $3, $4, $5, $6, $7, 'ai_generated', $8, $9) RETURNING id`,
+        `INSERT INTO draft_questions (chapter_id, syllabus_node_id, question_text, question_type, discipline, difficulty_level, answer_input_type, marks, source_type, model_answer_text, scenario_data)
+         VALUES ($1, $2, $3, $4, $5, $6, $7, $8, 'ai_generated', $9, $10) RETURNING id`,
         [
           chapterId,
+          syllabusNodeId,
           (q.question_text || '').slice(0, 65535),
           questionType,
           discipline,
@@ -477,9 +485,8 @@ async function main(): Promise<void> {
         ch.discipline ?? null
       );
       const nodes = ch.nodes ?? topicsToNodes(ch.topics ?? []);
-      await pool.query('UPDATE draft_questions SET draft_syllabus_node_id = NULL WHERE chapter_id = $1', [chapterId]);
       await pool.query(
-        `DELETE FROM draft_revision_note_blocks WHERE draft_syllabus_node_id IN (SELECT id FROM draft_syllabus_nodes WHERE chapter_id = $1)`,
+        `DELETE FROM draft_revision_note_blocks WHERE chapter_id = $1`,
         [chapterId]
       );
       await pool.query(
@@ -493,7 +500,6 @@ async function main(): Promise<void> {
       }
       await upsertCurationItem(pool, subjectId, chapterId, 'structure');
       await upsertCurationItem(pool, subjectId, chapterId, 'notes');
-      await upsertCurationItem(pool, subjectId, chapterId, 'revision_notes');
       totalChapters++;
     }
     console.log('Syllabus:', file, '→', syllabus.chapters.length, 'chapters');
@@ -557,10 +563,7 @@ async function main(): Promise<void> {
         continue;
       }
       const chapterId = chapterRes.rows[0].id;
-      await pool.query(
-        `DELETE FROM draft_revision_note_blocks WHERE draft_syllabus_node_id IN (SELECT id FROM draft_syllabus_nodes WHERE chapter_id = $1)`,
-        [chapterId]
-      );
+      await pool.query('DELETE FROM draft_revision_note_blocks WHERE chapter_id = $1', [chapterId]);
       const blocks = await importStudyNotesGeneratedIntoRevisionDraft(pool, chapterId, data);
       if (data.page_count != null && Number.isFinite(data.page_count)) {
         await pool.query('UPDATE chapters SET page_count = $1 WHERE id = $2', [

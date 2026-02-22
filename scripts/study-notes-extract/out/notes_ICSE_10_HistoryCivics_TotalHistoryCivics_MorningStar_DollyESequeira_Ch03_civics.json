@@ -1,0 +1,844 @@
+{
+  "board": "ICSE",
+  "grade": 10,
+  "subject": "HistoryCivics",
+  "book_slug": "TotalHistoryCivics_MorningStar_DollyESequeira",
+  "book_meta": {
+    "book_name": "Total History & Civics",
+    "publication": "Morning Star",
+    "author": "Dolly E. Sequeira"
+  },
+  "chapter_sequence_number": 3,
+  "chapter_title": "The President and The Vice-President",
+  "discipline": "civics",
+  "reconciliation": {
+    "outline": [
+      "II. THE UNION EXECUTIVE",
+      "CHAPTER 3 The President and The Vice-President",
+      "THE PRESIDENT",
+      "Qualifications for Election",
+      "Composition of the Electoral College",
+      "*Manner of Election",
+      "Single Transferable Vote System",
+      "Reasons for Indirect Election",
+      "Oath of Office",
+      "Term of Office",
+      "Vacation of Office",
+      "Procedure for Impeachment of the President",
+      "POWERS OF THE PRESIDENT OF INDIA",
+      "Executive Powers",
+      "Diplomatic Powers",
+      "Legislative Powers",
+      "Financial Powers",
+      "Military Powers",
+      "Judicial Powers",
+      "Discretionary Powers",
+      "Emergency Powers",
+      "I. National or General Emergency",
+      "Effects of General Emergency",
+      "II. Breakdown of Constitutional Machinery",
+      "Effects of Emergency in a State",
+      "III. Financial Emergency",
+      "Effect of Financial Emergency",
+      "VICE-PRESIDENT",
+      "Qualifications for Election",
+      "Election",
+      "Oath of Office",
+      "Term of Office",
+      "Powers and Functions",
+      "1. Chairman of the Rajya Sabha",
+      "2. Taking over as the President",
+      "CHAPTER AT A GLANCE"
+    ],
+    "in_syllabus_only": [],
+    "in_pdf_only": [
+      {
+        "title": "Effects of General Emergency",
+        "insert_after_index": 20,
+        "micro_topics": []
+      },
+      {
+        "title": "Effects of Emergency in a State",
+        "insert_after_index": 21,
+        "micro_topics": []
+      },
+      {
+        "title": "Effect of Financial Emergency",
+        "insert_after_index": 22,
+        "micro_topics": []
+      }
+    ],
+    "additional_sections": [
+      {
+        "title": "Effects of General Emergency",
+        "content_md": "1.  **Fundamental Rights:** The most important effect of a General Emergency is that the exercise of the Fundamental Rights is partially or wholly suspended. Even the right to move Supreme Court or a State High Court for the enforcement of the rights, except Articles 20 and 21 remains suspended. Article 20 states that \"no person shall be punished for the same offence more than once\". Article 21, declares that \"no person shall be deprived of his/her life or personal liberty except according to procedure established by law.\"\n2.  **Centre-State Relationship:** The country has to forego its federal spirit, as the States are obliged to carry out the instructions of the Centre. The Union Parliament acquires the powers to give directions to a State on any matter, so that the State Government will be under the complete control of the Union Executive and will function as under a unitary system with local sub-divisions.\n3.  **Finances:** The Centre is empowered to suspend the financial provisions of the Constitution. Matters such as the distribution of revenues between the Centre and the States and the salaries of MPs may be altered.\n4.  **Union and State Legislatures:** During emergency the term of the Lok Sabha may be extended for a period of one year at a time. The same rule may be applied to the Legislative Assembly or any State.\n\n**Examples:** National emergency was declared for the first time on October 26, 1962, due to the threat caused by the Chinese aggression on our North-East border. The President revoked the proclamation on January 10, 1968. The second national emergency was proclaimed on December 3, 1971, when Pakistan launched an attack on India."
+      },
+      {
+        "title": "Effects of Emergency in a State",
+        "content_md": "1.  The State administration is directly placed under the President (i.e. the Union Government). The Governor of the concerned State acts in accordance with the instructions that are issued by the Union Government from time to time.\n2.  The President may:\n    (i) dissolve the Vidhan Sabha of the State and dismiss the Council of Ministers; or\n    (ii) keep the Assembly and the Council of Ministers in suspended animation.\n    In both cases, the Union Parliament can pass laws, even on all the Subjects of the State List, for that particular State. Even the Annual Budget of that State is presented to and passed by the Parliament.\n3.  When the Lok Sabha is not in session the President may authorise expenditure out of the Consolidated Fund of the State.\n4.  The President may suspend the provision of the Constitution relating to any authority of the State except those relating to High Courts.\n\n**Examples:** This form of emergency is quite common in India and President's Rule has been imposed in a State at one time or the other.\nThe first instance of the President's Rule was in 1951 in Punjab. In 1977, nine States were brought under the President's Rule on the pretext that the State Assemblies no longer reflected the views of the people.\nIn December 1992, President's Rule was imposed on Uttar Pradesh, Madhya Pradesh, Rajasthan and Himachal Pradesh.\nOn October 21, 1997, the Union Cabinet recommended the imposition of President's Rule in Uttar Pradesh following acts of violence in the Vidhan Sabha. The President felt that acts of violence did not imply breakdown of constitutional machinery so he returned the recommendation for Proclamation of President's Rule for reconsideration.\nIn February 2014, President's rule was imposed in Delhi, on the advice of Union Cabinet, after the resignation of Arvind Kejriwal, Chief Minister of Delhi, along with his Council of Ministers was accepted by the President. Arvind Kejriwal had resigned along with his Council of Ministers, after his move to introduce the Jan Lokpal Bill fell through in the Delhi Assembly."
+      },
+      {
+        "title": "Effect of Financial Emergency",
+        "content_md": "1.  The President may appoint a Finance Commission to suggest methods to get out of the financial crisis. He/she may adopt suitable measures to restore financial stability in the light of recommendations of the Finance Commission.\n2.  The President can reduce the salaries and allowances of all or any class of persons, including the Judges of the Supreme Court and the High Courts.\n3.  All Money Bills passed by the Lok Sabha are to be submitted to the President for his/her consideration.\n4.  The President can issue instructions to the States in regard to the utilisation of funds in the manner he/she thinks fit.\n5.  The President may order the State to submit Money Bills to him for his assent.\n\nFinancial Emergency has never been declared since the promulgation of the Constitution."
+      }
+    ]
+  },
+  "nodes": [
+    {
+      "title": "The Union Executive",
+      "sequence_number": 1,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "The President",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Qualifications for Election",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "1. A person shall be eligible for election as **President**, if he/she\n   (a) is a **citizen of India**;\n   (b) has completed the age of **thirty-five years**; and\n   (c) is qualified for election as a **member of the Lok Sabha**.\n2. A person shall not be eligible for election as President if he/she holds any **office of profit** under the Government of India or Government of any State or under any local or other authority subject to the control of any of the said Governments. However, a person is not deemed to hold an office of profit by reason only that he/she is President or Vice-President or a Minister either for the Union or for any State.\n\nA person who holds, or who has held, office as President shall be eligible for **re-election** to that office — subject to other provisions of the Constitution.\n\n[Image: Droupadi Murmu, President of India]"
+                }
+              ]
+            },
+            {
+              "title": "Composition of the Electoral College",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [
+                {
+                  "title": "Manner of Election",
+                  "sequence_number": 1,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "There is **uniformity in the scale of representation** of the different States as far as possible.\n\n1.  Every **elected member of the Legislative Assembly** of a State has as many votes as there are multiples of thousand in the quotient obtained by dividing the population of the State by the total number of elected members of the Assembly. The voting power of an elected member of a **Vidhan Sabha** is calculated according to the following formula:\n    > **Value of the vote of an MLA** = Total Population of the State / (No. of Elected Members of Vidhan Sabha × 1000)\n\n    The following illustration will help to make the process clear.\n    *   **Total Population of a State**: 10,000,000\n    *   **Total Number of elected MLAs**: 250\n\n    The total number of votes of each member is calculated as: (10,000,000 ÷ 250) ÷ 1000 = 40\n\n2.  Each **elected member of Parliament** has such number of votes as obtained by dividing the total number of votes assigned to MLAs of the States by the total number of Elected Members of Parliament. Thus, the **Value of the Vote of an MP** is calculated as follows:\n    > **Value of the Vote of an MP** = Total number of Votes assigned to MLAs of all States / Total number of elected MPs\n\n*Note: This section is marked in the textbook as \"For Information only\".*"
+                    }
+                  ]
+                },
+                {
+                  "title": "Single Transferable Vote System",
+                  "sequence_number": 2,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "Under the **single transferable vote system**, \"all candidates are listed and the elector gives them numbers according to his preference.\" In other words, the voter marks as many preferences (1,2,3,4,5,6.....) on the ballot paper as there are candidates. Once the votes are cast, the first preference votes are counted. If any candidate gets an **absolute majority** or more than 50% of the votes he/she is declared elected. If no candidate is able to get an **absolute majority** in the first preference votes, then the candidate who has secured the least votes is **eliminated** and his second preference votes are taken into consideration. This process of **elimination** continues until a candidate gets an **absolute majority** and he/she is declared elected."
+                    }
+                  ]
+                }
+              ],
+              "content_blocks": []
+            },
+            {
+              "title": "Reasons for Indirect Election",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "1. If the President was to be elected directly by the people, he/she could become a **rival centre of power** to the Council of Ministers. This would be against the **parliamentary system** with ministerial responsibility. As **Pt. Jawaharlal Nehru** said in the Constituent Assembly, \"We could not have a directly elected President and not give him real powers.\"\n2. Since the membership in the two Houses of Parliament was likely to be dominated by one party, election of the President merely by a majority of members of the Union Parliament could make him/her a **nominee of the ruling party** like the Prime Minister. Such a President could not represent the constituent States of the Union.\n3. The President is elected by an **Electoral College**. In India, the Electoral College consists of the elected members of the two Houses of Parliament and Legislative Assemblies of the States (Article 54). Such an Electoral College makes the President the **elected representative of the whole nation** with a clear voice given to the States as well."
+                }
+              ]
+            },
+            {
+              "title": "Oath of Office",
+              "sequence_number": 4,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Before entering upon his/her office, the **President** takes an oath in the presence of the **Chief Justice of India** (or in his/her absence, the **senior most Judge of the Supreme Court**) to:\n1. discharge the functions of the **President of India**,\n2. **preserve, protect and defend the Constitution** and the law, and\n3. devote himself/herself to the service and **well-being of the people of India**."
+                }
+              ]
+            },
+            {
+              "title": "Term of Office",
+              "sequence_number": 5,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The President shall hold office for a **term of five years** from the date on which he/she enters upon his/her office. He/She shall **continue to hold office**, notwithstanding the expiry of his/her term, **until his/her successor takes charge**."
+                }
+              ]
+            },
+            {
+              "title": "Vacation of Office",
+              "sequence_number": 6,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "1. The President may, submit his/her **resignation letter** to the **Vice-President**, in order to resign his/her office. Such resignation will be communicated by the Vice-President to the **Speaker of the Lok Sabha**.\n2. The President may, for the **violation of the Constitution**, be removed from the office by the process of **impeachment**."
+                }
+              ]
+            },
+            {
+              "title": "Procedure for Impeachment of the President",
+              "sequence_number": 7,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The President may, for the **violation of the Constitution**, be removed from the office by the process of **impeachment**.\n\n1. When a President is to be impeached for violation of the Constitution, **either House of Parliament** can level the charge as follows:\n    (a) A **resolution** which is moved after at least **fourteen days' notice** in writing signed by not less than **one-fourth of the total number of members** of the House; and\n    (b) The resolution is passed by a majority of not less than **two-thirds of the total membership** of the House.\n2. When a charge has been so preferred by either House of Parliament, the **other House will investigate the charge** and the President has the **right to appear and to be represented** at such an investigation.\n3. If, as a result of the investigation, a resolution is passed by a majority of not less than **two-thirds of the total membership** of the House (by which the charge was investigated), declaring that the charge has been sustained, such a resolution will have the effect of **removing the President** from his/her office."
+                }
+              ]
+            },
+            {
+              "title": "POWERS OF THE PRESIDENT OF INDIA",
+              "sequence_number": 8,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [
+                {
+                  "title": "Executive Powers",
+                  "sequence_number": 1,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "The executive powers of the President include:\n\n1.  **Head of the Union Administration**: All executive orders are issued in the name of the President. All the Union officials are his subordinates.\n2.  **Appointment of officials of the State**: The President makes appointments to key posts to run the government's administration. He/She appoints:\n    *   (a) The **Prime Minister**, and the **Council of Ministers** on the Prime Minister's advice. He/She summons the leader of the majority group in the Parliament and asks him/her to form the Government.\n    *   (b) The **Chief Justice** and the **Judges of the Supreme Court and the High Courts**.\n    *   (c) The **Governors** of the States.\n    *   (d) The **Lt Governors** and the **Chief Commissioners of the Union Territories**.\n    *   (e) The **Attorney General of India**.\n    *   (f) The **Comptroller and Auditor General of India**.\n    *   (g) The **Chairman and members of the Union Public Service Commission**.\n    *   (h) The **Chairman and members of the Planning Commission**.\n    *   (i) The **Chairman and members of the Economic Commission** whenever appointed.\n3.  **Control over State Governments**: The Union Government may give necessary directions to a State. During **President's rule** the control of the Union Government over States is complete.\n4.  **Union Territories and Border Areas**: The administration of the **Union Territories** and the **Border Areas** is the responsibility of the President."
+                    }
+                  ]
+                },
+                {
+                  "title": "Diplomatic Powers",
+                  "sequence_number": 2,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "1. The President has the power of **appointing Indian Ambassadors** to other countries.\n2. He/She **receives ambassadors, High Commissioners and diplomatic envoys** from foreign nations.\n3. All **treaties and international agreements** are concluded in the name of the President.\n4. The President **represents India in International Conferences**."
+                    }
+                  ]
+                },
+                {
+                  "title": "Legislative Powers",
+                  "sequence_number": 3,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": ""
+                    }
+                  ]
+                },
+                {
+                  "title": "Financial Powers",
+                  "sequence_number": 4,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "1. **Money Bills** can be introduced only on the recommendation of the President.\n2. The **Annual Budget** contains the estimates of income and expenditure of the Union Government for the coming year. The Finance Minister on behalf of the President places the Annual Budget before Parliament.\n3. The **Annual Financial Statement** is also laid before the Parliament in the beginning of every Financial Year on behalf of the President.\n4. The President can authorise withdrawal of advances from the **Contingency Fund of India** to meet unforeseen expenditure. Such expenditure should be subsequently approved by Parliament.\n5. After every five years the President appoints a **Finance Commission** comprising a Chairman and four other members. The Commission makes recommendations to the President on financial matters."
+                    }
+                  ]
+                },
+                {
+                  "title": "Military Powers",
+                  "sequence_number": 5,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "1. The **President** is the **Supreme Commander** of the **Armed Forces of India**.\n2. He/She appoints the **Chiefs of the three wings of the Armed Forces**, subject to certain rules and regulations.\n3. The President has the power as to make **Declarations of War and Peace** on the **advice of the Council of Ministers**."
+                    }
+                  ]
+                },
+                {
+                  "title": "Judicial Powers",
+                  "sequence_number": 6,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "1. The **President is not answerable before any Court of law** for the exercise of the powers and duties of his/her office.\n2. **No criminal suit can be initiated against him/her** during his/her tenure of office.\n3. The President has the power to grant **pardons, reprieves, respites or remissions of punishment** or to **suspend, remit or commute the sentence** of any person convicted for an offence:\n    (a) in all cases where the punishment or sentence is by a **Court Martial**;\n    (b) in all cases where the punishment or sentence is for an offence against any law relating to **Union and Concurrent Lists**;\n    (c) in all cases where there is a **death sentence**."
+                    }
+                  ]
+                },
+                {
+                  "title": "Discretionary Powers",
+                  "sequence_number": 7,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "The President of India enjoys certain **discretionary powers**. There are certain grey areas where the President may have to use his/her wisdom and judgement. These are:"
+                    },
+                    {
+                      "content_md": "1.  **Appointment of the Prime Minister** in a situation where no single party commands the clear support of the majority of the Lok Sabha members and there is a **hung Parliament**. This is because the President cannot appoint the new Prime Minister on the advice of the outgoing Prime Minister who may have lost the election or the support of the House.\n2.  **Appointment of a Prime Minister** in case of sudden death of the incumbent, (for example, by assassination as in the case of Mrs. Indira Gandhi) where the ruling legislature party is unable to meet immediately to elect a leader.\n3.  When the ruling party who has lost majority support in the Lok Sabha or when a **vote of no-confidence** may have been passed against it, recommends to the President to dissolve the Lok Sabha, then it is at the discretion of the President to either dissolve the House or ask another party to prove its majority on the floor of the House.\n4.  The President can **dismiss Ministers** in case the Council of Ministers loses the confidence of the House but refuses to resign."
+                    }
+                  ]
+                },
+                {
+                  "title": "Emergency Powers",
+                  "sequence_number": 8,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "An **Emergency** is \"a sudden or unforeseen situation demanding immediate action.\" It is a situation in which the **Head of State** assumes extraordinary powers. The President can proclaim a state of Emergency in the following cases:\n\n*   **(a) National or General Emergency:** There is a danger of foreign aggression or danger to the peace and security of the country because of a civil war, insurgency or any other such cause (**Article 352**).\n*   **(b) Breakdown of Constitutional Machinery:** The Constitutional machinery in a State has broken down or there is a deadlock because of political uncertainties or otherwise (**Article 356**).\n*   **(c) Financial Emergency:** A set-back to the financial stability or credit feasibility of the country is likely to occur or has occurred (**Article 360**).\n\n[Image: Breakdown of Constitutional machinery\nGeneral Emergency\nFinancial Emergency\nEmergency Powers]"
+                    }
+                  ]
+                },
+                {
+                  "title": "National or General Emergency",
+                  "sequence_number": 9,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "**Circumstances:** If the President is satisfied that a grave emergency exists whereby the security of India or any part of its territory is threatened, either by **war** or by **external aggression** or **armed rebellion**, he/she may proclaim an **Emergency**. The President cannot issue such a Proclamation unless he/she has the approval in writing of the **Union Cabinet**.\n\n**Duration:** Every proclamation of Emergency must be approved by both the **Houses of Parliament** within **one month** by a **special majority** (i.e., by a majority of the total membership of the House and a majority of not less than two-thirds of the members present and voting). It cannot remain in operation for more than **six months** at a time. At the end of six months it has to be renewed by Parliament by a special majority else it lapses. If the Lok Sabha passes a resolution disapproving the Emergency, the President has to revoke the Proclamation."
+                    },
+                    {
+                      "content_md": "### Effects of General Emergency\n1.  **Fundamental Rights:** The most important effect of a General Emergency is that the exercise of the **Fundamental Rights** is partially or wholly suspended. Even the right to move **Supreme Court** or a **State High Court** for the enforcement of the rights, except **Articles 20 and 21** remains suspended. Article 20 states that \"no person shall be punished for the same offence more than once\". Article 21, declares that \"no person shall be deprived of his/her life or personal liberty except according to procedure established by law.\"\n2.  **Centre-State Relationship:** The country has to forego its **federal spirit**, as the States are obliged to carry out the instructions of the Centre. The Union Parliament acquires the powers to give directions to a State on any matter, so that the State Government will be under the complete control of the Union Executive and will function as under a **unitary system** with local sub-divisions.\n3.  **Finances:** The Centre is empowered to suspend the financial provisions of the Constitution. Matters such as the **distribution of revenues** between the Centre and the States and the **salaries of MPs** may be altered.\n4.  **Union and State Legislatures:** During emergency the term of the **Lok Sabha** may be extended for a period of **one year** at a time. The same rule may be applied to the **Legislative Assembly** of any State."
+                    },
+                    {
+                      "content_md": "**Examples:** National emergency was declared for the first time on **October 26, 1962**, due to the threat caused by the Chinese aggression on our North-East border. The President revoked the proclamation on **January 10, 1968**. The second national emergency was proclaimed on **December 3, 1971**, when Pakistan launched an attack on India."
+                    }
+                  ]
+                },
+                {
+                  "title": "Breakdown of Constitutional Machinery",
+                  "sequence_number": 10,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "**Circumstances:** If the **President**, on receipt of a report from the **Governor** or otherwise, is satisfied that the governance of a State cannot be carried on in accordance with the provisions of the **Constitution**, he/she may declare an emergency in the State. This is called **President's rule** because the President may assume to himself all or any of the functions of the Government of the State.\n\n**Duration:** The duration of such an emergency is **two months**. If it were to continue beyond two months, it should be **ratified by the Parliament**. The Proclamation will cease to be valid for **six months** after the date of its issue even if the Parliament ratifies it. It can, however, be extended for another six months. Thus, **President's Rule** can normally continue only for **a year**. It may be extended beyond one year, under two conditions:\n*   (a) when a **Proclamation of Emergency** is in operation in the whole of India or in any part of the State, and\n*   (b) the **Election Commission** certifies that holding elections to the Legislative Assembly of the State is difficult.\n\nHowever, no such proclamation shall remain in force for more than **three years**."
+                    }
+                  ]
+                },
+                {
+                  "title": "Financial Emergency",
+                  "sequence_number": 11,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "**Circumstances:** If the **President** is satisfied that a situation has arisen whereby the **financial stability** or credit of the nation is threatened, he/she can declare a **Financial Emergency**.\n\n**Duration:** Such a proclamation has to be laid before both **Houses of Parliament** and is valid for **two months** unless it is approved by resolutions of both Houses of Parliament. If the **Lok Sabha** is dissolved when such a proclamation is made and a resolution supporting it is passed by the **Rajya Sabha**, the proclamation will cease to exist at the expiry of **thirty days** from the date on which the Lok Sabha first sits after its reconstitution."
+                    },
+                    {
+                      "content_md": "**Effect of Financial Emergency**\n1. The **President** may appoint a **Finance Commission** to suggest methods to get out of the financial crisis. He/she may adopt suitable measures to restore financial stability in the light of recommendations of the Finance Commission.\n2. The **President** can reduce the **salaries and allowances** of all or any class of persons, including the **Judges of the Supreme Court** and the **High Courts**.\n3. All **Money Bills** passed by the **Lok Sabha** are to be submitted to the President for his/her consideration.\n4. The **President** can issue instructions to the States in regard to the utilisation of funds in the manner he/she thinks fit.\n5. The **President** may order the State to submit **Money Bills** to him for his assent.\n\nFinancial Emergency has never been declared since the promulgation of the Constitution."
+                    }
+                  ]
+                }
+              ],
+              "content_blocks": []
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "VICE-PRESIDENT",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Qualifications for Election",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "1. A person shall be eligible for election as President, if he/she —\n   (a) is a **citizen of India**;\n   (b) has completed the age of **thirty-five years**; and\n   (c) is qualified for election as a member of the **Lok Sabha**.\n\n2. A person shall not be eligible for election as President if he/she holds any **office of profit** under the Government of India or Government of any State or under any local or other authority subject to the control of any of the said Governments. However, a person is not deemed to hold an office of profit by reason only that he/she is President or Vice-President or a Minister either for the Union or for any State.\n\nA person who holds, or who has held, office as President shall be eligible for **re-election** to that office — subject to other provisions of the Constitution."
+                }
+              ]
+            },
+            {
+              "title": "Election",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "An **Electoral College** consisting of the members of both Houses of Parliament elects the Vice-President. The election is held in accordance with the system of **proportional representation** by means of the **single transferable vote**. The voting at such an election is by **secret ballot**. Each nomination paper should be proposed by at least **twenty electors (MPs)** and another twenty electors should second the same. Earlier, the requirement was five proposers and five seconders."
+                }
+              ]
+            },
+            {
+              "title": "Oath of Office",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Before entering upon his/her office, the **President** takes an **oath** in the presence of the **Chief Justice of India** (or in his/her absence, the **senior most Judge of the Supreme Court**) to:\n1. discharge the functions of the President of India,\n2. **preserve, protect and defend the Constitution** and the law, and\n3. devote himself/herself to the service and well-being of the people of India."
+                }
+              ]
+            },
+            {
+              "title": "Term of Office",
+              "sequence_number": 4,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The President shall hold office for a term of **five years** from the date on which he/she enters upon his/her office. He/She shall continue to hold office, notwithstanding the expiry of his/her term, until **his/her successor takes charge**."
+                }
+              ]
+            },
+            {
+              "title": "Powers and Functions",
+              "sequence_number": 5,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [
+                {
+                  "title": "Chairman of the Rajya Sabha",
+                  "sequence_number": 1,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "The **Vice-President of the Indian Union** acts as the **ex-officio Chairman of the Rajya Sabha**. In this capacity he/she regulates debates and proceedings of the House and decides the order of speeches. He/She decides the admissibility of a resolution or of questions. He/She may suspend or adjourn the business of the House in case of grave disorder. He/She issues directions to the chairmen of various committees in all matters relating to their working."
+                    },
+                    {
+                      "content_md": "The Vice-President gets **no salary as the Vice-President**; whatever is paid to him/her is only in the capacity of the Chairman of the Rajya Sabha. In his/her absence the **Deputy Chairman**, who is elected by the members of the Rajya Sabha, heads the Rajya Sabha."
+                    }
+                  ]
+                },
+                {
+                  "title": "Taking over as the President",
+                  "sequence_number": 2,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "The **Vice-President** takes over the office of the **President** under the following situations:\n(a) **death** of the President,\n(b) **resignation** of the President,\n(c) **removal** of the President, or\n(d) when the President is unable to discharge his/her functions owing to **absence**, **illness** or any other cause."
+                    },
+                    {
+                      "content_md": "In the event of the President's **death**, **resignation** or **removal**, the **Vice-President** acts as President and enters upon his/her office until a new President is elected. This is unlike the Vice-President of the USA, who becomes the President for the remaining term of the office."
+                    },
+                    {
+                      "content_md": "The **Vice President** is the second head of the **Union Executive**. He/She is also the **ex-officio Chairman of the Rajya Sabha** (Union Legislature). Thus, he/she has two distinct and separate offices. This **dual capacity** is one of the unique features of the Indian Constitution."
+                    }
+                  ]
+                }
+              ],
+              "content_blocks": []
+            }
+          ],
+          "content_blocks": []
+        }
+      ],
+      "content_blocks": []
+    }
+  ],
+  "additional_sections": [
+    {
+      "title": "Effects of General Emergency",
+      "content_md": "1.  **Fundamental Rights:** The most important effect of a General Emergency is that the exercise of the Fundamental Rights is partially or wholly suspended. Even the right to move Supreme Court or a State High Court for the enforcement of the rights, except Articles 20 and 21 remains suspended. Article 20 states that \"no person shall be punished for the same offence more than once\". Article 21, declares that \"no person shall be deprived of his/her life or personal liberty except according to procedure established by law.\"\n2.  **Centre-State Relationship:** The country has to forego its federal spirit, as the States are obliged to carry out the instructions of the Centre. The Union Parliament acquires the powers to give directions to a State on any matter, so that the State Government will be under the complete control of the Union Executive and will function as under a unitary system with local sub-divisions.\n3.  **Finances:** The Centre is empowered to suspend the financial provisions of the Constitution. Matters such as the distribution of revenues between the Centre and the States and the salaries of MPs may be altered.\n4.  **Union and State Legislatures:** During emergency the term of the Lok Sabha may be extended for a period of one year at a time. The same rule may be applied to the Legislative Assembly or any State.\n\n**Examples:** National emergency was declared for the first time on October 26, 1962, due to the threat caused by the Chinese aggression on our North-East border. The President revoked the proclamation on January 10, 1968. The second national emergency was proclaimed on December 3, 1971, when Pakistan launched an attack on India."
+    },
+    {
+      "title": "Effects of Emergency in a State",
+      "content_md": "1.  The State administration is directly placed under the President (i.e. the Union Government). The Governor of the concerned State acts in accordance with the instructions that are issued by the Union Government from time to time.\n2.  The President may:\n    (i) dissolve the Vidhan Sabha of the State and dismiss the Council of Ministers; or\n    (ii) keep the Assembly and the Council of Ministers in suspended animation.\n    In both cases, the Union Parliament can pass laws, even on all the Subjects of the State List, for that particular State. Even the Annual Budget of that State is presented to and passed by the Parliament.\n3.  When the Lok Sabha is not in session the President may authorise expenditure out of the Consolidated Fund of the State.\n4.  The President may suspend the provision of the Constitution relating to any authority of the State except those relating to High Courts.\n\n**Examples:** This form of emergency is quite common in India and President's Rule has been imposed in a State at one time or the other.\nThe first instance of the President's Rule was in 1951 in Punjab. In 1977, nine States were brought under the President's Rule on the pretext that the State Assemblies no longer reflected the views of the people.\nIn December 1992, President's Rule was imposed on Uttar Pradesh, Madhya Pradesh, Rajasthan and Himachal Pradesh.\nOn October 21, 1997, the Union Cabinet recommended the imposition of President's Rule in Uttar Pradesh following acts of violence in the Vidhan Sabha. The President felt that acts of violence did not imply breakdown of constitutional machinery so he returned the recommendation for Proclamation of President's Rule for reconsideration.\nIn February 2014, President's rule was imposed in Delhi, on the advice of Union Cabinet, after the resignation of Arvind Kejriwal, Chief Minister of Delhi, along with his Council of Ministers was accepted by the President. Arvind Kejriwal had resigned along with his Council of Ministers, after his move to introduce the Jan Lokpal Bill fell through in the Delhi Assembly."
+    },
+    {
+      "title": "Effect of Financial Emergency",
+      "content_md": "1.  The President may appoint a Finance Commission to suggest methods to get out of the financial crisis. He/she may adopt suitable measures to restore financial stability in the light of recommendations of the Finance Commission.\n2.  The President can reduce the salaries and allowances of all or any class of persons, including the Judges of the Supreme Court and the High Courts.\n3.  All Money Bills passed by the Lok Sabha are to be submitted to the President for his/her consideration.\n4.  The President can issue instructions to the States in regard to the utilisation of funds in the manner he/she thinks fit.\n5.  The President may order the State to submit Money Bills to him for his assent.\n\nFinancial Emergency has never been declared since the promulgation of the Constitution."
+    }
+  ],
+  "needs_review": [
+    "Legislative Powers"
+  ],
+  "manifest": {
+    "syllabus_leaves": [
+      {
+        "path": "The Union Executive > The President > Qualifications for Election",
+        "path_titles": [
+          "The Union Executive",
+          "The President",
+          "Qualifications for Election"
+        ],
+        "title": "Qualifications for Election",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "The Union Executive > The President > Composition of the Electoral College > Manner of Election",
+        "path_titles": [
+          "The Union Executive",
+          "The President",
+          "Composition of the Electoral College",
+          "Manner of Election"
+        ],
+        "title": "Manner of Election",
+        "sequence_number": 1,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "The Union Executive > The President > Composition of the Electoral College > Single Transferable Vote System",
+        "path_titles": [
+          "The Union Executive",
+          "The President",
+          "Composition of the Electoral College",
+          "Single Transferable Vote System"
+        ],
+        "title": "Single Transferable Vote System",
+        "sequence_number": 2,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "The Union Executive > The President > Reasons for Indirect Election",
+        "path_titles": [
+          "The Union Executive",
+          "The President",
+          "Reasons for Indirect Election"
+        ],
+        "title": "Reasons for Indirect Election",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "The Union Executive > The President > Oath of Office",
+        "path_titles": [
+          "The Union Executive",
+          "The President",
+          "Oath of Office"
+        ],
+        "title": "Oath of Office",
+        "sequence_number": 4,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "The Union Executive > The President > Term of Office",
+        "path_titles": [
+          "The Union Executive",
+          "The President",
+          "Term of Office"
+        ],
+        "title": "Term of Office",
+        "sequence_number": 5,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "The Union Executive > The President > Vacation of Office",
+        "path_titles": [
+          "The Union Executive",
+          "The President",
+          "Vacation of Office"
+        ],
+        "title": "Vacation of Office",
+        "sequence_number": 6,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "The Union Executive > The President > Procedure for Impeachment of the President",
+        "path_titles": [
+          "The Union Executive",
+          "The President",
+          "Procedure for Impeachment of the President"
+        ],
+        "title": "Procedure for Impeachment of the President",
+        "sequence_number": 7,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "The Union Executive > The President > POWERS OF THE PRESIDENT OF INDIA > Executive Powers",
+        "path_titles": [
+          "The Union Executive",
+          "The President",
+          "POWERS OF THE PRESIDENT OF INDIA",
+          "Executive Powers"
+        ],
+        "title": "Executive Powers",
+        "sequence_number": 1,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "The Union Executive > The President > POWERS OF THE PRESIDENT OF INDIA > Diplomatic Powers",
+        "path_titles": [
+          "The Union Executive",
+          "The President",
+          "POWERS OF THE PRESIDENT OF INDIA",
+          "Diplomatic Powers"
+        ],
+        "title": "Diplomatic Powers",
+        "sequence_number": 2,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "The Union Executive > The President > POWERS OF THE PRESIDENT OF INDIA > Legislative Powers",
+        "path_titles": [
+          "The Union Executive",
+          "The President",
+          "POWERS OF THE PRESIDENT OF INDIA",
+          "Legislative Powers"
+        ],
+        "title": "Legislative Powers",
+        "sequence_number": 3,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": false
+      },
+      {
+        "path": "The Union Executive > The President > POWERS OF THE PRESIDENT OF INDIA > Financial Powers",
+        "path_titles": [
+          "The Union Executive",
+          "The President",
+          "POWERS OF THE PRESIDENT OF INDIA",
+          "Financial Powers"
+        ],
+        "title": "Financial Powers",
+        "sequence_number": 4,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "The Union Executive > The President > POWERS OF THE PRESIDENT OF INDIA > Military Powers",
+        "path_titles": [
+          "The Union Executive",
+          "The President",
+          "POWERS OF THE PRESIDENT OF INDIA",
+          "Military Powers"
+        ],
+        "title": "Military Powers",
+        "sequence_number": 5,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "The Union Executive > The President > POWERS OF THE PRESIDENT OF INDIA > Judicial Powers",
+        "path_titles": [
+          "The Union Executive",
+          "The President",
+          "POWERS OF THE PRESIDENT OF INDIA",
+          "Judicial Powers"
+        ],
+        "title": "Judicial Powers",
+        "sequence_number": 6,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "The Union Executive > The President > POWERS OF THE PRESIDENT OF INDIA > Discretionary Powers",
+        "path_titles": [
+          "The Union Executive",
+          "The President",
+          "POWERS OF THE PRESIDENT OF INDIA",
+          "Discretionary Powers"
+        ],
+        "title": "Discretionary Powers",
+        "sequence_number": 7,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "The Union Executive > The President > POWERS OF THE PRESIDENT OF INDIA > Emergency Powers",
+        "path_titles": [
+          "The Union Executive",
+          "The President",
+          "POWERS OF THE PRESIDENT OF INDIA",
+          "Emergency Powers"
+        ],
+        "title": "Emergency Powers",
+        "sequence_number": 8,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "The Union Executive > The President > POWERS OF THE PRESIDENT OF INDIA > National or General Emergency",
+        "path_titles": [
+          "The Union Executive",
+          "The President",
+          "POWERS OF THE PRESIDENT OF INDIA",
+          "National or General Emergency"
+        ],
+        "title": "National or General Emergency",
+        "sequence_number": 9,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "The Union Executive > The President > POWERS OF THE PRESIDENT OF INDIA > Breakdown of Constitutional Machinery",
+        "path_titles": [
+          "The Union Executive",
+          "The President",
+          "POWERS OF THE PRESIDENT OF INDIA",
+          "Breakdown of Constitutional Machinery"
+        ],
+        "title": "Breakdown of Constitutional Machinery",
+        "sequence_number": 10,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "The Union Executive > The President > POWERS OF THE PRESIDENT OF INDIA > Financial Emergency",
+        "path_titles": [
+          "The Union Executive",
+          "The President",
+          "POWERS OF THE PRESIDENT OF INDIA",
+          "Financial Emergency"
+        ],
+        "title": "Financial Emergency",
+        "sequence_number": 11,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "The Union Executive > VICE-PRESIDENT > Qualifications for Election",
+        "path_titles": [
+          "The Union Executive",
+          "VICE-PRESIDENT",
+          "Qualifications for Election"
+        ],
+        "title": "Qualifications for Election",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "The Union Executive > VICE-PRESIDENT > Election",
+        "path_titles": [
+          "The Union Executive",
+          "VICE-PRESIDENT",
+          "Election"
+        ],
+        "title": "Election",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "The Union Executive > VICE-PRESIDENT > Oath of Office",
+        "path_titles": [
+          "The Union Executive",
+          "VICE-PRESIDENT",
+          "Oath of Office"
+        ],
+        "title": "Oath of Office",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "The Union Executive > VICE-PRESIDENT > Term of Office",
+        "path_titles": [
+          "The Union Executive",
+          "VICE-PRESIDENT",
+          "Term of Office"
+        ],
+        "title": "Term of Office",
+        "sequence_number": 4,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "The Union Executive > VICE-PRESIDENT > Powers and Functions > Chairman of the Rajya Sabha",
+        "path_titles": [
+          "The Union Executive",
+          "VICE-PRESIDENT",
+          "Powers and Functions",
+          "Chairman of the Rajya Sabha"
+        ],
+        "title": "Chairman of the Rajya Sabha",
+        "sequence_number": 1,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "The Union Executive > VICE-PRESIDENT > Powers and Functions > Taking over as the President",
+        "path_titles": [
+          "The Union Executive",
+          "VICE-PRESIDENT",
+          "Powers and Functions",
+          "Taking over as the President"
+        ],
+        "title": "Taking over as the President",
+        "sequence_number": 2,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      }
+    ],
+    "stray_leaves": [
+      {
+        "title": "Effects of General Emergency",
+        "insert_after_index": 20,
+        "micro_topics": [],
+        "has_notes": true
+      },
+      {
+        "title": "Effects of Emergency in a State",
+        "insert_after_index": 21,
+        "micro_topics": [],
+        "has_notes": true
+      },
+      {
+        "title": "Effect of Financial Emergency",
+        "insert_after_index": 22,
+        "micro_topics": [],
+        "has_notes": true
+      }
+    ]
+  }
+}

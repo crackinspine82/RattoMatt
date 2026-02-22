@@ -1,0 +1,6086 @@
+{
+  "board": "ICSE",
+  "grade": 10,
+  "subject": "HistoryCivics",
+  "book_slug": "TotalHistoryCivics_MorningStar_DollyESequeira",
+  "book_meta": {
+    "book_name": "Total History & Civics",
+    "publication": "Morning Star",
+    "author": "Dolly E. Sequeira"
+  },
+  "chapters": [
+    {
+      "title": "The Union Parliament",
+      "sequence_number": 1,
+      "discipline": "civics",
+      "nodes": [
+        {
+          "title": "The Union Legislature",
+          "sequence_number": 1,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Meaning of the Federal Setup in India",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Lok Sabha",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Term",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Composition",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Qualifications for Membership",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Disqualification of Membership",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Vacation of Seats",
+                  "sequence_number": 5,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Parliamentary procedures",
+          "sequence_number": 2,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Sessions",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Quorum",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Questions",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Question Hour",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Types of Questions",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Zero Hour",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Motion",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Adjournment Motion",
+              "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "No-Confidence Motion",
+              "sequence_number": 7,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Adjournment and Prorogation of the House",
+              "sequence_number": 8,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Anti-Defection Law",
+          "sequence_number": 3,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "Passing of Bills",
+          "sequence_number": 4,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Ordinary Bills",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Money Bills",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Speaker of the Lok Sabha",
+          "sequence_number": 5,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        }
+      ],
+      "structure_notes": ""
+    },
+    {
+      "title": "The First War of Independence, 1857",
+      "sequence_number": 1,
+      "discipline": "history",
+      "nodes": [
+        {
+          "title": "CAUSES OF THE FIRST WAR OF INDEPENDENCE",
+          "sequence_number": 1,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Political Causes",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Policy of Expansion",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": [
+                    {
+                      "title": "By Outright Wars",
+                      "sequence_number": 1,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "By Subsidiary Alliance",
+                      "sequence_number": 2,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "By Using the Doctrine of Lapse",
+                      "sequence_number": 3,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "On the Pretext of Alleged Misrule",
+                      "sequence_number": 4,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Disrespect Shown to Bahadur Shah",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Treatment Given to Nana Saheb",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Absentee Sovereignty of the British",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Socio-Religious Causes",
+          "sequence_number": 2,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Interference with Social Customs",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Apprehensions about Modern Innovations",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Policy of Racial Discrimination",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Corruption in Administration",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Oppression of the Poor",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Activities of Missionaries",
+              "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Fears Regarding Western Education",
+              "sequence_number": 7,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Taxing Religious Places",
+              "sequence_number": 8,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Law of Property",
+              "sequence_number": 9,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Economic Causes",
+          "sequence_number": 3,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Exploitation of Economic Resources",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Drain of Wealth",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Decay of Cottage Industries and Handicrafts",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Economic Decline of Peasantry",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Growing Unemployment",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Inhuman Treatment of Indigo Cultivators",
+              "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Poverty and Famines",
+              "sequence_number": 7,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Decline of Landed Aristocracy",
+              "sequence_number": 8,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Military Causes",
+          "sequence_number": 4,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Ill-treatment of Indian soldiers",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "General Service Enlistment Act",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Larger Proportion of Indians in the British Army",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Bleak Prospects of Promotions",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Deprivation of Allowances",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Faulty Distribution of Troops",
+              "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Poor Performance of British Troops",
+              "sequence_number": 7,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Lower Salaries",
+              "sequence_number": 8,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "IMMEDIATE CAUSE",
+          "sequence_number": 5,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Introduction of the Enfield Rifle",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "BEGINNING OF THE UPRISING",
+          "sequence_number": 6,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "*MAIN EVENTS",
+          "sequence_number": 7,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Events at Meerut",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Events at Delhi",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Events at Lucknow",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Events at Kanpur",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Events in Central India (Jhansi and Gwalior)",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Events at Other Centres",
+              "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "CONSEQUENCES OF THE FIRST WAR OF INDEPENDENCE",
+          "sequence_number": 8,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Changes in Administration",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "End of the Company's Rule",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Policy of Divide and Rule",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Racial Antagonism",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Foreign Policy",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Religious Changes",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Economic Exploitation",
+              "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Queen Victoria's Proclamation",
+              "sequence_number": 7,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Relations with Princely States",
+              "sequence_number": 8,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Changes in the Army",
+              "sequence_number": 9,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "THE DELHI DURBAR OF 1877",
+              "sequence_number": 10,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "DRAWBACKS OF THE FIRST WAR OF INDEPENDENCE",
+          "sequence_number": 9,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "Nature of the War",
+          "sequence_number": 10,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        }
+      ],
+      "structure_notes": ""
+    },
+    {
+      "title": "The Union Parliament II",
+      "sequence_number": 2,
+      "discipline": "civics",
+      "nodes": [
+        {
+          "title": "Rajya Sabha",
+          "sequence_number": 1,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Composition",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Elected Members",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Nominated Members",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Qualifications for Membership",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Disqualification of Membership",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Election",
+              "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Term",
+              "sequence_number": 7,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Presiding Officers",
+              "sequence_number": 8,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "1.",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "2.",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+          "sequence_number": 2,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Legislative Powers",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "1. Matters in the Union List",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "2. Matters in the Concurrent List",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "3. Residuary Powers",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "4. Matters in the State List",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": [
+                    {
+                      "title": "(a)",
+                      "sequence_number": 1,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "(b)",
+                      "sequence_number": 2,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "(c)",
+                      "sequence_number": 3,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "5. Ordinances",
+                  "sequence_number": 5,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "6. Powers during Emergency",
+                  "sequence_number": 6,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Financial Powers",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "1. The Budget",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "2. Supplementary Grants",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "3. Vote on Account",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "4. Salaries",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "5. Permission for Taxes",
+                  "sequence_number": 5,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Judicial Powers",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "1. Impeachment of the President",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "2. Removal of Judges, etc",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "3. Punishment",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Electoral Functions",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "1.",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "2.",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "3.",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Amendment of the Constitution",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Control over the Executive",
+              "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "1. Interpellation",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "2. Motions of Censure",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "3. Monetary Controls",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Other Powers",
+              "sequence_number": 7,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "1.",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "2.",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "3.",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Exclusive Powers of the Lok Sabha",
+              "sequence_number": 8,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "1.",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "2.",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Exclusive Powers of the Rajya Sabha",
+              "sequence_number": 9,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "1.",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "2.",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "3.",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "RELATIONSHIP BETWEEN THE TWO HOUSES OF THE PARLIAMENT",
+          "sequence_number": 3,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Difference over the Legislative Matters",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "1. Ordinary Bills",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "2. Money Bills",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Control over the Executive",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Election of the President and the Vice-President",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Impeachment",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Emergency Provision",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        }
+      ],
+      "structure_notes": ""
+    },
+    {
+      "title": "Growth of Nationalism",
+      "sequence_number": 2,
+      "discipline": "history",
+      "nodes": [
+        {
+          "title": "Factors leading to the growth of Nationalism",
+          "sequence_number": 1,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Economic Exploitation",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "The Peasants",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "The Artisans and Craftsmen",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "The Working Class",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "The Educated Indians",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Repressive Colonial Policies",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Lord Lytton organised a Grand Delhi Durbar in 1877",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Lord Lytton introduced the Vernacular Press Act (1878) and Indian Arms Act (1878)",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "The maximum age limit for appearing in the Indian Civil Service examination was reduced from 21 to 19 years",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Lord Lytton removed import duties on cotton textiles",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Sir C.P. Ilbert... prepared a bill, popularly known as the Ilbert Bill in 1883",
+                  "sequence_number": 5,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Socio-Religious Reform Movements",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Raja Rammohan Roy",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "His Approach of Religion",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Social Reforms",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Pioneer of Indian Journalism",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Political Rights",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Jyotiba Phule",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Upliftment of Women",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Caste Structure",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Social Justice for Lower Castes",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Swami Dayanand Saraswati",
+              "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Ideals of Arya Samaj",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": [
+                    {
+                      "title": "Supremacy of Vedas",
+                      "sequence_number": 1,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "Monotheism",
+                      "sequence_number": 2,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "Opposition to Social Evils",
+                      "sequence_number": 3,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "Shudhi Movement",
+                      "sequence_number": 4,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "Equality of Women",
+                      "sequence_number": 5,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "Education",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Spread of the Movement",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Swami Vivekananda (1863-1902)",
+              "sequence_number": 7,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Ideals of Swami Vivekananda",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "The World Parliament of Religions",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Effects of Socio-religious Reform Movements on the Growth of Nationalism",
+              "sequence_number": 8,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Role of the Press",
+              "sequence_number": 9,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "FOUNDATION OF THE INDIAN NATIONAL CONGRESS",
+          "sequence_number": 2,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "East India Association",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Indian Association (1876)",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Indian National Conference (1883)",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Sessions of the Congress",
+          "sequence_number": 3,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        }
+      ],
+      "structure_notes": ""
+    },
+    {
+      "title": "The President and The Vice-President",
+      "sequence_number": 3,
+      "discipline": "civics",
+      "nodes": [
+        {
+          "title": "The Union Executive",
+          "sequence_number": 1,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "The President",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Qualifications for Election",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Composition of the Electoral College",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": [
+                    {
+                      "title": "Manner of Election",
+                      "sequence_number": 1,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "Single Transferable Vote System",
+                      "sequence_number": 2,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "Reasons for Indirect Election",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Oath of Office",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Term of Office",
+                  "sequence_number": 5,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Vacation of Office",
+                  "sequence_number": 6,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Procedure for Impeachment of the President",
+                  "sequence_number": 7,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "POWERS OF THE PRESIDENT OF INDIA",
+                  "sequence_number": 8,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": [
+                    {
+                      "title": "Executive Powers",
+                      "sequence_number": 1,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "Diplomatic Powers",
+                      "sequence_number": 2,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "Legislative Powers",
+                      "sequence_number": 3,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "Financial Powers",
+                      "sequence_number": 4,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "Military Powers",
+                      "sequence_number": 5,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "Judicial Powers",
+                      "sequence_number": 6,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "Discretionary Powers",
+                      "sequence_number": 7,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "Emergency Powers",
+                      "sequence_number": 8,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "National or General Emergency",
+                      "sequence_number": 9,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "Breakdown of Constitutional Machinery",
+                      "sequence_number": 10,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "Financial Emergency",
+                      "sequence_number": 11,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "VICE-PRESIDENT",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Qualifications for Election",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Election",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Oath of Office",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Term of Office",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Powers and Functions",
+                  "sequence_number": 5,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": [
+                    {
+                      "title": "Chairman of the Rajya Sabha",
+                      "sequence_number": 1,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "Taking over as the President",
+                      "sequence_number": 2,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "structure_notes": ""
+    },
+    {
+      "title": "First Phase of the Indian National Movement",
+      "sequence_number": 3,
+      "discipline": "history",
+      "nodes": [
+        {
+          "title": "THE EARLY NATIONALISTS",
+          "sequence_number": 1,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Beliefs of the Early Nationalists",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "DEMANDS OF THE EARLY NATIONALISTS",
+          "sequence_number": 2,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Constitutional Reforms",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Economic Reforms",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Administrative Demands",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Defence of Civil Rights",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "METHODS OF THE EARLY NATIONALISTS",
+          "sequence_number": 3,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "ACHIEVEMENTS OF THE EARLY NATIONALISTS",
+          "sequence_number": 4,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "Criticism of the Early Nationalists",
+          "sequence_number": 5,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "Official Attitude Towards the Congress",
+          "sequence_number": 6,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "PROMINENT EARLY NATIONALIST LEADERS",
+          "sequence_number": 7,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Dadabhai Naoroji (1825-1917)",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "His Contributions",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Gopal Krishna Gokhale (1866-1915)",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "His Contributions",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Surendranath Banerjee (1848-1925)",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "His Contributions",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "structure_notes": ""
+    },
+    {
+      "title": "Prime Minister and Council of Ministers",
+      "sequence_number": 4,
+      "discipline": "civics",
+      "nodes": [
+        {
+          "title": "Prime Minister and Council of Ministers",
+          "sequence_number": 1,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "THE PRIME MINISTER",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Appointment",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "COUNCIL OF MINISTERS",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Cabinet Ministers",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Ministers of State",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Deputy Ministers",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "The Cabinet",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Formation",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Appointment of the Cabinet",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Term of Office",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "FEATURES OF THE CABINET SYSTEM",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "President as Nominal Head",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Coordination between Ministers and Parliament",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Leadership of the Prime Minister",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Control of Parliament over the Executive",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "POWERS AND FUNCTIONS OF THE CABINET",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Administrative Powers",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": [
+                    {
+                      "title": "Policy Making",
+                      "sequence_number": 1,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "Implementation of Policies",
+                      "sequence_number": 2,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "Coordinating the Functioning of Various Ministers",
+                      "sequence_number": 3,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "Appointments",
+                      "sequence_number": 4,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "Legislative Powers",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": [
+                    {
+                      "title": "Introduction of Bills",
+                      "sequence_number": 1,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "Source of Information",
+                      "sequence_number": 2,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "Amendment to the Constitution",
+                      "sequence_number": 3,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "Summoning the Houses of Parliament",
+                      "sequence_number": 4,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "President's Special Address",
+                      "sequence_number": 5,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "Issuing Ordinances",
+                      "sequence_number": 6,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "Financial Powers",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": [
+                    {
+                      "title": "Budget",
+                      "sequence_number": 1,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "Finances of the Government",
+                      "sequence_number": 2,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "Introduction of Money Bills",
+                      "sequence_number": 3,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "Emergency Powers",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "POSITION AND POWERS OF THE PRIME MINISTER",
+              "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Prime Minister and the President",
+              "sequence_number": 7,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Prime Minister and the Cabinet",
+              "sequence_number": 8,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Leader of the Cabinet",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Power to Allocate Portfolios and to Reshuffle the Council of Ministers",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Power to Select and Dismiss Ministers",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Power to Direct and Coordinate Policy",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Resignation of the Prime Minister",
+                  "sequence_number": 5,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Prime Minister inside the Parliament",
+              "sequence_number": 9,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Leader of the Lok Sabha",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Spokesperson of the Government",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Defender of Government Policies",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Intervention in case of Controversial Issues",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Prime Minister as Leader of the Nation",
+              "sequence_number": 10,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Check on the authority of the Prime Minister",
+              "sequence_number": 11,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "COLLECTIVE RESPONSIBILITY",
+              "sequence_number": 12,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "INDIVIDUAL RESPONSIBILITY",
+              "sequence_number": 13,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        }
+      ],
+      "structure_notes": ""
+    },
+    {
+      "title": "Second Phase of the Indian National Movement",
+      "sequence_number": 4,
+      "discipline": "history",
+      "nodes": [
+        {
+          "title": "CAUSES OF PARTITION OF BENGAL",
+          "sequence_number": 1,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Bengal was the nerve centre of Indian nationalism at that time.",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "The Partition of the state was intended to curb Bengali influence.",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "The Partition was meant to foster division on the basis of religion.",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "THE ANTI-PARTITION MOVEMENT",
+          "sequence_number": 2,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "People's Reaction",
+          "sequence_number": 3,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "The Partition came into effect on October 16, 1905.",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "The streets of Kolkata were full of the cries of 'Bande Mataram'",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Rabindranath Tagore composed the patriotic song, ‘Amar Sonar Bangla'",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "The ceremony of Raksha Bandhan was celebrated in a new way.",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Impact of the Anti-Partition Movement",
+          "sequence_number": 4,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "The Partition of Bengal along with the Anti-Partition Movement accelerated the Nationalist Movement",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "The ideas of Swadeshi and Boycott, born of the popular feelings in 1905, took shape",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "The Swadeshi Movement not only played an important role in the growth of nationalism and patriotism among the masses",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "A number of indigenous industries like soap and matchstick factories, textile mills, tanneries, banks, insurance companies and so on started growing",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "The Partition of Bengal left a lasting legacy of communal distrust and violence.",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "The people lost their faith in the fair play and justice of the British.",
+              "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "The Anti-Partition agitation backfired the plans of Lord Curzon.",
+              "sequence_number": 7,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "SURAT SPLIT OF 1907",
+          "sequence_number": 5,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "THE ASSERTIVE NATIONALISTS",
+          "sequence_number": 6,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "Causes for the Rise of Assertive Nationalism",
+          "sequence_number": 7,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Recognition of the True Nature of the British Rule:",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Failure of the Early Nationalists:",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Worsening Economic Conditions:",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Growing Consciousness Among Indians:",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Need for Mass Action:",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Influence of International Events:",
+              "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Growth of Education and Unemployment:",
+              "sequence_number": 7,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Ill-treatment of Indians Abroad:",
+              "sequence_number": 8,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Existence of a Nationalist School of Thought:",
+              "sequence_number": 9,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Repressive Policies of Lord Curzon:",
+              "sequence_number": 10,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Partition of Bengal:",
+              "sequence_number": 11,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Main Objective of Assertive Nationalists",
+          "sequence_number": 8,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "Methods of Assertive Nationalists",
+          "sequence_number": 9,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Swadeshi:",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Boycott:",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "National Education:",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Passive Resistance:",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "ACHIEVEMENTS OF ASSERTIVE NATIONALISTS",
+          "sequence_number": 10,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "Home Rule Movement",
+          "sequence_number": 11,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "LEADERS OF ASSERTIVE NATIONALISM",
+          "sequence_number": 12,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Bal Gangadhar Tilak (1856-1920)",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Bipin Chandra Pal (1858-1932)",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Lala Lajpat Rai (1865-1928)",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        }
+      ],
+      "structure_notes": ""
+    },
+    {
+      "title": "The Supreme Court",
+      "sequence_number": 5,
+      "discipline": "civics",
+      "nodes": [
+        {
+          "title": "The Judiciary",
+          "sequence_number": 1,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Need for a Single Integrated Judiciary",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "THE SUPREME COURT",
+          "sequence_number": 2,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Composition",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Qualifications for Appointment as Judge of Supreme Court",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Appointment",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Appointment of Ad Hoc Judges",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Term of Office",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "APPOINTMENT OF JUDGES OF THE SUPREME COURT",
+              "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Seat of Supreme Court",
+              "sequence_number": 7,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "INDEPENDENCE OF JUDICIARY FROM THE CONTROL OF EXECUTIVE AND LEGISLATURE",
+              "sequence_number": 8,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Appointment of Judges",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Removal of Judges",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Security of Tenure",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Security of Salaries and Service Conditions",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Freedom to Announce Decisions and Decrees",
+                  "sequence_number": 5,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Punishment for Contempt of Court",
+                  "sequence_number": 6,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Full Control Over its Procedure of Work and Establishment",
+                  "sequence_number": 7,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "No Discussion in the Legislature on the Conduct of Judges",
+                  "sequence_number": 8,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Prohibition of Practice after Retirement",
+                  "sequence_number": 9,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Live-Streaming of Court Proceedings",
+                  "sequence_number": 10,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "JURISDICTION AND POWERS OF THE SUPREME COURT",
+          "sequence_number": 3,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Original Jurisdiction",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Centre-State or Inter-States Disputes",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Protection of Fundamental Rights",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Transfer of Cases from Lower Courts",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Interpretation of Constitution",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Appellate Jurisdiction",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Constitutional Cases",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Civil Cases",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Criminal Cases",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Advisory Jurisdiction",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Revisory Jurisdiction",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Judicial Review",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Court of Record",
+              "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "FUNCTIONS OF THE SUPREME COURT",
+              "sequence_number": 7,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Settlement of Disputes",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "On Appeals",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Appeal by Special Leave",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Enforcement of Fundamental Rights",
+              "sequence_number": 8,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Administrative and Supervisory Functions",
+              "sequence_number": 9,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "IMPORTANT WRITS",
+          "sequence_number": 4,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Habeas Corpus",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Mandamus",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Writ of Prohibition",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Writ of Certiorari",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Quo-warranto",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        }
+      ],
+      "structure_notes": ""
+    },
+    {
+      "title": "The Muslim League",
+      "sequence_number": 5,
+      "discipline": "history",
+      "nodes": [
+        {
+          "title": "THE GROWTH OF COMMUNALISM",
+          "sequence_number": 1,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "FACTORS LEADING TO THE FORMATION OF THE MUSLIM LEAGUE",
+          "sequence_number": 2,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Loss of Sovereignty by Mughal Rulers",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "British Policy of Divide and Rule",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "In 1871 Lord Mayo's government adopted...",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "They tried to create hatred among the...",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "They tried to justify the Partition of Bengal...",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "They tried to utilise the caste structure...",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "They treated Hindus, Muslims and Sikhs...",
+                  "sequence_number": 5,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "They tried to spread communal hatred...",
+                  "sequence_number": 6,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Relative Backwardness of the Muslim Community in Education, Trade and Industry",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "The upper class Muslims comprising...",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "The British government in India had...",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "The Muslim community was not much...",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Some members of the Muslim community...",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Role of Sir Sayyid Ahmad Khan",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Erroneous Interpretation of History",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Some British and communal historians...",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "The British and communal historians...",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Some communal historians highlighted...",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "The communal bias was propagated...",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Rise of Assertive Nationalism",
+              "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Economic Backwardness of the Country",
+              "sequence_number": 7,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "EVENTS LEADING TO THE FORMATION OF THE MUSLIM LEAGUE",
+          "sequence_number": 3,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "The Hindi-Urdu Controversy",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Foundation of Mohammedan Anglo-Oriental Association (1893)",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "The Aligarh Politics",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Partition of Bengal (1905)",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Muslim Deputation to the Viceroy, Lord Minto",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "FORMATION OF THE MUSLIM LEAGUE",
+          "sequence_number": 4,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "OBJECTIVES OF THE MUSLIM LEAGUE",
+          "sequence_number": 5,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "IMPACT OF THE MUSLIM LEAGUE ON THE NATIONAL MOVEMENT",
+          "sequence_number": 6,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "League's Role in the Beginning",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Government Support to the League",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "The Phase of Rapprochement",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "THE LUCKNOW PACT",
+          "sequence_number": 7,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Circumstances Leading to the Lucknow Pact",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "International Events",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "National Events",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Changes in the Objectives of the Muslim League",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "A Compromise Between the Two Factions of the Congress",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "TERMS OF THE LUCKNOW PACT",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Abolition of the India Council",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Provincial Legislatures",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Minorities in Elected Bodies",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Limitation of the Imperial Legislature",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Imperial Legislative Council",
+                  "sequence_number": 5,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Powers of the Legislative Council",
+                  "sequence_number": 6,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Autonomy in Provinces",
+                  "sequence_number": 7,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Viceroy's Executive Council",
+                  "sequence_number": 8,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Religious Interests",
+                  "sequence_number": 9,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Separation of Judiciary from Executive",
+                  "sequence_number": 10,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "SIGNIFICANCE OF THE LUCKNOW PACT",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Hindu-Muslim Unity",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Unity Within the Congress",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Pressure on the Government",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Necessity to Pacify Indians",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Drawbacks of the Lucknow Pact",
+              "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        }
+      ],
+      "structure_notes": ""
+    },
+    {
+      "title": "The High Courts and Subordinate Courts",
+      "sequence_number": 6,
+      "discipline": "civics",
+      "nodes": [
+        {
+          "title": "THE HIGH COURTS",
+          "sequence_number": 1,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Composition",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Qualifications",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Appointment of Judges",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Conditions of Service",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "A. Retirement, Removal and Transfer",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "B. Salaries and Emoluments of Judges",
+              "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "C. Restrictions on Practice",
+              "sequence_number": 7,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "D. Other Conditions",
+              "sequence_number": 8,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "(i)",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(ii)",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "POWERS AND JURISDICTION OF HIGH COURT",
+              "sequence_number": 9,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Original Jurisdiction",
+              "sequence_number": 10,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "(i)",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(ii)",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Appellate Jurisdiction",
+              "sequence_number": 11,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Civil Cases",
+              "sequence_number": 12,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "(i)",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(ii)",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Criminal Cases",
+              "sequence_number": 13,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "(i)",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(ii)",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(iii)",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(iv)",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Advisory Jurisdiction",
+              "sequence_number": 14,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Revisory Jurisdiction",
+              "sequence_number": 15,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "PUBLIC INTEREST LITIGATION (PIL)",
+              "sequence_number": 16,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Judicial Review",
+              "sequence_number": 17,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Court of Record",
+              "sequence_number": 18,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "(i)",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(ii)",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "FUNCTIONS OF THE HIGH COURT",
+              "sequence_number": 19,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Settlement of Disputes",
+              "sequence_number": 20,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Original:",
+              "sequence_number": 21,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "On Appeal:",
+              "sequence_number": 22,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Enforcement of Fundamental Rights (Power to Issue Writs)",
+              "sequence_number": 23,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "*OTHER FUNCTIONS",
+              "sequence_number": 24,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "1. High Court's Power of Superintendence",
+              "sequence_number": 25,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "(i)",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(ii)",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(iii)",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(iv)",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "2. Administrative Functions",
+              "sequence_number": 26,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "1.",
+              "sequence_number": 27,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "2.",
+              "sequence_number": 28,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "3.",
+              "sequence_number": 29,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "(i)",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(ii)",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(iii)",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "INDEPENDENCE OF THE HIGH COURT",
+              "sequence_number": 30,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "SUBORDINATE COURTS",
+          "sequence_number": 2,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Structure and Composition",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Civil Courts",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "1. The Court of the District Judge",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "2. Court of Civil Judge",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "3. Munsif's Courts",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "4. Courts of Small Causes",
+              "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Term of Office",
+              "sequence_number": 7,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Administrative Control:",
+              "sequence_number": 8,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Criminal Courts",
+              "sequence_number": 9,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Classification of Criminal Courts",
+              "sequence_number": 10,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Sessions Court:",
+              "sequence_number": 11,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Court of Chief Metropolitan Magistrate or Chief Judicial Magistrate:",
+              "sequence_number": 12,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Court of the First Class Magistrates:",
+              "sequence_number": 13,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Court of the Second Class Magistrates:",
+              "sequence_number": 14,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Appeals",
+              "sequence_number": 15,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "*COURTS OF REVENUE",
+              "sequence_number": 16,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "1. Board of Revenue:",
+              "sequence_number": 17,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "2. Commissioner's Court:",
+              "sequence_number": 18,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "3. Collector's Court:",
+              "sequence_number": 19,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "4. Tehsildar's Court:",
+              "sequence_number": 20,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "5. Naib Tehsildar's Court:",
+              "sequence_number": 21,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "LOK ADALATS",
+          "sequence_number": 3,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Types of Lok Adalats",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "National Lok Adalat:",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Permanent Lok Adalat:",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Mobile Lok Adalats:",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Working of Lok Adalats",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Advantages of Lok Adalats",
+              "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "(i)",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(ii)",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(iii)",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(iv)",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Scope of Lok Adalats",
+              "sequence_number": 7,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Family Courts",
+              "sequence_number": 8,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        }
+      ],
+      "structure_notes": ""
+    },
+    {
+      "title": "Mahatma Gandhi and the National Movement",
+      "sequence_number": 6,
+      "discipline": "history",
+      "nodes": [
+        {
+          "title": "Mass Phase of the National Movement (1915-1947)",
+          "sequence_number": 1,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Mahatma Gandhi-Non-Cooperation Movement",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Causes (Khilafat Movement, Rowlatt Act, Jallianwala Bagh Tragedy)",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Programme and suspension",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Chauri Chaura incident and impact of the Movement",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "The Civil Disobedience Movement",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Causes (reaction to the Simon Commission (clauses will not be tested) Declaration of Poorna Swaraj at the Lahore Session of 1929)",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Dandi March, programme and impact of the Movement",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Gandhi-Irwin Pact and the Second Round Table Conference",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Reason for renewal of the Civil Disobedience Movement",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "structure_notes": "Syllabus is presented as a nested bulleted list. I interpret the bullets as defining sections and topics."
+    },
+    {
+      "title": "The Quit India Movement",
+      "sequence_number": 7,
+      "discipline": "history",
+      "nodes": [
+        {
+          "title": "The Quit India Movement",
+          "sequence_number": 1,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Causes (failure of the Cripps Mission (clauses will not be tested), Japanese threat), Quit India Resolution and the significance of the Movement.",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "EVENTS LEADING TO QUIT INDIA MOVEMENT",
+          "sequence_number": 2,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Resignation of the Congress Ministries:",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "August Offer (1940):",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "The Cripps Mission (1942):",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Failure of the Cripps Mission:",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Japanese Threat:",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "QUIT INDIA RESOLUTION",
+          "sequence_number": 3,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "The Quit India Movement",
+          "sequence_number": 4,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "Government's Repressive Measures",
+          "sequence_number": 5,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "The Significance of the Quit India Movement",
+          "sequence_number": 6,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "CHAPTER AT A GLANCE",
+          "sequence_number": 7,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "August Offer:",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "The Cripps Mission:",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Japanese Threat:",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Quit India Resolution:",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "The Significance of the Quit India Movement:",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "EXERCISES",
+          "sequence_number": 8,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Multiple-Choice Questions",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Short Answer Questions",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Structured Questions",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Higher Order Thinking Skills (HOTS)",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        }
+      ],
+      "structure_notes": ""
+    },
+    {
+      "title": "Forward Bloc and INA",
+      "sequence_number": 8,
+      "discipline": "history",
+      "nodes": [
+        {
+          "title": "Forward Bloc and INA",
+          "sequence_number": 1,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Bose and The Congress",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Rift with Gandhiji",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Rift in the Congress",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "FORWARD BLOC",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Objectives of the Forward Bloc",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Netaji's Arrest and Escape",
+              "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Events in South-East Asia",
+              "sequence_number": 7,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "INDIAN NATIONAL ARMY (INA)",
+              "sequence_number": 8,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Founder of the INA",
+              "sequence_number": 9,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "The Tokyo Conference",
+              "sequence_number": 10,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "The Bangkok Conference",
+              "sequence_number": 11,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Contribution of Subhas Chandra Bose",
+              "sequence_number": 12,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Provisional Government of Free India",
+              "sequence_number": 13,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Objectives of the INA",
+              "sequence_number": 14,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Achievements of the INA and Netaji",
+              "sequence_number": 15,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Fate of the INA and Netaji",
+              "sequence_number": 16,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Impact of the INA",
+              "sequence_number": 17,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "CHAPTER AT A GLANCE",
+              "sequence_number": 18,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "EXERCISES",
+              "sequence_number": 19,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        }
+      ],
+      "structure_notes": ""
+    },
+    {
+      "title": "Independence and Partition of India",
+      "sequence_number": 9,
+      "discipline": "history",
+      "nodes": [
+        {
+          "title": "EVENTS THAT LED TO THE CABINET MISSION",
+          "sequence_number": 1,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Changes in Britain",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Revolts in the Administrative Agencies",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Mood of the Indian People",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Labour Unrest",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Cabinet Mission in India",
+          "sequence_number": 2,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "THE CABINET MISSION PLAN",
+          "sequence_number": 3,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Federal Union",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Powers of the Union",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Provincial Autonomy",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Grouping of Provinces",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Formation of a Constituent Assembly",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Representation of Minorities",
+              "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Formation of an Interim Government",
+              "sequence_number": 7,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Freedom to Join the Commonwealth",
+              "sequence_number": 8,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Transfer of Power",
+              "sequence_number": 9,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Rejection of the Demand for Pakistan",
+          "sequence_number": 4,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "Reaction to the Cabinet Mission Plan",
+          "sequence_number": 5,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "The Congress",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "The Muslim League",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "CONFLICT BETWEEN CONGRESS AND MUSLIM LEAGUE",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Attlee's Announcement",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "LORD MOUNTBATTEN",
+          "sequence_number": 6,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "Mountbatten Plan",
+          "sequence_number": 7,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Partition",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Relations between the two new Dominions",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "A Boundary Commission",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "The Princely States",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Bengal and Punjab",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Sind",
+              "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "North-West Frontier Province",
+              "sequence_number": 7,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "The District of Sylhet",
+              "sequence_number": 8,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Constituent Assembly",
+              "sequence_number": 9,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Transfer of Power",
+              "sequence_number": 10,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Acceptance of Mountbatten Plan",
+          "sequence_number": 8,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "THE INDIAN INDEPENDENCE ACT, 1947",
+          "sequence_number": 9,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Two New Dominions",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Provisions of Partition",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Governor-General for Each Dominion",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Constituent Assemblies to Serve as Central Legislatures",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "End of Jurisdiction of the British Parliament",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Princely States",
+              "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Treaties and Agreements",
+              "sequence_number": 7,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Division of the Army and the Assets",
+              "sequence_number": 8,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Bringing the Act Into Operation",
+              "sequence_number": 9,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Office of Secretary of State and Interest of Existing Officers",
+              "sequence_number": 10,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "INDEPENDENCE BY AN ACT OF LEGISLATION",
+          "sequence_number": 10,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "CHAPTER AT A GLANCE",
+          "sequence_number": 11,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        }
+      ],
+      "structure_notes": ""
+    },
+    {
+      "title": "The First World War",
+      "sequence_number": 10,
+      "discipline": "history",
+      "nodes": [
+        {
+          "title": "CAUSES OF THE FIRST WORLD WAR",
+          "sequence_number": 1,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Nationalism and Imperialism",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Race for Armaments",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Division of Europe into Two Hostile Groups",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Sarajevo Crisis (Immediate Cause)",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "EVENTS OF THE WORLD WAR",
+          "sequence_number": 2,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "War on the Western Front",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Trench Warfare",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "War on the Eastern Front",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Policy of Blockade",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "War Against Turkey",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Entry of the USA in the War",
+              "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Exit of Russia",
+              "sequence_number": 7,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Treaty of Brest-Litovsk (March 1918)",
+              "sequence_number": 8,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "End of the War",
+              "sequence_number": 9,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "RESULTS OF THE WAR",
+          "sequence_number": 3,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "The Treaty of Versailles (June 28,1919)",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Terms of the Treaty",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Territorial Rearrangements",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Formation of the League of Nations",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Aims and Objectives of the League of Nations",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "CHAPTER AT A GLANCE",
+          "sequence_number": 4,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "EXERCISES",
+          "sequence_number": 5,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "I. Multiple-Choice Questions",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "II. Short Answer Questions",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "III. Structured Questions",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "IV. Higher Order Thinking Skills (HOTS)",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        }
+      ],
+      "structure_notes": ""
+    },
+    {
+      "title": "Rise of Dictatorships",
+      "sequence_number": 11,
+      "discipline": "history",
+      "nodes": [
+        {
+          "title": "Rise of Dictatorships",
+          "sequence_number": 1,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Causes for the rise of Fascism",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Discontentment after the Treaty of Versailles",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Economic Crisis",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Political Instability",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Class Conflicts",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Threat of Socialism or Communism",
+                  "sequence_number": 5,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Failure of the League of Nations",
+                  "sequence_number": 6,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Leadership Provided by Mussolini",
+                  "sequence_number": 7,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Aims of Fascism",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Fascism was the antithesis of democracy.",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Fascists supported one party and one leader.",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Fascists favoured equal control over all sections of society.",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Fascists laid stress on nationalism and not on individual institutions.",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "They believed that the interests of the State must get precedence over individual interests because an individual gets all the rights from the State.",
+                  "sequence_number": 5,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Fascists regarded quality more important than quantity and therefore, opposed that form of democracy which equates a nation to the majority.",
+                  "sequence_number": 6,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Fascists favoured aggressive foreign",
+                  "sequence_number": 7,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Fascism in Italy",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Background",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Rise of Mussolini",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": [
+                    {
+                      "title": "Five members of the Fascist Party to be included in the Cabinet",
+                      "sequence_number": 1,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "New elections to be announced",
+                      "sequence_number": 2,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "The Government should act firmly on its foreign policy",
+                      "sequence_number": 3,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "Economic reforms to be implemented as early as possible.",
+                      "sequence_number": 4,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "End of Fascism in Italy",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Impact of Fascism",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": [
+                    {
+                      "title": "Mussolini devoted himself to make Italy a powerful nation and carried out administrative",
+                      "sequence_number": 1,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Nazi Dictatorship in Germany",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Background",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Hitler's Rise To Power",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Fall of Hitler",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Causes for the Rise of Nazism",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Humiliating Treaty of Versailles",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Growing Fear of Communism",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Economic Crisis",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Resurgence of Militant Nationalism",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Anti-Semitic Propaganda",
+                  "sequence_number": 5,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Absence of Strong Opposition",
+                  "sequence_number": 6,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Establishment of Volunteer Corps",
+                  "sequence_number": 7,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Charismatic Personality of Hitler",
+                  "sequence_number": 8,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Aims of Nazism",
+              "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "To exalt nationalism",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "To advocate the rule by a great leader from a single party",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "To despise internationalism, peace and democracy",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "To use force and brutality",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "To extol war",
+                  "sequence_number": 5,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "To uphold the racial supremacy of the Germans and to hate Jews.",
+                  "sequence_number": 6,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Impact of Nazism",
+              "sequence_number": 7,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Established a Totalitarian State",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Economic Reforms",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Militarism and Compulsory Military Training",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Repudiated Peace Treaties",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Acquisition of Territories",
+                  "sequence_number": 5,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Racial Supremacy",
+                  "sequence_number": 6,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Negative Aspects",
+                  "sequence_number": 7,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Similarity Between the Causes of Fascism and Nazism",
+              "sequence_number": 8,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Similarity Between the Ideologies of Fascism and Nazism",
+              "sequence_number": 9,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        }
+      ],
+      "structure_notes": ""
+    },
+    {
+      "title": "The Second World War",
+      "sequence_number": 12,
+      "discipline": "history",
+      "nodes": [
+        {
+          "title": "Causes of World War II",
+          "sequence_number": 1,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Dissatisfaction with the Treaty of Versailles",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Rise of Fascism and Nazism",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Policy of Appeasement",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Japanese Invasion of China",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Failure of the League of Nations",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Hitler's Invasion of Poland (Immediate Cause)",
+              "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "EVENTS OF THE WAR",
+          "sequence_number": 2,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Conquest of Norway, Denmark and Holland",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Fall of France",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "The Battle of Britain",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "The Battle of Stalingrad",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "The Battle for Berlin",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Attack on Pearl Harbour",
+              "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Bombing of Hiroshima and Nagasaki",
+              "sequence_number": 7,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "CONSEQUENCES OF THE SECOND WORLD WAR",
+          "sequence_number": 3,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Defeat of Axis Powers",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Formation of the UN",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Cold War",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "MEANING OF COLD WAR",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "The Democratic and Capitalist Bloc",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "The Communist Bloc",
+              "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Military Alliances",
+              "sequence_number": 7,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "North Atlantic Treaty Organisation (NATO)",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Warsaw Pact",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "structure_notes": ""
+    },
+    {
+      "title": "United Nations",
+      "sequence_number": 13,
+      "discipline": "history",
+      "nodes": [
+        {
+          "title": "REASONS FOR THE ESTABLISHMENT OF THE UNITED NATIONS",
+          "sequence_number": 1,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Disastrous World Wars",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Failure of the League of Nations",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Fear of Third World War",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Division of the World Into Two Blocs",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Destructive Weapons",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "ORIGIN OF THE UN",
+          "sequence_number": 2,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "THE OBJECTIVES OF THE UNITED NATIONS",
+          "sequence_number": 3,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Main Objectives of the UN",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Principles of the United Nations",
+          "sequence_number": 4,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "Headquarters",
+          "sequence_number": 5,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "Official Languages",
+          "sequence_number": 6,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "Flag",
+          "sequence_number": 7,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "Finances",
+          "sequence_number": 8,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "Membership",
+          "sequence_number": 9,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "India, an Original Member",
+          "sequence_number": 10,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "ORGANS OF THE UNITED NATIONS",
+          "sequence_number": 11,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "THE GENERAL ASSEMBLY",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Composition",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Powers and Functions",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "THE SECURITY COUNCIL",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Composition",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Veto Power",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Functions and Powers",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "INTERNATIONAL COURT OF JUSTICE",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Composition",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Powers and Functions",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Voluntary Jurisdiction",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Compulsory Jurisdiction",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Advisory Opinions",
+                  "sequence_number": 5,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "THE ECONOMIC AND SOCIAL COUNCIL (ECOSOC)",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "THE TRUSTEESHIP COUNCIL",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "THE SECRETARIAT",
+              "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "UNIVERSAL DECLARATION OF HUMAN RIGHTS",
+          "sequence_number": 12,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Basis of all rights Articles 1 and 2",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Importance Of Human Rights Declaration",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Declaration of Rights of the Child",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        }
+      ],
+      "structure_notes": ""
+    },
+    {
+      "title": "Major Agencies of the United Nations",
+      "sequence_number": 14,
+      "discipline": "history",
+      "nodes": [
+        {
+          "title": "UNITED NATIONS CHILDREN'S FUND (UNICEF)",
+          "sequence_number": 1,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Headquarters",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Finance",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Objective",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Functions",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "UNICEF works for the protection of children in respect of their survival, health, and well-being.",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "It provides funds for training personnel, including health and sanitation workers, teachers and nutritionists.",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "It provides technical supplies, equipment and other aids, ranging from paper for textbooks, to equipment and medicines to health clinics, to pipes and pumps for bringing clean water to villages.",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "It assists governments to plan, develop and extend community-based services in the fields of maternal and child health, nutrition, clean water and sanitation.",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "It provides help to children and mothers in emergencies arising from natural calamities, civil strife and epidemics.",
+                  "sequence_number": 5,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "It makes effort to prevent diseases like tuberculosis (T.B.), malaria, eye diseases, skin diseases, etc.",
+                  "sequence_number": 6,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "UNICEF performs various other functions.",
+                  "sequence_number": 7,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "UNICEF Programmes in India",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "The government of India has launched in collaboration with UNICEF - the National Mission on Immunisation, the National Mission for Drinking Water and the National Literacy Mission.",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Community Development Programme has been started in the rural areas of India with UNICEF's assistance, aimed at maternal and child health.",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "The government's efforts to reduce infant and child mortality due to diarrhoeal diseases were supported by UNICEF for the production of Oral Rehydration Therapy (ORT).",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "UNICEF is a partner of the Indian government in the accelerated rural water supply programme.",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Since the 1990s, the government of India, UNICEF and other UN agencies have been working together for the promotion of iodised salt as the best way of preventing iodine deficiency disorders.",
+                  "sequence_number": 5,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "UNICEF seeks to advance the fulfilment of the rights of all women and children in India to survival, development, participation and protection by reducing social inequalities based on gender, caste, ethnicity or region.",
+                  "sequence_number": 6,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "WORLD HEALTH ORGANIZATION (WHO)",
+          "sequence_number": 2,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Objective",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Headquarters",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Functions",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "It helps countries to improve their health system by building up infrastructure especially manpower, institutions and services for the individual and community.",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "It gives important drugs needed for medical care.",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Achievements of WHO",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "UNITED NATIONS EDUCATIONAL, SCIENTIFIC AND CULTURAL ORGANIZATION (UNESCO)",
+          "sequence_number": 3,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Objectives and Headquarters",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Functions",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Education",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Scientific activities",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Communication",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Preservation of Cultural Heritage",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": [
+                    {
+                      "title": "WORLD HERITAGE LIST",
+                      "sequence_number": 1,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "MANUSCRIPTS",
+                      "sequence_number": 2,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "INTANGIBLE CULTURAL HERITAGE (ICH)",
+                      "sequence_number": 3,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "ART",
+                  "sequence_number": 5,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "FILMS",
+                  "sequence_number": 6,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "TRAVEL GRANTS",
+                  "sequence_number": 7,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "India's Association with UNESCO",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        }
+      ],
+      "structure_notes": ""
+    },
+    {
+      "title": "Non-Aligned Movement",
+      "sequence_number": 15,
+      "discipline": "history",
+      "nodes": [
+        {
+          "title": "NON-ALIGNED MOVEMENT",
+          "sequence_number": 1,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "MEANING OF NON-ALIGNMENT",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "FACTORS RESPONSIBLE FOR NON-ALIGNMENT",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Global tension caused by Cold War",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Struggle against imperialism and neo-colonisation",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Right of independent judgement",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Use of moderation in relation to all the big powers",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Restructuring international economic order",
+                  "sequence_number": 5,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Formation of a collective force",
+                  "sequence_number": 6,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "PANCHSHEEL",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "ARCHITECTS OF NAM",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "OBJECTIVES OF THE NON-ALIGNED MOVEMENT",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "ROLE OF JAWAHARLAL NEHRU",
+              "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "ACHIEVEMENTS OF NAM",
+              "sequence_number": 7,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "FUTURE OF NAM",
+              "sequence_number": 8,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        }
+      ],
+      "structure_notes": ""
+    }
+  ]
+}

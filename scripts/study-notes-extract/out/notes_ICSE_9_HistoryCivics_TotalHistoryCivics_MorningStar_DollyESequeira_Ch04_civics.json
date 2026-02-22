@@ -17,6 +17,7 @@
       "KINDS OF ELECTIONS",
       "DIRECT ELECTIONS",
       "INDIRECT ELECTIONS",
+      "Election of the President and the Vice-President of India",
       "GENERAL ELECTIONS",
       "MID-TERM ELECTION",
       "BY-ELECTIONS",
@@ -32,32 +33,11 @@
       "(f) Appointment of Polling Officers",
       "(g) Scrutiny of Nomination Papers",
       "(h) Scrutiny of Election Expenses",
-      "(i) Advisory Functions",
-      "TERMS TO REMEMBER"
+      "(i) Advisory Functions"
     ],
     "in_syllabus_only": [],
-    "in_pdf_only": [
-      {
-        "title": "GENERAL ELECTIONS",
-        "insert_after_index": 4,
-        "micro_topics": []
-      },
-      {
-        "title": "TERMS TO REMEMBER",
-        "insert_after_index": 22,
-        "micro_topics": []
-      }
-    ],
-    "additional_sections": [
-      {
-        "title": "GENERAL ELECTIONS",
-        "content_md": "The elections held to elect the members of the Lok Sabha after expiry of the normal term of five years are called the General Elections. Elections to some State Legislative Assemblies may be held along with the Parliamentary Elections. Earlier up to 1957 simultaneous elections were held for both the Lok Sabha and the State Assemblies. However, on account of early dismissal and mid-term elections the two got gradually separated."
-      },
-      {
-        "title": "TERMS TO REMEMBER",
-        "content_md": "**Proportionate Representation**: A system in which parties in an election gain seats in proportion to the number of votes cast for them.\n\n**Franchise**: The right to vote.\n\n**By-Election**: An election held for a particular seat or seats to fill the vacancy for the remaining period of an elected body.\n\n**Mid-Term Election**: An election held in the middle of a period of office."
-      }
-    ]
+    "in_pdf_only": [],
+    "additional_sections": []
   },
   "nodes": [
     {
@@ -67,7 +47,7 @@
       "level_label": "Section",
       "children": [
         {
-          "title": "Meaning of Elections",
+          "title": "Meaning",
           "sequence_number": 1,
           "depth": 1,
           "level_label": "Topic",
@@ -75,535 +55,623 @@
           "content_blocks": [
             {
               "content_md": "**Democracy** is a form of government in which the people have a say in who should hold power and how the power should be used. In a democracy, citizens choose or elect their representatives either directly or indirectly to run the country.\n\n**Election** is a procedure whereby persons are chosen, by voting, to represent the voters for running the government. Generally, there is a contest between different candidates for the same position. Thus, in the elections there are winners and losers.\n\nIn modern societies elections are fought on party lines. A **political party** is a group of people holding similar views or beliefs. Any political party or a combination of parties getting the largest number of votes, form the government."
-            },
-            {
-              "content_md": "[Image: A circular diagram illustrating the process of Democracy. People elect Representatives, who form a Government, which makes Laws that the People obey.]"
             }
           ]
         },
         {
-          "title": "Kinds of Elections",
+          "title": "Composition of Election Commission (in brief)",
           "sequence_number": 2,
           "depth": 1,
           "level_label": "Topic",
-          "children": [
+          "children": [],
+          "content_blocks": [
             {
-              "title": "Direct Elections",
-              "sequence_number": 1,
-              "depth": 2,
-              "level_label": "Subtopic",
-              "children": [],
-              "content_blocks": [
-                {
-                  "content_md": "People of India directly elect their representatives to the **Lok Sabha** and the **State Legislative Assemblies**. The members of the State Legislative Assembly, known as **MLAs**, are directly elected by the people of the State. The members of the **Lok Sabha** are known as **Members of Parliament (MP)** or Members of the Lok Sabha. Under the existing political system elections are held on party lines. The party or a combination of parties having the largest number of legislators elect their leader from amongst themselves, who is made the **Chief Minister** or the **Prime Minister**, as the case may be."
-                }
-              ]
+              "content_md": "**Article 324, Clauses 1 to 6** deal with the composition of the Election Commission and other related issues. The **Chief Election Commissioner (CEC)** stands at the top in the hierarchy of the Election Commission. The Election Commission consists of a **Chief Election Commissioner** and other **Election Commissioners**."
             },
             {
-              "title": "Indirect Elections",
-              "sequence_number": 2,
-              "depth": 2,
-              "level_label": "Subtopic",
-              "children": [],
-              "content_blocks": [
-                {
-                  "content_md": "India has two types of **legislatures** both at the Union and State level. At the State level only some States have the second house called **Vidhan Parishad**, the **Legislative Council** or the **Upper House**. At the Union Level the upper house is known as **Rajya Sabha**, which is a permanent house. The election to both houses at the State and the Union level is **Indirect** i.e., the representatives are not directly elected by the people. The elected representatives of the people elect the members of the Upper House, both at the Centre as well as the State. In the case of the Legislative Council, members are elected by members of the Legislative Assembly."
-                }
-              ]
+              "content_md": "From **1950 to 1989** the Election Commission was a **single member Constitutional body**. In **1989**, the Election Commission was made a **multi-member body**. Two more Commissioners were appointed and the Chief Election Commissioner was designated as the **Chairman of the Commission**. Thus, at present the Election Commission consists of **three members**."
             },
             {
-              "title": "Mid-term Election",
-              "sequence_number": 3,
-              "depth": 2,
-              "level_label": "Subtopic",
-              "children": [],
-              "content_blocks": [
-                {
-                  "content_md": "This type of election is held when a **State Legislative Assembly** or the **Lok Sabha** is **dissolved before the completion of its full term (5 years)**. The new house will normally have a **full five year term**. This election is called **Mid-term Election**."
-                }
-              ]
-            },
-            {
-              "title": "By-Elections",
-              "sequence_number": 4,
-              "depth": 2,
-              "level_label": "Subtopic",
-              "children": [],
-              "content_blocks": [
-                {
-                  "content_md": "When a seat held by any member of the Legislative Assembly in the Centre or State falls vacant on account of **death**, **resignation** of the member before completion of his/her term, to fill up this vacancy the election which is held is called **By-Election**. The person so elected remains the member for the **unexpired term** of the House."
-                }
-              ]
+              "content_md": "The **Chief Election Commissioner (CEC)** and the other Commissioners are appointed by the **President of India**. This is done at the behest of the **Prime Minister** as per **Article 74**. The **Regional Election Commissioners** are also appointed by the President in consultation with the Election Commission."
             }
-          ],
-          "content_blocks": []
+          ]
         },
         {
-          "title": "Election Commission",
+          "title": "Direct and Indirect election",
           "sequence_number": 3,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "Election is the best way by which representatives of the people can be sent to the legislatures. India being a federal country makes provisions for holding elections both for the Central and State legislatures. Hence, elections need to be free and fair with wide participation. Keeping in view the great impact and significance of the elections, the Constitution has made detailed provisions for the free and fair conduct of elections in **Part XV, Articles 324 to 329**."
+              "content_md": "### DIRECT ELECTIONS\n\nPeople of India directly elect their representatives to the **Lok Sabha** and the **State Legislative Assemblies**. The members of the State Legislative Assembly, known as **MLAs**, are directly elected by the people of the State. The members of the Lok Sabha are known as **Members of Parliament (MP)** or Members of the Lok Sabha. Under the existing political system elections are held on party lines. The party or a combination of parties having the largest number of legislators elect their leader from amongst themselves, who is made the **Chief Minister** or the **Prime Minister**, as the case may be."
+            },
+            {
+              "content_md": "### INDIRECT ELECTIONS\n\nIndia has two types of legislatures both at the Union and State level. At the State level only some States have the second house called **Vidhan Parishad**, the **Legislative Council** or the **Upper House**. At the Union Level the upper house is known as **Rajya Sabha**, which is a permanent house. The election to both houses at the State and the Union level is **Indirect** i.e., the representatives are not directly elected by the people. The elected representatives of the people elect the members of the Upper House, both at the Centre as well as the State. In the case of the Legislative Council, members are elected by members of the Legislative Assembly from amongst persons who are not the members of the Legislative Assembly.\n\nThe Rajya Sabha consists of not more than **250 members**. Out of these, **238 members** are elected by the elected members of the Legislative Assembly of each State. The remaining **12 members** are nominated by the President from among persons having special knowledge or practical experience in matters such as literature, science, art and social service."
+            },
+            {
+              "content_md": "#### Election of the President and the Vice-President of India\n\nIn both these cases the elections are **Indirect**. The **President of India** is elected indirectly by the members of an **Electoral College** consisting of the elected members of both Houses of Parliament and the elected members of the Legislative Assemblies of the States including National Capital Territory of Delhi and the Union Territory of Puducherry. The election takes place in accordance with the system of **proportional representation** by means of a **single transferable vote**. Like the President, the election of the **Vice-President** is also **Indirect**. The Vice-President is elected by members of both Houses of Parliament. In this election, the State Legislatures do not take part."
             }
           ]
         },
         {
-          "title": "Composition of the Election Commission",
+          "title": "General election",
           "sequence_number": 4,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "**Article 324**, Clauses 1 to 6 deal with the composition of the Election Commission and other related issues. The **Chief Election Commissioner (CEC)** stands at the top in the hierarchy of the Election Commission. The Election Commission consists of a **Chief Election Commissioner** and other **Election Commissioners**.\n\nFrom **1950 to 1989** the Election Commission was a **single member Constitutional body**. In **1989**, the Election Commission was made a **multi-member body**. Two more Commissioners were appointed and the Chief Election Commissioner was designated as the **Chairman of the Commission**. Thus, at present the Election Commission consists of **three members**.\n\nThe **Chief Election Commissioner (CEC)** and the other Commissioners are appointed by the **President of India**. This is done at the behest of the **Prime Minister** as per **Article 74**. The **Regional Election Commissioners** are also appointed by the **President** in consultation with the **Election Commission**."
+              "content_md": "The elections held to elect the members of the **Lok Sabha** after expiry of the **normal term of five years** are called the **General Elections**. Elections to some **State Legislative Assemblies** may be held along with the Parliamentary Elections. Earlier up to **1957**, **simultaneous elections** were held for both the **Lok Sabha** and the **State Assemblies**. However, on account of early dismissal and mid-term elections the two got gradually separated."
             }
           ]
         },
         {
-          "title": "Term of Office and Conditions of Service",
+          "title": "Mid-term election and By-election",
           "sequence_number": 5,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "The **Parliament of India** passed an **Act in 1994**, as laid down in **Article 324 Clause 5** of the Constitution. Under this Act the terms of office and the conditions of service of the Chief Election Commissioner and other Commissioners were determined.\n\n(i) They are appointed for a **term of 6 years**. During this tenure if they attain the **age of 65 years**, they shall vacate office on the day of attaining this age.\n(ii) The **salary** of the Chief Election Commissioner and other such Commissioners shall be **equal to the salary of a Supreme Court judge**. They are also entitled to **pension after retirement**.\n(iii) Any difference of opinion between the Chief Election Commissioner and the other Commissioners shall be decided in favour of the **majority opinion**."
+              "content_md": "### MID-TERM ELECTION\nThis type of election is held when a State Legislative Assembly or the **Lok Sabha** is dissolved before the completion of its **full term (5 years)**. The new house will normally have a **full five year term**. This election is called **Mid-term Election**.\n\n### BY-ELECTIONS\nWhen a seat held by any member of the Legislative Assembly in the Centre or State falls vacant on account of death, resignation of the member before completion of his/her term, to fill up this vacancy the election which is held is called **By-Election**. The person so elected remains the member for the **unexpired term** of the House."
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    },
+    {
+      "title": "MEANING OF ELECTIONS",
+      "sequence_number": 2,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "**Democracy** is a form of government in which the people have a say in who should hold power and how the power should be used. In a democracy, citizens choose or elect their representatives either directly or indirectly to run the country."
+        },
+        {
+          "content_md": "**Election** is a procedure whereby persons are chosen, by voting, to represent the voters for running the government. Generally, there is a contest between different candidates for the same position. Thus, in the elections there are winners and losers."
+        },
+        {
+          "content_md": "In modern societies elections are fought on party lines. A **political party** is a group of people holding similar views or beliefs. Any political party or a combination of parties getting the largest number of votes, form the government."
+        }
+      ]
+    },
+    {
+      "title": "KINDS OF ELECTIONS",
+      "sequence_number": 3,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "DIRECT ELECTIONS",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "People of India **directly elect** their representatives to the **Lok Sabha** and the **State Legislative Assemblies**. The members of the State Legislative Assembly, known as **MLAs**, are directly elected by the people of the State. The members of the Lok Sabha are known as **Members of Parliament (MP)** or Members of the Lok Sabha. Under the existing political system elections are held on party lines. The party or a combination of parties having the largest number of legislators elect their leader from amongst themselves, who is made the **Chief Minister** or the **Prime Minister**, as the case may be."
             }
           ]
         },
         {
-          "title": "Powers and Functions of the Election Commission",
+          "title": "INDIRECT ELECTIONS",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "India has two types of legislatures both at the Union and State level. At the State level only some States have the second house called **Vidhan Parishad**, the **Legislative Council** or the **Upper House**. At the Union Level the upper house is known as **Rajya Sabha**, which is a permanent house. The election to both houses at the State and the Union level is **Indirect** i.e., the representatives are not directly elected by the people. The elected representatives of the people elect the members of the Upper House, both at the Centre as well as the State. In the case of the Legislative Council, members are elected by members of the Legislative Assembly from amongst persons who are not the members of the Legislative Assembly."
+            },
+            {
+              "content_md": "The **Rajya Sabha** consists of not more than **250 members**. Out of these, **238 members** are elected by the elected members of the Legislative Assembly of each State. The remaining **12 members** are nominated by the President from among persons having special knowledge or practical experience in matters such as literature, science, art and social service."
+            },
+            {
+              "content_md": "**Election of the President and the Vice-President of India**: In both these cases the elections are **Indirect**. The President of India is elected indirectly by the members of an **Electoral College** consisting of the elected members of both Houses of Parliament and the elected members of the Legislative Assemblies of the States including National Capital Territory of Delhi and the Union Territory of Puducherry. The election takes place in accordance with the system of **proportional representation** by means of a **single transferable vote**. Like the President, the election of the Vice-President is also **Indirect**. The Vice-President is elected by members of both Houses of Parliament. In this election, the State Legislatures do not take part."
+            }
+          ]
+        },
+        {
+          "title": "Election of the President and the Vice-President of India",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "In both these cases the elections are **Indirect**. The **President of India** is elected indirectly by the members of an **Electoral College** consisting of the **elected members of both Houses of Parliament** and the **elected members of the Legislative Assemblies of the States** including National Capital Territory of Delhi and the Union Territory of Puducherry. The election takes place in accordance with the system of **proportional representation** by means of a **single transferable vote**. Like the President, the election of the **Vice-President** is also **Indirect**. The Vice-President is elected by **members of both Houses of Parliament**. In this election, the **State Legislatures do not take part**."
+            }
+          ]
+        },
+        {
+          "title": "GENERAL ELECTIONS",
+          "sequence_number": 4,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The elections held to elect the members of the **Lok Sabha** after expiry of the normal term of five years are called the **General Elections**. Elections to some **State Legislative Assemblies** may be held along with the Parliamentary Elections. Earlier up to **1957** simultaneous elections were held for both the Lok Sabha and the State Assemblies. However, on account of early dismissal and mid-term elections the two got gradually separated."
+            }
+          ]
+        },
+        {
+          "title": "MID-TERM ELECTION",
+          "sequence_number": 5,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "This type of election is held when a **State Legislative Assembly** or the **Lok Sabha** is **dissolved before the completion of its full term (5 years)**. The new house will normally have a full five year term. This election is called **Mid-term Election**."
+            }
+          ]
+        },
+        {
+          "title": "BY-ELECTIONS",
           "sequence_number": 6,
           "depth": 1,
           "level_label": "Topic",
-          "children": [
+          "children": [],
+          "content_blocks": [
             {
-              "title": "(a) Preparation of Electoral Rolls and Photo Identity Cards",
-              "sequence_number": 1,
-              "depth": 2,
-              "level_label": "Subtopic",
-              "children": [],
-              "content_blocks": [
-                {
-                  "content_md": "The Constitution provides for one **“general electoral roll\"** for every territorial Constituency of the Lok Sabha and State Assembly. An **electoral roll** is a **voter's list** containing the name, father's name, age and sex of the voter. These electoral rolls are updated from time to time to provide for new entrants and deaths as well as other changes."
-                },
-                {
-                  "content_md": "The Commission identifies eligible voters in each constituency and prepares the list of all eligible voters. This is called **voters list**. In order to carry out this function, the **Photo Identity Card** for every voter is issued. This prevents fraudulent voting by impersonators."
-                }
-              ]
-            },
-            {
-              "title": "(b) Registration and Recognition of Political Parties",
-              "sequence_number": 2,
-              "depth": 2,
-              "level_label": "Subtopic",
-              "children": [],
-              "content_blocks": [
-                {
-                  "content_md": "The **Election Commission** grants recognition to **political parties**."
-                }
-              ]
-            },
-            {
-              "title": "(c) Allotment of Symbols",
-              "sequence_number": 3,
-              "depth": 2,
-              "level_label": "Subtopic",
-              "children": [],
-              "content_blocks": [
-                {
-                  "content_md": "The **Election Commission** allots **symbols** to the **recognised political parties** and the candidates for elections. The Commission may have some symbols as **reserved** and others as **free**. The Election Commission on recognition of a political party allots it a **reserved common symbol**. The political party uses the symbols for all candidates sponsored by it.\n\nThe **independent candidates** or **non-registered political parties** can select a symbol of their choice on the **first-come-first served basis** from the list of **free symbols**. In case of a **split in a political party** the Election Commission verifies claims and counterclaims and may **freeze the reserved symbol**. It asks the factions to choose some other symbols."
-                }
-              ]
-            },
-            {
-              "title": "(d) Fixing Dates and Conducting Elections",
-              "sequence_number": 4,
-              "depth": 2,
-              "level_label": "Subtopic",
-              "children": [],
-              "content_blocks": [
-                {
-                  "content_md": "The **Election Commission** fixes dates for elections. Under the **Constitution**, the Government decides as to when the elections should be held. The fixing of exact dates rests with the **Election Commission**. The Commission states the reasons for holding or not holding the elections during a particular period. The **Election Commission** may refuse to hold elections at a particular duration to ensure **free and fair elections** even if the political parties insist on having elections at that particular period."
-                }
-              ]
-            },
-            {
-              "title": "(e) Ensuring Free and Fair Elections",
-              "sequence_number": 5,
-              "depth": 2,
-              "level_label": "Subtopic",
-              "children": [
-                {
-                  "title": "(i) The Commission may send Central observers to the constituencies where there is danger of violence or booth capturing.",
-                  "sequence_number": 1,
-                  "depth": 3,
-                  "level_label": "Point",
-                  "children": [],
-                  "content_blocks": [
-                    {
-                      "content_md": "The Commission may send **Central observers** to the constituencies where there is danger of **violence** or **booth capturing**. This is done to ensure that citizens can vote freely without fear."
-                    }
-                  ]
-                },
-                {
-                  "title": "(ii) The Commission countermands polling where it has reasonable doubt that some malpractices have occurred.",
-                  "sequence_number": 2,
-                  "depth": 3,
-                  "level_label": "Point",
-                  "children": [],
-                  "content_blocks": [
-                    {
-                      "content_md": "**The Commission countermands polling** where it has reasonable doubt that some **malpractices** have occurred."
-                    }
-                  ]
-                },
-                {
-                  "title": "(iii) In terms of the recent amendments to Representative of Peoples Act the Commission prescribes severe punishment for booth capturing.",
-                  "sequence_number": 3,
-                  "depth": 3,
-                  "level_label": "Point",
-                  "children": [],
-                  "content_blocks": [
-                    {
-                      "content_md": "In terms of the recent amendments to the **Representative of Peoples Act**, the Commission prescribes severe punishment for **booth capturing**."
-                    }
-                  ]
-                }
-              ],
-              "content_blocks": []
-            },
-            {
-              "title": "(f) Appointment of Polling Officers",
-              "sequence_number": 6,
-              "depth": 2,
-              "level_label": "Subtopic",
-              "children": [],
-              "content_blocks": [
-                {
-                  "content_md": "The **Election Commission** appoints **polling officers** for the constituencies. This process is set into motion as soon as notification for the conduct of elections is made.\n\nEach Constituency is put under the overall supervision of an officer not less than the rank of a Deputy Commissioner of the district or the Magistrate. The Officer is designated as the '**Returning Officer**'. It is his responsibility to declare a candidate fit for contesting elections.\n\nAt the time of elections **Presiding Officers** in-charge of polling booths and counting centres are also appointed."
-                }
-              ]
-            },
-            {
-              "title": "(g) Scrutiny of Nomination Papers",
-              "sequence_number": 7,
-              "depth": 2,
-              "level_label": "Subtopic",
-              "children": [],
-              "content_blocks": [
-                {
-                  "content_md": "The Commission announces the date of elections and the date of filing nomination papers and the last date of withdrawal for nominations. Scrutiny of the applications is made by the **Returning Officer**. The **Returning Officer** has to verify whether the provisions concerning the deposit, election symbol, election agent, etc., have been fulfilled."
-                }
-              ]
-            },
-            {
-              "title": "(h) Scrutiny of Election Expenses",
-              "sequence_number": 8,
-              "depth": 2,
-              "level_label": "Subtopic",
-              "children": [],
-              "content_blocks": [
-                {
-                  "content_md": "The **Election Commission** scrutinises the accounts of **election expenses** submitted by the contestants. In order to downplay the role of money influencing elections, the contesting candidates should submit the **Statement of Accounts** to the **Returning Officer**, who submits it to the Commission for scrutiny. The election of the winning candidate can be **declared invalid**, if there was malpractice."
-                }
-              ]
-            },
-            {
-              "title": "(i) Advisory Functions",
-              "sequence_number": 9,
-              "depth": 2,
-              "level_label": "Subtopic",
-              "children": [],
-              "content_blocks": [
-                {
-                  "content_md": "The **Election Commission** also advises the **President** or the **Governors** of the State in respect of **electoral matters**, **disqualification of members**, **election disputes**, **petitions** etc."
-                }
-              ]
+              "content_md": "When a seat held by any member of the Legislative Assembly in the Centre or State falls vacant on account of **death** or **resignation** of the member before completion of his/her term, the election which is held to fill up this vacancy is called a **By-Election**. The person so elected remains the member for the **unexpired term** of the House."
             }
-          ],
-          "content_blocks": []
+          ]
+        }
+      ],
+      "content_blocks": []
+    },
+    {
+      "title": "ELECTION COMMISSION",
+      "sequence_number": 4,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "Election is the best way by which representatives of the people can be sent to the legislatures. India being a federal country makes provisions for holding elections both for the Central and State legislatures. Hence, elections need to be **free and fair** with wide participation. Keeping in view the great impact and significance of the elections, the **Constitution** has made detailed provisions for the free and fair conduct of elections in **Part XV, Articles 324 to 329**."
+        }
+      ]
+    },
+    {
+      "title": "COMPOSITION OF THE ELECTION COMMISSION",
+      "sequence_number": 5,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "**Article 324, Clauses 1 to 6** deal with the composition of the **Election Commission** and other related issues. The **Chief Election Commissioner (CEC)** stands at the top in the hierarchy of the Election Commission. The Election Commission consists of a **Chief Election Commissioner** and other **Election Commissioners**.\n\nFrom 1950 to 1989 the Election Commission was a **single member Constitutional body**. In 1989, the Election Commission was made a **multi-member body**. Two more Commissioners were appointed and the **Chief Election Commissioner** was designated as the **Chairman of the Commission**. Thus, at present the Election Commission consists of **three members**.\n\nThe **Chief Election Commissioner (CEC)** and the other Commissioners are appointed by the **President of India**. This is done at the behest of the **Prime Minister** as per **Article 74**. The **Regional Election Commissioners** are also appointed by the **President** in consultation with the **Election Commission**."
+        }
+      ]
+    },
+    {
+      "title": "TERM OF OFFICE AND CONDITIONS OF SERVICE",
+      "sequence_number": 6,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "The **Parliament of India** passed an **Act in 1994**, as laid down in **Article 324, Clause 5** of the Constitution. Under this Act the terms of office and the conditions of service of the **Chief Election Commissioner** and other **Commissioners** were determined."
+        },
+        {
+          "content_md": "1. They are appointed for a **term of 6 years**. During this tenure if they attain the **age of 65 years**, they shall vacate office on the day of attaining this age.\n2. The **salary** of the Chief Election Commissioner and other such Commissioners shall be equal to the salary of a **Supreme Court judge**. They are also entitled to **pension after retirement**.\n3. Any **difference of opinion** between the Chief Election Commissioner and the other Commissioners shall be decided in favour of the **majority opinion**."
+        }
+      ]
+    },
+    {
+      "title": "POWERS AND FUNCTIONS OF THE ELECTION COMMISSION",
+      "sequence_number": 7,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "(a) Preparation of Electoral Rolls and Photo Identity Cards",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The Constitution provides for one **“general electoral roll\"** for every territorial Constituency of the Lok Sabha and State Assembly. An **electoral roll** is a **voter's list** containing the name, father's name, age and sex of the voter. These electoral rolls are updated from time to time to provide for new entrants and deaths as well as other changes.\n\nThe Commission identifies eligible voters in each constituency and prepares the list of all eligible voters. This is called **voters list**. In order to carry out this function, the **Photo Identity Card** for every voter is issued. This prevents fraudulent voting by impersonators."
+            }
+          ]
+        },
+        {
+          "title": "(b) Registration and Recognition of Political Parties",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **Election Commission** grants **recognition** to **political parties**."
+            }
+          ]
+        },
+        {
+          "title": "(c) Allotment of Symbols",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **Election Commission** allots **symbols** to the **recognised political parties** and the candidates for elections. The Commission may have some symbols as **reserved** and others as **free**. The Election Commission on recognition of a political party allots it a **reserved common symbol**. The political party uses the symbols for all candidates sponsored by it.\n\nThe **independent candidates** or **non-registered political parties** can select a symbol of their choice on the first-come-first served basis from the list of **free symbols**. In case of a split in a political party the **Election Commission** verifies claims and counterclaims and may **freeze the reserved symbol**. It asks the factions to choose some other symbols."
+            }
+          ]
+        },
+        {
+          "title": "(d) Fixing Dates and Conducting Elections",
+          "sequence_number": 4,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The Election **Commission fixes dates for elections**. Under the **Constitution**, the **Government decides** as to **when the elections should be held**. The **fixing of exact dates rests with the Election Commission**. The Commission states the reasons for holding or not holding the elections during a particular period. The Election Commission may **refuse to hold elections** at a particular duration to **ensure free and fair elections** even if the political parties insist on having elections at that particular period."
+            }
+          ]
+        },
+        {
+          "title": "(e) Ensuring Free and Fair Elections",
+          "sequence_number": 5,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **Election Commission** has to ensure **free and fair elections**. The Commission prescribes a **code of conduct** for the guidance of candidates and all others concerned. In addition, the Election Commission takes the following steps to ensure free and fair elections."
+            }
+          ]
+        },
+        {
+          "title": "(f) Appointment of Polling Officers",
+          "sequence_number": 6,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **Election Commission** appoints **polling officers** for the constituencies. This process is set into motion as soon as notification for the conduct of elections is made.\n\nEach Constituency is put under the overall supervision of an officer not less than the rank of a **Deputy Commissioner** of the district or the **Magistrate**. The Officer is designated as the **'Returning Officer'**. It is his responsibility to declare a candidate fit for contesting elections.\n\nAt the time of elections **Presiding Officers** in-charge of polling booths and counting centres are also appointed."
+            }
+          ]
+        },
+        {
+          "title": "(g) Scrutiny of Nomination Papers",
+          "sequence_number": 7,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **Commission** announces the date of elections and the date of filing **nomination papers** and the last date of withdrawal for nominations. **Scrutiny** of the applications is made by the **Returning Officer**. The **Returning Officer** has to verify whether the provisions concerning the **deposit**, **election symbol**, **election agent**, etc., have been fulfilled."
+            }
+          ]
+        },
+        {
+          "title": "(h) Scrutiny of Election Expenses",
+          "sequence_number": 8,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **Election Commission** scrutinises the accounts of **election expenses** submitted by the contestants. In order to downplay the role of money influencing elections, the contesting candidates should submit the **Statement of Accounts** to the **Returning Officer**, who submits it to the Commission for scrutiny. The election of the winning candidate can be declared invalid, if there was **malpractice**."
+            }
+          ]
+        },
+        {
+          "title": "(i) Advisory Functions",
+          "sequence_number": 9,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **Election Commission** also advises the **President** or the **Governors** of the State in respect of **electoral matters**, **disqualification of members**, **election disputes**, **petitions** etc."
+            }
+          ]
         }
       ],
       "content_blocks": []
     }
   ],
-  "additional_sections": [
-    {
-      "title": "GENERAL ELECTIONS",
-      "content_md": "The elections held to elect the members of the Lok Sabha after expiry of the normal term of five years are called the General Elections. Elections to some State Legislative Assemblies may be held along with the Parliamentary Elections. Earlier up to 1957 simultaneous elections were held for both the Lok Sabha and the State Assemblies. However, on account of early dismissal and mid-term elections the two got gradually separated."
-    },
-    {
-      "title": "TERMS TO REMEMBER",
-      "content_md": "**Proportionate Representation**: A system in which parties in an election gain seats in proportion to the number of votes cast for them.\n\n**Franchise**: The right to vote.\n\n**By-Election**: An election held for a particular seat or seats to fill the vacancy for the remaining period of an elected body.\n\n**Mid-Term Election**: An election held in the middle of a period of office."
-    }
-  ],
+  "additional_sections": [],
   "needs_review": [],
   "manifest": {
     "syllabus_leaves": [
       {
-        "path": "Elections > Meaning of Elections",
+        "path": "Elections > Meaning",
         "path_titles": [
           "Elections",
-          "Meaning of Elections"
+          "Meaning"
         ],
-        "title": "Meaning of Elections",
+        "title": "Meaning",
         "sequence_number": 1,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "Elections > Kinds of Elections > Direct Elections",
+        "path": "Elections > Composition of Election Commission (in brief)",
         "path_titles": [
           "Elections",
-          "Kinds of Elections",
-          "Direct Elections"
+          "Composition of Election Commission (in brief)"
         ],
-        "title": "Direct Elections",
-        "sequence_number": 1,
-        "depth": 2,
-        "level_label": "Subtopic",
-        "has_notes": true
-      },
-      {
-        "path": "Elections > Kinds of Elections > Indirect Elections",
-        "path_titles": [
-          "Elections",
-          "Kinds of Elections",
-          "Indirect Elections"
-        ],
-        "title": "Indirect Elections",
+        "title": "Composition of Election Commission (in brief)",
         "sequence_number": 2,
-        "depth": 2,
-        "level_label": "Subtopic",
+        "depth": 1,
+        "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "Elections > Kinds of Elections > Mid-term Election",
+        "path": "Elections > Direct and Indirect election",
         "path_titles": [
           "Elections",
-          "Kinds of Elections",
-          "Mid-term Election"
+          "Direct and Indirect election"
         ],
-        "title": "Mid-term Election",
-        "sequence_number": 3,
-        "depth": 2,
-        "level_label": "Subtopic",
-        "has_notes": true
-      },
-      {
-        "path": "Elections > Kinds of Elections > By-Elections",
-        "path_titles": [
-          "Elections",
-          "Kinds of Elections",
-          "By-Elections"
-        ],
-        "title": "By-Elections",
-        "sequence_number": 4,
-        "depth": 2,
-        "level_label": "Subtopic",
-        "has_notes": true
-      },
-      {
-        "path": "Elections > Election Commission",
-        "path_titles": [
-          "Elections",
-          "Election Commission"
-        ],
-        "title": "Election Commission",
+        "title": "Direct and Indirect election",
         "sequence_number": 3,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "Elections > Composition of the Election Commission",
+        "path": "Elections > General election",
         "path_titles": [
           "Elections",
-          "Composition of the Election Commission"
+          "General election"
         ],
-        "title": "Composition of the Election Commission",
+        "title": "General election",
         "sequence_number": 4,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "Elections > Term of Office and Conditions of Service",
+        "path": "Elections > Mid-term election and By-election",
         "path_titles": [
           "Elections",
-          "Term of Office and Conditions of Service"
+          "Mid-term election and By-election"
         ],
-        "title": "Term of Office and Conditions of Service",
+        "title": "Mid-term election and By-election",
         "sequence_number": 5,
         "depth": 1,
         "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "Elections > Powers and Functions of the Election Commission > (a) Preparation of Electoral Rolls and Photo Identity Cards",
+        "path": "MEANING OF ELECTIONS",
         "path_titles": [
-          "Elections",
-          "Powers and Functions of the Election Commission",
+          "MEANING OF ELECTIONS"
+        ],
+        "title": "MEANING OF ELECTIONS",
+        "sequence_number": 2,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "KINDS OF ELECTIONS > DIRECT ELECTIONS",
+        "path_titles": [
+          "KINDS OF ELECTIONS",
+          "DIRECT ELECTIONS"
+        ],
+        "title": "DIRECT ELECTIONS",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "KINDS OF ELECTIONS > INDIRECT ELECTIONS",
+        "path_titles": [
+          "KINDS OF ELECTIONS",
+          "INDIRECT ELECTIONS"
+        ],
+        "title": "INDIRECT ELECTIONS",
+        "sequence_number": 2,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "KINDS OF ELECTIONS > Election of the President and the Vice-President of India",
+        "path_titles": [
+          "KINDS OF ELECTIONS",
+          "Election of the President and the Vice-President of India"
+        ],
+        "title": "Election of the President and the Vice-President of India",
+        "sequence_number": 3,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "KINDS OF ELECTIONS > GENERAL ELECTIONS",
+        "path_titles": [
+          "KINDS OF ELECTIONS",
+          "GENERAL ELECTIONS"
+        ],
+        "title": "GENERAL ELECTIONS",
+        "sequence_number": 4,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "KINDS OF ELECTIONS > MID-TERM ELECTION",
+        "path_titles": [
+          "KINDS OF ELECTIONS",
+          "MID-TERM ELECTION"
+        ],
+        "title": "MID-TERM ELECTION",
+        "sequence_number": 5,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "KINDS OF ELECTIONS > BY-ELECTIONS",
+        "path_titles": [
+          "KINDS OF ELECTIONS",
+          "BY-ELECTIONS"
+        ],
+        "title": "BY-ELECTIONS",
+        "sequence_number": 6,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "ELECTION COMMISSION",
+        "path_titles": [
+          "ELECTION COMMISSION"
+        ],
+        "title": "ELECTION COMMISSION",
+        "sequence_number": 4,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "COMPOSITION OF THE ELECTION COMMISSION",
+        "path_titles": [
+          "COMPOSITION OF THE ELECTION COMMISSION"
+        ],
+        "title": "COMPOSITION OF THE ELECTION COMMISSION",
+        "sequence_number": 5,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "TERM OF OFFICE AND CONDITIONS OF SERVICE",
+        "path_titles": [
+          "TERM OF OFFICE AND CONDITIONS OF SERVICE"
+        ],
+        "title": "TERM OF OFFICE AND CONDITIONS OF SERVICE",
+        "sequence_number": 6,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "POWERS AND FUNCTIONS OF THE ELECTION COMMISSION > (a) Preparation of Electoral Rolls and Photo Identity Cards",
+        "path_titles": [
+          "POWERS AND FUNCTIONS OF THE ELECTION COMMISSION",
           "(a) Preparation of Electoral Rolls and Photo Identity Cards"
         ],
         "title": "(a) Preparation of Electoral Rolls and Photo Identity Cards",
         "sequence_number": 1,
-        "depth": 2,
-        "level_label": "Subtopic",
+        "depth": 1,
+        "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "Elections > Powers and Functions of the Election Commission > (b) Registration and Recognition of Political Parties",
+        "path": "POWERS AND FUNCTIONS OF THE ELECTION COMMISSION > (b) Registration and Recognition of Political Parties",
         "path_titles": [
-          "Elections",
-          "Powers and Functions of the Election Commission",
+          "POWERS AND FUNCTIONS OF THE ELECTION COMMISSION",
           "(b) Registration and Recognition of Political Parties"
         ],
         "title": "(b) Registration and Recognition of Political Parties",
         "sequence_number": 2,
-        "depth": 2,
-        "level_label": "Subtopic",
+        "depth": 1,
+        "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "Elections > Powers and Functions of the Election Commission > (c) Allotment of Symbols",
+        "path": "POWERS AND FUNCTIONS OF THE ELECTION COMMISSION > (c) Allotment of Symbols",
         "path_titles": [
-          "Elections",
-          "Powers and Functions of the Election Commission",
+          "POWERS AND FUNCTIONS OF THE ELECTION COMMISSION",
           "(c) Allotment of Symbols"
         ],
         "title": "(c) Allotment of Symbols",
         "sequence_number": 3,
-        "depth": 2,
-        "level_label": "Subtopic",
+        "depth": 1,
+        "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "Elections > Powers and Functions of the Election Commission > (d) Fixing Dates and Conducting Elections",
+        "path": "POWERS AND FUNCTIONS OF THE ELECTION COMMISSION > (d) Fixing Dates and Conducting Elections",
         "path_titles": [
-          "Elections",
-          "Powers and Functions of the Election Commission",
+          "POWERS AND FUNCTIONS OF THE ELECTION COMMISSION",
           "(d) Fixing Dates and Conducting Elections"
         ],
         "title": "(d) Fixing Dates and Conducting Elections",
         "sequence_number": 4,
-        "depth": 2,
-        "level_label": "Subtopic",
+        "depth": 1,
+        "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "Elections > Powers and Functions of the Election Commission > (e) Ensuring Free and Fair Elections > (i) The Commission may send Central observers to the constituencies where there is danger of violence or booth capturing.",
+        "path": "POWERS AND FUNCTIONS OF THE ELECTION COMMISSION > (e) Ensuring Free and Fair Elections",
         "path_titles": [
-          "Elections",
-          "Powers and Functions of the Election Commission",
-          "(e) Ensuring Free and Fair Elections",
-          "(i) The Commission may send Central observers to the constituencies where there is danger of violence or booth capturing."
+          "POWERS AND FUNCTIONS OF THE ELECTION COMMISSION",
+          "(e) Ensuring Free and Fair Elections"
         ],
-        "title": "(i) The Commission may send Central observers to the constituencies where there is danger of violence or booth capturing.",
-        "sequence_number": 1,
-        "depth": 3,
-        "level_label": "Point",
+        "title": "(e) Ensuring Free and Fair Elections",
+        "sequence_number": 5,
+        "depth": 1,
+        "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "Elections > Powers and Functions of the Election Commission > (e) Ensuring Free and Fair Elections > (ii) The Commission countermands polling where it has reasonable doubt that some malpractices have occurred.",
+        "path": "POWERS AND FUNCTIONS OF THE ELECTION COMMISSION > (f) Appointment of Polling Officers",
         "path_titles": [
-          "Elections",
-          "Powers and Functions of the Election Commission",
-          "(e) Ensuring Free and Fair Elections",
-          "(ii) The Commission countermands polling where it has reasonable doubt that some malpractices have occurred."
-        ],
-        "title": "(ii) The Commission countermands polling where it has reasonable doubt that some malpractices have occurred.",
-        "sequence_number": 2,
-        "depth": 3,
-        "level_label": "Point",
-        "has_notes": true
-      },
-      {
-        "path": "Elections > Powers and Functions of the Election Commission > (e) Ensuring Free and Fair Elections > (iii) In terms of the recent amendments to Representative of Peoples Act the Commission prescribes severe punishment for booth capturing.",
-        "path_titles": [
-          "Elections",
-          "Powers and Functions of the Election Commission",
-          "(e) Ensuring Free and Fair Elections",
-          "(iii) In terms of the recent amendments to Representative of Peoples Act the Commission prescribes severe punishment for booth capturing."
-        ],
-        "title": "(iii) In terms of the recent amendments to Representative of Peoples Act the Commission prescribes severe punishment for booth capturing.",
-        "sequence_number": 3,
-        "depth": 3,
-        "level_label": "Point",
-        "has_notes": true
-      },
-      {
-        "path": "Elections > Powers and Functions of the Election Commission > (f) Appointment of Polling Officers",
-        "path_titles": [
-          "Elections",
-          "Powers and Functions of the Election Commission",
+          "POWERS AND FUNCTIONS OF THE ELECTION COMMISSION",
           "(f) Appointment of Polling Officers"
         ],
         "title": "(f) Appointment of Polling Officers",
         "sequence_number": 6,
-        "depth": 2,
-        "level_label": "Subtopic",
+        "depth": 1,
+        "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "Elections > Powers and Functions of the Election Commission > (g) Scrutiny of Nomination Papers",
+        "path": "POWERS AND FUNCTIONS OF THE ELECTION COMMISSION > (g) Scrutiny of Nomination Papers",
         "path_titles": [
-          "Elections",
-          "Powers and Functions of the Election Commission",
+          "POWERS AND FUNCTIONS OF THE ELECTION COMMISSION",
           "(g) Scrutiny of Nomination Papers"
         ],
         "title": "(g) Scrutiny of Nomination Papers",
         "sequence_number": 7,
-        "depth": 2,
-        "level_label": "Subtopic",
+        "depth": 1,
+        "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "Elections > Powers and Functions of the Election Commission > (h) Scrutiny of Election Expenses",
+        "path": "POWERS AND FUNCTIONS OF THE ELECTION COMMISSION > (h) Scrutiny of Election Expenses",
         "path_titles": [
-          "Elections",
-          "Powers and Functions of the Election Commission",
+          "POWERS AND FUNCTIONS OF THE ELECTION COMMISSION",
           "(h) Scrutiny of Election Expenses"
         ],
         "title": "(h) Scrutiny of Election Expenses",
         "sequence_number": 8,
-        "depth": 2,
-        "level_label": "Subtopic",
+        "depth": 1,
+        "level_label": "Topic",
         "has_notes": true
       },
       {
-        "path": "Elections > Powers and Functions of the Election Commission > (i) Advisory Functions",
+        "path": "POWERS AND FUNCTIONS OF THE ELECTION COMMISSION > (i) Advisory Functions",
         "path_titles": [
-          "Elections",
-          "Powers and Functions of the Election Commission",
+          "POWERS AND FUNCTIONS OF THE ELECTION COMMISSION",
           "(i) Advisory Functions"
         ],
         "title": "(i) Advisory Functions",
         "sequence_number": 9,
-        "depth": 2,
-        "level_label": "Subtopic",
+        "depth": 1,
+        "level_label": "Topic",
         "has_notes": true
       }
     ],
-    "stray_leaves": [
-      {
-        "title": "GENERAL ELECTIONS",
-        "insert_after_index": 4,
-        "micro_topics": [],
-        "has_notes": true
-      },
-      {
-        "title": "TERMS TO REMEMBER",
-        "insert_after_index": 22,
-        "micro_topics": [],
-        "has_notes": true
-      }
-    ]
+    "stray_leaves": []
   }
 }

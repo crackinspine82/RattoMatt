@@ -1,0 +1,270 @@
+{
+  "syllabus_leaves": [
+    {
+      "path": "The Union Legislature > Meaning of the Federal Setup in India",
+      "path_titles": [
+        "The Union Legislature",
+        "Meaning of the Federal Setup in India"
+      ],
+      "title": "Meaning of the Federal Setup in India",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "The Union Legislature > Lok Sabha > Term",
+      "path_titles": [
+        "The Union Legislature",
+        "Lok Sabha",
+        "Term"
+      ],
+      "title": "Term",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "The Union Legislature > Lok Sabha > Composition",
+      "path_titles": [
+        "The Union Legislature",
+        "Lok Sabha",
+        "Composition"
+      ],
+      "title": "Composition",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "The Union Legislature > Lok Sabha > Qualifications for Membership",
+      "path_titles": [
+        "The Union Legislature",
+        "Lok Sabha",
+        "Qualifications for Membership"
+      ],
+      "title": "Qualifications for Membership",
+      "sequence_number": 3,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "The Union Legislature > Lok Sabha > Disqualification of Membership",
+      "path_titles": [
+        "The Union Legislature",
+        "Lok Sabha",
+        "Disqualification of Membership"
+      ],
+      "title": "Disqualification of Membership",
+      "sequence_number": 4,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "The Union Legislature > Lok Sabha > Vacation of Seats",
+      "path_titles": [
+        "The Union Legislature",
+        "Lok Sabha",
+        "Vacation of Seats"
+      ],
+      "title": "Vacation of Seats",
+      "sequence_number": 5,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Parliamentary procedures > Sessions",
+      "path_titles": [
+        "Parliamentary procedures",
+        "Sessions"
+      ],
+      "title": "Sessions",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Parliamentary procedures > Quorum",
+      "path_titles": [
+        "Parliamentary procedures",
+        "Quorum"
+      ],
+      "title": "Quorum",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Parliamentary procedures > Questions > Question Hour",
+      "path_titles": [
+        "Parliamentary procedures",
+        "Questions",
+        "Question Hour"
+      ],
+      "title": "Question Hour",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Parliamentary procedures > Questions > Types of Questions",
+      "path_titles": [
+        "Parliamentary procedures",
+        "Questions",
+        "Types of Questions"
+      ],
+      "title": "Types of Questions",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Parliamentary procedures > Zero Hour",
+      "path_titles": [
+        "Parliamentary procedures",
+        "Zero Hour"
+      ],
+      "title": "Zero Hour",
+      "sequence_number": 4,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Parliamentary procedures > Motion",
+      "path_titles": [
+        "Parliamentary procedures",
+        "Motion"
+      ],
+      "title": "Motion",
+      "sequence_number": 5,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Parliamentary procedures > Adjournment Motion",
+      "path_titles": [
+        "Parliamentary procedures",
+        "Adjournment Motion"
+      ],
+      "title": "Adjournment Motion",
+      "sequence_number": 6,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Parliamentary procedures > No-Confidence Motion",
+      "path_titles": [
+        "Parliamentary procedures",
+        "No-Confidence Motion"
+      ],
+      "title": "No-Confidence Motion",
+      "sequence_number": 7,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Parliamentary procedures > Adjournment and Prorogation of the House",
+      "path_titles": [
+        "Parliamentary procedures",
+        "Adjournment and Prorogation of the House"
+      ],
+      "title": "Adjournment and Prorogation of the House",
+      "sequence_number": 8,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Anti-Defection Law",
+      "path_titles": [
+        "Anti-Defection Law"
+      ],
+      "title": "Anti-Defection Law",
+      "sequence_number": 3,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "Passing of Bills > Ordinary Bills",
+      "path_titles": [
+        "Passing of Bills",
+        "Ordinary Bills"
+      ],
+      "title": "Ordinary Bills",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Passing of Bills > Money Bills",
+      "path_titles": [
+        "Passing of Bills",
+        "Money Bills"
+      ],
+      "title": "Money Bills",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Speaker of the Lok Sabha",
+      "path_titles": [
+        "Speaker of the Lok Sabha"
+      ],
+      "title": "Speaker of the Lok Sabha",
+      "sequence_number": 5,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    }
+  ],
+  "stray_leaves": [
+    {
+      "title": "Non-Federal or Unitary Features",
+      "insert_after_index": 1,
+      "micro_topics": [
+        "A Strong Centre",
+        "A Single Constitution for Union and States",
+        "Flexibility of the Constitution",
+        "Single Citizenship",
+        "Inequality of Representation in the Rajya Sabha",
+        "Existence of Union Territories"
+      ],
+      "has_notes": true
+    },
+    {
+      "title": "THE UNION PARLIAMENT",
+      "insert_after_index": 1,
+      "micro_topics": [],
+      "has_notes": true
+    },
+    {
+      "title": "ROLE AND FUNCTIONS OF THE SPEAKER",
+      "insert_after_index": 24,
+      "micro_topics": [
+        "The Business of the House",
+        "Administrative Functions",
+        "Disciplinary Functions",
+        "Parliamentary Committees",
+        "Miscellaneous Functions"
+      ],
+      "has_notes": true
+    }
+  ]
+}

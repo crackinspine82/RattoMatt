@@ -1,23 +1,22 @@
 {
   "syllabus_leaves": [
     {
-      "path": "SYLLABUS > Local Self-Government-Urban > Urban: Municipal Committees and Municipal Corporations-meaning and functions.",
+      "path": "Local Self-Government-Urban > Urban: Municipal Committees and Municipal Corporations-meaning and functions.",
       "path_titles": [
-        "SYLLABUS",
         "Local Self-Government-Urban",
         "Urban: Municipal Committees and Municipal Corporations-meaning and functions."
       ],
       "title": "Urban: Municipal Committees and Municipal Corporations-meaning and functions.",
       "sequence_number": 1,
-      "depth": 2,
-      "level_label": "Subtopic",
+      "depth": 1,
+      "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "THE CONSTITUTION (74TH AMENDMENT) ACT, 1992 > The salient features of the Act > The Act gives constitutional status to urban local bodies.",
+      "path": "THE CONSTITUTION (74TH AMENDMENT) ACT, 1992 > The salient features of the Act are the following: > The Act gives constitutional status to urban local bodies.",
       "path_titles": [
         "THE CONSTITUTION (74TH AMENDMENT) ACT, 1992",
-        "The salient features of the Act",
+        "The salient features of the Act are the following:",
         "The Act gives constitutional status to urban local bodies."
       ],
       "title": "The Act gives constitutional status to urban local bodies.",
@@ -27,10 +26,10 @@
       "has_notes": true
     },
     {
-      "path": "THE CONSTITUTION (74TH AMENDMENT) ACT, 1992 > The salient features of the Act > The Act provides for direct election to all the local self-government bodies.",
+      "path": "THE CONSTITUTION (74TH AMENDMENT) ACT, 1992 > The salient features of the Act are the following: > The Act provides for direct election to all the local self-government bodies.",
       "path_titles": [
         "THE CONSTITUTION (74TH AMENDMENT) ACT, 1992",
-        "The salient features of the Act",
+        "The salient features of the Act are the following:",
         "The Act provides for direct election to all the local self-government bodies."
       ],
       "title": "The Act provides for direct election to all the local self-government bodies.",
@@ -40,10 +39,10 @@
       "has_notes": true
     },
     {
-      "path": "THE CONSTITUTION (74TH AMENDMENT) ACT, 1992 > The salient features of the Act > A fixed tenure of five years for the municipalities has been prescribed.",
+      "path": "THE CONSTITUTION (74TH AMENDMENT) ACT, 1992 > The salient features of the Act are the following: > A fixed tenure of five years for the municipalities has been prescribed.",
       "path_titles": [
         "THE CONSTITUTION (74TH AMENDMENT) ACT, 1992",
-        "The salient features of the Act",
+        "The salient features of the Act are the following:",
         "A fixed tenure of five years for the municipalities has been prescribed."
       ],
       "title": "A fixed tenure of five years for the municipalities has been prescribed.",
@@ -53,10 +52,10 @@
       "has_notes": true
     },
     {
-      "path": "THE CONSTITUTION (74TH AMENDMENT) ACT, 1992 > The salient features of the Act > 33 per cent of the seats should be reserved for women under each category of SC/ST/Backward Classes.",
+      "path": "THE CONSTITUTION (74TH AMENDMENT) ACT, 1992 > The salient features of the Act are the following: > 33 per cent of the seats should be reserved for women under each category of SC/ST/Backward Classes.",
       "path_titles": [
         "THE CONSTITUTION (74TH AMENDMENT) ACT, 1992",
-        "The salient features of the Act",
+        "The salient features of the Act are the following:",
         "33 per cent of the seats should be reserved for women under each category of SC/ST/Backward Classes."
       ],
       "title": "33 per cent of the seats should be reserved for women under each category of SC/ST/Backward Classes.",
@@ -66,10 +65,10 @@
       "has_notes": true
     },
     {
-      "path": "THE CONSTITUTION (74TH AMENDMENT) ACT, 1992 > The salient features of the Act > District Planning Committee to be constituted by the State Government.",
+      "path": "THE CONSTITUTION (74TH AMENDMENT) ACT, 1992 > The salient features of the Act are the following: > District Planning Committee to be constituted by the State Government.",
       "path_titles": [
         "THE CONSTITUTION (74TH AMENDMENT) ACT, 1992",
-        "The salient features of the Act",
+        "The salient features of the Act are the following:",
         "District Planning Committee to be constituted by the State Government."
       ],
       "title": "District Planning Committee to be constituted by the State Government.",
@@ -127,7 +126,7 @@
       "sequence_number": 3,
       "depth": 1,
       "level_label": "Topic",
-      "has_notes": true
+      "has_notes": false
     },
     {
       "path": "MUNICIPAL CORPORATION > ELECTION",
@@ -206,229 +205,50 @@
       "has_notes": true
     },
     {
-      "path": "The Municipal Corporation of Delhi",
+      "path": "MUNICIPAL CORPORATION > The Municipal Corporation of Delhi",
       "path_titles": [
+        "MUNICIPAL CORPORATION",
         "The Municipal Corporation of Delhi"
       ],
       "title": "The Municipal Corporation of Delhi",
       "sequence_number": 4,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "MUNICIPAL CORPORATION > Functions of the Mayor",
+      "path_titles": [
+        "MUNICIPAL CORPORATION",
+        "Functions of the Mayor"
+      ],
+      "title": "Functions of the Mayor",
+      "sequence_number": 5,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "FUNCTIONS OF THE MUNICIPAL CORPORATION > Compulsory Functions",
+      "path_titles": [
+        "FUNCTIONS OF THE MUNICIPAL CORPORATION",
+        "Compulsory Functions"
+      ],
+      "title": "Compulsory Functions",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "2. Discretionary or Optional Functions:",
+      "path_titles": [
+        "2. Discretionary or Optional Functions:"
+      ],
+      "title": "2. Discretionary or Optional Functions:",
+      "sequence_number": 5,
       "depth": 0,
       "level_label": "Section",
-      "has_notes": true
-    },
-    {
-      "path": "Functions of the Mayor > Considered as the 'First Citizen'",
-      "path_titles": [
-        "Functions of the Mayor",
-        "Considered as the 'First Citizen'"
-      ],
-      "title": "Considered as the 'First Citizen'",
-      "sequence_number": 1,
-      "depth": 1,
-      "level_label": "Topic",
-      "has_notes": true
-    },
-    {
-      "path": "Functions of the Mayor > He/She presides over the meetings of the Corporation.",
-      "path_titles": [
-        "Functions of the Mayor",
-        "He/She presides over the meetings of the Corporation."
-      ],
-      "title": "He/She presides over the meetings of the Corporation.",
-      "sequence_number": 2,
-      "depth": 1,
-      "level_label": "Topic",
-      "has_notes": true
-    },
-    {
-      "path": "Functions of the Mayor > He/She regulates and conducts business of the Corporation.",
-      "path_titles": [
-        "Functions of the Mayor",
-        "He/She regulates and conducts business of the Corporation."
-      ],
-      "title": "He/She regulates and conducts business of the Corporation.",
-      "sequence_number": 3,
-      "depth": 1,
-      "level_label": "Topic",
-      "has_notes": true
-    },
-    {
-      "path": "Functions of the Mayor > He/She fixes the agenda for consideration at the meetings of the Corporation.",
-      "path_titles": [
-        "Functions of the Mayor",
-        "He/She fixes the agenda for consideration at the meetings of the Corporation."
-      ],
-      "title": "He/She fixes the agenda for consideration at the meetings of the Corporation.",
-      "sequence_number": 4,
-      "depth": 1,
-      "level_label": "Topic",
-      "has_notes": true
-    },
-    {
-      "path": "Functions of the Mayor > He/She obtains reports from the Municipal Commissioner regarding various projects and programmes undertaken by the Corporation.",
-      "path_titles": [
-        "Functions of the Mayor",
-        "He/She obtains reports from the Municipal Commissioner regarding various projects and programmes undertaken by the Corporation."
-      ],
-      "title": "He/She obtains reports from the Municipal Commissioner regarding various projects and programmes undertaken by the Corporation.",
-      "sequence_number": 5,
-      "depth": 1,
-      "level_label": "Topic",
-      "has_notes": true
-    },
-    {
-      "path": "Functions of the Mayor > He/She acts as a link between the Corporation and the State government.",
-      "path_titles": [
-        "Functions of the Mayor",
-        "He/She acts as a link between the Corporation and the State government."
-      ],
-      "title": "He/She acts as a link between the Corporation and the State government.",
-      "sequence_number": 6,
-      "depth": 1,
-      "level_label": "Topic",
-      "has_notes": true
-    },
-    {
-      "path": "FUNCTIONS OF THE MUNICIPAL CORPORATION > Compulsory Functions > Provision of electricity, water, sewage disposal",
-      "path_titles": [
-        "FUNCTIONS OF THE MUNICIPAL CORPORATION",
-        "Compulsory Functions",
-        "Provision of electricity, water, sewage disposal"
-      ],
-      "title": "Provision of electricity, water, sewage disposal",
-      "sequence_number": 1,
-      "depth": 2,
-      "level_label": "Subtopic",
-      "has_notes": true
-    },
-    {
-      "path": "FUNCTIONS OF THE MUNICIPAL CORPORATION > Compulsory Functions > Provision of public health services",
-      "path_titles": [
-        "FUNCTIONS OF THE MUNICIPAL CORPORATION",
-        "Compulsory Functions",
-        "Provision of public health services"
-      ],
-      "title": "Provision of public health services",
-      "sequence_number": 2,
-      "depth": 2,
-      "level_label": "Subtopic",
-      "has_notes": true
-    },
-    {
-      "path": "FUNCTIONS OF THE MUNICIPAL CORPORATION > Compulsory Functions > Provision of public conveniences and utilities like roads, buildings, bus-shelters, demolition of dangerous structures, plantation of trees, provision of public urinals and toilets.",
-      "path_titles": [
-        "FUNCTIONS OF THE MUNICIPAL CORPORATION",
-        "Compulsory Functions",
-        "Provision of public conveniences and utilities like roads, buildings, bus-shelters, demolition of dangerous structures, plantation of trees, provision of public urinals and toilets."
-      ],
-      "title": "Provision of public conveniences and utilities like roads, buildings, bus-shelters, demolition of dangerous structures, plantation of trees, provision of public urinals and toilets.",
-      "sequence_number": 3,
-      "depth": 2,
-      "level_label": "Subtopic",
-      "has_notes": true
-    },
-    {
-      "path": "FUNCTIONS OF THE MUNICIPAL CORPORATION > Compulsory Functions > Provision of educational institutions like primary and secondary schools including organisation of adult literacy classes, organising and undertaking promotion of sports and games and providing necessary facilities.",
-      "path_titles": [
-        "FUNCTIONS OF THE MUNICIPAL CORPORATION",
-        "Compulsory Functions",
-        "Provision of educational institutions like primary and secondary schools including organisation of adult literacy classes, organising and undertaking promotion of sports and games and providing necessary facilities."
-      ],
-      "title": "Provision of educational institutions like primary and secondary schools including organisation of adult literacy classes, organising and undertaking promotion of sports and games and providing necessary facilities.",
-      "sequence_number": 4,
-      "depth": 2,
-      "level_label": "Subtopic",
-      "has_notes": true
-    },
-    {
-      "path": "FUNCTIONS OF THE MUNICIPAL CORPORATION > Compulsory Functions > Maintenance of records of births and deaths and maintenance and upkeep of cremation and burial grounds.",
-      "path_titles": [
-        "FUNCTIONS OF THE MUNICIPAL CORPORATION",
-        "Compulsory Functions",
-        "Maintenance of records of births and deaths and maintenance and upkeep of cremation and burial grounds."
-      ],
-      "title": "Maintenance of records of births and deaths and maintenance and upkeep of cremation and burial grounds.",
-      "sequence_number": 5,
-      "depth": 2,
-      "level_label": "Subtopic",
-      "has_notes": true
-    },
-    {
-      "path": "FUNCTIONS OF THE MUNICIPAL CORPORATION > Compulsory Functions > Undertaking of public safety and security like maintenance of fire department together with fire engines; disaster like",
-      "path_titles": [
-        "FUNCTIONS OF THE MUNICIPAL CORPORATION",
-        "Compulsory Functions",
-        "Undertaking of public safety and security like maintenance of fire department together with fire engines; disaster like"
-      ],
-      "title": "Undertaking of public safety and security like maintenance of fire department together with fire engines; disaster like",
-      "sequence_number": 6,
-      "depth": 2,
-      "level_label": "Subtopic",
-      "has_notes": true
-    },
-    {
-      "path": "FUNCTIONS OF THE MUNICIPAL CORPORATION > 2. Discretionary or Optional Functions: > Public housing through housing boards.",
-      "path_titles": [
-        "FUNCTIONS OF THE MUNICIPAL CORPORATION",
-        "2. Discretionary or Optional Functions:",
-        "Public housing through housing boards."
-      ],
-      "title": "Public housing through housing boards.",
-      "sequence_number": 1,
-      "depth": 2,
-      "level_label": "Subtopic",
-      "has_notes": true
-    },
-    {
-      "path": "FUNCTIONS OF THE MUNICIPAL CORPORATION > 2. Discretionary or Optional Functions: > Construction and maintenance of public parks, libraries, museums, theatre, akharas, picnic resorts etc.",
-      "path_titles": [
-        "FUNCTIONS OF THE MUNICIPAL CORPORATION",
-        "2. Discretionary or Optional Functions:",
-        "Construction and maintenance of public parks, libraries, museums, theatre, akharas, picnic resorts etc."
-      ],
-      "title": "Construction and maintenance of public parks, libraries, museums, theatre, akharas, picnic resorts etc.",
-      "sequence_number": 2,
-      "depth": 2,
-      "level_label": "Subtopic",
-      "has_notes": true
-    },
-    {
-      "path": "FUNCTIONS OF THE MUNICIPAL CORPORATION > 2. Discretionary or Optional Functions: > Establishing and maintaining children's homes, orphanages, old-age homes, night shelters and rest houses.",
-      "path_titles": [
-        "FUNCTIONS OF THE MUNICIPAL CORPORATION",
-        "2. Discretionary or Optional Functions:",
-        "Establishing and maintaining children's homes, orphanages, old-age homes, night shelters and rest houses."
-      ],
-      "title": "Establishing and maintaining children's homes, orphanages, old-age homes, night shelters and rest houses.",
-      "sequence_number": 3,
-      "depth": 2,
-      "level_label": "Subtopic",
-      "has_notes": true
-    },
-    {
-      "path": "FUNCTIONS OF THE MUNICIPAL CORPORATION > 2. Discretionary or Optional Functions: > Undertaking welfare schemes, organising fares, functions, melas.",
-      "path_titles": [
-        "FUNCTIONS OF THE MUNICIPAL CORPORATION",
-        "2. Discretionary or Optional Functions:",
-        "Undertaking welfare schemes, organising fares, functions, melas."
-      ],
-      "title": "Undertaking welfare schemes, organising fares, functions, melas.",
-      "sequence_number": 4,
-      "depth": 2,
-      "level_label": "Subtopic",
-      "has_notes": true
-    },
-    {
-      "path": "FUNCTIONS OF THE MUNICIPAL CORPORATION > 2. Discretionary or Optional Functions: > Beautification of city.",
-      "path_titles": [
-        "FUNCTIONS OF THE MUNICIPAL CORPORATION",
-        "2. Discretionary or Optional Functions:",
-        "Beautification of city."
-      ],
-      "title": "Beautification of city.",
-      "sequence_number": 5,
-      "depth": 2,
-      "level_label": "Subtopic",
       "has_notes": true
     },
     {
@@ -444,13 +264,37 @@
       "has_notes": true
     },
     {
+      "path": "MUNICIPAL COMMITTEE > Eligibility:",
+      "path_titles": [
+        "MUNICIPAL COMMITTEE",
+        "Eligibility:"
+      ],
+      "title": "Eligibility:",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "MUNICIPAL COMMITTEE > Term:",
+      "path_titles": [
+        "MUNICIPAL COMMITTEE",
+        "Term:"
+      ],
+      "title": "Term:",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
       "path": "MUNICIPAL COMMITTEE > (b) Chairman/President:",
       "path_titles": [
         "MUNICIPAL COMMITTEE",
         "(b) Chairman/President:"
       ],
       "title": "(b) Chairman/President:",
-      "sequence_number": 2,
+      "sequence_number": 4,
       "depth": 1,
       "level_label": "Topic",
       "has_notes": true
@@ -462,7 +306,7 @@
         "(c) Chief Executive Officer:"
       ],
       "title": "(c) Chief Executive Officer:",
-      "sequence_number": 3,
+      "sequence_number": 5,
       "depth": 1,
       "level_label": "Topic",
       "has_notes": true
@@ -474,161 +318,65 @@
         "Other Office Bearers:"
       ],
       "title": "Other Office Bearers:",
-      "sequence_number": 4,
-      "depth": 1,
-      "level_label": "Topic",
-      "has_notes": true
-    },
-    {
-      "path": "THE DISTRICT ADMINISTRATION > Functions: > Collection of Revenue.",
-      "path_titles": [
-        "THE DISTRICT ADMINISTRATION",
-        "Functions:",
-        "Collection of Revenue."
-      ],
-      "title": "Collection of Revenue.",
-      "sequence_number": 1,
-      "depth": 2,
-      "level_label": "Subtopic",
-      "has_notes": false
-    },
-    {
-      "path": "THE DISTRICT ADMINISTRATION > Functions: > Maintenance and Updating of land record.",
-      "path_titles": [
-        "THE DISTRICT ADMINISTRATION",
-        "Functions:",
-        "Maintenance and Updating of land record."
-      ],
-      "title": "Maintenance and Updating of land record.",
-      "sequence_number": 2,
-      "depth": 2,
-      "level_label": "Subtopic",
-      "has_notes": true
-    },
-    {
-      "path": "THE DISTRICT ADMINISTRATION > Functions: > Law and Order.",
-      "path_titles": [
-        "THE DISTRICT ADMINISTRATION",
-        "Functions:",
-        "Law and Order."
-      ],
-      "title": "Law and Order.",
-      "sequence_number": 3,
-      "depth": 2,
-      "level_label": "Subtopic",
-      "has_notes": false
-    },
-    {
-      "path": "THE DISTRICT ADMINISTRATION > Functions: > Supervision and execution of all plans of the Union and State governments.",
-      "path_titles": [
-        "THE DISTRICT ADMINISTRATION",
-        "Functions:",
-        "Supervision and execution of all plans of the Union and State governments."
-      ],
-      "title": "Supervision and execution of all plans of the Union and State governments.",
-      "sequence_number": 4,
-      "depth": 2,
-      "level_label": "Subtopic",
-      "has_notes": true
-    },
-    {
-      "path": "THE DISTRICT ADMINISTRATION > Functions: > Provision of civic amenities and execution of public works.",
-      "path_titles": [
-        "THE DISTRICT ADMINISTRATION",
-        "Functions:",
-        "Provision of civic amenities and execution of public works."
-      ],
-      "title": "Provision of civic amenities and execution of public works.",
-      "sequence_number": 5,
-      "depth": 2,
-      "level_label": "Subtopic",
-      "has_notes": false
-    },
-    {
-      "path": "THE DISTRICT ADMINISTRATION > Functions: > Implementation of policies and programmes in respect of Panchayati Raj institutions.",
-      "path_titles": [
-        "THE DISTRICT ADMINISTRATION",
-        "Functions:",
-        "Implementation of policies and programmes in respect of Panchayati Raj institutions."
-      ],
-      "title": "Implementation of policies and programmes in respect of Panchayati Raj institutions.",
       "sequence_number": 6,
-      "depth": 2,
-      "level_label": "Subtopic",
-      "has_notes": false
-    },
-    {
-      "path": "THE DISTRICT ADMINISTRATION > Functions: > Supersession, dissolution, holding of election, etc., in respect of Panchayati Raj institutions.",
-      "path_titles": [
-        "THE DISTRICT ADMINISTRATION",
-        "Functions:",
-        "Supersession, dissolution, holding of election, etc., in respect of Panchayati Raj institutions."
-      ],
-      "title": "Supersession, dissolution, holding of election, etc., in respect of Panchayati Raj institutions.",
-      "sequence_number": 7,
-      "depth": 2,
-      "level_label": "Subtopic",
+      "depth": 1,
+      "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "EXERCISES > I. Multiple-Choice Questions",
+      "path": "THE DISTRICT ADMINISTRATION > Appointment:",
       "path_titles": [
-        "EXERCISES",
-        "I. Multiple-Choice Questions"
+        "THE DISTRICT ADMINISTRATION",
+        "Appointment:"
       ],
-      "title": "I. Multiple-Choice Questions",
+      "title": "Appointment:",
       "sequence_number": 1,
       "depth": 1,
       "level_label": "Topic",
-      "has_notes": false
+      "has_notes": true
     },
     {
-      "path": "EXERCISES > II. Short Answer Questions",
+      "path": "THE DISTRICT ADMINISTRATION > Other Office Bearers:",
       "path_titles": [
-        "EXERCISES",
-        "II. Short Answer Questions"
+        "THE DISTRICT ADMINISTRATION",
+        "Other Office Bearers:"
       ],
-      "title": "II. Short Answer Questions",
+      "title": "Other Office Bearers:",
       "sequence_number": 2,
       "depth": 1,
       "level_label": "Topic",
-      "has_notes": false
+      "has_notes": true
     },
     {
-      "path": "EXERCISES > III. Structured Questions",
+      "path": "THE DISTRICT ADMINISTRATION > Functions:",
       "path_titles": [
-        "EXERCISES",
-        "III. Structured Questions"
+        "THE DISTRICT ADMINISTRATION",
+        "Functions:"
       ],
-      "title": "III. Structured Questions",
+      "title": "Functions:",
       "sequence_number": 3,
       "depth": 1,
       "level_label": "Topic",
-      "has_notes": false
-    },
-    {
-      "path": "EXERCISES > IV. Thinking Skills",
-      "path_titles": [
-        "EXERCISES",
-        "IV. Thinking Skills"
-      ],
-      "title": "IV. Thinking Skills",
-      "sequence_number": 4,
-      "depth": 1,
-      "level_label": "Topic",
-      "has_notes": false
+      "has_notes": true
     }
   ],
   "stray_leaves": [
     {
+      "title": "The Municipal Corporation of Delhi",
+      "insert_after_index": 17,
+      "micro_topics": [],
+      "has_notes": true
+    },
+    {
       "title": "COOPERATION AND COORDINATION BETWEEN LOCAL SELF-GOVERNMENT AND LOCAL GOVERNMENT",
-      "insert_after_index": 39,
-      "micro_topics": [
-        "THE DISTRICT ADMINISTRATION",
-        "Appointment",
-        "Other Office Bearers",
-        "Functions"
-      ],
+      "insert_after_index": 32,
+      "micro_topics": [],
+      "has_notes": false
+    },
+    {
+      "title": "Difference Between a Municipal Corporation and a Municipal Committee",
+      "insert_after_index": 36,
+      "micro_topics": [],
       "has_notes": true
     }
   ]

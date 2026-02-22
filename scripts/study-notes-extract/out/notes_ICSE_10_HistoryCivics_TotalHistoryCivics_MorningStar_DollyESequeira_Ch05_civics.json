@@ -1,0 +1,1148 @@
+{
+  "board": "ICSE",
+  "grade": 10,
+  "subject": "HistoryCivics",
+  "book_slug": "TotalHistoryCivics_MorningStar_DollyESequeira",
+  "book_meta": {
+    "book_name": "Total History & Civics",
+    "publication": "Morning Star",
+    "author": "Dolly E. Sequeira"
+  },
+  "chapter_sequence_number": 5,
+  "chapter_title": "The Supreme Court",
+  "discipline": "civics",
+  "reconciliation": {
+    "outline": [
+      "THE JUDICIARY",
+      "Need for a Single Integrated Judiciary",
+      "THE SUPREME COURT",
+      "Composition",
+      "Qualifications for Appointment as Judge of Supreme Court",
+      "Appointment",
+      "Appointment of Ad Hoc Judges",
+      "Term of Office",
+      "APPOINTMENT OF JUDGES OF THE SUPREME COURT",
+      "Seat of Supreme Court",
+      "INDEPENDENCE OF JUDICIARY FROM THE CONTROL OF EXECUTIVE AND LEGISLATURE",
+      "1. Appointment of Judges",
+      "2. Removal of Judges",
+      "3. Security of Tenure",
+      "4. Security of Salaries and Service Conditions",
+      "5. Freedom to Announce Decisions and Decrees",
+      "6. Punishment for Contempt of Court",
+      "7. Full Control Over its Procedure of Work and Establishment",
+      "8. No Discussion in the Legislature on the Conduct of Judges",
+      "9. Prohibition of Practice after Retirement",
+      "10. Live-Streaming of Court Proceedings",
+      "JURISDICTION AND POWERS OF THE SUPREME COURT",
+      "Original Jurisdiction",
+      "1. Centre-State or Inter-States Disputes",
+      "2. Protection of Fundamental Rights",
+      "3. Transfer of Cases from Lower Courts",
+      "4. Interpretation of Constitution",
+      "Appellate Jurisdiction",
+      "1. Constitutional Cases",
+      "2. Civil Cases",
+      "3. Criminal Cases",
+      "Advisory Jurisdiction",
+      "Revisory Jurisdiction",
+      "Judicial Review",
+      "Need for Judicial Review",
+      "Court of Record",
+      "FUNCTIONS OF THE SUPREME COURT",
+      "Settlement of Disputes",
+      "Appeal by Special Leave",
+      "Enforcement of Fundamental Rights",
+      "Administrative and Supervisory Functions",
+      "IMPORTANT WRITS",
+      "1. Habeas Corpus",
+      "2. Mandamus",
+      "3. Writ of Prohibition",
+      "4. Writ of Certiorari",
+      "5. Quo-warranto"
+    ],
+    "in_syllabus_only": [
+      "On Appeals"
+    ],
+    "in_pdf_only": [
+      {
+        "title": "Need for Judicial Review",
+        "insert_after_index": 33,
+        "micro_topics": []
+      }
+    ],
+    "additional_sections": [
+      {
+        "title": "Need for Judicial Review",
+        "content_md": "The Constitution has provided for a balance of powers between the Centre and the States. If the Union government or the State go beyond their limits, the Supreme Court can settle the dispute.\n(i) In a written Constitution a law may be ambiguously worked. The question of interpretation of the Constitution is bound to arise and only the Supreme Court has the power of original jurisdiction.\n(ii) The legislature may not possess the wisdom, experience and impartiality which are needed to explain what the law means. This function can be best performed by the Supreme Court."
+      }
+    ]
+  },
+  "nodes": [
+    {
+      "title": "The Judiciary",
+      "sequence_number": 1,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "Need for a Single Integrated Judiciary",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "India has opted for **single integrated judicial set-up** unlike the double judicial set-up in the USA. This is because of the following reasons:"
+            },
+            {
+              "content_md": "(i) In a **representative democracy**, administration of justice assumes special significance in view of the **rights of individuals**, which need protection against **executive or legislative interference**. This protection is given by making the judiciary **independent** of the other two organs of the government.\n(ii) An **independent** and **supreme judiciary** is an essential requirement of a **federal governance**. In a federal set-up, there is a **constitutional division of powers** between the executive, legislature and judiciary. The Supreme Court not only safeguards the distribution of these powers but also prevents any action that violates the limitations imposed by the Constitution.\n(iii) An **independent** and **impartial judiciary** is an essential requisite for ensuring **human rights** and **protecting democracy**."
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    },
+    {
+      "title": "THE SUPREME COURT",
+      "sequence_number": 2,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "Composition",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **Supreme Court of India** consists of a **Chief Justice of India** and not more than **33 other judges**, until **Parliament** by law prescribes a larger number of judges. The **Supreme Court (Number of Judges) Amendment Act, 2019**, which received the assent of the President of India on **August 9, 2019** increased the number of judges of the Supreme Court (excluding the Chief Justice of India) from 30 to 33."
+            }
+          ]
+        },
+        {
+          "title": "Qualifications for Appointment as Judge of Supreme Court",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "A person is not qualified for appointment as a **Judge of the Supreme Court** unless he/she is a **citizen of India**, and\n\n1.  has been for at least **five years a Judge of a High Court** or of two or more such courts in succession; or\n2.  has been for at least **ten years an advocate of a High Court** or of two or more such courts in succession; or\n3.  is, in the opinion of the President, a **distinguished jurist**."
+            }
+          ]
+        },
+        {
+          "title": "Appointment",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "Every **Judge of the Supreme Court** is appointed by the **President of India** in consultation with the **Judges of Supreme Court** and of **High Courts**, besides the **Council of Ministers**. In case of appointment of a Judge other than the **Chief Justice**, the **Chief Justice of India** shall be consulted. Consultation would generally mean **concurrence**. In case of the **Chief Justice**, usually the **senior-most judge** of the Supreme Court is appointed.\n\nWhen the **Chief Justice** is unable to perform the duties of his/her office, by reason of absence or otherwise, the President may appoint another Judge of the Supreme Court as the **acting Chief Justice**."
+            },
+            {
+              "content_md": "### APPOINTMENT OF JUDGES OF THE SUPREME COURT\n*   The **Union Minister of Law, Justice and Company Affairs** seeks the recommendation of the outgoing **Chief Justice** for the appointment of the next **Chief Justice**. This recommendation is put up to the **Prime Minister** who will advise the **President** in the matter.\n*   When there is an expected vacancy in the office of a judge in the Supreme Court, the **Union Minister of Law, Justice and Company affairs** seeks the recommendation of the **Chief Justice** whose opinion is formed in consultation with a **collegium** comprising four **senior most puisne judges** of the Supreme Court."
+            }
+          ]
+        },
+        {
+          "title": "Appointment of Ad Hoc Judges",
+          "sequence_number": 4,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **Chief Justice** may appoint a Judge of a High Court as an **ad hoc Judge** of the Supreme Court for a period as may be necessary. Such appointments are made with the **consent of the President** and after consultation with the **Chief Justice of the High Court** concerned."
+            },
+            {
+              "content_md": "The **Chief Justice** may at any time, with previous **consent of the President** request attendance of **retired Judges** of Supreme Court or High Courts to act as Judge of the Supreme Court."
+            }
+          ]
+        },
+        {
+          "title": "Term of Office",
+          "sequence_number": 5,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "A **Judge of the Supreme Court** shall hold office until he/she attains the age of **65 years**. A Judge may resign his/her office, by submitting the **resignation letter** to the **President**.\n\nA Judge of the Supreme Court cannot be removed from office except by an order of the **President** on the ground of **proved misbehaviour** or **incapacity**. Such an order is passed after an address by each House of Parliament supported by a **majority of the total membership of that House** and by a **majority of not less than two-thirds of the members of the House present and voting** for such a removal. This procedure is known as **impeachment**.\n\nIn **May 1993**, a motion to impeach a Judge of the Supreme Court (**Justice V. Ramaswami**) failed to get the support of majority of the total membership of the House (Lok Sabha). That was the first ever move in the history of India to impeach a Judge of the Supreme Court."
+            }
+          ]
+        },
+        {
+          "title": "APPOINTMENT OF JUDGES OF THE SUPREME COURT",
+          "sequence_number": 6,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "*   The **Union Minister of Law, Justice and Company Affairs** seeks the recommendation of the outgoing **Chief Justice** for the appointment of the next **Chief Justice**. This recommendation is put up to the **Prime Minister** who will advise the **President** in the matter.\n*   When there is an expected vacancy in the office of a judge in the Supreme Court, the **Union Minister of Law, Justice and Company Affairs** seeks the recommendation of the **Chief Justice** whose opinion is formed in consultation with a **collegium** comprising four senior most **puisne judges** of the Supreme Court."
+            }
+          ]
+        },
+        {
+          "title": "Seat of Supreme Court",
+          "sequence_number": 7,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **Supreme Court** shall sit in **Delhi** or in any other place as the **Chief Justice** may decide with the approval of the **President**."
+            }
+          ]
+        },
+        {
+          "title": "INDEPENDENCE OF JUDICIARY FROM THE CONTROL OF EXECUTIVE AND LEGISLATURE",
+          "sequence_number": 8,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Appointment of Judges",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Every Judge of the Supreme Court is appointed by the **President of India** in consultation with the **Judges of the Supreme Court** and of **High Courts**, besides the **Council of Ministers**.\n\n*   **Appointment of the Chief Justice**: In the case of the Chief Justice, usually the **senior-most judge** of the Supreme Court is appointed. The **Union Minister of Law, Justice and Company Affairs** seeks the recommendation of the outgoing Chief Justice for the appointment of the next Chief Justice. This recommendation is put up to the **Prime Minister** who will advise the **President** in the matter.\n\n*   **Appointment of other Judges**: In the case of the appointment of a Judge other than the Chief Justice, the **Chief Justice of India** shall be consulted. **Consultation** would generally mean **concurrence**. When there is an expected vacancy, the **Union Minister of Law, Justice and Company affairs** seeks the recommendation of the Chief Justice, whose opinion is formed in consultation with a **collegium** comprising the **four senior-most puisne judges** of the Supreme Court.\n\nWhen the Chief Justice is unable to perform the duties of his/her office, by reason of absence or otherwise, the **President** may appoint another Judge of the Supreme Court as the **acting Chief Justice**."
+                }
+              ]
+            },
+            {
+              "title": "Removal of Judges",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "A **Judge of the Supreme Court** cannot be removed from office except by an order of the **President** on the ground of **proved misbehaviour or incapacity**. Such an order is passed after an address by each **House of Parliament** supported by a **majority of the total membership** of that House and by a **majority of not less than two-thirds of the members of the House present and voting** for such a removal. This procedure is known as **impeachment**.\n\nIn May 1993, a motion to impeach a Judge of the Supreme Court (**Justice V. Ramaswami**) failed to get the support of majority of the total membership of the House (Lok Sabha). That was the first ever move in the history of India to impeach a Judge of the Supreme Court."
+                },
+                {
+                  "content_md": "As a measure to ensure the **Independence of the Judiciary**, the process for removal of judges is made difficult. The Judges cannot be removed from office by any authority through a normal simple procedure. The word '**proved**' is very important. It means that an address can only be presented after an allegation has been thoroughly examined by some **impartial tribunal**."
+                }
+              ]
+            },
+            {
+              "title": "Security of Tenure",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "A **Judge** can remain in office till he/she has attained the **age of 65 years**. He/She can be removed by the **President** on the ground of \"**proved misbehaviour or incapacity**.\""
+                }
+              ]
+            },
+            {
+              "title": "Security of Salaries and Service Conditions",
+              "sequence_number": 4,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Judges' **salaries**, **allowances**, etc., shall not be changed to their disadvantage during their **term of office**. The salaries of the Judges cannot be reduced except during periods of **financial emergency**. Their salaries and allowances are charged on the **Consolidated Fund of India** and so are **not subject to vote of Parliament**."
+                }
+              ]
+            },
+            {
+              "title": "Freedom to Announce Decisions and Decrees",
+              "sequence_number": 5,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **Judges** are free to announce their **decisions and decrees** in the court chambers without any danger to their person, property or fame. Their decisions cannot be criticised in public or by the press. It is the duty of the **State** to ensure their personal safety at all costs."
+                }
+              ]
+            },
+            {
+              "title": "Punishment for Contempt of Court",
+              "sequence_number": 6,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **Supreme Court** can punish for the **contempt of court** if a person or authority makes an attempt to lower its authority."
+                }
+              ]
+            },
+            {
+              "title": "Full Control Over its Procedure of Work and Establishment",
+              "sequence_number": 7,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **Supreme Court** is free to decide its own procedures of work and its establishment as well as the conditions of service of its employees. Thus, it is free from influence of any outside agency."
+                }
+              ]
+            },
+            {
+              "title": "No Discussion in the Legislature on the Conduct of Judges",
+              "sequence_number": 8,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "No discussion can take place in the **Parliament** regarding the **conduct of any judge** or about the discharge of his/her duties except when there is a **motion for his/her removal**."
+                }
+              ]
+            },
+            {
+              "title": "Prohibition of Practice after Retirement",
+              "sequence_number": 9,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **Judges** are paid **handsome pensions** but they are **not allowed to practise after their retirement**. This has been done so that the Judges are not obliged, during their tenure as Judges, to any prospective employer. Moreover, if they are allowed to practise they might **influence their former colleagues** in the judiciary."
+                }
+              ]
+            },
+            {
+              "title": "Live-Streaming of Court Proceedings",
+              "sequence_number": 10,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Live-streaming of court proceedings** is done to increase **transparency** in judicial proceedings and **access to justice**. The **Supreme Court of India** began live-streaming regular hearings in 2024. The first case to be live-streamed was the **Economically Weaker Section (EWS) quota case** in 2022. Several **High Courts in India** have also started live-streaming their proceedings including the High Courts of **Gujarat, Odisha, Karnataka, Jharkhand, Patna, Guwahati and Madhya Pradesh**. In fact, the **Gujarat High Court** was the first High Court to start live streaming."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        }
+      ],
+      "content_blocks": []
+    },
+    {
+      "title": "JURISDICTION AND POWERS OF THE SUPREME COURT",
+      "sequence_number": 3,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "Original Jurisdiction",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Centre-State or Inter-States Disputes",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The Supreme Court has been given **exclusive original jurisdiction** in any dispute—\n(i) between **Government of India** and one or more **States**; or\n(ii) between **Government of India** and any **State** or **States** on one side and one or more **States** on the other; or\n(iii) between two or more **States**.\n\n**Exception:** This jurisdiction shall not extend to:\n(i) a dispute arising out of a treaty, agreement, etc., which is in operation,\n(ii) in certain other matters such as **inter-State water disputes**, matters referred to the **Finance Commission**, and\n(iii) adjustment of certain expenses and pensions between the **Union** and the **States**."
+                }
+              ]
+            },
+            {
+              "title": "Protection of Fundamental Rights",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **original jurisdiction** also extends to cases of violation of the **Fundamental Rights** of individuals and the court can issue several **Writs** for the enforcement of these rights. Any individual can approach the Supreme Court in case of violation of a fundamental right."
+                }
+              ]
+            },
+            {
+              "title": "Transfer of Cases from Lower Courts",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Under **Article 139 A**, inserted by the **44th Amendment in 1978**, the **Supreme Court** may **transfer to itself cases** from one or more High Courts, if these involve questions of law or cases are of great importance. The Supreme Court may transfer cases from one High Court to another in the **interest of Justice**."
+                }
+              ]
+            },
+            {
+              "title": "Interpretation of Constitution",
+              "sequence_number": 4,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "All cases where **interpretation of the Constitution** is required can be directly filed in the **Supreme Court**. The Supreme Court has the power of **exclusive jurisdiction** in regard to questions as to the **Constitutional validity of central laws**."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "Appellate Jurisdiction",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Constitutional Cases",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "All matters irrespective of the nature, where a **certificate is issued by a High Court** that it involves an **important point of law** and needs **interpretation of the Constitution**, can be brought before the Supreme Court. If the High Court refuses to give a certificate on such a case the Supreme Court can grant **special leave of appeal**."
+                }
+              ]
+            },
+            {
+              "title": "Civil Cases",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Appeals in **civil matters** lie to the Supreme Court, if the High Court certifies:\n* (i) that the case involves a **substantial question of law of general importance**, and\n* (ii) that the question needs to be decided by the Supreme Court."
+                }
+              ]
+            },
+            {
+              "title": "Criminal Cases",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Two types of appeals in **criminal cases** lie in the **Supreme Court**:\n\n1.  Cases without the certificate of the High Court.\n2.  Cases with the certificate of the High Court.\n\nThe certificate of the High Court is not required in a case:\n*   where the High Court has reversed the judgement of acquittal given by the Lower Court and punished the accused with a **death sentence**;\n*   a case which is withdrawn by the High Court from a Subordinate Court and sentenced the accused to death.\n\nIn all other criminal cases, a High Court certification that the case involves a substantial point of law and interpretation of the Constitution is required for appealing to the Supreme Court."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "Advisory Jurisdiction",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The Supreme Court has **advisory jurisdiction** (to give its opinion) on any question of law or fact of public importance as may be referred to it for consideration by the **President of India**. The Supreme Court may be required to express its opinion in two classes of matters, in an advisory capacity:\n\n1.  Any question of law may be referred to the Supreme Court if the **President** considers that the question is of **public importance** and it is necessary to obtain the opinion of the Supreme Court. Such opinion of the Supreme Court is **advisory and not binding** on the Government nor is it executable as a judgement of the Supreme Court.\n2.  Disputes arising out of **pre-Constitution treaties and agreements** which are excluded from original jurisdiction by Article 131."
+            }
+          ]
+        },
+        {
+          "title": "Revisory Jurisdiction",
+          "sequence_number": 4,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **Supreme Court** under **Article 137** is empowered to review any judgement or order made by it with a view to removing any mistake or error that might have crept in the judgement or order. This is because the Supreme Court is a **court of record** and its decisions are of evidentiary value and cannot be questioned in any court."
+            }
+          ]
+        },
+        {
+          "title": "Judicial Review",
+          "sequence_number": 5,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **Supreme Court** is the **interpreter of the Constitution** and its decision is final. It has the power to review laws passed by the Union or State legislatures. The Supreme Court can declare a law **'ultra vires'** or **null and void**, if it is against the letter and spirit of the Constitution or contravenes any provision of the Constitution. This power is referred to as the power of **judicial review**. The minimum number of Judges to hear and decide a case involving interpretation of the Constitution shall be five.\n\nThe Supreme Court has the power to review all National and State laws and executive orders and declare them null and void, if they go against the provisions of the Constitution. For example, in 1970, the Supreme Court had declared the following Acts of Parliament as null and void:\n(i) Presidential order concerning derecognisation of the former princes.\n(ii) **Banking Companies Act, 1969**, for the nationalisation of 14 banks.\n(iii) In August 1999, the Supreme Court held that **'merit'** should be the sole criterion for admissions to post-graduate and other higher courses in medicine and engineering."
+            }
+          ]
+        },
+        {
+          "title": "Court of Record",
+          "sequence_number": 6,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "A **Court of Record** is a court whose judgements are recorded for evidence and testimony. The judgements are in the nature of **‘precedents’**, i.e., the High Courts and other Courts are bound to give a similar decision in a similar case. They are not to be questioned when they are produced before any subordinate court."
+            },
+            {
+              "content_md": "The Supreme Court shall be a “**Court of Record**” and shall have all the powers of such a court including the power to **punish for contempt of itself**.\n\nThe Court of Record has two implications:\n1. Its **judgements** and **orders** are preserved as record. These can be produced in any court as **precedents**.\n2. If a person commits a **contempt of court**, the court has the authority to punish him. No authority can deprive the court of this right.\n\nTruly, the Supreme Court acts as the guardian of the Constitution."
+            }
+          ]
+        },
+        {
+          "title": "FUNCTIONS OF THE SUPREME COURT",
+          "sequence_number": 7,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Settlement of Disputes",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Original**: The Supreme Court has the **original jurisdiction** to settle disputes between the Central government and one or more States and Union Territories (UTs) as well as between different States and UTs. Besides, it has original jurisdiction with regard to the enforcement of **Fundamental Rights**, transfer of cases from High Courts and interpretation of the Constitution.\n\n**On Appeals**: \n(i) The Supreme Court deals with appeals which are made to it in respect of its Original Jurisdiction. It gives its verdict on the interpretation of the Constitution. It also settles Inter-State or Union-State disputes.\n(ii) Using its **Appellate Jurisdiction**, it hears appeals involving interpretation of the Constitution on civil and criminal cases where special point of law is involved. \n(iii) Appeal by Special Leave.\n\n**Appeal by Special Leave**: Under **Article 136** of the Constitution, the Supreme Court can allow leave to appeal against the judgement of any court of India. It is a special power which is to be exercised only under exceptional circumstances. The Supreme Court has laid down the principles according to which this power shall be used."
+                }
+              ]
+            },
+            {
+              "title": "On Appeals",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "1. The **Supreme Court** deals with appeals which are made to it in respect of its **Original Jurisdiction**. It gives its verdict on the interpretation of the **Constitution**. It also settles **Inter-State** or **Union-State disputes**.\n2. Using its **Appellate Jurisdiction**, it hears appeals involving interpretation of the **Constitution** on civil and criminal cases where a special point of law is involved.\n3. **Appeal by Special Leave**."
+                }
+              ]
+            },
+            {
+              "title": "Appeal by Special Leave",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Under **Article 136** of the Constitution, the **Supreme Court** can allow **leave to appeal** against the judgement of any court of India. It is a **special power** which is to be exercised only under **exceptional circumstances**. The Supreme Court has laid down the principles according to which this power shall be used."
+                },
+                {
+                  "content_md": "*   **In civil cases**, special leave to appeal would not be granted unless there is a **question of law** or **general public interest** involved in the case.\n*   **In criminal cases**, the Supreme Court interferes when it is shown that **exceptional and special circumstances exist** and **grave injustice has been done**.\n*   The Supreme Court could **quash the decision of a tribunal** when the tribunal has **exceeded its jurisdiction** or adopted a procedure which runs against the **established rules of natural justice**."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "Enforcement of Fundamental Rights",
+          "sequence_number": 8,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "Any citizen whose rights are violated may move the **Supreme Court** for the enforcement of the rights. The Supreme Court has power to issue orders or **writs**, in the nature of **habeas corpus**, **mandamus**, **prohibition**, **quo warranto** and **certiorari** for the enforcement of any of the **Fundamental Rights**.\n\nThe Constitution prohibits the State from making any law which takes away or abridges the **Fundamental Rights**. If it does so, the law shall be declared **null and void** by the **Supreme Court**."
+            }
+          ]
+        },
+        {
+          "title": "Administrative and Supervisory Functions",
+          "sequence_number": 9,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "(i) **Appointments** of officers and staff of the Supreme Court are made by the **Chief Justice of India** or by such other judge as he/she may direct.\n\n(ii) The Court makes **rules** regarding the conduct of **advocates** and other persons appearing before it. It also makes rules regarding the **fees** to be charged in respect of proceedings in the Court.\n\n(iii) The Supreme Court ruled that **Chief Justice of India's recommendation** to transfer judges of the High Courts was **not binding on the Government**, if the recommendation was made without consulting four senior-most judges of the Supreme Court.\n\n(iv) The Supreme Court simplified procedures in the area of **Public Interest Litigation (PIL)**. A person can register a case simply by writing on a postcard or application stating his/her complaint. These complaints are registered and necessary orders are passed. The grievances of women, children, bonded labourers and other weaker sections are given attention under the scheme."
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    },
+    {
+      "title": "IMPORTANT WRITS",
+      "sequence_number": 4,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "Habeas Corpus",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**Habeas Corpus**: It means **‘to have the body’**. By issuing such a writ, the High Court or the Supreme Court can get the body of any person released if it has been **unlawfully detained** by any person or a group of persons or by the State. This writ is, thus, a great safeguard for the **personal freedom** of a citizen."
+            }
+          ]
+        },
+        {
+          "title": "Mandamus",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**Mandamus**: In Latin, it means '**we order**'. It is a **command** or an **order** from a **Superior Court** to a lower or an administrative authority to perform certain duty."
+            }
+          ]
+        },
+        {
+          "title": "Writ of Prohibition",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **Writ of Prohibition** is an order issued by a **superior court** to a **lower court** to stop proceedings in a case which might be in **excess of the jurisdiction** of the lower court."
+            }
+          ]
+        },
+        {
+          "title": "Writ of Certiorari",
+          "sequence_number": 4,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**Writ of Certiorari**: This writ is issued by a superior court to a judicial authority desiring \"to be informed of what is going on.\" Though it appears similar to the **Writ of Prohibition**, there is a difference. **Writ of Prohibition** is issued when certain proceedings are going on. The **Writ of Certiorari** is issued after the order has already been passed by the lower court."
+            }
+          ]
+        },
+        {
+          "title": "Quo-warranto",
+          "sequence_number": 5,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**Quo-warranto**: It means \"**by what order**.\" It is issued when a person has **usurped any office**. This writ thus prevents public officers from forcibly or wrongly holding a high public office."
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    }
+  ],
+  "additional_sections": [
+    {
+      "title": "Need for Judicial Review",
+      "content_md": "The Constitution has provided for a balance of powers between the Centre and the States. If the Union government or the State go beyond their limits, the Supreme Court can settle the dispute.\n(i) In a written Constitution a law may be ambiguously worked. The question of interpretation of the Constitution is bound to arise and only the Supreme Court has the power of original jurisdiction.\n(ii) The legislature may not possess the wisdom, experience and impartiality which are needed to explain what the law means. This function can be best performed by the Supreme Court."
+    }
+  ],
+  "needs_review": [],
+  "manifest": {
+    "syllabus_leaves": [
+      {
+        "path": "The Judiciary > Need for a Single Integrated Judiciary",
+        "path_titles": [
+          "The Judiciary",
+          "Need for a Single Integrated Judiciary"
+        ],
+        "title": "Need for a Single Integrated Judiciary",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "THE SUPREME COURT > Composition",
+        "path_titles": [
+          "THE SUPREME COURT",
+          "Composition"
+        ],
+        "title": "Composition",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "THE SUPREME COURT > Qualifications for Appointment as Judge of Supreme Court",
+        "path_titles": [
+          "THE SUPREME COURT",
+          "Qualifications for Appointment as Judge of Supreme Court"
+        ],
+        "title": "Qualifications for Appointment as Judge of Supreme Court",
+        "sequence_number": 2,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "THE SUPREME COURT > Appointment",
+        "path_titles": [
+          "THE SUPREME COURT",
+          "Appointment"
+        ],
+        "title": "Appointment",
+        "sequence_number": 3,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "THE SUPREME COURT > Appointment of Ad Hoc Judges",
+        "path_titles": [
+          "THE SUPREME COURT",
+          "Appointment of Ad Hoc Judges"
+        ],
+        "title": "Appointment of Ad Hoc Judges",
+        "sequence_number": 4,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "THE SUPREME COURT > Term of Office",
+        "path_titles": [
+          "THE SUPREME COURT",
+          "Term of Office"
+        ],
+        "title": "Term of Office",
+        "sequence_number": 5,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "THE SUPREME COURT > APPOINTMENT OF JUDGES OF THE SUPREME COURT",
+        "path_titles": [
+          "THE SUPREME COURT",
+          "APPOINTMENT OF JUDGES OF THE SUPREME COURT"
+        ],
+        "title": "APPOINTMENT OF JUDGES OF THE SUPREME COURT",
+        "sequence_number": 6,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "THE SUPREME COURT > Seat of Supreme Court",
+        "path_titles": [
+          "THE SUPREME COURT",
+          "Seat of Supreme Court"
+        ],
+        "title": "Seat of Supreme Court",
+        "sequence_number": 7,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "THE SUPREME COURT > INDEPENDENCE OF JUDICIARY FROM THE CONTROL OF EXECUTIVE AND LEGISLATURE > Appointment of Judges",
+        "path_titles": [
+          "THE SUPREME COURT",
+          "INDEPENDENCE OF JUDICIARY FROM THE CONTROL OF EXECUTIVE AND LEGISLATURE",
+          "Appointment of Judges"
+        ],
+        "title": "Appointment of Judges",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "THE SUPREME COURT > INDEPENDENCE OF JUDICIARY FROM THE CONTROL OF EXECUTIVE AND LEGISLATURE > Removal of Judges",
+        "path_titles": [
+          "THE SUPREME COURT",
+          "INDEPENDENCE OF JUDICIARY FROM THE CONTROL OF EXECUTIVE AND LEGISLATURE",
+          "Removal of Judges"
+        ],
+        "title": "Removal of Judges",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "THE SUPREME COURT > INDEPENDENCE OF JUDICIARY FROM THE CONTROL OF EXECUTIVE AND LEGISLATURE > Security of Tenure",
+        "path_titles": [
+          "THE SUPREME COURT",
+          "INDEPENDENCE OF JUDICIARY FROM THE CONTROL OF EXECUTIVE AND LEGISLATURE",
+          "Security of Tenure"
+        ],
+        "title": "Security of Tenure",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "THE SUPREME COURT > INDEPENDENCE OF JUDICIARY FROM THE CONTROL OF EXECUTIVE AND LEGISLATURE > Security of Salaries and Service Conditions",
+        "path_titles": [
+          "THE SUPREME COURT",
+          "INDEPENDENCE OF JUDICIARY FROM THE CONTROL OF EXECUTIVE AND LEGISLATURE",
+          "Security of Salaries and Service Conditions"
+        ],
+        "title": "Security of Salaries and Service Conditions",
+        "sequence_number": 4,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "THE SUPREME COURT > INDEPENDENCE OF JUDICIARY FROM THE CONTROL OF EXECUTIVE AND LEGISLATURE > Freedom to Announce Decisions and Decrees",
+        "path_titles": [
+          "THE SUPREME COURT",
+          "INDEPENDENCE OF JUDICIARY FROM THE CONTROL OF EXECUTIVE AND LEGISLATURE",
+          "Freedom to Announce Decisions and Decrees"
+        ],
+        "title": "Freedom to Announce Decisions and Decrees",
+        "sequence_number": 5,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "THE SUPREME COURT > INDEPENDENCE OF JUDICIARY FROM THE CONTROL OF EXECUTIVE AND LEGISLATURE > Punishment for Contempt of Court",
+        "path_titles": [
+          "THE SUPREME COURT",
+          "INDEPENDENCE OF JUDICIARY FROM THE CONTROL OF EXECUTIVE AND LEGISLATURE",
+          "Punishment for Contempt of Court"
+        ],
+        "title": "Punishment for Contempt of Court",
+        "sequence_number": 6,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "THE SUPREME COURT > INDEPENDENCE OF JUDICIARY FROM THE CONTROL OF EXECUTIVE AND LEGISLATURE > Full Control Over its Procedure of Work and Establishment",
+        "path_titles": [
+          "THE SUPREME COURT",
+          "INDEPENDENCE OF JUDICIARY FROM THE CONTROL OF EXECUTIVE AND LEGISLATURE",
+          "Full Control Over its Procedure of Work and Establishment"
+        ],
+        "title": "Full Control Over its Procedure of Work and Establishment",
+        "sequence_number": 7,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "THE SUPREME COURT > INDEPENDENCE OF JUDICIARY FROM THE CONTROL OF EXECUTIVE AND LEGISLATURE > No Discussion in the Legislature on the Conduct of Judges",
+        "path_titles": [
+          "THE SUPREME COURT",
+          "INDEPENDENCE OF JUDICIARY FROM THE CONTROL OF EXECUTIVE AND LEGISLATURE",
+          "No Discussion in the Legislature on the Conduct of Judges"
+        ],
+        "title": "No Discussion in the Legislature on the Conduct of Judges",
+        "sequence_number": 8,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "THE SUPREME COURT > INDEPENDENCE OF JUDICIARY FROM THE CONTROL OF EXECUTIVE AND LEGISLATURE > Prohibition of Practice after Retirement",
+        "path_titles": [
+          "THE SUPREME COURT",
+          "INDEPENDENCE OF JUDICIARY FROM THE CONTROL OF EXECUTIVE AND LEGISLATURE",
+          "Prohibition of Practice after Retirement"
+        ],
+        "title": "Prohibition of Practice after Retirement",
+        "sequence_number": 9,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "THE SUPREME COURT > INDEPENDENCE OF JUDICIARY FROM THE CONTROL OF EXECUTIVE AND LEGISLATURE > Live-Streaming of Court Proceedings",
+        "path_titles": [
+          "THE SUPREME COURT",
+          "INDEPENDENCE OF JUDICIARY FROM THE CONTROL OF EXECUTIVE AND LEGISLATURE",
+          "Live-Streaming of Court Proceedings"
+        ],
+        "title": "Live-Streaming of Court Proceedings",
+        "sequence_number": 10,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "JURISDICTION AND POWERS OF THE SUPREME COURT > Original Jurisdiction > Centre-State or Inter-States Disputes",
+        "path_titles": [
+          "JURISDICTION AND POWERS OF THE SUPREME COURT",
+          "Original Jurisdiction",
+          "Centre-State or Inter-States Disputes"
+        ],
+        "title": "Centre-State or Inter-States Disputes",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "JURISDICTION AND POWERS OF THE SUPREME COURT > Original Jurisdiction > Protection of Fundamental Rights",
+        "path_titles": [
+          "JURISDICTION AND POWERS OF THE SUPREME COURT",
+          "Original Jurisdiction",
+          "Protection of Fundamental Rights"
+        ],
+        "title": "Protection of Fundamental Rights",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "JURISDICTION AND POWERS OF THE SUPREME COURT > Original Jurisdiction > Transfer of Cases from Lower Courts",
+        "path_titles": [
+          "JURISDICTION AND POWERS OF THE SUPREME COURT",
+          "Original Jurisdiction",
+          "Transfer of Cases from Lower Courts"
+        ],
+        "title": "Transfer of Cases from Lower Courts",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "JURISDICTION AND POWERS OF THE SUPREME COURT > Original Jurisdiction > Interpretation of Constitution",
+        "path_titles": [
+          "JURISDICTION AND POWERS OF THE SUPREME COURT",
+          "Original Jurisdiction",
+          "Interpretation of Constitution"
+        ],
+        "title": "Interpretation of Constitution",
+        "sequence_number": 4,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "JURISDICTION AND POWERS OF THE SUPREME COURT > Appellate Jurisdiction > Constitutional Cases",
+        "path_titles": [
+          "JURISDICTION AND POWERS OF THE SUPREME COURT",
+          "Appellate Jurisdiction",
+          "Constitutional Cases"
+        ],
+        "title": "Constitutional Cases",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "JURISDICTION AND POWERS OF THE SUPREME COURT > Appellate Jurisdiction > Civil Cases",
+        "path_titles": [
+          "JURISDICTION AND POWERS OF THE SUPREME COURT",
+          "Appellate Jurisdiction",
+          "Civil Cases"
+        ],
+        "title": "Civil Cases",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "JURISDICTION AND POWERS OF THE SUPREME COURT > Appellate Jurisdiction > Criminal Cases",
+        "path_titles": [
+          "JURISDICTION AND POWERS OF THE SUPREME COURT",
+          "Appellate Jurisdiction",
+          "Criminal Cases"
+        ],
+        "title": "Criminal Cases",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "JURISDICTION AND POWERS OF THE SUPREME COURT > Advisory Jurisdiction",
+        "path_titles": [
+          "JURISDICTION AND POWERS OF THE SUPREME COURT",
+          "Advisory Jurisdiction"
+        ],
+        "title": "Advisory Jurisdiction",
+        "sequence_number": 3,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "JURISDICTION AND POWERS OF THE SUPREME COURT > Revisory Jurisdiction",
+        "path_titles": [
+          "JURISDICTION AND POWERS OF THE SUPREME COURT",
+          "Revisory Jurisdiction"
+        ],
+        "title": "Revisory Jurisdiction",
+        "sequence_number": 4,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "JURISDICTION AND POWERS OF THE SUPREME COURT > Judicial Review",
+        "path_titles": [
+          "JURISDICTION AND POWERS OF THE SUPREME COURT",
+          "Judicial Review"
+        ],
+        "title": "Judicial Review",
+        "sequence_number": 5,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "JURISDICTION AND POWERS OF THE SUPREME COURT > Court of Record",
+        "path_titles": [
+          "JURISDICTION AND POWERS OF THE SUPREME COURT",
+          "Court of Record"
+        ],
+        "title": "Court of Record",
+        "sequence_number": 6,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "JURISDICTION AND POWERS OF THE SUPREME COURT > FUNCTIONS OF THE SUPREME COURT > Settlement of Disputes",
+        "path_titles": [
+          "JURISDICTION AND POWERS OF THE SUPREME COURT",
+          "FUNCTIONS OF THE SUPREME COURT",
+          "Settlement of Disputes"
+        ],
+        "title": "Settlement of Disputes",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "JURISDICTION AND POWERS OF THE SUPREME COURT > FUNCTIONS OF THE SUPREME COURT > On Appeals",
+        "path_titles": [
+          "JURISDICTION AND POWERS OF THE SUPREME COURT",
+          "FUNCTIONS OF THE SUPREME COURT",
+          "On Appeals"
+        ],
+        "title": "On Appeals",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "JURISDICTION AND POWERS OF THE SUPREME COURT > FUNCTIONS OF THE SUPREME COURT > Appeal by Special Leave",
+        "path_titles": [
+          "JURISDICTION AND POWERS OF THE SUPREME COURT",
+          "FUNCTIONS OF THE SUPREME COURT",
+          "Appeal by Special Leave"
+        ],
+        "title": "Appeal by Special Leave",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "JURISDICTION AND POWERS OF THE SUPREME COURT > Enforcement of Fundamental Rights",
+        "path_titles": [
+          "JURISDICTION AND POWERS OF THE SUPREME COURT",
+          "Enforcement of Fundamental Rights"
+        ],
+        "title": "Enforcement of Fundamental Rights",
+        "sequence_number": 8,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "JURISDICTION AND POWERS OF THE SUPREME COURT > Administrative and Supervisory Functions",
+        "path_titles": [
+          "JURISDICTION AND POWERS OF THE SUPREME COURT",
+          "Administrative and Supervisory Functions"
+        ],
+        "title": "Administrative and Supervisory Functions",
+        "sequence_number": 9,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "IMPORTANT WRITS > Habeas Corpus",
+        "path_titles": [
+          "IMPORTANT WRITS",
+          "Habeas Corpus"
+        ],
+        "title": "Habeas Corpus",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "IMPORTANT WRITS > Mandamus",
+        "path_titles": [
+          "IMPORTANT WRITS",
+          "Mandamus"
+        ],
+        "title": "Mandamus",
+        "sequence_number": 2,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "IMPORTANT WRITS > Writ of Prohibition",
+        "path_titles": [
+          "IMPORTANT WRITS",
+          "Writ of Prohibition"
+        ],
+        "title": "Writ of Prohibition",
+        "sequence_number": 3,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "IMPORTANT WRITS > Writ of Certiorari",
+        "path_titles": [
+          "IMPORTANT WRITS",
+          "Writ of Certiorari"
+        ],
+        "title": "Writ of Certiorari",
+        "sequence_number": 4,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "IMPORTANT WRITS > Quo-warranto",
+        "path_titles": [
+          "IMPORTANT WRITS",
+          "Quo-warranto"
+        ],
+        "title": "Quo-warranto",
+        "sequence_number": 5,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      }
+    ],
+    "stray_leaves": [
+      {
+        "title": "Need for Judicial Review",
+        "insert_after_index": 33,
+        "micro_topics": [],
+        "has_notes": true
+      }
+    ]
+  }
+}

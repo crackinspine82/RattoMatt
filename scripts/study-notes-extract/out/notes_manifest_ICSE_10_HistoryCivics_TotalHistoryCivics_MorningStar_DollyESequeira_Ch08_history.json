@@ -1,0 +1,233 @@
+{
+  "syllabus_leaves": [
+    {
+      "path": "Forward Bloc and INA > Bose and The Congress",
+      "path_titles": [
+        "Forward Bloc and INA",
+        "Bose and The Congress"
+      ],
+      "title": "Bose and The Congress",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Forward Bloc and INA > Rift with Gandhiji",
+      "path_titles": [
+        "Forward Bloc and INA",
+        "Rift with Gandhiji"
+      ],
+      "title": "Rift with Gandhiji",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Forward Bloc and INA > Rift in the Congress",
+      "path_titles": [
+        "Forward Bloc and INA",
+        "Rift in the Congress"
+      ],
+      "title": "Rift in the Congress",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Forward Bloc and INA > FORWARD BLOC",
+      "path_titles": [
+        "Forward Bloc and INA",
+        "FORWARD BLOC"
+      ],
+      "title": "FORWARD BLOC",
+      "sequence_number": 4,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Forward Bloc and INA > Objectives of the Forward Bloc",
+      "path_titles": [
+        "Forward Bloc and INA",
+        "Objectives of the Forward Bloc"
+      ],
+      "title": "Objectives of the Forward Bloc",
+      "sequence_number": 5,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Forward Bloc and INA > Netaji's Arrest and Escape",
+      "path_titles": [
+        "Forward Bloc and INA",
+        "Netaji's Arrest and Escape"
+      ],
+      "title": "Netaji's Arrest and Escape",
+      "sequence_number": 6,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Forward Bloc and INA > Events in South-East Asia",
+      "path_titles": [
+        "Forward Bloc and INA",
+        "Events in South-East Asia"
+      ],
+      "title": "Events in South-East Asia",
+      "sequence_number": 7,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Forward Bloc and INA > INDIAN NATIONAL ARMY (INA)",
+      "path_titles": [
+        "Forward Bloc and INA",
+        "INDIAN NATIONAL ARMY (INA)"
+      ],
+      "title": "INDIAN NATIONAL ARMY (INA)",
+      "sequence_number": 8,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": false
+    },
+    {
+      "path": "Forward Bloc and INA > Founder of the INA",
+      "path_titles": [
+        "Forward Bloc and INA",
+        "Founder of the INA"
+      ],
+      "title": "Founder of the INA",
+      "sequence_number": 9,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Forward Bloc and INA > The Tokyo Conference",
+      "path_titles": [
+        "Forward Bloc and INA",
+        "The Tokyo Conference"
+      ],
+      "title": "The Tokyo Conference",
+      "sequence_number": 10,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Forward Bloc and INA > The Bangkok Conference",
+      "path_titles": [
+        "Forward Bloc and INA",
+        "The Bangkok Conference"
+      ],
+      "title": "The Bangkok Conference",
+      "sequence_number": 11,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Forward Bloc and INA > Contribution of Subhas Chandra Bose",
+      "path_titles": [
+        "Forward Bloc and INA",
+        "Contribution of Subhas Chandra Bose"
+      ],
+      "title": "Contribution of Subhas Chandra Bose",
+      "sequence_number": 12,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Forward Bloc and INA > Provisional Government of Free India",
+      "path_titles": [
+        "Forward Bloc and INA",
+        "Provisional Government of Free India"
+      ],
+      "title": "Provisional Government of Free India",
+      "sequence_number": 13,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Forward Bloc and INA > Objectives of the INA",
+      "path_titles": [
+        "Forward Bloc and INA",
+        "Objectives of the INA"
+      ],
+      "title": "Objectives of the INA",
+      "sequence_number": 14,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Forward Bloc and INA > Achievements of the INA and Netaji",
+      "path_titles": [
+        "Forward Bloc and INA",
+        "Achievements of the INA and Netaji"
+      ],
+      "title": "Achievements of the INA and Netaji",
+      "sequence_number": 15,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Forward Bloc and INA > Fate of the INA and Netaji",
+      "path_titles": [
+        "Forward Bloc and INA",
+        "Fate of the INA and Netaji"
+      ],
+      "title": "Fate of the INA and Netaji",
+      "sequence_number": 16,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Forward Bloc and INA > Impact of the INA",
+      "path_titles": [
+        "Forward Bloc and INA",
+        "Impact of the INA"
+      ],
+      "title": "Impact of the INA",
+      "sequence_number": 17,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Forward Bloc and INA > CHAPTER AT A GLANCE",
+      "path_titles": [
+        "Forward Bloc and INA",
+        "CHAPTER AT A GLANCE"
+      ],
+      "title": "CHAPTER AT A GLANCE",
+      "sequence_number": 18,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Forward Bloc and INA > EXERCISES",
+      "path_titles": [
+        "Forward Bloc and INA",
+        "EXERCISES"
+      ],
+      "title": "EXERCISES",
+      "sequence_number": 19,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": false
+    }
+  ],
+  "stray_leaves": []
+}

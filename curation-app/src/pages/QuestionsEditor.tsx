@@ -83,6 +83,9 @@ export default function QuestionsEditor() {
   const leftWidthRef = useRef(leftWidth);
   const rightWidthRef = useRef(rightWidth);
 
+  const [orphanedQuestions, setOrphanedQuestions] = useState<DraftQuestion[]>([]);
+  const [noPublishedStructure, setNoPublishedStructure] = useState(false);
+
   useEffect(() => {
     if (!itemId) return;
     Promise.all([getItem(itemId), getQuestions(itemId)])
@@ -90,6 +93,8 @@ export default function QuestionsEditor() {
         setItem(i);
         const qs = (data.questions || []).map((q) => ({ ...q, ready_to_publish: q.ready_to_publish ?? false }));
         setQuestions(qs);
+        setOrphanedQuestions(data.orphaned_questions ?? []);
+        setNoPublishedStructure(data.no_published_structure ?? false);
         setSelectedId(qs.length > 0 ? qs[0].id : null);
       })
       .catch((err) => setError(err instanceof Error ? err.message : 'Failed to load'))
@@ -234,7 +239,7 @@ export default function QuestionsEditor() {
     try {
       const payload = questions.map((q) => ({
         id: q.id,
-        draft_syllabus_node_id: q.draft_syllabus_node_id,
+        syllabus_node_id: q.syllabus_node_id,
         question_text: q.question_text,
         question_type: q.question_type,
         discipline: q.discipline,
@@ -248,6 +253,7 @@ export default function QuestionsEditor() {
       }));
       const data = await saveQuestions(itemId, payload);
       setQuestions(data.questions);
+      setOrphanedQuestions(data.orphaned_questions ?? []);
     } catch (e) {
       setError(e instanceof Error ? e.message : 'Save failed');
     } finally {
@@ -281,6 +287,20 @@ export default function QuestionsEditor() {
     return (
       <div style={{ padding: 24 }}>
         <p>Loading…</p>
+      </div>
+    );
+  }
+
+  if (noPublishedStructure) {
+    return (
+      <div style={{ padding: 24, maxWidth: 560 }}>
+        <Link to="/" style={{ color: 'var(--link)', textDecoration: 'none', fontSize: 14 }}>← Back to list</Link>
+        <p style={{ color: 'var(--text)', fontSize: 16, marginTop: 16, marginBottom: 12 }}>
+          <strong>Publish the Structure item for this chapter first.</strong>
+        </p>
+        <p style={{ color: 'var(--text-muted)', fontSize: 14 }}>
+          Questions are keyed to the <em>published</em> syllabus tree. Open the Structure item for this chapter, edit and publish it, then you can generate and edit questions here.
+        </p>
       </div>
     );
   }
@@ -324,8 +344,14 @@ export default function QuestionsEditor() {
       </header>
       {error && <p style={{ color: 'var(--danger)', margin: '0 24px 16px', fontSize: 14 }}>{error}</p>}
 
+      {orphanedQuestions.length > 0 && (
+        <div style={{ margin: '0 24px 16px', padding: 12, background: 'var(--surface)', borderRadius: 8, border: '1px solid var(--border)', fontSize: 14 }}>
+          <strong>Orphaned</strong> ({orphanedQuestions.length} question{orphanedQuestions.length !== 1 ? 's' : ''}): draft questions whose node was removed from the published structure. They are not published.
+        </div>
+      )}
+
       {questions.length === 0 ? (
-        <p style={{ padding: 24, color: 'var(--text-muted)' }}>No questions. Run curation import with question JSON for this chapter.</p>
+        <p style={{ padding: 24, color: 'var(--text-muted)' }}>No questions. Publish structure first, then run curation import with question JSON for this chapter.</p>
       ) : (
         <div style={{ display: 'flex', flex: 1, minHeight: 0 }}>
           {/* Left sidebar: questions by type */}

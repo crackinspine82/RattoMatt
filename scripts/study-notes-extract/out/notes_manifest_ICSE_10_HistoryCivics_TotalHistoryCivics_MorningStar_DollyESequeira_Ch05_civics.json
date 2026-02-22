@@ -1,0 +1,500 @@
+{
+  "syllabus_leaves": [
+    {
+      "path": "The Judiciary > Need for a Single Integrated Judiciary",
+      "path_titles": [
+        "The Judiciary",
+        "Need for a Single Integrated Judiciary"
+      ],
+      "title": "Need for a Single Integrated Judiciary",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "THE SUPREME COURT > Composition",
+      "path_titles": [
+        "THE SUPREME COURT",
+        "Composition"
+      ],
+      "title": "Composition",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "THE SUPREME COURT > Qualifications for Appointment as Judge of Supreme Court",
+      "path_titles": [
+        "THE SUPREME COURT",
+        "Qualifications for Appointment as Judge of Supreme Court"
+      ],
+      "title": "Qualifications for Appointment as Judge of Supreme Court",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "THE SUPREME COURT > Appointment",
+      "path_titles": [
+        "THE SUPREME COURT",
+        "Appointment"
+      ],
+      "title": "Appointment",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "THE SUPREME COURT > Appointment of Ad Hoc Judges",
+      "path_titles": [
+        "THE SUPREME COURT",
+        "Appointment of Ad Hoc Judges"
+      ],
+      "title": "Appointment of Ad Hoc Judges",
+      "sequence_number": 4,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "THE SUPREME COURT > Term of Office",
+      "path_titles": [
+        "THE SUPREME COURT",
+        "Term of Office"
+      ],
+      "title": "Term of Office",
+      "sequence_number": 5,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "THE SUPREME COURT > APPOINTMENT OF JUDGES OF THE SUPREME COURT",
+      "path_titles": [
+        "THE SUPREME COURT",
+        "APPOINTMENT OF JUDGES OF THE SUPREME COURT"
+      ],
+      "title": "APPOINTMENT OF JUDGES OF THE SUPREME COURT",
+      "sequence_number": 6,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "THE SUPREME COURT > Seat of Supreme Court",
+      "path_titles": [
+        "THE SUPREME COURT",
+        "Seat of Supreme Court"
+      ],
+      "title": "Seat of Supreme Court",
+      "sequence_number": 7,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "THE SUPREME COURT > INDEPENDENCE OF JUDICIARY FROM THE CONTROL OF EXECUTIVE AND LEGISLATURE > Appointment of Judges",
+      "path_titles": [
+        "THE SUPREME COURT",
+        "INDEPENDENCE OF JUDICIARY FROM THE CONTROL OF EXECUTIVE AND LEGISLATURE",
+        "Appointment of Judges"
+      ],
+      "title": "Appointment of Judges",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "THE SUPREME COURT > INDEPENDENCE OF JUDICIARY FROM THE CONTROL OF EXECUTIVE AND LEGISLATURE > Removal of Judges",
+      "path_titles": [
+        "THE SUPREME COURT",
+        "INDEPENDENCE OF JUDICIARY FROM THE CONTROL OF EXECUTIVE AND LEGISLATURE",
+        "Removal of Judges"
+      ],
+      "title": "Removal of Judges",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "THE SUPREME COURT > INDEPENDENCE OF JUDICIARY FROM THE CONTROL OF EXECUTIVE AND LEGISLATURE > Security of Tenure",
+      "path_titles": [
+        "THE SUPREME COURT",
+        "INDEPENDENCE OF JUDICIARY FROM THE CONTROL OF EXECUTIVE AND LEGISLATURE",
+        "Security of Tenure"
+      ],
+      "title": "Security of Tenure",
+      "sequence_number": 3,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "THE SUPREME COURT > INDEPENDENCE OF JUDICIARY FROM THE CONTROL OF EXECUTIVE AND LEGISLATURE > Security of Salaries and Service Conditions",
+      "path_titles": [
+        "THE SUPREME COURT",
+        "INDEPENDENCE OF JUDICIARY FROM THE CONTROL OF EXECUTIVE AND LEGISLATURE",
+        "Security of Salaries and Service Conditions"
+      ],
+      "title": "Security of Salaries and Service Conditions",
+      "sequence_number": 4,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "THE SUPREME COURT > INDEPENDENCE OF JUDICIARY FROM THE CONTROL OF EXECUTIVE AND LEGISLATURE > Freedom to Announce Decisions and Decrees",
+      "path_titles": [
+        "THE SUPREME COURT",
+        "INDEPENDENCE OF JUDICIARY FROM THE CONTROL OF EXECUTIVE AND LEGISLATURE",
+        "Freedom to Announce Decisions and Decrees"
+      ],
+      "title": "Freedom to Announce Decisions and Decrees",
+      "sequence_number": 5,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "THE SUPREME COURT > INDEPENDENCE OF JUDICIARY FROM THE CONTROL OF EXECUTIVE AND LEGISLATURE > Punishment for Contempt of Court",
+      "path_titles": [
+        "THE SUPREME COURT",
+        "INDEPENDENCE OF JUDICIARY FROM THE CONTROL OF EXECUTIVE AND LEGISLATURE",
+        "Punishment for Contempt of Court"
+      ],
+      "title": "Punishment for Contempt of Court",
+      "sequence_number": 6,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "THE SUPREME COURT > INDEPENDENCE OF JUDICIARY FROM THE CONTROL OF EXECUTIVE AND LEGISLATURE > Full Control Over its Procedure of Work and Establishment",
+      "path_titles": [
+        "THE SUPREME COURT",
+        "INDEPENDENCE OF JUDICIARY FROM THE CONTROL OF EXECUTIVE AND LEGISLATURE",
+        "Full Control Over its Procedure of Work and Establishment"
+      ],
+      "title": "Full Control Over its Procedure of Work and Establishment",
+      "sequence_number": 7,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "THE SUPREME COURT > INDEPENDENCE OF JUDICIARY FROM THE CONTROL OF EXECUTIVE AND LEGISLATURE > No Discussion in the Legislature on the Conduct of Judges",
+      "path_titles": [
+        "THE SUPREME COURT",
+        "INDEPENDENCE OF JUDICIARY FROM THE CONTROL OF EXECUTIVE AND LEGISLATURE",
+        "No Discussion in the Legislature on the Conduct of Judges"
+      ],
+      "title": "No Discussion in the Legislature on the Conduct of Judges",
+      "sequence_number": 8,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "THE SUPREME COURT > INDEPENDENCE OF JUDICIARY FROM THE CONTROL OF EXECUTIVE AND LEGISLATURE > Prohibition of Practice after Retirement",
+      "path_titles": [
+        "THE SUPREME COURT",
+        "INDEPENDENCE OF JUDICIARY FROM THE CONTROL OF EXECUTIVE AND LEGISLATURE",
+        "Prohibition of Practice after Retirement"
+      ],
+      "title": "Prohibition of Practice after Retirement",
+      "sequence_number": 9,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "THE SUPREME COURT > INDEPENDENCE OF JUDICIARY FROM THE CONTROL OF EXECUTIVE AND LEGISLATURE > Live-Streaming of Court Proceedings",
+      "path_titles": [
+        "THE SUPREME COURT",
+        "INDEPENDENCE OF JUDICIARY FROM THE CONTROL OF EXECUTIVE AND LEGISLATURE",
+        "Live-Streaming of Court Proceedings"
+      ],
+      "title": "Live-Streaming of Court Proceedings",
+      "sequence_number": 10,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "JURISDICTION AND POWERS OF THE SUPREME COURT > Original Jurisdiction > Centre-State or Inter-States Disputes",
+      "path_titles": [
+        "JURISDICTION AND POWERS OF THE SUPREME COURT",
+        "Original Jurisdiction",
+        "Centre-State or Inter-States Disputes"
+      ],
+      "title": "Centre-State or Inter-States Disputes",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "JURISDICTION AND POWERS OF THE SUPREME COURT > Original Jurisdiction > Protection of Fundamental Rights",
+      "path_titles": [
+        "JURISDICTION AND POWERS OF THE SUPREME COURT",
+        "Original Jurisdiction",
+        "Protection of Fundamental Rights"
+      ],
+      "title": "Protection of Fundamental Rights",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "JURISDICTION AND POWERS OF THE SUPREME COURT > Original Jurisdiction > Transfer of Cases from Lower Courts",
+      "path_titles": [
+        "JURISDICTION AND POWERS OF THE SUPREME COURT",
+        "Original Jurisdiction",
+        "Transfer of Cases from Lower Courts"
+      ],
+      "title": "Transfer of Cases from Lower Courts",
+      "sequence_number": 3,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "JURISDICTION AND POWERS OF THE SUPREME COURT > Original Jurisdiction > Interpretation of Constitution",
+      "path_titles": [
+        "JURISDICTION AND POWERS OF THE SUPREME COURT",
+        "Original Jurisdiction",
+        "Interpretation of Constitution"
+      ],
+      "title": "Interpretation of Constitution",
+      "sequence_number": 4,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "JURISDICTION AND POWERS OF THE SUPREME COURT > Appellate Jurisdiction > Constitutional Cases",
+      "path_titles": [
+        "JURISDICTION AND POWERS OF THE SUPREME COURT",
+        "Appellate Jurisdiction",
+        "Constitutional Cases"
+      ],
+      "title": "Constitutional Cases",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "JURISDICTION AND POWERS OF THE SUPREME COURT > Appellate Jurisdiction > Civil Cases",
+      "path_titles": [
+        "JURISDICTION AND POWERS OF THE SUPREME COURT",
+        "Appellate Jurisdiction",
+        "Civil Cases"
+      ],
+      "title": "Civil Cases",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "JURISDICTION AND POWERS OF THE SUPREME COURT > Appellate Jurisdiction > Criminal Cases",
+      "path_titles": [
+        "JURISDICTION AND POWERS OF THE SUPREME COURT",
+        "Appellate Jurisdiction",
+        "Criminal Cases"
+      ],
+      "title": "Criminal Cases",
+      "sequence_number": 3,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "JURISDICTION AND POWERS OF THE SUPREME COURT > Advisory Jurisdiction",
+      "path_titles": [
+        "JURISDICTION AND POWERS OF THE SUPREME COURT",
+        "Advisory Jurisdiction"
+      ],
+      "title": "Advisory Jurisdiction",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "JURISDICTION AND POWERS OF THE SUPREME COURT > Revisory Jurisdiction",
+      "path_titles": [
+        "JURISDICTION AND POWERS OF THE SUPREME COURT",
+        "Revisory Jurisdiction"
+      ],
+      "title": "Revisory Jurisdiction",
+      "sequence_number": 4,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "JURISDICTION AND POWERS OF THE SUPREME COURT > Judicial Review",
+      "path_titles": [
+        "JURISDICTION AND POWERS OF THE SUPREME COURT",
+        "Judicial Review"
+      ],
+      "title": "Judicial Review",
+      "sequence_number": 5,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "JURISDICTION AND POWERS OF THE SUPREME COURT > Court of Record",
+      "path_titles": [
+        "JURISDICTION AND POWERS OF THE SUPREME COURT",
+        "Court of Record"
+      ],
+      "title": "Court of Record",
+      "sequence_number": 6,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "JURISDICTION AND POWERS OF THE SUPREME COURT > FUNCTIONS OF THE SUPREME COURT > Settlement of Disputes",
+      "path_titles": [
+        "JURISDICTION AND POWERS OF THE SUPREME COURT",
+        "FUNCTIONS OF THE SUPREME COURT",
+        "Settlement of Disputes"
+      ],
+      "title": "Settlement of Disputes",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "JURISDICTION AND POWERS OF THE SUPREME COURT > FUNCTIONS OF THE SUPREME COURT > On Appeals",
+      "path_titles": [
+        "JURISDICTION AND POWERS OF THE SUPREME COURT",
+        "FUNCTIONS OF THE SUPREME COURT",
+        "On Appeals"
+      ],
+      "title": "On Appeals",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "JURISDICTION AND POWERS OF THE SUPREME COURT > FUNCTIONS OF THE SUPREME COURT > Appeal by Special Leave",
+      "path_titles": [
+        "JURISDICTION AND POWERS OF THE SUPREME COURT",
+        "FUNCTIONS OF THE SUPREME COURT",
+        "Appeal by Special Leave"
+      ],
+      "title": "Appeal by Special Leave",
+      "sequence_number": 3,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "JURISDICTION AND POWERS OF THE SUPREME COURT > Enforcement of Fundamental Rights",
+      "path_titles": [
+        "JURISDICTION AND POWERS OF THE SUPREME COURT",
+        "Enforcement of Fundamental Rights"
+      ],
+      "title": "Enforcement of Fundamental Rights",
+      "sequence_number": 8,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "JURISDICTION AND POWERS OF THE SUPREME COURT > Administrative and Supervisory Functions",
+      "path_titles": [
+        "JURISDICTION AND POWERS OF THE SUPREME COURT",
+        "Administrative and Supervisory Functions"
+      ],
+      "title": "Administrative and Supervisory Functions",
+      "sequence_number": 9,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "IMPORTANT WRITS > Habeas Corpus",
+      "path_titles": [
+        "IMPORTANT WRITS",
+        "Habeas Corpus"
+      ],
+      "title": "Habeas Corpus",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "IMPORTANT WRITS > Mandamus",
+      "path_titles": [
+        "IMPORTANT WRITS",
+        "Mandamus"
+      ],
+      "title": "Mandamus",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "IMPORTANT WRITS > Writ of Prohibition",
+      "path_titles": [
+        "IMPORTANT WRITS",
+        "Writ of Prohibition"
+      ],
+      "title": "Writ of Prohibition",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "IMPORTANT WRITS > Writ of Certiorari",
+      "path_titles": [
+        "IMPORTANT WRITS",
+        "Writ of Certiorari"
+      ],
+      "title": "Writ of Certiorari",
+      "sequence_number": 4,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "IMPORTANT WRITS > Quo-warranto",
+      "path_titles": [
+        "IMPORTANT WRITS",
+        "Quo-warranto"
+      ],
+      "title": "Quo-warranto",
+      "sequence_number": 5,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    }
+  ],
+  "stray_leaves": [
+    {
+      "title": "Need for Judicial Review",
+      "insert_after_index": 33,
+      "micro_topics": [],
+      "has_notes": true
+    }
+  ]
+}

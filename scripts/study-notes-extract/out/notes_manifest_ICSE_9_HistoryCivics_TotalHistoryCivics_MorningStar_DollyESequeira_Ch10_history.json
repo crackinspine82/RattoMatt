@@ -1,68 +1,66 @@
 {
   "syllabus_leaves": [
     {
-      "path": "SOURCES > Bijak > Sakhi",
+      "path": "SOURCES > Bijak > The Sakhi",
       "path_titles": [
         "SOURCES",
         "Bijak",
-        "Sakhi"
+        "The Sakhi"
       ],
-      "title": "Sakhi",
+      "title": "The Sakhi",
       "sequence_number": 1,
       "depth": 2,
       "level_label": "Subtopic",
       "has_notes": true
     },
     {
-      "path": "SOURCES > Bijak > Ramaini",
+      "path": "SOURCES > Bijak > The Ramaini",
       "path_titles": [
         "SOURCES",
         "Bijak",
-        "Ramaini"
+        "The Ramaini"
       ],
-      "title": "Ramaini",
+      "title": "The Ramaini",
       "sequence_number": 2,
       "depth": 2,
       "level_label": "Subtopic",
       "has_notes": true
     },
     {
-      "path": "SOURCES > Bijak > Shabda",
+      "path": "SOURCES > Bijak > The Shabda",
       "path_titles": [
         "SOURCES",
         "Bijak",
-        "Shabda"
+        "The Shabda"
       ],
-      "title": "Shabda",
+      "title": "The Shabda",
       "sequence_number": 3,
       "depth": 2,
       "level_label": "Subtopic",
       "has_notes": true
     },
     {
-      "path": "SOURCES > Guru Granth Sahib > Introductory section composed by Guru Nanak",
+      "path": "SOURCES > Guru Granth Sahib",
       "path_titles": [
         "SOURCES",
-        "Guru Granth Sahib",
-        "Introductory section composed by Guru Nanak"
+        "Guru Granth Sahib"
       ],
-      "title": "Introductory section composed by Guru Nanak",
-      "sequence_number": 1,
-      "depth": 2,
-      "level_label": "Subtopic",
-      "has_notes": false
+      "title": "Guru Granth Sahib",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
     },
     {
-      "path": "SOURCES > Guru Granth Sahib > Compositions of Sikh gurus, followed by those of other saints and mystics, collected according to the chronology of ragas or musical settings",
+      "path": "SOURCES > Guru Nanak's Teachings",
       "path_titles": [
         "SOURCES",
-        "Guru Granth Sahib",
-        "Compositions of Sikh gurus, followed by those of other saints and mystics, collected according to the chronology of ragas or musical settings"
+        "Guru Nanak's Teachings"
       ],
-      "title": "Compositions of Sikh gurus, followed by those of other saints and mystics, collected according to the chronology of ragas or musical settings",
-      "sequence_number": 2,
-      "depth": 2,
-      "level_label": "Subtopic",
+      "title": "Guru Nanak's Teachings",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
       "has_notes": true
     },
     {
@@ -72,7 +70,7 @@
         "Ajmer Sharief"
       ],
       "title": "Ajmer Sharief",
-      "sequence_number": 3,
+      "sequence_number": 4,
       "depth": 1,
       "level_label": "Topic",
       "has_notes": true
@@ -84,7 +82,7 @@
         "St. Francis Church (Kochi)"
       ],
       "title": "St. Francis Church (Kochi)",
-      "sequence_number": 4,
+      "sequence_number": 5,
       "depth": 1,
       "level_label": "Topic",
       "has_notes": true
@@ -96,7 +94,7 @@
         "St. Francis Assisi"
       ],
       "title": "St. Francis Assisi",
-      "sequence_number": 5,
+      "sequence_number": 6,
       "depth": 1,
       "level_label": "Topic",
       "has_notes": true
@@ -113,12 +111,12 @@
       "has_notes": true
     },
     {
-      "path": "Impact of Composite Culture > The dress, manners, social amenities and festivals which the Mughals introduced in India, were accepted by the people in India",
+      "path": "Impact of Composite Culture > The dress, manners, social amenities and festivals which the Mughals introduced in India, were accepted by the people in India.",
       "path_titles": [
         "Impact of Composite Culture",
-        "The dress, manners, social amenities and festivals which the Mughals introduced in India, were accepted by the people in India"
+        "The dress, manners, social amenities and festivals which the Mughals introduced in India, were accepted by the people in India."
       ],
-      "title": "The dress, manners, social amenities and festivals which the Mughals introduced in India, were accepted by the people in India",
+      "title": "The dress, manners, social amenities and festivals which the Mughals introduced in India, were accepted by the people in India.",
       "sequence_number": 1,
       "depth": 1,
       "level_label": "Topic",
@@ -226,7 +224,7 @@
       "sequence_number": 1,
       "depth": 1,
       "level_label": "Topic",
-      "has_notes": true
+      "has_notes": false
     },
     {
       "path": "BHAKTI SAINTS > Sant Jnaneswar",
@@ -238,7 +236,7 @@
       "sequence_number": 2,
       "depth": 1,
       "level_label": "Topic",
-      "has_notes": true
+      "has_notes": false
     },
     {
       "path": "SUFISM",
@@ -249,7 +247,7 @@
       "sequence_number": 9,
       "depth": 0,
       "level_label": "Section",
-      "has_notes": true
+      "has_notes": false
     },
     {
       "path": "Doctrines of Sufism",
@@ -293,7 +291,7 @@
       "sequence_number": 13,
       "depth": 0,
       "level_label": "Section",
-      "has_notes": true
+      "has_notes": false
     },
     {
       "path": "St. Francis Xavier",
@@ -315,19 +313,13 @@
       "sequence_number": 15,
       "depth": 0,
       "level_label": "Section",
-      "has_notes": true
+      "has_notes": false
     }
   ],
   "stray_leaves": [
     {
       "title": "Kabir's Teachings According to Bijak",
       "insert_after_index": 4,
-      "micro_topics": [],
-      "has_notes": true
-    },
-    {
-      "title": "Guru Nanak's Teachings",
-      "insert_after_index": 7,
       "micro_topics": [],
       "has_notes": true
     }

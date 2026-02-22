@@ -4,7 +4,9 @@
  * Reads strategy-icse-history-civics.yaml and stub_page_counts.yaml.
  * Output: sample_questions_Ch{N}_{discipline}.json for curation:import.
  *
- * Usage: node generate-question-bank.mjs --grade=9 --book=... --chapter=1 --discipline=history [--notes-dir=path] [--pages=N] [--out-dir=out]
+ * Usage:
+ *   File: node generate-question-bank.mjs --grade=9 --book=... --chapter=1 --discipline=history [--notes-dir=path] [--pages=N] [--out-dir=out]
+ *   DB:   node generate-question-bank.mjs --from-db (--chapter-id=uuid | --grade=N --book=... --chapter=N --discipline=history) [--pages=N] [--out-dir=out]
  * Options:
  *   --resume — load existing output, generate only missing questions per (type, difficulty), merge and overwrite.
  *   --only-types=picture_study_linked,mcq_visual_scenario — load existing output, remove those types, generate only those types, merge back. Use to regenerate picture study and visual scenario questions only.
@@ -21,6 +23,17 @@ const ROOT = path.resolve(__dirname, '../..');
 
 // Load .env from script dir, then repo root, then sibling script folders that may have GEMINI_API_KEY
 dotenv.config({ path: path.join(__dirname, '.env') });
+// Load backend .env for DATABASE_URL when using --from-db
+try {
+  const backendEnv = path.join(ROOT, 'backend', '.env');
+  if (fs.existsSync(backendEnv)) {
+    const lines = fs.readFileSync(backendEnv, 'utf8').split('\n');
+    for (const line of lines) {
+      const m = line.match(/^\s*([A-Za-z_][A-Za-z0-9_]*)\s*=\s*(.*)$/);
+      if (m && !process.env[m[1]]) process.env[m[1]] = m[2].replace(/^["']|["']$/g, '').trim();
+    }
+  }
+} catch (_) {}
 if (!process.env.GEMINI_API_KEY?.trim()) dotenv.config({ path: path.join(ROOT, '.env') });
 if (!process.env.GEMINI_API_KEY?.trim()) dotenv.config({ path: path.join(ROOT, 'scripts', 'study-notes-generate', '.env') });
 if (!process.env.GEMINI_API_KEY?.trim()) dotenv.config({ path: path.join(ROOT, 'scripts', 'question-extract-sample', '.env') });
@@ -40,6 +53,27 @@ function getArg(name, def = null) {
 
 function hasFlag(name) {
   return process.argv.some((a) => a === `--${name}`);
+}
+
+function hasFromDb() {
+  return process.argv.includes('--from-db');
+}
+
+function getChapterIdArg() {
+  const arg = process.argv.find((a) => a.startsWith('--chapter-id='));
+  if (!arg) return null;
+  return arg.slice('--chapter-id='.length).trim() || null;
+}
+
+function loadPublications() {
+  const p = path.join(ROOT, 'docs', 'icse_publications.json');
+  const raw = fs.readFileSync(p, 'utf8');
+  return JSON.parse(raw).publications || [];
+}
+
+function stripHtmlToText(html) {
+  if (!html || typeof html !== 'string') return '';
+  return html.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
 }
 
 /** Parse --only-types=picture_study_linked,mcq_visual_scenario into a Set of type names, or null if not set. */
@@ -403,37 +437,119 @@ Output only a single JSON object (no markdown fences, escape double quotes with 
 }
 
 async function main() {
-  const grade = getArg('grade');
-  const book = getArg('book');
-  const chapterNum = parseInt(getArg('chapter'), 10);
-  const discipline = getArg('discipline');
+  let grade = getArg('grade');
+  let book = getArg('book');
+  let chapterNum = parseInt(getArg('chapter'), 10);
+  let discipline = getArg('discipline');
   const notesDir = getArg('notes-dir', path.join(__dirname, '../study-notes-extract/out'));
   const cliPages = getArg('pages');
   const outDir = getArg('out-dir', path.join(__dirname, 'out'));
+  let notes;
+  let nodeIdsForRoundRobin = null;
 
-  if (!grade || !book || !Number.isFinite(chapterNum) || !discipline) {
-    console.error('Usage: node generate-question-bank.mjs --grade=9 --book=... --chapter=1 --discipline=history [--notes-dir=path] [--pages=N] [--out-dir=out] [--resume] [--only-types=type1,type2]');
-    process.exit(1);
+  if (hasFromDb()) {
+    const { getPool, resolveChapter, loadNodesWithNoteBlocks } = await import('../shared/db-published.mjs');
+    const pool = getPool();
+    const chapterIdArg = getChapterIdArg();
+    if (chapterIdArg) {
+      const resolved = await resolveChapter(pool, { chapterId: chapterIdArg });
+      if (!resolved) {
+        console.error('Chapter not found for --chapter-id=', chapterIdArg);
+        process.exit(1);
+      }
+      grade = String(resolved.grade);
+      book = loadPublications().find((p) => p.grade === resolved.grade && p.book_name === resolved.subjectName)?.book_slug || resolved.subjectName?.replace(/\s+/g, '') || 'book';
+      chapterNum = resolved.sequenceNumber;
+      discipline = resolved.discipline || 'history';
+      const nodes = await loadNodesWithNoteBlocks(pool, resolved.chapterId);
+      if (nodes.length === 0) {
+        console.error('No published syllabus nodes or note_blocks for this chapter. Publish structure and full extract first.');
+        process.exit(1);
+      }
+      nodeIdsForRoundRobin = nodes.map((n) => n.id);
+      const pageCountRow = await pool.query('SELECT page_count FROM chapters WHERE id = $1', [resolved.chapterId]).then((r) => r.rows[0]?.page_count ?? null);
+      notes = {
+        board: 'ICSE',
+        grade: resolved.grade,
+        subject: resolved.subjectName,
+        book_slug: book,
+        book_meta: { book_name: resolved.subjectName },
+        chapter_sequence_number: resolved.sequenceNumber,
+        chapter_title: resolved.chapterTitle,
+        discipline: resolved.discipline || 'history',
+        sections: nodes.map((n) => ({ title: n.title, content_md: stripHtmlToText(n.content_html) })),
+        _pageCountFromDb: pageCountRow != null ? Math.max(1, Math.round(pageCountRow)) : null,
+      };
+    } else {
+      if (!grade || !book || !Number.isFinite(chapterNum) || !discipline) {
+        console.error('--from-db requires either --chapter-id=uuid OR --grade=N --book=... --chapter=N --discipline=history');
+        process.exit(1);
+      }
+      const pubs = loadPublications().filter((p) => p.grade === Number(grade) && p.book_slug === book);
+      if (pubs.length === 0) {
+        console.error('No publication found for grade', grade, 'book', book);
+        process.exit(1);
+      }
+      const resolved = await resolveChapter(pool, {
+        board: 'ICSE',
+        grade: Number(grade),
+        subjectName: pubs[0].book_name,
+        chapterNum,
+        discipline: discipline || null,
+      });
+      if (!resolved) {
+        console.error('Chapter not found in DB. Publish structure first.');
+        process.exit(1);
+      }
+      const nodes = await loadNodesWithNoteBlocks(pool, resolved.chapterId);
+      if (nodes.length === 0) {
+        console.error('No published syllabus nodes or note_blocks for this chapter. Publish structure and full extract first.');
+        process.exit(1);
+      }
+      nodeIdsForRoundRobin = nodes.map((n) => n.id);
+      const pageCountRow = await pool.query('SELECT page_count FROM chapters WHERE id = $1', [resolved.chapterId]).then((r) => r.rows[0]?.page_count ?? null);
+      notes = {
+        board: 'ICSE',
+        grade: Number(grade),
+        subject: resolved.subjectName,
+        book_slug: book,
+        book_meta: { book_name: resolved.subjectName },
+        chapter_sequence_number: chapterNum,
+        chapter_title: resolved.chapterTitle,
+        discipline: discipline || 'history',
+        sections: nodes.map((n) => ({ title: n.title, content_md: stripHtmlToText(n.content_html) })),
+        _pageCountFromDb: pageCountRow != null ? Math.max(1, Math.round(pageCountRow)) : null,
+      };
+    }
+  } else {
+    if (!grade || !book || !Number.isFinite(chapterNum) || !discipline) {
+      console.error('Usage: node generate-question-bank.mjs --grade=9 --book=... --chapter=1 --discipline=history [--notes-dir=path] [--pages=N] [--out-dir=out] [--resume] [--only-types=type1,type2]');
+      process.exit(1);
+    }
+    const notesPath = findNotesFile(notesDir, grade, book, chapterNum, discipline);
+    if (!notesPath || !fs.existsSync(notesPath)) {
+      console.error('Notes file not found in', notesDir, 'for grade', grade, 'book', book, 'chapter', chapterNum, discipline);
+      process.exit(1);
+    }
+    notes = JSON.parse(fs.readFileSync(notesPath, 'utf8'));
   }
 
   const strategy = loadStrategy();
   const stubConfig = loadStubPageCounts();
-  const pageCount = getPageCount(cliPages, chapterNum, discipline, stubConfig);
-  if (pageCount == null) {
+  const pageCount = hasFromDb() ? (cliPages != null ? Math.max(1, Math.round(Number(cliPages))) : notes._pageCountFromDb) : getPageCount(cliPages, chapterNum, discipline, stubConfig);
+  if (pageCount == null && !hasFromDb()) {
     console.error('Page count required. Set --pages=N, add an entry in stub_page_counts.yaml, or run study-notes-generate + curation import so chapters.page_count is set.');
+    process.exit(1);
+  }
+  const effectivePageCount = hasFromDb() ? (notes._pageCountFromDb ?? (cliPages != null ? Math.max(1, Math.round(Number(cliPages))) : 1)) : (pageCount ?? 1);
+  if (effectivePageCount == null || effectivePageCount < 1) {
+    console.error('Page count required. Set --pages=N or ensure chapters.page_count is set in DB.');
     process.exit(1);
   }
 
   const qPerPage = strategy.questions_per_page ?? 25;
-  const totalQuestions = pageCount * qPerPage;
-  console.log(`Chapter ${chapterNum} ${discipline}: ${pageCount} pages × ${qPerPage} = ${totalQuestions} questions`);
-
-  const notesPath = findNotesFile(notesDir, grade, book, chapterNum, discipline);
-  if (!notesPath || !fs.existsSync(notesPath)) {
-    console.error('Notes file not found in', notesDir, 'for grade', grade, 'book', book, 'chapter', chapterNum, discipline);
-    process.exit(1);
-  }
-  const notes = JSON.parse(fs.readFileSync(notesPath, 'utf8'));
+  const totalQuestions = effectivePageCount * qPerPage;
+  console.log(`Chapter ${chapterNum} ${discipline}: ${effectivePageCount} pages × ${qPerPage} = ${totalQuestions} questions` + (hasFromDb() ? ' (from DB)' : ''));
 
   const plan = computePlan(strategy, totalQuestions);
   const apiKey = process.env.GEMINI_API_KEY?.trim();
@@ -626,6 +742,12 @@ async function main() {
   if (onlyTypes && existingMeta?.items?.length) {
     const otherItems = existingMeta.items.filter((i) => !onlyTypes.has(i.question_type || ''));
     outItems = [...otherItems, ...items];
+  }
+  if (nodeIdsForRoundRobin && nodeIdsForRoundRobin.length > 0) {
+    outItems = outItems.map((item, i) => ({
+      ...item,
+      syllabus_node_id: nodeIdsForRoundRobin[i % nodeIdsForRoundRobin.length],
+    }));
   }
 
   const out = {

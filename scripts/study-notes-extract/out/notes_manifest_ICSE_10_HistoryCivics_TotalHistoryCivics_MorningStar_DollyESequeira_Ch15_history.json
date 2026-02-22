@@ -1,0 +1,174 @@
+{
+  "syllabus_leaves": [
+    {
+      "path": "NON-ALIGNED MOVEMENT > MEANING OF NON-ALIGNMENT",
+      "path_titles": [
+        "NON-ALIGNED MOVEMENT",
+        "MEANING OF NON-ALIGNMENT"
+      ],
+      "title": "MEANING OF NON-ALIGNMENT",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "NON-ALIGNED MOVEMENT > FACTORS RESPONSIBLE FOR NON-ALIGNMENT > Global tension caused by Cold War",
+      "path_titles": [
+        "NON-ALIGNED MOVEMENT",
+        "FACTORS RESPONSIBLE FOR NON-ALIGNMENT",
+        "Global tension caused by Cold War"
+      ],
+      "title": "Global tension caused by Cold War",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "NON-ALIGNED MOVEMENT > FACTORS RESPONSIBLE FOR NON-ALIGNMENT > Struggle against imperialism and neo-colonisation",
+      "path_titles": [
+        "NON-ALIGNED MOVEMENT",
+        "FACTORS RESPONSIBLE FOR NON-ALIGNMENT",
+        "Struggle against imperialism and neo-colonisation"
+      ],
+      "title": "Struggle against imperialism and neo-colonisation",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "NON-ALIGNED MOVEMENT > FACTORS RESPONSIBLE FOR NON-ALIGNMENT > Right of independent judgement",
+      "path_titles": [
+        "NON-ALIGNED MOVEMENT",
+        "FACTORS RESPONSIBLE FOR NON-ALIGNMENT",
+        "Right of independent judgement"
+      ],
+      "title": "Right of independent judgement",
+      "sequence_number": 3,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "NON-ALIGNED MOVEMENT > FACTORS RESPONSIBLE FOR NON-ALIGNMENT > Use of moderation in relation to all the big powers",
+      "path_titles": [
+        "NON-ALIGNED MOVEMENT",
+        "FACTORS RESPONSIBLE FOR NON-ALIGNMENT",
+        "Use of moderation in relation to all the big powers"
+      ],
+      "title": "Use of moderation in relation to all the big powers",
+      "sequence_number": 4,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "NON-ALIGNED MOVEMENT > FACTORS RESPONSIBLE FOR NON-ALIGNMENT > Restructuring international economic order",
+      "path_titles": [
+        "NON-ALIGNED MOVEMENT",
+        "FACTORS RESPONSIBLE FOR NON-ALIGNMENT",
+        "Restructuring international economic order"
+      ],
+      "title": "Restructuring international economic order",
+      "sequence_number": 5,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "NON-ALIGNED MOVEMENT > FACTORS RESPONSIBLE FOR NON-ALIGNMENT > Formation of a collective force",
+      "path_titles": [
+        "NON-ALIGNED MOVEMENT",
+        "FACTORS RESPONSIBLE FOR NON-ALIGNMENT",
+        "Formation of a collective force"
+      ],
+      "title": "Formation of a collective force",
+      "sequence_number": 6,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "NON-ALIGNED MOVEMENT > PANCHSHEEL",
+      "path_titles": [
+        "NON-ALIGNED MOVEMENT",
+        "PANCHSHEEL"
+      ],
+      "title": "PANCHSHEEL",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "NON-ALIGNED MOVEMENT > ARCHITECTS OF NAM",
+      "path_titles": [
+        "NON-ALIGNED MOVEMENT",
+        "ARCHITECTS OF NAM"
+      ],
+      "title": "ARCHITECTS OF NAM",
+      "sequence_number": 4,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "NON-ALIGNED MOVEMENT > OBJECTIVES OF THE NON-ALIGNED MOVEMENT",
+      "path_titles": [
+        "NON-ALIGNED MOVEMENT",
+        "OBJECTIVES OF THE NON-ALIGNED MOVEMENT"
+      ],
+      "title": "OBJECTIVES OF THE NON-ALIGNED MOVEMENT",
+      "sequence_number": 5,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "NON-ALIGNED MOVEMENT > ROLE OF JAWAHARLAL NEHRU",
+      "path_titles": [
+        "NON-ALIGNED MOVEMENT",
+        "ROLE OF JAWAHARLAL NEHRU"
+      ],
+      "title": "ROLE OF JAWAHARLAL NEHRU",
+      "sequence_number": 6,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "NON-ALIGNED MOVEMENT > ACHIEVEMENTS OF NAM",
+      "path_titles": [
+        "NON-ALIGNED MOVEMENT",
+        "ACHIEVEMENTS OF NAM"
+      ],
+      "title": "ACHIEVEMENTS OF NAM",
+      "sequence_number": 7,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "NON-ALIGNED MOVEMENT > FUTURE OF NAM",
+      "path_titles": [
+        "NON-ALIGNED MOVEMENT",
+        "FUTURE OF NAM"
+      ],
+      "title": "FUTURE OF NAM",
+      "sequence_number": 8,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    }
+  ],
+  "stray_leaves": [
+    {
+      "title": "NON-ALIGNED MOVEMENT",
+      "insert_after_index": 0,
+      "micro_topics": [],
+      "has_notes": true
+    }
+  ]
+}

@@ -41,6 +41,20 @@
       "has_notes": true
     },
     {
+      "path": "Medieval India (B) The Delhi Sultanate > The Khilji Dynasty > Alauddin Khilji > Market Regulations",
+      "path_titles": [
+        "Medieval India (B) The Delhi Sultanate",
+        "The Khilji Dynasty",
+        "Alauddin Khilji",
+        "Market Regulations"
+      ],
+      "title": "Market Regulations",
+      "sequence_number": 1,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
       "path": "Medieval India (B) The Delhi Sultanate > The Khilji Dynasty > Alauddin Khilji > Deccan Expedition",
       "path_titles": [
         "Medieval India (B) The Delhi Sultanate",
@@ -49,7 +63,7 @@
         "Deccan Expedition"
       ],
       "title": "Deccan Expedition",
-      "sequence_number": 1,
+      "sequence_number": 2,
       "depth": 3,
       "level_label": "Point",
       "has_notes": true
@@ -63,10 +77,10 @@
         "Measures against Nobility"
       ],
       "title": "Measures against Nobility",
-      "sequence_number": 2,
+      "sequence_number": 3,
       "depth": 3,
       "level_label": "Point",
-      "has_notes": false
+      "has_notes": true
     },
     {
       "path": "Medieval India (B) The Delhi Sultanate > The Khilji Dynasty > Alauddin Khilji > Military Reforms",
@@ -77,7 +91,7 @@
         "Military Reforms"
       ],
       "title": "Military Reforms",
-      "sequence_number": 3,
+      "sequence_number": 4,
       "depth": 3,
       "level_label": "Point",
       "has_notes": true
@@ -91,101 +105,80 @@
         "Revenue Reforms"
       ],
       "title": "Revenue Reforms",
+      "sequence_number": 5,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "Medieval India (B) The Delhi Sultanate > Tughlaq Dynasty > Muhammad Bin Tughlaq > Transfer of Capital",
+      "path_titles": [
+        "Medieval India (B) The Delhi Sultanate",
+        "Tughlaq Dynasty",
+        "Muhammad Bin Tughlaq",
+        "Transfer of Capital"
+      ],
+      "title": "Transfer of Capital",
+      "sequence_number": 1,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "Medieval India (B) The Delhi Sultanate > Tughlaq Dynasty > Muhammad Bin Tughlaq > Token Currency",
+      "path_titles": [
+        "Medieval India (B) The Delhi Sultanate",
+        "Tughlaq Dynasty",
+        "Muhammad Bin Tughlaq",
+        "Token Currency"
+      ],
+      "title": "Token Currency",
+      "sequence_number": 2,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "Medieval India (B) The Delhi Sultanate > Tughlaq Dynasty > Muhammad Bin Tughlaq > Taxation in Doab",
+      "path_titles": [
+        "Medieval India (B) The Delhi Sultanate",
+        "Tughlaq Dynasty",
+        "Muhammad Bin Tughlaq",
+        "Taxation in Doab"
+      ],
+      "title": "Taxation in Doab",
+      "sequence_number": 3,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "Medieval India (B) The Delhi Sultanate > Tughlaq Dynasty > Muhammad Bin Tughlaq > Plan of Conquests",
+      "path_titles": [
+        "Medieval India (B) The Delhi Sultanate",
+        "Tughlaq Dynasty",
+        "Muhammad Bin Tughlaq",
+        "Plan of Conquests"
+      ],
+      "title": "Plan of Conquests",
       "sequence_number": 4,
       "depth": 3,
       "level_label": "Point",
       "has_notes": true
     },
     {
-      "path": "Medieval India (B) The Delhi Sultanate > Tughlaq Dynasty",
+      "path": "Medieval India (B) The Delhi Sultanate > Tughlaq Dynasty > Sultanate Administration",
       "path_titles": [
         "Medieval India (B) The Delhi Sultanate",
-        "Tughlaq Dynasty"
-      ],
-      "title": "Tughlaq Dynasty",
-      "sequence_number": 4,
-      "depth": 1,
-      "level_label": "Topic",
-      "has_notes": true
-    },
-    {
-      "path": "Medieval India (B) The Delhi Sultanate > Muhammad Bin Tughlaq > Transfer of Capital",
-      "path_titles": [
-        "Medieval India (B) The Delhi Sultanate",
-        "Muhammad Bin Tughlaq",
-        "Transfer of Capital"
-      ],
-      "title": "Transfer of Capital",
-      "sequence_number": 1,
-      "depth": 2,
-      "level_label": "Subtopic",
-      "has_notes": true
-    },
-    {
-      "path": "Medieval India (B) The Delhi Sultanate > Muhammad Bin Tughlaq > Token Currency",
-      "path_titles": [
-        "Medieval India (B) The Delhi Sultanate",
-        "Muhammad Bin Tughlaq",
-        "Token Currency"
-      ],
-      "title": "Token Currency",
-      "sequence_number": 2,
-      "depth": 2,
-      "level_label": "Subtopic",
-      "has_notes": true
-    },
-    {
-      "path": "Medieval India (B) The Delhi Sultanate > Muhammad Bin Tughlaq > Taxation in Doab",
-      "path_titles": [
-        "Medieval India (B) The Delhi Sultanate",
-        "Muhammad Bin Tughlaq",
-        "Taxation in Doab"
-      ],
-      "title": "Taxation in Doab",
-      "sequence_number": 3,
-      "depth": 2,
-      "level_label": "Subtopic",
-      "has_notes": true
-    },
-    {
-      "path": "Medieval India (B) The Delhi Sultanate > Muhammad Bin Tughlaq > Plan of Conquests",
-      "path_titles": [
-        "Medieval India (B) The Delhi Sultanate",
-        "Muhammad Bin Tughlaq",
-        "Plan of Conquests"
-      ],
-      "title": "Plan of Conquests",
-      "sequence_number": 4,
-      "depth": 2,
-      "level_label": "Subtopic",
-      "has_notes": true
-    },
-    {
-      "path": "Medieval India (B) The Delhi Sultanate > Muhammad Bin Tughlaq > Sultanate Administration",
-      "path_titles": [
-        "Medieval India (B) The Delhi Sultanate",
-        "Muhammad Bin Tughlaq",
+        "Tughlaq Dynasty",
         "Sultanate Administration"
       ],
       "title": "Sultanate Administration",
-      "sequence_number": 5,
+      "sequence_number": 2,
       "depth": 2,
       "level_label": "Subtopic",
       "has_notes": true
     }
   ],
-  "stray_leaves": [
-    {
-      "title": "Market Regulations",
-      "insert_after_index": 8,
-      "micro_topics": [],
-      "has_notes": true
-    },
-    {
-      "title": "Nobles",
-      "insert_after_index": 19,
-      "micro_topics": [],
-      "has_notes": true
-    }
-  ]
+  "stray_leaves": []
 }

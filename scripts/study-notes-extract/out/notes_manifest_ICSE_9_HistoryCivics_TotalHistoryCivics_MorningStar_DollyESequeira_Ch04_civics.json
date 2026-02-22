@@ -1,264 +1,289 @@
 {
   "syllabus_leaves": [
     {
-      "path": "Elections > Meaning of Elections",
+      "path": "Elections > Meaning",
       "path_titles": [
         "Elections",
-        "Meaning of Elections"
+        "Meaning"
       ],
-      "title": "Meaning of Elections",
+      "title": "Meaning",
       "sequence_number": 1,
       "depth": 1,
       "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "Elections > Kinds of Elections > Direct Elections",
+      "path": "Elections > Composition of Election Commission (in brief)",
       "path_titles": [
         "Elections",
-        "Kinds of Elections",
-        "Direct Elections"
+        "Composition of Election Commission (in brief)"
       ],
-      "title": "Direct Elections",
-      "sequence_number": 1,
-      "depth": 2,
-      "level_label": "Subtopic",
-      "has_notes": true
-    },
-    {
-      "path": "Elections > Kinds of Elections > Indirect Elections",
-      "path_titles": [
-        "Elections",
-        "Kinds of Elections",
-        "Indirect Elections"
-      ],
-      "title": "Indirect Elections",
+      "title": "Composition of Election Commission (in brief)",
       "sequence_number": 2,
-      "depth": 2,
-      "level_label": "Subtopic",
+      "depth": 1,
+      "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "Elections > Kinds of Elections > Mid-term Election",
+      "path": "Elections > Direct and Indirect election",
       "path_titles": [
         "Elections",
-        "Kinds of Elections",
-        "Mid-term Election"
+        "Direct and Indirect election"
       ],
-      "title": "Mid-term Election",
-      "sequence_number": 3,
-      "depth": 2,
-      "level_label": "Subtopic",
-      "has_notes": true
-    },
-    {
-      "path": "Elections > Kinds of Elections > By-Elections",
-      "path_titles": [
-        "Elections",
-        "Kinds of Elections",
-        "By-Elections"
-      ],
-      "title": "By-Elections",
-      "sequence_number": 4,
-      "depth": 2,
-      "level_label": "Subtopic",
-      "has_notes": true
-    },
-    {
-      "path": "Elections > Election Commission",
-      "path_titles": [
-        "Elections",
-        "Election Commission"
-      ],
-      "title": "Election Commission",
+      "title": "Direct and Indirect election",
       "sequence_number": 3,
       "depth": 1,
       "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "Elections > Composition of the Election Commission",
+      "path": "Elections > General election",
       "path_titles": [
         "Elections",
-        "Composition of the Election Commission"
+        "General election"
       ],
-      "title": "Composition of the Election Commission",
+      "title": "General election",
       "sequence_number": 4,
       "depth": 1,
       "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "Elections > Term of Office and Conditions of Service",
+      "path": "Elections > Mid-term election and By-election",
       "path_titles": [
         "Elections",
-        "Term of Office and Conditions of Service"
+        "Mid-term election and By-election"
       ],
-      "title": "Term of Office and Conditions of Service",
+      "title": "Mid-term election and By-election",
       "sequence_number": 5,
       "depth": 1,
       "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "Elections > Powers and Functions of the Election Commission > (a) Preparation of Electoral Rolls and Photo Identity Cards",
+      "path": "MEANING OF ELECTIONS",
       "path_titles": [
-        "Elections",
-        "Powers and Functions of the Election Commission",
+        "MEANING OF ELECTIONS"
+      ],
+      "title": "MEANING OF ELECTIONS",
+      "sequence_number": 2,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "KINDS OF ELECTIONS > DIRECT ELECTIONS",
+      "path_titles": [
+        "KINDS OF ELECTIONS",
+        "DIRECT ELECTIONS"
+      ],
+      "title": "DIRECT ELECTIONS",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "KINDS OF ELECTIONS > INDIRECT ELECTIONS",
+      "path_titles": [
+        "KINDS OF ELECTIONS",
+        "INDIRECT ELECTIONS"
+      ],
+      "title": "INDIRECT ELECTIONS",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "KINDS OF ELECTIONS > Election of the President and the Vice-President of India",
+      "path_titles": [
+        "KINDS OF ELECTIONS",
+        "Election of the President and the Vice-President of India"
+      ],
+      "title": "Election of the President and the Vice-President of India",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "KINDS OF ELECTIONS > GENERAL ELECTIONS",
+      "path_titles": [
+        "KINDS OF ELECTIONS",
+        "GENERAL ELECTIONS"
+      ],
+      "title": "GENERAL ELECTIONS",
+      "sequence_number": 4,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "KINDS OF ELECTIONS > MID-TERM ELECTION",
+      "path_titles": [
+        "KINDS OF ELECTIONS",
+        "MID-TERM ELECTION"
+      ],
+      "title": "MID-TERM ELECTION",
+      "sequence_number": 5,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "KINDS OF ELECTIONS > BY-ELECTIONS",
+      "path_titles": [
+        "KINDS OF ELECTIONS",
+        "BY-ELECTIONS"
+      ],
+      "title": "BY-ELECTIONS",
+      "sequence_number": 6,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "ELECTION COMMISSION",
+      "path_titles": [
+        "ELECTION COMMISSION"
+      ],
+      "title": "ELECTION COMMISSION",
+      "sequence_number": 4,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "COMPOSITION OF THE ELECTION COMMISSION",
+      "path_titles": [
+        "COMPOSITION OF THE ELECTION COMMISSION"
+      ],
+      "title": "COMPOSITION OF THE ELECTION COMMISSION",
+      "sequence_number": 5,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "TERM OF OFFICE AND CONDITIONS OF SERVICE",
+      "path_titles": [
+        "TERM OF OFFICE AND CONDITIONS OF SERVICE"
+      ],
+      "title": "TERM OF OFFICE AND CONDITIONS OF SERVICE",
+      "sequence_number": 6,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "POWERS AND FUNCTIONS OF THE ELECTION COMMISSION > (a) Preparation of Electoral Rolls and Photo Identity Cards",
+      "path_titles": [
+        "POWERS AND FUNCTIONS OF THE ELECTION COMMISSION",
         "(a) Preparation of Electoral Rolls and Photo Identity Cards"
       ],
       "title": "(a) Preparation of Electoral Rolls and Photo Identity Cards",
       "sequence_number": 1,
-      "depth": 2,
-      "level_label": "Subtopic",
+      "depth": 1,
+      "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "Elections > Powers and Functions of the Election Commission > (b) Registration and Recognition of Political Parties",
+      "path": "POWERS AND FUNCTIONS OF THE ELECTION COMMISSION > (b) Registration and Recognition of Political Parties",
       "path_titles": [
-        "Elections",
-        "Powers and Functions of the Election Commission",
+        "POWERS AND FUNCTIONS OF THE ELECTION COMMISSION",
         "(b) Registration and Recognition of Political Parties"
       ],
       "title": "(b) Registration and Recognition of Political Parties",
       "sequence_number": 2,
-      "depth": 2,
-      "level_label": "Subtopic",
+      "depth": 1,
+      "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "Elections > Powers and Functions of the Election Commission > (c) Allotment of Symbols",
+      "path": "POWERS AND FUNCTIONS OF THE ELECTION COMMISSION > (c) Allotment of Symbols",
       "path_titles": [
-        "Elections",
-        "Powers and Functions of the Election Commission",
+        "POWERS AND FUNCTIONS OF THE ELECTION COMMISSION",
         "(c) Allotment of Symbols"
       ],
       "title": "(c) Allotment of Symbols",
       "sequence_number": 3,
-      "depth": 2,
-      "level_label": "Subtopic",
+      "depth": 1,
+      "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "Elections > Powers and Functions of the Election Commission > (d) Fixing Dates and Conducting Elections",
+      "path": "POWERS AND FUNCTIONS OF THE ELECTION COMMISSION > (d) Fixing Dates and Conducting Elections",
       "path_titles": [
-        "Elections",
-        "Powers and Functions of the Election Commission",
+        "POWERS AND FUNCTIONS OF THE ELECTION COMMISSION",
         "(d) Fixing Dates and Conducting Elections"
       ],
       "title": "(d) Fixing Dates and Conducting Elections",
       "sequence_number": 4,
-      "depth": 2,
-      "level_label": "Subtopic",
+      "depth": 1,
+      "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "Elections > Powers and Functions of the Election Commission > (e) Ensuring Free and Fair Elections > (i) The Commission may send Central observers to the constituencies where there is danger of violence or booth capturing.",
+      "path": "POWERS AND FUNCTIONS OF THE ELECTION COMMISSION > (e) Ensuring Free and Fair Elections",
       "path_titles": [
-        "Elections",
-        "Powers and Functions of the Election Commission",
-        "(e) Ensuring Free and Fair Elections",
-        "(i) The Commission may send Central observers to the constituencies where there is danger of violence or booth capturing."
+        "POWERS AND FUNCTIONS OF THE ELECTION COMMISSION",
+        "(e) Ensuring Free and Fair Elections"
       ],
-      "title": "(i) The Commission may send Central observers to the constituencies where there is danger of violence or booth capturing.",
-      "sequence_number": 1,
-      "depth": 3,
-      "level_label": "Point",
+      "title": "(e) Ensuring Free and Fair Elections",
+      "sequence_number": 5,
+      "depth": 1,
+      "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "Elections > Powers and Functions of the Election Commission > (e) Ensuring Free and Fair Elections > (ii) The Commission countermands polling where it has reasonable doubt that some malpractices have occurred.",
+      "path": "POWERS AND FUNCTIONS OF THE ELECTION COMMISSION > (f) Appointment of Polling Officers",
       "path_titles": [
-        "Elections",
-        "Powers and Functions of the Election Commission",
-        "(e) Ensuring Free and Fair Elections",
-        "(ii) The Commission countermands polling where it has reasonable doubt that some malpractices have occurred."
-      ],
-      "title": "(ii) The Commission countermands polling where it has reasonable doubt that some malpractices have occurred.",
-      "sequence_number": 2,
-      "depth": 3,
-      "level_label": "Point",
-      "has_notes": true
-    },
-    {
-      "path": "Elections > Powers and Functions of the Election Commission > (e) Ensuring Free and Fair Elections > (iii) In terms of the recent amendments to Representative of Peoples Act the Commission prescribes severe punishment for booth capturing.",
-      "path_titles": [
-        "Elections",
-        "Powers and Functions of the Election Commission",
-        "(e) Ensuring Free and Fair Elections",
-        "(iii) In terms of the recent amendments to Representative of Peoples Act the Commission prescribes severe punishment for booth capturing."
-      ],
-      "title": "(iii) In terms of the recent amendments to Representative of Peoples Act the Commission prescribes severe punishment for booth capturing.",
-      "sequence_number": 3,
-      "depth": 3,
-      "level_label": "Point",
-      "has_notes": true
-    },
-    {
-      "path": "Elections > Powers and Functions of the Election Commission > (f) Appointment of Polling Officers",
-      "path_titles": [
-        "Elections",
-        "Powers and Functions of the Election Commission",
+        "POWERS AND FUNCTIONS OF THE ELECTION COMMISSION",
         "(f) Appointment of Polling Officers"
       ],
       "title": "(f) Appointment of Polling Officers",
       "sequence_number": 6,
-      "depth": 2,
-      "level_label": "Subtopic",
+      "depth": 1,
+      "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "Elections > Powers and Functions of the Election Commission > (g) Scrutiny of Nomination Papers",
+      "path": "POWERS AND FUNCTIONS OF THE ELECTION COMMISSION > (g) Scrutiny of Nomination Papers",
       "path_titles": [
-        "Elections",
-        "Powers and Functions of the Election Commission",
+        "POWERS AND FUNCTIONS OF THE ELECTION COMMISSION",
         "(g) Scrutiny of Nomination Papers"
       ],
       "title": "(g) Scrutiny of Nomination Papers",
       "sequence_number": 7,
-      "depth": 2,
-      "level_label": "Subtopic",
+      "depth": 1,
+      "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "Elections > Powers and Functions of the Election Commission > (h) Scrutiny of Election Expenses",
+      "path": "POWERS AND FUNCTIONS OF THE ELECTION COMMISSION > (h) Scrutiny of Election Expenses",
       "path_titles": [
-        "Elections",
-        "Powers and Functions of the Election Commission",
+        "POWERS AND FUNCTIONS OF THE ELECTION COMMISSION",
         "(h) Scrutiny of Election Expenses"
       ],
       "title": "(h) Scrutiny of Election Expenses",
       "sequence_number": 8,
-      "depth": 2,
-      "level_label": "Subtopic",
+      "depth": 1,
+      "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "Elections > Powers and Functions of the Election Commission > (i) Advisory Functions",
+      "path": "POWERS AND FUNCTIONS OF THE ELECTION COMMISSION > (i) Advisory Functions",
       "path_titles": [
-        "Elections",
-        "Powers and Functions of the Election Commission",
+        "POWERS AND FUNCTIONS OF THE ELECTION COMMISSION",
         "(i) Advisory Functions"
       ],
       "title": "(i) Advisory Functions",
       "sequence_number": 9,
-      "depth": 2,
-      "level_label": "Subtopic",
+      "depth": 1,
+      "level_label": "Topic",
       "has_notes": true
     }
   ],
-  "stray_leaves": [
-    {
-      "title": "GENERAL ELECTIONS",
-      "insert_after_index": 4,
-      "micro_topics": [],
-      "has_notes": true
-    },
-    {
-      "title": "TERMS TO REMEMBER",
-      "insert_after_index": 22,
-      "micro_topics": [],
-      "has_notes": true
-    }
-  ]
+  "stray_leaves": []
 }

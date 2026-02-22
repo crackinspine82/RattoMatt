@@ -1,0 +1,642 @@
+{
+  "syllabus_leaves": [
+    {
+      "path": "CAUSES OF THE FIRST WAR OF INDEPENDENCE > Political Causes > Policy of Expansion > By Outright Wars",
+      "path_titles": [
+        "CAUSES OF THE FIRST WAR OF INDEPENDENCE",
+        "Political Causes",
+        "Policy of Expansion",
+        "By Outright Wars"
+      ],
+      "title": "By Outright Wars",
+      "sequence_number": 1,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "CAUSES OF THE FIRST WAR OF INDEPENDENCE > Political Causes > Policy of Expansion > By Subsidiary Alliance",
+      "path_titles": [
+        "CAUSES OF THE FIRST WAR OF INDEPENDENCE",
+        "Political Causes",
+        "Policy of Expansion",
+        "By Subsidiary Alliance"
+      ],
+      "title": "By Subsidiary Alliance",
+      "sequence_number": 2,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "CAUSES OF THE FIRST WAR OF INDEPENDENCE > Political Causes > Policy of Expansion > By Using the Doctrine of Lapse",
+      "path_titles": [
+        "CAUSES OF THE FIRST WAR OF INDEPENDENCE",
+        "Political Causes",
+        "Policy of Expansion",
+        "By Using the Doctrine of Lapse"
+      ],
+      "title": "By Using the Doctrine of Lapse",
+      "sequence_number": 3,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "CAUSES OF THE FIRST WAR OF INDEPENDENCE > Political Causes > Policy of Expansion > On the Pretext of Alleged Misrule",
+      "path_titles": [
+        "CAUSES OF THE FIRST WAR OF INDEPENDENCE",
+        "Political Causes",
+        "Policy of Expansion",
+        "On the Pretext of Alleged Misrule"
+      ],
+      "title": "On the Pretext of Alleged Misrule",
+      "sequence_number": 4,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "CAUSES OF THE FIRST WAR OF INDEPENDENCE > Disrespect Shown to Bahadur Shah",
+      "path_titles": [
+        "CAUSES OF THE FIRST WAR OF INDEPENDENCE",
+        "Disrespect Shown to Bahadur Shah"
+      ],
+      "title": "Disrespect Shown to Bahadur Shah",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "CAUSES OF THE FIRST WAR OF INDEPENDENCE > Treatment Given to Nana Saheb",
+      "path_titles": [
+        "CAUSES OF THE FIRST WAR OF INDEPENDENCE",
+        "Treatment Given to Nana Saheb"
+      ],
+      "title": "Treatment Given to Nana Saheb",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "CAUSES OF THE FIRST WAR OF INDEPENDENCE > Absentee Sovereignty of the British",
+      "path_titles": [
+        "CAUSES OF THE FIRST WAR OF INDEPENDENCE",
+        "Absentee Sovereignty of the British"
+      ],
+      "title": "Absentee Sovereignty of the British",
+      "sequence_number": 4,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Socio-Religious Causes > Interference with Social Customs",
+      "path_titles": [
+        "Socio-Religious Causes",
+        "Interference with Social Customs"
+      ],
+      "title": "Interference with Social Customs",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Socio-Religious Causes > Apprehensions about Modern Innovations",
+      "path_titles": [
+        "Socio-Religious Causes",
+        "Apprehensions about Modern Innovations"
+      ],
+      "title": "Apprehensions about Modern Innovations",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Socio-Religious Causes > Policy of Racial Discrimination",
+      "path_titles": [
+        "Socio-Religious Causes",
+        "Policy of Racial Discrimination"
+      ],
+      "title": "Policy of Racial Discrimination",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Socio-Religious Causes > Corruption in Administration",
+      "path_titles": [
+        "Socio-Religious Causes",
+        "Corruption in Administration"
+      ],
+      "title": "Corruption in Administration",
+      "sequence_number": 4,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Socio-Religious Causes > Oppression of the Poor",
+      "path_titles": [
+        "Socio-Religious Causes",
+        "Oppression of the Poor"
+      ],
+      "title": "Oppression of the Poor",
+      "sequence_number": 5,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Socio-Religious Causes > Activities of Missionaries",
+      "path_titles": [
+        "Socio-Religious Causes",
+        "Activities of Missionaries"
+      ],
+      "title": "Activities of Missionaries",
+      "sequence_number": 6,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Socio-Religious Causes > Fears Regarding Western Education",
+      "path_titles": [
+        "Socio-Religious Causes",
+        "Fears Regarding Western Education"
+      ],
+      "title": "Fears Regarding Western Education",
+      "sequence_number": 7,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Socio-Religious Causes > Taxing Religious Places",
+      "path_titles": [
+        "Socio-Religious Causes",
+        "Taxing Religious Places"
+      ],
+      "title": "Taxing Religious Places",
+      "sequence_number": 8,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Socio-Religious Causes > Law of Property",
+      "path_titles": [
+        "Socio-Religious Causes",
+        "Law of Property"
+      ],
+      "title": "Law of Property",
+      "sequence_number": 9,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Economic Causes > Exploitation of Economic Resources",
+      "path_titles": [
+        "Economic Causes",
+        "Exploitation of Economic Resources"
+      ],
+      "title": "Exploitation of Economic Resources",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Economic Causes > Drain of Wealth",
+      "path_titles": [
+        "Economic Causes",
+        "Drain of Wealth"
+      ],
+      "title": "Drain of Wealth",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Economic Causes > Decay of Cottage Industries and Handicrafts",
+      "path_titles": [
+        "Economic Causes",
+        "Decay of Cottage Industries and Handicrafts"
+      ],
+      "title": "Decay of Cottage Industries and Handicrafts",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Economic Causes > Economic Decline of Peasantry",
+      "path_titles": [
+        "Economic Causes",
+        "Economic Decline of Peasantry"
+      ],
+      "title": "Economic Decline of Peasantry",
+      "sequence_number": 4,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Economic Causes > Growing Unemployment",
+      "path_titles": [
+        "Economic Causes",
+        "Growing Unemployment"
+      ],
+      "title": "Growing Unemployment",
+      "sequence_number": 5,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Economic Causes > Inhuman Treatment of Indigo Cultivators",
+      "path_titles": [
+        "Economic Causes",
+        "Inhuman Treatment of Indigo Cultivators"
+      ],
+      "title": "Inhuman Treatment of Indigo Cultivators",
+      "sequence_number": 6,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Economic Causes > Poverty and Famines",
+      "path_titles": [
+        "Economic Causes",
+        "Poverty and Famines"
+      ],
+      "title": "Poverty and Famines",
+      "sequence_number": 7,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Economic Causes > Decline of Landed Aristocracy",
+      "path_titles": [
+        "Economic Causes",
+        "Decline of Landed Aristocracy"
+      ],
+      "title": "Decline of Landed Aristocracy",
+      "sequence_number": 8,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Military Causes > Ill-treatment of Indian soldiers",
+      "path_titles": [
+        "Military Causes",
+        "Ill-treatment of Indian soldiers"
+      ],
+      "title": "Ill-treatment of Indian soldiers",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Military Causes > General Service Enlistment Act",
+      "path_titles": [
+        "Military Causes",
+        "General Service Enlistment Act"
+      ],
+      "title": "General Service Enlistment Act",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Military Causes > Larger Proportion of Indians in the British Army",
+      "path_titles": [
+        "Military Causes",
+        "Larger Proportion of Indians in the British Army"
+      ],
+      "title": "Larger Proportion of Indians in the British Army",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Military Causes > Bleak Prospects of Promotions",
+      "path_titles": [
+        "Military Causes",
+        "Bleak Prospects of Promotions"
+      ],
+      "title": "Bleak Prospects of Promotions",
+      "sequence_number": 4,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Military Causes > Deprivation of Allowances",
+      "path_titles": [
+        "Military Causes",
+        "Deprivation of Allowances"
+      ],
+      "title": "Deprivation of Allowances",
+      "sequence_number": 5,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Military Causes > Faulty Distribution of Troops",
+      "path_titles": [
+        "Military Causes",
+        "Faulty Distribution of Troops"
+      ],
+      "title": "Faulty Distribution of Troops",
+      "sequence_number": 6,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Military Causes > Poor Performance of British Troops",
+      "path_titles": [
+        "Military Causes",
+        "Poor Performance of British Troops"
+      ],
+      "title": "Poor Performance of British Troops",
+      "sequence_number": 7,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Military Causes > Lower Salaries",
+      "path_titles": [
+        "Military Causes",
+        "Lower Salaries"
+      ],
+      "title": "Lower Salaries",
+      "sequence_number": 8,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "IMMEDIATE CAUSE > Introduction of the Enfield Rifle",
+      "path_titles": [
+        "IMMEDIATE CAUSE",
+        "Introduction of the Enfield Rifle"
+      ],
+      "title": "Introduction of the Enfield Rifle",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "BEGINNING OF THE UPRISING",
+      "path_titles": [
+        "BEGINNING OF THE UPRISING"
+      ],
+      "title": "BEGINNING OF THE UPRISING",
+      "sequence_number": 6,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "*MAIN EVENTS > Events at Meerut",
+      "path_titles": [
+        "*MAIN EVENTS",
+        "Events at Meerut"
+      ],
+      "title": "Events at Meerut",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "*MAIN EVENTS > Events at Delhi",
+      "path_titles": [
+        "*MAIN EVENTS",
+        "Events at Delhi"
+      ],
+      "title": "Events at Delhi",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "*MAIN EVENTS > Events at Lucknow",
+      "path_titles": [
+        "*MAIN EVENTS",
+        "Events at Lucknow"
+      ],
+      "title": "Events at Lucknow",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "*MAIN EVENTS > Events at Kanpur",
+      "path_titles": [
+        "*MAIN EVENTS",
+        "Events at Kanpur"
+      ],
+      "title": "Events at Kanpur",
+      "sequence_number": 4,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "*MAIN EVENTS > Events in Central India (Jhansi and Gwalior)",
+      "path_titles": [
+        "*MAIN EVENTS",
+        "Events in Central India (Jhansi and Gwalior)"
+      ],
+      "title": "Events in Central India (Jhansi and Gwalior)",
+      "sequence_number": 5,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "*MAIN EVENTS > Events at Other Centres",
+      "path_titles": [
+        "*MAIN EVENTS",
+        "Events at Other Centres"
+      ],
+      "title": "Events at Other Centres",
+      "sequence_number": 6,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "CONSEQUENCES OF THE FIRST WAR OF INDEPENDENCE > Changes in Administration > End of the Company's Rule",
+      "path_titles": [
+        "CONSEQUENCES OF THE FIRST WAR OF INDEPENDENCE",
+        "Changes in Administration",
+        "End of the Company's Rule"
+      ],
+      "title": "End of the Company's Rule",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "CONSEQUENCES OF THE FIRST WAR OF INDEPENDENCE > Policy of Divide and Rule",
+      "path_titles": [
+        "CONSEQUENCES OF THE FIRST WAR OF INDEPENDENCE",
+        "Policy of Divide and Rule"
+      ],
+      "title": "Policy of Divide and Rule",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "CONSEQUENCES OF THE FIRST WAR OF INDEPENDENCE > Racial Antagonism",
+      "path_titles": [
+        "CONSEQUENCES OF THE FIRST WAR OF INDEPENDENCE",
+        "Racial Antagonism"
+      ],
+      "title": "Racial Antagonism",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "CONSEQUENCES OF THE FIRST WAR OF INDEPENDENCE > Foreign Policy",
+      "path_titles": [
+        "CONSEQUENCES OF THE FIRST WAR OF INDEPENDENCE",
+        "Foreign Policy"
+      ],
+      "title": "Foreign Policy",
+      "sequence_number": 4,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "CONSEQUENCES OF THE FIRST WAR OF INDEPENDENCE > Religious Changes",
+      "path_titles": [
+        "CONSEQUENCES OF THE FIRST WAR OF INDEPENDENCE",
+        "Religious Changes"
+      ],
+      "title": "Religious Changes",
+      "sequence_number": 5,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "CONSEQUENCES OF THE FIRST WAR OF INDEPENDENCE > Economic Exploitation",
+      "path_titles": [
+        "CONSEQUENCES OF THE FIRST WAR OF INDEPENDENCE",
+        "Economic Exploitation"
+      ],
+      "title": "Economic Exploitation",
+      "sequence_number": 6,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "CONSEQUENCES OF THE FIRST WAR OF INDEPENDENCE > Queen Victoria's Proclamation",
+      "path_titles": [
+        "CONSEQUENCES OF THE FIRST WAR OF INDEPENDENCE",
+        "Queen Victoria's Proclamation"
+      ],
+      "title": "Queen Victoria's Proclamation",
+      "sequence_number": 7,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "CONSEQUENCES OF THE FIRST WAR OF INDEPENDENCE > Relations with Princely States",
+      "path_titles": [
+        "CONSEQUENCES OF THE FIRST WAR OF INDEPENDENCE",
+        "Relations with Princely States"
+      ],
+      "title": "Relations with Princely States",
+      "sequence_number": 8,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "CONSEQUENCES OF THE FIRST WAR OF INDEPENDENCE > Changes in the Army",
+      "path_titles": [
+        "CONSEQUENCES OF THE FIRST WAR OF INDEPENDENCE",
+        "Changes in the Army"
+      ],
+      "title": "Changes in the Army",
+      "sequence_number": 9,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "CONSEQUENCES OF THE FIRST WAR OF INDEPENDENCE > THE DELHI DURBAR OF 1877",
+      "path_titles": [
+        "CONSEQUENCES OF THE FIRST WAR OF INDEPENDENCE",
+        "THE DELHI DURBAR OF 1877"
+      ],
+      "title": "THE DELHI DURBAR OF 1877",
+      "sequence_number": 10,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "DRAWBACKS OF THE FIRST WAR OF INDEPENDENCE",
+      "path_titles": [
+        "DRAWBACKS OF THE FIRST WAR OF INDEPENDENCE"
+      ],
+      "title": "DRAWBACKS OF THE FIRST WAR OF INDEPENDENCE",
+      "sequence_number": 9,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "Nature of the War",
+      "path_titles": [
+        "Nature of the War"
+      ],
+      "title": "Nature of the War",
+      "sequence_number": 10,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    }
+  ],
+  "stray_leaves": [
+    {
+      "title": "Chronology of Events",
+      "insert_after_index": 55,
+      "micro_topics": [],
+      "has_notes": true
+    }
+  ]
+}

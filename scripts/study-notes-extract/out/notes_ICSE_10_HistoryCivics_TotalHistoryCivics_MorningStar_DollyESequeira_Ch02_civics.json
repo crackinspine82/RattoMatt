@@ -1,0 +1,1354 @@
+{
+  "board": "ICSE",
+  "grade": 10,
+  "subject": "HistoryCivics",
+  "book_slug": "TotalHistoryCivics_MorningStar_DollyESequeira",
+  "book_meta": {
+    "book_name": "Total History & Civics",
+    "publication": "Morning Star",
+    "author": "Dolly E. Sequeira"
+  },
+  "chapter_sequence_number": 2,
+  "chapter_title": "The Union Parliament II",
+  "discipline": "civics",
+  "reconciliation": {
+    "outline": [
+      "RAJYA SABHA",
+      "Composition",
+      "Elected Members",
+      "Nominated Members",
+      "Qualifications for Membership",
+      "Disqualification of Membership",
+      "Election",
+      "Term",
+      "Presiding Officers",
+      "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+      "Legislative Powers",
+      "1. Matters in the Union List",
+      "2. Matters in the Concurrent List",
+      "3. Residuary Powers",
+      "4. Matters in the State List",
+      "5. Ordinances",
+      "6. Powers during Emergency",
+      "Financial Powers",
+      "1. The Budget",
+      "2. Supplementary Grants",
+      "3. Vote on Account",
+      "4. Salaries",
+      "5. Permission for Taxes",
+      "Judicial Powers",
+      "1. Impeachment of the President",
+      "2. Removal of Judges, etc",
+      "3. Punishment",
+      "Electoral Functions",
+      "Amendment of the Constitution",
+      "Control over the Executive",
+      "1. Interpellation",
+      "2. Motions of Censure",
+      "3. Monetary Controls",
+      "Other Powers",
+      "Exclusive Powers of the Lok Sabha",
+      "Exclusive Powers of the Rajya Sabha",
+      "RELATIONSHIP BETWEEN THE TWO HOUSES OF THE PARLIAMENT",
+      "Difference over the Legislative Matters",
+      "1. Ordinary Bills",
+      "2. Money Bills",
+      "Control over the Executive",
+      "Election of the President and the Vice-President",
+      "Impeachment",
+      "Emergency Provision"
+    ],
+    "in_syllabus_only": [],
+    "in_pdf_only": [],
+    "additional_sections": []
+  },
+  "nodes": [
+    {
+      "title": "Rajya Sabha",
+      "sequence_number": 1,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "Composition",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **maximum strength** of the **Rajya Sabha** can be **250 members**. The members fall into two categories—**elected** and **nominated**."
+            }
+          ]
+        },
+        {
+          "title": "Elected Members",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**Elected Members**: **238 members** are elected by the States in the Union. The allocation of seats among the States is not equal, as this would be undemocratic. **Seats are allocated to the States and the Union Territories on the basis of their population**. Thus, Uttar Pradesh is represented in the Rajya Sabha by **31 members**, Punjab sends **seven** members and Goa, Manipur, Meghalaya and Mizoram **one each**. The Union Territory of Delhi sends **three members**, whereas Puducherry sends **one member** and Jammu and Kashmir sends **four members**."
+            }
+          ]
+        },
+        {
+          "title": "Nominated Members",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**Nominated Members**: They are nominated by the **President** from among persons having **special knowledge or practical experience** in matters such as: literature, science, art and social service. The nominated members are **12 in number**.\n\nThe principle of nomination is aimed at having distinguished persons in the Upper Chamber. In the past, many eminent persons have been nominated by the President to the Rajya Sabha like **Raja Ramanna** (nuclear scientist), **Mrinal Sen** (film producer), **Hema Malini** (actress), **Kartar Singh Duggal** (writer) and **Nirmala Deshpande** (social worker), etc."
+            }
+          ]
+        },
+        {
+          "title": "Qualifications for Membership",
+          "sequence_number": 4,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**Qualifications** and disqualification for membership of the **Rajya Sabha** are the same as those for membership of the **Lok Sabha** except that of the age criteria. The minimum age for contesting election for the Rajya Sabha is **30 years**. The qualifications for membership of Rajya Sabha are given below:"
+            },
+            {
+              "content_md": "1. He/She should be an **Indian citizen**.\n2. He/She should be at least **30 years of age**.\n3. He/She should have his name in the **electoral rolls** in some part of the country.\n4. He/She should not be an **insolvent**, i.e., he/she should not be in debt and should have the ability to meet his/her financial commitments.\n5. He/She should not hold any **office of profit** under the government.\n6. He/She should not be a **proclaimed criminal**.\n7. He/She should not be of **unsound mind**."
+            }
+          ]
+        },
+        {
+          "title": "Disqualification of Membership",
+          "sequence_number": 5,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "Same conditions as for **Lok Sabha**."
+            }
+          ]
+        },
+        {
+          "title": "Election",
+          "sequence_number": 6,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The representatives of each State in the Rajya Sabha are elected by the **elected members of the Legislative Assembly** of each State in accordance with the system of **proportional representation** by means of a **single transferable vote**. The representatives of the Union Territories are chosen in such a manner as Parliament may prescribe. The three representatives from Delhi are elected by the members of the Legislative Assembly."
+            }
+          ]
+        },
+        {
+          "title": "Term",
+          "sequence_number": 7,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **Rajya Sabha** is a **permanent House**. It cannot be **dissolved** like the **Lok Sabha**. Each member of the Rajya Sabha is elected for a period of **six years**. **One-third** of the total members of the House **retire after every two years**. Members can be **re-elected** if they so desire and if their electors support them."
+            }
+          ]
+        },
+        {
+          "title": "Presiding Officers",
+          "sequence_number": 8,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "1.",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **Upper House** or the **Council of States** is known as the '**Rajya Sabha**'. It represents the **federation of States** of the Indian Union."
+                }
+              ]
+            },
+            {
+              "title": "2.",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "### POWERS AND FUNCTIONS OF THE UNION PARLIAMENT\n\nThe **Parliament of India** comprises the **President**, the **Lok Sabha** and the **Rajya Sabha**. The two houses of Parliament are not competing centres of power but are co-partners in the functioning of government. They enjoy equal power and status in all spheres except in financial matters and in terms of the responsibility of the **Council of Ministers**, which are exclusively in the domain of the Lok Sabha.\n\nRajya Sabha has equal powers with Lok Sabha in important matters like the **impeachment of the President**, removal of the **Vice-President**, **Constitutional amendments** and removal of the **Judges of the Supreme Court** and the **High Courts**. Every **Presidential Ordinance**, **proclamation of Emergency** and proclamation of the failure of constitutional machinery in a State must be placed before both Houses of Parliament. In case of disagreement between the two Houses, a **joint sitting** of the two Houses is convened, where matters are decided by majority vote."
+                },
+                {
+                  "content_md": "[Image: Rajya Sabha Chamber]\n\nParliament. In case of disagreement between the two Houses, a joint sitting of the two Houses is convened, where matters are decided by majority vote."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        }
+      ],
+      "content_blocks": []
+    },
+    {
+      "title": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+      "sequence_number": 2,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "Legislative Powers",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "1. Matters in the Union List",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **Parliament** has **exclusive powers** to make laws on all the subjects mentioned in the **Union List**, including important subjects like **Defence**, **Banking**, **Communications**, **Foreign Affairs**, etc."
+                }
+              ]
+            },
+            {
+              "title": "2. Matters in the Concurrent List",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Along with the **State Legislative Assemblies**, the **Parliament** can make laws on the subjects listed in the **Concurrent List**, for example **education, forests, adoption, succession, trade union**. If there is a conflict between the Union Parliament and the State Legislature on any law in this list, the **Union Law will prevail**."
+                }
+              ]
+            },
+            {
+              "title": "3. Residuary Powers",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The Parliament possesses **residuary powers**. It means that it can make laws with respect to all those matters which are not mentioned in any of the three Lists — the **Union List**, the **State List** and the **Concurrent List**."
+                }
+              ]
+            },
+            {
+              "title": "4. Matters in the State List",
+              "sequence_number": 4,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [
+                {
+                  "title": "(a)",
+                  "sequence_number": 1,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "**Ordinary Bills**: **Ordinary Bills** may originate in either House. If there is disagreement between the two Houses, the bill is referred to a **joint-sitting** of both the Houses. In such cases both the Houses are placed on an equal footing. However, the Rajya Sabha is in a weaker position, since the total membership of Rajya Sabha is less than even half of the total strength of the Lok Sabha. Besides, the **joint session** is presided over by the **Speaker of the Lok Sabha**."
+                    }
+                  ]
+                },
+                {
+                  "title": "(b)",
+                  "sequence_number": 2,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "### 2. Money Bills\n\nIn case of **Money Bills**, the **Rajya Sabha** has virtually no powers. It cannot reject a **Money Bill** nor amend it by virtue of its own powers. It must, within the stipulated period of **14 days**, return the Bill to the **Lok Sabha**, which may thereupon either accept or reject all or any of the recommendations of the Rajya Sabha."
+                    }
+                  ]
+                },
+                {
+                  "title": "(c)",
+                  "sequence_number": 3,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": ""
+                    }
+                  ]
+                }
+              ],
+              "content_blocks": []
+            },
+            {
+              "title": "5. Ordinances",
+              "sequence_number": 5,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **President** is empowered to promulgate an **Ordinance** at a time when the **Parliament is not in session**. It has the same effect as an Act. All Ordinances must be put up before both the Houses for their approval. Ordinances cease to operate after **six weeks** from the re-assembly of Parliament, unless they are approved by the Houses."
+                }
+              ]
+            },
+            {
+              "title": "6. Powers during Emergency",
+              "sequence_number": 6,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "When there is a **total breakdown of the Constitutional machinery** in a State, a **state of Emergency** is declared in the State. During the period of Emergency, the **Parliament becomes the legislature** in the State concerned and **assumes all powers**, including the financial powers of passing the State budget."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "Financial Powers",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "1. The Budget",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The Parliament passes the **Union Budget** containing the **estimates of receipts and expenditure** of the Government for a **financial year**. The **Railway Budget** was integrated with the **Union Budget** from **2017-18**."
+                }
+              ]
+            },
+            {
+              "title": "2. Supplementary Grants",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "If the amount authorised for the current financial year is not sufficient, the Government may make a fresh demand known as the **'Supplementary Grant'**."
+                }
+              ]
+            },
+            {
+              "title": "3. Vote on Account",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "If the **Union Budget** is not passed before the beginning of the **new financial year**, i.e., **April 1**, there would be no money for the **Executive** to spend. There is, therefore, a device known as ‘**Vote on Account**’ which authorises the **Executive** to draw funds from the **Consolidated Fund** until the Budget is passed by the Parliament."
+                }
+              ]
+            },
+            {
+              "title": "4. Salaries",
+              "sequence_number": 4,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The salaries and allowances of **MPs** and **Ministers** are determined by **Parliament**."
+                }
+              ]
+            },
+            {
+              "title": "5. Permission for Taxes",
+              "sequence_number": 5,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "No tax can be imposed or money spent by the government without the approval of the **Parliament**. In matters of finance the **Lok Sabha** enjoys more powers than the **Rajya Sabha**. **Money Bills** can be introduced only in the **Lok Sabha**. Once the **Money Bills** go to the **Rajya Sabha** they have to be sent back to the **Lok Sabha** within **14 days**. The **Lok Sabha** may accept or reject the recommendations of the **Rajya Sabha**."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "Judicial Powers",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "1. Impeachment of the President",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The Parliament performs some judicial functions. It has the right to remove the President from office through a procedure known as **‘impeachment’**. \n\nIn case of **violation of the Constitution** or **grave misconduct**, either House may frame charges against the President. If a resolution to this effect is passed by a **two-third majority of total membership** of the House and by the **majority of members present and voting**, the other House investigates the charges. If the other House too finds the President guilty, he may be impeached and removed from office."
+                }
+              ]
+            },
+            {
+              "title": "2. Removal of Judges, etc",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **Parliament** can remove the **Judges of the Supreme Court and the High Courts**, the **Chief Election Commissioner** and the **Comptroller and Auditor General of India**, if they are found guilty of violating provisions of the **Constitution**."
+                }
+              ]
+            },
+            {
+              "title": "3. Punishment",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **Parliament** can **punish** a person for **obstructing the work of Parliament** or **showing disrespect to the House**. In **1961**, the Parliament **reprimanded the Editor of the Blitz** for ridiculing a Member of Parliament."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "Electoral Functions",
+          "sequence_number": 4,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "1.",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": ""
+                }
+              ]
+            },
+            {
+              "title": "2.",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **Parliament of India** comprises the **President**, the **Lok Sabha** and the **Rajya Sabha**. The two houses of Parliament are not competing centres of power but are **co-partners** in the functioning of government. They enjoy equal power and status in all spheres except in financial matters and in terms of the responsibility of the **Council of Ministers**, which are exclusively in the domain of the Lok Sabha.\n\n**Rajya Sabha** has equal powers with **Lok Sabha** in important matters like the **impeachment of the President**, removal of the **Vice-President**, **Constitutional amendments** and removal of the Judges of the Supreme Court and the High Courts. Every **Presidential Ordinance**, **proclamation of Emergency** and proclamation of the failure of constitutional machinery in a State must be placed before both Houses of Parliament.\n\n[Image: Rajya Sabha Chamber]\n\nIn case of disagreement between the two Houses, a **joint sitting** of the two Houses is convened, where matters are decided by majority vote."
+                }
+              ]
+            },
+            {
+              "title": "3.",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **Lok Sabha** has **special powers** which make it more powerful than the **Rajya Sabha**. These special powers are:"
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "Amendment of the Constitution",
+          "sequence_number": 5,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "Both Houses of Parliament can **amend the Constitution**. The amendment must be passed by each House by a **majority of total membership** and by a **two-third majority of members present and voting**. Otherwise the amendment bill cannot be passed. In some cases the amendment requires the **ratification or approval of half of the Legislative Assemblies of States**."
+            }
+          ]
+        },
+        {
+          "title": "Control over the Executive",
+          "sequence_number": 6,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "1. Interpellation",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **Question Hour**, **Calling Attention Notices** and **Half-an-Hour Discussion** are some of the devices to seek information from the government about its policies and performance. Of these the most important is the **Question Hour**—the first hour of a sitting in both Houses allotted for asking and answering of questions. It is a valuable device to keep a check on the government."
+                }
+              ]
+            },
+            {
+              "title": "2. Motions of Censure",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The Parliament exercises its control over the Government by various motions which, if passed, amount to **no-confidence**. These include:\n*   **Vote of No-Confidence**\n*   **Adjournment Motion**\n*   **Motions of censure** against a minister\n*   Rejection of a **Government Bill**\n*   Passing of a **private member's Bill** against the wishes of the Government, etc."
+                }
+              ]
+            },
+            {
+              "title": "3. Monetary Controls",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "During the budget session a **cut motion** may be moved. The **Parliamentary Committee on Public Accounts** ensures that public money is spent in accordance with Parliament's decision. It examines reports of the **Comptroller and Auditor-General of India**."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "Other Powers",
+          "sequence_number": 7,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "1.",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **Upper House** or the **Council of States** is known as the '**Rajya Sabha**'. It represents the **federation of States** of the Indian Union."
+                }
+              ]
+            },
+            {
+              "title": "2.",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **Parliament of India** comprises the **President**, the **Lok Sabha** and the **Rajya Sabha**. The two houses of Parliament are not competing centres of power but are **co-partners** in the functioning of government. They enjoy equal power and status in all spheres except in financial matters and in terms of the responsibility of the **Council of Ministers**, which are exclusively in the domain of the Lok Sabha."
+                },
+                {
+                  "content_md": "**Rajya Sabha** has equal powers with **Lok Sabha** in important matters like the **impeachment of the President**, **removal of the Vice-President**, **Constitutional amendments** and removal of the **Judges of the Supreme Court and the High Courts**. Every **Presidential Ordinance**, **proclamation of Emergency** and proclamation of the failure of constitutional machinery in a State must be placed before both Houses of Parliament. In case of disagreement between the two Houses, a **joint sitting of the two Houses** is convened, where matters are decided by majority vote."
+                }
+              ]
+            },
+            {
+              "title": "3.",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **Parliament of India** comprises the **President**, the **Lok Sabha** and the **Rajya Sabha**. The two houses of Parliament are not competing centres of power but are co-partners in the functioning of government. They enjoy equal power and status in all spheres except in financial matters and in terms of the responsibility of the **Council of Ministers**, which are exclusively in the domain of the Lok Sabha.\n\n**Rajya Sabha** has equal powers with **Lok Sabha** in important matters like the **impeachment of the President**, removal of the **Vice-President**, **Constitutional amendments** and removal of the Judges of the Supreme Court and the High Courts. Every **Presidential Ordinance**, **proclamation of Emergency** and proclamation of the failure of constitutional machinery in a State must be placed before both Houses of Parliament. In case of disagreement between the two Houses, a **joint sitting** of the two Houses is convened, where matters are decided by majority vote."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "Exclusive Powers of the Lok Sabha",
+          "sequence_number": 8,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "1.",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **Upper House** or the **Council of States** is known as the '**Rajya Sabha**'. It represents the **federation of States** of the Indian Union."
+                }
+              ]
+            },
+            {
+              "title": "2.",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **Parliament of India** comprises the **President**, the **Lok Sabha** and the **Rajya Sabha**. The two houses of Parliament are not competing centres of power but are **co-partners** in the functioning of government. They enjoy equal power and status in all spheres except in financial matters and in terms of the responsibility of the **Council of Ministers**, which are exclusively in the domain of the Lok Sabha.\n\n**Rajya Sabha** has equal powers with **Lok Sabha** in important matters like the **impeachment of the President**, removal of the **Vice-President**, **Constitutional amendments** and removal of the **Judges of the Supreme Court** and the **High Courts**. Every **Presidential Ordinance**, **proclamation of Emergency** and proclamation of the **failure of constitutional machinery in a State** must be placed before both Houses of Parliament. In case of disagreement between the two Houses, a **joint sitting** of the two Houses is convened, where matters are decided by majority vote."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "Exclusive Powers of the Rajya Sabha",
+          "sequence_number": 9,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "1.",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": ""
+                }
+              ]
+            },
+            {
+              "title": "2.",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **Parliament of India** comprises the **President**, the **Lok Sabha** and the **Rajya Sabha**. The two houses of Parliament are not competing centres of power but are **co-partners** in the functioning of government. They enjoy equal power and status in all spheres except in financial matters and in terms of the responsibility of the **Council of Ministers**, which are exclusively in the domain of the Lok Sabha.\n\nThe **Rajya Sabha** has equal powers with the **Lok Sabha** in important matters like the **impeachment of the President**, removal of the **Vice-President**, **Constitutional amendments** and removal of the **Judges of the Supreme Court and the High Courts**. Every **Presidential Ordinance**, **proclamation of Emergency** and proclamation of the failure of constitutional machinery in a State must be placed before both Houses of Parliament. In case of disagreement between the two Houses, a **joint sitting** of the two Houses is convened, where matters are decided by majority vote."
+                }
+              ]
+            },
+            {
+              "title": "3.",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The Parliament performs certain judicial functions. These include the power to impeach the President, remove judges, and punish individuals for contempt of the House."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        }
+      ],
+      "content_blocks": []
+    },
+    {
+      "title": "RELATIONSHIP BETWEEN THE TWO HOUSES OF THE PARLIAMENT",
+      "sequence_number": 3,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "Difference over the Legislative Matters",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "1. Ordinary Bills",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Ordinary Bills** may originate in either House. If there is disagreement between the two Houses, the bill is referred to a **joint-sitting** of both the Houses. In such cases both the Houses are placed on an **equal footing**. However, the **Rajya Sabha** is in a weaker position, since the total membership of Rajya Sabha is less than even half of the total strength of the **Lok Sabha**. Besides, the joint session is presided over by the **Speaker of the Lok Sabha**."
+                }
+              ]
+            },
+            {
+              "title": "2. Money Bills",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "In case of **Money Bills**, the **Rajya Sabha** has virtually no powers. It cannot reject a **Money Bill** nor amend it by virtue of its own powers. It must, within the stipulated period of **14 days**, return the Bill to the **Lok Sabha**, which may thereupon either accept or reject all or any of the recommendations of the Rajya Sabha."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "Control over the Executive",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **Council of Ministers** is **collectively responsible** to the **Lok Sabha**. The Ministers remain in office as long as they enjoy the confidence of a majority of members in the **Lok Sabha**. Parliament exercises control over the Executive in the following manner:"
+            }
+          ]
+        },
+        {
+          "title": "Election of the President and the Vice-President",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "Every **elected member** of the **Parliament** stands on equal footing in the election of the **President** or the **Vice-President of India**. However, the **Lok Sabha** has a greater say on such matters because of its strength in numbers."
+            }
+          ]
+        },
+        {
+          "title": "Impeachment",
+          "sequence_number": 4,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "In matters of **impeachment** of the **President of India** or the **Chief Justice** or a **Judge of the Supreme Court** or of a **High Court**, both Houses have absolutely **equal powers**. **Impeachment** can be **initiated in either House** and the other House has an **equal say in the judgement**."
+            }
+          ]
+        },
+        {
+          "title": "Emergency Provision",
+          "sequence_number": 5,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "In case of proclamation of a **National Emergency** and if the **Lok Sabha** is dissolved, it is the **Rajya Sabha** which shoulders all the responsibilities of the **Union Legislature**."
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    }
+  ],
+  "additional_sections": [],
+  "needs_review": [
+    "(c)",
+    "1.",
+    "1."
+  ],
+  "manifest": {
+    "syllabus_leaves": [
+      {
+        "path": "Rajya Sabha > Composition",
+        "path_titles": [
+          "Rajya Sabha",
+          "Composition"
+        ],
+        "title": "Composition",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Rajya Sabha > Elected Members",
+        "path_titles": [
+          "Rajya Sabha",
+          "Elected Members"
+        ],
+        "title": "Elected Members",
+        "sequence_number": 2,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Rajya Sabha > Nominated Members",
+        "path_titles": [
+          "Rajya Sabha",
+          "Nominated Members"
+        ],
+        "title": "Nominated Members",
+        "sequence_number": 3,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Rajya Sabha > Qualifications for Membership",
+        "path_titles": [
+          "Rajya Sabha",
+          "Qualifications for Membership"
+        ],
+        "title": "Qualifications for Membership",
+        "sequence_number": 4,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Rajya Sabha > Disqualification of Membership",
+        "path_titles": [
+          "Rajya Sabha",
+          "Disqualification of Membership"
+        ],
+        "title": "Disqualification of Membership",
+        "sequence_number": 5,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Rajya Sabha > Election",
+        "path_titles": [
+          "Rajya Sabha",
+          "Election"
+        ],
+        "title": "Election",
+        "sequence_number": 6,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Rajya Sabha > Term",
+        "path_titles": [
+          "Rajya Sabha",
+          "Term"
+        ],
+        "title": "Term",
+        "sequence_number": 7,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Rajya Sabha > Presiding Officers > 1.",
+        "path_titles": [
+          "Rajya Sabha",
+          "Presiding Officers",
+          "1."
+        ],
+        "title": "1.",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Rajya Sabha > Presiding Officers > 2.",
+        "path_titles": [
+          "Rajya Sabha",
+          "Presiding Officers",
+          "2."
+        ],
+        "title": "2.",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Legislative Powers > 1. Matters in the Union List",
+        "path_titles": [
+          "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+          "Legislative Powers",
+          "1. Matters in the Union List"
+        ],
+        "title": "1. Matters in the Union List",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Legislative Powers > 2. Matters in the Concurrent List",
+        "path_titles": [
+          "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+          "Legislative Powers",
+          "2. Matters in the Concurrent List"
+        ],
+        "title": "2. Matters in the Concurrent List",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Legislative Powers > 3. Residuary Powers",
+        "path_titles": [
+          "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+          "Legislative Powers",
+          "3. Residuary Powers"
+        ],
+        "title": "3. Residuary Powers",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Legislative Powers > 4. Matters in the State List > (a)",
+        "path_titles": [
+          "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+          "Legislative Powers",
+          "4. Matters in the State List",
+          "(a)"
+        ],
+        "title": "(a)",
+        "sequence_number": 1,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Legislative Powers > 4. Matters in the State List > (b)",
+        "path_titles": [
+          "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+          "Legislative Powers",
+          "4. Matters in the State List",
+          "(b)"
+        ],
+        "title": "(b)",
+        "sequence_number": 2,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Legislative Powers > 4. Matters in the State List > (c)",
+        "path_titles": [
+          "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+          "Legislative Powers",
+          "4. Matters in the State List",
+          "(c)"
+        ],
+        "title": "(c)",
+        "sequence_number": 3,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": false
+      },
+      {
+        "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Legislative Powers > 5. Ordinances",
+        "path_titles": [
+          "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+          "Legislative Powers",
+          "5. Ordinances"
+        ],
+        "title": "5. Ordinances",
+        "sequence_number": 5,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Legislative Powers > 6. Powers during Emergency",
+        "path_titles": [
+          "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+          "Legislative Powers",
+          "6. Powers during Emergency"
+        ],
+        "title": "6. Powers during Emergency",
+        "sequence_number": 6,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Financial Powers > 1. The Budget",
+        "path_titles": [
+          "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+          "Financial Powers",
+          "1. The Budget"
+        ],
+        "title": "1. The Budget",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Financial Powers > 2. Supplementary Grants",
+        "path_titles": [
+          "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+          "Financial Powers",
+          "2. Supplementary Grants"
+        ],
+        "title": "2. Supplementary Grants",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Financial Powers > 3. Vote on Account",
+        "path_titles": [
+          "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+          "Financial Powers",
+          "3. Vote on Account"
+        ],
+        "title": "3. Vote on Account",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Financial Powers > 4. Salaries",
+        "path_titles": [
+          "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+          "Financial Powers",
+          "4. Salaries"
+        ],
+        "title": "4. Salaries",
+        "sequence_number": 4,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Financial Powers > 5. Permission for Taxes",
+        "path_titles": [
+          "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+          "Financial Powers",
+          "5. Permission for Taxes"
+        ],
+        "title": "5. Permission for Taxes",
+        "sequence_number": 5,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Judicial Powers > 1. Impeachment of the President",
+        "path_titles": [
+          "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+          "Judicial Powers",
+          "1. Impeachment of the President"
+        ],
+        "title": "1. Impeachment of the President",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Judicial Powers > 2. Removal of Judges, etc",
+        "path_titles": [
+          "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+          "Judicial Powers",
+          "2. Removal of Judges, etc"
+        ],
+        "title": "2. Removal of Judges, etc",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Judicial Powers > 3. Punishment",
+        "path_titles": [
+          "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+          "Judicial Powers",
+          "3. Punishment"
+        ],
+        "title": "3. Punishment",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Electoral Functions > 1.",
+        "path_titles": [
+          "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+          "Electoral Functions",
+          "1."
+        ],
+        "title": "1.",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": false
+      },
+      {
+        "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Electoral Functions > 2.",
+        "path_titles": [
+          "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+          "Electoral Functions",
+          "2."
+        ],
+        "title": "2.",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Electoral Functions > 3.",
+        "path_titles": [
+          "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+          "Electoral Functions",
+          "3."
+        ],
+        "title": "3.",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Amendment of the Constitution",
+        "path_titles": [
+          "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+          "Amendment of the Constitution"
+        ],
+        "title": "Amendment of the Constitution",
+        "sequence_number": 5,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Control over the Executive > 1. Interpellation",
+        "path_titles": [
+          "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+          "Control over the Executive",
+          "1. Interpellation"
+        ],
+        "title": "1. Interpellation",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Control over the Executive > 2. Motions of Censure",
+        "path_titles": [
+          "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+          "Control over the Executive",
+          "2. Motions of Censure"
+        ],
+        "title": "2. Motions of Censure",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Control over the Executive > 3. Monetary Controls",
+        "path_titles": [
+          "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+          "Control over the Executive",
+          "3. Monetary Controls"
+        ],
+        "title": "3. Monetary Controls",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Other Powers > 1.",
+        "path_titles": [
+          "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+          "Other Powers",
+          "1."
+        ],
+        "title": "1.",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Other Powers > 2.",
+        "path_titles": [
+          "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+          "Other Powers",
+          "2."
+        ],
+        "title": "2.",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Other Powers > 3.",
+        "path_titles": [
+          "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+          "Other Powers",
+          "3."
+        ],
+        "title": "3.",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Exclusive Powers of the Lok Sabha > 1.",
+        "path_titles": [
+          "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+          "Exclusive Powers of the Lok Sabha",
+          "1."
+        ],
+        "title": "1.",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Exclusive Powers of the Lok Sabha > 2.",
+        "path_titles": [
+          "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+          "Exclusive Powers of the Lok Sabha",
+          "2."
+        ],
+        "title": "2.",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Exclusive Powers of the Rajya Sabha > 1.",
+        "path_titles": [
+          "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+          "Exclusive Powers of the Rajya Sabha",
+          "1."
+        ],
+        "title": "1.",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": false
+      },
+      {
+        "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Exclusive Powers of the Rajya Sabha > 2.",
+        "path_titles": [
+          "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+          "Exclusive Powers of the Rajya Sabha",
+          "2."
+        ],
+        "title": "2.",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Exclusive Powers of the Rajya Sabha > 3.",
+        "path_titles": [
+          "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+          "Exclusive Powers of the Rajya Sabha",
+          "3."
+        ],
+        "title": "3.",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "RELATIONSHIP BETWEEN THE TWO HOUSES OF THE PARLIAMENT > Difference over the Legislative Matters > 1. Ordinary Bills",
+        "path_titles": [
+          "RELATIONSHIP BETWEEN THE TWO HOUSES OF THE PARLIAMENT",
+          "Difference over the Legislative Matters",
+          "1. Ordinary Bills"
+        ],
+        "title": "1. Ordinary Bills",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "RELATIONSHIP BETWEEN THE TWO HOUSES OF THE PARLIAMENT > Difference over the Legislative Matters > 2. Money Bills",
+        "path_titles": [
+          "RELATIONSHIP BETWEEN THE TWO HOUSES OF THE PARLIAMENT",
+          "Difference over the Legislative Matters",
+          "2. Money Bills"
+        ],
+        "title": "2. Money Bills",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "RELATIONSHIP BETWEEN THE TWO HOUSES OF THE PARLIAMENT > Control over the Executive",
+        "path_titles": [
+          "RELATIONSHIP BETWEEN THE TWO HOUSES OF THE PARLIAMENT",
+          "Control over the Executive"
+        ],
+        "title": "Control over the Executive",
+        "sequence_number": 2,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "RELATIONSHIP BETWEEN THE TWO HOUSES OF THE PARLIAMENT > Election of the President and the Vice-President",
+        "path_titles": [
+          "RELATIONSHIP BETWEEN THE TWO HOUSES OF THE PARLIAMENT",
+          "Election of the President and the Vice-President"
+        ],
+        "title": "Election of the President and the Vice-President",
+        "sequence_number": 3,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "RELATIONSHIP BETWEEN THE TWO HOUSES OF THE PARLIAMENT > Impeachment",
+        "path_titles": [
+          "RELATIONSHIP BETWEEN THE TWO HOUSES OF THE PARLIAMENT",
+          "Impeachment"
+        ],
+        "title": "Impeachment",
+        "sequence_number": 4,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "RELATIONSHIP BETWEEN THE TWO HOUSES OF THE PARLIAMENT > Emergency Provision",
+        "path_titles": [
+          "RELATIONSHIP BETWEEN THE TWO HOUSES OF THE PARLIAMENT",
+          "Emergency Provision"
+        ],
+        "title": "Emergency Provision",
+        "sequence_number": 5,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      }
+    ],
+    "stray_leaves": []
+  }
+}

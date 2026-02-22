@@ -1,0 +1,431 @@
+{
+  "syllabus_leaves": [
+    {
+      "path": "Factors leading to the growth of Nationalism > Economic Exploitation > The Peasants",
+      "path_titles": [
+        "Factors leading to the growth of Nationalism",
+        "Economic Exploitation",
+        "The Peasants"
+      ],
+      "title": "The Peasants",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Factors leading to the growth of Nationalism > Economic Exploitation > The Artisans and Craftsmen",
+      "path_titles": [
+        "Factors leading to the growth of Nationalism",
+        "Economic Exploitation",
+        "The Artisans and Craftsmen"
+      ],
+      "title": "The Artisans and Craftsmen",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Factors leading to the growth of Nationalism > Economic Exploitation > The Working Class",
+      "path_titles": [
+        "Factors leading to the growth of Nationalism",
+        "Economic Exploitation",
+        "The Working Class"
+      ],
+      "title": "The Working Class",
+      "sequence_number": 3,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Factors leading to the growth of Nationalism > Economic Exploitation > The Educated Indians",
+      "path_titles": [
+        "Factors leading to the growth of Nationalism",
+        "Economic Exploitation",
+        "The Educated Indians"
+      ],
+      "title": "The Educated Indians",
+      "sequence_number": 4,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Factors leading to the growth of Nationalism > Repressive Colonial Policies > Lord Lytton organised a Grand Delhi Durbar in 1877",
+      "path_titles": [
+        "Factors leading to the growth of Nationalism",
+        "Repressive Colonial Policies",
+        "Lord Lytton organised a Grand Delhi Durbar in 1877"
+      ],
+      "title": "Lord Lytton organised a Grand Delhi Durbar in 1877",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Factors leading to the growth of Nationalism > Repressive Colonial Policies > Lord Lytton introduced the Vernacular Press Act (1878) and Indian Arms Act (1878)",
+      "path_titles": [
+        "Factors leading to the growth of Nationalism",
+        "Repressive Colonial Policies",
+        "Lord Lytton introduced the Vernacular Press Act (1878) and Indian Arms Act (1878)"
+      ],
+      "title": "Lord Lytton introduced the Vernacular Press Act (1878) and Indian Arms Act (1878)",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Factors leading to the growth of Nationalism > Repressive Colonial Policies > The maximum age limit for appearing in the Indian Civil Service examination was reduced from 21 to 19 years",
+      "path_titles": [
+        "Factors leading to the growth of Nationalism",
+        "Repressive Colonial Policies",
+        "The maximum age limit for appearing in the Indian Civil Service examination was reduced from 21 to 19 years"
+      ],
+      "title": "The maximum age limit for appearing in the Indian Civil Service examination was reduced from 21 to 19 years",
+      "sequence_number": 3,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Factors leading to the growth of Nationalism > Repressive Colonial Policies > Lord Lytton removed import duties on cotton textiles",
+      "path_titles": [
+        "Factors leading to the growth of Nationalism",
+        "Repressive Colonial Policies",
+        "Lord Lytton removed import duties on cotton textiles"
+      ],
+      "title": "Lord Lytton removed import duties on cotton textiles",
+      "sequence_number": 4,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Factors leading to the growth of Nationalism > Repressive Colonial Policies > Sir C.P. Ilbert... prepared a bill, popularly known as the Ilbert Bill in 1883",
+      "path_titles": [
+        "Factors leading to the growth of Nationalism",
+        "Repressive Colonial Policies",
+        "Sir C.P. Ilbert... prepared a bill, popularly known as the Ilbert Bill in 1883"
+      ],
+      "title": "Sir C.P. Ilbert... prepared a bill, popularly known as the Ilbert Bill in 1883",
+      "sequence_number": 5,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Factors leading to the growth of Nationalism > Socio-Religious Reform Movements",
+      "path_titles": [
+        "Factors leading to the growth of Nationalism",
+        "Socio-Religious Reform Movements"
+      ],
+      "title": "Socio-Religious Reform Movements",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Factors leading to the growth of Nationalism > Raja Rammohan Roy > His Approach of Religion",
+      "path_titles": [
+        "Factors leading to the growth of Nationalism",
+        "Raja Rammohan Roy",
+        "His Approach of Religion"
+      ],
+      "title": "His Approach of Religion",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Factors leading to the growth of Nationalism > Raja Rammohan Roy > Social Reforms",
+      "path_titles": [
+        "Factors leading to the growth of Nationalism",
+        "Raja Rammohan Roy",
+        "Social Reforms"
+      ],
+      "title": "Social Reforms",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Factors leading to the growth of Nationalism > Raja Rammohan Roy > Pioneer of Indian Journalism",
+      "path_titles": [
+        "Factors leading to the growth of Nationalism",
+        "Raja Rammohan Roy",
+        "Pioneer of Indian Journalism"
+      ],
+      "title": "Pioneer of Indian Journalism",
+      "sequence_number": 3,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Factors leading to the growth of Nationalism > Raja Rammohan Roy > Political Rights",
+      "path_titles": [
+        "Factors leading to the growth of Nationalism",
+        "Raja Rammohan Roy",
+        "Political Rights"
+      ],
+      "title": "Political Rights",
+      "sequence_number": 4,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Factors leading to the growth of Nationalism > Jyotiba Phule > Upliftment of Women",
+      "path_titles": [
+        "Factors leading to the growth of Nationalism",
+        "Jyotiba Phule",
+        "Upliftment of Women"
+      ],
+      "title": "Upliftment of Women",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Factors leading to the growth of Nationalism > Jyotiba Phule > Caste Structure",
+      "path_titles": [
+        "Factors leading to the growth of Nationalism",
+        "Jyotiba Phule",
+        "Caste Structure"
+      ],
+      "title": "Caste Structure",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Factors leading to the growth of Nationalism > Jyotiba Phule > Social Justice for Lower Castes",
+      "path_titles": [
+        "Factors leading to the growth of Nationalism",
+        "Jyotiba Phule",
+        "Social Justice for Lower Castes"
+      ],
+      "title": "Social Justice for Lower Castes",
+      "sequence_number": 3,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Factors leading to the growth of Nationalism > Swami Dayanand Saraswati > Ideals of Arya Samaj > Supremacy of Vedas",
+      "path_titles": [
+        "Factors leading to the growth of Nationalism",
+        "Swami Dayanand Saraswati",
+        "Ideals of Arya Samaj",
+        "Supremacy of Vedas"
+      ],
+      "title": "Supremacy of Vedas",
+      "sequence_number": 1,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "Factors leading to the growth of Nationalism > Swami Dayanand Saraswati > Ideals of Arya Samaj > Monotheism",
+      "path_titles": [
+        "Factors leading to the growth of Nationalism",
+        "Swami Dayanand Saraswati",
+        "Ideals of Arya Samaj",
+        "Monotheism"
+      ],
+      "title": "Monotheism",
+      "sequence_number": 2,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "Factors leading to the growth of Nationalism > Swami Dayanand Saraswati > Ideals of Arya Samaj > Opposition to Social Evils",
+      "path_titles": [
+        "Factors leading to the growth of Nationalism",
+        "Swami Dayanand Saraswati",
+        "Ideals of Arya Samaj",
+        "Opposition to Social Evils"
+      ],
+      "title": "Opposition to Social Evils",
+      "sequence_number": 3,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "Factors leading to the growth of Nationalism > Swami Dayanand Saraswati > Ideals of Arya Samaj > Shudhi Movement",
+      "path_titles": [
+        "Factors leading to the growth of Nationalism",
+        "Swami Dayanand Saraswati",
+        "Ideals of Arya Samaj",
+        "Shudhi Movement"
+      ],
+      "title": "Shudhi Movement",
+      "sequence_number": 4,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "Factors leading to the growth of Nationalism > Swami Dayanand Saraswati > Ideals of Arya Samaj > Equality of Women",
+      "path_titles": [
+        "Factors leading to the growth of Nationalism",
+        "Swami Dayanand Saraswati",
+        "Ideals of Arya Samaj",
+        "Equality of Women"
+      ],
+      "title": "Equality of Women",
+      "sequence_number": 5,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "Factors leading to the growth of Nationalism > Swami Dayanand Saraswati > Education",
+      "path_titles": [
+        "Factors leading to the growth of Nationalism",
+        "Swami Dayanand Saraswati",
+        "Education"
+      ],
+      "title": "Education",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Factors leading to the growth of Nationalism > Swami Dayanand Saraswati > Spread of the Movement",
+      "path_titles": [
+        "Factors leading to the growth of Nationalism",
+        "Swami Dayanand Saraswati",
+        "Spread of the Movement"
+      ],
+      "title": "Spread of the Movement",
+      "sequence_number": 3,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Factors leading to the growth of Nationalism > Swami Vivekananda (1863-1902) > Ideals of Swami Vivekananda",
+      "path_titles": [
+        "Factors leading to the growth of Nationalism",
+        "Swami Vivekananda (1863-1902)",
+        "Ideals of Swami Vivekananda"
+      ],
+      "title": "Ideals of Swami Vivekananda",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Factors leading to the growth of Nationalism > Swami Vivekananda (1863-1902) > The World Parliament of Religions",
+      "path_titles": [
+        "Factors leading to the growth of Nationalism",
+        "Swami Vivekananda (1863-1902)",
+        "The World Parliament of Religions"
+      ],
+      "title": "The World Parliament of Religions",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Factors leading to the growth of Nationalism > Effects of Socio-religious Reform Movements on the Growth of Nationalism",
+      "path_titles": [
+        "Factors leading to the growth of Nationalism",
+        "Effects of Socio-religious Reform Movements on the Growth of Nationalism"
+      ],
+      "title": "Effects of Socio-religious Reform Movements on the Growth of Nationalism",
+      "sequence_number": 8,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Factors leading to the growth of Nationalism > Role of the Press",
+      "path_titles": [
+        "Factors leading to the growth of Nationalism",
+        "Role of the Press"
+      ],
+      "title": "Role of the Press",
+      "sequence_number": 9,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "FOUNDATION OF THE INDIAN NATIONAL CONGRESS > East India Association",
+      "path_titles": [
+        "FOUNDATION OF THE INDIAN NATIONAL CONGRESS",
+        "East India Association"
+      ],
+      "title": "East India Association",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "FOUNDATION OF THE INDIAN NATIONAL CONGRESS > Indian Association (1876)",
+      "path_titles": [
+        "FOUNDATION OF THE INDIAN NATIONAL CONGRESS",
+        "Indian Association (1876)"
+      ],
+      "title": "Indian Association (1876)",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "FOUNDATION OF THE INDIAN NATIONAL CONGRESS > Indian National Conference (1883)",
+      "path_titles": [
+        "FOUNDATION OF THE INDIAN NATIONAL CONGRESS",
+        "Indian National Conference (1883)"
+      ],
+      "title": "Indian National Conference (1883)",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Sessions of the Congress",
+      "path_titles": [
+        "Sessions of the Congress"
+      ],
+      "title": "Sessions of the Congress",
+      "sequence_number": 3,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    }
+  ],
+  "stray_leaves": [
+    {
+      "title": "FORMATION OF THE INDIAN NATIONAL CONGRESS",
+      "insert_after_index": 39,
+      "micro_topics": [],
+      "has_notes": true
+    },
+    {
+      "title": "Aims of the Indian National Congress",
+      "insert_after_index": 39,
+      "micro_topics": [],
+      "has_notes": true
+    }
+  ]
+}

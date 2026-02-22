@@ -85,217 +85,206 @@
       "has_notes": true
     },
     {
-      "path": "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM > CAPITALISM > Causes for the Rise of Capitalism > Increase in Population",
+      "path": "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM > CAPITALISM",
       "path_titles": [
         "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM",
-        "CAPITALISM",
+        "CAPITALISM"
+      ],
+      "title": "CAPITALISM",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Causes for the Rise of Capitalism > Increase in Population",
+      "path_titles": [
         "Causes for the Rise of Capitalism",
         "Increase in Population"
       ],
       "title": "Increase in Population",
       "sequence_number": 1,
-      "depth": 3,
-      "level_label": "Point",
+      "depth": 1,
+      "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM > CAPITALISM > Causes for the Rise of Capitalism > Legal Requirement",
+      "path": "Causes for the Rise of Capitalism > Degal Requirement",
       "path_titles": [
-        "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM",
-        "CAPITALISM",
         "Causes for the Rise of Capitalism",
-        "Legal Requirement"
+        "Degal Requirement"
       ],
-      "title": "Legal Requirement",
+      "title": "Degal Requirement",
       "sequence_number": 2,
-      "depth": 3,
-      "level_label": "Point",
+      "depth": 1,
+      "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM > CAPITALISM > Causes for the Rise of Capitalism > Growth of Towns",
+      "path": "Causes for the Rise of Capitalism > Growth of Towns",
       "path_titles": [
-        "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM",
-        "CAPITALISM",
         "Causes for the Rise of Capitalism",
         "Growth of Towns"
       ],
       "title": "Growth of Towns",
       "sequence_number": 3,
-      "depth": 3,
-      "level_label": "Point",
+      "depth": 1,
+      "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM > CAPITALISM > Causes for the Rise of Capitalism > Mass Production",
+      "path": "Causes for the Rise of Capitalism > Mass Production",
       "path_titles": [
-        "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM",
-        "CAPITALISM",
         "Causes for the Rise of Capitalism",
         "Mass Production"
       ],
       "title": "Mass Production",
       "sequence_number": 4,
-      "depth": 3,
-      "level_label": "Point",
+      "depth": 1,
+      "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM > CAPITALISM > Causes for the Rise of Capitalism > Disappearance of Small Farmers",
+      "path": "Causes for the Rise of Capitalism > Disappearance of Small Farmers",
       "path_titles": [
-        "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM",
-        "CAPITALISM",
         "Causes for the Rise of Capitalism",
         "Disappearance of Small Farmers"
       ],
       "title": "Disappearance of Small Farmers",
       "sequence_number": 5,
-      "depth": 3,
-      "level_label": "Point",
+      "depth": 1,
+      "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM > CAPITALISM > IMPACT OF CAPITALISM > Loss of Traditional Jobs",
+      "path": "IMPACT OF CAPITALISM > Loss of Traditional Jobs",
       "path_titles": [
-        "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM",
-        "CAPITALISM",
         "IMPACT OF CAPITALISM",
         "Loss of Traditional Jobs"
       ],
       "title": "Loss of Traditional Jobs",
       "sequence_number": 1,
-      "depth": 3,
-      "level_label": "Point",
+      "depth": 1,
+      "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM > CAPITALISM > IMPACT OF CAPITALISM > Exploitation",
+      "path": "IMPACT OF CAPITALISM > Exploitation",
       "path_titles": [
-        "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM",
-        "CAPITALISM",
         "IMPACT OF CAPITALISM",
         "Exploitation"
       ],
       "title": "Exploitation",
       "sequence_number": 2,
-      "depth": 3,
-      "level_label": "Point",
+      "depth": 1,
+      "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM > CAPITALISM > IMPACT OF CAPITALISM > Stress and Strain",
+      "path": "IMPACT OF CAPITALISM > Stress and Strain",
       "path_titles": [
-        "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM",
-        "CAPITALISM",
         "IMPACT OF CAPITALISM",
         "Stress and Strain"
       ],
       "title": "Stress and Strain",
       "sequence_number": 3,
-      "depth": 3,
-      "level_label": "Point",
+      "depth": 1,
+      "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM > CAPITALISM > IMPACT OF CAPITALISM > Overcrowding",
+      "path": "IMPACT OF CAPITALISM > Overcrowding",
       "path_titles": [
-        "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM",
-        "CAPITALISM",
         "IMPACT OF CAPITALISM",
         "Overcrowding"
       ],
       "title": "Overcrowding",
       "sequence_number": 4,
-      "depth": 3,
-      "level_label": "Point",
+      "depth": 1,
+      "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM > SOCIALISM > Meaning of Socialism",
+      "path": "SOCIALISM > Meaning of Socialism",
       "path_titles": [
-        "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM",
         "SOCIALISM",
         "Meaning of Socialism"
       ],
       "title": "Meaning of Socialism",
       "sequence_number": 1,
-      "depth": 2,
-      "level_label": "Subtopic",
+      "depth": 1,
+      "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM > SOCIALISM > Early Socialists",
+      "path": "Early Socialists",
       "path_titles": [
-        "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM",
-        "SOCIALISM",
         "Early Socialists"
       ],
       "title": "Early Socialists",
-      "sequence_number": 2,
-      "depth": 2,
-      "level_label": "Subtopic",
+      "sequence_number": 6,
+      "depth": 0,
+      "level_label": "Section",
       "has_notes": true
     },
     {
-      "path": "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM > SOCIALISM > CAUSES FOR THE RISE OF SOCIALISM > As a Reaction to the Evils of Capitalism",
+      "path": "CAUSES FOR THE RISE OF SOCIALISM > As a Reaction to the Evils of Capitalism",
       "path_titles": [
-        "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM",
-        "SOCIALISM",
         "CAUSES FOR THE RISE OF SOCIALISM",
         "As a Reaction to the Evils of Capitalism"
       ],
       "title": "As a Reaction to the Evils of Capitalism",
       "sequence_number": 1,
-      "depth": 3,
-      "level_label": "Point",
+      "depth": 1,
+      "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM > SOCIALISM > CAUSES FOR THE RISE OF SOCIALISM > Trade Union Movement",
+      "path": "CAUSES FOR THE RISE OF SOCIALISM > Trade Union Movement",
       "path_titles": [
-        "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM",
-        "SOCIALISM",
         "CAUSES FOR THE RISE OF SOCIALISM",
         "Trade Union Movement"
       ],
       "title": "Trade Union Movement",
       "sequence_number": 2,
-      "depth": 3,
-      "level_label": "Point",
+      "depth": 1,
+      "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM > SOCIALISM > CAUSES FOR THE RISE OF SOCIALISM > The Chartist Movement",
+      "path": "CAUSES FOR THE RISE OF SOCIALISM > The Chartist Movement",
       "path_titles": [
-        "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM",
-        "SOCIALISM",
         "CAUSES FOR THE RISE OF SOCIALISM",
         "The Chartist Movement"
       ],
       "title": "The Chartist Movement",
       "sequence_number": 3,
-      "depth": 3,
-      "level_label": "Point",
+      "depth": 1,
+      "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM > SOCIALISM > MARXIST SOCIALISM",
+      "path": "MARXIST SOCIALISM",
       "path_titles": [
-        "COMPARATIVE STUDY OF CAPITALISM AND SOCIALISM",
-        "SOCIALISM",
         "MARXIST SOCIALISM"
       ],
       "title": "MARXIST SOCIALISM",
-      "sequence_number": 4,
-      "depth": 2,
-      "level_label": "Subtopic",
+      "sequence_number": 8,
+      "depth": 0,
+      "level_label": "Section",
       "has_notes": true
     }
   ],
   "stray_leaves": [
     {
-      "title": "Introduction to the Industrial Revolution",
+      "title": "Definition of Industrial Revolution",
       "insert_after_index": 0,
+      "micro_topics": [],
+      "has_notes": true
+    },
+    {
+      "title": "Comparative Study Between Capitalism and Socialism",
+      "insert_after_index": 28,
       "micro_topics": [],
       "has_notes": true
     }

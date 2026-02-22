@@ -35,25 +35,15 @@
       "has_notes": true
     },
     {
-      "path": "COMPOSITION OF THE CONSTITUENT ASSEMBLY",
+      "path": "COMPOSITION OF THE CONSTITUENT ASSEMBLY > Objectives Resolution",
       "path_titles": [
-        "COMPOSITION OF THE CONSTITUENT ASSEMBLY"
-      ],
-      "title": "COMPOSITION OF THE CONSTITUENT ASSEMBLY",
-      "sequence_number": 4,
-      "depth": 0,
-      "level_label": "Section",
-      "has_notes": true
-    },
-    {
-      "path": "Objectives Resolution",
-      "path_titles": [
+        "COMPOSITION OF THE CONSTITUENT ASSEMBLY",
         "Objectives Resolution"
       ],
       "title": "Objectives Resolution",
-      "sequence_number": 5,
-      "depth": 0,
-      "level_label": "Section",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
       "has_notes": true
     },
     {
@@ -62,7 +52,7 @@
         "DRAFTING COMMITTEE"
       ],
       "title": "DRAFTING COMMITTEE",
-      "sequence_number": 6,
+      "sequence_number": 5,
       "depth": 0,
       "level_label": "Section",
       "has_notes": true
@@ -73,7 +63,7 @@
         "DR. AMBEDKAR'S CONTRIBUTION TO THE INDIAN CONSTITUTION"
       ],
       "title": "DR. AMBEDKAR'S CONTRIBUTION TO THE INDIAN CONSTITUTION",
-      "sequence_number": 7,
+      "sequence_number": 6,
       "depth": 0,
       "level_label": "Section",
       "has_notes": true
@@ -84,7 +74,7 @@
         "READINGS"
       ],
       "title": "READINGS",
-      "sequence_number": 8,
+      "sequence_number": 7,
       "depth": 0,
       "level_label": "Section",
       "has_notes": true
@@ -95,7 +85,7 @@
         "TIME TAKEN"
       ],
       "title": "TIME TAKEN",
-      "sequence_number": 9,
+      "sequence_number": 8,
       "depth": 0,
       "level_label": "Section",
       "has_notes": true
@@ -106,7 +96,7 @@
         "IMPLEMENTATION OF THE CONSTITUTION"
       ],
       "title": "IMPLEMENTATION OF THE CONSTITUTION",
-      "sequence_number": 10,
+      "sequence_number": 9,
       "depth": 0,
       "level_label": "Section",
       "has_notes": true
@@ -117,24 +107,71 @@
         "SIGNIFICANCE OF JANUARY 26"
       ],
       "title": "SIGNIFICANCE OF JANUARY 26",
-      "sequence_number": 11,
+      "sequence_number": 10,
       "depth": 0,
       "level_label": "Section",
       "has_notes": true
-    }
-  ],
-  "stray_leaves": [
+    },
     {
-      "title": "Fact File",
-      "insert_after_index": 11,
-      "micro_topics": [],
+      "path": "TERMS TO REMEMBER > Amendment",
+      "path_titles": [
+        "TERMS TO REMEMBER",
+        "Amendment"
+      ],
+      "title": "Amendment",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
       "has_notes": true
     },
     {
-      "title": "TERMS TO REMEMBER",
-      "insert_after_index": 11,
-      "micro_topics": [],
+      "path": "TERMS TO REMEMBER > Adopt",
+      "path_titles": [
+        "TERMS TO REMEMBER",
+        "Adopt"
+      ],
+      "title": "Adopt",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "TERMS TO REMEMBER > Democratic",
+      "path_titles": [
+        "TERMS TO REMEMBER",
+        "Democratic"
+      ],
+      "title": "Democratic",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "TERMS TO REMEMBER > Fraternity",
+      "path_titles": [
+        "TERMS TO REMEMBER",
+        "Fraternity"
+      ],
+      "title": "Fraternity",
+      "sequence_number": 4,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "TERMS TO REMEMBER > Ideals",
+      "path_titles": [
+        "TERMS TO REMEMBER",
+        "Ideals"
+      ],
+      "title": "Ideals",
+      "sequence_number": 5,
+      "depth": 1,
+      "level_label": "Topic",
       "has_notes": true
     }
-  ]
+  ],
+  "stray_leaves": []
 }

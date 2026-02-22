@@ -1,0 +1,1478 @@
+{
+  "board": "ICSE",
+  "grade": 10,
+  "subject": "HistoryCivics",
+  "book_slug": "TotalHistoryCivics_MorningStar_DollyESequeira",
+  "book_meta": {
+    "book_name": "Total History & Civics",
+    "publication": "Morning Star",
+    "author": "Dolly E. Sequeira"
+  },
+  "chapter_sequence_number": 1,
+  "chapter_title": "The First War of Independence, 1857",
+  "discipline": "history",
+  "reconciliation": {
+    "outline": [
+      "CAUSES OF THE FIRST WAR OF INDEPENDENCE",
+      "Political Causes",
+      "1. Policy of Expansion:",
+      "(a) By Outright Wars:",
+      "(b) By Subsidiary Alliance:",
+      "(c) By Using the Doctrine of Lapse:",
+      "(d) On the Pretext of Alleged Misrule:",
+      "2. Disrespect Shown to Bahadur Shah:",
+      "3. Treatment Given to Nana Saheb:",
+      "4. Absentee Sovereignty of the British:",
+      "Socio-Religious Causes",
+      "1. Interference with Social Customs:",
+      "2. Apprehensions about Modern Innovations:",
+      "3. Policy of Racial Discrimination:",
+      "4. Corruption in Administration:",
+      "5. Oppression of the Poor:",
+      "6. Activities of Missionaries:",
+      "7. Fears Regarding Western Education:",
+      "8. Taxing Religious Places:",
+      "9. Law of Property:",
+      "Economic Causes",
+      "1. Exploitation of Economic Resources:",
+      "2. Drain of Wealth:",
+      "3. Decay of Cottage Industries and Handicrafts:",
+      "4. Economic Decline of Peasantry:",
+      "5. Growing Unemployment:",
+      "6. Inhuman Treatment of Indigo Cultivators:",
+      "7. Poverty and Famines:",
+      "8. Decline of Landed Aristocracy:",
+      "Military Causes",
+      "1. Ill-treatment of Indian soldiers:",
+      "2. General Service Enlistment Act:",
+      "3. Larger Proportion of Indians in the British Army:",
+      "4. Bleak Prospects of Promotions:",
+      "5. Deprivation of Allowances:",
+      "6. Faulty Distribution of Troops:",
+      "7. Poor Performance of British Troops:",
+      "8. Lower Salaries:",
+      "IMMEDIATE CAUSE",
+      "Introduction of the Enfield Rifle",
+      "BEGINNING OF THE UPRISING",
+      "*MAIN EVENTS",
+      "Events at Meerut:",
+      "Events at Delhi:",
+      "Events at Lucknow:",
+      "Events at Kanpur:",
+      "Events in Central India (Jhansi and Gwalior):",
+      "Events at Other Centres:",
+      "Chronology of Events",
+      "CONSEQUENCES OF THE FIRST WAR OF INDEPENDENCE",
+      "Changes in Administration",
+      "End of the Company's Rule:",
+      "Policy of Divide and Rule:",
+      "Racial Antagonism:",
+      "Foreign Policy:",
+      "Religious Changes:",
+      "Economic Exploitation:",
+      "Queen Victoria's Proclamation",
+      "Relations with Princely States",
+      "Changes in the Army",
+      "THE DELHI DURBAR OF 1877",
+      "DRAWBACKS OF THE FIRST WAR OF INDEPENDENCE",
+      "Nature of the War"
+    ],
+    "in_syllabus_only": [],
+    "in_pdf_only": [
+      {
+        "title": "Chronology of Events",
+        "insert_after_index": 55,
+        "micro_topics": []
+      }
+    ],
+    "additional_sections": [
+      {
+        "title": "Chronology of Events",
+        "content_md": "### Chronology of Events\n**February 26, 1857:** Unrest among the soldiers at Berhampur, Bengal.\n\n**March 29, 1857:** Resentment by Mangal Pandey at Barrackpore.\n\n**May 9, 1857:** Resentment by 85 sepoys of the Third Cavalry at Meerut.\n\n**May 10, 1857:** The Sepoys at Meerut broke out openly against the British and headed towards Delhi.\n\n**May 11-30, 1857:** Outbreaks in Delhi, Ferozepur, Bombay, Bareilly, Aligarh, Etawah, Bulandshahr, Lucknow. The Mughal Emperor proclaimed as the Emperor of India.\n\n**June 1857:** Uprising at Gwalior, Bharatpur, Jhansi, Allahabad, Faizabad.\n\n**August 1857:** Uprising at Indore, Mhow, Saugar, Jhelum, Sialkot, etc.\n\n**September 1857:** Recapture of Delhi by the English.\n\n**June 1857:** Defeat of the British at Kanpur.\n\n**December 1857:** Victory of the British at Kanpur, escape of Tantia Tope.\n\n**March 1858:** Recapture of Lucknow by the British.\n\n**April 1858:** Victory of the British at Jhansi. Uprising in Bihar by Kunwar Singh.\n\n**June 17, 1858:** Death of Rani of Jhansi.\n\n**July-December 1858:** Re-establishment of British Authority in India.\n\n**April 1859:** Tantia Tope captured and hanged to death."
+      }
+    ]
+  },
+  "nodes": [
+    {
+      "title": "CAUSES OF THE FIRST WAR OF INDEPENDENCE",
+      "sequence_number": 1,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "Political Causes",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Policy of Expansion",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [
+                {
+                  "title": "By Outright Wars",
+                  "sequence_number": 1,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "To expand their territorial power in India and to safeguard their economic and political interests the British waged many wars against the Indian rulers of different states. The **Battle of Buxar (1764)** established the British as masters of **Bengal, Bihar and Odisha**. As a result of their success in **Anglo-Mysore Wars (1767 to 1799)**, the East India Company annexed most of the territories of the **Mysore State**. After the **Third Anglo-Maratha War (1817-18)**, the **Peshwa's** entire dominions and all Maratha territory north and south of the **Narmada river** were acquired by the British. The **Punjab** was annexed in **1849** after the Sikhs were defeated in the **Second Anglo-Sikh War**. From **1823 to 1856**, the British further extended their empire by conquering **Sindh**, territories of **Assam, Arakan and Tenasserim** and **Pegu in Myanmar**."
+                    }
+                  ]
+                },
+                {
+                  "title": "By Subsidiary Alliance",
+                  "sequence_number": 2,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "Some Indian States were brought under the British control without actually annexing them. This was done by following the **Subsidiary Alliance**, introduced by **Lord Wellesley**. **Subsidiary Alliance** was an agreement between the British East India Company and the Indian Princely States by virtue of which these states lost their **sovereignty** (the power of a ruler to rule independently without any outside interference) to the British. Under this system, the Indian rulers, who agreed to the **Subsidiary Alliance** –\n\n1.  accepted the British as the **supreme power**;\n2.  surrendered their **foreign relations** to the East India Company and agreed that they would not enter into any alliance with any other power and would not wage wars;\n3.  accepted a **British Resident** at their headquarters and agreed not to employ any European in their service without consulting the Company;\n4.  agreed to maintain **British troops at their own cost**; and\n5.  virtually **lost their independence**.\n\nThe kingdom of **Awadh (Oudh)** was the first to enter into an alliance like this through the **Treaty of Allahabad in 1765** by which the Company undertook to defend the frontiers of Awadh on the condition that the Nawab of Awadh would pay for the expenses of such defence. However, Awadh was annexed on the pretext of misrule in 1856. The other rulers which accepted the **Subsidiary Alliance** were the **Nizam of Hyderabad**, the ruler of **Mysore**, the **Raja of Tanjore**, the **Sindhia** and the Rajput States of **Jodhpur**, **Jaipur**, **Macheri**, **Bundi** and the **Ruler of Bharatpur**."
+                    }
+                  ]
+                },
+                {
+                  "title": "By Using the Doctrine of Lapse",
+                  "sequence_number": 3,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "**Lord Dalhousie**, the **Governor-General of India**, annexed many Indian States to the Company using the **Doctrine of Lapse**. According to this **Doctrine**, if an Indian ruler died without a **male heir**, his kingdom would 'lapse', that is, it would come under the Company's territory in India."
+                    },
+                    {
+                      "content_md": "When the ruler of **Jhansi** died in **1853**, leaving no natural heir, the widowed **Rani** was pensioned and their adopted son, **Anand Rao**, was not recognised as a lawful successor to the throne. The other prominent States which were annexed by applying this Doctrine were **Satara**, **Jaitpur**, **Sambalpur**, **Udaipur** and **Nagpur**. The principle of Lapse was also applied to take away the titles and pensions of the rulers of some States. Regal titles of the **Nawabs of Carnatic** and **Tanjore** were taken away. This caused discontent among the rulers as well as among the people in general."
+                    },
+                    {
+                      "content_md": "The rulers of Indian States believed that their States were annexed not by the application of Doctrine of Lapse but by the '**lapse of all morals**' on the part of the British."
+                    }
+                  ]
+                },
+                {
+                  "title": "On the Pretext of Alleged Misrule",
+                  "sequence_number": 4,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "In 1856, **Lord Dalhousie** annexed **Awadh** to the Company's dominions on the pretext of alleged misrule. He declared that Awadh was being misgoverned and British rule was needed to ensure proper administration.\n\nLord Dalhousie justified the annexation of Awadh on the pretext of **\"the good of the governed.\"** On the contrary, the people of Awadh, had to face more hardships.\n*   They had to pay higher land revenue and additional taxes on food, houses and ferries.\n*   The dissolution of the Nawab of Awadh's army and administration threw thousands of nobles, officials and soldiers out of jobs.\n*   The British confiscated the estates of the **taluqdars** or **zamindars**. The dispossessed taluqdars became the opponents of the British rule.\n*   The Company's sepoys, of whom 75,000 were from Awadh, were the worst affected. These soldiers had helped the British to conquer the rest of India. But they resented the fact that their homelands had come under foreign rule. The annexation of Awadh also affected the soldier's financial position. They had to pay higher taxes on the land their families held in Awadh.\n\nEnraged by the humiliating way in which the Nawab of Awadh was deposed, the people of Awadh joined the uprising that broke in 1857. Awadh played a major role in the Uprising of 1857."
+                    }
+                  ]
+                }
+              ],
+              "content_blocks": []
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "Disrespect Shown to Bahadur Shah",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "Bahadur Shah Zafar, the **Mughal ruler**, was under the protection of the Company and received a pension from the British. The name of the **Mughal King** was removed from the coins minted by the Company.\n\n[Image: Bahadur Shah Zafar]\n[Image: Zeenat Mahal]\n\nIn **1849**, **Lord Dalhousie** announced that successors of **Bahadur Shah Zafar** would not be permitted to use the **Red Fort** as their palace. They were required to shift to a place near the **Qutab Minar**.\n\nIn **1856**, **Lord Canning** announced that after the death of **Bahadur Shah**, his successors would not be allowed to use the **imperial titles** with their names and would be known as **mere princes**. This decision of the British hurt the feelings of the Mughals. Consequently, **Zeenat Mahal**, the wife of Bahadur Shah, began plotting against them."
+            }
+          ]
+        },
+        {
+          "title": "Treatment Given to Nana Saheb",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**Nana Saheb** was the adopted son of **Baji Rao II**, the last **Peshwa**. The British refused to grant **Nana Saheb** the pension they were paying to **Baji Rao II**. **Nana Saheb** was forced to live at **Kanpur**, far away from his family seat at **Poona (Pune)**. This was widely resented in the **Maratha region**. **Nana Saheb** had inherited wealth from the former **Peshwa**, which he utilised in sending emissaries to different parts of the country for generating awareness among the Indians about the British policies. **Nana Saheb** also travelled between Delhi and Lucknow to gather support for the movement.\n\nOther Indian rulers, who were not adversely affected, also became suspicious of their future."
+            },
+            {
+              "content_md": "[Image: ■ Baji Rao II ■ Nana Saheb]"
+            }
+          ]
+        },
+        {
+          "title": "Absentee Sovereignty of the British",
+          "sequence_number": 4,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**Absentee Sovereignty of the British** means that India was being ruled by the British government from **England**, at a distance of thousands of miles. This was resented by the Indians. The earlier rulers like the **Mughals**, who had conquered India, had in course of time settled in India. The revenues they collected from the Indians were spent in India only. But in the case of Britain, the Indians felt that they were being ruled from England and **India's wealth was being drained to England** and not utilised for their welfare."
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    },
+    {
+      "title": "Socio-Religious Causes",
+      "sequence_number": 2,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "Interference with Social Customs",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "Some of the social reforms introduced by the British in India were aimed at improving the conditions of the people. However, while introducing such reforms the feelings of the people were not taken into consideration. The result was that the reforms like the **Abolition of Sati (1829)**, the introduction of the **Widow Remarriage Act (1856)** and the opening of **Western education to girls** were not welcomed by the masses."
+            }
+          ]
+        },
+        {
+          "title": "Apprehensions about Modern Innovations",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "People were suspicious of the introduction of **modern innovations** like **railways** and **telegraph**. There were rumours that **telegraph poles** were erected to hang those who were against the British rule. Similarly, orthodox Indians noted that in the **railway compartments** the higher castes and the lower castes were made to sit side by side. They believed that the British had introduced such practices to **defy their caste and religion**."
+            }
+          ]
+        },
+        {
+          "title": "Policy of Racial Discrimination",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **British officers** were rude and arrogant towards the Indians. They believed that they were **superior to Indians** and followed a **policy of contempt** towards them. They dubbed the Mughals as cruel and unfaithful. Some European officers ill-treated and insulted Indians. Such acts of **unjust discrimination** alienated the British from the Indian masses."
+            }
+          ]
+        },
+        {
+          "title": "Corruption in Administration",
+          "sequence_number": 4,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **police** and **petty officials** of the **British East India Company** were **corrupt**. The rich got away with crime but the **common man** was looted, oppressed and tortured."
+            }
+          ]
+        },
+        {
+          "title": "Oppression of the Poor",
+          "sequence_number": 5,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **complex judicial system** enabled the rich to oppress the poor. **Flogging, torture and imprisonment** of cultivators for their inability to pay **arrears of rent, land revenue and interest on debt** were quite common. Thus, the **growing poverty** made the poor desperate and led them to join a general uprising in the hope of improving their lot."
+            }
+          ]
+        },
+        {
+          "title": "Activities of Missionaries",
+          "sequence_number": 6,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The British were different from Indians in race, religion and sentiments. In the **18th century**, the British showed a friendly attitude towards Indian religions. They had no particular zeal for their own religion and the Company even acted as trustees of some Hindu temples. However, in the **19th century**, this attitude underwent a change. The British began to interfere with the local religious and social customs. They denounced **idol worship** and dubbed local beliefs as ignorance.\n\nThe **Charter Act (1813)** led to an increase both in the numbers and activities of the **Christian missionaries**. The Indians thought that the Government was supporting missionaries who would convert them to **Christianity**."
+            }
+          ]
+        },
+        {
+          "title": "Fears Regarding Western Education",
+          "sequence_number": 7,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **Western system of education** was introduced in a number of schools. In **1829**, the Bengal Government established an English class in the **Calcutta Madrasa**, which was a Muslim institution. Later, English classes were introduced in **Benaras Sanskrit College**. The shifting of emphasis from oriental learning to Western education was not received well by the people, especially the **Pandits** and the **Maulvis**. They saw in it an attempt to discourage traditional Islamic and Hindu studies. People started suspecting that the aim of Western education was not to promote literature and sciences but to encourage their children to become Christians."
+            }
+          ]
+        },
+        {
+          "title": "Taxing Religious Places",
+          "sequence_number": 8,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "Religious sentiments of the Indians were hurt by the official policy of **taxing lands belonging to temples and mosques**. Such lands had been **exempted from taxation by previous Indian rulers**. The families dependent on these lands, began to propagate that the British were trying to **undermine the religions of India**."
+            }
+          ]
+        },
+        {
+          "title": "Law of Property",
+          "sequence_number": 9,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **Religious Disabilities Act of 1850** changed the **Hindu Law of Property**. It enabled a convert from Hinduism to other religions to inherit the property of his father. The Hindus regarded this as an incentive to give up one's religious faith."
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    },
+    {
+      "title": "Economic Causes",
+      "sequence_number": 3,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "Exploitation of Economic Resources",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The British exploited the Indian resources for their own benefits. They made agricultural India an **economic colony** to serve the interests of industrial England. India was forced to export, at cheaper rates, raw materials like **raw cotton** and **raw silk** that the British industries needed urgently; plantation products (like **indigo** and **tea**); and food grains which were in short supply in Britain.\n\nIndia was made to accept readymade British goods either **duty-free** or at **nominal duty rates**, while Indian products were subjected to **high import duties** in England. The Indian handmade goods were unable to compete with the cheaper, machine-made British products. This ruined the **Indian industry**, deprived the **artisans** of their income and reduced the avenues of employment for **labour**. On the other hand, export of raw materials and food grains deprived India of her agricultural surplus and raised the prices of raw materials. Thus, the change in the nature of India's trade became an instrument for exploiting India's resources."
+            }
+          ]
+        },
+        {
+          "title": "Drain of Wealth",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "Till the **Battle of Plassey (1757)**, the European traders used to bring gold into India to buy Indian cotton and silk. However, after the conquest of Bengal, the British stopped getting gold into India. They began to purchase raw material for their industries in England from the surplus revenues of Bengal and profits from duty-free inland-trade. Thus, began the process of plundering India's raw materials, resources and wealth by Britain. **The transfer of wealth from India to England for which India got no proportionate economic return, is called the Drain of Wealth**. The drain included the salaries, incomes and savings of Englishmen, the British expenditure in India on the purchase of military goods, office establishment, interest on debts, unnecessary expenditure on the army, etc."
+            }
+          ]
+        },
+        {
+          "title": "Decay of Cottage Industries and Handicrafts",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "*   **Heavy duties** on Indian **silk and cotton textiles** in Britain destroyed Indian industries. On the other hand, **British goods were imported into India at a nominal duty**.\n*   By the middle of the 19th century, the export of cotton and silk goods from India **practically ceased**.\n*   The art of **spinning and weaving**, which for ages had given employment to thousands of artisans, became extinct.\n*   The misery of the artisans was further compounded by the **disappearance of their traditional patrons and buyers**—the princes, chieftains and zamindars."
+            }
+          ]
+        },
+        {
+          "title": "Economic Decline of Peasantry",
+          "sequence_number": 4,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The peasants were discontent with the official **land revenue policy** and the consequent loss of their land. In fact, it was the peasantry that bore the heavy burden of taxes to provide money for the trade of the Company, for the cost of administration and the wars of British expansion in India. For example, in Bengal, the land revenue was double the amount collected under the Mughals. Not even a part of this revenue was spent on the development of agriculture or on the welfare of the cultivator. Increase in the land revenue forced many peasants into **indebtedness** or into selling their lands. The **traditional zamindars** were replaced by **merchants and moneylenders**. These new landowners had no concern for the peasants. They pushed rents to **exorbitant levels** and evicted their tenants in case of non-payment. The economic decline of the peasants affected cultivation and led to many **famines**."
+            }
+          ]
+        },
+        {
+          "title": "Growing Unemployment",
+          "sequence_number": 5,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **traditional rulers** had given financial support to scholars, preachers and men of arts. The coming of the **British** led to the decline of such rulers and gradually their **patronage** came to an end. Thus, all those who depended on their patronage were impoverished.\n\nWhen the **native states were annexed** to the British dominion, thousands of **soldiers** and **officials** in administrative, military and judicial posts became unemployed because British policies **excluded Indians from high posts**. All these people became bitter enemies of the British rule in India."
+            }
+          ]
+        },
+        {
+          "title": "Inhuman Treatment of Indigo Cultivators",
+          "sequence_number": 6,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**Indigo trade** was highly profitable to the British but the conditions under which the peasants had to work were inhuman. The peasants were forced to cultivate only indigo in the fields chosen by the **British planters**. If they planted anything else, their crops were destroyed, and their cattle were carried off as punishment."
+            }
+          ]
+        },
+        {
+          "title": "Poverty and Famines",
+          "sequence_number": 7,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "British **economic exploitation**, **decay of indigenous industries**, **high taxation**, the **drain of wealth**, **stagnation of agriculture** and **exploitation of the poor peasants** reduced the Indians to **extreme poverty**. **Famines** ravaged the country in the second half of the 19th century. There were four major and numerous minor famines between 1765 and 1857. The famines were the result of drought, other natural calamities as well as bad administration. The British government did nothing to lessen people's misery."
+            }
+          ]
+        },
+        {
+          "title": "Decline of Landed Aristocracy",
+          "sequence_number": 8,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **landed aristocracy**, which included the **taluqdars** and the **hereditary landlords**, were deprived of their estates. According to the provisions of the **Inam Commission (1852)**, 20,000 estates were confiscated when the landlords failed to produce evidence like **title-deeds** by which they held the land. These confiscated lands were sold by public auction to the highest bidders. Such estates were usually purchased by merchants and moneylenders who did not understand the needs of the tenants and exploited them. This drove the landed aristocracy to poverty without benefiting the peasantry, which suffered under the weight of exorbitant land revenue."
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    },
+    {
+      "title": "Military Causes",
+      "sequence_number": 4,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "Ill-treatment of Indian soldiers",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **East India Company** established the British Empire in India with the help of **Indian soldiers**. Despite the fact that Indian soldiers were as efficient as their British counterparts, they were **poorly paid, ill-fed and badly housed**. British military authorities forbade the **sepoys** from wearing **caste or sectarian marks, beards or turbans**; and they showed disregard for the sentiments of the sepoys."
+            }
+          ]
+        },
+        {
+          "title": "General Service Enlistment Act",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "According to traditional belief, it was a taboo for a **Brahmin** to cross the seas. The **British Parliament** passed the **General Service Enlistment Act** in **1856**. As per this Act, **Indian soldiers** could be sent **overseas on duty**. The Act did not take into account the sentiment of the Indian soldiers. The **Brahmin soldiers** saw in this a danger to their **caste**. This led to a feeling of **resentment** among them."
+            }
+          ]
+        },
+        {
+          "title": "Larger Proportion of Indians in the British Army",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The number of **British troops** in India was never very large with the British in the **ratio** as low as one in four thousand. **Dalhousie** had recommended that more British soldiers should be recruited in the army. This could not come through. Thus, it made it easier for the **large number of Indian soldiers** to take up arms against the British."
+            }
+          ]
+        },
+        {
+          "title": "Bleak Prospects of Promotions",
+          "sequence_number": 4,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "All higher positions in employment were reserved for the British, irrespective of their performance. Even the Indian soldiers formerly occupying high positions in the armies of native princes could not rise above the rank of a **Subedar**. The future of the Indian soldiers was bleak without chances of promotions."
+            }
+          ]
+        },
+        {
+          "title": "Deprivation of Allowances",
+          "sequence_number": 5,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The extension of British dominion in India adversely affected the service conditions of the sepoys. They were required to serve in areas away from their homes without extra payment and additional **Bhatta** (foreign service allowance). The **Post Office Act of 1854** withdrew the privilege of free postage enjoyed by sepoys."
+            }
+          ]
+        },
+        {
+          "title": "Faulty Distribution of Troops",
+          "sequence_number": 6,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "Places of **strategic importance** like **Delhi** and **Allahabad** had no British armies and were wholly held by the Indian soldiers. Besides, England was engaged in several wars outside India, e.g., the **Persian (Iranian) War**, the **Crimean War** and the **Chinese War**. Indian soldiers had the feeling that the British were in difficulty and the safety of their Indian empire depended on them. They were, therefore, determined to strike at them at a suitable time."
+            }
+          ]
+        },
+        {
+          "title": "Poor Performance of British Troops",
+          "sequence_number": 7,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **British army** suffered major reverses in the **First Afghan War** (1839-42), in the **Punjab Wars** (1845-49) and in the **Crimean War** (1853-56).\n\nIn 1855-56, the **Santhal tribesmen** of Bihar and Bengal armed with axes and bows rose up against the British, temporarily sweeping away the British rule from their area. Though the British suppressed the **Santhal Uprising**, the disasters they suffered broke the myth that the **British were invincible**. It further revealed to the Indian soldiers that the British army could be defeated by the determined Indian army."
+            }
+          ]
+        },
+        {
+          "title": "Lower Salaries",
+          "sequence_number": 8,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **wages** of the **Indian soldiers** were inadequate to support their families. On the other hand, the **British soldiers** received more than eight times the salary of the Indian soldiers."
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    },
+    {
+      "title": "IMMEDIATE CAUSE",
+      "sequence_number": 5,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "Introduction of the Enfield Rifle",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "In **1856**, the British authorities decided to replace the old fashioned musket, (called the **‘Brown Bess’**) by the new **‘Enfield rifle’**. The loading process of the Enfield rifle involved bringing the cartridge to the mouth and biting off the top **greased paper** with the teeth.\n\nIn **January 1857**, there was a **rumour** in the **Bengal regiments** that the **greased cartridge** had the **fat of cow or pig**. The sepoys were now convinced that the introduction of greased cartridges was a deliberate move to **defile Hindu and Muslim religions** as the **cow is sacred to Hindus** and the **pig is a taboo to Muslims**. So, both Hindu and Muslim soldiers refused to use these cartridges and staged an uprising when they were forced to use them."
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    },
+    {
+      "title": "BEGINNING OF THE UPRISING",
+      "sequence_number": 6,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "On **February 26, 1857**, the **19th Native Infantry** at **Berhampur** in Bengal, refused to accept the cartridges given to them. The regiment was disbanded as a warning to other regiments.\n\nThe sepoys feared loss of their caste and religion if they accepted the greased cartridges. As a result **Mangal Pandey**, a sepoy, led an attack on the **Adjutant of the 34th Native Infantry** at **Barrackpore** on **March 29, 1857**. Mangal Pandey was executed after a court-martial. For his fellow sepoys he became a **martyr**."
+        },
+        {
+          "content_md": "[Image: मंगल पांडे\nMANGAL PANDEY\nभारत\nINDIA\n50]"
+        }
+      ]
+    },
+    {
+      "title": "*MAIN EVENTS",
+      "sequence_number": 7,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "Events at Meerut",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "News of the events in Bengal spread like a wild fire. On **May 9**, eighty-five sepoys refused to touch the cartridges on the parade ground. They were sentenced to **10 years of rigorous imprisonment**. On **May 10** all the sepoys at **Meerut** rushed to the jail and set free their comrades and other convicts."
+            }
+          ]
+        },
+        {
+          "title": "Events at Delhi",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The soldiers from **Meerut** came to **Delhi** the next morning. They were joined by the local infantry. They seized the city and proclaimed the aged **Mughal Emperor Bahadur Shah** the emperor of India. He was coerced to write letters to all chiefs and rulers of India urging them to organise a **confederacy of Indian States** to fight against the British regime. In the process the British lost **Delhi**.\n\n**Sir John Nicholson** surrounded **Delhi** and after four months of attack captured **Delhi**. The old emperor **Bahadur Shah** was found guilty of aiding the movement."
+            }
+          ]
+        },
+        {
+          "title": "Events at Lucknow",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**Begum Hazrat Mahal**, the wife of the **Nawab of Awadh** led the Uprising at **Lucknow** on **May 30, 1857**. The city was recaptured by the British in **March 1858**. **Begum Hazrat Mahal** fled towards the Nepal frontier."
+            }
+          ]
+        },
+        {
+          "title": "Events at Kanpur",
+          "sequence_number": 4,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**Nana Saheb** led the struggle for independence at Kanpur. The British surrendered in **June 1857**. A large number of Englishmen, women and children were captured by an infuriated mob.\n\nThe British defeated **Nana Saheb** in **December, 1857**. **Nana Saheb** fled towards Nepal. His general, **Tantia Tope**, escaped to **Kalpi**."
+            }
+          ]
+        },
+        {
+          "title": "Events in Central India (Jhansi and Gwalior)",
+          "sequence_number": 5,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The battle began at **Jhansi** early in **June, 1857**. **Sir Hugh Rose** laid siege to the fortress of **Jhansi** in **March 1858**. **Rani Laxmi Bai** resisted but **Jhansi** was captured by the British when traitors opened the gates of the fortress for them. The **Rani** escaped from the fortress on the night of **April 4, 1858** to join **Tantia Tope** at **Kalpi**.\n\nThe **Rani** died fighting the British on **June 17, 1858** at **Gwalior**. **Tantia Tope** was betrayed by the Gwalior Chief, **Man Singh** and was hanged on **April 18, 1859**."
+            }
+          ]
+        },
+        {
+          "title": "Events at Other Centres",
+          "sequence_number": 6,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "*   At **Bareilly**, **Khan Bahadur**, a descendant of the former ruler of **Rohilkhand**, took command of the movement.\n*   In **Bihar**, the struggle was led by **Kunwar Singh**, the zamindar of **Jagdishpur**. He had been deprived of his estates by the British.\n*   At **Faizabad**, the leadership was taken by **Maulvi Ahmadullah**, who aroused the Muslim community against the British rule.\n*   In several States in India, the rulers remained loyal to the British Government but their soldiers rose against the British. In most of these places, common people rose up in arms and fought with their axes and spears, bows and arrows."
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    },
+    {
+      "title": "CONSEQUENCES OF THE FIRST WAR OF INDEPENDENCE",
+      "sequence_number": 8,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "Changes in Administration",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "End of the Company's Rule",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The most significant result of the **Uprising of 1857** was the end of the rule of the **East India Company** and assumption of the Government of India directly by the **Crown**. This was done by the **Government of India Act of 1858** which had the following provisions:\n\n1.  It transferred the power to govern India from the **East India Company** to the **British Crown**.\n2.  The Company's **Board of Control** and **Court of Directors** were abolished. A member of the British Cabinet was appointed **Secretary of State for India** and made responsible for all matters related to the governance of India. He was given a Council to advise him, called the **Indian Council**. Thus, the ultimate power over India remained with the **British Parliament**.\n3.  Actual governance was to be carried on, as before, by the **Governor-General** who was also given the title of **Viceroy**, that is, a personal representative of the Crown. **Lord Canning** was appointed as the first Viceroy under this Act.\n4.  Appointments to the **Civil Service** were to be made by **open competition** under rules made by the Secretary of State."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "Policy of Divide and Rule",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "After **1858**, the British continued their policy of **‘divide and rule’** by turning the princes against the people, province against province, caste against caste, group against group and above all, **Hindus against Muslims**. They alienated the people from their rulers by giving them special protection and concessions.\n\nDuring the **First War of Independence**, both the Hindus and the Muslims showed great enthusiasm and zeal to fight against the alien government. But after the Uprising, the gulf between the two communities widened. This was the consequence of the British policy of **‘Divide and Rule’** by which they sowed the seeds of dissension between the two communities. It was a deliberate attempt so that the two communities might never come together to pose a threat to the **British rule in India**.\n\nThe Government cleverly used the attractions of **government service** to create a split along religious lines among the **educated Indians**. The British also encouraged **hatred and ill-feeling** among the Hindus and the Muslims so that they could never challenge the **British Empire in India**."
+            }
+          ]
+        },
+        {
+          "title": "Racial Antagonism",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The British believed in their **racial superiority** and they thought that a **social distance** was to be maintained to preserve their authority over the Indians. Railway compartments, parks, hotels, clubs, etc., reserved for **'Europeans only'** were visible manifestations of this **racialism**.\n\nAfter the **Uprising of 1857**, **racial bitterness** increased. The British dubbed all Indians as **unworthy of trust** and subjected them to insults and humiliation. In fact, the entire structure of the Indian government was remodelled and based on the idea of a **superior race**."
+            }
+          ]
+        },
+        {
+          "title": "Foreign Policy",
+          "sequence_number": 4,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "India's foreign policy was dictated by the interests of the **British Government**. It fulfilled the two aims of the British – (a) **protection of its Indian Empire**; and (b) **expansion of British economic and commercial interests in Asia and Africa**.\n\nThe cost of implementation of these policies was borne by the Indians. For instance, India under the British had to wage wars with her neighbours like Nepal and Burma (Myanmar) in which **Indian soldiers had to shed their blood** and the **Indian taxpayers had to meet the heavy cost of the war**."
+            }
+          ]
+        },
+        {
+          "title": "Religious Changes",
+          "sequence_number": 5,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The British rulers declared emphatically their **policy of non-interference** in the religious affairs, customs and traditions of the Indians."
+            }
+          ]
+        },
+        {
+          "title": "Economic Exploitation",
+          "sequence_number": 6,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The most important reason for the popular discontent was the **economic exploitation** by the British. The economic exploitation took the following forms:"
+            }
+          ]
+        },
+        {
+          "title": "Queen Victoria's Proclamation",
+          "sequence_number": 7,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **Queen's Proclamation** incorporating the transfer of governance from the East India Company to the **British Crown** was made public at **Allahabad**, on **November 1, 1858**, by **Lord Canning**, the **first Viceroy of India**. The proclamation promised that the Government of India would—\n\n(i) follow a policy of **non-intervention** in social and religious matters of Indians;\n(ii) treat all subjects—Indians and Europeans—as equals (**education and ability** would be the basis of all appointments);\n(iii) grant a **general pardon** to all those who had taken part in the War except those who were found guilty of murder of British subjects;\n(iv) do its best to advance the **industries** in India; and\n(v) promote works of **public utility** in India so as to ensure the material as well as the moral progress of the people."
+            },
+            {
+              "content_md": "[Image: Queen Victoria]"
+            }
+          ]
+        },
+        {
+          "title": "Relations with Princely States",
+          "sequence_number": 8,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "[Image: Queen Victoria]\n\nWith the death of **Bahadur Shah II**, who was deported to Yangon, the **Mughal dynasty** came to an end. **Nana Saheb**, the last Peshwa, had taken an active part in the Uprising and had fled to Nepal after the failure of the Uprising. So the office of the **Peshwa** also came to an end. Thus, ended two of the most formidable foes of the British—the **Marathas** and the **Mughals**.\n\nThe **Policy of Annexation** and the **Doctrine of Lapse** were abandoned. Some of the Indian princes had remained loyal to the British and had helped them in suppressing the Uprising. Their loyalty was rewarded with the announcement that their **right to adopt heirs** would be respected and the integrity of their territories guaranteed against future annexation.\n\nIn **1876**, **Queen Victoria** assumed the title of the \"**Empress of India**.\" The Indian princes willingly became **junior partners or agents of the British Crown** because they were promised that they would continue as rulers of their States."
+            }
+          ]
+        },
+        {
+          "title": "Changes in the Army",
+          "sequence_number": 9,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The Indian army was reorganised after 1858, to prevent the reoccurrence of another uprising, in the following manner:"
+            },
+            {
+              "content_md": "1. The strength of **European troops** in India was increased. The ratio of European to **Indian troops** was fixed at **1:2 (Bengal army)** and **2:5 (Madras and Bombay armies)**. Practically the same ratio was maintained till the First World War. The general principle adopted was that the number of Indian sepoys should not exceed twice that of the European troops.\n2. **European troops** were kept in key geographical and military positions.\n3. To desist the Indian soldiers from rising again against the British rule, the **sophisticated weapons and ammunition** were never placed under the charge of Indians. All Indian **artillery units**, with the exceptions of a few mountain units, were disbanded.\n4. **Discrimination** on the basis of caste, region and religion was practised in the recruitment to the army.\n5. In order to discourage **nationalism**, measures such as introduction of caste and community in most regiments were taken.\n6. **Newspapers, journals and nationalist publications** were prevented from reaching the soldiers to keep the Indian army separated from the life of the rest of the population."
+            }
+          ]
+        },
+        {
+          "title": "THE DELHI DURBAR OF 1877",
+          "sequence_number": 10,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The 14-day grand extravaganza held at Delhi was attended by about 68,000 people including 63 Indian maharajas, nawabs, and other dignitaries gathered to pay homage to the **British Crown**. Each ruler received a gold commemorative banner and medal as a personal gift in commemoration of **Queen Victoria's proclamation as Empress of India**.\n\nQueen Victoria did not attend the **Delhi Durbar of 1877**; her proclamation address as India's new sovereign was read aloud in English and Urdu to her British and Indian subjects. **Lord Lytton**, the Viceroy of India, explained the gracious intentions of Her Majesty in assuming the new title of **Qaisar-i-Hind (Empress of India)**.\n\nIn the proclamation address, Queen Victoria promised that under her rule the principles of **liberty, equity and justice** would prevail. She wished and prayed for the well-being of her subjects and their health and happiness, which, she stated, was the most important thing in her heart. Above all she guaranteed them **religious freedom, education, and civil and government jobs**. They would be placed on **equal terms** with all other subjects of the British Crown."
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    },
+    {
+      "title": "DRAWBACKS OF THE FIRST WAR OF INDEPENDENCE",
+      "sequence_number": 9,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "The following were the drawbacks of the First War of Independence:\n\n1.  The movement did not have **common plans of military action** or a **centralised leadership**. The uprisings in different parts of the country were completely **uncoordinated**.\n2.  The movement had **no common goal** before it except for the **anti-foreign sentiments**.\n3.  The East India Company had the services of men of exceptional abilities like **Lawrence, Nicholson, Havelock, Outram, Campbell**, etc. They fought the toughest battles in the initial stages of the Uprising and controlled the situation till reinforcements were received from abroad.\n4.  The **British Empire** had far **superior resources** in terms of men, money and materials to the Indians.\n5.  The movement did not have **nationwide dimensions**. It could not spread much to **South India** and most of **Eastern or Western India**. **Sind** and **Rajasthan** remained quiet. **Nepal** helped in the suppression of the movement. **Bombay** and **Madras armies** remained loyal to the British.\n6.  Some of the **rulers of the Indian States** and the **big zamindars** refused to join the movement.\n7.  Some sections of the Indian society were **hostile to the Uprising**. For example, the **moneylenders** and the **big merchants** of Mumbai, Kolkata and Chennai, whose main profits came from economic connections with the British merchants. Besides, some zamindars of Bengal were loyal to the British. Some sections of the **educated Indians** did not support the cause as they had the wrong notion that the British rule would help them accomplish the task of modernisation while those opposing the British government would take the country backward.\n8.  The Uprising was supposed to begin on **May 31, 1857**. But due to the **greased cartridges incident**, it began much before the fixed date. So the whole plan remained **disorganised**."
+        }
+      ]
+    },
+    {
+      "title": "Nature of the War",
+      "sequence_number": 10,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "Historians and scholars have different views about the nature of the outbreak of 1857. **Vinayak Damodar Savarkar**, in his book *The Indian War of Independence* described it as “a planned war of national independence”. Noted historian **S.N. Sen** also believes that the Uprising of 1857 was a war of independence. According to him, the Uprising began as a fight for religion and ended as a War of Independence as the revolutionaries wanted to get rid of the alien government and restore the old order of which the King of Delhi was the rightful representative.\n\nWhatever be the nature of the Uprising of 1857, it is generally hailed as the **First War of Independence**, because:\n1. It was the **first mass Uprising** in which all the sections of Indian society participated against a common enemy, i.e., the British.\n2. It paved the way for the rise of **modern national movement**. The sacrifices made by **Rani Laxmi Bai**, **Nana Saheb** and **Mangal Pandey** served as a source of inspiration to the leaders and people to fight for the independence of India from the British rule."
+        }
+      ]
+    }
+  ],
+  "additional_sections": [
+    {
+      "title": "Chronology of Events",
+      "content_md": "### Chronology of Events\n**February 26, 1857:** Unrest among the soldiers at Berhampur, Bengal.\n\n**March 29, 1857:** Resentment by Mangal Pandey at Barrackpore.\n\n**May 9, 1857:** Resentment by 85 sepoys of the Third Cavalry at Meerut.\n\n**May 10, 1857:** The Sepoys at Meerut broke out openly against the British and headed towards Delhi.\n\n**May 11-30, 1857:** Outbreaks in Delhi, Ferozepur, Bombay, Bareilly, Aligarh, Etawah, Bulandshahr, Lucknow. The Mughal Emperor proclaimed as the Emperor of India.\n\n**June 1857:** Uprising at Gwalior, Bharatpur, Jhansi, Allahabad, Faizabad.\n\n**August 1857:** Uprising at Indore, Mhow, Saugar, Jhelum, Sialkot, etc.\n\n**September 1857:** Recapture of Delhi by the English.\n\n**June 1857:** Defeat of the British at Kanpur.\n\n**December 1857:** Victory of the British at Kanpur, escape of Tantia Tope.\n\n**March 1858:** Recapture of Lucknow by the British.\n\n**April 1858:** Victory of the British at Jhansi. Uprising in Bihar by Kunwar Singh.\n\n**June 17, 1858:** Death of Rani of Jhansi.\n\n**July-December 1858:** Re-establishment of British Authority in India.\n\n**April 1859:** Tantia Tope captured and hanged to death."
+    }
+  ],
+  "needs_review": [],
+  "manifest": {
+    "syllabus_leaves": [
+      {
+        "path": "CAUSES OF THE FIRST WAR OF INDEPENDENCE > Political Causes > Policy of Expansion > By Outright Wars",
+        "path_titles": [
+          "CAUSES OF THE FIRST WAR OF INDEPENDENCE",
+          "Political Causes",
+          "Policy of Expansion",
+          "By Outright Wars"
+        ],
+        "title": "By Outright Wars",
+        "sequence_number": 1,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "CAUSES OF THE FIRST WAR OF INDEPENDENCE > Political Causes > Policy of Expansion > By Subsidiary Alliance",
+        "path_titles": [
+          "CAUSES OF THE FIRST WAR OF INDEPENDENCE",
+          "Political Causes",
+          "Policy of Expansion",
+          "By Subsidiary Alliance"
+        ],
+        "title": "By Subsidiary Alliance",
+        "sequence_number": 2,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "CAUSES OF THE FIRST WAR OF INDEPENDENCE > Political Causes > Policy of Expansion > By Using the Doctrine of Lapse",
+        "path_titles": [
+          "CAUSES OF THE FIRST WAR OF INDEPENDENCE",
+          "Political Causes",
+          "Policy of Expansion",
+          "By Using the Doctrine of Lapse"
+        ],
+        "title": "By Using the Doctrine of Lapse",
+        "sequence_number": 3,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "CAUSES OF THE FIRST WAR OF INDEPENDENCE > Political Causes > Policy of Expansion > On the Pretext of Alleged Misrule",
+        "path_titles": [
+          "CAUSES OF THE FIRST WAR OF INDEPENDENCE",
+          "Political Causes",
+          "Policy of Expansion",
+          "On the Pretext of Alleged Misrule"
+        ],
+        "title": "On the Pretext of Alleged Misrule",
+        "sequence_number": 4,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "CAUSES OF THE FIRST WAR OF INDEPENDENCE > Disrespect Shown to Bahadur Shah",
+        "path_titles": [
+          "CAUSES OF THE FIRST WAR OF INDEPENDENCE",
+          "Disrespect Shown to Bahadur Shah"
+        ],
+        "title": "Disrespect Shown to Bahadur Shah",
+        "sequence_number": 2,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "CAUSES OF THE FIRST WAR OF INDEPENDENCE > Treatment Given to Nana Saheb",
+        "path_titles": [
+          "CAUSES OF THE FIRST WAR OF INDEPENDENCE",
+          "Treatment Given to Nana Saheb"
+        ],
+        "title": "Treatment Given to Nana Saheb",
+        "sequence_number": 3,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "CAUSES OF THE FIRST WAR OF INDEPENDENCE > Absentee Sovereignty of the British",
+        "path_titles": [
+          "CAUSES OF THE FIRST WAR OF INDEPENDENCE",
+          "Absentee Sovereignty of the British"
+        ],
+        "title": "Absentee Sovereignty of the British",
+        "sequence_number": 4,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Socio-Religious Causes > Interference with Social Customs",
+        "path_titles": [
+          "Socio-Religious Causes",
+          "Interference with Social Customs"
+        ],
+        "title": "Interference with Social Customs",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Socio-Religious Causes > Apprehensions about Modern Innovations",
+        "path_titles": [
+          "Socio-Religious Causes",
+          "Apprehensions about Modern Innovations"
+        ],
+        "title": "Apprehensions about Modern Innovations",
+        "sequence_number": 2,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Socio-Religious Causes > Policy of Racial Discrimination",
+        "path_titles": [
+          "Socio-Religious Causes",
+          "Policy of Racial Discrimination"
+        ],
+        "title": "Policy of Racial Discrimination",
+        "sequence_number": 3,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Socio-Religious Causes > Corruption in Administration",
+        "path_titles": [
+          "Socio-Religious Causes",
+          "Corruption in Administration"
+        ],
+        "title": "Corruption in Administration",
+        "sequence_number": 4,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Socio-Religious Causes > Oppression of the Poor",
+        "path_titles": [
+          "Socio-Religious Causes",
+          "Oppression of the Poor"
+        ],
+        "title": "Oppression of the Poor",
+        "sequence_number": 5,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Socio-Religious Causes > Activities of Missionaries",
+        "path_titles": [
+          "Socio-Religious Causes",
+          "Activities of Missionaries"
+        ],
+        "title": "Activities of Missionaries",
+        "sequence_number": 6,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Socio-Religious Causes > Fears Regarding Western Education",
+        "path_titles": [
+          "Socio-Religious Causes",
+          "Fears Regarding Western Education"
+        ],
+        "title": "Fears Regarding Western Education",
+        "sequence_number": 7,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Socio-Religious Causes > Taxing Religious Places",
+        "path_titles": [
+          "Socio-Religious Causes",
+          "Taxing Religious Places"
+        ],
+        "title": "Taxing Religious Places",
+        "sequence_number": 8,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Socio-Religious Causes > Law of Property",
+        "path_titles": [
+          "Socio-Religious Causes",
+          "Law of Property"
+        ],
+        "title": "Law of Property",
+        "sequence_number": 9,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Economic Causes > Exploitation of Economic Resources",
+        "path_titles": [
+          "Economic Causes",
+          "Exploitation of Economic Resources"
+        ],
+        "title": "Exploitation of Economic Resources",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Economic Causes > Drain of Wealth",
+        "path_titles": [
+          "Economic Causes",
+          "Drain of Wealth"
+        ],
+        "title": "Drain of Wealth",
+        "sequence_number": 2,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Economic Causes > Decay of Cottage Industries and Handicrafts",
+        "path_titles": [
+          "Economic Causes",
+          "Decay of Cottage Industries and Handicrafts"
+        ],
+        "title": "Decay of Cottage Industries and Handicrafts",
+        "sequence_number": 3,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Economic Causes > Economic Decline of Peasantry",
+        "path_titles": [
+          "Economic Causes",
+          "Economic Decline of Peasantry"
+        ],
+        "title": "Economic Decline of Peasantry",
+        "sequence_number": 4,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Economic Causes > Growing Unemployment",
+        "path_titles": [
+          "Economic Causes",
+          "Growing Unemployment"
+        ],
+        "title": "Growing Unemployment",
+        "sequence_number": 5,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Economic Causes > Inhuman Treatment of Indigo Cultivators",
+        "path_titles": [
+          "Economic Causes",
+          "Inhuman Treatment of Indigo Cultivators"
+        ],
+        "title": "Inhuman Treatment of Indigo Cultivators",
+        "sequence_number": 6,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Economic Causes > Poverty and Famines",
+        "path_titles": [
+          "Economic Causes",
+          "Poverty and Famines"
+        ],
+        "title": "Poverty and Famines",
+        "sequence_number": 7,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Economic Causes > Decline of Landed Aristocracy",
+        "path_titles": [
+          "Economic Causes",
+          "Decline of Landed Aristocracy"
+        ],
+        "title": "Decline of Landed Aristocracy",
+        "sequence_number": 8,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Military Causes > Ill-treatment of Indian soldiers",
+        "path_titles": [
+          "Military Causes",
+          "Ill-treatment of Indian soldiers"
+        ],
+        "title": "Ill-treatment of Indian soldiers",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Military Causes > General Service Enlistment Act",
+        "path_titles": [
+          "Military Causes",
+          "General Service Enlistment Act"
+        ],
+        "title": "General Service Enlistment Act",
+        "sequence_number": 2,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Military Causes > Larger Proportion of Indians in the British Army",
+        "path_titles": [
+          "Military Causes",
+          "Larger Proportion of Indians in the British Army"
+        ],
+        "title": "Larger Proportion of Indians in the British Army",
+        "sequence_number": 3,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Military Causes > Bleak Prospects of Promotions",
+        "path_titles": [
+          "Military Causes",
+          "Bleak Prospects of Promotions"
+        ],
+        "title": "Bleak Prospects of Promotions",
+        "sequence_number": 4,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Military Causes > Deprivation of Allowances",
+        "path_titles": [
+          "Military Causes",
+          "Deprivation of Allowances"
+        ],
+        "title": "Deprivation of Allowances",
+        "sequence_number": 5,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Military Causes > Faulty Distribution of Troops",
+        "path_titles": [
+          "Military Causes",
+          "Faulty Distribution of Troops"
+        ],
+        "title": "Faulty Distribution of Troops",
+        "sequence_number": 6,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Military Causes > Poor Performance of British Troops",
+        "path_titles": [
+          "Military Causes",
+          "Poor Performance of British Troops"
+        ],
+        "title": "Poor Performance of British Troops",
+        "sequence_number": 7,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Military Causes > Lower Salaries",
+        "path_titles": [
+          "Military Causes",
+          "Lower Salaries"
+        ],
+        "title": "Lower Salaries",
+        "sequence_number": 8,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "IMMEDIATE CAUSE > Introduction of the Enfield Rifle",
+        "path_titles": [
+          "IMMEDIATE CAUSE",
+          "Introduction of the Enfield Rifle"
+        ],
+        "title": "Introduction of the Enfield Rifle",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "BEGINNING OF THE UPRISING",
+        "path_titles": [
+          "BEGINNING OF THE UPRISING"
+        ],
+        "title": "BEGINNING OF THE UPRISING",
+        "sequence_number": 6,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "*MAIN EVENTS > Events at Meerut",
+        "path_titles": [
+          "*MAIN EVENTS",
+          "Events at Meerut"
+        ],
+        "title": "Events at Meerut",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "*MAIN EVENTS > Events at Delhi",
+        "path_titles": [
+          "*MAIN EVENTS",
+          "Events at Delhi"
+        ],
+        "title": "Events at Delhi",
+        "sequence_number": 2,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "*MAIN EVENTS > Events at Lucknow",
+        "path_titles": [
+          "*MAIN EVENTS",
+          "Events at Lucknow"
+        ],
+        "title": "Events at Lucknow",
+        "sequence_number": 3,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "*MAIN EVENTS > Events at Kanpur",
+        "path_titles": [
+          "*MAIN EVENTS",
+          "Events at Kanpur"
+        ],
+        "title": "Events at Kanpur",
+        "sequence_number": 4,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "*MAIN EVENTS > Events in Central India (Jhansi and Gwalior)",
+        "path_titles": [
+          "*MAIN EVENTS",
+          "Events in Central India (Jhansi and Gwalior)"
+        ],
+        "title": "Events in Central India (Jhansi and Gwalior)",
+        "sequence_number": 5,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "*MAIN EVENTS > Events at Other Centres",
+        "path_titles": [
+          "*MAIN EVENTS",
+          "Events at Other Centres"
+        ],
+        "title": "Events at Other Centres",
+        "sequence_number": 6,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "CONSEQUENCES OF THE FIRST WAR OF INDEPENDENCE > Changes in Administration > End of the Company's Rule",
+        "path_titles": [
+          "CONSEQUENCES OF THE FIRST WAR OF INDEPENDENCE",
+          "Changes in Administration",
+          "End of the Company's Rule"
+        ],
+        "title": "End of the Company's Rule",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "CONSEQUENCES OF THE FIRST WAR OF INDEPENDENCE > Policy of Divide and Rule",
+        "path_titles": [
+          "CONSEQUENCES OF THE FIRST WAR OF INDEPENDENCE",
+          "Policy of Divide and Rule"
+        ],
+        "title": "Policy of Divide and Rule",
+        "sequence_number": 2,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "CONSEQUENCES OF THE FIRST WAR OF INDEPENDENCE > Racial Antagonism",
+        "path_titles": [
+          "CONSEQUENCES OF THE FIRST WAR OF INDEPENDENCE",
+          "Racial Antagonism"
+        ],
+        "title": "Racial Antagonism",
+        "sequence_number": 3,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "CONSEQUENCES OF THE FIRST WAR OF INDEPENDENCE > Foreign Policy",
+        "path_titles": [
+          "CONSEQUENCES OF THE FIRST WAR OF INDEPENDENCE",
+          "Foreign Policy"
+        ],
+        "title": "Foreign Policy",
+        "sequence_number": 4,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "CONSEQUENCES OF THE FIRST WAR OF INDEPENDENCE > Religious Changes",
+        "path_titles": [
+          "CONSEQUENCES OF THE FIRST WAR OF INDEPENDENCE",
+          "Religious Changes"
+        ],
+        "title": "Religious Changes",
+        "sequence_number": 5,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "CONSEQUENCES OF THE FIRST WAR OF INDEPENDENCE > Economic Exploitation",
+        "path_titles": [
+          "CONSEQUENCES OF THE FIRST WAR OF INDEPENDENCE",
+          "Economic Exploitation"
+        ],
+        "title": "Economic Exploitation",
+        "sequence_number": 6,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "CONSEQUENCES OF THE FIRST WAR OF INDEPENDENCE > Queen Victoria's Proclamation",
+        "path_titles": [
+          "CONSEQUENCES OF THE FIRST WAR OF INDEPENDENCE",
+          "Queen Victoria's Proclamation"
+        ],
+        "title": "Queen Victoria's Proclamation",
+        "sequence_number": 7,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "CONSEQUENCES OF THE FIRST WAR OF INDEPENDENCE > Relations with Princely States",
+        "path_titles": [
+          "CONSEQUENCES OF THE FIRST WAR OF INDEPENDENCE",
+          "Relations with Princely States"
+        ],
+        "title": "Relations with Princely States",
+        "sequence_number": 8,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "CONSEQUENCES OF THE FIRST WAR OF INDEPENDENCE > Changes in the Army",
+        "path_titles": [
+          "CONSEQUENCES OF THE FIRST WAR OF INDEPENDENCE",
+          "Changes in the Army"
+        ],
+        "title": "Changes in the Army",
+        "sequence_number": 9,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "CONSEQUENCES OF THE FIRST WAR OF INDEPENDENCE > THE DELHI DURBAR OF 1877",
+        "path_titles": [
+          "CONSEQUENCES OF THE FIRST WAR OF INDEPENDENCE",
+          "THE DELHI DURBAR OF 1877"
+        ],
+        "title": "THE DELHI DURBAR OF 1877",
+        "sequence_number": 10,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "DRAWBACKS OF THE FIRST WAR OF INDEPENDENCE",
+        "path_titles": [
+          "DRAWBACKS OF THE FIRST WAR OF INDEPENDENCE"
+        ],
+        "title": "DRAWBACKS OF THE FIRST WAR OF INDEPENDENCE",
+        "sequence_number": 9,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "Nature of the War",
+        "path_titles": [
+          "Nature of the War"
+        ],
+        "title": "Nature of the War",
+        "sequence_number": 10,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      }
+    ],
+    "stray_leaves": [
+      {
+        "title": "Chronology of Events",
+        "insert_after_index": 55,
+        "micro_topics": [],
+        "has_notes": true
+      }
+    ]
+  }
+}

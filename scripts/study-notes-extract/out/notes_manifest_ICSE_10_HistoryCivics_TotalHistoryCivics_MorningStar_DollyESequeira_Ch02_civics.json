@@ -1,0 +1,594 @@
+{
+  "syllabus_leaves": [
+    {
+      "path": "Rajya Sabha > Composition",
+      "path_titles": [
+        "Rajya Sabha",
+        "Composition"
+      ],
+      "title": "Composition",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Rajya Sabha > Elected Members",
+      "path_titles": [
+        "Rajya Sabha",
+        "Elected Members"
+      ],
+      "title": "Elected Members",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Rajya Sabha > Nominated Members",
+      "path_titles": [
+        "Rajya Sabha",
+        "Nominated Members"
+      ],
+      "title": "Nominated Members",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Rajya Sabha > Qualifications for Membership",
+      "path_titles": [
+        "Rajya Sabha",
+        "Qualifications for Membership"
+      ],
+      "title": "Qualifications for Membership",
+      "sequence_number": 4,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Rajya Sabha > Disqualification of Membership",
+      "path_titles": [
+        "Rajya Sabha",
+        "Disqualification of Membership"
+      ],
+      "title": "Disqualification of Membership",
+      "sequence_number": 5,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Rajya Sabha > Election",
+      "path_titles": [
+        "Rajya Sabha",
+        "Election"
+      ],
+      "title": "Election",
+      "sequence_number": 6,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Rajya Sabha > Term",
+      "path_titles": [
+        "Rajya Sabha",
+        "Term"
+      ],
+      "title": "Term",
+      "sequence_number": 7,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Rajya Sabha > Presiding Officers > 1.",
+      "path_titles": [
+        "Rajya Sabha",
+        "Presiding Officers",
+        "1."
+      ],
+      "title": "1.",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Rajya Sabha > Presiding Officers > 2.",
+      "path_titles": [
+        "Rajya Sabha",
+        "Presiding Officers",
+        "2."
+      ],
+      "title": "2.",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Legislative Powers > 1. Matters in the Union List",
+      "path_titles": [
+        "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+        "Legislative Powers",
+        "1. Matters in the Union List"
+      ],
+      "title": "1. Matters in the Union List",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Legislative Powers > 2. Matters in the Concurrent List",
+      "path_titles": [
+        "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+        "Legislative Powers",
+        "2. Matters in the Concurrent List"
+      ],
+      "title": "2. Matters in the Concurrent List",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Legislative Powers > 3. Residuary Powers",
+      "path_titles": [
+        "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+        "Legislative Powers",
+        "3. Residuary Powers"
+      ],
+      "title": "3. Residuary Powers",
+      "sequence_number": 3,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Legislative Powers > 4. Matters in the State List > (a)",
+      "path_titles": [
+        "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+        "Legislative Powers",
+        "4. Matters in the State List",
+        "(a)"
+      ],
+      "title": "(a)",
+      "sequence_number": 1,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Legislative Powers > 4. Matters in the State List > (b)",
+      "path_titles": [
+        "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+        "Legislative Powers",
+        "4. Matters in the State List",
+        "(b)"
+      ],
+      "title": "(b)",
+      "sequence_number": 2,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Legislative Powers > 4. Matters in the State List > (c)",
+      "path_titles": [
+        "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+        "Legislative Powers",
+        "4. Matters in the State List",
+        "(c)"
+      ],
+      "title": "(c)",
+      "sequence_number": 3,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": false
+    },
+    {
+      "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Legislative Powers > 5. Ordinances",
+      "path_titles": [
+        "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+        "Legislative Powers",
+        "5. Ordinances"
+      ],
+      "title": "5. Ordinances",
+      "sequence_number": 5,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Legislative Powers > 6. Powers during Emergency",
+      "path_titles": [
+        "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+        "Legislative Powers",
+        "6. Powers during Emergency"
+      ],
+      "title": "6. Powers during Emergency",
+      "sequence_number": 6,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Financial Powers > 1. The Budget",
+      "path_titles": [
+        "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+        "Financial Powers",
+        "1. The Budget"
+      ],
+      "title": "1. The Budget",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Financial Powers > 2. Supplementary Grants",
+      "path_titles": [
+        "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+        "Financial Powers",
+        "2. Supplementary Grants"
+      ],
+      "title": "2. Supplementary Grants",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Financial Powers > 3. Vote on Account",
+      "path_titles": [
+        "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+        "Financial Powers",
+        "3. Vote on Account"
+      ],
+      "title": "3. Vote on Account",
+      "sequence_number": 3,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Financial Powers > 4. Salaries",
+      "path_titles": [
+        "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+        "Financial Powers",
+        "4. Salaries"
+      ],
+      "title": "4. Salaries",
+      "sequence_number": 4,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Financial Powers > 5. Permission for Taxes",
+      "path_titles": [
+        "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+        "Financial Powers",
+        "5. Permission for Taxes"
+      ],
+      "title": "5. Permission for Taxes",
+      "sequence_number": 5,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Judicial Powers > 1. Impeachment of the President",
+      "path_titles": [
+        "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+        "Judicial Powers",
+        "1. Impeachment of the President"
+      ],
+      "title": "1. Impeachment of the President",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Judicial Powers > 2. Removal of Judges, etc",
+      "path_titles": [
+        "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+        "Judicial Powers",
+        "2. Removal of Judges, etc"
+      ],
+      "title": "2. Removal of Judges, etc",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Judicial Powers > 3. Punishment",
+      "path_titles": [
+        "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+        "Judicial Powers",
+        "3. Punishment"
+      ],
+      "title": "3. Punishment",
+      "sequence_number": 3,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Electoral Functions > 1.",
+      "path_titles": [
+        "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+        "Electoral Functions",
+        "1."
+      ],
+      "title": "1.",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": false
+    },
+    {
+      "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Electoral Functions > 2.",
+      "path_titles": [
+        "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+        "Electoral Functions",
+        "2."
+      ],
+      "title": "2.",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Electoral Functions > 3.",
+      "path_titles": [
+        "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+        "Electoral Functions",
+        "3."
+      ],
+      "title": "3.",
+      "sequence_number": 3,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Amendment of the Constitution",
+      "path_titles": [
+        "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+        "Amendment of the Constitution"
+      ],
+      "title": "Amendment of the Constitution",
+      "sequence_number": 5,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Control over the Executive > 1. Interpellation",
+      "path_titles": [
+        "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+        "Control over the Executive",
+        "1. Interpellation"
+      ],
+      "title": "1. Interpellation",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Control over the Executive > 2. Motions of Censure",
+      "path_titles": [
+        "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+        "Control over the Executive",
+        "2. Motions of Censure"
+      ],
+      "title": "2. Motions of Censure",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Control over the Executive > 3. Monetary Controls",
+      "path_titles": [
+        "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+        "Control over the Executive",
+        "3. Monetary Controls"
+      ],
+      "title": "3. Monetary Controls",
+      "sequence_number": 3,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Other Powers > 1.",
+      "path_titles": [
+        "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+        "Other Powers",
+        "1."
+      ],
+      "title": "1.",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Other Powers > 2.",
+      "path_titles": [
+        "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+        "Other Powers",
+        "2."
+      ],
+      "title": "2.",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Other Powers > 3.",
+      "path_titles": [
+        "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+        "Other Powers",
+        "3."
+      ],
+      "title": "3.",
+      "sequence_number": 3,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Exclusive Powers of the Lok Sabha > 1.",
+      "path_titles": [
+        "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+        "Exclusive Powers of the Lok Sabha",
+        "1."
+      ],
+      "title": "1.",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Exclusive Powers of the Lok Sabha > 2.",
+      "path_titles": [
+        "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+        "Exclusive Powers of the Lok Sabha",
+        "2."
+      ],
+      "title": "2.",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Exclusive Powers of the Rajya Sabha > 1.",
+      "path_titles": [
+        "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+        "Exclusive Powers of the Rajya Sabha",
+        "1."
+      ],
+      "title": "1.",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": false
+    },
+    {
+      "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Exclusive Powers of the Rajya Sabha > 2.",
+      "path_titles": [
+        "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+        "Exclusive Powers of the Rajya Sabha",
+        "2."
+      ],
+      "title": "2.",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT > Exclusive Powers of the Rajya Sabha > 3.",
+      "path_titles": [
+        "POWERS AND FUNCTIONS OF THE UNION PARLIAMENT",
+        "Exclusive Powers of the Rajya Sabha",
+        "3."
+      ],
+      "title": "3.",
+      "sequence_number": 3,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "RELATIONSHIP BETWEEN THE TWO HOUSES OF THE PARLIAMENT > Difference over the Legislative Matters > 1. Ordinary Bills",
+      "path_titles": [
+        "RELATIONSHIP BETWEEN THE TWO HOUSES OF THE PARLIAMENT",
+        "Difference over the Legislative Matters",
+        "1. Ordinary Bills"
+      ],
+      "title": "1. Ordinary Bills",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "RELATIONSHIP BETWEEN THE TWO HOUSES OF THE PARLIAMENT > Difference over the Legislative Matters > 2. Money Bills",
+      "path_titles": [
+        "RELATIONSHIP BETWEEN THE TWO HOUSES OF THE PARLIAMENT",
+        "Difference over the Legislative Matters",
+        "2. Money Bills"
+      ],
+      "title": "2. Money Bills",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "RELATIONSHIP BETWEEN THE TWO HOUSES OF THE PARLIAMENT > Control over the Executive",
+      "path_titles": [
+        "RELATIONSHIP BETWEEN THE TWO HOUSES OF THE PARLIAMENT",
+        "Control over the Executive"
+      ],
+      "title": "Control over the Executive",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "RELATIONSHIP BETWEEN THE TWO HOUSES OF THE PARLIAMENT > Election of the President and the Vice-President",
+      "path_titles": [
+        "RELATIONSHIP BETWEEN THE TWO HOUSES OF THE PARLIAMENT",
+        "Election of the President and the Vice-President"
+      ],
+      "title": "Election of the President and the Vice-President",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "RELATIONSHIP BETWEEN THE TWO HOUSES OF THE PARLIAMENT > Impeachment",
+      "path_titles": [
+        "RELATIONSHIP BETWEEN THE TWO HOUSES OF THE PARLIAMENT",
+        "Impeachment"
+      ],
+      "title": "Impeachment",
+      "sequence_number": 4,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "RELATIONSHIP BETWEEN THE TWO HOUSES OF THE PARLIAMENT > Emergency Provision",
+      "path_titles": [
+        "RELATIONSHIP BETWEEN THE TWO HOUSES OF THE PARLIAMENT",
+        "Emergency Provision"
+      ],
+      "title": "Emergency Provision",
+      "sequence_number": 5,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    }
+  ],
+  "stray_leaves": []
+}

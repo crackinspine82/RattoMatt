@@ -1,0 +1,932 @@
+{
+  "syllabus_leaves": [
+    {
+      "path": "THE HIGH COURTS > Composition",
+      "path_titles": [
+        "THE HIGH COURTS",
+        "Composition"
+      ],
+      "title": "Composition",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "THE HIGH COURTS > Qualifications",
+      "path_titles": [
+        "THE HIGH COURTS",
+        "Qualifications"
+      ],
+      "title": "Qualifications",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "THE HIGH COURTS > Appointment of Judges",
+      "path_titles": [
+        "THE HIGH COURTS",
+        "Appointment of Judges"
+      ],
+      "title": "Appointment of Judges",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "THE HIGH COURTS > Conditions of Service",
+      "path_titles": [
+        "THE HIGH COURTS",
+        "Conditions of Service"
+      ],
+      "title": "Conditions of Service",
+      "sequence_number": 4,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "THE HIGH COURTS > A. Retirement, Removal and Transfer",
+      "path_titles": [
+        "THE HIGH COURTS",
+        "A. Retirement, Removal and Transfer"
+      ],
+      "title": "A. Retirement, Removal and Transfer",
+      "sequence_number": 5,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "THE HIGH COURTS > B. Salaries and Emoluments of Judges",
+      "path_titles": [
+        "THE HIGH COURTS",
+        "B. Salaries and Emoluments of Judges"
+      ],
+      "title": "B. Salaries and Emoluments of Judges",
+      "sequence_number": 6,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "THE HIGH COURTS > C. Restrictions on Practice",
+      "path_titles": [
+        "THE HIGH COURTS",
+        "C. Restrictions on Practice"
+      ],
+      "title": "C. Restrictions on Practice",
+      "sequence_number": 7,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "THE HIGH COURTS > D. Other Conditions > (i)",
+      "path_titles": [
+        "THE HIGH COURTS",
+        "D. Other Conditions",
+        "(i)"
+      ],
+      "title": "(i)",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "THE HIGH COURTS > D. Other Conditions > (ii)",
+      "path_titles": [
+        "THE HIGH COURTS",
+        "D. Other Conditions",
+        "(ii)"
+      ],
+      "title": "(ii)",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "THE HIGH COURTS > POWERS AND JURISDICTION OF HIGH COURT",
+      "path_titles": [
+        "THE HIGH COURTS",
+        "POWERS AND JURISDICTION OF HIGH COURT"
+      ],
+      "title": "POWERS AND JURISDICTION OF HIGH COURT",
+      "sequence_number": 9,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "THE HIGH COURTS > Original Jurisdiction > (i)",
+      "path_titles": [
+        "THE HIGH COURTS",
+        "Original Jurisdiction",
+        "(i)"
+      ],
+      "title": "(i)",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "THE HIGH COURTS > Original Jurisdiction > (ii)",
+      "path_titles": [
+        "THE HIGH COURTS",
+        "Original Jurisdiction",
+        "(ii)"
+      ],
+      "title": "(ii)",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "THE HIGH COURTS > Appellate Jurisdiction",
+      "path_titles": [
+        "THE HIGH COURTS",
+        "Appellate Jurisdiction"
+      ],
+      "title": "Appellate Jurisdiction",
+      "sequence_number": 11,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "THE HIGH COURTS > Civil Cases > (i)",
+      "path_titles": [
+        "THE HIGH COURTS",
+        "Civil Cases",
+        "(i)"
+      ],
+      "title": "(i)",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "THE HIGH COURTS > Civil Cases > (ii)",
+      "path_titles": [
+        "THE HIGH COURTS",
+        "Civil Cases",
+        "(ii)"
+      ],
+      "title": "(ii)",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "THE HIGH COURTS > Criminal Cases > (i)",
+      "path_titles": [
+        "THE HIGH COURTS",
+        "Criminal Cases",
+        "(i)"
+      ],
+      "title": "(i)",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "THE HIGH COURTS > Criminal Cases > (ii)",
+      "path_titles": [
+        "THE HIGH COURTS",
+        "Criminal Cases",
+        "(ii)"
+      ],
+      "title": "(ii)",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "THE HIGH COURTS > Criminal Cases > (iii)",
+      "path_titles": [
+        "THE HIGH COURTS",
+        "Criminal Cases",
+        "(iii)"
+      ],
+      "title": "(iii)",
+      "sequence_number": 3,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "THE HIGH COURTS > Criminal Cases > (iv)",
+      "path_titles": [
+        "THE HIGH COURTS",
+        "Criminal Cases",
+        "(iv)"
+      ],
+      "title": "(iv)",
+      "sequence_number": 4,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "THE HIGH COURTS > Advisory Jurisdiction",
+      "path_titles": [
+        "THE HIGH COURTS",
+        "Advisory Jurisdiction"
+      ],
+      "title": "Advisory Jurisdiction",
+      "sequence_number": 14,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "THE HIGH COURTS > Revisory Jurisdiction",
+      "path_titles": [
+        "THE HIGH COURTS",
+        "Revisory Jurisdiction"
+      ],
+      "title": "Revisory Jurisdiction",
+      "sequence_number": 15,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "THE HIGH COURTS > PUBLIC INTEREST LITIGATION (PIL)",
+      "path_titles": [
+        "THE HIGH COURTS",
+        "PUBLIC INTEREST LITIGATION (PIL)"
+      ],
+      "title": "PUBLIC INTEREST LITIGATION (PIL)",
+      "sequence_number": 16,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "THE HIGH COURTS > Judicial Review",
+      "path_titles": [
+        "THE HIGH COURTS",
+        "Judicial Review"
+      ],
+      "title": "Judicial Review",
+      "sequence_number": 17,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "THE HIGH COURTS > Court of Record > (i)",
+      "path_titles": [
+        "THE HIGH COURTS",
+        "Court of Record",
+        "(i)"
+      ],
+      "title": "(i)",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "THE HIGH COURTS > Court of Record > (ii)",
+      "path_titles": [
+        "THE HIGH COURTS",
+        "Court of Record",
+        "(ii)"
+      ],
+      "title": "(ii)",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "THE HIGH COURTS > FUNCTIONS OF THE HIGH COURT",
+      "path_titles": [
+        "THE HIGH COURTS",
+        "FUNCTIONS OF THE HIGH COURT"
+      ],
+      "title": "FUNCTIONS OF THE HIGH COURT",
+      "sequence_number": 19,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": false
+    },
+    {
+      "path": "THE HIGH COURTS > Settlement of Disputes",
+      "path_titles": [
+        "THE HIGH COURTS",
+        "Settlement of Disputes"
+      ],
+      "title": "Settlement of Disputes",
+      "sequence_number": 20,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "THE HIGH COURTS > Original:",
+      "path_titles": [
+        "THE HIGH COURTS",
+        "Original:"
+      ],
+      "title": "Original:",
+      "sequence_number": 21,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "THE HIGH COURTS > On Appeal:",
+      "path_titles": [
+        "THE HIGH COURTS",
+        "On Appeal:"
+      ],
+      "title": "On Appeal:",
+      "sequence_number": 22,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "THE HIGH COURTS > Enforcement of Fundamental Rights (Power to Issue Writs)",
+      "path_titles": [
+        "THE HIGH COURTS",
+        "Enforcement of Fundamental Rights (Power to Issue Writs)"
+      ],
+      "title": "Enforcement of Fundamental Rights (Power to Issue Writs)",
+      "sequence_number": 23,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "THE HIGH COURTS > *OTHER FUNCTIONS",
+      "path_titles": [
+        "THE HIGH COURTS",
+        "*OTHER FUNCTIONS"
+      ],
+      "title": "*OTHER FUNCTIONS",
+      "sequence_number": 24,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": false
+    },
+    {
+      "path": "THE HIGH COURTS > 1. High Court's Power of Superintendence > (i)",
+      "path_titles": [
+        "THE HIGH COURTS",
+        "1. High Court's Power of Superintendence",
+        "(i)"
+      ],
+      "title": "(i)",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "THE HIGH COURTS > 1. High Court's Power of Superintendence > (ii)",
+      "path_titles": [
+        "THE HIGH COURTS",
+        "1. High Court's Power of Superintendence",
+        "(ii)"
+      ],
+      "title": "(ii)",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": false
+    },
+    {
+      "path": "THE HIGH COURTS > 1. High Court's Power of Superintendence > (iii)",
+      "path_titles": [
+        "THE HIGH COURTS",
+        "1. High Court's Power of Superintendence",
+        "(iii)"
+      ],
+      "title": "(iii)",
+      "sequence_number": 3,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "THE HIGH COURTS > 1. High Court's Power of Superintendence > (iv)",
+      "path_titles": [
+        "THE HIGH COURTS",
+        "1. High Court's Power of Superintendence",
+        "(iv)"
+      ],
+      "title": "(iv)",
+      "sequence_number": 4,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": false
+    },
+    {
+      "path": "THE HIGH COURTS > 2. Administrative Functions",
+      "path_titles": [
+        "THE HIGH COURTS",
+        "2. Administrative Functions"
+      ],
+      "title": "2. Administrative Functions",
+      "sequence_number": 26,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "THE HIGH COURTS > 1.",
+      "path_titles": [
+        "THE HIGH COURTS",
+        "1."
+      ],
+      "title": "1.",
+      "sequence_number": 27,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "THE HIGH COURTS > 2.",
+      "path_titles": [
+        "THE HIGH COURTS",
+        "2."
+      ],
+      "title": "2.",
+      "sequence_number": 28,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "THE HIGH COURTS > 3. > (i)",
+      "path_titles": [
+        "THE HIGH COURTS",
+        "3.",
+        "(i)"
+      ],
+      "title": "(i)",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "THE HIGH COURTS > 3. > (ii)",
+      "path_titles": [
+        "THE HIGH COURTS",
+        "3.",
+        "(ii)"
+      ],
+      "title": "(ii)",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "THE HIGH COURTS > 3. > (iii)",
+      "path_titles": [
+        "THE HIGH COURTS",
+        "3.",
+        "(iii)"
+      ],
+      "title": "(iii)",
+      "sequence_number": 3,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "THE HIGH COURTS > INDEPENDENCE OF THE HIGH COURT",
+      "path_titles": [
+        "THE HIGH COURTS",
+        "INDEPENDENCE OF THE HIGH COURT"
+      ],
+      "title": "INDEPENDENCE OF THE HIGH COURT",
+      "sequence_number": 30,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "SUBORDINATE COURTS > Structure and Composition",
+      "path_titles": [
+        "SUBORDINATE COURTS",
+        "Structure and Composition"
+      ],
+      "title": "Structure and Composition",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "SUBORDINATE COURTS > Civil Courts",
+      "path_titles": [
+        "SUBORDINATE COURTS",
+        "Civil Courts"
+      ],
+      "title": "Civil Courts",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "SUBORDINATE COURTS > 1. The Court of the District Judge",
+      "path_titles": [
+        "SUBORDINATE COURTS",
+        "1. The Court of the District Judge"
+      ],
+      "title": "1. The Court of the District Judge",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "SUBORDINATE COURTS > 2. Court of Civil Judge",
+      "path_titles": [
+        "SUBORDINATE COURTS",
+        "2. Court of Civil Judge"
+      ],
+      "title": "2. Court of Civil Judge",
+      "sequence_number": 4,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "SUBORDINATE COURTS > 3. Munsif's Courts",
+      "path_titles": [
+        "SUBORDINATE COURTS",
+        "3. Munsif's Courts"
+      ],
+      "title": "3. Munsif's Courts",
+      "sequence_number": 5,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "SUBORDINATE COURTS > 4. Courts of Small Causes",
+      "path_titles": [
+        "SUBORDINATE COURTS",
+        "4. Courts of Small Causes"
+      ],
+      "title": "4. Courts of Small Causes",
+      "sequence_number": 6,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "SUBORDINATE COURTS > Term of Office",
+      "path_titles": [
+        "SUBORDINATE COURTS",
+        "Term of Office"
+      ],
+      "title": "Term of Office",
+      "sequence_number": 7,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "SUBORDINATE COURTS > Administrative Control:",
+      "path_titles": [
+        "SUBORDINATE COURTS",
+        "Administrative Control:"
+      ],
+      "title": "Administrative Control:",
+      "sequence_number": 8,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "SUBORDINATE COURTS > Criminal Courts",
+      "path_titles": [
+        "SUBORDINATE COURTS",
+        "Criminal Courts"
+      ],
+      "title": "Criminal Courts",
+      "sequence_number": 9,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "SUBORDINATE COURTS > Classification of Criminal Courts",
+      "path_titles": [
+        "SUBORDINATE COURTS",
+        "Classification of Criminal Courts"
+      ],
+      "title": "Classification of Criminal Courts",
+      "sequence_number": 10,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "SUBORDINATE COURTS > Sessions Court:",
+      "path_titles": [
+        "SUBORDINATE COURTS",
+        "Sessions Court:"
+      ],
+      "title": "Sessions Court:",
+      "sequence_number": 11,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "SUBORDINATE COURTS > Court of Chief Metropolitan Magistrate or Chief Judicial Magistrate:",
+      "path_titles": [
+        "SUBORDINATE COURTS",
+        "Court of Chief Metropolitan Magistrate or Chief Judicial Magistrate:"
+      ],
+      "title": "Court of Chief Metropolitan Magistrate or Chief Judicial Magistrate:",
+      "sequence_number": 12,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "SUBORDINATE COURTS > Court of the First Class Magistrates:",
+      "path_titles": [
+        "SUBORDINATE COURTS",
+        "Court of the First Class Magistrates:"
+      ],
+      "title": "Court of the First Class Magistrates:",
+      "sequence_number": 13,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "SUBORDINATE COURTS > Court of the Second Class Magistrates:",
+      "path_titles": [
+        "SUBORDINATE COURTS",
+        "Court of the Second Class Magistrates:"
+      ],
+      "title": "Court of the Second Class Magistrates:",
+      "sequence_number": 14,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "SUBORDINATE COURTS > Appeals",
+      "path_titles": [
+        "SUBORDINATE COURTS",
+        "Appeals"
+      ],
+      "title": "Appeals",
+      "sequence_number": 15,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "SUBORDINATE COURTS > *COURTS OF REVENUE",
+      "path_titles": [
+        "SUBORDINATE COURTS",
+        "*COURTS OF REVENUE"
+      ],
+      "title": "*COURTS OF REVENUE",
+      "sequence_number": 16,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "SUBORDINATE COURTS > 1. Board of Revenue:",
+      "path_titles": [
+        "SUBORDINATE COURTS",
+        "1. Board of Revenue:"
+      ],
+      "title": "1. Board of Revenue:",
+      "sequence_number": 17,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "SUBORDINATE COURTS > 2. Commissioner's Court:",
+      "path_titles": [
+        "SUBORDINATE COURTS",
+        "2. Commissioner's Court:"
+      ],
+      "title": "2. Commissioner's Court:",
+      "sequence_number": 18,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "SUBORDINATE COURTS > 3. Collector's Court:",
+      "path_titles": [
+        "SUBORDINATE COURTS",
+        "3. Collector's Court:"
+      ],
+      "title": "3. Collector's Court:",
+      "sequence_number": 19,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "SUBORDINATE COURTS > 4. Tehsildar's Court:",
+      "path_titles": [
+        "SUBORDINATE COURTS",
+        "4. Tehsildar's Court:"
+      ],
+      "title": "4. Tehsildar's Court:",
+      "sequence_number": 20,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "SUBORDINATE COURTS > 5. Naib Tehsildar's Court:",
+      "path_titles": [
+        "SUBORDINATE COURTS",
+        "5. Naib Tehsildar's Court:"
+      ],
+      "title": "5. Naib Tehsildar's Court:",
+      "sequence_number": 21,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "LOK ADALATS > Types of Lok Adalats",
+      "path_titles": [
+        "LOK ADALATS",
+        "Types of Lok Adalats"
+      ],
+      "title": "Types of Lok Adalats",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "LOK ADALATS > National Lok Adalat:",
+      "path_titles": [
+        "LOK ADALATS",
+        "National Lok Adalat:"
+      ],
+      "title": "National Lok Adalat:",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "LOK ADALATS > Permanent Lok Adalat:",
+      "path_titles": [
+        "LOK ADALATS",
+        "Permanent Lok Adalat:"
+      ],
+      "title": "Permanent Lok Adalat:",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "LOK ADALATS > Mobile Lok Adalats:",
+      "path_titles": [
+        "LOK ADALATS",
+        "Mobile Lok Adalats:"
+      ],
+      "title": "Mobile Lok Adalats:",
+      "sequence_number": 4,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "LOK ADALATS > Working of Lok Adalats",
+      "path_titles": [
+        "LOK ADALATS",
+        "Working of Lok Adalats"
+      ],
+      "title": "Working of Lok Adalats",
+      "sequence_number": 5,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "LOK ADALATS > Advantages of Lok Adalats > (i)",
+      "path_titles": [
+        "LOK ADALATS",
+        "Advantages of Lok Adalats",
+        "(i)"
+      ],
+      "title": "(i)",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "LOK ADALATS > Advantages of Lok Adalats > (ii)",
+      "path_titles": [
+        "LOK ADALATS",
+        "Advantages of Lok Adalats",
+        "(ii)"
+      ],
+      "title": "(ii)",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "LOK ADALATS > Advantages of Lok Adalats > (iii)",
+      "path_titles": [
+        "LOK ADALATS",
+        "Advantages of Lok Adalats",
+        "(iii)"
+      ],
+      "title": "(iii)",
+      "sequence_number": 3,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "LOK ADALATS > Advantages of Lok Adalats > (iv)",
+      "path_titles": [
+        "LOK ADALATS",
+        "Advantages of Lok Adalats",
+        "(iv)"
+      ],
+      "title": "(iv)",
+      "sequence_number": 4,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "LOK ADALATS > Scope of Lok Adalats",
+      "path_titles": [
+        "LOK ADALATS",
+        "Scope of Lok Adalats"
+      ],
+      "title": "Scope of Lok Adalats",
+      "sequence_number": 7,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "LOK ADALATS > Family Courts",
+      "path_titles": [
+        "LOK ADALATS",
+        "Family Courts"
+      ],
+      "title": "Family Courts",
+      "sequence_number": 8,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    }
+  ],
+  "stray_leaves": [
+    {
+      "title": "Appeals:",
+      "insert_after_index": 37,
+      "micro_topics": [],
+      "has_notes": true
+    },
+    {
+      "title": "DIFFERENCES BETWEEN COURT OF THE DISTRICT JUDGE AND SESSIONS COURT",
+      "insert_after_index": 40,
+      "micro_topics": [
+        "Court of the District Judge",
+        "Sessions Court"
+      ],
+      "has_notes": true
+    }
+  ]
+}

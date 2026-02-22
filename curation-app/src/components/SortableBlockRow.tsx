@@ -1,10 +1,9 @@
 import type { ReactNode } from 'react';
 import { useSortable } from '@dnd-kit/sortable';
 import { CSS } from '@dnd-kit/utilities';
-import type { DraftNoteBlock } from '../api';
 
 type SortableBlockRowProps = {
-  block: DraftNoteBlock;
+  block: { id: string };
   children: ReactNode;
 };
 

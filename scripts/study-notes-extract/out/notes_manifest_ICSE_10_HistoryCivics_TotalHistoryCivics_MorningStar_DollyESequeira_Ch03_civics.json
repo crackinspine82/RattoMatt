@@ -1,0 +1,364 @@
+{
+  "syllabus_leaves": [
+    {
+      "path": "The Union Executive > The President > Qualifications for Election",
+      "path_titles": [
+        "The Union Executive",
+        "The President",
+        "Qualifications for Election"
+      ],
+      "title": "Qualifications for Election",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "The Union Executive > The President > Composition of the Electoral College > Manner of Election",
+      "path_titles": [
+        "The Union Executive",
+        "The President",
+        "Composition of the Electoral College",
+        "Manner of Election"
+      ],
+      "title": "Manner of Election",
+      "sequence_number": 1,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "The Union Executive > The President > Composition of the Electoral College > Single Transferable Vote System",
+      "path_titles": [
+        "The Union Executive",
+        "The President",
+        "Composition of the Electoral College",
+        "Single Transferable Vote System"
+      ],
+      "title": "Single Transferable Vote System",
+      "sequence_number": 2,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "The Union Executive > The President > Reasons for Indirect Election",
+      "path_titles": [
+        "The Union Executive",
+        "The President",
+        "Reasons for Indirect Election"
+      ],
+      "title": "Reasons for Indirect Election",
+      "sequence_number": 3,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "The Union Executive > The President > Oath of Office",
+      "path_titles": [
+        "The Union Executive",
+        "The President",
+        "Oath of Office"
+      ],
+      "title": "Oath of Office",
+      "sequence_number": 4,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "The Union Executive > The President > Term of Office",
+      "path_titles": [
+        "The Union Executive",
+        "The President",
+        "Term of Office"
+      ],
+      "title": "Term of Office",
+      "sequence_number": 5,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "The Union Executive > The President > Vacation of Office",
+      "path_titles": [
+        "The Union Executive",
+        "The President",
+        "Vacation of Office"
+      ],
+      "title": "Vacation of Office",
+      "sequence_number": 6,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "The Union Executive > The President > Procedure for Impeachment of the President",
+      "path_titles": [
+        "The Union Executive",
+        "The President",
+        "Procedure for Impeachment of the President"
+      ],
+      "title": "Procedure for Impeachment of the President",
+      "sequence_number": 7,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "The Union Executive > The President > POWERS OF THE PRESIDENT OF INDIA > Executive Powers",
+      "path_titles": [
+        "The Union Executive",
+        "The President",
+        "POWERS OF THE PRESIDENT OF INDIA",
+        "Executive Powers"
+      ],
+      "title": "Executive Powers",
+      "sequence_number": 1,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "The Union Executive > The President > POWERS OF THE PRESIDENT OF INDIA > Diplomatic Powers",
+      "path_titles": [
+        "The Union Executive",
+        "The President",
+        "POWERS OF THE PRESIDENT OF INDIA",
+        "Diplomatic Powers"
+      ],
+      "title": "Diplomatic Powers",
+      "sequence_number": 2,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "The Union Executive > The President > POWERS OF THE PRESIDENT OF INDIA > Legislative Powers",
+      "path_titles": [
+        "The Union Executive",
+        "The President",
+        "POWERS OF THE PRESIDENT OF INDIA",
+        "Legislative Powers"
+      ],
+      "title": "Legislative Powers",
+      "sequence_number": 3,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": false
+    },
+    {
+      "path": "The Union Executive > The President > POWERS OF THE PRESIDENT OF INDIA > Financial Powers",
+      "path_titles": [
+        "The Union Executive",
+        "The President",
+        "POWERS OF THE PRESIDENT OF INDIA",
+        "Financial Powers"
+      ],
+      "title": "Financial Powers",
+      "sequence_number": 4,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "The Union Executive > The President > POWERS OF THE PRESIDENT OF INDIA > Military Powers",
+      "path_titles": [
+        "The Union Executive",
+        "The President",
+        "POWERS OF THE PRESIDENT OF INDIA",
+        "Military Powers"
+      ],
+      "title": "Military Powers",
+      "sequence_number": 5,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "The Union Executive > The President > POWERS OF THE PRESIDENT OF INDIA > Judicial Powers",
+      "path_titles": [
+        "The Union Executive",
+        "The President",
+        "POWERS OF THE PRESIDENT OF INDIA",
+        "Judicial Powers"
+      ],
+      "title": "Judicial Powers",
+      "sequence_number": 6,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "The Union Executive > The President > POWERS OF THE PRESIDENT OF INDIA > Discretionary Powers",
+      "path_titles": [
+        "The Union Executive",
+        "The President",
+        "POWERS OF THE PRESIDENT OF INDIA",
+        "Discretionary Powers"
+      ],
+      "title": "Discretionary Powers",
+      "sequence_number": 7,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "The Union Executive > The President > POWERS OF THE PRESIDENT OF INDIA > Emergency Powers",
+      "path_titles": [
+        "The Union Executive",
+        "The President",
+        "POWERS OF THE PRESIDENT OF INDIA",
+        "Emergency Powers"
+      ],
+      "title": "Emergency Powers",
+      "sequence_number": 8,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "The Union Executive > The President > POWERS OF THE PRESIDENT OF INDIA > National or General Emergency",
+      "path_titles": [
+        "The Union Executive",
+        "The President",
+        "POWERS OF THE PRESIDENT OF INDIA",
+        "National or General Emergency"
+      ],
+      "title": "National or General Emergency",
+      "sequence_number": 9,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "The Union Executive > The President > POWERS OF THE PRESIDENT OF INDIA > Breakdown of Constitutional Machinery",
+      "path_titles": [
+        "The Union Executive",
+        "The President",
+        "POWERS OF THE PRESIDENT OF INDIA",
+        "Breakdown of Constitutional Machinery"
+      ],
+      "title": "Breakdown of Constitutional Machinery",
+      "sequence_number": 10,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "The Union Executive > The President > POWERS OF THE PRESIDENT OF INDIA > Financial Emergency",
+      "path_titles": [
+        "The Union Executive",
+        "The President",
+        "POWERS OF THE PRESIDENT OF INDIA",
+        "Financial Emergency"
+      ],
+      "title": "Financial Emergency",
+      "sequence_number": 11,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "The Union Executive > VICE-PRESIDENT > Qualifications for Election",
+      "path_titles": [
+        "The Union Executive",
+        "VICE-PRESIDENT",
+        "Qualifications for Election"
+      ],
+      "title": "Qualifications for Election",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "The Union Executive > VICE-PRESIDENT > Election",
+      "path_titles": [
+        "The Union Executive",
+        "VICE-PRESIDENT",
+        "Election"
+      ],
+      "title": "Election",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "The Union Executive > VICE-PRESIDENT > Oath of Office",
+      "path_titles": [
+        "The Union Executive",
+        "VICE-PRESIDENT",
+        "Oath of Office"
+      ],
+      "title": "Oath of Office",
+      "sequence_number": 3,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "The Union Executive > VICE-PRESIDENT > Term of Office",
+      "path_titles": [
+        "The Union Executive",
+        "VICE-PRESIDENT",
+        "Term of Office"
+      ],
+      "title": "Term of Office",
+      "sequence_number": 4,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "The Union Executive > VICE-PRESIDENT > Powers and Functions > Chairman of the Rajya Sabha",
+      "path_titles": [
+        "The Union Executive",
+        "VICE-PRESIDENT",
+        "Powers and Functions",
+        "Chairman of the Rajya Sabha"
+      ],
+      "title": "Chairman of the Rajya Sabha",
+      "sequence_number": 1,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "The Union Executive > VICE-PRESIDENT > Powers and Functions > Taking over as the President",
+      "path_titles": [
+        "The Union Executive",
+        "VICE-PRESIDENT",
+        "Powers and Functions",
+        "Taking over as the President"
+      ],
+      "title": "Taking over as the President",
+      "sequence_number": 2,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    }
+  ],
+  "stray_leaves": [
+    {
+      "title": "Effects of General Emergency",
+      "insert_after_index": 20,
+      "micro_topics": [],
+      "has_notes": true
+    },
+    {
+      "title": "Effects of Emergency in a State",
+      "insert_after_index": 21,
+      "micro_topics": [],
+      "has_notes": true
+    },
+    {
+      "title": "Effect of Financial Emergency",
+      "insert_after_index": 22,
+      "micro_topics": [],
+      "has_notes": true
+    }
+  ]
+}

@@ -1,0 +1,919 @@
+{
+  "board": "ICSE",
+  "grade": 10,
+  "subject": "HistoryCivics",
+  "book_slug": "TotalHistoryCivics_MorningStar_DollyESequeira",
+  "book_meta": {
+    "book_name": "Total History & Civics",
+    "publication": "Morning Star",
+    "author": "Dolly E. Sequeira"
+  },
+  "chapter_sequence_number": 13,
+  "chapter_title": "United Nations",
+  "discipline": "history",
+  "reconciliation": {
+    "outline": [
+      "REASONS FOR THE ESTABLISHMENT OF THE UNITED NATIONS",
+      "Disastrous World Wars",
+      "Failure of the League of Nations",
+      "Fear of Third World War",
+      "Division of the World Into Two Blocs",
+      "Destructive Weapons",
+      "ORIGIN OF THE UN",
+      "THE OBJECTIVES OF THE UNITED NATIONS",
+      "Main Objectives of the UN",
+      "Principles of the United Nations",
+      "Headquarters",
+      "Official Languages",
+      "Flag",
+      "Finances",
+      "Membership",
+      "India, an Original Member",
+      "ORGANS OF THE UNITED NATIONS",
+      "THE GENERAL ASSEMBLY",
+      "Composition",
+      "Powers and Functions",
+      "THE SECURITY COUNCIL",
+      "Composition",
+      "Veto Power",
+      "Functions and Powers",
+      "INTERNATIONAL COURT OF JUSTICE",
+      "Composition",
+      "Powers and Functions",
+      "Voluntary Jurisdiction",
+      "Compulsory Jurisdiction",
+      "Advisory Opinions",
+      "Codification of International Law",
+      "Evolving Procedures for Peaceful Settlement of Disputes",
+      "THE ECONOMIC AND SOCIAL COUNCIL (ECOSOC)",
+      "THE TRUSTEESHIP COUNCIL",
+      "THE SECRETARIAT",
+      "UNIVERSAL DECLARATION OF HUMAN RIGHTS",
+      "Basis of all rights – Articles 1 and 2",
+      "Importance Of Human Rights Declaration",
+      "Declaration of Rights of the Child"
+    ],
+    "in_syllabus_only": [],
+    "in_pdf_only": [
+      {
+        "title": "Codification of International Law",
+        "insert_after_index": 29,
+        "micro_topics": []
+      },
+      {
+        "title": "Evolving Procedures for Peaceful Settlement of Disputes",
+        "insert_after_index": 29,
+        "micro_topics": []
+      }
+    ],
+    "additional_sections": [
+      {
+        "title": "Codification of International Law",
+        "content_md": "The Court has played a significant role in the codification of international law. It examines international conventions, international customs, judicial decisions and general principles of law in the process of codification."
+      },
+      {
+        "title": "Evolving Procedures for Peaceful Settlement of Disputes",
+        "content_md": "The Court may recommend appropriate procedures or methods of settlement during or at the end of the case. Furthermore, it may also recommend terms of settlement.\n\nThe decision of the Court is made by the majority of the judges present. A member of the United Nations is obliged to comply with the decision of the Court in any case to which it is a party. If any party fails to comply and fulfil its obligation, the other party may take up the matter in the Security Council."
+      }
+    ]
+  },
+  "nodes": [
+    {
+      "title": "REASONS FOR THE ESTABLISHMENT OF THE UNITED NATIONS",
+      "sequence_number": 1,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "Disastrous World Wars",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The 20th century had seen two **World Wars** that left a legacy of **misery and depression** in nearly every country. The wars cost **billions of dollars**. **Millions lost their lives** and many people became **disabled, homeless and unemployed**. There came a realisation among world leaders that another World War might lead to the possibility of **destruction of the world and of human culture and civilisation**. Therefore, they started thinking of an **international organisation to maintain peace in the world**."
+            }
+          ]
+        },
+        {
+          "title": "Failure of the League of Nations",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **League of Nations (1920-1939)** was born after the First World War with a promise of peace but it failed to prevent another World War. Many leaders of the world felt the need for an organisation which would be more powerful than the League of Nations."
+            }
+          ]
+        },
+        {
+          "title": "Fear of Third World War",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The peace treaties signed after the **First World War** sowed the seeds of bitterness and conflict leading to the **Second World War**. All the countries feared that the Second World War could be the cause of a **Third World War** which might lead to the end of the world."
+            }
+          ]
+        },
+        {
+          "title": "Division of the World Into Two Blocs",
+          "sequence_number": 4,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "At the end of the **Second World War**, the world was divided into **two power blocs**, one led by the **USA** and the other by the **erstwhile USSR**. Both of them had **opposite ideologies** and, therefore, had no faith in each other. A transparent and impartial organisation was required so that they would be able to resolve their differences amicably rather than resorting to war."
+            }
+          ]
+        },
+        {
+          "title": "Destructive Weapons",
+          "sequence_number": 5,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **destructive weapons**, like **atom bombs**, were invented and used during the **Second World War**. These could bring the end of the whole world in no time. They also led to an **armament race** for more destructive weapons. Different countries of the world felt that they should set up an organisation where they could meet and discuss methods by which they could save themselves and mankind from destruction."
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    },
+    {
+      "title": "ORIGIN OF THE UN",
+      "sequence_number": 2,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "Even while the War was continuing, the leaders of Allied Governments like the **US President Roosevelt** and the **British Prime Minister Winston Churchill** realised the potential danger of wars to humanity. They held many discussions that finally led to the formation of the **United Nations Organisation (UNO)**."
+        },
+        {
+          "content_md": "[Image: The Big Three - Stalin, Roosevelt and Churchill]"
+        },
+        {
+          "content_md": "The text for the **UN Charter** was drafted at the **San Francisco Conference** held in **June 1945**. The Charter was signed by **50 participating nations**. The **United Nations** formally came into existence on **October 24, 1945** when the Charter was ratified by 29 nations including the five permanent members of the Security Council. Since then, **October 24** is celebrated every year throughout the world as the **United Nations Day**."
+        }
+      ]
+    },
+    {
+      "title": "THE OBJECTIVES OF THE UNITED NATIONS",
+      "sequence_number": 3,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "Main Objectives of the UN",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The purpose of the United Nations was defined in **Article I of the Charter** as:\n1. To maintain **international peace and security**, to take **collective measures** for the prevention and removal of threats to peace, to suppress **acts of aggression** or other breaches of peace.\n2. To develop **friendly relations among nations** based on respect for the principle of **equal rights and self-determination of people**.\n3. To achieve **international cooperation** in solving international economic, social, cultural, or humanitarian problems and encouraging respect for **human rights** and for **fundamental freedoms**.\n4. To be a **centre for harmonising the actions of nations** in the attainment of these common ends."
+            },
+            {
+              "content_md": "**Disarm, decolonise and develop** are the three new objectives set by the UN."
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    },
+    {
+      "title": "Principles of the United Nations",
+      "sequence_number": 4,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "In order to fulfil the purposes for which UNO was established, the members shall act in accordance with the following principles:"
+        },
+        {
+          "content_md": "1. To respect the **sovereign equality** of all its members.\n2. All members should **fulfil in good faith the obligations** assumed by them.\n3. They should settle their international disputes by **peaceful means**.\n4. They would **refrain from the threat or use of force** against any State.\n5. They should give the United Nations **every assistance** in any action it takes.\n6. The Organisation should ensure that States which are not members of the United Nations act in accordance with these principles.\n7. The United Nations shall **not intervene in the domestic**, i.e., internal affairs of any State."
+        }
+      ]
+    },
+    {
+      "title": "Headquarters",
+      "sequence_number": 5,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "All the organs of the United Nations are based in **New York, USA**, except the **International Court of Justice** which is located at **The Hague** in the **Netherlands**."
+        }
+      ]
+    },
+    {
+      "title": "Official Languages",
+      "sequence_number": 6,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "The **official languages** of the UN are Arabic, Chinese, English, French, Russian and Spanish. A speech made in any of these languages is translated into the other five languages, but documents are written only in the **working languages**—English and French."
+        }
+      ]
+    },
+    {
+      "title": "Flag",
+      "sequence_number": 7,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "The **UN flag** is light blue in colour and portrayed in white at its centre is the **UN Emblem**, a polar map of the world embraced by twin olive branches. The United Nations Flag was adopted on **October 20, 1947**.\n\n[Image: The UN Emblem]"
+        }
+      ]
+    },
+    {
+      "title": "Finances",
+      "sequence_number": 8,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "The **expenditure** of the United Nations is met by the **contributions** made by the **member countries**. This contribution is decided by the **General Assembly** annually on the recommendation of its **committee on contributions**."
+        }
+      ]
+    },
+    {
+      "title": "Membership",
+      "sequence_number": 9,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "Membership of the UN is open to all **peace-loving nations** who believe in the **principles of the UN** and accept the **obligations of the UN Charter**.\n\n*   **Fifty countries** who took part in the **San Francisco Conference**, signed and approved the Charter, became **original members** of the United Nations.\n*   Other countries are admitted by the **General Assembly** upon the recommendation of the **Security Council** by a **two-third majority** of votes.\n*   Almost all the countries of the world are its members now. By **2021**, **193 countries** are its members.\n*   The last country to be admitted in the UN was **South Sudan**."
+        }
+      ]
+    },
+    {
+      "title": "India, an Original Member",
+      "sequence_number": 10,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "India was one of the **50 members** who took part in the **San Francisco Conference**. India was represented at this conference by **Jawaharlal Nehru**. As an original member of the UN, India has been in the forefront of all **UN peace-keeping endeavours**. She has sent troops to Africa and other parts of the world as a part of **UN Peace-keeping Missions**."
+        }
+      ]
+    },
+    {
+      "title": "ORGANS OF THE UNITED NATIONS",
+      "sequence_number": 11,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "THE GENERAL ASSEMBLY",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Composition",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **United Nations** has six **Principal organs**:\n1. The **General Assembly**\n2. The **Security Council**\n3. The **International Court of Justice**\n4. The **Economic and Social Council**\n5. The **Trusteeship Council**\n6. The **Secretariat**."
+                }
+              ]
+            },
+            {
+              "title": "Powers and Functions",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Under the Charter, the powers and functions of the **General Assembly** include the following:"
+                },
+                {
+                  "content_md": "1.  To consider and make recommendations on the principles of cooperation, in the maintenance of **international peace and security**.\n2.  To discuss any question relating to international peace and security and (except where a dispute or situation is currently being discussed by the **Security Council**) to make recommendations on it.\n3.  To discuss and make recommendations on any question within the scope of the Charter or affecting the powers and functions of any organ of the United Nations.\n4.  To initiate studies and make recommendations to promote **international political, social, and economic cooperation**.\n5.  To make recommendations for the **peaceful settlement of disputes**.\n6.  To receive and consider reports from the **Security Council** and other organs of the United Nations.\n7.  To consider and approve the **budget of the United Nations** and to apportion the contributions among members.\n8.  To elect the **non-permanent members** of the **Security Council**, the **Economic and Social Council** and the **Trusteeship Council**, and to elect the judges of the **International Court of Justice**.\n9.  To appoint the **Secretary-General** on the recommendation of the **Security Council**."
+                },
+                {
+                  "content_md": "Under the **\"Uniting for Peace\" resolution** adopted by the General Assembly in **November 1950**, the Assembly may take action if the Security Council, because of a lack of unanimity of its permanent members, fails to act in a case where there appears to be a threat to the peace, breach of the peace or act of aggression. The Assembly is empowered to consider the matter immediately with a view to making recommendations to members for collective measures, including the use of armed force.\n\nWhile the Security Council is exercising the functions assigned to it in the Charter in respect of any dispute or situation, the General Assembly shall not make any recommendation with regard to that dispute or situation."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "THE SECURITY COUNCIL",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Composition",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": ""
+                }
+              ]
+            },
+            {
+              "title": "Veto Power",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Each member of the **Security Council** has one vote. Decisions on procedural matters are made by an affirmative vote of nine members, including the concurring votes of all five **permanent members**. The negative vote of a permanent member is called a **veto**. The Council is powerless to act if any of the five permanent members uses the **veto power**. However, abstinence from voting does not amount to a negative vote or veto."
+                }
+              ]
+            },
+            {
+              "title": "Functions and Powers",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The functions and powers of the **Security Council** are:\n1. to maintain **international peace and security** in accordance with the principles and purposes of the United Nations;\n2. to investigate any dispute or situation which might lead to international friction and to take **military action against an aggressor**.\n3. to recommend methods of adjusting such disputes or the terms of settlement;\n4. to formulate plans for the establishment of a system to **regulate armaments**;\n5. to determine the existence of a **threat to peace** or an **act of aggression** and to recommend what action should be taken;\n6. to call on Members to apply **economic sanctions** and other measures not involving the use of force to prevent or stop aggression;\n7. to take **military action against an aggressor**;\n8. to recommend the **admission of new Members**;\n9. to exercise the **trusteeship functions** of the United Nations in \"strategic areas\";\n10. to recommend to the General Assembly the appointment of the **Secretary-General** and, together with the Assembly, to elect the **Judges of the International Court of Justice**."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "INTERNATIONAL COURT OF JUSTICE",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Composition",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "All members of the **United Nations** are members of the **General Assembly**. Each State has **five representatives** in the General Assembly, but each State has **one vote**.\n\nThe **regular session** of the General Assembly begins each year on the **third Tuesday in September** and continues usually until the third week of December. At the start of each regular session, the Assembly elects a new **President**, **21 Vice-Presidents** and the **Chairmen** of the Assembly's **six Main Committees**. To ensure equitable geographical representation, the presidency of the Assembly rotates each year among five groups of States: **Africa**, **Asia**, **Eastern Europe**, **Latin America and Caribbean**, and **Western Europe and other States**. **Special sessions** are convened by the **Secretary-General** at the request of the Security Council or by a special request by a majority of members.\n\nDecisions on important matters are made by a **two-third majority**. These matters include: the election of the non-permanent members of the Security Council, admission of new members, the suspension or expulsion of members, budgetary issues, etc. Decisions on other questions are made by a **majority of members present and voting**."
+                }
+              ]
+            },
+            {
+              "title": "Powers and Functions",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Under the Charter, the powers and functions of the **General Assembly** include the following:\n\n1. To consider and make recommendations on the principles of cooperation, in the maintenance of international peace and security;\n2. To discuss any question relating to international peace and security and (except where a dispute or situation is currently being discussed by the **Security Council**) to make recommendations on it;\n3. To discuss and make recommendations on any question within the scope of the Charter or affecting the powers and functions of any organ of the United Nations.\n4. To initiate studies and make recommendations to promote international political, social, and economic cooperation.\n5. To make recommendations for the peaceful settlement of disputes.\n6. To receive and consider reports from the **Security Council** and other organs of the United Nations.\n7. To consider and approve the budget of the United Nations and to apportion the contributions among members.\n8. To elect the non-permanent members of the **Security Council**, the **Economic and Social Council** and the **Trusteeship Council**, and to elect the judges of the **International Court of Justice**.\n9. To appoint the **Secretary-General** on the recommendation of the **Security Council**.\n\nUnder the **\"Uniting for Peace\" resolution** adopted by the **General Assembly** in **November 1950**, the Assembly may take action if the **Security Council**, because of a lack of unanimity of its permanent members, fails to act in a case where there appears to be a threat to the peace, breach of the peace or act of aggression. The Assembly is empowered to consider the matter immediately with a view to making recommendations to members for collective measures, including the use of armed force.\n\nWhile the **Security Council** is exercising the functions assigned to it, in the Charter in respect of any dispute or situation, the **General Assembly** shall not make any recommendation with regard to that dispute or situation."
+                }
+              ]
+            },
+            {
+              "title": "Voluntary Jurisdiction",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The Court is competent to entertain a dispute if the States concerned agree to take the issue to it."
+                }
+              ]
+            },
+            {
+              "title": "Compulsory Jurisdiction",
+              "sequence_number": 4,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The Court has **compulsory Jurisdiction** in the following areas:\n1. Against the background that a large number of treaties provide that disputes are submitted to the Court.\n2. Its jurisdiction extends to:\n   (a) disputes pertaining to the interpretation of **international law**, and\n   (b) **reparation**, i.e., **compensation** to be made for the breach of an international obligation."
+                }
+              ]
+            },
+            {
+              "title": "Advisory Opinions",
+              "sequence_number": 5,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **advisory procedure** of the Court is open solely to **international organisations**. The only bodies at present authorised to request advisory opinions of the Court are five organs of the United Nations and 16 specialised agencies of the United Nations family.\n\nSince 1946 the Court has given 24 **Advisory Opinions**, concerning **reparation for injuries** suffered in the service of the United Nations, **territorial status of South-West Africa (Namibia)** and **Western Sahara**, etc."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "THE ECONOMIC AND SOCIAL COUNCIL (ECOSOC)",
+          "sequence_number": 4,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "### 4. THE ECONOMIC AND SOCIAL COUNCIL (ECOSOC)\n\nIt is responsible for promoting **higher standards of living**, **full employment** and **economic and social progress**."
+            }
+          ]
+        },
+        {
+          "title": "THE TRUSTEESHIP COUNCIL",
+          "sequence_number": 5,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "It is in charge of all territories which were administered before the Second World War under the **Mandate System** of the **League of Nations**."
+            }
+          ]
+        },
+        {
+          "title": "THE SECRETARIAT",
+          "sequence_number": 6,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "It is the **chief administrative office** of the UN. It is composed of the **Secretary-General**, who is the **chief administrative officer** of the organisation and an **international staff** appointed by him. Its main function is to **coordinate and supervise** the activities of the UN organ."
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    },
+    {
+      "title": "UNIVERSAL DECLARATION OF HUMAN RIGHTS",
+      "sequence_number": 12,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "Basis of all rights Articles 1 and 2",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**Articles 1 and 2** of the **Human Rights Declaration** are important because they are based on every man's freedom. They further state that the freedom of man cannot be discriminated.\n\n**Article 1**: All human beings are **born free and equal in dignity and rights**. They are endowed with **reason and conscience** and should act towards one another in a spirit of **brotherhood**.\n\n**Article 2**: Everyone is entitled to **all the rights and freedoms** set forth in this Declaration, without distinction of any kind, such as race, colour, sex, language, religion, political or other opinion, national or social origin, property, birth or other status."
+            },
+            {
+              "content_md": "They stress the following aspects of freedom:\n\n*   **(i) Human Rights Belong to human beings nature**: All human beings are born free. In other words, rights belong to man by nature. They are self-evident truths. They can be asserted anywhere and everywhere.\n*   **(ii) Everyone Should Have the Same Rights**: All are equal in dignity and rights. Everyone should have same rights and opportunities.\n*   **(iii) The Brotherhood of human**: Since they possess 'reason', they can distinguish between the right and the wrong. Everyone is required to respect the rights and interests of other persons.\n*   **(iv) Prohibition of Discrimination**: The State shall not discriminate against any citizen on grounds only of race, colour, sex, religion, place of birth because a man's freedom is instilled in his nature. However, the State may make any special provision for the advancement of weaker sections of society.\n*   **(v) The Universality of Rights**: The Declaration applies to all territories and all countries and is not limited to self-governing States alone. In other words, those people are also entitled to these rights who belong to a country, which is controlled by another country."
+            }
+          ]
+        },
+        {
+          "title": "Importance Of Human Rights Declaration",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "1.  **Declaration Serves as a Common Standard for All Nations**: The General Assembly adopted the Declaration of Human Rights, proclaiming that it was \"a **common standard of achievement for all people and all nations**.\" Ratifying this Declaration made nations responsible to remove all political and social disabilities and inequalities in accordance with the principles laid down in the Declaration.\n2.  **The Universal Nature of Human Rights**: All **Member-Nations** irrespective of their political, religious or social affiliations need to ensure the enforcement of these rights.\n3.  **Violation of Human Rights is a Matter of International Concern**: The persistent violations of human rights in any part of the world constitute a **threat to international peace**. Therefore, they are a matter of international concern. Under the **UN Charter**, the **Security Council** decides what action is needed to maintain international peace. The **Covenant on Civil and Political Rights** has also set up a **Human Rights Committee** which keeps track of the progress made by the signatory State in matters relating to human rights violations.\n4.  **The Impact of Declaration on Constitutions of the World**: **Universal Declaration of Human Rights** incorporated most of the provisions of American and British Bills of Rights. The Declaration also lays down rights such as these— the right to seek in other countries **asylum from persecution**, the right to **marry** and the right to an **adequate standard of living**."
+            }
+          ]
+        },
+        {
+          "title": "Declaration of Rights of the Child",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **Declaration of the Rights of the Child** was adopted by the **General Assembly** in **1959**. It provides for every child the right to **special protection, opportunity and facilities** for a healthy, normal development. These rights got legal binding with the adoption of the **Convention of the Rights of the Child** by the General Assembly in **1989**. The **Committee on the Rights of Child** was set up to monitor the progress made by Member States in this field. It also investigates the allegation of violation of children's rights."
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    }
+  ],
+  "additional_sections": [
+    {
+      "title": "Codification of International Law",
+      "content_md": "The Court has played a significant role in the codification of international law. It examines international conventions, international customs, judicial decisions and general principles of law in the process of codification."
+    },
+    {
+      "title": "Evolving Procedures for Peaceful Settlement of Disputes",
+      "content_md": "The Court may recommend appropriate procedures or methods of settlement during or at the end of the case. Furthermore, it may also recommend terms of settlement.\n\nThe decision of the Court is made by the majority of the judges present. A member of the United Nations is obliged to comply with the decision of the Court in any case to which it is a party. If any party fails to comply and fulfil its obligation, the other party may take up the matter in the Security Council."
+    }
+  ],
+  "needs_review": [
+    "Composition"
+  ],
+  "manifest": {
+    "syllabus_leaves": [
+      {
+        "path": "REASONS FOR THE ESTABLISHMENT OF THE UNITED NATIONS > Disastrous World Wars",
+        "path_titles": [
+          "REASONS FOR THE ESTABLISHMENT OF THE UNITED NATIONS",
+          "Disastrous World Wars"
+        ],
+        "title": "Disastrous World Wars",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "REASONS FOR THE ESTABLISHMENT OF THE UNITED NATIONS > Failure of the League of Nations",
+        "path_titles": [
+          "REASONS FOR THE ESTABLISHMENT OF THE UNITED NATIONS",
+          "Failure of the League of Nations"
+        ],
+        "title": "Failure of the League of Nations",
+        "sequence_number": 2,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "REASONS FOR THE ESTABLISHMENT OF THE UNITED NATIONS > Fear of Third World War",
+        "path_titles": [
+          "REASONS FOR THE ESTABLISHMENT OF THE UNITED NATIONS",
+          "Fear of Third World War"
+        ],
+        "title": "Fear of Third World War",
+        "sequence_number": 3,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "REASONS FOR THE ESTABLISHMENT OF THE UNITED NATIONS > Division of the World Into Two Blocs",
+        "path_titles": [
+          "REASONS FOR THE ESTABLISHMENT OF THE UNITED NATIONS",
+          "Division of the World Into Two Blocs"
+        ],
+        "title": "Division of the World Into Two Blocs",
+        "sequence_number": 4,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "REASONS FOR THE ESTABLISHMENT OF THE UNITED NATIONS > Destructive Weapons",
+        "path_titles": [
+          "REASONS FOR THE ESTABLISHMENT OF THE UNITED NATIONS",
+          "Destructive Weapons"
+        ],
+        "title": "Destructive Weapons",
+        "sequence_number": 5,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "ORIGIN OF THE UN",
+        "path_titles": [
+          "ORIGIN OF THE UN"
+        ],
+        "title": "ORIGIN OF THE UN",
+        "sequence_number": 2,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "THE OBJECTIVES OF THE UNITED NATIONS > Main Objectives of the UN",
+        "path_titles": [
+          "THE OBJECTIVES OF THE UNITED NATIONS",
+          "Main Objectives of the UN"
+        ],
+        "title": "Main Objectives of the UN",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Principles of the United Nations",
+        "path_titles": [
+          "Principles of the United Nations"
+        ],
+        "title": "Principles of the United Nations",
+        "sequence_number": 4,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "Headquarters",
+        "path_titles": [
+          "Headquarters"
+        ],
+        "title": "Headquarters",
+        "sequence_number": 5,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "Official Languages",
+        "path_titles": [
+          "Official Languages"
+        ],
+        "title": "Official Languages",
+        "sequence_number": 6,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "Flag",
+        "path_titles": [
+          "Flag"
+        ],
+        "title": "Flag",
+        "sequence_number": 7,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "Finances",
+        "path_titles": [
+          "Finances"
+        ],
+        "title": "Finances",
+        "sequence_number": 8,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "Membership",
+        "path_titles": [
+          "Membership"
+        ],
+        "title": "Membership",
+        "sequence_number": 9,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "India, an Original Member",
+        "path_titles": [
+          "India, an Original Member"
+        ],
+        "title": "India, an Original Member",
+        "sequence_number": 10,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "ORGANS OF THE UNITED NATIONS > THE GENERAL ASSEMBLY > Composition",
+        "path_titles": [
+          "ORGANS OF THE UNITED NATIONS",
+          "THE GENERAL ASSEMBLY",
+          "Composition"
+        ],
+        "title": "Composition",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "ORGANS OF THE UNITED NATIONS > THE GENERAL ASSEMBLY > Powers and Functions",
+        "path_titles": [
+          "ORGANS OF THE UNITED NATIONS",
+          "THE GENERAL ASSEMBLY",
+          "Powers and Functions"
+        ],
+        "title": "Powers and Functions",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "ORGANS OF THE UNITED NATIONS > THE SECURITY COUNCIL > Composition",
+        "path_titles": [
+          "ORGANS OF THE UNITED NATIONS",
+          "THE SECURITY COUNCIL",
+          "Composition"
+        ],
+        "title": "Composition",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": false
+      },
+      {
+        "path": "ORGANS OF THE UNITED NATIONS > THE SECURITY COUNCIL > Veto Power",
+        "path_titles": [
+          "ORGANS OF THE UNITED NATIONS",
+          "THE SECURITY COUNCIL",
+          "Veto Power"
+        ],
+        "title": "Veto Power",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "ORGANS OF THE UNITED NATIONS > THE SECURITY COUNCIL > Functions and Powers",
+        "path_titles": [
+          "ORGANS OF THE UNITED NATIONS",
+          "THE SECURITY COUNCIL",
+          "Functions and Powers"
+        ],
+        "title": "Functions and Powers",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "ORGANS OF THE UNITED NATIONS > INTERNATIONAL COURT OF JUSTICE > Composition",
+        "path_titles": [
+          "ORGANS OF THE UNITED NATIONS",
+          "INTERNATIONAL COURT OF JUSTICE",
+          "Composition"
+        ],
+        "title": "Composition",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "ORGANS OF THE UNITED NATIONS > INTERNATIONAL COURT OF JUSTICE > Powers and Functions",
+        "path_titles": [
+          "ORGANS OF THE UNITED NATIONS",
+          "INTERNATIONAL COURT OF JUSTICE",
+          "Powers and Functions"
+        ],
+        "title": "Powers and Functions",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "ORGANS OF THE UNITED NATIONS > INTERNATIONAL COURT OF JUSTICE > Voluntary Jurisdiction",
+        "path_titles": [
+          "ORGANS OF THE UNITED NATIONS",
+          "INTERNATIONAL COURT OF JUSTICE",
+          "Voluntary Jurisdiction"
+        ],
+        "title": "Voluntary Jurisdiction",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "ORGANS OF THE UNITED NATIONS > INTERNATIONAL COURT OF JUSTICE > Compulsory Jurisdiction",
+        "path_titles": [
+          "ORGANS OF THE UNITED NATIONS",
+          "INTERNATIONAL COURT OF JUSTICE",
+          "Compulsory Jurisdiction"
+        ],
+        "title": "Compulsory Jurisdiction",
+        "sequence_number": 4,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "ORGANS OF THE UNITED NATIONS > INTERNATIONAL COURT OF JUSTICE > Advisory Opinions",
+        "path_titles": [
+          "ORGANS OF THE UNITED NATIONS",
+          "INTERNATIONAL COURT OF JUSTICE",
+          "Advisory Opinions"
+        ],
+        "title": "Advisory Opinions",
+        "sequence_number": 5,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "ORGANS OF THE UNITED NATIONS > THE ECONOMIC AND SOCIAL COUNCIL (ECOSOC)",
+        "path_titles": [
+          "ORGANS OF THE UNITED NATIONS",
+          "THE ECONOMIC AND SOCIAL COUNCIL (ECOSOC)"
+        ],
+        "title": "THE ECONOMIC AND SOCIAL COUNCIL (ECOSOC)",
+        "sequence_number": 4,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "ORGANS OF THE UNITED NATIONS > THE TRUSTEESHIP COUNCIL",
+        "path_titles": [
+          "ORGANS OF THE UNITED NATIONS",
+          "THE TRUSTEESHIP COUNCIL"
+        ],
+        "title": "THE TRUSTEESHIP COUNCIL",
+        "sequence_number": 5,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "ORGANS OF THE UNITED NATIONS > THE SECRETARIAT",
+        "path_titles": [
+          "ORGANS OF THE UNITED NATIONS",
+          "THE SECRETARIAT"
+        ],
+        "title": "THE SECRETARIAT",
+        "sequence_number": 6,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "UNIVERSAL DECLARATION OF HUMAN RIGHTS > Basis of all rights Articles 1 and 2",
+        "path_titles": [
+          "UNIVERSAL DECLARATION OF HUMAN RIGHTS",
+          "Basis of all rights Articles 1 and 2"
+        ],
+        "title": "Basis of all rights Articles 1 and 2",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "UNIVERSAL DECLARATION OF HUMAN RIGHTS > Importance Of Human Rights Declaration",
+        "path_titles": [
+          "UNIVERSAL DECLARATION OF HUMAN RIGHTS",
+          "Importance Of Human Rights Declaration"
+        ],
+        "title": "Importance Of Human Rights Declaration",
+        "sequence_number": 2,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "UNIVERSAL DECLARATION OF HUMAN RIGHTS > Declaration of Rights of the Child",
+        "path_titles": [
+          "UNIVERSAL DECLARATION OF HUMAN RIGHTS",
+          "Declaration of Rights of the Child"
+        ],
+        "title": "Declaration of Rights of the Child",
+        "sequence_number": 3,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      }
+    ],
+    "stray_leaves": [
+      {
+        "title": "Codification of International Law",
+        "insert_after_index": 29,
+        "micro_topics": [],
+        "has_notes": true
+      },
+      {
+        "title": "Evolving Procedures for Peaceful Settlement of Disputes",
+        "insert_after_index": 29,
+        "micro_topics": [],
+        "has_notes": true
+      }
+    ]
+  }
+}

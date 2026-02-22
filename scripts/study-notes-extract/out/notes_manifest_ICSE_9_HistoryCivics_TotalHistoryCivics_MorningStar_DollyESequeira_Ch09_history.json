@@ -37,25 +37,13 @@
       "has_notes": false
     },
     {
-      "path": "SOURCES > The main sources of information about the Mughals are:",
-      "path_titles": [
-        "SOURCES",
-        "The main sources of information about the Mughals are:"
-      ],
-      "title": "The main sources of information about the Mughals are:",
-      "sequence_number": 1,
-      "depth": 1,
-      "level_label": "Topic",
-      "has_notes": true
-    },
-    {
       "path": "SOURCES > Ain-i-Akbari",
       "path_titles": [
         "SOURCES",
         "Ain-i-Akbari"
       ],
       "title": "Ain-i-Akbari",
-      "sequence_number": 2,
+      "sequence_number": 1,
       "depth": 1,
       "level_label": "Topic",
       "has_notes": true
@@ -67,7 +55,7 @@
         "The Taj Mahal, Agra"
       ],
       "title": "The Taj Mahal, Agra",
-      "sequence_number": 3,
+      "sequence_number": 2,
       "depth": 1,
       "level_label": "Topic",
       "has_notes": true
@@ -79,7 +67,7 @@
         "The Jama Masjid"
       ],
       "title": "The Jama Masjid",
-      "sequence_number": 4,
+      "sequence_number": 3,
       "depth": 1,
       "level_label": "Topic",
       "has_notes": true
@@ -91,7 +79,7 @@
         "The Red Fort, Delhi"
       ],
       "title": "The Red Fort, Delhi",
-      "sequence_number": 5,
+      "sequence_number": 4,
       "depth": 1,
       "level_label": "Topic",
       "has_notes": true
@@ -121,24 +109,24 @@
       "has_notes": true
     },
     {
-      "path": "MUGHAL DYNASTY > Akbar's Rajput Policy:",
+      "path": "MUGHAL DYNASTY > Akbar's Rajput Policy",
       "path_titles": [
         "MUGHAL DYNASTY",
-        "Akbar's Rajput Policy:"
+        "Akbar's Rajput Policy"
       ],
-      "title": "Akbar's Rajput Policy:",
+      "title": "Akbar's Rajput Policy",
       "sequence_number": 3,
       "depth": 1,
       "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "MUGHAL DYNASTY > Steps Towards Integration:",
+      "path": "MUGHAL DYNASTY > Steps Towards Integration",
       "path_titles": [
         "MUGHAL DYNASTY",
-        "Steps Towards Integration:"
+        "Steps Towards Integration"
       ],
-      "title": "Steps Towards Integration:",
+      "title": "Steps Towards Integration",
       "sequence_number": 4,
       "depth": 1,
       "level_label": "Topic",
@@ -169,72 +157,72 @@
       "has_notes": true
     },
     {
-      "path": "ADMINISTRATIVE SYSTEM OF THE MUGHALS > Monarch:",
+      "path": "ADMINISTRATIVE SYSTEM OF THE MUGHALS > Monarch",
       "path_titles": [
         "ADMINISTRATIVE SYSTEM OF THE MUGHALS",
-        "Monarch:"
+        "Monarch"
       ],
-      "title": "Monarch:",
+      "title": "Monarch",
       "sequence_number": 1,
       "depth": 1,
       "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "ADMINISTRATIVE SYSTEM OF THE MUGHALS > Ministers:",
+      "path": "ADMINISTRATIVE SYSTEM OF THE MUGHALS > Ministers",
       "path_titles": [
         "ADMINISTRATIVE SYSTEM OF THE MUGHALS",
-        "Ministers:"
+        "Ministers"
       ],
-      "title": "Ministers:",
+      "title": "Ministers",
       "sequence_number": 2,
       "depth": 1,
       "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "ADMINISTRATIVE SYSTEM OF THE MUGHALS > Judiciary:",
+      "path": "ADMINISTRATIVE SYSTEM OF THE MUGHALS > Judiciary",
       "path_titles": [
         "ADMINISTRATIVE SYSTEM OF THE MUGHALS",
-        "Judiciary:"
+        "Judiciary"
       ],
-      "title": "Judiciary:",
+      "title": "Judiciary",
       "sequence_number": 3,
       "depth": 1,
       "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "ADMINISTRATIVE SYSTEM OF THE MUGHALS > Provincial Government:",
+      "path": "ADMINISTRATIVE SYSTEM OF THE MUGHALS > Provincial Government",
       "path_titles": [
         "ADMINISTRATIVE SYSTEM OF THE MUGHALS",
-        "Provincial Government:"
+        "Provincial Government"
       ],
-      "title": "Provincial Government:",
+      "title": "Provincial Government",
       "sequence_number": 4,
       "depth": 1,
       "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "ADMINISTRATIVE SYSTEM OF THE MUGHALS > Mansabdari System:",
+      "path": "ADMINISTRATIVE SYSTEM OF THE MUGHALS > Mansabdari System",
       "path_titles": [
         "ADMINISTRATIVE SYSTEM OF THE MUGHALS",
-        "Mansabdari System:"
+        "Mansabdari System"
       ],
-      "title": "Mansabdari System:",
+      "title": "Mansabdari System",
       "sequence_number": 5,
       "depth": 1,
       "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "ADMINISTRATIVE SYSTEM OF THE MUGHALS > Land Revenue System:",
+      "path": "ADMINISTRATIVE SYSTEM OF THE MUGHALS > Land Revenue System",
       "path_titles": [
         "ADMINISTRATIVE SYSTEM OF THE MUGHALS",
-        "Land Revenue System:"
+        "Land Revenue System"
       ],
-      "title": "Land Revenue System:",
+      "title": "Land Revenue System",
       "sequence_number": 6,
       "depth": 1,
       "level_label": "Topic",
@@ -250,6 +238,17 @@
       "depth": 0,
       "level_label": "Section",
       "has_notes": true
+    },
+    {
+      "path": "EXERCISES",
+      "path_titles": [
+        "EXERCISES"
+      ],
+      "title": "EXERCISES",
+      "sequence_number": 6,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": false
     }
   ],
   "stray_leaves": []

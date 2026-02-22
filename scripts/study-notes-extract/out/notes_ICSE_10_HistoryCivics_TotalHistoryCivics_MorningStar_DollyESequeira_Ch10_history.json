@@ -1,0 +1,714 @@
+{
+  "board": "ICSE",
+  "grade": 10,
+  "subject": "HistoryCivics",
+  "book_slug": "TotalHistoryCivics_MorningStar_DollyESequeira",
+  "book_meta": {
+    "book_name": "Total History & Civics",
+    "publication": "Morning Star",
+    "author": "Dolly E. Sequeira"
+  },
+  "chapter_sequence_number": 10,
+  "chapter_title": "The First World War",
+  "discipline": "history",
+  "reconciliation": {
+    "outline": [
+      "III. THE CONTEMPORARY WORLD",
+      "CHAPTER 10 The First World War",
+      "CAUSES OF THE FIRST WORLD WAR",
+      "1. Nationalism and Imperialism:",
+      "2. Race for Armaments:",
+      "3. Division of Europe into Two Hostile Groups:",
+      "4. Sarajevo Crisis (Immediate Cause):",
+      "*EVENTS OF THE WORLD WAR",
+      "War on the Western Front:",
+      "Trench Warfare:",
+      "War on the Eastern Front:",
+      "Policy of Blockade:",
+      "War Against Turkey:",
+      "Entry of the USA in the War",
+      "Exit of Russia",
+      "Treaty of Brest-Litovsk (March 1918):",
+      "End of the War",
+      "RESULTS OF THE WAR",
+      "1. The Treaty of Versailles (June 28,1919):",
+      "Terms of the Treaty",
+      "*2. Territorial Rearrangements:",
+      "3. Formation of the League of Nations:",
+      "Aims and Objectives of the League of Nations",
+      "CHAPTER AT A GLANCE",
+      "EXERCISES",
+      "I. Multiple-Choice Questions",
+      "A. Select the correct option.",
+      "B. Select the option that shows the correct relationship between Statements (I) and (II).",
+      "II. Short Answer Questions",
+      "III. Structured Questions",
+      "IV. Higher Order Thinking Skills (HOTS)"
+    ],
+    "in_syllabus_only": [],
+    "in_pdf_only": [
+      {
+        "title": "III. THE CONTEMPORARY WORLD",
+        "insert_after_index": 0,
+        "micro_topics": [
+          "CHAPTER 10 The First World War"
+        ]
+      },
+      {
+        "title": "CHAPTER 10 The First World War",
+        "insert_after_index": 0,
+        "micro_topics": []
+      }
+    ],
+    "additional_sections": [
+      {
+        "title": "III. THE CONTEMPORARY WORLD",
+        "content_md": ""
+      },
+      {
+        "title": "CHAPTER 10 The First World War",
+        "content_md": "In 1914, a war began in Europe which soon engulfed almost the entire world with the battles fought in Europe, Asia, Africa and the Pacific. This war was different from the wars fought earlier in terms of its scale and its repercussions. It was fought on a worldwide scale and affected almost all the countries of the world. During this war new methods of defence and destruction were used. Moreover, in the earlier wars, the civilian populations were not generally involved. But this war was fought by the people as a whole. Thus, the war marked the turning point in the history of the world. Because of the unprecedented extent of its spread, impact and damage and its total nature, it is known as the First World War."
+      }
+    ]
+  },
+  "nodes": [
+    {
+      "title": "CAUSES OF THE FIRST WORLD WAR",
+      "sequence_number": 1,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "Nationalism and Imperialism",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**Nationalism** refers to the sense of unity felt by the people, who share a common history, language and culture. In the latter half of the 19th century, this feeling of unity turned into extreme pride, which made the people of many countries believe that their country is superior to the other countries. This led to the development of **aggressive nationalism** in Europe.\n\n**Aggressive Nationalism** meant love for one's own country and hatred for other countries. Each nation thought about its own national interests and did not care for the interests of the other nations. For example:\n*   **France** wanted to get back its provinces of **Alsace and Lorraine** from Germany.\n*   **Italy** wanted to get back the territory of **Trentino Trieste** from Austria.\n*   Balkan States like **Serbia** wanted that their fellow nationals (Slavs) who lived in other States should come together to form a greater Balkan State.\n\nThese countries developed expansionist policies in the name of nationalism. Therefore, **military strength** became synonymous with national prestige and every country began to increase its military power."
+            },
+            {
+              "content_md": "This aggressive nationalism also led to the rise of **imperialism**. **Imperialism** refers to the state policy or practice by which a powerful nation establishes its control over another country, either by direct territorial acquisition or by gaining political and economic control. Once conquered, this country was claimed as a **colony**. These colonies were governed and administered by the imperial nation through its representatives or a puppet government. The imperial nations exploited the resources of these colonies for their own economic interest. Colonies provided raw material, cheap labour, agricultural land and trading ports to the imperial nations.\n\nBy the end of the 19th century, **England** and **France** had built up a huge colonial empire in Asia and Africa. British imperialism was focussed on maintaining and expanding trade by exploiting the resources of its colonies—India, Sri Lanka, Myanmar, Egypt, South Africa, Caribbean Islands and many parts of Africa. Britain's imperial power was reinforced by her powerful and the world's largest navy. Some other countries of the world like **Germany, Italy, Russia and Japan** also wanted to increase their sphere of influence and create their colonies in Asia and Africa. These colonies were essential for their progress as they could provide raw materials for their industries and markets for their finished products. Besides, acquiring colonies would add to the power and prestige of these countries. This led to a **clash of interest** among these countries. The European powers began to scramble for expanding their economic and political empire. Thus, aggressive nationalism and fierce economic competition filled the atmosphere with fear, apprehension, mutual hatred and international tension. People felt convinced that international problems could only be solved through militarism."
+            }
+          ]
+        },
+        {
+          "title": "Race for Armaments",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The mad **race for armaments** which began soon after the **Franco-Prussian War (1870)** was one of the reasons which led to the First World War. Every major power began stockpiling armaments in the name of **self-defence** and **preservation of peace**. As a result, if one country increased its armaments, other countries were compelled to do the same. It filled the atmosphere with fear, apprehension and mutual hatred.\n\nIn order to protect her colonies in Africa and a few islands in the Pacific, Germany began to build a powerful navy with a view to achieving parity with Britain. By 1914, Germany had left Britain and France far behind in the production of iron and steel and in many other manufactures. One of its ships, the **Imperator**, built in 1912 was the largest in the world. The Germans dug the **Kiel Canal** deeper so that battleships could enter its waters. Britain and France were concerned with Germany's growing military strength. This led to a fierce competition among the European countries and gave rise to the race for armaments."
+            }
+          ]
+        },
+        {
+          "title": "Division of Europe into Two Hostile Groups",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "There were two kinds of States in Europe in the early 20th century. On the one hand there were single **Nation-States** like France, Holland and Germany whose national identities were based on their common language and traditions. On the other, there were **imperial States** like the **Austria-Hungarian Empire** and the **Russian Empire**. The Austria-Hungarian Empire was ruled by the Hapsburg dynasty of Austria and included in its territory Hungarian, Serb, Bosnian and Croat population, who spoke different languages and had different cultural traditions. Germany entered into an alliance with Austria-Hungary. In **1882** Italy joined the alliance and it came to be known as the **Triple Alliance**.\n\nAfter the death of Bismarck, France was able to establish friendly relations with Russia and England. The Russian empire included territories populated by Polish, Ukrainian, Turkish and Mongol populations. The three countries entered into the **Triple Entente** in **1907** to counter the Triple Alliance. Later, Japan joined the Triple Entente. Thus, Europe was divided into two hostile camps.\n\nBritain had created a vast British Empire by acquiring colonies in Asia and Africa. It grew rich from its success in trade in foreign resources, markets, territories and people. Other countries of the world like Germany, the Netherlands, Italy and the USA too wanted to acquire colonies in Asia and Africa. This led to a **scramble for colonies** and therefore, rivalries and wars.\n\nRivalries between nations happened not just for colonies but for colonial trade and trade routes as well. These rivalries created suspicion, tension and wars, which finally culminated in the First World War."
+            }
+          ]
+        },
+        {
+          "title": "Sarajevo Crisis (Immediate Cause)",
+          "sequence_number": 4,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "### 4. Sarajevo Crisis (Immediate Cause)\n**Archduke Francis Ferdinand**, the heir to the throne of Austria-Hungary was assassinated at **Sarajevo**, capital of Bosnia on **June 28, 1914**. The assassination was organised by a secret society called **‘Black Hand’** or **‘Union of Death’** formed by extremist **Serbian nationalists** whose aim was to unite all Serbians into a single Serbian State.\n\n[Image: Assassination of Archduke Ferdinand]\n\nAustria served an **ultimatum** to Serbia on **July 23** making eleven demands. Serbia accepted most of the demands except those that would have led to the loss of her sovereignty."
+            },
+            {
+              "content_md": "Austria declared war on Serbia on **July 28, 1914**. Russia started preparation for war to support Serbia. On **August 1, 1914** Germany declared war on Russia; and on **August 3**, on France. German troops marched into Belgium to press on to France on **August 4**. Following an ultimatum to withdraw German troops from Belgium, Britain declared war on Germany on **August 4, 1914**.\n\nMany other countries soon entered the War. Japan declared war on Germany to capture German colonies in the Far East. Turkey and Bulgaria joined on the side of Germany. Italy remained neutral for some time but joined the war against Germany in 1915 breaking the Triple Alliance.\n\nBritain, France, Russia and their allies were called the **Allied powers**; while Germany, Austria and their allies were called the **Central Powers**. The War was fought in many different areas called fronts. There was a **Western Front** between Germany and northern France, and an **Eastern Front** between Germany and the Russian forces. There was fighting at sea and in the Middle East, where the Allied Powers attacked the Ottoman Empire."
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    },
+    {
+      "title": "EVENTS OF THE WORLD WAR",
+      "sequence_number": 2,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "War on the Western Front",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "On the **Western Front**, the war began when the **German armies** swept across **Belgium** and entered southern **France**. The **French army** along with the **British army** met the German forces in the **Battle of Marne** (after the river near which the battle was fought) some 15 miles from **Paris**. The German forces had to retreat. For about four years, neither side could dislodge the other."
+            }
+          ]
+        },
+        {
+          "title": "Trench Warfare",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The combination of **machine guns** and **heavy artillery** made life above ground too dangerous. The opposing armies dug a series of **trenches** to defend themselves and to launch attacks. Living conditions in these trenches was pathetic. Soldiers endured **food shortages**, **lice**, **rats**, **poison gas**, **cold** and the **stench of dead soldiers** who could not be moved out quickly. Rain and snow turned the trenches into thick mud caves."
+            }
+          ]
+        },
+        {
+          "title": "War on the Eastern Front",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "In **August 1914** fighting began on the **Eastern Front** with the invasion of **Russia** by **Austria-Hungary**. **Germany** and **Austria** succeeded in repulsing the Russian attack and capturing parts of the Russian empire. They were also successful against **Romania**, **Serbia** and **Italy**. Outside Europe, there were campaigns against the **Ottoman Empire** in Palestine, Mesopotamia and Arabia; and against Germany and Turkey in Iran where they were trying to establish their influence. **Japan** occupied German possessions in East Asia, and **Britain** and **France** seized most of the German colonies in Africa."
+            }
+          ]
+        },
+        {
+          "title": "Policy of Blockade",
+          "sequence_number": 4,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The War involved **total mobilisation** of all the resources of the warring parties with all economic activities subordinated to the needs of the war. It also required that no goods including food, raw materials and war materials should be allowed to enter the enemy territory from anywhere. In **1916**, **Germany** started the **submarine warfare** and sunk many **British** warships but the **French** defeated her in the **Battle of Verdun**. The **English** tightened the **blockade of the German coast** to meet the German submarine warfare. Germany was defeated in the **Battle of Dogger Bank**.\n\n[Image: U-boats used in the blockade of Britain]"
+            }
+          ]
+        },
+        {
+          "title": "War Against Turkey",
+          "sequence_number": 5,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "Towards the end of the year **1914**, **Turkey** joined the war on the side of **Germany**. The **German fleet** controlled the **Baltic Sea**, Turkey held **Dardanelles** which led to the **Black Sea**. Thus, **Russia** was cut off as it could not get any help from the **Entente powers**. The **British Indian Army** attacked Turkey and the **Turks** surrendered in **October 1918**."
+            }
+          ]
+        },
+        {
+          "title": "Entry of the USA in the War",
+          "sequence_number": 6,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "In **1915**, the **German U-Boats** had sunk a British ship **Lusitania**. Among the 1153 passengers killed, **128 were Americans**. The Americans were generally sympathetic to Britain, and this incident further roused anti-German feelings in the USA.\n\nThe **Allied Powers** had raised vast amounts of **loans in the USA** to pay for the arms and other goods bought by them. Therefore the USA feared that if Germany won the war, she would become a **serious rival** to the USA.\n\nOn **6 April, 1917**, the United States of America declared war on Germany."
+            }
+          ]
+        },
+        {
+          "title": "Exit of Russia",
+          "sequence_number": 7,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "Another major development that took place in **1917** was the **withdrawal of Russia** from the War after the **October Revolution**. The **Russian Empire** had suffered serious reverses in the War. Over **600,000 Russian soldiers** were killed. The day after the **Bolshevik Government** came to power under the leadership of **Lenin**, it issued the **Decree on Peace** with proposals to end the War without any annexations and indemnities."
+            }
+          ]
+        },
+        {
+          "title": "Treaty of Brest-Litovsk (March 1918)",
+          "sequence_number": 8,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "Russia signed a peace treaty with Germany in **March 1918**, known as the **Treaty of Brest-Litovsk**. Germany imposed **harsh terms** on Russia and the Russian government accepted them."
+            }
+          ]
+        },
+        {
+          "title": "End of the War",
+          "sequence_number": 9,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "Britain, France and the USA launched a military offensive in **July 1918** and Germany and her allies began to collapse. Political discontent started rising in Austria-Hungary and Germany.\n*   **Bulgaria** withdrew from the War in September and **Turkey** surrendered in October.\n*   The emperor of **Austria-Hungary** surrendered on **3rd November**.\n*   In Germany a revolution broke out. Germany became a republic and the German emperor **Kaiser William II** fled to Holland.\n*   The new German government signed an **armistice** on **November 11, 1918**."
+            },
+            {
+              "content_md": "The number of persons who fought in the War vary between 53 and 70 million people. The total number of those killed and dead in the War are estimated at about **nine million**, that is, about one-seventh of those who participated in it. Several million became invalids. The air raids, epidemics and famines killed many more among the civilian populations.\n\nBesides these terrible human losses, the economy of many countries was shattered. The **global economic depression of 1929-30** is attributed to this War. It gave rise to many serious social problems.\n\nAccording to some estimates the expenditure on the Allied side was nearly **forty-one thousand million pounds** and that on the German side over **fifteen thousand million pounds**."
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    },
+    {
+      "title": "RESULTS OF THE WAR",
+      "sequence_number": 3,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "The Treaty of Versailles (June 28,1919)",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The victorious powers or the Allies, met in a conference first in **Versailles**, a suburb of Paris, and later in Paris, between **January and June 1919**. Though the number of countries represented at the conference was 27, the terms of the peace treaties were really decided by **Woodrow Wilson**, President of the United States, **Lloyd George**, Prime Minister of Britain, and **George Clemenceau**, Prime Minister of France. The defeated countries were not represented at the conference. The victorious powers also excluded Russia from the conference.\n\nAs a result of the discussions at the **Paris Conference**, on **June 28, 1919 The Treaty of Versailles** was signed. It ended the War. The basis of the treaty's negotiations was the American President Wilson's **Fourteen Points**. The treaty was designed to prevent Germany from going to war again."
+            }
+          ]
+        },
+        {
+          "title": "Terms of the Treaty",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "(i) The **Treaty** declared **Germany** guilty of **aggression**.\n\n(ii) **Germany** was required to pay for all the loss and damage suffered by the Allies during the war. The amount of reparations was fixed at **33 billion dollars**. Germany had to cede her merchant ships to the Allies as compensation and had to supply huge quantities of coal to France, Italy and Belgium for ten years.\n\n(iii) The area of the **Rhine Valley** was to be **demilitarised** and the German territory west of Rhine was to be occupied by the Allied Troops for 15 years.\n\n(iv) **Germany** lost **Alsace-Lorraine** to France; **Eupen-et-Malmedy** to Belgium, **Schleswig** to Denmark. **Danzig** became a Free Port in the Polish territory.\n\n(v) **Germany** ceded parts of her pre-War territory to Denmark, Belgium, Poland, Czechoslovakia and France.\n\n(vi) The coal mines in the German area called **Saar** were ceded to France for 15 years and the area was to be governed by the **League of Nations**.\n\n(vii) **Germany** lost all her colonies to the victorious Allies—Britain, Belgium, South Africa and Portugal.\n\n(viii) German colonies in the Pacific and the areas under her control in China were given to Japan. China was aligned with the Allies during the War but her areas under German control were given away to Japan.\n\n(ix) The **German Army** was restricted to a force of **1,00,000 soldiers** and the **Navy** was limited to **15,000 men** and **24 ships**. The **Air Force** and **submarines** were banned.\n\n(x) The Treaty affirmed the complete independence of Belgium, Poland, Czechoslovakia and Yugoslavia.\n\n(xi) The Covenant of the **League of Nations** was added to the Treaty of Versailles."
+            }
+          ]
+        },
+        {
+          "title": "Territorial Rearrangements",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The period after the War saw the beginning of the end of the **European supremacy** in the world. Economically and militarily, the **United States surpassed Europe** to emerge as a world power. The peace treaties signed after the War transformed the **political map of the world**, particularly of Europe. Three ruling dynasties were destroyed—the **Romanov** in Russia during the War itself, the **Hohenzollern** in Germany and the **Hapsburg** in Austria-Hungary. Soon after the War, the rule of **Ottomans** came to an end in Turkey. **Austria** and **Hungary** became separate independent States. **Czechoslovakia** and **Yugoslavia** emerged as independent States. Thus, the War gave a serious blow to the autocratic monarchical system and led to the development of democracy in Europe. Empires having different cultures were dissolved and independent states having distinct cultures emerged after the War. These included **Finland**, **Estonia**, **Latvia**, **Lithuania** and **Yugoslavia**. Under the impulse of nationalism **Alsace-Lorraine** was restored to France and **Schelswig-Hostein** was restored to Denmark."
+            },
+            {
+              "content_md": "[Image: Europe after World War I]"
+            }
+          ]
+        },
+        {
+          "title": "Formation of the League of Nations",
+          "sequence_number": 4,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "One of the most significant consequences of the War was the creation of the **League of Nations**. The horrors of War convinced the leaders of the world that there must be a mechanism to prevent War and promote **international cooperation**. This culminated in the setting up of the League of Nations.\n\nAn important part of the peace treaty was the **Covenant of the League of Nations**. **Wilson's Fourteen Points** included the creation of an international organisation for the preservation of peace and to guarantee the independence of all states. Thus, the League of Nations was created as a world organisation of all independent States in **1920**."
+            }
+          ]
+        },
+        {
+          "title": "Aims and Objectives of the League of Nations",
+          "sequence_number": 5,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "(i) All the **States** of the world were **prohibited from entering into any secret treaties and alliances**.\n(ii) The **member-States** were not supposed to maintain **huge armies, warships and destructive armaments**.\n(iii) All States were to **respect each other's independence**.\n(iv) All States were to **refer their mutual disputes**, if any, to the League of Nations for a **peaceful settlement**.\n(v) The member-States were to **take necessary action** as directed by the League against any State which tried to **disturb world peace and order**.\n(vi) Apart from political functions, the League of Nations was supposed to **promote cultural, social and economic cooperation** among the member-States."
+            },
+            {
+              "content_md": "The hopes of having a truly world organisation devoted to the preservation of peace and independence of nations were, however, not realised with the formation of the League of Nations. Two major countries—**Germany** and the **Soviet Union**—were not allowed to become its members for many years; while **India**, which was not independent, was made a member. The **United States** which had played an important part in the setting up of the League ultimately decided not to join it.\n\nThe rise of **dictatorships in Italy and Germany** led to the weakening of the League of Nations and it failed in its basic object of maintaining peace in the world. Unfortunately the League came to an end as Hitler committed aggression on Poland which began the **World War II (1939-1945)**."
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    },
+    {
+      "title": "CHAPTER AT A GLANCE",
+      "sequence_number": 4,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "The **First World War** (1914-1919) was fought between the **Allied Powers** (France, England and Russia) and the **Central Powers** (Germany, Austria-Hungary); The USA, Japan, Turkey and Bulgaria joined the War later.\n\n**Causes of the First World War:** (1) **Nationalism and Imperialism**; (2) **Armament Race**; and (3) **Division of Europe** into two armed camps (4) **Sarajevo Crisis**, the immediate cause of the war was the murder of **Archduke Francis Ferdinand**, the heir to the Austrian throne, on June 28, 1914 by a Serbian at Sarajevo, capital of Bosnia.\n\n**Events of the First World War:** (i) Declaration of war by Austria on Serbia on July 28, 1914; Germany on Russia and France. Germany marched into Belgium and Britain declared war on Germany; (ii) The War was fought at different fronts from 1914 to 1918. Finally, in July 1918, Britain, France and the USA launched a military offensive and Germany and her allies began to collapse.\n\n**Results of the War:** (i) **Treaty of Versailles** between the Allies and Germany on June 28, 1919; (ii) Territorial rearrangements and (iii) Formation of the **League of Nations**."
+        }
+      ]
+    },
+    {
+      "title": "EXERCISES",
+      "sequence_number": 5,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "I. Multiple-Choice Questions",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": ""
+            }
+          ]
+        },
+        {
+          "title": "II. Short Answer Questions",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": ""
+            }
+          ]
+        },
+        {
+          "title": "III. Structured Questions",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": ""
+            }
+          ]
+        },
+        {
+          "title": "IV. Higher Order Thinking Skills (HOTS)",
+          "sequence_number": 4,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": ""
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    }
+  ],
+  "additional_sections": [
+    {
+      "title": "III. THE CONTEMPORARY WORLD",
+      "content_md": ""
+    },
+    {
+      "title": "CHAPTER 10 The First World War",
+      "content_md": "In 1914, a war began in Europe which soon engulfed almost the entire world with the battles fought in Europe, Asia, Africa and the Pacific. This war was different from the wars fought earlier in terms of its scale and its repercussions. It was fought on a worldwide scale and affected almost all the countries of the world. During this war new methods of defence and destruction were used. Moreover, in the earlier wars, the civilian populations were not generally involved. But this war was fought by the people as a whole. Thus, the war marked the turning point in the history of the world. Because of the unprecedented extent of its spread, impact and damage and its total nature, it is known as the First World War."
+    }
+  ],
+  "needs_review": [
+    "I. Multiple-Choice Questions",
+    "II. Short Answer Questions",
+    "III. Structured Questions",
+    "IV. Higher Order Thinking Skills (HOTS)"
+  ],
+  "manifest": {
+    "syllabus_leaves": [
+      {
+        "path": "CAUSES OF THE FIRST WORLD WAR > Nationalism and Imperialism",
+        "path_titles": [
+          "CAUSES OF THE FIRST WORLD WAR",
+          "Nationalism and Imperialism"
+        ],
+        "title": "Nationalism and Imperialism",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "CAUSES OF THE FIRST WORLD WAR > Race for Armaments",
+        "path_titles": [
+          "CAUSES OF THE FIRST WORLD WAR",
+          "Race for Armaments"
+        ],
+        "title": "Race for Armaments",
+        "sequence_number": 2,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "CAUSES OF THE FIRST WORLD WAR > Division of Europe into Two Hostile Groups",
+        "path_titles": [
+          "CAUSES OF THE FIRST WORLD WAR",
+          "Division of Europe into Two Hostile Groups"
+        ],
+        "title": "Division of Europe into Two Hostile Groups",
+        "sequence_number": 3,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "CAUSES OF THE FIRST WORLD WAR > Sarajevo Crisis (Immediate Cause)",
+        "path_titles": [
+          "CAUSES OF THE FIRST WORLD WAR",
+          "Sarajevo Crisis (Immediate Cause)"
+        ],
+        "title": "Sarajevo Crisis (Immediate Cause)",
+        "sequence_number": 4,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "EVENTS OF THE WORLD WAR > War on the Western Front",
+        "path_titles": [
+          "EVENTS OF THE WORLD WAR",
+          "War on the Western Front"
+        ],
+        "title": "War on the Western Front",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "EVENTS OF THE WORLD WAR > Trench Warfare",
+        "path_titles": [
+          "EVENTS OF THE WORLD WAR",
+          "Trench Warfare"
+        ],
+        "title": "Trench Warfare",
+        "sequence_number": 2,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "EVENTS OF THE WORLD WAR > War on the Eastern Front",
+        "path_titles": [
+          "EVENTS OF THE WORLD WAR",
+          "War on the Eastern Front"
+        ],
+        "title": "War on the Eastern Front",
+        "sequence_number": 3,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "EVENTS OF THE WORLD WAR > Policy of Blockade",
+        "path_titles": [
+          "EVENTS OF THE WORLD WAR",
+          "Policy of Blockade"
+        ],
+        "title": "Policy of Blockade",
+        "sequence_number": 4,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "EVENTS OF THE WORLD WAR > War Against Turkey",
+        "path_titles": [
+          "EVENTS OF THE WORLD WAR",
+          "War Against Turkey"
+        ],
+        "title": "War Against Turkey",
+        "sequence_number": 5,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "EVENTS OF THE WORLD WAR > Entry of the USA in the War",
+        "path_titles": [
+          "EVENTS OF THE WORLD WAR",
+          "Entry of the USA in the War"
+        ],
+        "title": "Entry of the USA in the War",
+        "sequence_number": 6,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "EVENTS OF THE WORLD WAR > Exit of Russia",
+        "path_titles": [
+          "EVENTS OF THE WORLD WAR",
+          "Exit of Russia"
+        ],
+        "title": "Exit of Russia",
+        "sequence_number": 7,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "EVENTS OF THE WORLD WAR > Treaty of Brest-Litovsk (March 1918)",
+        "path_titles": [
+          "EVENTS OF THE WORLD WAR",
+          "Treaty of Brest-Litovsk (March 1918)"
+        ],
+        "title": "Treaty of Brest-Litovsk (March 1918)",
+        "sequence_number": 8,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "EVENTS OF THE WORLD WAR > End of the War",
+        "path_titles": [
+          "EVENTS OF THE WORLD WAR",
+          "End of the War"
+        ],
+        "title": "End of the War",
+        "sequence_number": 9,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "RESULTS OF THE WAR > The Treaty of Versailles (June 28,1919)",
+        "path_titles": [
+          "RESULTS OF THE WAR",
+          "The Treaty of Versailles (June 28,1919)"
+        ],
+        "title": "The Treaty of Versailles (June 28,1919)",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "RESULTS OF THE WAR > Terms of the Treaty",
+        "path_titles": [
+          "RESULTS OF THE WAR",
+          "Terms of the Treaty"
+        ],
+        "title": "Terms of the Treaty",
+        "sequence_number": 2,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "RESULTS OF THE WAR > Territorial Rearrangements",
+        "path_titles": [
+          "RESULTS OF THE WAR",
+          "Territorial Rearrangements"
+        ],
+        "title": "Territorial Rearrangements",
+        "sequence_number": 3,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "RESULTS OF THE WAR > Formation of the League of Nations",
+        "path_titles": [
+          "RESULTS OF THE WAR",
+          "Formation of the League of Nations"
+        ],
+        "title": "Formation of the League of Nations",
+        "sequence_number": 4,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "RESULTS OF THE WAR > Aims and Objectives of the League of Nations",
+        "path_titles": [
+          "RESULTS OF THE WAR",
+          "Aims and Objectives of the League of Nations"
+        ],
+        "title": "Aims and Objectives of the League of Nations",
+        "sequence_number": 5,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "CHAPTER AT A GLANCE",
+        "path_titles": [
+          "CHAPTER AT A GLANCE"
+        ],
+        "title": "CHAPTER AT A GLANCE",
+        "sequence_number": 4,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "EXERCISES > I. Multiple-Choice Questions",
+        "path_titles": [
+          "EXERCISES",
+          "I. Multiple-Choice Questions"
+        ],
+        "title": "I. Multiple-Choice Questions",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": false
+      },
+      {
+        "path": "EXERCISES > II. Short Answer Questions",
+        "path_titles": [
+          "EXERCISES",
+          "II. Short Answer Questions"
+        ],
+        "title": "II. Short Answer Questions",
+        "sequence_number": 2,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": false
+      },
+      {
+        "path": "EXERCISES > III. Structured Questions",
+        "path_titles": [
+          "EXERCISES",
+          "III. Structured Questions"
+        ],
+        "title": "III. Structured Questions",
+        "sequence_number": 3,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": false
+      },
+      {
+        "path": "EXERCISES > IV. Higher Order Thinking Skills (HOTS)",
+        "path_titles": [
+          "EXERCISES",
+          "IV. Higher Order Thinking Skills (HOTS)"
+        ],
+        "title": "IV. Higher Order Thinking Skills (HOTS)",
+        "sequence_number": 4,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": false
+      }
+    ],
+    "stray_leaves": [
+      {
+        "title": "III. THE CONTEMPORARY WORLD",
+        "insert_after_index": 0,
+        "micro_topics": [
+          "CHAPTER 10 The First World War"
+        ],
+        "has_notes": false
+      },
+      {
+        "title": "CHAPTER 10 The First World War",
+        "insert_after_index": 0,
+        "micro_topics": [],
+        "has_notes": true
+      }
+    ]
+  }
+}

@@ -99,9 +99,52 @@
           "depth": 0,
           "level_label": "Section",
           "children": []
+        },
+        {
+          "title": "TERMS TO REMEMBER",
+          "sequence_number": 11,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Amendment",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Adopt",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Democratic",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Fraternity",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Ideals",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
         }
       ],
-      "structure_notes": "Chapter is structured with sections on Constitution definition, Enactment, Formation, Composition, Drafting Committee, Ambedkar's contribution, Readings, Time Taken, Implementation, and Significance."
+      "structure_notes": ""
     },
     {
       "title": "The Harappan Civilisation",
@@ -122,14 +165,64 @@
               "children": []
             },
             {
-              "title": "Sources: Great Bath, Citadel, seals, bearded man, dancing girl, dockyard, script.",
+              "title": "Sources",
               "sequence_number": 2,
               "depth": 1,
               "level_label": "Topic",
-              "children": []
+              "children": [
+                {
+                  "title": "Great Bath",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Citadel",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "seals",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "bearded man",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "dancing girl",
+                  "sequence_number": 5,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "dockyard",
+                  "sequence_number": 6,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "script",
+                  "sequence_number": 7,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
             },
             {
-              "title": "Origin, extent, urban planning, trade, art & craft, and its decline.",
+              "title": "Origin, extent, urban planning, trade, art & craft, and its decline",
               "sequence_number": 3,
               "depth": 1,
               "level_label": "Topic",
@@ -231,15 +324,8 @@
           ]
         },
         {
-          "title": "EXTENT OF THE CIVILISATION",
-          "sequence_number": 6,
-          "depth": 0,
-          "level_label": "Section",
-          "children": []
-        },
-        {
           "title": "URBAN PLANNING",
-          "sequence_number": 7,
+          "sequence_number": 6,
           "depth": 0,
           "level_label": "Section",
           "children": [
@@ -251,8 +337,15 @@
               "children": []
             },
             {
-              "title": "FEATURES OF URBAN PLANNING",
+              "title": "COMMON ELEMENTS BETWEEN MOHENJO-DARO AND HARAPPA",
               "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "FEATURES OF URBAN PLANNING",
+              "sequence_number": 3,
               "depth": 1,
               "level_label": "Topic",
               "children": []
@@ -261,14 +354,14 @@
         },
         {
           "title": "HOUSES",
-          "sequence_number": 8,
+          "sequence_number": 7,
           "depth": 0,
           "level_label": "Section",
           "children": []
         },
         {
           "title": "MONUMENTAL ARCHITECTURE",
-          "sequence_number": 9,
+          "sequence_number": 8,
           "depth": 0,
           "level_label": "Section",
           "children": [
@@ -290,7 +383,7 @@
         },
         {
           "title": "TRADE",
-          "sequence_number": 10,
+          "sequence_number": 9,
           "depth": 0,
           "level_label": "Section",
           "children": [
@@ -302,7 +395,7 @@
               "children": []
             },
             {
-              "title": "External Trader",
+              "title": "External Trade",
               "sequence_number": 2,
               "depth": 1,
               "level_label": "Topic",
@@ -312,14 +405,14 @@
         },
         {
           "title": "ART AND CRAFT",
-          "sequence_number": 11,
+          "sequence_number": 10,
           "depth": 0,
           "level_label": "Section",
           "children": []
         },
         {
           "title": "DECLINE OF THE CIVILISATION",
-          "sequence_number": 12,
+          "sequence_number": 11,
           "depth": 0,
           "level_label": "Section",
           "children": [
@@ -355,14 +448,14 @@
         },
         {
           "title": "HERITAGE",
-          "sequence_number": 13,
+          "sequence_number": 12,
           "depth": 0,
           "level_label": "Section",
           "children": []
         },
         {
           "title": "EXERCISES",
-          "sequence_number": 14,
+          "sequence_number": 13,
           "depth": 0,
           "level_label": "Section",
           "children": [
@@ -400,160 +493,123 @@
       "structure_notes": ""
     },
     {
-      "title": "Salient Features of the Constitution - I",
+      "title": "Salient Features of the Constitution-I",
       "sequence_number": 2,
       "discipline": "civics",
       "nodes": [
         {
-          "title": "Salient Features of the Constitution-I",
+          "title": "SINGLE CITIZENSHIP",
           "sequence_number": 1,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "UNIVERSAL ADULT FRANCHISE",
+          "sequence_number": 2,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "FUNDAMENTAL RIGHTS",
+          "sequence_number": 3,
           "depth": 0,
           "level_label": "Section",
           "children": [
             {
-              "title": "Single Citizenship",
+              "title": "1. The Right to Equality-Articles 14 to 18",
               "sequence_number": 1,
-              "depth": 1,
-              "level_label": "Topic",
-              "children": []
-            },
-            {
-              "title": "Universal Adult Franchise",
-              "sequence_number": 2,
-              "depth": 1,
-              "level_label": "Topic",
-              "children": []
-            },
-            {
-              "title": "Fundamental Rights",
-              "sequence_number": 3,
               "depth": 1,
               "level_label": "Topic",
               "children": [
                 {
-                  "title": "1. The Right to Equality-Articles 14 to 18",
+                  "title": "(a) Equality before Law: Article-14.",
                   "sequence_number": 1,
                   "depth": 2,
                   "level_label": "Subtopic",
-                  "children": [
-                    {
-                      "title": "(a) Equality before Law: Article-14.",
-                      "sequence_number": 1,
-                      "depth": 3,
-                      "level_label": "Point",
-                      "children": []
-                    },
-                    {
-                      "title": "Article-15:",
-                      "sequence_number": 2,
-                      "depth": 3,
-                      "level_label": "Point",
-                      "children": []
-                    },
-                    {
-                      "title": "(b) Equality of Opportunity: Article-16",
-                      "sequence_number": 3,
-                      "depth": 3,
-                      "level_label": "Point",
-                      "children": []
-                    },
-                    {
-                      "title": "(c) Abolition of Untouchability: Article-17",
-                      "sequence_number": 4,
-                      "depth": 3,
-                      "level_label": "Point",
-                      "children": []
-                    },
-                    {
-                      "title": "(d) Abolition of Titles: Article-18",
-                      "sequence_number": 5,
-                      "depth": 3,
-                      "level_label": "Point",
-                      "children": []
-                    }
-                  ]
+                  "children": []
                 },
                 {
-                  "title": "2. Right to Freedom-Articles 19 to 22",
+                  "title": "Article-15:",
                   "sequence_number": 2,
                   "depth": 2,
                   "level_label": "Subtopic",
-                  "children": [
-                    {
-                      "title": "(a) Under Article-19, the Constitution guarantees six basic freedoms to its Citizens, viz.",
-                      "sequence_number": 1,
-                      "depth": 3,
-                      "level_label": "Point",
-                      "children": [
-                        {
-                          "title": "(i) Freedom of speech and expression.",
-                          "sequence_number": 1,
-                          "depth": 4,
-                          "level_label": "Sub-point",
-                          "children": []
-                        },
-                        {
-                          "title": "(ii) Freedom to assemble peacefully without arms.",
-                          "sequence_number": 2,
-                          "depth": 4,
-                          "level_label": "Sub-point",
-                          "children": []
-                        },
-                        {
-                          "title": "(iii) Freedom to form associations and unions.",
-                          "sequence_number": 3,
-                          "depth": 4,
-                          "level_label": "Sub-point",
-                          "children": []
-                        },
-                        {
-                          "title": "(iv) Freedom to move freely throughout India.",
-                          "sequence_number": 4,
-                          "depth": 4,
-                          "level_label": "Sub-point",
-                          "children": []
-                        },
-                        {
-                          "title": "(v) Freedom to reside and settle in any part of India.",
-                          "sequence_number": 5,
-                          "depth": 4,
-                          "level_label": "Sub-point",
-                          "children": []
-                        },
-                        {
-                          "title": "(vi) Freedom to practise any profession, trade or business.",
-                          "sequence_number": 6,
-                          "depth": 4,
-                          "level_label": "Sub-point",
-                          "children": []
-                        }
-                      ]
-                    }
-                  ]
+                  "children": []
                 },
                 {
-                  "title": "RIGHT TO INFORMATION",
+                  "title": "(b) Equality of Opportunity: Article-16",
                   "sequence_number": 3,
                   "depth": 2,
                   "level_label": "Subtopic",
                   "children": []
                 },
                 {
-                  "title": "Supreme Court Declares Right to Privacy - A Fundamental Right",
+                  "title": "(c) Abolition of Untouchability: Article-17",
                   "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(d) Abolition of Titles: Article-18",
+                  "sequence_number": 5,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "2. Right to Freedom-Articles 19 to 22",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "(a) Under Article-19, the Constitution guarantees six basic freedoms to its Citizens, viz.",
+                  "sequence_number": 1,
                   "depth": 2,
                   "level_label": "Subtopic",
                   "children": [
                     {
-                      "title": "(a) Right to Privacy - A Fundamental Right",
+                      "title": "(i) Freedom of speech and expression.",
                       "sequence_number": 1,
                       "depth": 3,
                       "level_label": "Point",
                       "children": []
                     },
                     {
-                      "title": "(b) Not an Absolute Right - It is Subjected to Reasonable Restrictions",
+                      "title": "(ii) Freedom to assemble peacefully without arms.",
                       "sequence_number": 2,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "(iii) Freedom to form associations and unions.",
+                      "sequence_number": 3,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "(iv) Freedom to move freely throughout India.",
+                      "sequence_number": 4,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "(v) Freedom to reside and settle in any part of India.",
+                      "sequence_number": 5,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "(vi) Freedom to practise any profession, trade or business.",
+                      "sequence_number": 6,
                       "depth": 3,
                       "level_label": "Point",
                       "children": []
@@ -561,8 +617,15 @@
                   ]
                 },
                 {
+                  "title": "RIGHT TO INFORMATION",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
                   "title": "Limitations",
-                  "sequence_number": 5,
+                  "sequence_number": 3,
                   "depth": 2,
                   "level_label": "Subtopic",
                   "children": [
@@ -592,7 +655,29 @@
                       "sequence_number": 4,
                       "depth": 3,
                       "level_label": "Point",
-                      "children": []
+                      "children": [
+                        {
+                          "title": "(i) Against greater penalty than what is prescribed under the law is prohibited.",
+                          "sequence_number": 1,
+                          "depth": 4,
+                          "level_label": "Sub-point",
+                          "children": []
+                        },
+                        {
+                          "title": "(ii) No one can be punished or prosecuted for the same offence twice.",
+                          "sequence_number": 2,
+                          "depth": 4,
+                          "level_label": "Sub-point",
+                          "children": []
+                        },
+                        {
+                          "title": "(iii) A person cannot be compelled to be a witness in the case where he himself is accused of the offence.",
+                          "sequence_number": 3,
+                          "depth": 4,
+                          "level_label": "Sub-point",
+                          "children": []
+                        }
+                      ]
                     },
                     {
                       "title": "(c) Protection of Life and Personal Liberty:",
@@ -612,7 +697,29 @@
                           "sequence_number": 1,
                           "depth": 4,
                           "level_label": "Sub-point",
-                          "children": []
+                          "children": [
+                            {
+                              "title": "(a) To be informed of his/her offence.",
+                              "sequence_number": 1,
+                              "depth": 5,
+                              "level_label": "Sub-point",
+                              "children": []
+                            },
+                            {
+                              "title": "(b) To be presented before a magistrate within 24 hours from the time of arrest.",
+                              "sequence_number": 2,
+                              "depth": 5,
+                              "level_label": "Sub-point",
+                              "children": []
+                            },
+                            {
+                              "title": "(c) The right to consult a lawyer and prepare for defence at the trial.",
+                              "sequence_number": 3,
+                              "depth": 5,
+                              "level_label": "Sub-point",
+                              "children": []
+                            }
+                          ]
                         },
                         {
                           "title": "(ii) Preventive Detention:",
@@ -624,53 +731,25 @@
                       ]
                     }
                   ]
-                },
+                }
+              ]
+            },
+            {
+              "title": "3. Right Against Exploitation-Articles 23 and 24",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
                 {
-                  "title": "3. Right Against Exploitation-Articles 23 and 24",
-                  "sequence_number": 6,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": [
-                    {
-                      "title": "(i) Article 23-(a)",
-                      "sequence_number": 1,
-                      "depth": 3,
-                      "level_label": "Point",
-                      "children": []
-                    },
-                    {
-                      "title": "(ii) Article 24",
-                      "sequence_number": 2,
-                      "depth": 3,
-                      "level_label": "Point",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "title": "4. Right to Freedom of Religion",
-                  "sequence_number": 7,
+                  "title": "(i) Article 23-(a)",
+                  "sequence_number": 1,
                   "depth": 2,
                   "level_label": "Subtopic",
                   "children": []
                 },
                 {
-                  "title": "5. Cultural and Educational Rights",
-                  "sequence_number": 8,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "6. Right to Constitutional Remedies",
-                  "sequence_number": 9,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "7. Right to Education",
-                  "sequence_number": 10,
+                  "title": "(ii) Article 24",
+                  "sequence_number": 2,
                   "depth": 2,
                   "level_label": "Subtopic",
                   "children": []
@@ -678,48 +757,120 @@
               ]
             },
             {
-              "title": "RIGHT TO PROPERTY",
+              "title": "4. Right to Freedom of Religion",
               "sequence_number": 4,
               "depth": 1,
               "level_label": "Topic",
               "children": []
             },
             {
-              "title": "CHECK ON ARBITRARY ACTIONS OF THE STATE",
+              "title": "5. Cultural and Educational Rights",
               "sequence_number": 5,
               "depth": 1,
               "level_label": "Topic",
               "children": []
             },
             {
-              "title": "RESTRICTIONS IMPOSED",
+              "title": "6. Right to Constitutional Remedies Article 32",
               "sequence_number": 6,
               "depth": 1,
               "level_label": "Topic",
-              "children": []
+              "children": [
+                {
+                  "title": "IMPORTANT WRITS",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": [
+                    {
+                      "title": "(i) Habeas Corpus:",
+                      "sequence_number": 1,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "(ii) Mandamus:",
+                      "sequence_number": 2,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "(iii) Writ of Prohibition:",
+                      "sequence_number": 3,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "(iv) Writ of Certiorari:",
+                      "sequence_number": 4,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "(v) Quo-warranto:",
+                      "sequence_number": 5,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
             },
             {
-              "title": "SUSPENSION OF FUNDAMENTAL RIGHTS",
+              "title": "7. Right to Education",
               "sequence_number": 7,
-              "depth": 1,
-              "level_label": "Topic",
-              "children": []
-            },
-            {
-              "title": "FUNDAMENTAL DUTIES",
-              "sequence_number": 8,
-              "depth": 1,
-              "level_label": "Topic",
-              "children": []
-            },
-            {
-              "title": "KINDS OF DUTIES",
-              "sequence_number": 9,
               "depth": 1,
               "level_label": "Topic",
               "children": []
             }
           ]
+        },
+        {
+          "title": "CHECK ON ARBITRARY ACTIONS OF THE STATE",
+          "sequence_number": 4,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "RESTRICTIONS IMPOSED",
+          "sequence_number": 5,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "SUSPENSION OF FUNDAMENTAL RIGHTS",
+          "sequence_number": 6,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "FUNDAMENTAL DUTIES",
+          "sequence_number": 7,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "KINDS OF DUTIES",
+          "sequence_number": 8,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "IMPORTANCE OF FUNDAMENTAL DUTIES",
+          "sequence_number": 9,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
         }
       ],
       "structure_notes": ""
@@ -748,28 +899,28 @@
                   "level_label": "Subtopic",
                   "children": [
                     {
-                      "title": "(i) The Rig Veda",
+                      "title": "(i) The Rig Veda:",
                       "sequence_number": 1,
                       "depth": 3,
                       "level_label": "Point",
                       "children": []
                     },
                     {
-                      "title": "(ii) The Sama Veda",
+                      "title": "(ii) The Sama Veda:",
                       "sequence_number": 2,
                       "depth": 3,
                       "level_label": "Point",
                       "children": []
                     },
                     {
-                      "title": "(iii) The Yajur Veda",
+                      "title": "(iii) The Yajur Veda:",
                       "sequence_number": 3,
                       "depth": 3,
                       "level_label": "Point",
                       "children": []
                     },
                     {
-                      "title": "(iv) The Atharva Veda",
+                      "title": "(iv) The Atharva Veda:",
                       "sequence_number": 4,
                       "depth": 3,
                       "level_label": "Point",
@@ -805,42 +956,42 @@
                   "level_label": "Subtopic",
                   "children": [
                     {
-                      "title": "(i) The Vedangas",
+                      "title": "(i) The Vedangas:",
                       "sequence_number": 1,
                       "depth": 3,
                       "level_label": "Point",
                       "children": []
                     },
                     {
-                      "title": "(ii) The Sutras",
+                      "title": "(ii) The Sutras:",
                       "sequence_number": 2,
                       "depth": 3,
                       "level_label": "Point",
                       "children": []
                     },
                     {
-                      "title": "(iii) The Upavedas",
+                      "title": "(iii) The Upavedas:",
                       "sequence_number": 3,
                       "depth": 3,
                       "level_label": "Point",
                       "children": []
                     },
                     {
-                      "title": "(iv) Darshanas",
+                      "title": "(iv) Darshanas:",
                       "sequence_number": 4,
                       "depth": 3,
                       "level_label": "Point",
                       "children": []
                     },
                     {
-                      "title": "(v) The Dharmashastras",
+                      "title": "(v) The Dharmashastras:",
                       "sequence_number": 5,
                       "depth": 3,
                       "level_label": "Point",
                       "children": []
                     },
                     {
-                      "title": "(vi) The Ashtadhyayi",
+                      "title": "(vi) The Ashtadhyayi:",
                       "sequence_number": 6,
                       "depth": 3,
                       "level_label": "Point",
@@ -869,32 +1020,32 @@
                       "children": []
                     }
                   ]
-                }
-              ]
-            },
-            {
-              "title": "2. THE EPICS",
-              "sequence_number": 2,
-              "depth": 1,
-              "level_label": "Topic",
-              "children": [
-                {
-                  "title": "Ramayana",
-                  "sequence_number": 1,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
                 },
                 {
-                  "title": "Mahabharata",
-                  "sequence_number": 2,
+                  "title": "2. THE EPICS",
+                  "sequence_number": 7,
                   "depth": 2,
                   "level_label": "Subtopic",
-                  "children": []
+                  "children": [
+                    {
+                      "title": "Ramayana:",
+                      "sequence_number": 1,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "Mahabharata:",
+                      "sequence_number": 2,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    }
+                  ]
                 },
                 {
                   "title": "The Importance of the Epics",
-                  "sequence_number": 3,
+                  "sequence_number": 8,
                   "depth": 2,
                   "level_label": "Subtopic",
                   "children": [
@@ -946,12 +1097,12 @@
             },
             {
               "title": "B. ARCHAEOLOGICAL SOURCES",
-              "sequence_number": 3,
+              "sequence_number": 2,
               "depth": 1,
               "level_label": "Topic",
               "children": [
                 {
-                  "title": "1. Iron Artifacts",
+                  "title": "1. Iron Artifacts:",
                   "sequence_number": 1,
                   "depth": 2,
                   "level_label": "Subtopic",
@@ -964,14 +1115,14 @@
                       "children": []
                     },
                     {
-                      "title": "(ii) Occupation",
+                      "title": "(ii) Occupation:",
                       "sequence_number": 2,
                       "depth": 3,
                       "level_label": "Point",
                       "children": []
                     },
                     {
-                      "title": "(iii) Defence",
+                      "title": "(iii) Defence:",
                       "sequence_number": 3,
                       "depth": 3,
                       "level_label": "Point",
@@ -980,7 +1131,7 @@
                   ]
                 },
                 {
-                  "title": "2. Pottery",
+                  "title": "2. Pottery:",
                   "sequence_number": 2,
                   "depth": 2,
                   "level_label": "Subtopic",
@@ -1018,14 +1169,14 @@
               "children": []
             },
             {
-              "title": "POSITION OF WOMEN",
+              "title": "CLASS DIVISIONS",
               "sequence_number": 2,
               "depth": 1,
               "level_label": "Topic",
               "children": []
             },
             {
-              "title": "CLASS DIVISIONS",
+              "title": "POSITION OF WOMEN",
               "sequence_number": 3,
               "depth": 1,
               "level_label": "Topic",
@@ -1069,10 +1220,10 @@
           "children": []
         }
       ],
-      "structure_notes": "Hierarchical structure extracted from the Vedic Period chapter in HistoryCivics textbook."
+      "structure_notes": ""
     },
     {
-      "title": "Salient Features of the Constitution-II",
+      "title": "Salient Features of the Constitution - II",
       "sequence_number": 3,
       "discipline": "civics",
       "nodes": [
@@ -1083,7 +1234,7 @@
           "level_label": "Section",
           "children": [
             {
-              "title": "Directive Principles of State Policy",
+              "title": "Directive Principles of State Policy (meaning), Welfare State.",
               "sequence_number": 1,
               "depth": 1,
               "level_label": "Topic",
@@ -1105,7 +1256,7 @@
           "level_label": "Section",
           "children": [
             {
-              "title": "The Constitution of the Irish Republic which contains the Principles of Social Policy for the guidance of legislators.",
+              "title": "The Constitution of the Irish Republic",
               "sequence_number": 1,
               "depth": 1,
               "level_label": "Topic",
@@ -1148,56 +1299,56 @@
           "level_label": "Section",
           "children": [
             {
-              "title": "Directive Principles are in the nature of a pledge made by the framers of the Constitution to the people of India.",
+              "title": "1.",
               "sequence_number": 1,
               "depth": 1,
               "level_label": "Topic",
               "children": []
             },
             {
-              "title": "The Directive Principles give guidelines to the governments to make laws and draft their policies according to these fundamental principles, which summarise the objectives of our Constitution.",
+              "title": "2.",
               "sequence_number": 2,
               "depth": 1,
               "level_label": "Topic",
               "children": []
             },
             {
-              "title": "They provide a measure to judge a government's performance.",
+              "title": "3.",
               "sequence_number": 3,
               "depth": 1,
               "level_label": "Topic",
               "children": []
             },
             {
-              "title": "The Directive Principles direct the government to move towards the goal of a Welfare State.",
+              "title": "4.",
               "sequence_number": 4,
               "depth": 1,
               "level_label": "Topic",
               "children": []
             },
             {
-              "title": "They enlighten and educate the people of what they can expect from the politicians whom they vote to power.",
+              "title": "5.",
               "sequence_number": 5,
               "depth": 1,
               "level_label": "Topic",
               "children": []
             },
             {
-              "title": "They provide a direction to Courts in respect of safeguarding the rights of the citizens.",
+              "title": "6.",
               "sequence_number": 6,
               "depth": 1,
               "level_label": "Topic",
               "children": []
             },
             {
-              "title": "Since public opinion backs the Directive Principles, the goal of establishing social and economic order is clearly laid out before the government.",
+              "title": "7.",
               "sequence_number": 7,
               "depth": 1,
               "level_label": "Topic",
               "children": []
             },
             {
-              "title": "The 42nd Amendment Act, 1976 provides that if a law is made to give effect to any of the Directive Principles it will not be declared unconstitutional even if it takes away any of the rights under Articles 14, 19 and 31.",
+              "title": "8.",
               "sequence_number": 8,
               "depth": 1,
               "level_label": "Topic",
@@ -1219,32 +1370,54 @@
           "level_label": "Section",
           "children": [
             {
-              "title": "The Right to Education Act has made it mandatory for every child between the ages of 6-14 to be provided free education in all government and government aided schools.",
+              "title": "1.",
               "sequence_number": 1,
               "depth": 1,
               "level_label": "Topic",
               "children": []
             },
             {
-              "title": "Special scholarships are provided to socially and economically weaker sections of the society.",
+              "title": "2.",
               "sequence_number": 2,
               "depth": 1,
               "level_label": "Topic",
               "children": []
             },
             {
-              "title": "Untouchability has been made an offence punishable by law.",
+              "title": "3.",
               "sequence_number": 3,
               "depth": 1,
               "level_label": "Topic",
               "children": []
             },
             {
-              "title": "In order to provide justice to the Economically Weaker Sections (EWS) from the upper castes, the Central Government has provided 10 per cent reservation for them in government jobs and in higher education.",
+              "title": "4.",
               "sequence_number": 4,
               "depth": 1,
               "level_label": "Topic",
-              "children": []
+              "children": [
+                {
+                  "title": "People who have an annual income of less than Rs. 8 lakhs, or",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "People who own less than five acres of farm land, or",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "People who have a house lesser than 1,000 sq feet in a town (or 100 sq yard in a notified municipal area).",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
             },
             {
               "title": "ECONOMIC WELFARE",
@@ -1260,134 +1433,141 @@
                   "children": []
                 },
                 {
-                  "title": "(b) Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Bill, 2013 was passed by the Parliament in September 2013.",
+                  "title": "(b) Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Bill, 2013",
                   "sequence_number": 2,
                   "depth": 2,
                   "level_label": "Subtopic",
                   "children": []
                 },
                 {
-                  "title": "(c) Nationalisation of banks, insurance companies and some key industries have been done to ensure that the ownership of the material resources of the community are so distributed so as to obtain best service of common good.",
+                  "title": "(c) Nationalisation of banks, insurance companies and some key industries",
                   "sequence_number": 3,
                   "depth": 2,
                   "level_label": "Subtopic",
                   "children": []
                 },
                 {
-                  "title": "(d) In order to ensure just payment to workers and equal pay for equal work, the payment of wages is governed by the Government which has enacted legislation to the effect that the payment be made according to the Minimum Wages Act 1948, as amended from time to time.",
+                  "title": "(d) In order to ensure just payment to workers and equal pay for equal work",
                   "sequence_number": 4,
                   "depth": 2,
                   "level_label": "Subtopic",
                   "children": []
                 },
                 {
-                  "title": "(e) Ayushman Bharat Yojana is a centrally sponsored health scheme launched in 2018.",
+                  "title": "(e) Ayushman Bharat Yojana",
                   "sequence_number": 5,
                   "depth": 2,
                   "level_label": "Subtopic",
                   "children": []
                 },
                 {
-                  "title": "(f) Pradhan Mantri Samaan Nidhi Yojana:",
+                  "title": "(f) Pradhan Mantri Samaan Nidhi Yojana",
                   "sequence_number": 6,
                   "depth": 2,
                   "level_label": "Subtopic",
                   "children": []
                 },
                 {
-                  "title": "(g) Pradhan Mantri Ujjwala Yojana:",
+                  "title": "(g) Pradhan Mantri Ujjwala Yojana",
                   "sequence_number": 7,
                   "depth": 2,
                   "level_label": "Subtopic",
                   "children": []
                 },
                 {
-                  "title": "(h) Pradhan Mantri Gramin Awaas Yojana (Housing for All):",
+                  "title": "(h) Pradhan Mantri Gramin Awaas Yojana (Housing for All)",
                   "sequence_number": 8,
                   "depth": 2,
                   "level_label": "Subtopic",
                   "children": []
                 },
                 {
-                  "title": "(i) The Pradhan Mantri Fasal Bima Yojana (PMFBY) was launched on January 13, 2016.",
+                  "title": "(i) The Pradhan Mantri Fasal Bima Yojana (PMFBY)",
                   "sequence_number": 9,
                   "depth": 2,
                   "level_label": "Subtopic",
                   "children": []
                 },
                 {
-                  "title": "(j) A social upliftment scheme, called the 'Jan Dhan Yojana', was announced by the Prime Minister, Narendra Modi on August 15, 2014.",
+                  "title": "(j) A social upliftment scheme, called the 'Jan Dhan Yojana'",
                   "sequence_number": 10,
                   "depth": 2,
                   "level_label": "Subtopic",
                   "children": []
                 },
                 {
-                  "title": "(k) The Government has launched various programmes/such as Integrated Rural Development Programme (IRDP) and Rural Landless Employment Guarantee Programme (RLEGP) to help the poor.",
+                  "title": "(k) The Government has launched various programmes/such as Integrated Rural Development Programme (IRDP) and Rural Landless Employment Guarantee Programme (RLEGP)",
                   "sequence_number": 11,
                   "depth": 2,
                   "level_label": "Subtopic",
                   "children": []
                 }
               ]
-            }
-          ]
-        },
-        {
-          "title": "POLITICAL, ADMINISTRATIVE AND LEGAL MATTERS",
-          "sequence_number": 7,
-          "depth": 0,
-          "level_label": "Section",
-          "children": [
+            },
             {
-              "title": "(a) Panchayati Raj has been established in the remotest villages to promote the idea of local self-government.",
-              "sequence_number": 1,
+              "title": "Women Reservation Bill (Nari Shakti Vandan Adhiniyam)",
+              "sequence_number": 6,
               "depth": 1,
               "level_label": "Topic",
               "children": []
             },
             {
-              "title": "(b) In view of the constitutional directive, free legal aid has been provided to those people, who themselves cannot engage lawyers.",
-              "sequence_number": 2,
+              "title": "POLITICAL, ADMINISTRATIVE AND LEGAL MATTERS",
+              "sequence_number": 7,
               "depth": 1,
               "level_label": "Topic",
-              "children": []
+              "children": [
+                {
+                  "title": "(a) Panchayati Raj has been established in the remotest villages",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(b) In view of the constitutional directive, free legal aid has been provided to those people",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(c) In order to check the misuse of power, there is now a complete separation of the judiciary from the executive.",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
             },
             {
-              "title": "(c) In order to check the misuse of power, there is now a complete separation of the judiciary from the executive.",
-              "sequence_number": 3,
+              "title": "FOREIGN POLICY",
+              "sequence_number": 8,
               "depth": 1,
               "level_label": "Topic",
-              "children": []
-            }
-          ]
-        },
-        {
-          "title": "FOREIGN POLICY",
-          "sequence_number": 8,
-          "depth": 0,
-          "level_label": "Section",
-          "children": [
-            {
-              "title": "(a) In order to promote international peace and security India is opposed to colonialism and racialism and has helped many countries to win their freedom.",
-              "sequence_number": 1,
-              "depth": 1,
-              "level_label": "Topic",
-              "children": []
-            },
-            {
-              "title": "(b) India is law abiding; it respects international law.",
-              "sequence_number": 2,
-              "depth": 1,
-              "level_label": "Topic",
-              "children": []
-            },
-            {
-              "title": "(c) India holds the policy of complete disarmament and has been firmly against all the attempts of some powerful countries for partial disarmament.",
-              "sequence_number": 3,
-              "depth": 1,
-              "level_label": "Topic",
-              "children": []
+              "children": [
+                {
+                  "title": "(a) In order to promote international peace and security India is opposed to colonialism and racialism",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(b) India is law abiding; it respects international law.",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(c) India holds the policy of complete disarmament and has been firmly against all the attempts of some powerful countries for partial disarmament.",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
             }
           ]
         }
@@ -1406,100 +1586,57 @@
           "level_label": "Section",
           "children": [
             {
-              "title": "Sources",
+              "title": "Causes for their rise in the 6th century B.C.",
               "sequence_number": 1,
               "depth": 1,
               "level_label": "Topic",
-              "children": [
-                {
-                  "title": "Angas",
-                  "sequence_number": 1,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "Tripitikas",
-                  "sequence_number": 2,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": [
-                    {
-                      "title": "The Vinaya Pitaka",
-                      "sequence_number": 1,
-                      "depth": 3,
-                      "level_label": "Point",
-                      "children": []
-                    },
-                    {
-                      "title": "The Sutta Pitaka",
-                      "sequence_number": 2,
-                      "depth": 3,
-                      "level_label": "Point",
-                      "children": []
-                    },
-                    {
-                      "title": "The Abhidhamma Pitaka",
-                      "sequence_number": 3,
-                      "depth": 3,
-                      "level_label": "Point",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "title": "Jatakas",
-                  "sequence_number": 3,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                }
-              ]
+              "children": []
             },
             {
-              "title": "Causes for the rise of Jainism and Buddhism",
+              "title": "Doctrines",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "SOURCES",
+          "sequence_number": 2,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "(i) Angas",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(ii) Tripitikas",
               "sequence_number": 2,
               "depth": 1,
               "level_label": "Topic",
               "children": [
                 {
-                  "title": "Reaction against Ritualism",
+                  "title": "The Vinaya Pitaka",
                   "sequence_number": 1,
                   "depth": 2,
                   "level_label": "Subtopic",
                   "children": []
                 },
                 {
-                  "title": "Corruption in Religion",
+                  "title": "The Sutta Pitaka",
                   "sequence_number": 2,
                   "depth": 2,
                   "level_label": "Subtopic",
                   "children": []
                 },
                 {
-                  "title": "Rigid Caste System",
+                  "title": "The Abhidhamma Pitaka",
                   "sequence_number": 3,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "Difficult Language",
-                  "sequence_number": 4,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "Political situation",
-                  "sequence_number": 5,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "Agricultural Economy",
-                  "sequence_number": 6,
                   "depth": 2,
                   "level_label": "Subtopic",
                   "children": []
@@ -1507,250 +1644,128 @@
               ]
             },
             {
-              "title": "Jainism",
+              "title": "(iii) Jatakas",
               "sequence_number": 3,
               "depth": 1,
               "level_label": "Topic",
-              "children": [
-                {
-                  "title": "Vardhamana Mahavira",
-                  "sequence_number": 1,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "Preachings of Mahavira",
-                  "sequence_number": 2,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "MAIN TEACHINGS OF JAINISM",
-                  "sequence_number": 3,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": [
-                    {
-                      "title": "The Five Vows",
-                      "sequence_number": 1,
-                      "depth": 3,
-                      "level_label": "Point",
-                      "children": [
-                        {
-                          "title": "Ahimsa: non-violence.",
-                          "sequence_number": 1,
-                          "depth": 4,
-                          "level_label": "Sub-point",
-                          "children": []
-                        },
-                        {
-                          "title": "Achaurya or Asteya: not stealing.",
-                          "sequence_number": 2,
-                          "depth": 4,
-                          "level_label": "Sub-point",
-                          "children": []
-                        },
-                        {
-                          "title": "Satya: not telling a lie.",
-                          "sequence_number": 3,
-                          "depth": 4,
-                          "level_label": "Sub-point",
-                          "children": []
-                        },
-                        {
-                          "title": "Aparigraha: not possessing property.",
-                          "sequence_number": 4,
-                          "depth": 4,
-                          "level_label": "Sub-point",
-                          "children": []
-                        },
-                        {
-                          "title": "Brahmacharya: practising chastity.",
-                          "sequence_number": 5,
-                          "depth": 4,
-                          "level_label": "Sub-point",
-                          "children": []
-                        }
-                      ]
-                    },
-                    {
-                      "title": "Nine Truths",
-                      "sequence_number": 2,
-                      "depth": 3,
-                      "level_label": "Point",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "title": "DOCTRINES OF JAINISM",
-                  "sequence_number": 4,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": [
-                    {
-                      "title": "Tri-ratnas",
-                      "sequence_number": 1,
-                      "depth": 3,
-                      "level_label": "Point",
-                      "children": []
-                    },
-                    {
-                      "title": "Karma",
-                      "sequence_number": 2,
-                      "depth": 3,
-                      "level_label": "Point",
-                      "children": []
-                    },
-                    {
-                      "title": "Equality",
-                      "sequence_number": 3,
-                      "depth": 3,
-                      "level_label": "Point",
-                      "children": []
-                    },
-                    {
-                      "title": "Eternal soul",
-                      "sequence_number": 4,
-                      "depth": 3,
-                      "level_label": "Point",
-                      "children": []
-                    },
-                    {
-                      "title": "Salvation",
-                      "sequence_number": 5,
-                      "depth": 3,
-                      "level_label": "Point",
-                      "children": []
-                    },
-                    {
-                      "title": "Belief in Penance",
-                      "sequence_number": 6,
-                      "depth": 3,
-                      "level_label": "Point",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "title": "SPREAD OF JAINISM",
-                  "sequence_number": 5,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "CAUSES OF THE SPREAD OF JAINISM",
-                  "sequence_number": 6,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": [
-                    {
-                      "title": "Local Dialect",
-                      "sequence_number": 1,
-                      "depth": 3,
-                      "level_label": "Point",
-                      "children": []
-                    },
-                    {
-                      "title": "Royal Patronage",
-                      "sequence_number": 2,
-                      "depth": 3,
-                      "level_label": "Point",
-                      "children": []
-                    },
-                    {
-                      "title": "Saints",
-                      "sequence_number": 3,
-                      "depth": 3,
-                      "level_label": "Point",
-                      "children": []
-                    },
-                    {
-                      "title": "Appeal to People",
-                      "sequence_number": 4,
-                      "depth": 3,
-                      "level_label": "Point",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "title": "DIVISION INTO TWO SECTS",
-                  "sequence_number": 7,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "IMPACT OF JAINISM",
-                  "sequence_number": 8,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": [
-                    {
-                      "title": "Political Impact",
-                      "sequence_number": 1,
-                      "depth": 3,
-                      "level_label": "Point",
-                      "children": []
-                    },
-                    {
-                      "title": "Social and Religious Impact",
-                      "sequence_number": 2,
-                      "depth": 3,
-                      "level_label": "Point",
-                      "children": []
-                    },
-                    {
-                      "title": "Language and Literature",
-                      "sequence_number": 3,
-                      "depth": 3,
-                      "level_label": "Point",
-                      "children": []
-                    },
-                    {
-                      "title": "Art and Architecture",
-                      "sequence_number": 4,
-                      "depth": 3,
-                      "level_label": "Point",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "title": "DECLINE OF JAINISM",
-                  "sequence_number": 9,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                }
-              ]
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "CAUSES FOR THE RISE OF JAINISM AND BUDDHISM",
+          "sequence_number": 3,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "(i) Reaction against Ritualism",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
             },
             {
-              "title": "BUDDHISM",
+              "title": "(ii) Corruption in Religion",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(iii) Rigid Caste System",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(iv) Difficult Language",
               "sequence_number": 4,
               "depth": 1,
               "level_label": "Topic",
               "children": []
             },
             {
-              "title": "GAUTAMA BUDDHA",
+              "title": "(v) Political situation",
               "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(vi) Agricultural Economy",
+              "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "JAINISM",
+          "sequence_number": 4,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Vardhamana Mahavira",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "MAIN TEACHINGS OF JAINISM",
+              "sequence_number": 2,
               "depth": 1,
               "level_label": "Topic",
               "children": [
                 {
-                  "title": "ENLIGHTENMENT",
+                  "title": "1. The Five Vows",
                   "sequence_number": 1,
                   "depth": 2,
                   "level_label": "Subtopic",
-                  "children": []
+                  "children": [
+                    {
+                      "title": "(i) Ahimsa: non-violence.",
+                      "sequence_number": 1,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "(ii) Achaurya or Asteya: not stealing.",
+                      "sequence_number": 2,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "(iii) Satya: not telling a lie.",
+                      "sequence_number": 3,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "(iv) Aparigraha: not possessing property.",
+                      "sequence_number": 4,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "(v) Brahmacharya: practising chastity.",
+                      "sequence_number": 5,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    }
+                  ]
                 },
                 {
-                  "title": "Dharmachakrapravartana",
+                  "title": "2. Nine Truths",
                   "sequence_number": 2,
                   "depth": 2,
                   "level_label": "Subtopic",
@@ -1759,8 +1774,224 @@
               ]
             },
             {
-              "title": "TEACHINGS OF BUDDHISM",
+              "title": "DOCTRINES OF JAINISM",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "(i) Tri-ratnas",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(ii) Karma",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(iii) Equality",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(iv) Eternal soul",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(v) Salvation",
+                  "sequence_number": 5,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(vi) Belief in Penance",
+                  "sequence_number": 6,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "SPREAD OF JAINISM",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "CAUSES OF THE SPREAD OF JAINISM",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "(i) Local Dialect",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(ii) Royal Patronage",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(iii) Saints",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(iv) Appeal to People",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "DIVISION INTO TWO SECTS",
               "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "(a) Shvetambaras",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(b) Digambaras",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "IMPACT OF JAINISM",
+              "sequence_number": 7,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "(a) Political Impact",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(b) Social and Religious Impact",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(c) Language and Literature",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(d) Art and Architecture",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "DECLINE OF JAINISM",
+              "sequence_number": 8,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "(i) Jainism preached rigid austerity.",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(ii) The religion did not spread to foreign countries.",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(iii) Jainism did not get royal patronage from contemporary rulers.",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(iv) Though Jainism advocated equality of men",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(v) During the Gupta period and in later years, Hinduism once again became popular.",
+                  "sequence_number": 5,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BUDDHISM",
+          "sequence_number": 5,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "GAUTAMA BUDDHA",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "ENLIGHTENMENT",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "TEACHINGS OF BUDDHISM",
+              "sequence_number": 3,
               "depth": 1,
               "level_label": "Topic",
               "children": [
@@ -1838,44 +2069,36 @@
             },
             {
               "title": "ORGANISATION",
-              "sequence_number": 7,
+              "sequence_number": 4,
               "depth": 1,
               "level_label": "Topic",
               "children": [
                 {
-                  "title": "The Sangha",
+                  "title": "1. Membership",
                   "sequence_number": 1,
                   "depth": 2,
                   "level_label": "Subtopic",
-                  "children": [
-                    {
-                      "title": "Membership",
-                      "sequence_number": 1,
-                      "depth": 3,
-                      "level_label": "Point",
-                      "children": []
-                    },
-                    {
-                      "title": "Ten Commandments",
-                      "sequence_number": 2,
-                      "depth": 3,
-                      "level_label": "Point",
-                      "children": []
-                    },
-                    {
-                      "title": "Viharas",
-                      "sequence_number": 3,
-                      "depth": 3,
-                      "level_label": "Point",
-                      "children": []
-                    }
-                  ]
+                  "children": []
+                },
+                {
+                  "title": "2. Ten Commandments",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "3. Viharas",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
                 }
               ]
             },
             {
               "title": "SECTS OF BUDDHISM",
-              "sequence_number": 8,
+              "sequence_number": 5,
               "depth": 1,
               "level_label": "Topic",
               "children": [
@@ -1897,54 +2120,54 @@
             },
             {
               "title": "IMPACT OF BUDDHISM",
-              "sequence_number": 9,
+              "sequence_number": 6,
               "depth": 1,
               "level_label": "Topic",
               "children": [
                 {
-                  "title": "Ahimsa",
+                  "title": "(i) Ahimsa",
                   "sequence_number": 1,
                   "depth": 2,
                   "level_label": "Subtopic",
                   "children": []
                 },
                 {
-                  "title": "Influence on Religious Life",
+                  "title": "(ii) Influence on Religious Life",
                   "sequence_number": 2,
                   "depth": 2,
                   "level_label": "Subtopic",
                   "children": []
                 },
                 {
-                  "title": "Influence on Social Life",
+                  "title": "(iii) Influence on Social Life",
                   "sequence_number": 3,
                   "depth": 2,
                   "level_label": "Subtopic",
                   "children": []
                 },
                 {
-                  "title": "Political Impact",
+                  "title": "(iv) Political Impact",
                   "sequence_number": 4,
                   "depth": 2,
                   "level_label": "Subtopic",
                   "children": []
                 },
                 {
-                  "title": "Cultural Impact",
+                  "title": "(v) Cultural Impact",
                   "sequence_number": 5,
                   "depth": 2,
                   "level_label": "Subtopic",
                   "children": []
                 },
                 {
-                  "title": "Language and Literature",
+                  "title": "(vi) Language and Literature",
                   "sequence_number": 6,
                   "depth": 2,
                   "level_label": "Subtopic",
                   "children": []
                 },
                 {
-                  "title": "Art and Architecture",
+                  "title": "(vii) Art and Architecture",
                   "sequence_number": 7,
                   "depth": 2,
                   "level_label": "Subtopic",
@@ -1954,63 +2177,48 @@
             },
             {
               "title": "DECLINE OF BUDDHISM",
-              "sequence_number": 10,
+              "sequence_number": 7,
               "depth": 1,
               "level_label": "Topic",
               "children": [
                 {
-                  "title": "Split in Buddhism",
+                  "title": "(i) Split in Buddhism",
                   "sequence_number": 1,
                   "depth": 2,
                   "level_label": "Subtopic",
                   "children": []
                 },
                 {
-                  "title": "Language",
+                  "title": "(ii) Language",
                   "sequence_number": 2,
                   "depth": 2,
                   "level_label": "Subtopic",
                   "children": []
                 },
                 {
-                  "title": "Corruption in Sangha",
+                  "title": "(iii) Corruption in Sangha",
                   "sequence_number": 3,
                   "depth": 2,
                   "level_label": "Subtopic",
                   "children": []
                 },
                 {
-                  "title": "Reforms in Hinduism",
+                  "title": "(iv) Reforms in Hinduism",
                   "sequence_number": 4,
                   "depth": 2,
                   "level_label": "Subtopic",
                   "children": []
                 },
                 {
-                  "title": "Invasions",
+                  "title": "(v) Invasions",
                   "sequence_number": 5,
                   "depth": 2,
                   "level_label": "Subtopic",
                   "children": []
                 },
                 {
-                  "title": "End of Royal Patronage",
+                  "title": "(vi) End of Royal Patronage",
                   "sequence_number": 6,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "title": "JAINISM AND BUDDHISM COMPARED",
-              "sequence_number": 11,
-              "depth": 1,
-              "level_label": "Topic",
-              "children": [
-                {
-                  "title": "SIMILARITIES BETWEEN JAINISM AND BUDDHISM",
-                  "sequence_number": 1,
                   "depth": 2,
                   "level_label": "Subtopic",
                   "children": []
@@ -2018,9 +2226,16 @@
               ]
             }
           ]
+        },
+        {
+          "title": "JAINISM AND BUDDHISM COMPARED",
+          "sequence_number": 6,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
         }
       ],
-      "structure_notes": ""
+      "structure_notes": "Hierarchical structure extracted from chapter headings and subheadings in the PDF. Includes sections, topics, and subtopics based on indentation and semantic meaning."
     },
     {
       "title": "Elections",
@@ -2034,139 +2249,188 @@
           "level_label": "Section",
           "children": [
             {
-              "title": "Meaning of Elections",
+              "title": "Meaning",
               "sequence_number": 1,
               "depth": 1,
               "level_label": "Topic",
               "children": []
             },
             {
-              "title": "Kinds of Elections",
+              "title": "Composition of Election Commission (in brief)",
               "sequence_number": 2,
               "depth": 1,
               "level_label": "Topic",
-              "children": [
-                {
-                  "title": "Direct Elections",
-                  "sequence_number": 1,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "Indirect Elections",
-                  "sequence_number": 2,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "Mid-Term Election",
-                  "sequence_number": 3,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "By-Elections",
-                  "sequence_number": 4,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                }
-              ]
+              "children": []
             },
             {
-              "title": "Election Commission",
+              "title": "Direct and Indirect election",
               "sequence_number": 3,
               "depth": 1,
               "level_label": "Topic",
               "children": []
             },
             {
-              "title": "Composition of the Election Commission",
+              "title": "General election",
               "sequence_number": 4,
               "depth": 1,
               "level_label": "Topic",
               "children": []
             },
             {
-              "title": "Term of Office and Conditions of Service",
+              "title": "Mid-term election and By-election",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "MEANING OF ELECTIONS",
+          "sequence_number": 2,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "KINDS OF ELECTIONS",
+          "sequence_number": 3,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "DIRECT ELECTIONS",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "INDIRECT ELECTIONS",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Election of the President and the Vice-President of India",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "GENERAL ELECTIONS",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "MID-TERM ELECTION",
               "sequence_number": 5,
               "depth": 1,
               "level_label": "Topic",
               "children": []
             },
             {
-              "title": "Powers and Functions of the Election Commission",
+              "title": "BY-ELECTIONS",
               "sequence_number": 6,
               "depth": 1,
               "level_label": "Topic",
-              "children": [
-                {
-                  "title": "Preparation of Electoral Rolls and Photo Identity Cards",
-                  "sequence_number": 1,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "Registration and Recognition of Political Parties",
-                  "sequence_number": 2,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "Allotment of Symbols",
-                  "sequence_number": 3,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "Fixing Dates and Conducting Elections",
-                  "sequence_number": 4,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "Ensuring Free and Fair Elections",
-                  "sequence_number": 5,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "Appointment of Polling Officers",
-                  "sequence_number": 6,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "Scrutiny of Nomination Papers",
-                  "sequence_number": 7,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "Scrutiny of Election Expenses",
-                  "sequence_number": 8,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "Advisory Functions",
-                  "sequence_number": 9,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                }
-              ]
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "ELECTION COMMISSION",
+          "sequence_number": 4,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "COMPOSITION OF THE ELECTION COMMISSION",
+          "sequence_number": 5,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "TERM OF OFFICE AND CONDITIONS OF SERVICE",
+          "sequence_number": 6,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "POWERS AND FUNCTIONS OF THE ELECTION COMMISSION",
+          "sequence_number": 7,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "(a) Preparation of Electoral Rolls and Photo Identity Cards",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(b) Registration and Recognition of Political Parties",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(c) Allotment of Symbols",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(d) Fixing Dates and Conducting Elections",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(e) Ensuring Free and Fair Elections",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(f) Appointment of Polling Officers",
+              "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(g) Scrutiny of Nomination Papers",
+              "sequence_number": 7,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(h) Scrutiny of Election Expenses",
+              "sequence_number": 8,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(i) Advisory Functions",
+              "sequence_number": 9,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
             }
           ]
         }
@@ -2324,7 +2588,7 @@
               "children": []
             },
             {
-              "title": "MPACT OF DHAMMA ON SHOKA'S IMPERIAL POLICY",
+              "title": "MPACT OF DHAMMA ON\nSHOKA'S IMPERIAL POLICY",
               "sequence_number": 2,
               "depth": 1,
               "level_label": "Topic",
@@ -2345,15 +2609,7 @@
           "sequence_number": 1,
           "depth": 0,
           "level_label": "Section",
-          "children": [
-            {
-              "title": "Rural: Three-tier system of Panchayati Raj- Gram Panchayat, Panchayat Samiti, Zila Parishad - their meaning and functions.",
-              "sequence_number": 1,
-              "depth": 1,
-              "level_label": "Topic",
-              "children": []
-            }
-          ]
+          "children": []
         },
         {
           "title": "MEANING OF LOCAL SELF-GOVERNMENT",
@@ -2376,57 +2632,15 @@
           "level_label": "Section",
           "children": [
             {
-              "title": "(i) These institutions provide the foundations on which the entire democratic structure of our country stands. These institutions make it possible for local people to take interest in their own affairs and groom them well to take on larger responsibilities later.",
+              "title": "(i)",
               "sequence_number": 1,
               "depth": 1,
               "level_label": "Topic",
               "children": []
             },
             {
-              "title": "(ii) The local institutions provide a training ground for local leadership and to gain necessary experience for undertaking bigger challenges at the state or the national level.",
+              "title": "(ii)",
               "sequence_number": 2,
-              "depth": 1,
-              "level_label": "Topic",
-              "children": []
-            },
-            {
-              "title": "(in) Local people know their problems well and are best judges of their own needs.",
-              "sequence_number": 3,
-              "depth": 1,
-              "level_label": "Topic",
-              "children": []
-            },
-            {
-              "title": "(iv) The local institutions encourage self-help and voluntary service and save the state of many unnecessary expenses.",
-              "sequence_number": 4,
-              "depth": 1,
-              "level_label": "Topic",
-              "children": []
-            },
-            {
-              "title": "(v) Lodal self-government institutions gain the support of local communities.",
-              "sequence_number": 5,
-              "depth": 1,
-              "level_label": "Topic",
-              "children": []
-            },
-            {
-              "title": "(vi) Through these institutions government can reach ordinary citizens in times of need like National Emergency.",
-              "sequence_number": 6,
-              "depth": 1,
-              "level_label": "Topic",
-              "children": []
-            },
-            {
-              "title": "(vii) These institutions lessen the burden of workload on State and Central Government machinery.",
-              "sequence_number": 7,
-              "depth": 1,
-              "level_label": "Topic",
-              "children": []
-            },
-            {
-              "title": "(viii) They facilitate active participation of local people as an individual can evaluate the performance of the elected representatives.",
-              "sequence_number": 8,
               "depth": 1,
               "level_label": "Topic",
               "children": []
@@ -2440,35 +2654,35 @@
           "level_label": "Section",
           "children": [
             {
-              "title": "(i) To provide three-tier system of Panchayati Raj for all States having population of over 20 lakh,",
+              "title": "(i)",
               "sequence_number": 1,
               "depth": 1,
               "level_label": "Topic",
               "children": []
             },
             {
-              "title": "(ii) To hold Panchayat elections regularly every five years,",
+              "title": "(ii)",
               "sequence_number": 2,
               "depth": 1,
               "level_label": "Topic",
               "children": []
             },
             {
-              "title": "(iii) To provide reservation of seats for Scheduled Castes, Scheduled Tribes and women.",
+              "title": "(iii)",
               "sequence_number": 3,
               "depth": 1,
               "level_label": "Topic",
               "children": []
             },
             {
-              "title": "(iv) To constitute State Finance Commissions every five years to make recommendations on financial powers of the Panchayats,",
+              "title": "(iv)",
               "sequence_number": 4,
               "depth": 1,
               "level_label": "Topic",
               "children": []
             },
             {
-              "title": "(v) To constitute District Planning Committee to prepare draft development plan for the district as a whole.",
+              "title": "(v)",
               "sequence_number": 5,
               "depth": 1,
               "level_label": "Topic",
@@ -2481,74 +2695,30 @@
           "sequence_number": 6,
           "depth": 0,
           "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "ORGANISATION OF PANCHAYATI RAJ INSTITUTION",
+          "sequence_number": 7,
+          "depth": 0,
+          "level_label": "Section",
           "children": [
             {
-              "title": "ORGANISATION OF PANCHAYATI RAJ INSTITUTION",
+              "title": "(i) Gram Panchayats at village level.",
               "sequence_number": 1,
               "depth": 1,
               "level_label": "Topic",
-              "children": [
-                {
-                  "title": "(i) Gram Panchayats at village level.",
-                  "sequence_number": 1,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "(ii) Panchayat Samiti at block level or middle level.",
-                  "sequence_number": 2,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "(iii) Zila Parishad at District level.",
-                  "sequence_number": 3,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                }
-              ]
+              "children": []
             },
             {
-              "title": "(a) Qualification for Election to Local Bodies",
+              "title": "(ii) Panchayat Samiti at block level or middle level.",
               "sequence_number": 2,
               "depth": 1,
               "level_label": "Topic",
-              "children": [
-                {
-                  "title": "(i) He/She must be a citizen of India and not less than 21 years of age.",
-                  "sequence_number": 1,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "(ii) He/She must be a registered voter, in the case of Panchayats, member of the Gram Sabha, in the constituency.",
-                  "sequence_number": 2,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "(iii) He/She should not be a convict or have been disqualified by a Law of the Parliament or an undischarged insolvent.",
-                  "sequence_number": 3,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "(iv) He/She should not hold any office of profit under the Government.",
-                  "sequence_number": 4,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                }
-              ]
+              "children": []
             },
             {
-              "title": "(b) Term",
+              "title": "(iii) Zila Parishad at District level.",
               "sequence_number": 3,
               "depth": 1,
               "level_label": "Topic",
@@ -2557,337 +2727,177 @@
           ]
         },
         {
-          "title": "GRAM PANCHAYAT",
-          "sequence_number": 7,
+          "title": "(a) Qualification for Election to Local Bodies",
+          "sequence_number": 8,
           "depth": 0,
           "level_label": "Section",
           "children": [
             {
-              "title": "COMPOSITION",
+              "title": "(i)",
               "sequence_number": 1,
               "depth": 1,
               "level_label": "Topic",
-              "children": [
-                {
-                  "title": "Sarpanch",
-                  "sequence_number": 1,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "Members",
-                  "sequence_number": 2,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "Office Bearers",
-                  "sequence_number": 3,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                }
-              ]
+              "children": []
             },
             {
-              "title": "FUNCTIONS",
+              "title": "(ii)",
               "sequence_number": 2,
               "depth": 1,
               "level_label": "Topic",
-              "children": [
-                {
-                  "title": "1. Administrative Functions",
-                  "sequence_number": 1,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": [
-                    {
-                      "title": "(i) All public works and public welfare functions like construction, repair and maintenance of village roads, cart tracks, bridges, drains, tanks and wells.",
-                      "sequence_number": 1,
-                      "depth": 3,
-                      "level_label": "Point",
-                      "children": []
-                    },
-                    {
-                      "title": "(ii) Upkeep of cremation and burial grounds.",
-                      "sequence_number": 2,
-                      "depth": 3,
-                      "level_label": "Point",
-                      "children": []
-                    },
-                    {
-                      "title": "(iii) Sanitation, health, setting up of health centres and dispensaries.",
-                      "sequence_number": 3,
-                      "depth": 3,
-                      "level_label": "Point",
-                      "children": []
-                    },
-                    {
-                      "title": "(iv) Providing primary education.",
-                      "sequence_number": 4,
-                      "depth": 3,
-                      "level_label": "Point",
-                      "children": []
-                    },
-                    {
-                      "title": "(v) Arranging irrigation facilities, seeds, fertilisers.",
-                      "sequence_number": 5,
-                      "depth": 3,
-                      "level_label": "Point",
-                      "children": []
-                    },
-                    {
-                      "title": "(vi) Registration of births and deaths.",
-                      "sequence_number": 6,
-                      "depth": 3,
-                      "level_label": "Point",
-                      "children": []
-                    },
-                    {
-                      "title": "(vii) Maintaining records of common village property, their sale and purchase and land grants.",
-                      "sequence_number": 7,
-                      "depth": 3,
-                      "level_label": "Point",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "title": "2. Social and Economic Functions",
-                  "sequence_number": 2,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": [
-                    {
-                      "title": "(i) Construction of guest houses, libraries, marriage halls, etc;",
-                      "sequence_number": 1,
-                      "depth": 3,
-                      "level_label": "Point",
-                      "children": []
-                    },
-                    {
-                      "title": "(ii) Organising regular village melas, fairs and exhibitions;",
-                      "sequence_number": 2,
-                      "depth": 3,
-                      "level_label": "Point",
-                      "children": []
-                    },
-                    {
-                      "title": "(iii) Planting of trees, parks, gardens and playgrounds for recreation;",
-                      "sequence_number": 3,
-                      "depth": 3,
-                      "level_label": "Point",
-                      "children": []
-                    },
-                    {
-                      "title": "(iv) Establishing fair price shops, Cooperative Credit Societies.",
-                      "sequence_number": 4,
-                      "depth": 3,
-                      "level_label": "Point",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "title": "3. Judicial Functions",
-                  "sequence_number": 3,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                }
-              ]
+              "children": []
+            },
+            {
+              "title": "(iii)",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(iv)",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
             }
           ]
         },
         {
-          "title": "NYAYA PANCHAYATS",
-          "sequence_number": 8,
+          "title": "(b) Term",
+          "sequence_number": 9,
           "depth": 0,
           "level_label": "Section",
           "children": []
         },
         {
-          "title": "PANCHAYAT SAMITI (AT THE BLOCK LEVEL)",
-          "sequence_number": 9,
+          "title": "GRAM PANCHAYAT",
+          "sequence_number": 10,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "COMPOSITION",
+          "sequence_number": 11,
           "depth": 0,
           "level_label": "Section",
           "children": [
             {
-              "title": "Composition",
+              "title": "Sarpanch:",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Members:",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Office Bearers:",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "FUNCTIONS",
+          "sequence_number": 12,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "1. Administrative Functions",
               "sequence_number": 1,
               "depth": 1,
               "level_label": "Topic",
               "children": [
                 {
-                  "title": "(i) Sarpanchs of all Panchayats concerned.",
+                  "title": "(i)",
                   "sequence_number": 1,
                   "depth": 2,
                   "level_label": "Subtopic",
                   "children": []
                 },
                 {
-                  "title": "(ii) Members of Legislative Assembly of the State from the area.",
+                  "title": "(ii)",
                   "sequence_number": 2,
                   "depth": 2,
                   "level_label": "Subtopic",
                   "children": []
                 },
                 {
-                  "title": "(iii) Members of Parliament belonging to the area.",
+                  "title": "(iii)",
                   "sequence_number": 3,
                   "depth": 2,
                   "level_label": "Subtopic",
                   "children": []
                 },
                 {
-                  "title": "(iv) Block Development Officers of the block or the area served by them.",
+                  "title": "(iv)",
                   "sequence_number": 4,
                   "depth": 2,
                   "level_label": "Subtopic",
                   "children": []
                 },
                 {
-                  "title": "(v) Co-opted members (provisional) representing women, Scheduled Castes/ Tribes.",
+                  "title": "(v)",
                   "sequence_number": 5,
                   "depth": 2,
                   "level_label": "Subtopic",
                   "children": []
                 },
                 {
-                  "title": "(vi) Representatives of Cooperative Societies (only in certain States).",
-                  "sequence_number": 6,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "title": "Office Bearers",
-              "sequence_number": 2,
-              "depth": 1,
-              "level_label": "Topic",
-              "children": [
-                {
-                  "title": "Chairperson",
-                  "sequence_number": 1,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "Deputy Chairperson",
-                  "sequence_number": 2,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "Secretary",
-                  "sequence_number": 3,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "title": "FUNCTIONS",
-              "sequence_number": 3,
-              "depth": 1,
-              "level_label": "Topic",
-              "children": [
-                {
-                  "title": "(i) To supervise and coordinate the working of Gram Panchayats.",
-                  "sequence_number": 1,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "(ii) To conduct higher education (higher secondary level and above) for a group of villages or at block level.",
-                  "sequence_number": 2,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "(iii) To provide hospital and health services with various facilities at community block level.",
-                  "sequence_number": 3,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "(iv) To pay special attention to development of agriculture through undertaking minor irrigation schemes, distribution of quality seeds and fertilisers.",
-                  "sequence_number": 4,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "(v) To approve building plans, undertake other development works including roads and bridges within the circle Panchayats.",
-                  "sequence_number": 5,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "(vi) To provide drinking water and execute other community development programmes.",
+                  "title": "(vi)",
                   "sequence_number": 6,
                   "depth": 2,
                   "level_label": "Subtopic",
                   "children": []
                 },
                 {
-                  "title": "(vii) To act as a link between the Gram Panchayat and Zila Parishad.",
+                  "title": "(vii)",
                   "sequence_number": 7,
                   "depth": 2,
                   "level_label": "Subtopic",
                   "children": []
                 }
               ]
-            }
-          ]
-        },
-        {
-          "title": "VILA PARISHAD (AT DISTRICT LEVEL)",
-          "sequence_number": 10,
-          "depth": 0,
-          "level_label": "Section",
-          "children": [
-            {
-              "title": "COMPOSITION",
-              "sequence_number": 1,
-              "depth": 1,
-              "level_label": "Topic",
-              "children": []
             },
             {
-              "title": "Office Bearers",
+              "title": "2. Social and Economic Functions",
               "sequence_number": 2,
               "depth": 1,
               "level_label": "Topic",
               "children": [
                 {
-                  "title": "Chairman",
+                  "title": "(i)",
                   "sequence_number": 1,
                   "depth": 2,
                   "level_label": "Subtopic",
                   "children": []
                 },
                 {
-                  "title": "Deputy Chairperson",
+                  "title": "(ii)",
                   "sequence_number": 2,
                   "depth": 2,
                   "level_label": "Subtopic",
                   "children": []
                 },
                 {
-                  "title": "Secretary",
+                  "title": "(iii)",
                   "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(iv)",
+                  "sequence_number": 4,
                   "depth": 2,
                   "level_label": "Subtopic",
                   "children": []
@@ -2895,8 +2905,294 @@
               ]
             },
             {
-              "title": "FUNCTIONS",
+              "title": "3. Judicial Functions",
               "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "NYAYA PANCHAYATS",
+          "sequence_number": 13,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "(i)",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(ii)",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(iii)",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(iv)",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(v)",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(vi)",
+              "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(vii)",
+              "sequence_number": 7,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(viii)",
+              "sequence_number": 8,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "PANCHAYAT SAMITI (AT THE BLOCK LEVEL)",
+          "sequence_number": 14,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "Composition:",
+          "sequence_number": 15,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "(i)",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(ii)",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(iii)",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(iv)",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(v)",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(vi)",
+              "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Office Bearers",
+          "sequence_number": 16,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Chairperson",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Deputy Chairperson",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Secretary",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "FUNCTIONS",
+          "sequence_number": 17,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "(i)",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(ii)",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(iii)",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(iv)",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "VOILA PARISHAD (AT DISTRICT LEVEL)",
+          "sequence_number": 18,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "COMPOSITION",
+          "sequence_number": 19,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "Office Bearers",
+          "sequence_number": 20,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Chairman:",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Deputy Chairperson:",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Secretary:",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "FUNCTIONS",
+          "sequence_number": 21,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "(i)",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(ii)",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(iii)",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(iv)",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(v)",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(vi)",
+              "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(vii)",
+              "sequence_number": 7,
               "depth": 1,
               "level_label": "Topic",
               "children": []
@@ -2905,7 +3201,7 @@
         },
         {
           "title": "ACHIEVEMENTS OF THE PANCHAYATI RAJ SYSTEM",
-          "sequence_number": 11,
+          "sequence_number": 22,
           "depth": 0,
           "level_label": "Section",
           "children": []
@@ -2973,19 +3269,19 @@
               "depth": 1,
               "level_label": "Topic",
               "children": []
-            },
-            {
-              "title": "LOCAL CHIEFTAINS",
-              "sequence_number": 4,
-              "depth": 1,
-              "level_label": "Topic",
-              "children": []
             }
           ]
         },
         {
-          "title": "SOCIETY",
+          "title": "LOCAL CHIEFTAINS",
           "sequence_number": 4,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "SOCIETY",
+          "sequence_number": 5,
           "depth": 0,
           "level_label": "Section",
           "children": [
@@ -3002,33 +3298,33 @@
               "depth": 1,
               "level_label": "Topic",
               "children": []
+            },
+            {
+              "title": "ENTERTAINMENT",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "POSITION OF WOMEN",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "MARRIAGE",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
             }
           ]
         },
         {
-          "title": "ENTERTAINMENT",
-          "sequence_number": 5,
-          "depth": 0,
-          "level_label": "Section",
-          "children": []
-        },
-        {
-          "title": "POSITION OF WOMEN",
-          "sequence_number": 6,
-          "depth": 0,
-          "level_label": "Section",
-          "children": []
-        },
-        {
-          "title": "MARRIAGE",
-          "sequence_number": 7,
-          "depth": 0,
-          "level_label": "Section",
-          "children": []
-        },
-        {
           "title": "ECONOMY",
-          "sequence_number": 8,
+          "sequence_number": 6,
           "depth": 0,
           "level_label": "Section",
           "children": [
@@ -3192,34 +3488,48 @@
               "level_label": "Topic",
               "children": [
                 {
-                  "title": "General Council",
+                  "title": "(a) General Council",
                   "sequence_number": 1,
                   "depth": 2,
                   "level_label": "Subtopic",
                   "children": []
                 },
                 {
-                  "title": "Mayor",
+                  "title": "(b) Mayor",
                   "sequence_number": 2,
                   "depth": 2,
                   "level_label": "Subtopic",
                   "children": []
                 },
                 {
-                  "title": "The Standing Committees.",
+                  "title": "(c) The Standing Committees",
                   "sequence_number": 3,
                   "depth": 2,
                   "level_label": "Subtopic",
                   "children": []
                 },
                 {
-                  "title": "A Municipal Commissioner.",
+                  "title": "(d) A Municipal Commissioner.",
                   "sequence_number": 4,
                   "depth": 2,
                   "level_label": "Subtopic",
                   "children": []
                 }
               ]
+            },
+            {
+              "title": "The Municipal Corporation of Delhi",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Functions of the Mayor",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
             }
           ]
         },
@@ -3234,133 +3544,61 @@
               "sequence_number": 1,
               "depth": 1,
               "level_label": "Topic",
-              "children": [
-                {
-                  "title": "Provision of electricity, water, sewage disposal.",
-                  "sequence_number": 1,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "Provision of public health services",
-                  "sequence_number": 2,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "Provision of public conveniences and utilities",
-                  "sequence_number": 3,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "Provision of educational institutions",
-                  "sequence_number": 4,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "Maintenance of records of births and deaths",
-                  "sequence_number": 5,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "Undertaking of public safety and security",
-                  "sequence_number": 6,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "Preparation, publishing and issuing of annual report of the Corporation",
-                  "sequence_number": 7,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "title": "Discretionary or Optional Functions",
-              "sequence_number": 2,
-              "depth": 1,
-              "level_label": "Topic",
-              "children": [
-                {
-                  "title": "Public housing through housing boards.",
-                  "sequence_number": 1,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "Construction and maintenance of public parks, libraries, museums, theatre, akharas, picnic resorts etc.",
-                  "sequence_number": 2,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "Establishing and maintaining children's homes, orphanages, old-age homes, night shelters and rest houses.",
-                  "sequence_number": 3,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "Undertaking welfare schemes, organising fares, functions, melas.",
-                  "sequence_number": 4,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "Beautification of city.",
-                  "sequence_number": 5,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                }
-              ]
+              "children": []
             }
           ]
         },
         {
-          "title": "MUNICIPAL COMMITTEE",
+          "title": "2. Discretionary or Optional Functions:",
           "sequence_number": 5,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "MUNICIPAL COMMITTEE",
+          "sequence_number": 6,
           "depth": 0,
           "level_label": "Section",
           "children": [
             {
-              "title": "General Body of the Municipal Committee",
+              "title": "(a) General Body of the Municipal Committee:",
               "sequence_number": 1,
               "depth": 1,
               "level_label": "Topic",
               "children": []
             },
             {
-              "title": "Chairman/President",
+              "title": "Eligibility:",
               "sequence_number": 2,
               "depth": 1,
               "level_label": "Topic",
               "children": []
             },
             {
-              "title": "Chief Executive Officer",
+              "title": "Term:",
               "sequence_number": 3,
               "depth": 1,
               "level_label": "Topic",
               "children": []
             },
             {
-              "title": "Other Office Bearers",
+              "title": "(b) Chairman/President:",
               "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "(c) Chief Executive Officer:",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Other Office Bearers:",
+              "sequence_number": 6,
               "depth": 1,
               "level_label": "Topic",
               "children": []
@@ -3369,66 +3607,30 @@
         },
         {
           "title": "THE DISTRICT ADMINISTRATION",
-          "sequence_number": 6,
+          "sequence_number": 7,
           "depth": 0,
           "level_label": "Section",
           "children": [
             {
-              "title": "Functions",
+              "title": "Appointment:",
               "sequence_number": 1,
               "depth": 1,
               "level_label": "Topic",
-              "children": [
-                {
-                  "title": "Collection of Revenue.",
-                  "sequence_number": 1,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "Maintenance and Updating of land record.",
-                  "sequence_number": 2,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "Law and Order.",
-                  "sequence_number": 3,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "Supervision and execution of all plans of the Union and State governments.",
-                  "sequence_number": 4,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "Provision of civic amenities and execution of public works.",
-                  "sequence_number": 5,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "Implementation of policies and programmes in respect of Panchayati Raj institutions.",
-                  "sequence_number": 6,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "Supersession, dissolution, holding of election, etc., in respect of Panchayati Raj institutions.",
-                  "sequence_number": 7,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                }
-              ]
+              "children": []
+            },
+            {
+              "title": "Other Office Bearers:",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Functions:",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
             }
           ]
         }
@@ -3447,235 +3649,142 @@
           "level_label": "Section",
           "children": [
             {
-              "title": "Sources: Accounts of Fa-hien; Allahabad Pillar Inscription.",
+              "title": "Sources",
               "sequence_number": 1,
               "depth": 1,
               "level_label": "Topic",
-              "children": []
+              "children": [
+                {
+                  "title": "Accounts of Fa-hien",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "The Allahabad Pillar Inscription or Prayaga Prashasti",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
             },
             {
-              "title": "Political history and administration (Samudragupta and Chandragupta Vikramaditya)",
-              "sequence_number": 2,
-              "depth": 1,
-              "level_label": "Topic",
-              "children": []
-            },
-            {
-              "title": "Contribution to the fields of Education (Nalanda University), Science (Aryabhatta) and Culture (works of Kalidasa, Deogarh temple)",
-              "sequence_number": 3,
-              "depth": 1,
-              "level_label": "Topic",
-              "children": []
-            },
-            {
-              "title": "Vedic society and economy",
-              "sequence_number": 4,
-              "depth": 1,
-              "level_label": "Topic",
-              "children": []
-            }
-          ]
-        },
-        {
-          "title": "SOURCES",
-          "sequence_number": 2,
-          "depth": 0,
-          "level_label": "Section",
-          "children": [
-            {
-              "title": "1. Accounts of Fa-hien",
-              "sequence_number": 1,
-              "depth": 1,
-              "level_label": "Topic",
-              "children": []
-            },
-            {
-              "title": "2. The Allahabad Pillar Inscription or Prayaga Prashasti",
+              "title": "Reign of Gupta Period",
               "sequence_number": 2,
               "depth": 1,
               "level_label": "Topic",
               "children": [
                 {
-                  "title": "An excerpt from the Prayaga Prashasti",
+                  "title": "Chandragupta-I",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Samudragupta",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Chandragupta II Vikramaditya",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Gupta Administration",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Monarchy",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "The Council of Ministers",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Provincial and Local Administration",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Feudal Nature of Polity",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "The Golden Age of Indian Culture",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Education",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Nalanda University",
                   "sequence_number": 1,
                   "depth": 2,
                   "level_label": "Subtopic",
                   "children": []
                 }
               ]
-            }
-          ]
-        },
-        {
-          "title": "REIGN OF GUPTA PERIOD",
-          "sequence_number": 3,
-          "depth": 0,
-          "level_label": "Section",
-          "children": [
-            {
-              "title": "Chandragupta-I",
-              "sequence_number": 1,
-              "depth": 1,
-              "level_label": "Topic",
-              "children": []
             },
             {
-              "title": "Samudragupta",
-              "sequence_number": 2,
-              "depth": 1,
-              "level_label": "Topic",
-              "children": []
-            },
-            {
-              "title": "Chandragupta II Vikramaditya",
-              "sequence_number": 3,
-              "depth": 1,
-              "level_label": "Topic",
-              "children": []
-            },
-            {
-              "title": "GUPTA ADMINISTRATION",
-              "sequence_number": 4,
-              "depth": 1,
-              "level_label": "Topic",
-              "children": []
-            },
-            {
-              "title": "MONARCHY",
-              "sequence_number": 5,
-              "depth": 1,
-              "level_label": "Topic",
-              "children": []
-            },
-            {
-              "title": "THE COUNCIL OF MINISTERS",
+              "title": "Science",
               "sequence_number": 6,
               "depth": 1,
               "level_label": "Topic",
               "children": []
             },
             {
-              "title": "PROVINCIAL AND LOCAL ADMINISTRATION",
+              "title": "Culture",
               "sequence_number": 7,
               "depth": 1,
               "level_label": "Topic",
               "children": []
             },
             {
-              "title": "Provincial Administration",
+              "title": "Literature",
               "sequence_number": 8,
               "depth": 1,
               "level_label": "Topic",
-              "children": []
-            },
-            {
-              "title": "Village Administration",
-              "sequence_number": 9,
-              "depth": 1,
-              "level_label": "Topic",
-              "children": []
-            },
-            {
-              "title": "Town Administration",
-              "sequence_number": 10,
-              "depth": 1,
-              "level_label": "Topic",
-              "children": []
-            },
-            {
-              "title": "FEUDAL NATURE OF POLITY",
-              "sequence_number": 11,
-              "depth": 1,
-              "level_label": "Topic",
-              "children": []
-            }
-          ]
-        },
-        {
-          "title": "THE GOLDEN AGE OF INDIAN CULTURE",
-          "sequence_number": 4,
-          "depth": 0,
-          "level_label": "Section",
-          "children": []
-        },
-        {
-          "title": "EDUCATION",
-          "sequence_number": 5,
-          "depth": 0,
-          "level_label": "Section",
-          "children": [
-            {
-              "title": "Nalanda University",
-              "sequence_number": 1,
-              "depth": 1,
-              "level_label": "Topic",
-              "children": []
-            }
-          ]
-        },
-        {
-          "title": "SCIENCE",
-          "sequence_number": 6,
-          "depth": 0,
-          "level_label": "Section",
-          "children": [
-            {
-              "title": "Aryabhatta",
-              "sequence_number": 1,
-              "depth": 1,
-              "level_label": "Topic",
-              "children": []
-            }
-          ]
-        },
-        {
-          "title": "CULTURE",
-          "sequence_number": 7,
-          "depth": 0,
-          "level_label": "Section",
-          "children": []
-        },
-        {
-          "title": "LITERATURE",
-          "sequence_number": 8,
-          "depth": 0,
-          "level_label": "Section",
-          "children": [
-            {
-              "title": "Kalidasa",
-              "sequence_number": 1,
-              "depth": 1,
-              "level_label": "Topic",
-              "children": []
-            }
-          ]
-        },
-        {
-          "title": "EXERCISES",
-          "sequence_number": 9,
-          "depth": 0,
-          "level_label": "Section",
-          "children": [
-            {
-              "title": "I. Multiple-Choice Questions",
-              "sequence_number": 1,
-              "depth": 1,
-              "level_label": "Topic",
-              "children": []
-            },
-            {
-              "title": "III. Structured Questions",
-              "sequence_number": 2,
-              "depth": 1,
-              "level_label": "Topic",
-              "children": []
-            },
-            {
-              "title": "IV. Thinking Skills",
-              "sequence_number": 3,
-              "depth": 1,
-              "level_label": "Topic",
-              "children": []
+              "children": [
+                {
+                  "title": "Kalidasa",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
             }
           ]
         }
@@ -3688,20 +3797,77 @@
       "discipline": "history",
       "nodes": [
         {
-          "title": "SOURCES",
+          "title": "SYLLABUS",
           "sequence_number": 1,
           "depth": 0,
           "level_label": "Section",
           "children": [
             {
-              "title": "Inscriptions",
+              "title": "Medieval India (A) The Cholas",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Sources: Inscriptions, Brihadeshwara Temple.",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Political history and administration (Rajaraja I, Rajendra I).",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "SOURCES",
+          "sequence_number": 2,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "1. Inscriptions:",
               "sequence_number": 1,
               "depth": 1,
               "level_label": "Topic",
               "children": [
                 {
-                  "title": "Copper-plate grants",
+                  "title": "(1)",
                   "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(ii)",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(iii)",
+                  "sequence_number": 3,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(iv)",
+                  "sequence_number": 4,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "(v)",
+                  "sequence_number": 5,
                   "depth": 2,
                   "level_label": "Subtopic",
                   "children": []
@@ -3709,27 +3875,27 @@
               ]
             },
             {
-              "title": "The Brihadeshwara temple",
+              "title": "2. The Brihadeshwara temple:",
               "sequence_number": 2,
               "depth": 1,
               "level_label": "Topic",
               "children": [
                 {
-                  "title": "The gateway of the temple was called 'gopuram'",
+                  "title": "(i)",
                   "sequence_number": 1,
                   "depth": 2,
                   "level_label": "Subtopic",
                   "children": []
                 },
                 {
-                  "title": "The main shrine was known as the 'garbhagriha'",
+                  "title": "(ii)",
                   "sequence_number": 2,
                   "depth": 2,
                   "level_label": "Subtopic",
                   "children": []
                 },
                 {
-                  "title": "The 'mandapa' or the audience hall",
+                  "title": "(iii)",
                   "sequence_number": 3,
                   "depth": 2,
                   "level_label": "Subtopic",
@@ -3741,19 +3907,19 @@
         },
         {
           "title": "POLITICAL HISTORY",
-          "sequence_number": 2,
+          "sequence_number": 3,
           "depth": 0,
           "level_label": "Section",
           "children": [
             {
-              "title": "Rajaraja I",
+              "title": "Rajaraja I:",
               "sequence_number": 1,
               "depth": 1,
               "level_label": "Topic",
               "children": []
             },
             {
-              "title": "Rajendra Chola",
+              "title": "Rajendra Chola:",
               "sequence_number": 2,
               "depth": 1,
               "level_label": "Topic",
@@ -3763,71 +3929,85 @@
         },
         {
           "title": "THE CHOLA ADMINISTRATION",
-          "sequence_number": 3,
+          "sequence_number": 4,
           "depth": 0,
           "level_label": "Section",
           "children": [
             {
-              "title": "Central Government",
+              "title": "Central Government:",
               "sequence_number": 1,
               "depth": 1,
               "level_label": "Topic",
               "children": []
             },
             {
-              "title": "Provincial Government",
+              "title": "Provincial Government:",
               "sequence_number": 2,
               "depth": 1,
               "level_label": "Topic",
               "children": []
             },
             {
-              "title": "Local Self-Government",
+              "title": "Local Self-Government:",
               "sequence_number": 3,
               "depth": 1,
               "level_label": "Topic",
-              "children": [
-                {
-                  "title": "the ur",
-                  "sequence_number": 1,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "the sabha",
-                  "sequence_number": 2,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "the nagaram",
-                  "sequence_number": 3,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                }
-              ]
+              "children": []
             }
           ]
         },
         {
-          "title": "The Revenue",
-          "sequence_number": 4,
+          "title": "The Revenue:",
+          "sequence_number": 5,
           "depth": 0,
           "level_label": "Section",
           "children": []
         },
         {
-          "title": "The Chola Art",
-          "sequence_number": 5,
+          "title": "The Chola Art:",
+          "sequence_number": 6,
           "depth": 0,
           "level_label": "Section",
           "children": []
+        },
+        {
+          "title": "EXERCISES",
+          "sequence_number": 7,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "I. Multiple-Choice Questions",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "II. Short Answer Questions",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "III. Structured Questions",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "IV. Thinking Skills",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
         }
       ],
-      "structure_notes": "The chapter is organized into sections with main headings and sub-headings, covering sources, political history, administration, revenue, and art."
+      "structure_notes": ""
     },
     {
       "title": "Medieval India (B) The Delhi Sultanate",
@@ -3835,27 +4015,152 @@
       "discipline": "history",
       "nodes": [
         {
-          "title": "SOURCES",
+          "title": "Medieval India (B) The Delhi Sultanate",
           "sequence_number": 1,
           "depth": 0,
           "level_label": "Section",
           "children": [
             {
-              "title": "Inscriptions",
+              "title": "Sources",
               "sequence_number": 1,
               "depth": 1,
               "level_label": "Topic",
-              "children": []
+              "children": [
+                {
+                  "title": "Inscriptions",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "Monuments",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": [
+                    {
+                      "title": "Qutub Minar",
+                      "sequence_number": 1,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
             },
             {
-              "title": "Monuments",
+              "title": "The Slave Dynasty",
               "sequence_number": 2,
               "depth": 1,
               "level_label": "Topic",
               "children": [
                 {
-                  "title": "Qutub Minar",
+                  "title": "Qutubuddin Aibak",
                   "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "The Khilji Dynasty",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Alauddin Khilji",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": [
+                    {
+                      "title": "Market Regulations",
+                      "sequence_number": 1,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "Deccan Expedition",
+                      "sequence_number": 2,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "Measures against Nobility",
+                      "sequence_number": 3,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "Military Reforms",
+                      "sequence_number": 4,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "Revenue Reforms",
+                      "sequence_number": 5,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Tughlaq Dynasty",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": [
+                {
+                  "title": "Muhammad Bin Tughlaq",
+                  "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": [
+                    {
+                      "title": "Transfer of Capital",
+                      "sequence_number": 1,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "Token Currency",
+                      "sequence_number": 2,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "Taxation in Doab",
+                      "sequence_number": 3,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    },
+                    {
+                      "title": "Plan of Conquests",
+                      "sequence_number": 4,
+                      "depth": 3,
+                      "level_label": "Point",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "Sultanate Administration",
+                  "sequence_number": 2,
                   "depth": 2,
                   "level_label": "Subtopic",
                   "children": []
@@ -3863,114 +4168,6 @@
               ]
             }
           ]
-        },
-        {
-          "title": "THE SLAVE DYNASTY",
-          "sequence_number": 2,
-          "depth": 0,
-          "level_label": "Section",
-          "children": [
-            {
-              "title": "QUTUBUDDIN AIBAK",
-              "sequence_number": 1,
-              "depth": 1,
-              "level_label": "Topic",
-              "children": []
-            }
-          ]
-        },
-        {
-          "title": "THE KHILJI DYNASTY",
-          "sequence_number": 3,
-          "depth": 0,
-          "level_label": "Section",
-          "children": [
-            {
-              "title": "ALAUDDIN KHILJI",
-              "sequence_number": 1,
-              "depth": 1,
-              "level_label": "Topic",
-              "children": []
-            },
-            {
-              "title": "Market Regulations",
-              "sequence_number": 2,
-              "depth": 1,
-              "level_label": "Topic",
-              "children": []
-            }
-          ]
-        },
-        {
-          "title": "Deccan Expedition",
-          "sequence_number": 4,
-          "depth": 0,
-          "level_label": "Section",
-          "children": []
-        },
-        {
-          "title": "Measure Against Revolts",
-          "sequence_number": 5,
-          "depth": 0,
-          "level_label": "Section",
-          "children": []
-        },
-        {
-          "title": "Military Reforms",
-          "sequence_number": 6,
-          "depth": 0,
-          "level_label": "Section",
-          "children": []
-        },
-        {
-          "title": "Revenue Reforms",
-          "sequence_number": 7,
-          "depth": 0,
-          "level_label": "Section",
-          "children": []
-        },
-        {
-          "title": "TUGHLUQ DYNASTY",
-          "sequence_number": 8,
-          "depth": 0,
-          "level_label": "Section",
-          "children": [
-            {
-              "title": "MUHAMMAD BIN TUGHLUQ",
-              "sequence_number": 1,
-              "depth": 1,
-              "level_label": "Topic",
-              "children": []
-            },
-            {
-              "title": "Transfer of Capital",
-              "sequence_number": 2,
-              "depth": 1,
-              "level_label": "Topic",
-              "children": []
-            }
-          ]
-        },
-        {
-          "title": "Taxation in Doab",
-          "sequence_number": 9,
-          "depth": 0,
-          "level_label": "Section",
-          "children": []
-        },
-        {
-          "title": "Plan of Conquests",
-          "sequence_number": 10,
-          "depth": 0,
-          "level_label": "Section",
-          "children": []
-        },
-        {
-          "title": "SULTANATE ADMINISTRATION",
-          "sequence_number": 11,
-          "depth": 0,
-          "level_label": "Section",
-          "children": []
         }
       ],
       "structure_notes": ""
@@ -3981,8 +4178,37 @@
       "discipline": "history",
       "nodes": [
         {
-          "title": "SOURCES",
+          "title": "SYLLABUS",
           "sequence_number": 1,
+          "depth": 0,
+          "level_label": "Section",
+          "children": [
+            {
+              "title": "Medieval India (C) The Mughal Empire",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Sources: Ain-i-Akbari, Taj Mahal, Jama Masjid and Red Fort.",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Political history and administration (Babur, Akbar and Aurangzeb).",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "SOURCES",
+          "sequence_number": 2,
           "depth": 0,
           "level_label": "Section",
           "children": [
@@ -4018,7 +4244,7 @@
         },
         {
           "title": "MUGHAL DYNASTY",
-          "sequence_number": 2,
+          "sequence_number": 3,
           "depth": 0,
           "level_label": "Section",
           "children": [
@@ -4049,26 +4275,26 @@
               "depth": 1,
               "level_label": "Topic",
               "children": []
+            },
+            {
+              "title": "SOCIAL AND EDUCATIONAL REFORMS",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "AURANGZEB",
+              "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
             }
           ]
         },
         {
-          "title": "SOCIAL AND EDUCATIONAL REFORMS",
-          "sequence_number": 3,
-          "depth": 0,
-          "level_label": "Section",
-          "children": []
-        },
-        {
-          "title": "AURANGZEB",
-          "sequence_number": 4,
-          "depth": 0,
-          "level_label": "Section",
-          "children": []
-        },
-        {
           "title": "ADMINISTRATIVE SYSTEM OF THE MUGHALS",
-          "sequence_number": 5,
+          "sequence_number": 4,
           "depth": 0,
           "level_label": "Section",
           "children": [
@@ -4115,6 +4341,20 @@
               "children": []
             }
           ]
+        },
+        {
+          "title": "TIMELINE",
+          "sequence_number": 5,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "EXERCISES",
+          "sequence_number": 6,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
         }
       ],
       "structure_notes": ""
@@ -4137,8 +4377,22 @@
               "level_label": "Topic",
               "children": [
                 {
-                  "title": "Kabir's Teachings According to Bijak",
+                  "title": "The Sakhi",
                   "sequence_number": 1,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "The Ramaini",
+                  "sequence_number": 2,
+                  "depth": 2,
+                  "level_label": "Subtopic",
+                  "children": []
+                },
+                {
+                  "title": "The Shabda",
+                  "sequence_number": 3,
                   "depth": 2,
                   "level_label": "Subtopic",
                   "children": []
@@ -4150,33 +4404,32 @@
               "sequence_number": 2,
               "depth": 1,
               "level_label": "Topic",
-              "children": [
-                {
-                  "title": "Guru Nanak's Teachings",
-                  "sequence_number": 1,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                }
-              ]
+              "children": []
             },
             {
-              "title": "Ajmer Sharief",
+              "title": "Guru Nanak's Teachings",
               "sequence_number": 3,
               "depth": 1,
               "level_label": "Topic",
               "children": []
             },
             {
-              "title": "St. Francis Church (Kochi)",
+              "title": "Ajmer Sharief",
               "sequence_number": 4,
               "depth": 1,
               "level_label": "Topic",
               "children": []
             },
             {
-              "title": "St. Francis Assisi",
+              "title": "St. Francis Church (Kochi)",
               "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "St. Francis Assisi",
+              "sequence_number": 6,
               "depth": 1,
               "level_label": "Topic",
               "children": []
@@ -4245,26 +4498,25 @@
           "sequence_number": 5,
           "depth": 0,
           "level_label": "Section",
-          "children": [
-            {
-              "title": "Doctrines of Bhakti Cult",
-              "sequence_number": 1,
-              "depth": 1,
-              "level_label": "Topic",
-              "children": []
-            },
-            {
-              "title": "IMPACT OF BHAKTI MOVEMENT",
-              "sequence_number": 2,
-              "depth": 1,
-              "level_label": "Topic",
-              "children": []
-            }
-          ]
+          "children": []
+        },
+        {
+          "title": "Doctrines of Bhakti Cult",
+          "sequence_number": 6,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "IMPACT OF BHAKTI MOVEMENT",
+          "sequence_number": 7,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
         },
         {
           "title": "BHAKTI SAINTS",
-          "sequence_number": 6,
+          "sequence_number": 8,
           "depth": 0,
           "level_label": "Section",
           "children": [
@@ -4286,49 +4538,49 @@
         },
         {
           "title": "SUFISM",
-          "sequence_number": 7,
-          "depth": 0,
-          "level_label": "Section",
-          "children": []
-        },
-        {
-          "title": "Doctrines of Sufism",
-          "sequence_number": 8,
-          "depth": 0,
-          "level_label": "Section",
-          "children": []
-        },
-        {
-          "title": "Impact of Sufism",
           "sequence_number": 9,
           "depth": 0,
           "level_label": "Section",
           "children": []
         },
         {
-          "title": "Hazrat Nizamuddin",
+          "title": "Doctrines of Sufism",
           "sequence_number": 10,
           "depth": 0,
           "level_label": "Section",
           "children": []
         },
         {
-          "title": "INFLUENCE OF CHRISTIANITY",
+          "title": "Impact of Sufism",
           "sequence_number": 11,
           "depth": 0,
           "level_label": "Section",
           "children": []
         },
         {
-          "title": "St. Francis Xavier",
+          "title": "Hazrat Nizamuddin",
           "sequence_number": 12,
           "depth": 0,
           "level_label": "Section",
           "children": []
         },
         {
-          "title": "IMPACT OF CHRISTIAN MISSIONARIES",
+          "title": "INFLUENCE OF CHRISTIANITY",
           "sequence_number": 13,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "St. Francis Xavier",
+          "sequence_number": 14,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "IMPACT OF CHRISTIAN MISSIONARIES",
+          "sequence_number": 15,
           "depth": 0,
           "level_label": "Section",
           "children": []
@@ -4460,29 +4712,7 @@
               "sequence_number": 2,
               "depth": 1,
               "level_label": "Topic",
-              "children": [
-                {
-                  "title": "Leonardo Da Vinci",
-                  "sequence_number": 1,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "Michelangelo",
-                  "sequence_number": 2,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                },
-                {
-                  "title": "Raphael",
-                  "sequence_number": 3,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                }
-              ]
+              "children": []
             },
             {
               "title": "SCULPTURE",
@@ -4509,15 +4739,7 @@
                   "sequence_number": 2,
                   "depth": 2,
                   "level_label": "Subtopic",
-                  "children": [
-                    {
-                      "title": "William Shakespeare",
-                      "sequence_number": 1,
-                      "depth": 3,
-                      "level_label": "Point",
-                      "children": []
-                    }
-                  ]
+                  "children": []
                 }
               ]
             },
@@ -4526,15 +4748,7 @@
               "sequence_number": 5,
               "depth": 1,
               "level_label": "Topic",
-              "children": [
-                {
-                  "title": "Nicolaus Copernicus",
-                  "sequence_number": 1,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                }
-              ]
+              "children": []
             }
           ]
         },
@@ -4543,14 +4757,64 @@
           "sequence_number": 5,
           "depth": 0,
           "level_label": "Section",
-          "children": []
-        },
-        {
-          "title": "Consequences of Geographical Explorations",
-          "sequence_number": 6,
-          "depth": 0,
-          "level_label": "Section",
-          "children": []
+          "children": [
+            {
+              "title": "Led to the Reformation Movement in Europe",
+              "sequence_number": 1,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Development of Humanism",
+              "sequence_number": 2,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Development of Scientific Outlook",
+              "sequence_number": 3,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Rise of Monarchical Form of Government",
+              "sequence_number": 4,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Development of Arts",
+              "sequence_number": 5,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Rise of the Middle Class",
+              "sequence_number": 6,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Rise and Growth of Nation States",
+              "sequence_number": 7,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            },
+            {
+              "title": "Consequences of Geographical Explorations",
+              "sequence_number": 8,
+              "depth": 1,
+              "level_label": "Topic",
+              "children": []
+            }
+          ]
         }
       ],
       "structure_notes": ""
@@ -4561,31 +4825,8 @@
       "discipline": "history",
       "nodes": [
         {
-          "title": "SYLLABUS",
-          "sequence_number": 1,
-          "depth": 0,
-          "level_label": "Section",
-          "children": [
-            {
-              "title": "The Modern Age in Europe",
-              "sequence_number": 1,
-              "depth": 1,
-              "level_label": "Topic",
-              "children": [
-                {
-                  "title": "Reformation",
-                  "sequence_number": 1,
-                  "depth": 2,
-                  "level_label": "Subtopic",
-                  "children": []
-                }
-              ]
-            }
-          ]
-        },
-        {
           "title": "CAUSES OF THE REFORMATION",
-          "sequence_number": 2,
+          "sequence_number": 1,
           "depth": 0,
           "level_label": "Section",
           "children": [
@@ -4643,14 +4884,14 @@
         },
         {
           "title": "MARTIN LUTHER'S CONTRIBUTION",
-          "sequence_number": 3,
+          "sequence_number": 2,
           "depth": 0,
           "level_label": "Section",
           "children": []
         },
         {
           "title": "COUNTER REFORMATION",
-          "sequence_number": 4,
+          "sequence_number": 3,
           "depth": 0,
           "level_label": "Section",
           "children": [
@@ -4667,13 +4908,6 @@
               "depth": 1,
               "level_label": "Topic",
               "children": []
-            },
-            {
-              "title": "Saint Francis Xavier",
-              "sequence_number": 3,
-              "depth": 1,
-              "level_label": "Topic",
-              "children": []
             }
           ]
         }
@@ -4686,7 +4920,7 @@
       "discipline": "history",
       "nodes": [
         {
-          "title": "CAUSES OF THE INDUSTRIAL REVOLUTION.",
+          "title": "CAUSES OF THE INDUSTRIAL REVOLUTION",
           "sequence_number": 1,
           "depth": 0,
           "level_label": "Section",
@@ -4852,8 +5086,15 @@
           ]
         },
         {
-          "title": "CAUSES FOR THE RISE OF SOCIALISM",
+          "title": "Early Socialists",
           "sequence_number": 6,
+          "depth": 0,
+          "level_label": "Section",
+          "children": []
+        },
+        {
+          "title": "CAUSES FOR THE RISE OF SOCIALISM",
+          "sequence_number": 7,
           "depth": 0,
           "level_label": "Section",
           "children": [
@@ -4882,7 +5123,7 @@
         },
         {
           "title": "MARXIST SOCIALISM",
-          "sequence_number": 7,
+          "sequence_number": 8,
           "depth": 0,
           "level_label": "Section",
           "children": []

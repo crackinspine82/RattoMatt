@@ -6,7 +6,7 @@
  *
  * Supports syllabus with chapters[].nodes (nested) or legacy chapters[].topics.
  * Requires: GEMINI_API_KEY. Syllabus JSONs in ../syllabus-extract/out/.
- * Run: node extract-study-notes.mjs [--book=slug] [--chapter=N] [--discipline=history|civics] [--dry-run]
+ * Run: node extract-study-notes.mjs [--book=slug] [--grade=N] [--chapter=N] [--discipline=history|civics] [--concurrency=N] [--dry-run]
  * Optional env: GEMINI_MODEL (default gemini-2.0-flash; use gemini-2.0-pro or gemini-2.5-pro for higher quality).
  *
  * Output per chapter:
@@ -73,12 +73,29 @@ function getDisciplineFilter() {
   return d === 'history' || d === 'civics' ? d : null;
 }
 
+function getGradeFilter() {
+  const arg = process.argv.find((a) => a.startsWith('--grade='));
+  if (!arg) return null;
+  const n = parseInt(arg.slice('--grade='.length).trim(), 10);
+  return Number.isFinite(n) && n >= 1 && n <= 12 ? n : null;
+}
+
+function getConcurrency() {
+  const arg = process.argv.find((a) => a.startsWith('--concurrency='));
+  if (!arg) return 4;
+  const n = parseInt(arg.slice('--concurrency='.length).trim(), 10);
+  if (!Number.isFinite(n) || n < 1) return 4;
+  return Math.min(10, Math.max(1, n));
+}
+
 function getBookFolders() {
   const bookFilter = getBookFilter();
+  const gradeFilter = getGradeFilter();
   const publications = loadPublications();
   const folders = [];
   for (const pub of publications) {
     if (bookFilter && pub.book_slug !== bookFilter) continue;
+    if (gradeFilter != null && pub.grade !== gradeFilter) continue;
     const dir = path.join(BOOKS, String(pub.grade), pub.subject, pub.book_slug);
     if (fs.existsSync(dir)) folders.push({ pub, dir });
   }
@@ -391,40 +408,63 @@ async function runWithRetry(apiKey, pdfPath, prompt) {
   }
 }
 
-/** Recursively attach content_blocks to each node (mutates nodes). Only calls API for leaf nodes; parents get empty content_blocks. */
-async function extractNotesForNodes(pub, pdfPath, chapterTitle, nodes, apiKey, needsReview, progress = null) {
+/** Set content_blocks = [] for all non-leaf nodes (mutates tree). */
+function setNonLeafContentBlocksEmpty(nodes) {
+  if (!Array.isArray(nodes)) return;
   for (const node of nodes) {
-    const isLeaf = !node.children || node.children.length === 0;
-    if (isLeaf) {
-      if (progress) {
-        progress.current += 1;
-        console.log(`    [ ${progress.current}/${progress.total} ] Extracting: ${node.title}`);
-      }
-      const prompt = buildNodeNotesPrompt(
-        pub,
-        chapterTitle,
-        node.title,
-        node.level_label
-      );
-      try {
-        const result = await runWithRetry(apiKey, pdfPath, prompt);
-        const blocks = result.content_blocks || [];
-        node.content_blocks = blocks.map((b) => ({ content_md: b.content_md ?? '' }));
-        if (blocks.every((b) => !(b.content_md || '').trim())) needsReview.push(node.title);
-      } catch (err) {
-        console.error(`  Notes FAIL for node "${node.title}":`, err.message);
-        needsReview.push(node.title);
-        node.content_blocks = [];
-      }
-      await delay(DELAY_MS);
-    } else {
+    if (node.children && node.children.length > 0) {
       node.content_blocks = [];
-      await extractNotesForNodes(pub, pdfPath, chapterTitle, node.children, apiKey, needsReview, progress);
+      setNonLeafContentBlocksEmpty(node.children);
     }
   }
 }
 
-async function processChapter(pub, pdfPath, pdfEntry, syllabus, apiKey) {
+/** Collect leaf nodes in DFS order (returns array of node refs). */
+function collectLeafNodesInOrder(nodes, out = []) {
+  if (!Array.isArray(nodes)) return out;
+  for (const node of nodes) {
+    if (!node.children || node.children.length === 0) out.push(node);
+    else collectLeafNodesInOrder(node.children, out);
+  }
+  return out;
+}
+
+/** Extract notes for leaf nodes in parallel batches (concurrency at a time). Mutates nodes, pushes to needsReview. */
+async function extractNotesForNodesParallel(pub, pdfPath, chapterTitle, nodes, apiKey, needsReview, concurrency) {
+  setNonLeafContentBlocksEmpty(nodes);
+  const leaves = collectLeafNodesInOrder(nodes);
+  const total = leaves.length;
+  for (let i = 0; i < leaves.length; i += concurrency) {
+    const batch = leaves.slice(i, i + concurrency);
+    const base = i + 1;
+    console.log(`    [ ${base}-${Math.min(i + batch.length, total)}/${total} ] Extracting ${batch.length} leaf node(s) in parallel...`);
+    const results = await Promise.all(
+      batch.map(async (node) => {
+        const prompt = buildNodeNotesPrompt(pub, chapterTitle, node.title, node.level_label);
+        try {
+          const result = await runWithRetry(apiKey, pdfPath, prompt);
+          return { node, result, err: null };
+        } catch (err) {
+          return { node, result: null, err };
+        }
+      })
+    );
+    for (const { node, result, err } of results) {
+      if (err) {
+        console.error(`  Notes FAIL for node "${node.title}":`, err.message);
+        needsReview.push(node.title);
+        node.content_blocks = [];
+      } else {
+        const blocks = result.content_blocks || [];
+        node.content_blocks = blocks.map((b) => ({ content_md: b.content_md ?? '' }));
+        if (blocks.every((b) => !(b.content_md || '').trim())) needsReview.push(node.title);
+      }
+    }
+    if (i + concurrency < leaves.length) await delay(1000);
+  }
+}
+
+async function processChapter(pub, pdfPath, pdfEntry, syllabus, apiKey, concurrency = 4) {
   const found = findSyllabusChapter(syllabus, pdfEntry);
   if (!found) {
     console.warn(`  No syllabus chapter match for ${pdfEntry.name}; skip.`);
@@ -462,11 +502,11 @@ async function processChapter(pub, pdfPath, pdfEntry, syllabus, apiKey) {
   await delay(DELAY_MS);
 
   const leafCount = countLeaves(nodes);
-  console.log(`  Outline reconciled (${(reconciliation.outline || []).length} PDF sections). Extracting notes for ${leafCount} leaf nodes (${flatList.length} total nodes)...`);
+  console.log(`  Outline reconciled (${(reconciliation.outline || []).length} PDF sections). Extracting notes for ${leafCount} leaf nodes (${flatList.length} total nodes, concurrency ${concurrency})...`);
 
-  // 2) Per-leaf notes extraction (DFS); parents get empty content_blocks. Do NOT overwrite syllabus.
+  // 2) Per-leaf notes extraction in parallel batches. Do NOT overwrite syllabus.
   const needsReview = [];
-  await extractNotesForNodes(pub, pdfPath, chapterTitle, nodes, apiKey, needsReview, { current: 0, total: leafCount });
+  await extractNotesForNodesParallel(pub, pdfPath, chapterTitle, nodes, apiKey, needsReview, concurrency);
 
   // 3) Build reference manifest: syllabus leaves (with has_notes) and stray leaves
   const syllabus_leaves = collectSyllabusLeaves(nodes);
@@ -511,18 +551,22 @@ function writeManifestJson(pub, pdfEntry, manifest) {
 async function main() {
   const dryRun = process.argv.includes('--dry-run');
   const bookFilter = getBookFilter();
+  const gradeFilter = getGradeFilter();
   const chapterFilter = getChapterFilter();
   const disciplineFilter = getDisciplineFilter();
   const model = getGeminiModel();
   if (dryRun) console.log('Dry run: no API calls.\n');
   if (bookFilter) console.log(`Book filter: ${bookFilter}\n`);
+  if (gradeFilter != null) console.log(`Grade filter: ${gradeFilter}\n`);
+  const concurrency = getConcurrency();
   if (chapterFilter != null) console.log(`Chapter filter: ${chapterFilter}\n`);
   if (disciplineFilter) console.log(`Discipline filter: ${disciplineFilter}\n`);
+  console.log(`Concurrency: ${concurrency} leaf extraction(s) at a time\n`);
   if (!dryRun) console.log(`AI model: ${model}\n`);
 
   const folders = getBookFolders();
   if (folders.length === 0) {
-    console.log('No book folder(s) found. Check --book= or Books/ICSE/{grade}/{subject}/{book_slug}/.');
+    console.log('No book folder(s) found. Check --book=, --grade=, or Books/ICSE/{grade}/{subject}/{book_slug}/.');
     return;
   }
 
@@ -553,7 +597,7 @@ async function main() {
         continue;
       }
       console.log(`\n--- Chapter ${pdfEntry.sequenceNumber}${pdfEntry.discipline ? ` (${pdfEntry.discipline})` : ''} ---`);
-      const data = await processChapter(pub, pdfPath, pdfEntry, syllabus, apiKey);
+      const data = await processChapter(pub, pdfPath, pdfEntry, syllabus, apiKey, concurrency);
       if (data) {
         writeNotesJson(pub, pdfEntry, data);
         if (data.manifest) writeManifestJson(pub, pdfEntry, data.manifest);

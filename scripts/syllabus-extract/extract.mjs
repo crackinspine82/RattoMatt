@@ -3,6 +3,17 @@
  * Syllabus extraction: walk Books/ICSE/{grade}/{subject}/{book_slug}/,
  * call Gemini per chapter PDF, merge to one syllabus JSON per book.
  * Requires: GEMINI_API_KEY in env (or in .env in this folder). See docs/syllabus_extraction_prompt.md.
+ *
+ * Usage:
+ *   node extract.mjs [--book=slug] [--dry-run]
+ *   node extract.mjs --book=slug --chapter=7 [--discipline=history] [--merge]
+ *
+ * Options:
+ *   --book=slug     Limit to one book (or set BOOK_SLUG in env).
+ *   --chapter=N     Only process chapter N (filename must match e.g. "7 - Title.pdf" or "History_7 - Title.pdf").
+ *   --discipline=history|civics  Only process that discipline (for HistoryCivics; requires chapter PDFs named e.g. History_7 - Title.pdf).
+ *   --merge         Merge extracted chapter(s) into existing syllabus JSON (requires --book). Creates no new file; updates out/syllabus_ICSE_*_*.json.
+ *   --dry-run       List chapter PDFs only, no Gemini calls.
  */
 
 import 'dotenv/config';
@@ -101,6 +112,31 @@ function getBookFilter() {
   const arg = process.argv.find((a) => a.startsWith('--book='));
   if (arg) return arg.slice('--book='.length).trim();
   return null;
+}
+
+/**
+ * Get --chapter=N from argv. Returns number or null if not set.
+ */
+function getChapterFilter() {
+  const arg = process.argv.find((a) => a.startsWith('--chapter='));
+  if (!arg) return null;
+  const n = parseInt(arg.slice('--chapter='.length).trim(), 10);
+  return Number.isFinite(n) ? n : null;
+}
+
+/**
+ * Get --discipline=history|civics from argv. Returns 'history'|'civics' or null if not set.
+ */
+function getDisciplineFilter() {
+  const arg = process.argv.find((a) => a.startsWith('--discipline='));
+  if (!arg) return null;
+  const d = arg.slice('--discipline='.length).trim().toLowerCase();
+  return d === 'history' || d === 'civics' ? d : null;
+}
+
+/** Whether --merge was passed: merge extracted chapter(s) into existing syllabus JSON. */
+function getMergeFlag() {
+  return process.argv.includes('--merge');
 }
 
 function getBookFolders() {
@@ -228,25 +264,53 @@ async function callGemini(apiKey, pdfPath, prompt) {
 }
 
 async function processBook({ pub, dir }, options = {}) {
-  const { dryRun = false } = options;
-  const chapters = listChapterPdfs(dir);
+  const { dryRun = false, chapterFilter = null, disciplineFilter = null, merge = false } = options;
+  let chapters = listChapterPdfs(dir);
   if (chapters.length === 0) {
     console.log(`  No chapter PDFs in ${dir}`);
     return null;
   }
+  if (chapterFilter != null) {
+    chapters = chapters.filter((e) => e.sequenceNumber === chapterFilter);
+  }
+  if (disciplineFilter != null) {
+    chapters = chapters.filter((e) => (e.discipline || null) === disciplineFilter);
+  }
+  if (chapters.length === 0) {
+    console.log(`  No chapter PDFs match --chapter=${chapterFilter ?? '?'} --discipline=${disciplineFilter ?? 'any'}`);
+    return null;
+  }
   console.log(`  ${chapters.length} chapter(s): ${chapters.map((c) => c.name).join(', ')}`);
-  const syllabus = {
-    board: 'ICSE',
-    grade: pub.grade,
-    subject: pub.subject,
-    book_slug: pub.book_slug,
-    book_meta: {
-      book_name: pub.book_name,
-      publication: pub.publication,
-      author: pub.author,
-    },
-    chapters: [],
-  };
+
+  let syllabus;
+  if (merge) {
+    const existingPath = path.join(
+      OUT_DIR,
+      `syllabus_ICSE_${pub.grade}_${pub.subject}_${pub.book_slug}.json`
+    );
+    if (!fs.existsSync(existingPath)) {
+      console.error(`  --merge: existing file not found: ${existingPath}`);
+      console.error('  Run full extraction first (without --chapter/--merge) to create the file.');
+      return null;
+    }
+    const raw = fs.readFileSync(existingPath, 'utf8');
+    syllabus = JSON.parse(raw);
+    console.log(`  Merging into existing syllabus (${syllabus.chapters.length} chapters).`);
+  } else {
+    syllabus = {
+      board: 'ICSE',
+      grade: pub.grade,
+      subject: pub.subject,
+      book_slug: pub.book_slug,
+      book_meta: {
+        book_name: pub.book_name,
+        publication: pub.publication,
+        author: pub.author,
+      },
+      chapters: [],
+    };
+  }
+
   const apiKey = process.env.GEMINI_API_KEY;
   if (!apiKey && !dryRun) {
     console.warn('  GEMINI_API_KEY not set; skipping Gemini calls. Use --dry-run to only list files.');
@@ -280,34 +344,73 @@ async function processBook({ pub, dir }, options = {}) {
     }
     if (result) {
       const nodes = result.nodes != null ? normalizeNodes(result.nodes) : convertTopicsToNodes(result.topics || []);
-      syllabus.chapters.push({
+      const newChapter = {
         title: result.chapter_title || entry.title,
         sequence_number: result.sequence_number ?? entry.sequenceNumber,
         discipline: result.discipline ?? entry.discipline ?? null,
         nodes,
         structure_notes: result.structure_notes || '',
-      });
+      };
+      if (merge) {
+        mergeChapterInto(syllabus, newChapter);
+      } else {
+        syllabus.chapters.push(newChapter);
+      }
       console.log(`  OK: ${entry.name}`);
     }
     await delay(DELAY_BETWEEN_CHAPTERS_MS);
   }
-  syllabus.chapters.sort((a, b) => a.sequence_number - b.sequence_number);
+  if (!merge) {
+    syllabus.chapters.sort((a, b) => a.sequence_number - b.sequence_number);
+  }
   return syllabus;
+}
+
+function getSyllabusOutPath(syllabus) {
+  const filename = `syllabus_${syllabus.board}_${syllabus.grade}_${syllabus.subject}_${syllabus.book_slug}.json`;
+  return path.join(OUT_DIR, filename);
 }
 
 function writeSyllabus(syllabus) {
   if (!fs.existsSync(OUT_DIR)) fs.mkdirSync(OUT_DIR, { recursive: true });
-  const filename = `syllabus_${syllabus.board}_${syllabus.grade}_${syllabus.subject}_${syllabus.book_slug}.json`;
-  const outPath = path.join(OUT_DIR, filename);
+  const outPath = getSyllabusOutPath(syllabus);
   fs.writeFileSync(outPath, JSON.stringify(syllabus, null, 2), 'utf8');
   console.log(`  Wrote ${outPath}`);
+}
+
+/** Replace or insert one chapter into syllabus.chapters by sequence_number and discipline; then sort. */
+function mergeChapterInto(syllabus, newChapter) {
+  const seq = newChapter.sequence_number;
+  const disc = newChapter.discipline ?? null;
+  const idx = syllabus.chapters.findIndex(
+    (c) => c.sequence_number === seq && (c.discipline ?? null) === disc
+  );
+  if (idx >= 0) {
+    syllabus.chapters[idx] = newChapter;
+  } else {
+    syllabus.chapters.push(newChapter);
+    syllabus.chapters.sort((a, b) => a.sequence_number - b.sequence_number);
+  }
 }
 
 async function main() {
   const dryRun = process.argv.includes('--dry-run');
   const bookFilter = getBookFilter();
+  const chapterFilter = getChapterFilter();
+  const disciplineFilter = getDisciplineFilter();
+  const merge = getMergeFlag();
+
   if (dryRun) console.log('Dry run: listing only, no Gemini calls.\n');
   if (bookFilter) console.log(`Filtering to book_slug: ${bookFilter}\n`);
+  if (chapterFilter != null) console.log(`Chapter filter: ${chapterFilter}\n`);
+  if (disciplineFilter) console.log(`Discipline filter: ${disciplineFilter}\n`);
+  if (merge) console.log('Merge mode: will update existing syllabus JSON.\n');
+
+  if (merge && !bookFilter) {
+    console.error('--merge requires --book=book_slug (so we know which syllabus file to update).');
+    process.exit(1);
+  }
+
   const folders = getBookFolders();
   if (folders.length === 0) {
     console.log('No book folder(s) found for the filter. Check BOOK_SLUG/--book or that Books/ICSE/{grade}/{subject}/{book_slug}/ exists.');
@@ -322,8 +425,13 @@ async function main() {
   for (const folder of folders) {
     const { pub } = folder;
     console.log(`${pub.subject} grade ${pub.grade} / ${pub.book_slug}`);
-    const syllabus = await processBook(folder, { dryRun });
-    if (syllabus && syllabus.chapters.length > 0) {
+    const syllabus = await processBook(folder, {
+      dryRun,
+      chapterFilter,
+      disciplineFilter,
+      merge,
+    });
+    if (syllabus && (syllabus.chapters.length > 0 || merge)) {
       writeSyllabus(syllabus);
     }
     console.log('');

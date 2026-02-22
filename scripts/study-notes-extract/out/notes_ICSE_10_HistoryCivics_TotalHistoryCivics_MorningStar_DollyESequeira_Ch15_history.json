@@ -1,0 +1,432 @@
+{
+  "board": "ICSE",
+  "grade": 10,
+  "subject": "HistoryCivics",
+  "book_slug": "TotalHistoryCivics_MorningStar_DollyESequeira",
+  "book_meta": {
+    "book_name": "Total History & Civics",
+    "publication": "Morning Star",
+    "author": "Dolly E. Sequeira"
+  },
+  "chapter_sequence_number": 15,
+  "chapter_title": "Non-Aligned Movement",
+  "discipline": "history",
+  "reconciliation": {
+    "outline": [
+      "Non-Aligned Movement",
+      "NON-ALIGNED MOVEMENT",
+      "MEANING OF NON-ALIGNMENT",
+      "FACTORS RESPONSIBLE FOR NON-ALIGNMENT",
+      "Global tension caused by Cold War",
+      "Struggle against imperialism and neo-colonisation",
+      "Right of independent judgement",
+      "Use of moderation in relation to all the big powers",
+      "Restructuring international economic order",
+      "Formation of a collective force",
+      "PANCHSHEEL",
+      "ARCHITECTS OF NAM",
+      "OBJECTIVES OF THE NON-ALIGNED MOVEMENT",
+      "ROLE OF JAWAHARLAL NEHRU",
+      "ACHIEVEMENTS OF NAM",
+      "FUTURE OF NAM"
+    ],
+    "in_syllabus_only": [],
+    "in_pdf_only": [
+      {
+        "title": "NON-ALIGNED MOVEMENT",
+        "insert_after_index": 0,
+        "micro_topics": []
+      }
+    ],
+    "additional_sections": [
+      {
+        "title": "NON-ALIGNED MOVEMENT",
+        "content_md": "The concept of non-alignment emerged during the Cold War. After the Second World War, the world was divided into two power blocs — one led by the USA and the other by the erstwhile Soviet Union. It was during this period that many newly independent countries in Asia and Africa decided not to join any of the two blocs and to remain non-aligned. Thus, non-alignment was the chief characteristic of awakening in Asia and Africa."
+      }
+    ]
+  },
+  "nodes": [
+    {
+      "title": "NON-ALIGNED MOVEMENT",
+      "sequence_number": 1,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "MEANING OF NON-ALIGNMENT",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**Non-alignment** is the **international policy** of a **sovereign state** according to which it does not align itself with any of the **power blocs** and at the same time actively participates in the world affairs to promote **international peace, harmony and cooperation**. The main features of **NAM** are the following:\n\n1.  It is not aligned to any of the **power blocs**.\n2.  It is opposed to any kind of **military alliances** like **NATO**, **SEATO**, **Warsaw Pact**, etc.\n3.  It retains its freedom to take **independent foreign policy decisions**.\n4.  It does not remain aloof from international problems. It actively participates in the politics among nations. So, **non-alignment** stands for **'action'** rather than **passivism**.\n5.  It **judges an issue on merit**. It upholds the rights of all people for **freedom and justice**.\n\nThus, **Non-alignment** is a policy which gives freedom to decide the course of action that a country wishes to adopt in relation to world politics."
+            }
+          ]
+        },
+        {
+          "title": "FACTORS RESPONSIBLE FOR NON-ALIGNMENT",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Global tension caused by Cold War",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Most of the **newly independent countries** of Asia and Africa realised that the division of the world into **two power blocs** was not in their larger interest; and this might endanger world peace. These nations felt that by maintaining distance from both the **superpowers** they would put off the danger of another war or a **nuclear holocaust**."
+                }
+              ]
+            },
+            {
+              "title": "Struggle against imperialism and neo-colonisation",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The newly independent nations opted for **non-alignment** because of some emotional and psychological constraints. They wanted to enjoy their **newly acquired freedom** and the power that had come with it without any pressure from other bigger nations."
+                }
+              ]
+            },
+            {
+              "title": "Right of independent judgement",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **newly independent nations** were able to keep their own identity by **not aligning with any of the power blocs**. They wanted to solve their problems themselves without any **outside interference or influence**."
+                }
+              ]
+            },
+            {
+              "title": "Use of moderation in relation to all the big powers",
+              "sequence_number": 4,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The newly independent nations wanted to promote **goodwill and cooperation** among the nations of Asia and Africa and to explore and advance their mutual interests by establishing **friendly relations** with all the nations."
+                }
+              ]
+            },
+            {
+              "title": "Restructuring international economic order",
+              "sequence_number": 5,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Most of the **newly independent countries** of **Asia and Africa** were **economically backward** and had a **low standard of living**. Since they needed both **capital** and **technical know-how** to boost their **economic development**, they considered it worthwhile to get both the things from wherever they could without any strings attached with them."
+                }
+              ]
+            },
+            {
+              "title": "Formation of a collective force",
+              "sequence_number": 6,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **newly independent nations** realised that although they do not have the **military and economic power** to influence international affairs, they had **moral force** and with their **collective reason** they could maintain or promote **world peace** on their own."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "PANCHSHEEL",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "In **1954**, **India** and **China** signed an agreement containing five principles of **peaceful co-existence**. These principles, collectively known as **'Panchsheel'**, became guidelines for the **Non-Aligned Movement** to evolve. These five principles were:\n\n1.  **Mutual non-interference** in each other's internal affairs;\n2.  **Mutual non-aggression**;\n3.  **Equality for mutual benefit**;\n4.  **Mutual respect for each other's territorial integrity and sovereignty**; and\n5.  **Peaceful co-existence**."
+            },
+            {
+              "content_md": "[Image: Jawaharlal Nehru with Chou En Lai]\n\nThese five principles or **Panchsheel** were given practical shape at a conference held at **Bandung (Indonesia)** in **April 1955**. This conference was attended by 29 countries from Asia and Africa including Philippines, Turkey and South Vietnam, Communist China and North Vietnam.\n\nThe conference was presided over by the first Prime Minister of India, **Jawaharlal Nehru**, Chinese Prime Minister **Chou En Lai** and **Gamal Abdel Nasser**, Prime Minister and later President of Egypt. The delegates at the conference condemned colonialism and emphasised the need for economic growth in the third world countries. The **Bandung Conference**, thus, paved the way for cooperation among newly independent nations, which later on blossomed into the **Non-Aligned Movement**."
+            }
+          ]
+        },
+        {
+          "title": "ARCHITECTS OF NAM",
+          "sequence_number": 4,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **Non-Aligned Movement** was formally launched at its first summit held in **September 1961** at **Belgrade** in **Yugoslavia**. It was attended by 25 Afro-Asian and one European country (Cyprus). Three Latin American countries participated as observers. The Conference was attended by **Prime Minister Nehru of India**, **President Josip Broz Tito of Yugoslavia** and **President Nasser of Egypt**. These three are considered as the **'founding fathers' of NAM**."
+            },
+            {
+              "content_md": "[Image: Jawaharlal Nehru, Kwame Nkrumah, Gamal Abdel Nasser, Sukarno, Josip Broz Tito]\n\nAmong the other founder members of the NAM were **Archbishop Makarios** of Cyprus, **U Nu** of Burma (Myanmar), **President Sukarno** of Indonesia, **Kwame Nkrumah** of Ghana, **Emperor Haile Sellasie** of Ethiopia and **King Mahendra Bir Bikram Shah** of Nepal.\n\nSeveral issues concerning world peace were discussed at the **first NAM Summit**. These included problems of **Berlin** and the **Congo**, the question of **Chinese representation in the UN** and the issue of **apartheid in South Africa**. The summit expressed the faith of NAM in the principle of **peaceful co-existence** and declared that **imperialism was a threat to world peace**. It demanded immediate and total **abolition of colonialism**. It also called for **complete disarmament**.\n\nPeriodic NAM summits have been held after the movement was launched in 1961. Though general topics like world peace, non-alignment, disarmament, etc., were discussed at all the summits, yet they also discussed the issues and problems which now and then appeared on the international scenario."
+            }
+          ]
+        },
+        {
+          "title": "OBJECTIVES OF THE NON-ALIGNED MOVEMENT",
+          "sequence_number": 5,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The main objective of **NAM** at the beginning was to keep away the newly independent countries of Asia and Africa from the rivalry between the **superpowers** and to protect and preserve their newly acquired independence."
+            },
+            {
+              "content_md": "The other important objectives of the NAM are the following:\n1. To eliminate all those causes which could lead to war.\n2. To protect the nascent freedom of the new-born independent countries of Asia and Africa from colonial domination.\n3. To oppose **colonialism**, **imperialism** and **racial discrimination**.\n4. To advocate sovereign equality of all states.\n5. To encourage friendly relations among countries.\n6. To advocate peaceful settlement of international disputes.\n7. To oppose the use of force and the use of **nuclear weapons**.\n8. To strengthen the **United Nations** as an organ of world peace.\n9. To protect **human rights** and to protect the environment.\n10. To build a **New International Economic Order (NIEO)** based on equity, equality and justice."
+            },
+            {
+              "content_md": "> **DO YOU KNOW?**\n> The term '**Non-alignment**' was coined by **V.K. Menon**, in his speech at the **United Nations** in **1953**. It was later on popularised by **Pandit Jawaharlal Nehru**, the first Prime Minister of India."
+            }
+          ]
+        },
+        {
+          "title": "ROLE OF JAWAHARLAL NEHRU",
+          "sequence_number": 6,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **Non-Aligned Movement** owes a lot to the first Prime Minister of India, **Jawaharlal Nehru**. In fact, India was the first country to initiate the policy of non-alignment, under the leadership of Nehru. Nehru had declared in the **American Congress in 1949**, \"Where freedom is menaced, or justice is threatened, or where aggression takes place, we cannot be and shall not be neutral, our policy is not neutralist but one of active endeavour to preserve and, if possible, establish peace on firm foundations.\"\n\nPt. Nehru was a visionary. He realised that the greatest danger to the sovereignty and integrity of India and the other newly independent nations of Asia and Africa lay in their joining any of the two power blocs. He called upon these countries to keep themselves away from the politics of the two opposing camps, which had already brought about two world wars. He advocated **mutual respect for the sovereignty and territorial integrity** of all nations. It was Nehru, who gradually led the countries of Asia and Africa towards the concept of non-alignment. He convinced these countries that they had great moral force and with their collective efforts could exert pressure on the issues of war and peace."
+            },
+            {
+              "content_md": "It was in confirmation of his views that he along with **Josip Broz Tito** of Yugoslavia, **Gamal Abdel Nasser** of Egypt, **Chou En Lai** of China, **Ho ChiMinh** of Vietnam and **Kwame Nkrumah** of Ghana led the **Bandung Conference**. The decisions taken at the Bandung Conference were given a final shape at **Belgrade in 1956**. Here, it was decided to form an organisation of the newly independent countries.\n\n[Image: Marshall Josip Broz Tito]\n\n[Image: Founders of NAM—Nasser, Tito, and Nehru]"
+            },
+            {
+              "content_md": "Nehru was acknowledged as the greatest spokesman for neutrality of Asian and African States in the Cold War era. Opposing the policy of alignment, Nehru said, \"By aligning ourselves with any one power, you surrender your opinion, give up the policy you would normally pursue because somebody else wants you to pursue another policy. I do not think that it would be a right policy for us to adopt.\"\n\nThough Nehru was committed to western concept of liberalism and democracy, he did not approve of the military or economic alliances like **NATO, CENTO, SEATO, etc.**, initiated by the USA to contain communism or the ones promoted by the Soviet Union like the **Warsaw Pact, Cominform, Comecon, etc.** He opposed these alliances as he believed that they encouraged colonialism and imperialism and were likely to produce a race for armaments."
+            },
+            {
+              "content_md": "Nehru was against the philosophy advocated by the two power blocs. He rejected the communist state as \"monolithic\" and described Marxism as an outdated theory. He did not favour capitalism either and was influenced by socialism. He therefore, strongly advocated the principles of **democratic socialism**. His policy of non-alignment, however, was not meant to promote a third bloc, but to ensure freedom of decision-making of the recently decolonised states.\n\nThus, under the stewardship of Nehru, India played an important role in spreading the message of NAM. India promoted the cause of freedom of many countries of Asia and Africa which were still under foreign domination.\n\n[Image: Jawaharlal Nehru]"
+            },
+            {
+              "content_md": "Nehru was against the policy of **apartheid** being followed in South Africa. That is why India sponsored a resolution in the UN in 1962, calling upon the member nations to take diplomatic and economic steps against South Africa and to force her to give up the policy of racial discrimination.\n\nNehru was against the mad race for armaments and called for **disarmament** and abolition of stockpiles of nuclear weapons. It was in pursuance of his policy of disarmament that India signed a treaty in **1963 for banning atomic tests**.\n\nMore than five decades after Nehru's death, India still continues to follow the path of NAM and its objectives as preached by the founding fathers themselves."
+            }
+          ]
+        },
+        {
+          "title": "ACHIEVEMENTS OF NAM",
+          "sequence_number": 7,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**Non-alignment** has been pursued by more than half of the world for over five decades. The number of participating countries also increased each time, from **25 in 1961** to **120 in 2012**. The Asian and African countries regularly attended the **NAM summits**. Some Latin American nations joined NAM, whereas some European countries like Austria, Finland, Sweden attended NAM summits as observers. NAM has a number of achievements to its credit. Some of these include the following:"
+            },
+            {
+              "content_md": "(i) **NAM** has helped in easing of tension between the two power blocs and ultimately in bringing about the end of the **Cold War**.\n(ii) **NAM** acted against the **arms race** of the superpowers during the Cold War years.\n(iii) **NAM** has supported the cause of **international peace, justice and freedom**.\n(iv) **NAM** has advocated **New International Economic Order (NIEO)** based on greater economic cooperation and justice. In fact, the first **UN Conference on Trade and Development (UNCTAD)** held in **1964** was largely the outcome of the efforts made by the non-aligned countries.\n(v) **NAM** has made the developed countries realise that the continued deprivation of the third world would affect the economy of the world and their own prosperity."
+            }
+          ]
+        },
+        {
+          "title": "FUTURE OF NAM",
+          "sequence_number": 8,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "Today, **NAM** stands for a broader objective of **international peace** as well as **independence of foreign policy** of each sovereign State. Though NAM has virtually lost its political relevance, it continues to be an effective forum in many other ways. For example, it could not do anything when two of its own member states, i.e., **Iran** and **Iraq** were engaged in a prolonged conflict. Similarly, it could not do much when **Afghanistan** was invaded by the **Soviet Union** in 1979 or **Iraq** was invaded by the **US-led coalition forces** in 2003.\n\nAs the binary **Cold War blocs** no longer exist in the manner they existed before, the **Non-alignment** concept has also lost its earlier objective of not aligning to either of the two **superpowers**, i.e., the **USA** and the erstwhile **USSR**. Further, many member states of NAM are now part of other multilateral groups like **G20**, **BRICS** etc., and has thereby, reduced the uniqueness of NAM as the “voice of the non-aligned.”\n\nIn recent years, NAM has issued strong political statements during many conflicts in the world like it issued a strong condemnation of **Israel’s air-strikes** on Iranian territory in October 2024, calling them “a grave infringement of Iran’s sovereignty and territorial integrity.” On other occasions also it issued strong political statements but failed to convert them into concrete coordinated action.\n\nHowever, **NAM still remains relevant** as it has **120 members**, covering about two-thirds of UN member states and a large part of the **Global South**. This gives it moral and diplomatic weight. It still acts as a platform for development and equity issues like **global vaccine access**, **climate justice**, **debt relief**, etc.\n\nWith the emergence of **neo-colonialism**, NAM has become all the more relevant. Many small and weak countries are unable to preserve their sovereignty in the economic field because of the interference of international financial institutions like the **World Bank**, **IMF** and **WTO** which try to impose their decisions on them. This is a grave challenge to the process of democracy in these countries but NAM can come forward and counteract these moves. The **USA has emerged as the sole superpower** in the world and has been dictating its own terms by taking unilateral decisions. It is here that NAM could utilise its vast experience gained over the years to prevent the **US domination**. Hence, NAM still continues to be a positive, dynamic and constructive movement aimed at achieving universal peace, disarmament and development."
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    }
+  ],
+  "additional_sections": [
+    {
+      "title": "NON-ALIGNED MOVEMENT",
+      "content_md": "The concept of non-alignment emerged during the Cold War. After the Second World War, the world was divided into two power blocs — one led by the USA and the other by the erstwhile Soviet Union. It was during this period that many newly independent countries in Asia and Africa decided not to join any of the two blocs and to remain non-aligned. Thus, non-alignment was the chief characteristic of awakening in Asia and Africa."
+    }
+  ],
+  "needs_review": [],
+  "manifest": {
+    "syllabus_leaves": [
+      {
+        "path": "NON-ALIGNED MOVEMENT > MEANING OF NON-ALIGNMENT",
+        "path_titles": [
+          "NON-ALIGNED MOVEMENT",
+          "MEANING OF NON-ALIGNMENT"
+        ],
+        "title": "MEANING OF NON-ALIGNMENT",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "NON-ALIGNED MOVEMENT > FACTORS RESPONSIBLE FOR NON-ALIGNMENT > Global tension caused by Cold War",
+        "path_titles": [
+          "NON-ALIGNED MOVEMENT",
+          "FACTORS RESPONSIBLE FOR NON-ALIGNMENT",
+          "Global tension caused by Cold War"
+        ],
+        "title": "Global tension caused by Cold War",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "NON-ALIGNED MOVEMENT > FACTORS RESPONSIBLE FOR NON-ALIGNMENT > Struggle against imperialism and neo-colonisation",
+        "path_titles": [
+          "NON-ALIGNED MOVEMENT",
+          "FACTORS RESPONSIBLE FOR NON-ALIGNMENT",
+          "Struggle against imperialism and neo-colonisation"
+        ],
+        "title": "Struggle against imperialism and neo-colonisation",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "NON-ALIGNED MOVEMENT > FACTORS RESPONSIBLE FOR NON-ALIGNMENT > Right of independent judgement",
+        "path_titles": [
+          "NON-ALIGNED MOVEMENT",
+          "FACTORS RESPONSIBLE FOR NON-ALIGNMENT",
+          "Right of independent judgement"
+        ],
+        "title": "Right of independent judgement",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "NON-ALIGNED MOVEMENT > FACTORS RESPONSIBLE FOR NON-ALIGNMENT > Use of moderation in relation to all the big powers",
+        "path_titles": [
+          "NON-ALIGNED MOVEMENT",
+          "FACTORS RESPONSIBLE FOR NON-ALIGNMENT",
+          "Use of moderation in relation to all the big powers"
+        ],
+        "title": "Use of moderation in relation to all the big powers",
+        "sequence_number": 4,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "NON-ALIGNED MOVEMENT > FACTORS RESPONSIBLE FOR NON-ALIGNMENT > Restructuring international economic order",
+        "path_titles": [
+          "NON-ALIGNED MOVEMENT",
+          "FACTORS RESPONSIBLE FOR NON-ALIGNMENT",
+          "Restructuring international economic order"
+        ],
+        "title": "Restructuring international economic order",
+        "sequence_number": 5,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "NON-ALIGNED MOVEMENT > FACTORS RESPONSIBLE FOR NON-ALIGNMENT > Formation of a collective force",
+        "path_titles": [
+          "NON-ALIGNED MOVEMENT",
+          "FACTORS RESPONSIBLE FOR NON-ALIGNMENT",
+          "Formation of a collective force"
+        ],
+        "title": "Formation of a collective force",
+        "sequence_number": 6,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "NON-ALIGNED MOVEMENT > PANCHSHEEL",
+        "path_titles": [
+          "NON-ALIGNED MOVEMENT",
+          "PANCHSHEEL"
+        ],
+        "title": "PANCHSHEEL",
+        "sequence_number": 3,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "NON-ALIGNED MOVEMENT > ARCHITECTS OF NAM",
+        "path_titles": [
+          "NON-ALIGNED MOVEMENT",
+          "ARCHITECTS OF NAM"
+        ],
+        "title": "ARCHITECTS OF NAM",
+        "sequence_number": 4,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "NON-ALIGNED MOVEMENT > OBJECTIVES OF THE NON-ALIGNED MOVEMENT",
+        "path_titles": [
+          "NON-ALIGNED MOVEMENT",
+          "OBJECTIVES OF THE NON-ALIGNED MOVEMENT"
+        ],
+        "title": "OBJECTIVES OF THE NON-ALIGNED MOVEMENT",
+        "sequence_number": 5,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "NON-ALIGNED MOVEMENT > ROLE OF JAWAHARLAL NEHRU",
+        "path_titles": [
+          "NON-ALIGNED MOVEMENT",
+          "ROLE OF JAWAHARLAL NEHRU"
+        ],
+        "title": "ROLE OF JAWAHARLAL NEHRU",
+        "sequence_number": 6,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "NON-ALIGNED MOVEMENT > ACHIEVEMENTS OF NAM",
+        "path_titles": [
+          "NON-ALIGNED MOVEMENT",
+          "ACHIEVEMENTS OF NAM"
+        ],
+        "title": "ACHIEVEMENTS OF NAM",
+        "sequence_number": 7,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "NON-ALIGNED MOVEMENT > FUTURE OF NAM",
+        "path_titles": [
+          "NON-ALIGNED MOVEMENT",
+          "FUTURE OF NAM"
+        ],
+        "title": "FUTURE OF NAM",
+        "sequence_number": 8,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      }
+    ],
+    "stray_leaves": [
+      {
+        "title": "NON-ALIGNED MOVEMENT",
+        "insert_after_index": 0,
+        "micro_topics": [],
+        "has_notes": true
+      }
+    ]
+  }
+}

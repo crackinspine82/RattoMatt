@@ -9,7 +9,6 @@ import TextAlign from '@tiptap/extension-text-align';
 import { TableKit } from '@tiptap/extension-table';
 import { OrderedList } from '@tiptap/extension-list';
 import { mergeAttributes } from '@tiptap/core';
-import type { DraftNoteBlock } from '../api';
 import { uploadImage, listItemImages } from '../api';
 
 /** OrderedList with listStyle: decimal | lower-roman | lower-alpha-parens (rendered as class for CSS). */
@@ -66,7 +65,7 @@ const EDITOR_EXTENSIONS = [
 ];
 
 type RichTextBlockEditorProps = {
-  block: DraftNoteBlock;
+  block: { id: string; content_html: string };
   onContentChange: (blockId: string, html: string) => void;
   /** Curation item id (chapter) for image "Choose from chapter". */
   itemId?: string;

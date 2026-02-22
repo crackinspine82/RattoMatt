@@ -1,7 +1,9 @@
 #!/usr/bin/env node
 /**
  * Publish: copy draft → published for curation items with status ready_to_publish.
- * Structure: draft_syllabus_nodes → syllabus_nodes; Notes: draft_note_blocks → note_blocks; Questions: draft_questions → questions, draft_rubrics → rubrics.
+ * Structure: draft_syllabus_nodes → syllabus_nodes; Notes: draft_note_blocks → note_blocks;
+ * Revision notes: draft_revision_note_blocks → revision_note_blocks (by syllabus_node_id);
+ * Questions: draft_questions → questions, draft_rubrics → rubrics (syllabus_node_id used as-is).
  * Run from backend/: npm run curation:publish
  */
 
@@ -39,6 +41,25 @@ async function main(): Promise<void> {
         await pool.query('UPDATE draft_syllabus_nodes SET published_syllabus_node_id = $1 WHERE id = $2', [publishedId, n.id]);
       }
       console.log('Published structure for chapter', chapterId, '→', draftNodes.rows.length, 'nodes');
+    } else if (contentType === 'revision_notes') {
+      const draftBlocks = await pool.query<{ id: string; syllabus_node_id: string | null; sequence_number: number; content_html: string }>(
+        'SELECT id, syllabus_node_id, sequence_number, content_html FROM draft_revision_note_blocks WHERE chapter_id = $1 AND syllabus_node_id IS NOT NULL ORDER BY syllabus_node_id, sequence_number',
+        [chapterId]
+      );
+      await pool.query(
+        'DELETE FROM revision_note_blocks WHERE syllabus_node_id IN (SELECT id FROM syllabus_nodes WHERE chapter_id = $1)',
+        [chapterId]
+      );
+      let inserted = 0;
+      for (const b of draftBlocks.rows) {
+        if (!b.syllabus_node_id) continue;
+        await pool.query(
+          'INSERT INTO revision_note_blocks (syllabus_node_id, sequence_number, content_html) VALUES ($1, $2, $3)',
+          [b.syllabus_node_id, b.sequence_number, b.content_html]
+        );
+        inserted++;
+      }
+      console.log('Published revision notes for chapter', chapterId, '→', inserted, 'blocks');
     } else if (contentType === 'notes') {
       const draftBlocks = await pool.query<{ id: string; draft_syllabus_node_id: string; sequence_number: number; content_html: string }>(
         `SELECT b.id, b.draft_syllabus_node_id, b.sequence_number, b.content_html
@@ -71,19 +92,11 @@ async function main(): Promise<void> {
       }
       console.log('Published notes for chapter', chapterId, '→', inserted, 'blocks');
     } else if (contentType === 'questions') {
-      const draftNodeToPublished = new Map<string, string>();
-      const pubNodes = await pool.query<{ id: string; published_syllabus_node_id: string }>(
-        'SELECT id, published_syllabus_node_id FROM draft_syllabus_nodes WHERE chapter_id = $1 AND published_syllabus_node_id IS NOT NULL',
-        [chapterId]
-      );
-      for (const r of pubNodes.rows) {
-        draftNodeToPublished.set(r.id, r.published_syllabus_node_id);
-      }
-      // Only publish draft questions marked ready_to_publish (incremental: add/update only, do not delete published)
+      // Draft questions use syllabus_node_id (published); no mapping needed
       const draftQ = await pool.query<{
         id: string;
         published_question_id: string | null;
-        draft_syllabus_node_id: string | null;
+        syllabus_node_id: string | null;
         question_text: string;
         question_type: string;
         discipline: string;
@@ -99,7 +112,7 @@ async function main(): Promise<void> {
         correct_value: boolean | null;
         model_answer_text: string | null;
         section_label: string | null;
-      }>('SELECT id, published_question_id, draft_syllabus_node_id, question_text, question_type, discipline, difficulty_level, answer_input_type, marks, source_type, textbook_ref, source_material_url, source_passage_text, scenario_data, correct_option, correct_value, model_answer_text, section_label FROM draft_questions WHERE chapter_id = $1 AND ready_to_publish = true ORDER BY id', [chapterId]);
+      }>('SELECT id, published_question_id, syllabus_node_id, question_text, question_type, discipline, difficulty_level, answer_input_type, marks, source_type, textbook_ref, source_material_url, source_passage_text, scenario_data, correct_option, correct_value, model_answer_text, section_label FROM draft_questions WHERE chapter_id = $1 AND ready_to_publish = true AND syllabus_node_id IS NOT NULL ORDER BY id', [chapterId]);
       const draftR = await pool.query<{ draft_question_id: string; rubric_version: number; rubric_json: unknown }>(
         'SELECT r.draft_question_id, r.rubric_version, r.rubric_json FROM draft_rubrics r JOIN draft_questions q ON q.id = r.draft_question_id WHERE q.chapter_id = $1 AND q.ready_to_publish = true ORDER BY r.draft_question_id',
         [chapterId]
@@ -110,7 +123,7 @@ async function main(): Promise<void> {
       }
       let qCount = 0;
       for (const q of draftQ.rows) {
-        const syllabusNodeId = q.draft_syllabus_node_id ? draftNodeToPublished.get(q.draft_syllabus_node_id) ?? null : null;
+        const syllabusNodeId = q.syllabus_node_id;
         const scenarioJson = q.scenario_data != null ? JSON.stringify(q.scenario_data) : null;
         const rub = rubricByDraftQ.get(q.id);
         const rubricJson = rub && typeof rub.rubric_json === 'object' && rub.rubric_json !== null ? JSON.stringify(rub.rubric_json) : '{}';

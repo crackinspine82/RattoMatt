@@ -1,0 +1,198 @@
+{
+  "syllabus_leaves": [
+    {
+      "path": "Mass Phase of the National Movement (1915-1947) > Mahatma Gandhi-Non-Cooperation Movement > Causes (Khilafat Movement, Rowlatt Act, Jallianwala Bagh Tragedy)",
+      "path_titles": [
+        "Mass Phase of the National Movement (1915-1947)",
+        "Mahatma Gandhi-Non-Cooperation Movement",
+        "Causes (Khilafat Movement, Rowlatt Act, Jallianwala Bagh Tragedy)"
+      ],
+      "title": "Causes (Khilafat Movement, Rowlatt Act, Jallianwala Bagh Tragedy)",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Mass Phase of the National Movement (1915-1947) > Mahatma Gandhi-Non-Cooperation Movement > Programme and suspension",
+      "path_titles": [
+        "Mass Phase of the National Movement (1915-1947)",
+        "Mahatma Gandhi-Non-Cooperation Movement",
+        "Programme and suspension"
+      ],
+      "title": "Programme and suspension",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Mass Phase of the National Movement (1915-1947) > Mahatma Gandhi-Non-Cooperation Movement > Chauri Chaura incident and impact of the Movement",
+      "path_titles": [
+        "Mass Phase of the National Movement (1915-1947)",
+        "Mahatma Gandhi-Non-Cooperation Movement",
+        "Chauri Chaura incident and impact of the Movement"
+      ],
+      "title": "Chauri Chaura incident and impact of the Movement",
+      "sequence_number": 3,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Mass Phase of the National Movement (1915-1947) > The Civil Disobedience Movement > Causes (reaction to the Simon Commission (clauses will not be tested) Declaration of Poorna Swaraj at the Lahore Session of 1929)",
+      "path_titles": [
+        "Mass Phase of the National Movement (1915-1947)",
+        "The Civil Disobedience Movement",
+        "Causes (reaction to the Simon Commission (clauses will not be tested) Declaration of Poorna Swaraj at the Lahore Session of 1929)"
+      ],
+      "title": "Causes (reaction to the Simon Commission (clauses will not be tested) Declaration of Poorna Swaraj at the Lahore Session of 1929)",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Mass Phase of the National Movement (1915-1947) > The Civil Disobedience Movement > Dandi March, programme and impact of the Movement",
+      "path_titles": [
+        "Mass Phase of the National Movement (1915-1947)",
+        "The Civil Disobedience Movement",
+        "Dandi March, programme and impact of the Movement"
+      ],
+      "title": "Dandi March, programme and impact of the Movement",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Mass Phase of the National Movement (1915-1947) > The Civil Disobedience Movement > Gandhi-Irwin Pact and the Second Round Table Conference",
+      "path_titles": [
+        "Mass Phase of the National Movement (1915-1947)",
+        "The Civil Disobedience Movement",
+        "Gandhi-Irwin Pact and the Second Round Table Conference"
+      ],
+      "title": "Gandhi-Irwin Pact and the Second Round Table Conference",
+      "sequence_number": 3,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Mass Phase of the National Movement (1915-1947) > The Civil Disobedience Movement > Reason for renewal of the Civil Disobedience Movement",
+      "path_titles": [
+        "Mass Phase of the National Movement (1915-1947)",
+        "The Civil Disobedience Movement",
+        "Reason for renewal of the Civil Disobedience Movement"
+      ],
+      "title": "Reason for renewal of the Civil Disobedience Movement",
+      "sequence_number": 4,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    }
+  ],
+  "stray_leaves": [
+    {
+      "title": "EARLY LIFE",
+      "insert_after_index": 0,
+      "micro_topics": [],
+      "has_notes": true
+    },
+    {
+      "title": "Champaran Satyagraha (1917)",
+      "insert_after_index": 0,
+      "micro_topics": [],
+      "has_notes": true
+    },
+    {
+      "title": "Ahmedabad Satyagraha (1918)",
+      "insert_after_index": 0,
+      "micro_topics": [],
+      "has_notes": true
+    },
+    {
+      "title": "Kheda Satyagraha (1918)",
+      "insert_after_index": 0,
+      "micro_topics": [],
+      "has_notes": true
+    },
+    {
+      "title": "GANDHIJI'S METHODS AND DIRECTIONS",
+      "insert_after_index": 0,
+      "micro_topics": [
+        "Satyagraha",
+        "Doctrine of Non-Violence",
+        "Swadeshi",
+        "Mass Movement"
+      ],
+      "has_notes": true
+    },
+    {
+      "title": "Objectives of the Non-Cooperation Movement",
+      "insert_after_index": 2,
+      "micro_topics": [],
+      "has_notes": true
+    },
+    {
+      "title": "Activities During Non-Cooperation Movement",
+      "insert_after_index": 3,
+      "micro_topics": [],
+      "has_notes": true
+    },
+    {
+      "title": "Repression by the Government",
+      "insert_after_index": 3,
+      "micro_topics": [],
+      "has_notes": true
+    },
+    {
+      "title": "Recommendations of the Simon Commission",
+      "insert_after_index": 6,
+      "micro_topics": [],
+      "has_notes": true
+    },
+    {
+      "title": "Nehru Report* (1928)",
+      "insert_after_index": 6,
+      "micro_topics": [],
+      "has_notes": true
+    },
+    {
+      "title": "The Progress of the Movement",
+      "insert_after_index": 7,
+      "micro_topics": [],
+      "has_notes": true
+    },
+    {
+      "title": "Repression by the Government",
+      "insert_after_index": 7,
+      "micro_topics": [],
+      "has_notes": true
+    },
+    {
+      "title": "Round Table Conference",
+      "insert_after_index": 8,
+      "micro_topics": [],
+      "has_notes": true
+    },
+    {
+      "title": "First Round Table Conference (November 12, 1930 to January 19, 1931)",
+      "insert_after_index": 8,
+      "micro_topics": [],
+      "has_notes": true
+    },
+    {
+      "title": "Third Round Table Conference (November 17, 1932 to December 24, 1932)",
+      "insert_after_index": 8,
+      "micro_topics": [],
+      "has_notes": true
+    },
+    {
+      "title": "Dr. Bhimrao Ambedkar's Contribution",
+      "insert_after_index": 9,
+      "micro_topics": [],
+      "has_notes": true
+    }
+  ]
+}

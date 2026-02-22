@@ -1,0 +1,1450 @@
+{
+  "board": "ICSE",
+  "grade": 10,
+  "subject": "HistoryCivics",
+  "book_slug": "TotalHistoryCivics_MorningStar_DollyESequeira",
+  "book_meta": {
+    "book_name": "Total History & Civics",
+    "publication": "Morning Star",
+    "author": "Dolly E. Sequeira"
+  },
+  "chapter_sequence_number": 5,
+  "chapter_title": "The Muslim League",
+  "discipline": "history",
+  "reconciliation": {
+    "outline": [
+      "THE GROWTH OF COMMUNALISM",
+      "FACTORS LEADING TO THE FORMATION OF THE MUSLIM LEAGUE",
+      "1. Loss of Sovereignty by Mughal Rulers:",
+      "2. British Policy of Divide and Rule:",
+      "3. Relative Backwardness of the Muslim Community in Education, Trade and Industry:",
+      "4. Role of Sir Sayyid Ahmad Khan:",
+      "5. Erroneous Interpretation of History:",
+      "6. Rise of Assertive Nationalism:",
+      "7. Economic Backwardness of the Country:",
+      "EVENTS LEADING TO THE FORMATION OF THE MUSLIM LEAGUE",
+      "1. The Hindi-Urdu Controversy:",
+      "2. Foundation of Mohammedan Anglo-Oriental Association (1893):",
+      "3. The Aligarh Politics:",
+      "4. Partition of Bengal (1905):",
+      "5. Muslim Deputation to the Viceroy, Lord Minto:",
+      "FORMATION OF THE MUSLIM LEAGUE",
+      "OBJECTIVES OF THE MUSLIM LEAGUE",
+      "IMPACT OF THE MUSLIM LEAGUE ON THE NATIONAL MOVEMENT",
+      "League's Role in the Beginning:",
+      "Government Support to the League:",
+      "The Phase of Rapprochement:",
+      "Congress and the League:",
+      "Partition of the Country on Communal Lines:",
+      "THE LUCKNOW PACT",
+      "Circumstances Leading to the Lucknow Pact",
+      "1. International Events:",
+      "2. National Events:",
+      "3. Changes in the Objectives of the Muslim League:",
+      "4. A Compromise Between the Two Factions of the Congress:",
+      "TERMS OF THE LUCKNOW PACT",
+      "Signatories of the Pact",
+      "Clauses of Lucknow Pact",
+      "1. Abolition of the India Council:",
+      "2. Provincial Legislatures:",
+      "3. Minorities in Elected Bodies:",
+      "4. Limitation of the Imperial Legislature:",
+      "5. Imperial Legislative Council:",
+      "6. Powers of the Legislative Council:",
+      "7. Autonomy in Provinces:",
+      "8. Viceroy's Executive Council:",
+      "9. Religious Interests:",
+      "10. Separation of Judiciary from Executive:",
+      "SIGNIFICANCE OF THE LUCKNOW PACT",
+      "1. Hindu-Muslim Unity:",
+      "2. Unity Within the Congress:",
+      "3. Pressure on the Government:",
+      "4. Necessity to Pacify Indians:",
+      "Drawbacks of the Lucknow Pact"
+    ],
+    "in_syllabus_only": [],
+    "in_pdf_only": [
+      {
+        "title": "Congress and the League:",
+        "insert_after_index": 34,
+        "micro_topics": []
+      },
+      {
+        "title": "Partition of the Country on Communal Lines:",
+        "insert_after_index": 34,
+        "micro_topics": []
+      },
+      {
+        "title": "Signatories of the Pact",
+        "insert_after_index": 41,
+        "micro_topics": []
+      }
+    ],
+    "additional_sections": [
+      {
+        "title": "Congress and the League:",
+        "content_md": "[Image: The founding members of the All India Muslim League at Shah Bagh, Dacca (December, 1906).]\n\nWhen the British Government acted against the Turkish interests and supported the cause of the Balkan countries, the Indian Muslims stood up and launched the Khilafat Movement against the British. The Congress cooperated with them and the Khilafat issue was included as one of the demands of the Non-cooperation Movement. As a result, a pact which is known as the Lucknow Pact was signed. The Lucknow Pact refers to the joint scheme of political reforms agreed to by both the Congress and the Muslim League in 1916 regarding the structure of government in India and the relationship between the Hindus and the Muslims. According to this Pact, the Congress accepted the concept of communal electorate which subsequently added to the communal bitterness."
+      },
+      {
+        "title": "Partition of the Country on Communal Lines:",
+        "content_md": "The communal divide continued. In 1930 the idea of two nation states was born and in the 1940 session of the League at Lahore, Jinnah put forward his two-nation theory. Thus, despite a severe opposition from Gandhiji, the country drifted towards the partition. The communal riots broke out in the country and in 1947, a separate country, Pakistan, came into existence."
+      },
+      {
+        "title": "Signatories of the Pact",
+        "content_md": "In 1916, the Congress and the League again held simultaneous sessions at Lucknow. The joint scheme of political reforms was put forward and adopted by both parties in 1916. This agreement signed by the two parties is known as the Lucknow Pact. It was signed by the Indian National Congress and the All India Muslim League headed by Bal Gangadhar Tilak and Mohammad Ali Jinnah, respectively."
+      }
+    ]
+  },
+  "nodes": [
+    {
+      "title": "THE GROWTH OF COMMUNALISM",
+      "sequence_number": 1,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "The Hindus and the Muslims had lived together in India for centuries. They had developed some common ways of life. Since both the communities were exploited by the British, they fought together during the **First War of Independence in 1857**. Such a unity between the two communities posed a danger to **British imperialism**.\n\nThe **Uprising of 1857** made the British realise that they had to divide the two communities in order to prolong their rule in India. They, therefore, tried to sow the seeds of discord between them to check the rising tide of **nationalism**. They encouraged the communal forces to wreck the **National Movement** from within. They dubbed the National Movement as a movement for establishing the 'Hindu Kingdom' in India and encouraged the Muslims to set up their own separate political organisation. It was the British policy of **'Divide and Rule'** that led to the rise of communal trend and to the formation of the **Muslim League in 1906**."
+        }
+      ]
+    },
+    {
+      "title": "FACTORS LEADING TO THE FORMATION OF THE MUSLIM LEAGUE",
+      "sequence_number": 2,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "Loss of Sovereignty by Mughal Rulers",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **British** established their supremacy in India after dethroning the **Mughal rulers** who were the followers of Islam. Therefore, the **Muslims** became bitter enemies of the British. They participated in the **Wahabi Movement**, aimed at ending British Domination of India. They also took part in the **Uprising of 1857**. This made the British view them with suspicion. The British government consciously discriminated against the Muslims, holding them responsible for the **Uprising of 1857**. However, after the **1870s**, the British government changed its attitude and followed the **policy of appeasing the Muslims** in order to undermine the **National Movement**. It sowed the seeds of dissension between the two communities and encouraged **separatist and communal tendencies**."
+            }
+          ]
+        },
+        {
+          "title": "British Policy of Divide and Rule",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "In 1871 Lord Mayo's government adopted...",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "In **1871 Lord Mayo's government** adopted a resolution which made **Urdu** the **medium of instruction for Muslims** in primary and secondary schools and increased **government aid** to educational institutions run by the Muslims."
+                }
+              ]
+            },
+            {
+              "title": "They tried to create hatred among the...",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "* They tried to create **hatred among the Hindus and the Muslims** by portraying **Muslim rulers as plunderers**, and **Hindu rulers as cruel kings** to their Muslim subjects."
+                }
+              ]
+            },
+            {
+              "title": "They tried to justify the Partition of Bengal...",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "* They tried to justify the **Partition of Bengal** by convincing the Muslims that Bengal was being partitioned to create a new **Muslim majority province** where the Hindus would not be able to subvert their interests."
+                }
+              ]
+            },
+            {
+              "title": "They tried to utilise the caste structure...",
+              "sequence_number": 4,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "They tried to utilise the **caste structure** to turn the **non-brahmins** and the **lower castes** against **high castes**."
+                }
+              ]
+            },
+            {
+              "title": "They treated Hindus, Muslims and Sikhs...",
+              "sequence_number": 5,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "They treated **Hindus**, **Muslims** and **Sikhs** as **separate communities** and accepted their **communal leaders** as **authentic representatives** of all their co-religionists."
+                }
+              ]
+            },
+            {
+              "title": "They tried to spread communal hatred...",
+              "sequence_number": 6,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "After the **First War of Independence in 1857**, the British became apprehensive of the safety and stability of their empire in India. They saw the unity between the Hindus and the Muslims as a threat to them. Therefore, to check the growth of a united national feeling in India and to encourage communal and separatist tendencies in Indian politics, they decided to follow the **policy of ‘Divide and Rule’**. They did so in the following manner:\n\n(i) In **1871 Lord Mayo’s government** adopted a resolution which made **Urdu** the medium of instruction for Muslims in primary and secondary schools and increased government aid to educational institutions run by the Muslims.\n\n(ii) They tried to create hatred among the Hindus and the Muslims by portraying **Muslim rulers as plunderers**, and **Hindu rulers as cruel kings** to their Muslim subjects.\n\n(iii) They tried to justify the **Partition of Bengal** by convincing the Muslims that Bengal was being partitioned to create a new **Muslim majority province** where the Hindus would not be able to subvert their interests.\n\n(iv) They tried to utilise the **caste structure** to turn the non-brahmins and the lower castes against high castes.\n\n(v) They treated Hindus, Muslims and Sikhs as **separate communities** and accepted their communal leaders as authentic representatives of all their co-religionists.\n\n(vi) They tried to spread **communal hatred** through the **Press, posters, literature and public platforms**."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "Relative Backwardness of the Muslim Community in Education, Trade and Industry",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "The upper class Muslims comprising...",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **communal and separatist trend** of thinking grew among the Muslims to some extent because of their **relative backwardness in education, trade and industry**."
+                }
+              ]
+            },
+            {
+              "title": "The British government in India had...",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "As there is no heading in the provided text that exactly matches \"The British government in India had...\", this response extracts content from the most relevant section, which is titled **\"British Policy of Divide and Rule\"**. This section provides a direct overview of the actions and policies of the British government that are central to the chapter's topic."
+                },
+                {
+                  "content_md": "After the **First War of Independence in 1857**, the British became apprehensive of the safety and stability of their empire in India. They saw the unity between the Hindus and the Muslims as a threat to them. Therefore, to check the growth of a united national feeling in India and to encourage communal and separatist tendencies in Indian politics, they decided to follow the policy of **‘Divide and Rule’**."
+                }
+              ]
+            },
+            {
+              "title": "The Muslim community was not much...",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **communal and separatist trend** of thinking grew among the Muslims to some extent because of their relative backwardness in education, trade and industry."
+                },
+                {
+                  "content_md": "(i) The upper class Muslims comprising **zamindars and aristocrats**, during the first 70 years of the 19th century were **anti-British**. They were conservative and hostile to **modern education**. Because of this, the number of Muslims educated in the **western system of education** remained small.\n\n(ii) The British government in India had consciously **discriminated against the Muslims after 1858**, holding them responsible for the **Uprising of 1857**. They were discriminated in the recruitment to **civil and military services**.\n\n(iii) The Muslim community was not much involved in the growth of any **organised industry**. Here too they lagged behind.\n\n(iv) Some members of the Muslim community did not keep up with the **modern trends** in social and cultural spheres. This was because they were proud of their own literature and culture and did not adopt the **Western system of education**. Many Hindus, on the other hand, adopted the Western system of education. Since modern education was essential for entry into **government service**, the Muslims had the disadvantage in this respect.\n\nIn these circumstances, it was quite easy for the British officials to incite the Muslims against the Hindus."
+                }
+              ]
+            },
+            {
+              "title": "Some members of the Muslim community...",
+              "sequence_number": 4,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Some members of the Muslim community did not keep up with the modern trends in social and cultural spheres. This was because they were proud of their own literature and culture and did not adopt the **Western system of education**. Many Hindus, on the other hand, adopted the Western system of education. Since **modern education** was essential for entry into **government service**, the Muslims had the disadvantage in this respect."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "Role of Sir Sayyid Ahmad Khan",
+          "sequence_number": 4,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "Sir **Sayyid Ahmad Khan** was a great educationist and social reformer. He regarded Hindus and Muslims to be one **Quam** (nation). He founded the **Mohammedan Anglo-Oriental College at Aligarh** which had both Hindu and Muslim patrons. However, under the influence of **Mr Theodore Beck**, the British Principal of **Mohammedan Anglo-Oriental (MAO) College (Aligarh)**, in the **1880s**, he gave up his earlier views and declared that the political interests of Hindus and Muslims were different."
+            },
+            {
+              "content_md": "When the **Indian National Congress** was founded, **Sir Sayyid** opposed it. He founded the **United Indian Patriotic Association** in **1888** mainly with a view to oppose the Congress. In this effort, he was supported by **Mr. Beck**. Beck's idea was that **Anglo-Muslim unity** was possible, but **Hindu-Muslim unity** was impossible."
+            },
+            {
+              "content_md": "[Image: Theodore Beck]"
+            },
+            {
+              "content_md": "It was said that **Sir Sayyid** believed that since the Hindus formed the majority of the Indian population, they would dominate the Muslims in case of a withdrawal of the British rule. He felt that the continuance of **British rule** was a \"guarantee for the welfare and progress of the community.” Therefore, he declared that if the educated Muslims support the British, the latter would reward them with government jobs and other special favours."
+            }
+          ]
+        },
+        {
+          "title": "Erroneous Interpretation of History",
+          "sequence_number": 5,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Some British and communal historians...",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The manner in which Indian history was interpreted in those days contributed to the growth of **communal thinking** among the Hindus and the Muslims."
+                },
+                {
+                  "content_md": "*   Some **British and communal historians** divided Indian history into the **Hindu** and the **Muslim periods**. The rule of **Turks, Afghans and Mughals** was called the **Muslim rule**, where the rulers were said to be the followers of Islam and their subjects, the followers of other religions. In the so-called **Hindu period**, Muslim rulers were dubbed as **foreign invaders** who had settled in India.\n*   The **British and communal historians** ignored the notion of a **composite culture** in India and tried to create a rift between the two communities. They failed to interpret that the diversity was primarily **class-wise** and **region-wise** and not religion-wise.\n*   Some **communal historians** highlighted the myth that Indian society and culture had reached great heights during the **ancient period** but was declining during the **medieval period** which was dominated by Mughal rulers. They did not give much importance to the contribution of the medieval period to the development of Indian economy, religion, art, literature, culture and society.\n*   The **communal bias** was propagated through poetry, drama, novels, short stories, newspapers, etc."
+                },
+                {
+                  "content_md": "In the words of Mahatma Gandhi, \"Communal harmony could not be permanently established in our country so long as highly distorted versions of history were taught in her schools.\""
+                }
+              ]
+            },
+            {
+              "title": "The British and communal historians...",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The manner in which Indian history was interpreted in those days contributed to the growth of communal thinking among the Hindus and the Muslims.\n\n1.  Some **British and communal historians** divided Indian history into the **Hindu and the Muslim periods**. The rule of **Turks, Afghans and Mughals** was called the **Muslim rule**, where the rulers were said to be the followers of Islam and their subjects, the followers of other religions. In the so-called **Hindu period**, Muslim rulers were dubbed as foreign invaders who had settled in India.\n2.  The **British and communal historians** ignored the notion of a **composite culture** in India and tried to create a rift between the two communities. They failed to interpret that the diversity was primarily class-wise and region-wise and not religion-wise.\n3.  Some communal historians highlighted the myth that Indian society and culture had reached great heights during the **ancient period** but was declining during the **medieval period** which was dominated by Mughal rulers. They did not give much importance to the contribution of the medieval period to the development of Indian economy, religion, art, literature, culture and society.\n4.  The **communal bias** was propagated through poetry, drama, novels, short stories, newspapers, etc.\n\nIn the words of Mahatma Gandhi, \"Communal harmony could not be permanently established in our country so long as highly distorted versions of history were taught in her schools.\""
+                }
+              ]
+            },
+            {
+              "title": "Some communal historians highlighted...",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Some communal historians highlighted the myth that **Indian society and culture** had reached great heights during the **ancient period** but was declining during the **medieval period** which was dominated by **Mughal rulers**. They did not give much importance to the contribution of the medieval period to the development of Indian economy, religion, art, literature, culture and society."
+                }
+              ]
+            },
+            {
+              "title": "The communal bias was propagated...",
+              "sequence_number": 4,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "*   The **communal bias** was propagated through poetry, drama, novels, short stories, newspapers, etc.\n\nIn the words of Mahatma Gandhi, \"**Communal harmony** could not be permanently established in our country so long as highly distorted versions of history were taught in her schools.\""
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "Rise of Assertive Nationalism",
+          "sequence_number": 6,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **Assertive Nationalists** played an important role in the **National Movement**. But some of their actions marked a step back in respect of the growth of national unity. The speeches and actions of some of the Assertive Nationalists annoyed some sections of Indians. For example, the promotion of **Shivaji and Ganapati festivals** by **Tilak**, **Aurobindo Ghose's** concept of India as mother and nationalism as religion and the initiation of the **Anti-Partition agitation** with dips in the Ganga did not appeal to some of the Muslims."
+            }
+          ]
+        },
+        {
+          "title": "Economic Backwardness of the Country",
+          "sequence_number": 7,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **economic backwardness** of the country contributed to the growth of **communalism** in India. Due to the **British colonial policies**, India lacked modern industrial development; and there was **acute unemployment** among the educated youth. As a consequence, there was fierce competition among the youth to secure the few available jobs. This led the people to demand **reservation in jobs** on the basis of caste, creed or religion. The British used this opportunity to push further their policy of **divide and rule** and fan **communal rivalry** among the educated Indians on the question of jobs in government service. However, the unemployed people failed to realise that the British themselves were responsible for their economic backwardness."
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    },
+    {
+      "title": "EVENTS LEADING TO THE FORMATION OF THE MUSLIM LEAGUE",
+      "sequence_number": 3,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "The Hindi-Urdu Controversy",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "In the **United Provinces** (present Uttar Pradesh) **Urdu** was the court language and all the petitions to the offices and courts were submitted in Urdu. Some sections of the society protested against this practice. On **April 8, 1900**, the Government instructed that all petitions were to be submitted in **Hindi**, in **Devanagri script**, and the court summons and official announcements to be issued in Hindi as well as in Urdu. The **Muslims resented this**. The controversy continued for months and relations between the communities became worse."
+            }
+          ]
+        },
+        {
+          "title": "Foundation of Mohammedan Anglo-Oriental Association (1893)",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The growing influence and popularity of the **Congress** became a cause of concern for the British. In order to counter the growing influence of the Congress, the British encouraged the formation of the **Mohammedan Anglo-Oriental (M.A.O.) Defence Association** in the year **1893**. **Principal Beck** of the **M.A.O. College, Aligarh**, was its secretary. The motive of the British in setting up the Association was to **promote loyalty to the British** and to **prevent Muslims from participating in any political movement**."
+            }
+          ]
+        },
+        {
+          "title": "The Aligarh Politics",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**Nawab Mohsin-ul-Mulk** led the **Aligarh Movement** after the death of **Sir Sayyid** in 1898. The Aligarh Movement worked to instil into the minds of the Muslims a spirit of loyalty towards the British government and worked deliberately to keep the Muslims away from the main stream of Indian political life. When the **Hindi-Urdu controversy** raged in 1900, the Nawab was the Secretary of the **M.A.O. College Trust**. He criticised the Government Order granting equal status to Hindi and Urdu in UP. The **Lt. Governor of UP, Macdonnel**, was furious and he demanded that the Nawab should either resign from the Secretaryship of the Trust or separate himself from the agitation against the Government Order. Muslim leaders became angry. They suggested that a political organisation of the Muslims should be set up."
+            }
+          ]
+        },
+        {
+          "title": "Partition of Bengal (1905)",
+          "sequence_number": 4,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**Lord Curzon** partitioned Bengal into two provinces in **1905** apparently on **administrative grounds**. However, the real purpose of the **Partition of Bengal** was to create a wedge between the **Hindus** and the **Muslims**, and to check the rising tide of **nationalism**. The British won the support of the Muslims on the ground that the new province would have a **Muslim-majority province**. Muslims of East Bengal, led by **Nawab Salimullah of Dacca**, welcomed the Partition."
+            }
+          ]
+        },
+        {
+          "title": "Muslim Deputation to the Viceroy, Lord Minto",
+          "sequence_number": 5,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "To create a possible opposition to the Congress by using the Muslims, the **Viceroy, Lord Minto**, appointed a committee (**Arundale Committee**) to work out an expansion of the **Legislative Council**. This spurred some communal-minded Muslims to action. They decided to present an address to the Viceroy."
+            },
+            {
+              "content_md": "**Archibald**, the new principal of **M.A.O. College**, made the following suggestions on the content of the Address: (i) the Address should begin with a proclamation of loyalty to the British rulers; (ii) there should be an expression of fear that the general system of elections would harm the interests of the Muslims, as they were in minority in the country and (iii) they should ask for some system of 'nomination' or 'representation on the basis of religious belief'."
+            },
+            {
+              "content_md": "An Address was prepared incorporating these suggestions. A delegation of **35 influential Muslims** from all over the country, led by **Agha Khan**, head of the Ismaili Sect, met the Viceroy in **Shimla** on **October 1, 1906** and put forward their demands which included the following:\n\n(i) Representation of Muslims in elected bodies on the basis of their **political importance** and not on their numerical strength.\n(ii) **Separate electoral constituencies** for the Muslims in the Provincial Council and the Imperial Legislative Council.\n(iii) Preference to be given to Muslims while nominating members of the Viceroy's Council.\n(iv) **Reservation of seats** for Muslims in the State services.\n(v) More **State aid** for promoting new Muslim universities."
+            },
+            {
+              "content_md": "The Viceroy received the deputation and expressed his sympathy with their aspirations. He assured them that their political rights and interests as a community would be safeguarded.\n\n[Image: Lord Minto]"
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    },
+    {
+      "title": "FORMATION OF THE MUSLIM LEAGUE",
+      "sequence_number": 4,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "The success of the Muslim deputation to the Viceroy motivated the Muslims to start a separate political organisation. **Nawab Salimullah of Dacca** took the initiative. In **December 1906**, when eminent Muslim leaders assembled at Dacca in connection with the **Mohammedan Educational Conference**, he arranged a meeting to consider such a proposal."
+        },
+        {
+          "content_md": "[Image: Nawab Salimullah]"
+        },
+        {
+          "content_md": "The proposal to form a central organisation for Muslims was accepted and a political association **\"All-India Muslim League\"** was set up on **December 30, 1906** under the Presidentship of **Nawab Salimullah**. **Agha Khan** was elected as Permanent President of the Muslim League. Its headquarters were to be at **Aligarh** but its central office was shifted to **Lucknow** in **1910**."
+        }
+      ]
+    },
+    {
+      "title": "OBJECTIVES OF THE MUSLIM LEAGUE",
+      "sequence_number": 5,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "The objectives of the League were laid down as follows:\n\n1.  To promote, among the Muslims of India, support for the **British government** and to remove any misconceptions regarding the intention of the government in relation to Indian Muslims.\n2.  To protect and advance the **political rights and interests of the Muslims** and to represent their needs and aspirations to the government in mild and moderate language.\n3.  To prevent the rise of **feelings of hostility** between the Muslims of India and other communities."
+        }
+      ]
+    },
+    {
+      "title": "IMPACT OF THE MUSLIM LEAGUE ON THE NATIONAL MOVEMENT",
+      "sequence_number": 6,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "League's Role in the Beginning",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The League had a **separate entity**. Initially it stood apart from the **National Movement**. It sought greater **representation of Muslims** in all services. As regards representation in Assemblies, it wanted more seats than its numerical representation warranted.\n\nIts political activities were directed not so much against the foreign rulers as against the **Congress**. Its leaders, belonging to the **upper class**, had little in common with the **Muslim masses**; and they did not fight for the removal of their grievances."
+            }
+          ]
+        },
+        {
+          "title": "Government Support to the League",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "With the help of **Lord Minto**, the Viceroy, the Muslim League secured its demand for **separate electorates**, i.e., the system of election to legislatures which divides voters on the basis of religion, caste or occupation. The **Morley-Minto Reforms of 1909** provided separate electorates for Muslim whereby seats were reserved for the Muslims from where Muslims could vote for the Muslim candidates.\n\nThe provision for separate electorate in the Morley-Minto Reforms was intentionally incorporated to please the Muslim League and create a rift between the Muslim League and the Congress."
+            }
+          ]
+        },
+        {
+          "title": "The Phase of Rapprochement",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "From **1910 to 1913** new forces emerged in Muslim League politics and some of its leaders realised that **rapprochement with the Congress** was desirable. Several factors were responsible for this change in attitude:\n(i) **Britain's hostility to Turkey** in the **Turko-Italian War (1911-12)** and the **Balkan Wars (1912-13)** made a large section of Muslim leaders critical of British policies;\n(ii) The **annulment of the Partition of Bengal in 1911** was seen as detrimental to the interests of the Muslims in India;\n(iii) The younger section of emerging Muslim leaders disliked the loyalist politics of the Aligarh group and the leadership of big Nawabs and Zamindars; and\n(iv) Some young scholars, influenced by the **Deoband school** of Muslim studies were inspired by nationalist sentiments. Among them the most prominent were **Maulana Abul Kalam Azad**, **Habibur Rahman**, **Hakim Ajmal Khan** and **Mazhar-ul-Haq**."
+            },
+            {
+              "content_md": "**Congress and the League:** When the British Government acted against the Turkish interests and supported the cause of the Balkan countries, the Indian Muslims stood up and launched the **Khilafat Movement** against the British. The Congress cooperated with them and the Khilafat issue was included as one of the demands of the Non-cooperation Movement. As a result, a pact which is known as the **Lucknow Pact** was signed. The Lucknow Pact refers to the joint scheme of political reforms agreed to by both the Congress and the Muslim League in 1916 regarding the structure of government in India and the relationship between the Hindus and the Muslims. According to this Pact, the Congress accepted the concept of **communal electorate** which subsequently added to the communal bitterness."
+            },
+            {
+              "content_md": "**Partition of the Country on Communal Lines:** The communal divide continued. In 1930 the idea of two nation states was born and in the 1940 session of the League at Lahore, Jinnah put forward his **two-nation theory**. Thus, despite a severe opposition from Gandhiji, the country drifted towards the partition. The communal riots broke out in the country and in 1947, a separate country, **Pakistan**, came into existence."
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    },
+    {
+      "title": "THE LUCKNOW PACT",
+      "sequence_number": 7,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "Circumstances Leading to the Lucknow Pact",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "International Events",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "During 1912 and 1913, Turkey's **Ottoman Empire** had to fight the **Balkan powers**. The British policy during the **Balkan Wars** was not sympathetic to Turkey. The Sultan of Turkey was regarded as the **Caliph** or the religious head of Muslims. Moreover, all the Muslim holy places were situated within the Turkish Empire. In the **First World War**, Britain was fighting against Turkey. This caused a wave of **pro-Turkey** and **pro-Caliph** or **Khilafat sentiments** amongst the Muslims. They felt that the British were **pro-Christian** and **anti-Muslim**. The change of attitude of the Muslims towards the British led the former to support the Congress in their efforts to gain self-government in India."
+                }
+              ]
+            },
+            {
+              "title": "National Events",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "There were important national events that changed the attitude of the Muslim League. Firstly, the **Partition of Bengal** was annulled. Secondly, nationalist Muslims like **Abul Kalam Azad** and the **Ali Brothers**—**Maulana Mohammad Ali** and **Shaukat Ali**—made use of this opportunity to spread nationalist ideas among the Muslims for mobilising public opinion in favour of self-government. Thirdly, **Tilak** was released from jail in 1914, after six years. Finally, under the '**Seditious Meetings Act**,' some prominent Muslim leaders were arrested. This brought the Muslim League and the Congress closer."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "Changes in the Objectives of the Muslim League",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "In the beginning the League had support for the **British Government** as one of its objectives. In **1913**, the League had **amended its Constitution** to include, **'a system of self-government under the aegis of the British Crown'** as the ideal of the Muslim League. Therefore, it agreed with the Congress to have a political goal for India.\n\nThe unity of interests and objectives opened the doors for renewed cooperation between the Congress and the Muslim League. **Annie Besant** and **Bal Gangadhar Tilak** too played a significant role in bringing the two organisations together."
+            }
+          ]
+        },
+        {
+          "title": "A Compromise Between the Two Factions of the Congress",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**Annie Besant** tried to reunite the two wings of the Congress—the **Early Nationalists** and the **Assertive Nationalists**. **Tilak** rejoined the Congress in **1916** and played a major role in resolving differences between the Congress and the League."
+            }
+          ]
+        },
+        {
+          "title": "TERMS OF THE LUCKNOW PACT",
+          "sequence_number": 4,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Abolition of the India Council",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "1. **Abolition of the India Council**: The **India Council** of the **Secretary of State**, operating from England, should be abolished. The **Secretary of State for India** was to be assisted by two **Under-Secretaries**, of whom one should be an Indian."
+                }
+              ]
+            },
+            {
+              "title": "Provincial Legislatures",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Four-fifths** of the members of the Provincial Legislatures were to be **directly elected** and **one-fifth** to be **nominated**. The number of members in the provinces was laid down in the scheme. The number of Muslim members was laid down for each Province. They were to be elected through **separate electorates**. On the whole, the proportion of Muslim members was large, for example, **50 per cent in Punjab**, **40 per cent in Bengal** and **30 per cent in U.P**."
+                }
+              ]
+            },
+            {
+              "title": "Minorities in Elected Bodies",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **minorities** should have **adequate separate representation** in **elected bodies**."
+                }
+              ]
+            },
+            {
+              "title": "Limitation of the Imperial Legislature",
+              "sequence_number": 4,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Defence**, **foreign affairs** and **political relations of India**, i.e., **declaration of war**, or **signing of peace treaties**, were excluded from the control of the **Imperial Legislature**."
+                }
+              ]
+            },
+            {
+              "title": "Imperial Legislative Council",
+              "sequence_number": 5,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **Imperial Legislative Council** was to have **150 members**. Of these **four-fifths** were to be **elected** and **one-fifth nominated**. **One-third** of the elected members were to be **Muslims**."
+                }
+              ]
+            },
+            {
+              "title": "Powers of the Legislative Council",
+              "sequence_number": 6,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "All **Bills** passed by the Legislature were to be operative unless **vetoed by the Governor-General** in the Council. If the same Bill was passed again by the Legislative Council within a year, the government was obliged to pass it. Extensive power was to be given to the legislature for control over **financial matters**."
+                }
+              ]
+            },
+            {
+              "title": "Autonomy in Provinces",
+              "sequence_number": 7,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Provinces** were to be **autonomous** in their respective spheres."
+                }
+              ]
+            },
+            {
+              "title": "Viceroy's Executive Council",
+              "sequence_number": 8,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Half of the members of the **Viceroy's Executive Council** were to be **Indians**, elected by the elected members of the **Imperial Legislative Council**."
+                }
+              ]
+            },
+            {
+              "title": "Religious Interests",
+              "sequence_number": 9,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "No **Legislative Council** (Imperial or Provincial) was to proceed with any **Bill or Resolution**, affecting one or the other community, if **three-fourths of the members** of that community opposed it on the ground that it adversely affected their interests."
+                }
+              ]
+            },
+            {
+              "title": "Separation of Judiciary from Executive",
+              "sequence_number": 10,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Executive Officers** should not have **judicial powers**. Members of the **judiciary** in every Province were to be placed under the control of the **highest court** of that Province."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "SIGNIFICANCE OF THE LUCKNOW PACT",
+          "sequence_number": 5,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Hindu-Muslim Unity",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **joint scheme** symbolised **Hindu-Muslim unity**. Both the communities agreed to compromise in some areas for the common good. The **Congress** compromised on its secular character by accepting the scheme of **separate electorates for Muslims**. The **Muslim League** accepted the principles of **election** and the **majority rule**. As a result of this pact, the Hindus and the Muslims worked together from **1916 to 1922**."
+                }
+              ]
+            },
+            {
+              "title": "Unity Within the Congress",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The Lucknow Session and the signing of the **Lucknow Pact** brought about unity between the **Assertive Nationalists** and the **Early Nationalists**. After the **Surat Session of 1907**, both wings of the Congress were moving in different directions. They came together in **1916** and as a result, the Congress was strengthened. The Congress President of the **Lucknow Session of 1916**, **Ambica Charan Majumdar** rightly remarked, \"If the united Congress was buried at Surat, it is reborn at Lucknow.\""
+                }
+              ]
+            },
+            {
+              "title": "Pressure on the Government",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **unity** between the **Congress** and the **League** and between the **Early Nationalists** and the **Assertive Nationalists** became a threat to the **British Government of India**. Until now the Government had been repressing the **Nationalist Movement** by using force. The Government now had no excuse for delaying political or constitutional reforms."
+                }
+              ]
+            },
+            {
+              "title": "Necessity to Pacify Indians",
+              "sequence_number": 4,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "As the **First World War** continued, the leaders of the Congress and the League impressed upon the British Government that their demands for **Constitutional Reforms** should not be rejected if they wished Indians to be loyal to the British.\n\nThe Government, therefore, felt it necessary to pacify the Indians by the **Declaration of August 20, 1917** which promised a policy of gradual development of **self-government institutions** in India."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "Drawbacks of the Lucknow Pact",
+          "sequence_number": 6,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "1. The **Lucknow Pact** did not involve the masses. It was confined only to educated and rich Hindus and Muslims.\n2. The **Lucknow Pact** seemed to have laid stress on the separate interests of the Hindus and the Muslims and their separate political existence. The **Congress** made this apparent compromise for the sake of political unity. They thought that unity with the League would put more pressure on the British Government to grant political concessions.\n3. By accepting **separate electorates** for Muslims, the **Congress** lost its secular character and paved the way for future communal tension.\n4. The Pact provided for Muslim representation in the Council in excess of their proportion in the total population.\n5. The Pact provided for a '**Communal Veto**' in legislation, because no Legislature could proceed with any Bill if three-fourths of the members of a particular community opposed it.\n6. The **Lucknow Pact** was a temporary truce between the **Congress** and the **Muslim League**. The **Muslim League** still remained a separate entity, with a communal outlook, advocating that the Muslims' political interests were separate from those of the Hindus."
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    }
+  ],
+  "additional_sections": [
+    {
+      "title": "Congress and the League:",
+      "content_md": "[Image: The founding members of the All India Muslim League at Shah Bagh, Dacca (December, 1906).]\n\nWhen the British Government acted against the Turkish interests and supported the cause of the Balkan countries, the Indian Muslims stood up and launched the Khilafat Movement against the British. The Congress cooperated with them and the Khilafat issue was included as one of the demands of the Non-cooperation Movement. As a result, a pact which is known as the Lucknow Pact was signed. The Lucknow Pact refers to the joint scheme of political reforms agreed to by both the Congress and the Muslim League in 1916 regarding the structure of government in India and the relationship between the Hindus and the Muslims. According to this Pact, the Congress accepted the concept of communal electorate which subsequently added to the communal bitterness."
+    },
+    {
+      "title": "Partition of the Country on Communal Lines:",
+      "content_md": "The communal divide continued. In 1930 the idea of two nation states was born and in the 1940 session of the League at Lahore, Jinnah put forward his two-nation theory. Thus, despite a severe opposition from Gandhiji, the country drifted towards the partition. The communal riots broke out in the country and in 1947, a separate country, Pakistan, came into existence."
+    },
+    {
+      "title": "Signatories of the Pact",
+      "content_md": "In 1916, the Congress and the League again held simultaneous sessions at Lucknow. The joint scheme of political reforms was put forward and adopted by both parties in 1916. This agreement signed by the two parties is known as the Lucknow Pact. It was signed by the Indian National Congress and the All India Muslim League headed by Bal Gangadhar Tilak and Mohammad Ali Jinnah, respectively."
+    }
+  ],
+  "needs_review": [],
+  "manifest": {
+    "syllabus_leaves": [
+      {
+        "path": "THE GROWTH OF COMMUNALISM",
+        "path_titles": [
+          "THE GROWTH OF COMMUNALISM"
+        ],
+        "title": "THE GROWTH OF COMMUNALISM",
+        "sequence_number": 1,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "FACTORS LEADING TO THE FORMATION OF THE MUSLIM LEAGUE > Loss of Sovereignty by Mughal Rulers",
+        "path_titles": [
+          "FACTORS LEADING TO THE FORMATION OF THE MUSLIM LEAGUE",
+          "Loss of Sovereignty by Mughal Rulers"
+        ],
+        "title": "Loss of Sovereignty by Mughal Rulers",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "FACTORS LEADING TO THE FORMATION OF THE MUSLIM LEAGUE > British Policy of Divide and Rule > In 1871 Lord Mayo's government adopted...",
+        "path_titles": [
+          "FACTORS LEADING TO THE FORMATION OF THE MUSLIM LEAGUE",
+          "British Policy of Divide and Rule",
+          "In 1871 Lord Mayo's government adopted..."
+        ],
+        "title": "In 1871 Lord Mayo's government adopted...",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "FACTORS LEADING TO THE FORMATION OF THE MUSLIM LEAGUE > British Policy of Divide and Rule > They tried to create hatred among the...",
+        "path_titles": [
+          "FACTORS LEADING TO THE FORMATION OF THE MUSLIM LEAGUE",
+          "British Policy of Divide and Rule",
+          "They tried to create hatred among the..."
+        ],
+        "title": "They tried to create hatred among the...",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "FACTORS LEADING TO THE FORMATION OF THE MUSLIM LEAGUE > British Policy of Divide and Rule > They tried to justify the Partition of Bengal...",
+        "path_titles": [
+          "FACTORS LEADING TO THE FORMATION OF THE MUSLIM LEAGUE",
+          "British Policy of Divide and Rule",
+          "They tried to justify the Partition of Bengal..."
+        ],
+        "title": "They tried to justify the Partition of Bengal...",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "FACTORS LEADING TO THE FORMATION OF THE MUSLIM LEAGUE > British Policy of Divide and Rule > They tried to utilise the caste structure...",
+        "path_titles": [
+          "FACTORS LEADING TO THE FORMATION OF THE MUSLIM LEAGUE",
+          "British Policy of Divide and Rule",
+          "They tried to utilise the caste structure..."
+        ],
+        "title": "They tried to utilise the caste structure...",
+        "sequence_number": 4,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "FACTORS LEADING TO THE FORMATION OF THE MUSLIM LEAGUE > British Policy of Divide and Rule > They treated Hindus, Muslims and Sikhs...",
+        "path_titles": [
+          "FACTORS LEADING TO THE FORMATION OF THE MUSLIM LEAGUE",
+          "British Policy of Divide and Rule",
+          "They treated Hindus, Muslims and Sikhs..."
+        ],
+        "title": "They treated Hindus, Muslims and Sikhs...",
+        "sequence_number": 5,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "FACTORS LEADING TO THE FORMATION OF THE MUSLIM LEAGUE > British Policy of Divide and Rule > They tried to spread communal hatred...",
+        "path_titles": [
+          "FACTORS LEADING TO THE FORMATION OF THE MUSLIM LEAGUE",
+          "British Policy of Divide and Rule",
+          "They tried to spread communal hatred..."
+        ],
+        "title": "They tried to spread communal hatred...",
+        "sequence_number": 6,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "FACTORS LEADING TO THE FORMATION OF THE MUSLIM LEAGUE > Relative Backwardness of the Muslim Community in Education, Trade and Industry > The upper class Muslims comprising...",
+        "path_titles": [
+          "FACTORS LEADING TO THE FORMATION OF THE MUSLIM LEAGUE",
+          "Relative Backwardness of the Muslim Community in Education, Trade and Industry",
+          "The upper class Muslims comprising..."
+        ],
+        "title": "The upper class Muslims comprising...",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "FACTORS LEADING TO THE FORMATION OF THE MUSLIM LEAGUE > Relative Backwardness of the Muslim Community in Education, Trade and Industry > The British government in India had...",
+        "path_titles": [
+          "FACTORS LEADING TO THE FORMATION OF THE MUSLIM LEAGUE",
+          "Relative Backwardness of the Muslim Community in Education, Trade and Industry",
+          "The British government in India had..."
+        ],
+        "title": "The British government in India had...",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "FACTORS LEADING TO THE FORMATION OF THE MUSLIM LEAGUE > Relative Backwardness of the Muslim Community in Education, Trade and Industry > The Muslim community was not much...",
+        "path_titles": [
+          "FACTORS LEADING TO THE FORMATION OF THE MUSLIM LEAGUE",
+          "Relative Backwardness of the Muslim Community in Education, Trade and Industry",
+          "The Muslim community was not much..."
+        ],
+        "title": "The Muslim community was not much...",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "FACTORS LEADING TO THE FORMATION OF THE MUSLIM LEAGUE > Relative Backwardness of the Muslim Community in Education, Trade and Industry > Some members of the Muslim community...",
+        "path_titles": [
+          "FACTORS LEADING TO THE FORMATION OF THE MUSLIM LEAGUE",
+          "Relative Backwardness of the Muslim Community in Education, Trade and Industry",
+          "Some members of the Muslim community..."
+        ],
+        "title": "Some members of the Muslim community...",
+        "sequence_number": 4,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "FACTORS LEADING TO THE FORMATION OF THE MUSLIM LEAGUE > Role of Sir Sayyid Ahmad Khan",
+        "path_titles": [
+          "FACTORS LEADING TO THE FORMATION OF THE MUSLIM LEAGUE",
+          "Role of Sir Sayyid Ahmad Khan"
+        ],
+        "title": "Role of Sir Sayyid Ahmad Khan",
+        "sequence_number": 4,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "FACTORS LEADING TO THE FORMATION OF THE MUSLIM LEAGUE > Erroneous Interpretation of History > Some British and communal historians...",
+        "path_titles": [
+          "FACTORS LEADING TO THE FORMATION OF THE MUSLIM LEAGUE",
+          "Erroneous Interpretation of History",
+          "Some British and communal historians..."
+        ],
+        "title": "Some British and communal historians...",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "FACTORS LEADING TO THE FORMATION OF THE MUSLIM LEAGUE > Erroneous Interpretation of History > The British and communal historians...",
+        "path_titles": [
+          "FACTORS LEADING TO THE FORMATION OF THE MUSLIM LEAGUE",
+          "Erroneous Interpretation of History",
+          "The British and communal historians..."
+        ],
+        "title": "The British and communal historians...",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "FACTORS LEADING TO THE FORMATION OF THE MUSLIM LEAGUE > Erroneous Interpretation of History > Some communal historians highlighted...",
+        "path_titles": [
+          "FACTORS LEADING TO THE FORMATION OF THE MUSLIM LEAGUE",
+          "Erroneous Interpretation of History",
+          "Some communal historians highlighted..."
+        ],
+        "title": "Some communal historians highlighted...",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "FACTORS LEADING TO THE FORMATION OF THE MUSLIM LEAGUE > Erroneous Interpretation of History > The communal bias was propagated...",
+        "path_titles": [
+          "FACTORS LEADING TO THE FORMATION OF THE MUSLIM LEAGUE",
+          "Erroneous Interpretation of History",
+          "The communal bias was propagated..."
+        ],
+        "title": "The communal bias was propagated...",
+        "sequence_number": 4,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "FACTORS LEADING TO THE FORMATION OF THE MUSLIM LEAGUE > Rise of Assertive Nationalism",
+        "path_titles": [
+          "FACTORS LEADING TO THE FORMATION OF THE MUSLIM LEAGUE",
+          "Rise of Assertive Nationalism"
+        ],
+        "title": "Rise of Assertive Nationalism",
+        "sequence_number": 6,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "FACTORS LEADING TO THE FORMATION OF THE MUSLIM LEAGUE > Economic Backwardness of the Country",
+        "path_titles": [
+          "FACTORS LEADING TO THE FORMATION OF THE MUSLIM LEAGUE",
+          "Economic Backwardness of the Country"
+        ],
+        "title": "Economic Backwardness of the Country",
+        "sequence_number": 7,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "EVENTS LEADING TO THE FORMATION OF THE MUSLIM LEAGUE > The Hindi-Urdu Controversy",
+        "path_titles": [
+          "EVENTS LEADING TO THE FORMATION OF THE MUSLIM LEAGUE",
+          "The Hindi-Urdu Controversy"
+        ],
+        "title": "The Hindi-Urdu Controversy",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "EVENTS LEADING TO THE FORMATION OF THE MUSLIM LEAGUE > Foundation of Mohammedan Anglo-Oriental Association (1893)",
+        "path_titles": [
+          "EVENTS LEADING TO THE FORMATION OF THE MUSLIM LEAGUE",
+          "Foundation of Mohammedan Anglo-Oriental Association (1893)"
+        ],
+        "title": "Foundation of Mohammedan Anglo-Oriental Association (1893)",
+        "sequence_number": 2,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "EVENTS LEADING TO THE FORMATION OF THE MUSLIM LEAGUE > The Aligarh Politics",
+        "path_titles": [
+          "EVENTS LEADING TO THE FORMATION OF THE MUSLIM LEAGUE",
+          "The Aligarh Politics"
+        ],
+        "title": "The Aligarh Politics",
+        "sequence_number": 3,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "EVENTS LEADING TO THE FORMATION OF THE MUSLIM LEAGUE > Partition of Bengal (1905)",
+        "path_titles": [
+          "EVENTS LEADING TO THE FORMATION OF THE MUSLIM LEAGUE",
+          "Partition of Bengal (1905)"
+        ],
+        "title": "Partition of Bengal (1905)",
+        "sequence_number": 4,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "EVENTS LEADING TO THE FORMATION OF THE MUSLIM LEAGUE > Muslim Deputation to the Viceroy, Lord Minto",
+        "path_titles": [
+          "EVENTS LEADING TO THE FORMATION OF THE MUSLIM LEAGUE",
+          "Muslim Deputation to the Viceroy, Lord Minto"
+        ],
+        "title": "Muslim Deputation to the Viceroy, Lord Minto",
+        "sequence_number": 5,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "FORMATION OF THE MUSLIM LEAGUE",
+        "path_titles": [
+          "FORMATION OF THE MUSLIM LEAGUE"
+        ],
+        "title": "FORMATION OF THE MUSLIM LEAGUE",
+        "sequence_number": 4,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "OBJECTIVES OF THE MUSLIM LEAGUE",
+        "path_titles": [
+          "OBJECTIVES OF THE MUSLIM LEAGUE"
+        ],
+        "title": "OBJECTIVES OF THE MUSLIM LEAGUE",
+        "sequence_number": 5,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "IMPACT OF THE MUSLIM LEAGUE ON THE NATIONAL MOVEMENT > League's Role in the Beginning",
+        "path_titles": [
+          "IMPACT OF THE MUSLIM LEAGUE ON THE NATIONAL MOVEMENT",
+          "League's Role in the Beginning"
+        ],
+        "title": "League's Role in the Beginning",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "IMPACT OF THE MUSLIM LEAGUE ON THE NATIONAL MOVEMENT > Government Support to the League",
+        "path_titles": [
+          "IMPACT OF THE MUSLIM LEAGUE ON THE NATIONAL MOVEMENT",
+          "Government Support to the League"
+        ],
+        "title": "Government Support to the League",
+        "sequence_number": 2,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "IMPACT OF THE MUSLIM LEAGUE ON THE NATIONAL MOVEMENT > The Phase of Rapprochement",
+        "path_titles": [
+          "IMPACT OF THE MUSLIM LEAGUE ON THE NATIONAL MOVEMENT",
+          "The Phase of Rapprochement"
+        ],
+        "title": "The Phase of Rapprochement",
+        "sequence_number": 3,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "THE LUCKNOW PACT > Circumstances Leading to the Lucknow Pact > International Events",
+        "path_titles": [
+          "THE LUCKNOW PACT",
+          "Circumstances Leading to the Lucknow Pact",
+          "International Events"
+        ],
+        "title": "International Events",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "THE LUCKNOW PACT > Circumstances Leading to the Lucknow Pact > National Events",
+        "path_titles": [
+          "THE LUCKNOW PACT",
+          "Circumstances Leading to the Lucknow Pact",
+          "National Events"
+        ],
+        "title": "National Events",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "THE LUCKNOW PACT > Changes in the Objectives of the Muslim League",
+        "path_titles": [
+          "THE LUCKNOW PACT",
+          "Changes in the Objectives of the Muslim League"
+        ],
+        "title": "Changes in the Objectives of the Muslim League",
+        "sequence_number": 2,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "THE LUCKNOW PACT > A Compromise Between the Two Factions of the Congress",
+        "path_titles": [
+          "THE LUCKNOW PACT",
+          "A Compromise Between the Two Factions of the Congress"
+        ],
+        "title": "A Compromise Between the Two Factions of the Congress",
+        "sequence_number": 3,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "THE LUCKNOW PACT > TERMS OF THE LUCKNOW PACT > Abolition of the India Council",
+        "path_titles": [
+          "THE LUCKNOW PACT",
+          "TERMS OF THE LUCKNOW PACT",
+          "Abolition of the India Council"
+        ],
+        "title": "Abolition of the India Council",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "THE LUCKNOW PACT > TERMS OF THE LUCKNOW PACT > Provincial Legislatures",
+        "path_titles": [
+          "THE LUCKNOW PACT",
+          "TERMS OF THE LUCKNOW PACT",
+          "Provincial Legislatures"
+        ],
+        "title": "Provincial Legislatures",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "THE LUCKNOW PACT > TERMS OF THE LUCKNOW PACT > Minorities in Elected Bodies",
+        "path_titles": [
+          "THE LUCKNOW PACT",
+          "TERMS OF THE LUCKNOW PACT",
+          "Minorities in Elected Bodies"
+        ],
+        "title": "Minorities in Elected Bodies",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "THE LUCKNOW PACT > TERMS OF THE LUCKNOW PACT > Limitation of the Imperial Legislature",
+        "path_titles": [
+          "THE LUCKNOW PACT",
+          "TERMS OF THE LUCKNOW PACT",
+          "Limitation of the Imperial Legislature"
+        ],
+        "title": "Limitation of the Imperial Legislature",
+        "sequence_number": 4,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "THE LUCKNOW PACT > TERMS OF THE LUCKNOW PACT > Imperial Legislative Council",
+        "path_titles": [
+          "THE LUCKNOW PACT",
+          "TERMS OF THE LUCKNOW PACT",
+          "Imperial Legislative Council"
+        ],
+        "title": "Imperial Legislative Council",
+        "sequence_number": 5,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "THE LUCKNOW PACT > TERMS OF THE LUCKNOW PACT > Powers of the Legislative Council",
+        "path_titles": [
+          "THE LUCKNOW PACT",
+          "TERMS OF THE LUCKNOW PACT",
+          "Powers of the Legislative Council"
+        ],
+        "title": "Powers of the Legislative Council",
+        "sequence_number": 6,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "THE LUCKNOW PACT > TERMS OF THE LUCKNOW PACT > Autonomy in Provinces",
+        "path_titles": [
+          "THE LUCKNOW PACT",
+          "TERMS OF THE LUCKNOW PACT",
+          "Autonomy in Provinces"
+        ],
+        "title": "Autonomy in Provinces",
+        "sequence_number": 7,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "THE LUCKNOW PACT > TERMS OF THE LUCKNOW PACT > Viceroy's Executive Council",
+        "path_titles": [
+          "THE LUCKNOW PACT",
+          "TERMS OF THE LUCKNOW PACT",
+          "Viceroy's Executive Council"
+        ],
+        "title": "Viceroy's Executive Council",
+        "sequence_number": 8,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "THE LUCKNOW PACT > TERMS OF THE LUCKNOW PACT > Religious Interests",
+        "path_titles": [
+          "THE LUCKNOW PACT",
+          "TERMS OF THE LUCKNOW PACT",
+          "Religious Interests"
+        ],
+        "title": "Religious Interests",
+        "sequence_number": 9,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "THE LUCKNOW PACT > TERMS OF THE LUCKNOW PACT > Separation of Judiciary from Executive",
+        "path_titles": [
+          "THE LUCKNOW PACT",
+          "TERMS OF THE LUCKNOW PACT",
+          "Separation of Judiciary from Executive"
+        ],
+        "title": "Separation of Judiciary from Executive",
+        "sequence_number": 10,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "THE LUCKNOW PACT > SIGNIFICANCE OF THE LUCKNOW PACT > Hindu-Muslim Unity",
+        "path_titles": [
+          "THE LUCKNOW PACT",
+          "SIGNIFICANCE OF THE LUCKNOW PACT",
+          "Hindu-Muslim Unity"
+        ],
+        "title": "Hindu-Muslim Unity",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "THE LUCKNOW PACT > SIGNIFICANCE OF THE LUCKNOW PACT > Unity Within the Congress",
+        "path_titles": [
+          "THE LUCKNOW PACT",
+          "SIGNIFICANCE OF THE LUCKNOW PACT",
+          "Unity Within the Congress"
+        ],
+        "title": "Unity Within the Congress",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "THE LUCKNOW PACT > SIGNIFICANCE OF THE LUCKNOW PACT > Pressure on the Government",
+        "path_titles": [
+          "THE LUCKNOW PACT",
+          "SIGNIFICANCE OF THE LUCKNOW PACT",
+          "Pressure on the Government"
+        ],
+        "title": "Pressure on the Government",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "THE LUCKNOW PACT > SIGNIFICANCE OF THE LUCKNOW PACT > Necessity to Pacify Indians",
+        "path_titles": [
+          "THE LUCKNOW PACT",
+          "SIGNIFICANCE OF THE LUCKNOW PACT",
+          "Necessity to Pacify Indians"
+        ],
+        "title": "Necessity to Pacify Indians",
+        "sequence_number": 4,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "THE LUCKNOW PACT > Drawbacks of the Lucknow Pact",
+        "path_titles": [
+          "THE LUCKNOW PACT",
+          "Drawbacks of the Lucknow Pact"
+        ],
+        "title": "Drawbacks of the Lucknow Pact",
+        "sequence_number": 6,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      }
+    ],
+    "stray_leaves": [
+      {
+        "title": "Congress and the League:",
+        "insert_after_index": 34,
+        "micro_topics": [],
+        "has_notes": true
+      },
+      {
+        "title": "Partition of the Country on Communal Lines:",
+        "insert_after_index": 34,
+        "micro_topics": [],
+        "has_notes": true
+      },
+      {
+        "title": "Signatories of the Pact",
+        "insert_after_index": 41,
+        "micro_topics": [],
+        "has_notes": true
+      }
+    ]
+  }
+}

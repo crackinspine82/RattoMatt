@@ -52,29 +52,39 @@
       "FOOD, DRESS AND AMUSEMENTS",
       "RELIGIOUS BELIEFS",
       "ECONOMY",
-      "A Comparison: Early Vedic Age and Later Vedic Age"
+      "Trade:",
+      "Occupations:"
     ],
-    "in_syllabus_only": [],
+    "in_syllabus_only": [
+      "(i)",
+      "(ii)",
+      "(i)",
+      "(ii)",
+      "(iii)",
+      "(iv)",
+      "(v)",
+      "(vi)"
+    ],
     "in_pdf_only": [
       {
-        "title": "*ORIGIN OF THE ARYANS",
-        "insert_after_index": 35,
+        "title": "Trade:",
+        "insert_after_index": 46,
         "micro_topics": []
       },
       {
-        "title": "A Comparison: Early Vedic Age and Later Vedic Age",
-        "insert_after_index": 45,
+        "title": "Occupations:",
+        "insert_after_index": 46,
         "micro_topics": []
       }
     ],
     "additional_sections": [
       {
-        "title": "*ORIGIN OF THE ARYANS",
-        "content_md": "*ORIGIN OF THE ARYANS\n\nThe origin of the Aryans as well as the background of the people who settled in India is full of controversies. Some historians believe that Aryans were the natives of India. Others like Bal Gangadhar Tilak, after the study of Rig Veda and Zend Avesta, concluded that the original home of the Aryans was the Arctic region. A.C. Das, a historian tried to prove that the original home of the Aryans was India. According to him, they lived in the Sapta Sindhu (Punjab) and migrated to other parts of India. Swami Dayanand Saraswati believed that Tibet was the home of the Aryans.\n\nProfessor Max Mueller, the German scholar, believed that the Aryans came to India from Central Asia. He gave two reasons in support of this theory. The first wave of migrations from the Steppes, Central Asia had started around 1500BC. The Aryans bore strong resemblance to bands of warlike people of Central Asia. The Central Asian theory holds the origin of Romans, Celts, Indians, Greeks and Persians from the same stock.\n\nMany historians agree with the Central Asian Theory of Max Mueller. Their reasons for accepting the theory are:\n1. In ancient times, the land in Asia Minor was fertile which made it suitable for agriculture and domestication of animals.\n2. The stone inscriptions discovered in Asia Minor prove that the Aryan gods like Indra and Varuna, were worshipped in ancient times.\n3. The flora and fauna and objects referred to in the Rig Veda were found in Asia Minor.\n4. Asia Minor is equidistance from Europe and India.\n5. Biologists noticed the genetic traits (DNA) of the Steppe people of Central Asia and found similar traits in 35 per cent of the people in north India. Thus, they concluded that the Indo-Aryans migrated from Central Asia to India.\n\nHowever, the issue of the origin of the Aryans is still being disputed.\n\n* This is additional information."
+        "title": "Trade:",
+        "content_md": "During the Later Vedic phase agricultural surplus led to trade, giving rise to markets from which developed towns and cities. Thus, trade became the pivot around which the whole town and city life moved. Although the Aryans had introduced coins, barter system was still dominant in trade with other countries."
       },
       {
-        "title": "A Comparison: Early Vedic Age and Later Vedic Age",
-        "content_md": "A Comparison: Early Vedic Age and Later Vedic Age\n\n| Basis of Comparison | Early Vedic Age | Later Vedic Age |\n| :--- | :--- | :--- |\n| **Society** | | |\n| | Family was the basic unit. | Joint Family System prevailed. |\n| | Women enjoyed equal rights. | Significant decline in status of women. |\n| | Rigid caste system did not prevail. | The caste system was becoming rigid. |\n| | Gurukul system of education. | Gurukul system was further enlarged. |\n| | Food included milk, barley, fruits, vegetables and meat. | Consumption of meat was reduced. Rice became staple cereal. |\n| | Worship of nature and natural phenomena prevailed. | Religion became more complex. |\n| | Indra, Agni, Varuna, Mitra, Surya, etc. were worshipped. | Brahma; Rama and Krishna as incarnations of Vishnu and Shiva came to be worshipped. |\n| | Absence of temples and idols. Hymns were chanted in the open. Worship of forefathers and belief in life after death prevailed. | Brahmins introduced many rituals and made their position secure. Faith in superstitions and spells. New principles like penance, doctrines of Karma, Dharma and Moksha developed. |\n| **Economy** | | |\n| | In the beginning the main occupation was domestication of animals and agriculture was secondary. | Agriculture became the chief occupation while domestication of animals also continued. |\n| | Cattle was the important source of wealth. | Land was the important source of wealth. |\n| | Many engaged in trade and commerce. Dyeing, embroidery; carpentry, weaving, pottery, crafts in gold and iron were important occupations. | Traders guilds had come up and trade had become very important. Besides occupations of earlier period, many new occupations like physicians, musicians, and many other professions emerged. |"
+        "title": "Occupations:",
+        "content_md": "Besides agriculture and trade, other important occupations included domestication of animals, crafts in various metals, carpentry, pottery, fishery, etc. Women were engaged in spinning, weaving, knitting and dyeing."
       }
     ]
   },
@@ -105,7 +115,7 @@
                   "children": [],
                   "content_blocks": [
                     {
-                      "content_md": "It is the **oldest religious text** in the world and is, therefore, known as '**the first testament of mankind**'. It is divided into **10 mandalas**. It is said to have been composed during the **Early Vedic Period**. The hymns are dedicated by the sages to Gods. They were passed on orally from teachers to their disciples. The **Rig Vedic hymns** are the authentic sources of knowledge of the life of people of the time. Much of the Indian philosophy is based on the **Rig Veda**. It also contains the famous '**Gayatri mantra**'."
+                      "content_md": "The **Rig Veda** is the **oldest religious text** in the world and is, therefore, known as '**the first testament of mankind**'. It is divided into **10 mandalas**. It is said to have been composed during the **Early Vedic Period**. The hymns are dedicated by the sages to Gods. They were passed on orally from teachers to their disciples. The **Rig Vedic hymns** are the authentic sources of knowledge of the life of people of the time. Much of the Indian philosophy is based on the Rig Veda. It also contains the famous '**Gayatri mantra**'."
                     }
                   ]
                 },
@@ -117,7 +127,7 @@
                   "children": [],
                   "content_blocks": [
                     {
-                      "content_md": "The term, **'Sama'** means **'Sweet Song'** or **'the melody'**. In this Veda, some of the hymns are borrowed from the **Rig Veda**. The hymns in **Sama Veda** were meant to be sung at the time of the sacrifice by the priests."
+                      "content_md": "The term, **‘Sama’** means **‘Sweet Song’** or **‘the melody’**. In this Veda, some of the hymns are borrowed from the **Rig Veda**. The hymns in **Sama Veda** were meant to be sung at the time of the sacrifice by the **priests**."
                     }
                   ]
                 },
@@ -129,7 +139,7 @@
                   "children": [],
                   "content_blocks": [
                     {
-                      "content_md": "It deals with hymns recited during the performance of **Yajnas**. The hymns in this Veda throw light on the **social and religious life** of the **Aryans**."
+                      "content_md": "It deals with hymns recited during the performance of **Yajnas**. The hymns in this Veda throw light on the **social and religious life** of the Aryans."
                     }
                   ]
                 },
@@ -141,7 +151,7 @@
                   "children": [],
                   "content_blocks": [
                     {
-                      "content_md": "The hymns contained in this Veda deal with **magic and charm**. Most of the hymns are taken from the **Rig Veda**. Besides the powers of spirits, the hymns deal with **gyan** (knowledge), **karma** (action) and **upasana** (invocation). Some hymns also deal with **medicines for the treatment of various diseases**."
+                      "content_md": "The hymns contained in this Veda deal with **magic and charm**. Most of the hymns are taken from the Rig Veda. Besides the power of spirits, the hymns deal with **gyan** (knowledge), **karma** (action) and **upasana** (invocation). Some hymns also deal with medicines for the treatment of various diseases."
                     }
                   ]
                 }
@@ -156,7 +166,7 @@
               "children": [],
               "content_blocks": [
                 {
-                  "content_md": "Written after the Vedas as their simple commentary, the **Brahmanas** are in **prose**. They explain the social and religious importance of **rituals** as well as the value of **sacrifices**. The **Brahmanas** are of great historical value. Each Veda has several **Brahmanas**."
+                  "content_md": "Written after the **Vedas** as their simple commentary, the **Brahmanas** are in **prose**. They explain the **social and religious importance of rituals** as well as the **value of sacrifices**. The **Brahmanas** are of great **historical value**. Each Veda has several **Brahmanas**."
                 }
               ]
             },
@@ -168,7 +178,7 @@
               "children": [],
               "content_blocks": [
                 {
-                  "content_md": "They are known as **‘forest books’** written for the guidance of the **hermits** and the **students living in forests**. They form the concluding part of the **Brahmanas**. Their main themes are **mysticism** and **philosophy**."
+                  "content_md": "They are known as **‘forest books’** written for the guidance of the hermits and the students living in forests. They form the concluding part of the **Brahmanas**. Their main themes are **mysticism** and **philosophy**."
                 }
               ]
             },
@@ -178,14 +188,7 @@
               "depth": 2,
               "level_label": "Subtopic",
               "children": [],
-              "content_blocks": [
-                {
-                  "content_md": "They are philosophical commentaries on the Vedas. The doctrines such as **Karma**, **Moksha** and **Maya** are explained in detail. The Upanishads form the basic source of Indian philosophy. Composed by different sages, they are said to form the foundation on which later additions to Vedic Literature rest. The most famous of these Upanishads are **Chandogya Upanishad**, **Kena Upanishad**, **Aitareya Upanishad** and **Taittiriya Upanishad**."
-                },
-                {
-                  "content_md": "[Image: Sages Performing Yajna]"
-                }
-              ]
+              "content_blocks": []
             },
             {
               "title": "ALLIED VEDIC LITERATURE",
@@ -201,7 +204,7 @@
                   "children": [],
                   "content_blocks": [
                     {
-                      "content_md": "The **Vedangas** deal with the ways in which the Vedas ought to be chanted; and are thus important in the **understanding of the Vedas**. The six Vedangas deal with **pronunciation**, **grammar**, **etymology**, **metrics**, **rituals** and **astronomy**."
+                      "content_md": "The **Vedangas** deal with the ways in which the Veda ought to be chanted, and are thus important for the understanding of the Vedas. The six Vedangas deal with **pronunciation, grammar, etymology, metrics, rituals** and **astronomy**."
                     }
                   ]
                 },
@@ -213,7 +216,7 @@
                   "children": [],
                   "content_blocks": [
                     {
-                      "content_md": "The **Sutras** are divided into three groups:\n*   The **Srautasutras**, which deal with **yajna** and **sacrifices**.\n*   The **Grihyasutras** or **Smartasutras**, which deal with the ceremonies connected with **family life**.\n*   The **Dharmasutras**, which provide **rules of conduct** for the various classes of people and the various stages in their life."
+                      "content_md": "The **Sutras** are divided into three groups: \n*   the **Shrautasutras**, which deal with **yajna** and **sacrifices**;\n*   the **Grihyasutras** or **Smartasutras**, which deal with the ceremonies connected with family life; and\n*   the **Dharmasutras**, which provide rules of conduct for the various classes of people and the various stages in their life."
                     }
                   ]
                 },
@@ -225,7 +228,7 @@
                   "children": [],
                   "content_blocks": [
                     {
-                      "content_md": "As the name suggests, the **Upavedas** are **subsidiary Vedas**. They are four in number.\n\n*   **Ayurveda** deals with the **Indian system of medicine**.\n*   The **Dhanurveda**, describes the **art of warfare**.\n*   **Gandharvaveda** describes the **art of music**.\n*   **Shilpaveda** deals with **art and architecture**."
+                      "content_md": "As the name suggests, the **Upavedas** are **subsidiary Vedas**. They are four in number.\n\n*   **Ayurveda** deals with the **Indian system of medicine**.\n*   The **Dhanurveda** describes the **art of warfare**.\n*   **Gandharvaveda** describes the **art of music**.\n*   **Shilpaveda** deals with **art and architecture**."
                     }
                   ]
                 },
@@ -237,7 +240,7 @@
                   "children": [],
                   "content_blocks": [
                     {
-                      "content_md": "There are six schools of Indian philosophy known as **Shad-Darshanas**. They include:\n*   **Nyaya Darshana**\n*   **Vaishesika**\n*   **Sankhya**\n*   **Yoga**\n*   **Purva Mimamsa**\n*   **Uttar Mimamsa**\n\nThey all propagate the virtues of life and are opposed to external rituals."
+                      "content_md": "There are six schools of Indian philosophy known as **Shad-Darshanas**. They include — **Nyaya-Darshana, Vaishesika, Sankhya, Yoga, Purva Mimansa, and Uttar Mimansa**. They all propound the virtues of life and are opposed to eternal rituals."
                     }
                   ]
                 },
@@ -249,7 +252,7 @@
                   "children": [],
                   "content_blocks": [
                     {
-                      "content_md": "The law-books called the **Dharmasutras** and the **Smritis** together with their commentaries, are called **Dharmashastras**. They lay down the duties for different classes of people as well as for kings and their officials. **Manusmriti** gives the description of Hindu code of law including the **Varnas (the Castes)** and the **Ashramas**."
+                      "content_md": "The **law-books** called the **Dharmasutras** and the **Smritis** together with their commentaries are called **Dharmashastras**. They lay down the duties for different classes of people as well as for kings and their officials. **Manusmriti** gives the description of **Hindu code of law** including the **Varnas** (the Castes) and the **Ashramas**."
                     }
                   ]
                 },
@@ -261,7 +264,7 @@
                   "children": [],
                   "content_blocks": [
                     {
-                      "content_md": "The **Ashtadhyayi** is a treatise on **Sanskrit grammar** by **Panini**. Information is given about the roots of the words and the context in which they were used in **Vedic literature**."
+                      "content_md": "The **Ashtadhyayi** is a treatise on **Sanskrit grammar** by **Panini**. Information is given about the roots of the words and the context in which they were used in Vedic literature."
                     }
                   ]
                 }
@@ -282,7 +285,7 @@
                   "children": [],
                   "content_blocks": [
                     {
-                      "content_md": "It is the **oldest religious text** in the world and is, therefore, known as **‘the first testament of mankind’**. It is divided into **10 mandalas**. It is said to have been composed during the **Early Vedic Period**. The **hymns** are dedicated by the sages to Gods. They were passed on orally from teachers to their disciples. The **Rig Vedic hymns** are the authentic sources of knowledge of the life of people of the time. Much of the Indian philosophy is based on the **Rig Veda**. It also contains the famous **‘Gayatri mantra’**."
+                      "content_md": "**(i) The Rig Veda:** It is the **oldest religious text in the world** and is, therefore, known as **‘the first testament of mankind’**. It is divided into **10 mandalas**. It is said to have been composed during the **Early Vedic Period**. The hymns are dedicated by the sages to Gods. They were passed on orally from teachers to their disciples. The **Rig Vedic hymns** are the authentic sources of knowledge of the life of people of the time. Much of the Indian philosophy is based on the Rig Veda. It also contains the famous **‘Gayatri mantra’**."
                     }
                   ]
                 },
@@ -300,61 +303,52 @@
                 }
               ],
               "content_blocks": []
-            }
-          ],
-          "content_blocks": []
-        },
-        {
-          "title": "2. THE EPICS",
-          "sequence_number": 2,
-          "depth": 1,
-          "level_label": "Topic",
-          "children": [
-            {
-              "title": "Ramayana:",
-              "sequence_number": 1,
-              "depth": 2,
-              "level_label": "Subtopic",
-              "children": [],
-              "content_blocks": [
-                {
-                  "content_md": "The **Ramayana** was originally composed in **Sanskrit**. The Sanskrit version is said to be the work of **Maharishi Valmiki**.\n\nThe story of **Ramayana** revolves around **Rama** and the abduction of his wife **Sita** by a demon king, **Ravana**. The battle between **Rama** and **Ravana**; duty, devotion and love shown by the brothers is told in detail."
-                },
-                {
-                  "content_md": "**Rama** was the eldest of the four sons of **Dashratha**, the ruler of **Ayodhya**, who had three queens. **Rama** was the son of the eldest queen, **Kaushalya** and was the heir apparent to the throne. After **Rama** was married to **Sita**, he was to be installed as the king. At this juncture, King **Dashratha's** other queen **Kaikeyi** reminded him of the promise he had made earlier to grant her a wish. **Kaikeyi** wanted her son **Bharata** to be the king and **Rama** to be sent into exile for fourteen years. **Rama** along with his wife **Sita** and brother, **Lakshmana** went to the forest.\n\nIn disguise of a sanyasi, **Ravana**, the demon king, abducted **Sita** and took her to **Lanka**."
-                },
-                {
-                  "content_md": "[Image: A scene from the Ramayana.]"
-                },
-                {
-                  "content_md": "**Rama** took the help of **Sugriva** and **Hanuman**. They crossed the ocean and defeated **Ravana**. **Rama** then, along with **Sita** and **Lakshmana** proceeded home having completed the fourteen years' exile. He was crowned the king."
-                }
-              ]
             },
             {
-              "title": "Mahabharata:",
-              "sequence_number": 2,
+              "title": "2. THE EPICS",
+              "sequence_number": 7,
               "depth": 2,
               "level_label": "Subtopic",
-              "children": [],
-              "content_blocks": [
+              "children": [
                 {
-                  "content_md": "Believed to be the work of **sage Vyasa**, the **Mahabharata** is written in **Sanskrit** language. Originally, it was called **Jaya** or the collection dealing with victory. Subsequently it came to be known as **Bharata**, because it contains the stories of the descendants of one of the earliest Vedic tribes called **Bharata**. The final compilation came to be known as **Mahabharata**."
+                  "title": "Ramayana:",
+                  "sequence_number": 1,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "The **Ramayana** was originally composed in **Sanskrit**. The Sanskrit version is said to be the work of **Maharishi Valmiki**.\n\nThe story of **Ramayana** revolves around **Rama** and the abduction of his wife **Sita** by a demon king, **Ravana**. The battle between **Rama** and **Ravana**; duty, devotion and love shown by the brothers is told in detail.\n\n**Rama** was the eldest of the four sons of **Dashratha**, the ruler of **Ayodhya**, who had three queens. **Rama** was the son of the eldest queen, **Kaushalya** and was the heir apparent to the throne. After **Rama** was married to **Sita**, he was to be installed as the king. At this juncture, King **Dashratha's** other queen **Kaikeyi** reminded him of the promise he had made earlier to grant her a wish. **Kaikeyi** wanted her son **Bharata** to be the king and **Rama** to be sent into exile for fourteen years. **Rama** along with his wife **Sita** and brother, **Lakshmana** went to the forest.\n\nIn disguise of a sanyasi, **Ravana**, the demon king, abducted **Sita** and took her to Lanka.\n\n[Image: A scene from the Ramayana.]\n\n**Rama** took the help of **Sugriva** and **Hanuman**. They crossed the ocean and defeated **Ravana**. **Rama** then, along with **Sita** and **Lakshmana** proceeded home having completed the fourteen years' exile. He was crowned the king."
+                    }
+                  ]
                 },
                 {
-                  "content_md": "[Image: A scene from the Mahabharata. Lord Krishna gave Arjuna a discourse which is compiled in the Bhagwad Gita.]"
-                },
-                {
-                  "content_md": "The king of Hastinapur **Dhritarashtra** had 100 sons known as **Kauravas**. Dhritarashtra's brother **Pandu** who had died earlier, had five sons, known as **Pandavas**.\n\nIn course of time, Dhritarashtra named the eldest Pandava, **Yudhisthira**, his successor. This angered **Duryodhana**, the eldest of the Kauravas. It became the cause of enemity and jealousy between the cousins.\n\nOnce during a game of dice, Yudhisthira, the eldest Pandava lost his kingdom as well as Draupadi to Duryodhana. In accordance with the terms of agreement, the Pandavas had to go into exile.\n\nAfter the completion of the exile, the Pandavas asked the Kauravas to return their kingdom but Duryodhana refused to give anything. So the war, known as the **Mahabharata**, followed. Arjuna, a Pandava was reluctant to fight. Krishna ultimately gave him a discourse and prevailed upon him to do his duty. This discourse at the battlefield is compiled in the form of **Bhagwad Gita**. It forms a part of the Mahabharata.\n\nThe Mahabharata war lasted for 18 days. In the war, all the Kaurava brothers were killed and Yudhisthira became the ruler of Hastinapur."
-                },
-                {
-                  "content_md": "The **Bhagwad Gita**, which forms a part of the Mahabharata, is one of the most popular religious texts considered sacred by many people in India. The interests of the self might conflict with duty and whenever there is such a conflict the Bhagwad Gita gives the answer. That is the secret of the undying popularity of this religious text. It teaches that the **Soul is immortal**."
+                  "title": "Mahabharata:",
+                  "sequence_number": 2,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "Believed to be the work of **sage Vyasa**, the **Mahabharata** is written in **Sanskrit** language. Originally, it was called **Jaya**, or the collection dealing with victory. Subsequently, it came to be known as **Bharata**, because it contains the stories of the descendants of one of the earliest Vedic tribes called Bharata. The final compilation came to be known as **Mahabharata**."
+                    },
+                    {
+                      "content_md": "The king of **Hastinapur**, **Dhritarashtra**, had 100 sons known as the **Kauravas**. Dhritarashtra's brother **Pandu**, who had died earlier, had five sons, known as the **Pandavas**. In due course, Dhritarashtra named the eldest Pandava, **Yudhisthira**, as his successor. This angered **Duryodhana**, the eldest of the Kauravas, and became the cause of enmity and jealousy between the cousins.\n\nOnce during a game of dice, Yudhisthira lost his kingdom as well as **Draupadi** to Duryodhana. According to the terms of the agreement, the Pandavas had to go into exile. After completing the exile, the Pandavas asked the Kauravas to return their kingdom, but Duryodhana refused. Consequently, the war known as the Mahabharata followed. **Arjuna**, a Pandava, was reluctant to fight. **Krishna** gave him a discourse and prevailed upon him to do his duty. This discourse at the battlefield is compiled in the form of the **Bhagwad Gita**, which is a part of the Mahabharata.\n\nThe Mahabharata war lasted for **18 days**. In the war, all the Kaurava brothers were killed, and Yudhisthira became the ruler of Hastinapur."
+                    },
+                    {
+                      "content_md": "[Image: A scene from the Mahabharata. Lord Krishna gave Arjuna a discourse which is compiled in the Bhagwad Gita,]"
+                    },
+                    {
+                      "content_md": "The **Bhagwad Gita**, which forms a part of the Mahabharata, is one of the most popular religious texts considered sacred by many people in India. The interests of the self might conflict with duty, and whenever there is such a conflict, the Bhagwad Gita gives the answer. This is the secret of its undying popularity. It teaches that the **Soul is immortal**."
+                    }
+                  ]
                 }
-              ]
+              ],
+              "content_blocks": []
             },
             {
               "title": "The Importance of the Epics",
-              "sequence_number": 3,
+              "sequence_number": 8,
               "depth": 2,
               "level_label": "Subtopic",
               "children": [
@@ -366,7 +360,7 @@
                   "children": [],
                   "content_blocks": [
                     {
-                      "content_md": "(i) **The Vedangas**: They deal with the ways in which the Vedas ought to be chanted; and are thus important in the understanding of the Vedas. The six Vedangas deal with pronunciation, grammar, etymology, metrics, rituals and astronomy."
+                      "content_md": "### (i) The Rig Veda\nIt is the **oldest religious text in the world** and is, therefore, known as **'the first testament of mankind'**. It is divided into **10 mandalas**. It is said to have been composed during the **Early Vedic Period**. The **hymns** are dedicated by the sages to Gods. They were passed on orally from teachers to their disciples. The Rig Vedic hymns are the authentic sources of knowledge of the life of people of the time. Much of the Indian philosophy is based on the **Rig Veda**. It also contains the famous **'Gayatri mantra'**."
                     }
                   ]
                 },
@@ -378,7 +372,7 @@
                   "children": [],
                   "content_blocks": [
                     {
-                      "content_md": "The term, **'Sama'** means **'Sweet Song'** or **'the melody'**. In this Veda, some of the hymns are borrowed from the **Rig Veda**. The hymns in **Sama Veda** were meant to be sung at the time of the sacrifice by the priests."
+                      "content_md": "### (ii) The Sama Veda\nThe term, **'Sama'** means **'Sweet Song'** or **'the melody'**. In this Veda, some of the hymns are borrowed from the **Rig Veda**. The hymns in **Sama Veda** were meant to be sung at the time of the sacrifice by the priests."
                     }
                   ]
                 },
@@ -390,7 +384,7 @@
                   "children": [],
                   "content_blocks": [
                     {
-                      "content_md": "It deals with hymns recited during the performance of **Yajnas**. The hymns in this Veda throw light on the **social and religious life** of the Aryans."
+                      "content_md": "It deals with hymns recited during the performance of **Yajnas**. The hymns in this Veda throw light on the social and religious life of the Aryans."
                     }
                   ]
                 },
@@ -402,7 +396,7 @@
                   "children": [],
                   "content_blocks": [
                     {
-                      "content_md": "The hymns contained in this Veda deal with **magic and charm**. Most of the hymns are taken from the Rig Veda. Besides the powers of spirits, the hymns deal with **gyan** (knowledge), **karma** (action) and **upasana** (invocation). Some hymns also deal with **medicines** for the treatment of various diseases."
+                      "content_md": "They are **philosophical commentaries** on the **Vedas**. The doctrines such as **Karma**, **Moksha** and **Maya** are explained in detail. The **Upanishads** form the basic source of **Indian philosophy**. Composed by different sages, they are said to form the foundation on which the additions to Vedic Literature rest. The most famous of these Upanishads are **Chandogya Upanishad**, **Kena Upanishad**, **Aitareya Upanishad** and **Taittiriya Upanishad**."
                     }
                   ]
                 },
@@ -414,7 +408,7 @@
                   "children": [],
                   "content_blocks": [
                     {
-                      "content_md": "The law-books called the **Dharmasutras** and the **Smritis** together with their commentaries, are called **Dharmashastras**. They lay down the duties for different classes of people as well as for kings and their officials. **Manusmriti** gives the description of Hindu code of law including the **Varnas** (the Castes) and the **Ashramas**."
+                      "content_md": "**The Dharmashastras**: The law-books called the **Dharmasutras** and the **Smritis** together with their commentaries are called **Dharmashastras**. They lay down the duties for different classes of people as well as for kings and their officials. **Manusmriti** gives the description of Hindu code of law including the **Varnas** (the Castes) and the **Ashramas**."
                     }
                   ]
                 },
@@ -426,7 +420,7 @@
                   "children": [],
                   "content_blocks": [
                     {
-                      "content_md": "**The Ashtadhyayi**: It is a treatise on **Sanskrit grammar** by **Panini**. Information is given about the roots of the words and the context in which they were used in Vedic literature."
+                      "content_md": "The **Bhagwad Gita** elaborates the **Karma philosophy** and the **immortality of the soul**."
                     }
                   ]
                 }
@@ -438,7 +432,7 @@
         },
         {
           "title": "B. ARCHAEOLOGICAL SOURCES",
-          "sequence_number": 3,
+          "sequence_number": 2,
           "depth": 1,
           "level_label": "Topic",
           "children": [
@@ -456,7 +450,7 @@
                   "children": [],
                   "content_blocks": [
                     {
-                      "content_md": "When the **Aryans** migrated to the northern and eastern parts of India, they found that the area received more rainfall than the north-western part of India. Consequently, this region was covered with thick rain forests which could not be cleared by copper or stone tools used by the Early Vedic people. But by using the **iron tools** they were able to clear the dense rain forests and convert forestland into cultivable land in a relatively lesser time.\n\nWith the use of **iron plough-heads, sickles and hoes**, they could bring vast tracts of land under cultivation. Gradually, the Vedic people acquired better knowledge of **seasons, manuring and irrigation**. This resulted in the substantial enlargment of settlements like **Hastinapur** and **Kaushambi** towards the end of the **Later Vedic period**. The production of more **rice, wheat, barley, vegetables and fruits** not only improved the standard of living of the peasants but also enabled them to spare some part of their produce for the chiefs, princes, priests and artisans."
+                      "content_md": "When the **Aryans** migrated to the northern and eastern parts of India, they found that the area received more rainfall than the north-western part of India. Consequently, this region was covered with thick rain forests which could not be cleared by copper or stone tools used by the Early Vedic people. But by using **iron tools** they were able to clear the dense rain forests and convert forestland into cultivable land in a relatively lesser time.\n\nWith the use of **iron plough-heads, sickles** and **hoes**, they could bring vast tracts of land under cultivation. Gradually, the Vedic people acquired better knowledge of **seasons, manuring** and **irrigation**. This resulted in the substantial enlargement of settlements like **Hastinapur** and **Kaushambi** towards the end of the Later Vedic period. The production of more **rice, wheat, barley, vegetables** and **fruits** not only improved the standard of living of the peasants but also enabled them to spare some part of their produce for the chiefs, princes, priests and artisans."
                     }
                   ]
                 },
@@ -468,7 +462,7 @@
                   "children": [],
                   "content_blocks": [
                     {
-                      "content_md": "The use of iron gave rise to **new trades** by providing **durable implements** like **saws**, **chisels**, **hammers**, **nails** and **tongs**."
+                      "content_md": "The use of **iron** gave rise to **new trades** by providing **durable implements** like **saws**, **chisels**, **hammers**, **nails** and **tongs**. This gave rise to occupations such as **weaving**, **spinning**, **carpentry**, **tanning** and **tool-making**."
                     }
                   ]
                 },
@@ -495,7 +489,13 @@
               "children": [],
               "content_blocks": [
                 {
-                  "content_md": "**Pottery** forms an important source of information. The **Grey Ware (GW)** and the **Painted Grey Ware (PGW)** pottery discovered at different sites in Punjab and Haryana is believed to belong to the **Rig Vedic Aryans**. The important sites include **Bhagwanpura** (Kurukshetra), **Dadheri** (Ludhiana), **Katpalan** and **Nagar** (Jallandhar). These cultures are regarded as Rig Vedic because they belong to the same period and same region as mentioned in the Rig Veda. However, in the **Ganga-Yamuna doab**, the earliest iron objects are generally associated with **PGW**. Here, a number of sites associated with the prolific use of iron have been discovered.\n\nThe **PGW Culture** corresponds to the **Later Vedic period**. The PGW is a very fine, smooth and even-coloured pottery. It was made out of well-worked, high quality clay with geometric patterns painted on it in black. Floral patterns and sun symbols are seen in some cases. The pottery includes open-mouthed bowls and dishes.\n\nThe PGW phase was followed by the **Northern Black Polished Ware (NBPW) phase**, the beginning of which goes back to **700 BC**. This pottery was glossy and shining. It is believed that the use of this pottery was made by the people who dominated the economic and social life of the period."
+                  "content_md": "Pottery forms an important source of information. The **Grey Ware (GW)** and the **Painted Grey Ware (PGW)** pottery discovered at different sites in Punjab and Haryana is believed to belong to the **Rig Vedic Aryans**. The important sites include **Bhagwanpura** (Kurukshetra), **Dadheri** (Ludhiana), **Katpalan** and **Nagar** (Jallandhar). These cultures are regarded as Rig Vedic because they belong to the same period and same region as mentioned in the Rig Veda. However, in the Ganga-Yamuna doab, the earliest iron objects are generally associated with PGW. Here, a number of sites associated with the prolific use of iron have been discovered."
+                },
+                {
+                  "content_md": "The **PGW Culture** corresponds to the **Later Vedic period**. The PGW is a very **fine, smooth and even-coloured pottery**. It was made out of well-worked, **high quality clay** with **geometric patterns painted on it in black**. Floral patterns and sun symbols are seen in some cases. The pottery includes **open-mouthed bowls and dishes**."
+                },
+                {
+                  "content_md": "The PGW phase was followed by the **Northern Black Polished Ware (NBPW)** phase, the beginning of which goes back to **700 BC**. This pottery was glossy and shining. It is believed that the use of this pottery was made by the people who dominated the economic and social life of the period."
                 },
                 {
                   "content_md": "[Image: PGW Pottery]"
@@ -509,20 +509,32 @@
       "content_blocks": []
     },
     {
-      "title": "EARLY SETTLEMENTS",
+      "title": "*ORIGIN OF THE ARYANS",
       "sequence_number": 2,
       "depth": 0,
       "level_label": "Section",
       "children": [],
       "content_blocks": [
         {
-          "content_md": "On the basis of the names of the rivers and mountains mentioned in the Rig Veda, it is believed that the **Aryans** entered India from Afghanistan and settled in the valley of the Kabul river and the Punjab. They called this north-western part of India, **Sapta Sindhu** or the land of seven rivers—namely **Sindhu (Indus)**, **Ravi**, **Beas**, **Satluj**, **Jhelum**, **Chenab** and **Saraswati**. This region covers the present areas of eastern Afghanistan, Punjab, and parts of Western Uttar Pradesh. Later this region was named **Brahmavarta** or the 'land of the Gods' because the composition of Rig Veda took place here on the banks of river Saraswati, which they considered most sacred.\n\nThe region provided conditions for stable agriculture. The act of moving from place to place with herds of animals ceased to have the pre-eminence it had enjoyed in early days. This fact too was responsible for the evolution of a new culture."
+          "content_md": "The origin of the **Aryans** as well as the background of the people who settled in India is full of controversies. Some historians believe that **Aryans** were the natives of India. Others like **Bal Gangadhar Tilak**, after the study of **Rig Veda** and **Zend Avesta**, concluded that the original home of the **Aryans** was the **Arctic region**. **A.C. Das**, a historian tried to prove that the original home of the **Aryans** was India. According to him, they lived in the **Sapta Sindhu** (Punjab) and migrated to other parts of India. **Swami Dayanand Saraswati** believed that **Tibet** was the home of the **Aryans**.\n\n**Professor Max Mueller**, the German scholar, believed that the **Aryans** came to India from **Central Asia**. He gave two reasons in support of this theory. The first wave of migrations from the **Steppes**, **Central Asia** had started around 1500 BC. The **Aryans** bore strong resemblance to bands of warlike people of Central Asia. The **Central Asian theory** holds the origin of Romans, Celts, Indians, Greeks and Persians from the same stock.\n\nMany historians agree with the **Central Asian Theory** of **Max Mueller**. Their reasons for accepting the theory are:\n1. In ancient times, the land in **Asia Minor** was fertile which made it suitable for agriculture and domestication of animals.\n2. The stone inscriptions discovered in **Asia Minor** prove that the Aryan gods like **Indra** and **Varuna**, were worshipped in ancient times.\n3. The flora and fauna and objects referred to in the **Rig Veda** were found in **Asia Minor**.\n4. **Asia Minor** is equidistant from Europe and India.\n5. Biologists noticed the genetic traits (DNA) of the **Steppe** people of **Central Asia** and found similar traits in 35 per cent of the people in north India. Thus, they concluded that the **Indo-Aryans** migrated from **Central Asia** to India.\n\nHowever, the issue of the origin of the **Aryans** is still being disputed."
+        }
+      ]
+    },
+    {
+      "title": "EARLY SETTLEMENTS",
+      "sequence_number": 3,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "On the basis of the names of the rivers and mountains mentioned in the **Rig Veda**, it is believed that the **Aryans** entered India. From Afghanistan and settled in the valley of the Kabul river and the Punjab. They called this north-western part of India, **Sapta Sindhu** or the land of seven rivers—namely **Sindhu** (Indus), **Ravi**, **Beas**, **Satluj**, **Jhelum**, **Chenab** and **Saraswati**. This region covers the present areas of eastern Afghanistan, Punjab, and a part of western Uttar Pradesh. Later, this region was named **Brahmavarta**, or the ‘land of the gods’ because the composition of Rig Veda took place here on the banks of river Saraswati, which they considered most sacred.\n\nThe region provided conditions for stable agriculture. The act of moving from place to place with herds of animals ceased to have the pre-eminence it had enjoyed in early days. This fact too was responsible for the evolution of a new culture."
         }
       ]
     },
     {
       "title": "SOCIETY",
-      "sequence_number": 3,
+      "sequence_number": 4,
       "depth": 0,
       "level_label": "Section",
       "children": [
@@ -534,7 +546,7 @@
           "children": [],
           "content_blocks": [
             {
-              "content_md": "In the **Rig Vedic time** or the **Early Vedic Period**, the Aryans lived in villages. The **family** was the fundamental unit of the society. It was **patriarchal**. This means that the oldest male member of the family was its head. He was called **Grihapati** or **Kulapati**. After the death of **Grihapati** the responsibility shifted to his eldest son. Marriages took place after the boy and the girl attained maturity. **Monogamy** was the usual norm of marriage though at times the chiefs practiced **polygamy**.\n\nSeveral families lived in a **grama** or village. Several villages formed a **Visha**. Many Vishas formed a **Jana**. The head of the village was called **Gramini**, that of **Visha**, **Vishapati**. **Rajan** or **king** was the head of a **Jana**.\n\nThe kings governed with the help of ministers. The important officers included the **Gramini**, the **Purohita** and the **Senani**. The **Senani** was the commander of the army and the **Purohita** performed religious ceremonies. The administration of the villages was carried out by the **Gramini**.\n\nThe king did not maintain any regular army. However, in times of war, he used to organise tribal groups to perform military functions."
+              "content_md": "In the Rig Vedic time or the **Early Vedic Period**, the Aryans lived in villages. The **family** was the fundamental unit of the society. It was **patriarchal**. This means that the oldest male member of the family was its head. He was called **Grihapati** or **Kulapati**. After the death of Grihapati, the responsibility shifted to his eldest son. Marriages took place after the boy and the girl attained maturity. **Monogamy** was the usual norm of marriage, though at times the chiefs practiced **polygamy**.\n\nSeveral families lived in a **grama** or village. Several villages formed a **Visha**. Many Vishas formed a **Jana**. The head of the village was called **Gramini**, that of Visha, **Vishapati**. **Rajan** or **king** was the head of a Jana.\n\nThe kings governed with the help of ministers. The important officers included the **Gramini**, the **Purohita** and the **Senani**. The **Senani** was the commander of the army and the **Purohita** performed religious ceremonies. The administration of the villages was carried out by the **Gramini**.\n\nThe king did not maintain any regular army. However, in times of war, he used to organise tribal groups to perform military functions."
             }
           ]
         },
@@ -546,10 +558,13 @@
           "children": [],
           "content_blocks": [
             {
-              "content_md": "[Image: The Varnas]\n\nThough the **caste system** is not mentioned in the **Rig Veda**, the fact remains that there was some kind of class division in the society. The early Aryans called the local inhabitants **Dasyus** and did not mix with them. It is said that during this period, the tribal chiefs and the priests acquired a large share of the booty and grew at the cost of their kinsmen. This resulted in social inequalities and the tribal society got divided into three groups — warriors, priests and the people. The fourth division called the **Shudras** appeared towards the end of the Rig Vedic period, because the word 'shudra' is mentioned for the first time in the **Tenth Mandala** of the **Rig Veda**, which is usually considered a later addition. However, since the economy was mainly pastoral and not food producing, there was no scope for collecting regular tributes or taxes from the people."
+              "content_md": "[Image: The Varnas]"
             },
             {
-              "content_md": "In the Early Vedic Period, the society was divided into different classes based on their profession. A person could adopt any profession of his choice as is evident from an excerpt of the Rig Veda:\n\n> \"I am a poet, my father is a physician and my mother grinds corn on stone. Being of 'the same family, we are engaged in different professions.'\""
+              "content_md": "Though the **caste system** is not mentioned in the Rig Veda, the fact remains that there was some kind of class division in the society. The early Aryans called the local inhabitants **Dasyus** and did not mix with them. It is said that during this period, the tribal chiefs and the priests acquired a large share of the booty and grew at the cost of their kinsmen. This resulted in social inequalities and the tribal society got divided into three groups—**warriors**, **priests** and **the people**. The fourth division called the **Shudras** appeared towards the end of the Rig Vedic period, because the word '**shudra**' is mentioned for the first time in the **Tenth Mandala of the Rig Veda**, which is usually considered a later addition. However, since the economy was mainly pastoral and not food producing, there was no scope for collecting regular tributes or taxes from the people."
+            },
+            {
+              "content_md": "In the Early Vedic Period, the society was divided into different classes based on their profession. A person could adopt any profession of his choice as is evident from an excerpt of the Rig Veda:\n\n\"I am a poet, my father is a physician and my mother grinds corn on stone. Being of 'the same family, we are engaged in different professions.\""
             },
             {
               "content_md": "People followed different professions which became hereditary in course of time. This resulted in the division of society into occupational classes. Gradually, this took the form of caste and the present caste system emerged. In the Later Vedic Period, **Brahmins**, **Kshatriyas**, **Vaishyas** and **Shudras** became four distinct castes or **Varnas**.\n\n*   The **Brahmins** or the priests performed religious rituals.\n*   The **Kshatriyas** participated in wars.\n*   The **Vaishyas** engaged in business and looked after agriculture as well as industry.\n*   The **Shudras** served the upper classes."
@@ -567,10 +582,7 @@
           "children": [],
           "content_blocks": [
             {
-              "content_md": "During the **Rig Vedic Period** women were respected. The institution of **marriage** had become sacred.\n*   The daughters were given freedom to choose their husbands.\n*   The system of **remarriage of widows** was prevalent.\n*   There are no examples of **child-marriage**.\n*   The **marriageable age** in the Rig Veda seems to have been 16 to 17."
-            },
-            {
-              "content_md": "In the **Later Vedic Period**, there was a significant decline in the status of women.\n*   Their participation in **Yajnas** was not considered necessary.\n*   They did not enjoy the **right to property**.\n*   The freedom to choose husbands by women was **curtailed**."
+              "content_md": "During the **Rig Vedic Period** women were respected. The institution of **marriage** had become sacred. The daughters were given **freedom to choose their husbands**. The system of **remarriage of widows** was prevalent. There are no examples of **child-marriage**. The marriageable age in the Rig Veda seems to have been **16 to 17**.\n\nIn the **Later Vedic Period**, there was a significant decline in the status of women. Their participation in **Yajnas** was not considered necessary. They did not enjoy the **right to property**. The freedom to choose husbands by women was **curtailed**."
             }
           ]
         },
@@ -582,13 +594,10 @@
           "children": [],
           "content_blocks": [
             {
-              "content_md": "In the Early Vedic Period, man grew up according to the family traditions. However, in the Later Vedic Period, the whole lifespan of an Aryan came to be divided into four periods. The four stages of life are known as **four ashramas**, each of 25 years duration. The four ashramas are **Brahmacharya**, **Grihastha**, **Vanaprastha** and **Sanyasa**."
+              "content_md": "[Image: The Four Ashramas]\n\nIn the Early Vedic Period, man grew up according to the family traditions. However, in the Later Vedic Period, the whole lifespan of an Aryan came to be divided into four periods. The four stages of life are known as four **ashramas**, each of 25 years duration. The four ashramas are **Brahmacharya**, **Grihastha**, **Vanaprastha** and **Sanyasa**."
             },
             {
-              "content_md": "[Image: The Four Ashramas]"
-            },
-            {
-              "content_md": "The **Brahmacharya Ashrama** lasted up to the age of 25 years. During this period, the pupil was expected to acquire knowledge in the **gurukul** and observe strict discipline.\n\nDuring the period of the **Grihastha Ashrama**, man was supposed to marry and raise a family. As a householder, he was to take responsibility of maintaining his family. This period lasted from the age of 25 to 50 years.\n\nThe third stage was **Vanaprastha Ashrama**. It lasted from the age of 50 to 75 years. During this period man was expected to retire from worldly life and acquire spiritual and philosophical knowledge.\n\nThe last stage lasting from the age of 75 to 100 years was the **Sanyasa Ashrama**. This was the period of renunciation. Man had to leave everything forever and go into meditation in order to attain **moksha** or salvation."
+              "content_md": "*   **The Brahmacharya Ashrama** lasted up to the age of 25 years. During this period, the pupil was expected to acquire knowledge in the **gurukul** and observe strict discipline.\n*   During the period of the **Grihastha Ashrama**, man was supposed to marry and raise a family. As a householder, he was to take responsibility of maintaining his family. This period lasted from the age of 25 to 50 years.\n*   The third stage was **Vanaprastha Ashrama**. It lasted from the age of 50 to 75 years. During this period man was expected to retire from worldly life and acquire spiritual and philosophical knowledge.\n*   The last stage lasting from the age of 75 to 100 years was the **Sanyasa Ashrama**. This was the period of renunciation. Man had to leave everything forever and go into meditation in order to attain **moksha** or salvation."
             }
           ]
         }
@@ -597,79 +606,87 @@
     },
     {
       "title": "EDUCATION",
-      "sequence_number": 4,
-      "depth": 0,
-      "level_label": "Section",
-      "children": [],
-      "content_blocks": [
-        {
-          "content_md": "Education was imparted through private **gurukuls**. The residence of the guru, called the **gurukul**, meaning the family of the guru, had become the most sacred institution. The gurukuls were often located on the outskirts of the city and even in forests. The students lived there. The guru treated his students like his own children. The student was required to do household chores for his teacher. He had to get up early in the morning, take a bath and chant the Vedic mantras. Most of the teaching was done orally. At the completion of the education, a student used to give **guru dakshina** — a gift to his teacher.\n\n[Image: The Gurukul]"
-        },
-        {
-          "content_md": "The gurus were greatly respected and revered. The main object of education was to bring about physical, mental and spiritual development of the pupils. The subjects of study included the **Vedas**, **Puranas**, **Grammar**, **Mathematics**, **Ethics**, **Logic** and **Military Science**."
-        },
-        {
-          "content_md": "Two women teachers named **Maitreyi** and **Gargi** were considered gifted and were greatly respected."
-        }
-      ]
-    },
-    {
-      "title": "FOOD, DRESS AND AMUSEMENTS",
       "sequence_number": 5,
       "depth": 0,
       "level_label": "Section",
       "children": [],
       "content_blocks": [
         {
-          "content_md": "### FOOD, DRESS AND AMUSEMENTS\n\nThe main cereal produced by the **Rig Vedic** people was **barley**. Wheat and rice were not known to them. However, in **Later Vedic times**, there is evidence of using **rice (vrihi)**. Cows were domesticated, and milk and milk products like **curd**, **butter**, **ghee**, etc., were used. **Soma**, a kind of intoxicating drink, was consumed during festivals and religious ceremonies.\n\nThe clothes worn were simple. They consisted of an undergarment, called **Nivi** or **dhoti**, an upper piece called **Vasa** or shirt, and an overgarment known as **Adhivasa**, a loose piece of cloth. Men wore **turbans**. There were customs of wearing animal skins. Some of the **sadhus** (hermits) wore deer skin known as **Mrigchal**. Men kept long hair. **Ornaments** were worn by both men and women and were made of gold, silver, ivory, and precious stones. Common items of jewellery included **earrings**, **rings**, **anklets**, **bracelets**, and **necklaces**.\n\nThe main means of amusement in both Vedic periods were **chariot-races**, **horse-races**, **dancing**, **singing**, and **hunting**. The chief musical instruments were the **drum**, **flute**, **mridang**, and **lute**. People also participated in competitive sports, festivals, and gambling."
+          "content_md": "Education was imparted through private **gurukuls**. The residence of the **guru** called the **gurukul**, meaning the family of the guru, had become the most sacred institution. The **gurukuls** were often located on the outskirts of the city and even in forests. The students lived there. The **guru** treated his students like his own children. The student was required to do household chores for his teacher. He had to get up early in the morning, take a bath and chant the **Vedic mantras**. Most of the teaching was done orally. At the completion of the education, a student used to give **guru dakshina** — a gift to his teacher.\n\n[Image: The Gurukul]"
+        },
+        {
+          "content_md": "The **gurus** were greatly respected and revered. The main object of education was to bring about physical, mental and spiritual development of the pupils. The subjects of study included the **Vedas**, **Puranas**, **Grammar**, **Mathematics**, **Ethics**, **Logic** and **Military Science**.\n\nTwo women teachers named **Maitreyi** and **Gargi** were considered gifted and were greatly respected."
         }
       ]
     },
     {
-      "title": "RELIGIOUS BELIEFS",
+      "title": "FOOD, DRESS AND AMUSEMENTS",
       "sequence_number": 6,
       "depth": 0,
       "level_label": "Section",
       "children": [],
       "content_blocks": [
         {
-          "content_md": "The people in the Vedic age worshipped forces of nature. They personified these natural forces and looked upon them as living beings to whom they gave human or animal attributes. A large number of gods are mentioned in the **Rig Veda**.\n\n*   The most important among these gods was **Indra**, to whom 250 hymns are devoted in the Rig Veda. He is also known as the **Purandara** (or breaker of forts) and **Jitendra** (a winner). He is considered as the **Rain God**, who is responsible for bringing rainfall.\n*   The second position is held by **Agni**, the **Fire God**. He is regarded as an intermediary between gods and men, for he consumes the sacrificial offerings and carries them to the gods in the form of smoke.\n*   The third position is occupied by **Varuna**, the god of waters, clouds, oceans and rivers. He determines the path for all stars in heaven and is regarded as the upholder of natural or cosmic order.\n*   There were many other Vedic gods like **Vayu** (the god of wind), **Surya** (Sun god), **Yama** (lord of the dead), and **Rudra** (god of storms).\n\nSome goddesses were also worshipped. The most important female goddess was **Usha**, the goddess of dawn. Other important female deities were: **Prithvi**, a personification of the earth; **Aditi**, the great mother of gods; **Ratri**, the spirit of the night; **Aranyani**, the Lady of the forest; and **Dishana**, the goddess of vegetation."
-        },
-        {
-          "content_md": "All these gods were invoked and propitiated at **yajnas** or sacrifices, organised by the chiefs and performed by the priests. The Gods invoked in the sacrifices supposedly rewarded the sacrificers with success in wars, progeny, increase in cattle and long life. It also increased the income of the priests through **dana** and **dakshina**.\n\nChanges which occured in the material life of the people towards the end of the Early Vedic age, caused many changes in their attitude towards gods and goddesses. Continuous interactions with the local non-Aryan population also led to these changes. Thus, in the **Later Vedic age**, **Prajapati**, the creator or **Brahma** became the supreme god and **Indra** and **Agni** lost their former significance. **Vishnu** came to be regarded as the preserver and protector of the people and **Shiva** as destroyer of the universe."
-        },
-        {
-          "content_md": "[Image: Brahma Vishnu Shiva]"
-        },
-        {
-          "content_md": "In the **later Vedic Age** with religious evolution, simplicity of nature worship was lost and the frequency and number of the **yajnas** increased. Rituals and sacrifices (**yajnas**) became a daily routine. Besides the yajnas performed by kings, the common people performed small yajnas, during which milk, ghee, grains and fruits were offered to the deities. The rich people and businessmen conducted bigger sacrifices. During such yajnas **purohits** received gold, expensive clothes and large number of cows as gifts (**Dakshina**). Giving dakshina was also a ritual and a pious duty. Ritualism gained strong roots and even a small deviation while performing certain worship was considered a sin.\n\nThe **Brahmins** were responsible for bringing about many innovations and evolving new doctrines. More emphasis was laid on penance called **tapasya** which became ritualistic. The new doctrines included the doctrine of **karma** (action), **dharma** (duty) and **moksha** (salvation). The belief in **rebirth** gained roots. Consequently, all these innovations strengthened the position of Brahmins. The Brahmins were said to have divine powers. No ritual or religious celebration would commence without the presence of the Brahmins."
+          "content_md": "The main cereal produced by the **Rig Vedic** people was **barley**. Wheat and rice were not known to them. However, in **Later Vedic** times, there is evidence of using **rice (vrihi)**. Cows were domesticated and milk and milk products like **curd, butter, ghee, etc.** were used. **Soma**, a kind of intoxicating drink, was consumed during festivals and religious ceremonies.\n\nThe clothes worn were simple. They consisted of an undergarment, called **Nivi** or **dhoti**, an upper piece called **Vasa** or shirt. An overgarment was known as **Adhivasa**, a loose piece of cloth. Men wore turbans. There were customs of wearing animal skins. Some of the **sadhus** (hermits) wore deer skin known as **Mrigchal**. Men kept long hair. **Ornaments** were worn by both men and women. The ornaments were made of gold, silver, ivory and precious stones. Some of the common items of jewellery were **earrings, rings, anklets, bracelets, necklaces, etc.**\n\nThe main means of amusement in both the Vedic periods were **chariot-races, horse-races, dancing, singing and hunting**. The chief musical instruments were the **drum, flute, mridang and lute**. People participated in competitive sports, festivals and gambling.\n\n[Image: Amusement — Chariot-racing]"
         }
       ]
     },
     {
-      "title": "ECONOMY",
+      "title": "RELIGIOUS BELIEFS",
       "sequence_number": 7,
       "depth": 0,
       "level_label": "Section",
       "children": [],
       "content_blocks": [
         {
-          "content_md": "The **Rig Vedic economy** was primarily **pastoral**. For Aryans **cattle** was synonymous with wealth; a wealthy person was called **gomat**. **Gopa** and **gopati** were epithets given to the king. In the Rig Veda, **Godhuli** is used as a term for a measure of time. Distance is called **gavyuti** and a daughter is called **duhitr** or the one who milks the cows.\n\nCompared to the linguistic evidence for cattle rearing in the Rig Veda, agricultural activities find very few references. Apart from '**yava**' or **barley**, no other grains are mentioned. There are references to fire being used for burning the forest cover and the practice of **shifting cultivation**. Further, the area received low rainfall and the major rivers mentioned in the Rig Veda, were known to change their courses frequently. In these conditions, the alluvial lands near the rivers could not be cultivated on a permanent basis."
+          "content_md": "The people in the Vedic age worshipped **forces of nature**. They personified these natural forces and looked upon them as living beings to whom they gave human or animal attributes. A large number of gods are mentioned in the **Rig Veda**.\n\n*   The most important among these gods was **Indra**, to whom 250 hymns are devoted in the Rig Veda. He is also known as the **Purandara** (or breaker of forts) and **Jitendra** (a winner). He is considered as the **Rain God**, who is responsible for bringing rainfall.\n*   The second position is held by **Agni**, the **Fire God**. He is regarded as an intermediary between gods and men, for he consumes the sacrificial offerings and carries them to the gods in the form of smoke.\n*   The third position is occupied by **Varuna**, the god of waters, clouds, oceans and rivers. He determines the path for all stars in heaven. **Varuna** is regarded as the upholder of natural or cosmic order.\n*   There were many other Vedic gods like **Vayu** (the god of wind), **Surya** (Sun god), **Yama** (lord of the dead), **Rudra** (god of storms), etc."
+        },
+        {
+          "content_md": "Some goddesses were also worshipped. The most important female goddess was **Usha**, the goddess of dawn. Other important female deities were: **Prithvi**, a personification of the earth; **Aditi**, the great mother of gods; **Ratri**, the spirit of the night; **Aranyani**, the Lady of the forest; **Dishana**, the goddess of vegetation."
+        },
+        {
+          "content_md": "All these gods were invoked and propitiated at **yajnas** or sacrifices, organised by the chiefs and performed by the priests. The Gods invoked in the sacrifices supposedly rewarded the sacrificers with success in wars, progeny, increase in cattle and long life. It also increased the income of the priests through **dana** and **dakshina**."
+        },
+        {
+          "content_md": "Changes which occured in the material life of the people towards the end of the Early Vedic age, caused many changes in their attitude towards gods and goddesses. Continuous interactions with the local non-Aryan population also led to these changes. Thus, in the Later Vedic age, **Prajapati**, the creator or **Brahma** became the supreme god and Indra and Agni lost their former significance. **Vishnu** came to be regarded as the preserver and protector of the people and **Shiva** as destroyer of the universe."
+        },
+        {
+          "content_md": "[Image: Brahma]\n[Image: Vishnu]\n[Image: Shiva]"
+        },
+        {
+          "content_md": "**THINK ABOUT IT**\n\nThe **yajna** rituals involved construction of altars (vedi) and fireplaces (agni) in a variety of shapes such as isosceles triangles, symmetric trapezia, and rectangles. The **sulbasutras** describe steps towards construction of these figures with prescribed sizes. The sides of these figures follow the Pythagorean relation, i.e. 3² + 4² = 5², and 5² + 12² = 13². Such combinations are called Pythagorean triples. There are references to the pythagoras equation in the **Baudhayana Sulbasutra** proving that Indians used these long before Pythagoras. India preceded the West in which other discoveries? How much of our ancient knowledge do we utilise in our daily lives?"
+        }
+      ]
+    },
+    {
+      "title": "ECONOMY",
+      "sequence_number": 8,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "The **Rig Vedic economy** was primarily **pastoral**. For Aryans cattle was synonymous with wealth; a wealthy person was called **gomat**. **Gopa** and **gopati** were epithets given to the king. In the Rig Veda, **Godhuli** is used as a term for a measure of time. Distance is called **gavyuti** and a daughter is called **duhitr** or the one who milks the cows.\n\nCompared to the linguistic evidence for cattle rearing in the Rig Veda, agricultural activities find very few references. Apart from '**yava**' or barley, no other grains are mentioned. There are references to fire being used for burning the forest cover and the practice of **shifting cultivation**. Further, the area received low rainfall and the major rivers mentioned in the Rig Veda, were known to change their courses frequently. In these conditions, the alluvial lands near the rivers could not be cultivated on a permanent basis."
+        },
+        {
+          "content_md": "Major changes in the economy took place during the **Later Vedic phase**. Importance of agriculture grew during this phase. The growth of agriculture in the Later Vedic period was made possible by the availability of vast tracts of fertile alluvial lands of the Ganga-Yamuna doab and the middle Ganga valley. Both archaeological and literary sources depict the introduction of **rice** as the staple diet of the people. The Vedic texts mention **Vrihi**, **Tandula** and **Sali**, denoting rice. The Later Vedic texts also refer to oxen yoked to the plough, suggesting the prevalence of plough cultivation. Towards the end of this period iron ploughshares and metal tools were used and a variety of crops were cultivated.\n\nThe craftsmen mentioned in the Vedic texts include leather workers (**charmakaras**), wheelwrights (**rathakaras**), blacksmiths and potters (**kulala**), and carpenters (**taksan**). However, none of these groups were considered as of low status. Weaving seems to have been a domestic craft. Wool, obtained from sheep, was the most common raw material. Cotton is not mentioned."
         }
       ]
     }
   ],
   "additional_sections": [
     {
-      "title": "*ORIGIN OF THE ARYANS",
-      "content_md": "*ORIGIN OF THE ARYANS\n\nThe origin of the Aryans as well as the background of the people who settled in India is full of controversies. Some historians believe that Aryans were the natives of India. Others like Bal Gangadhar Tilak, after the study of Rig Veda and Zend Avesta, concluded that the original home of the Aryans was the Arctic region. A.C. Das, a historian tried to prove that the original home of the Aryans was India. According to him, they lived in the Sapta Sindhu (Punjab) and migrated to other parts of India. Swami Dayanand Saraswati believed that Tibet was the home of the Aryans.\n\nProfessor Max Mueller, the German scholar, believed that the Aryans came to India from Central Asia. He gave two reasons in support of this theory. The first wave of migrations from the Steppes, Central Asia had started around 1500BC. The Aryans bore strong resemblance to bands of warlike people of Central Asia. The Central Asian theory holds the origin of Romans, Celts, Indians, Greeks and Persians from the same stock.\n\nMany historians agree with the Central Asian Theory of Max Mueller. Their reasons for accepting the theory are:\n1. In ancient times, the land in Asia Minor was fertile which made it suitable for agriculture and domestication of animals.\n2. The stone inscriptions discovered in Asia Minor prove that the Aryan gods like Indra and Varuna, were worshipped in ancient times.\n3. The flora and fauna and objects referred to in the Rig Veda were found in Asia Minor.\n4. Asia Minor is equidistance from Europe and India.\n5. Biologists noticed the genetic traits (DNA) of the Steppe people of Central Asia and found similar traits in 35 per cent of the people in north India. Thus, they concluded that the Indo-Aryans migrated from Central Asia to India.\n\nHowever, the issue of the origin of the Aryans is still being disputed.\n\n* This is additional information."
+      "title": "Trade:",
+      "content_md": "During the Later Vedic phase agricultural surplus led to trade, giving rise to markets from which developed towns and cities. Thus, trade became the pivot around which the whole town and city life moved. Although the Aryans had introduced coins, barter system was still dominant in trade with other countries."
     },
     {
-      "title": "A Comparison: Early Vedic Age and Later Vedic Age",
-      "content_md": "A Comparison: Early Vedic Age and Later Vedic Age\n\n| Basis of Comparison | Early Vedic Age | Later Vedic Age |\n| :--- | :--- | :--- |\n| **Society** | | |\n| | Family was the basic unit. | Joint Family System prevailed. |\n| | Women enjoyed equal rights. | Significant decline in status of women. |\n| | Rigid caste system did not prevail. | The caste system was becoming rigid. |\n| | Gurukul system of education. | Gurukul system was further enlarged. |\n| | Food included milk, barley, fruits, vegetables and meat. | Consumption of meat was reduced. Rice became staple cereal. |\n| | Worship of nature and natural phenomena prevailed. | Religion became more complex. |\n| | Indra, Agni, Varuna, Mitra, Surya, etc. were worshipped. | Brahma; Rama and Krishna as incarnations of Vishnu and Shiva came to be worshipped. |\n| | Absence of temples and idols. Hymns were chanted in the open. Worship of forefathers and belief in life after death prevailed. | Brahmins introduced many rituals and made their position secure. Faith in superstitions and spells. New principles like penance, doctrines of Karma, Dharma and Moksha developed. |\n| **Economy** | | |\n| | In the beginning the main occupation was domestication of animals and agriculture was secondary. | Agriculture became the chief occupation while domestication of animals also continued. |\n| | Cattle was the important source of wealth. | Land was the important source of wealth. |\n| | Many engaged in trade and commerce. Dyeing, embroidery; carpentry, weaving, pottery, crafts in gold and iron were important occupations. | Traders guilds had come up and trade had become very important. Besides occupations of earlier period, many new occupations like physicians, musicians, and many other professions emerged. |"
+      "title": "Occupations:",
+      "content_md": "Besides agriculture and trade, other important occupations included domestication of animals, crafts in various metals, carpentry, pottery, fishery, etc. Women were engaged in spinning, weaving, knitting and dyeing."
     }
   ],
-  "needs_review": [],
+  "needs_review": [
+    "The Upanishads"
+  ],
   "manifest": {
     "syllabus_leaves": [
       {
@@ -765,7 +782,7 @@
         "sequence_number": 4,
         "depth": 2,
         "level_label": "Subtopic",
-        "has_notes": true
+        "has_notes": false
       },
       {
         "path": "SOURCES > A. LITERARY SOURCES > ALLIED VEDIC LITERATURE > (i) The Vedangas:",
@@ -880,36 +897,38 @@
         "has_notes": true
       },
       {
-        "path": "SOURCES > 2. THE EPICS > Ramayana:",
+        "path": "SOURCES > A. LITERARY SOURCES > 2. THE EPICS > Ramayana:",
         "path_titles": [
           "SOURCES",
+          "A. LITERARY SOURCES",
           "2. THE EPICS",
           "Ramayana:"
         ],
         "title": "Ramayana:",
         "sequence_number": 1,
-        "depth": 2,
-        "level_label": "Subtopic",
+        "depth": 3,
+        "level_label": "Point",
         "has_notes": true
       },
       {
-        "path": "SOURCES > 2. THE EPICS > Mahabharata:",
+        "path": "SOURCES > A. LITERARY SOURCES > 2. THE EPICS > Mahabharata:",
         "path_titles": [
           "SOURCES",
+          "A. LITERARY SOURCES",
           "2. THE EPICS",
           "Mahabharata:"
         ],
         "title": "Mahabharata:",
         "sequence_number": 2,
-        "depth": 2,
-        "level_label": "Subtopic",
+        "depth": 3,
+        "level_label": "Point",
         "has_notes": true
       },
       {
-        "path": "SOURCES > 2. THE EPICS > The Importance of the Epics > (i)",
+        "path": "SOURCES > A. LITERARY SOURCES > The Importance of the Epics > (i)",
         "path_titles": [
           "SOURCES",
-          "2. THE EPICS",
+          "A. LITERARY SOURCES",
           "The Importance of the Epics",
           "(i)"
         ],
@@ -920,10 +939,10 @@
         "has_notes": true
       },
       {
-        "path": "SOURCES > 2. THE EPICS > The Importance of the Epics > (ii)",
+        "path": "SOURCES > A. LITERARY SOURCES > The Importance of the Epics > (ii)",
         "path_titles": [
           "SOURCES",
-          "2. THE EPICS",
+          "A. LITERARY SOURCES",
           "The Importance of the Epics",
           "(ii)"
         ],
@@ -934,10 +953,10 @@
         "has_notes": true
       },
       {
-        "path": "SOURCES > 2. THE EPICS > The Importance of the Epics > (iii)",
+        "path": "SOURCES > A. LITERARY SOURCES > The Importance of the Epics > (iii)",
         "path_titles": [
           "SOURCES",
-          "2. THE EPICS",
+          "A. LITERARY SOURCES",
           "The Importance of the Epics",
           "(iii)"
         ],
@@ -948,10 +967,10 @@
         "has_notes": true
       },
       {
-        "path": "SOURCES > 2. THE EPICS > The Importance of the Epics > (iv)",
+        "path": "SOURCES > A. LITERARY SOURCES > The Importance of the Epics > (iv)",
         "path_titles": [
           "SOURCES",
-          "2. THE EPICS",
+          "A. LITERARY SOURCES",
           "The Importance of the Epics",
           "(iv)"
         ],
@@ -962,10 +981,10 @@
         "has_notes": true
       },
       {
-        "path": "SOURCES > 2. THE EPICS > The Importance of the Epics > (v)",
+        "path": "SOURCES > A. LITERARY SOURCES > The Importance of the Epics > (v)",
         "path_titles": [
           "SOURCES",
-          "2. THE EPICS",
+          "A. LITERARY SOURCES",
           "The Importance of the Epics",
           "(v)"
         ],
@@ -976,10 +995,10 @@
         "has_notes": true
       },
       {
-        "path": "SOURCES > 2. THE EPICS > The Importance of the Epics > (vi)",
+        "path": "SOURCES > A. LITERARY SOURCES > The Importance of the Epics > (vi)",
         "path_titles": [
           "SOURCES",
-          "2. THE EPICS",
+          "A. LITERARY SOURCES",
           "The Importance of the Epics",
           "(vi)"
         ],
@@ -1045,12 +1064,23 @@
         "has_notes": true
       },
       {
+        "path": "*ORIGIN OF THE ARYANS",
+        "path_titles": [
+          "*ORIGIN OF THE ARYANS"
+        ],
+        "title": "*ORIGIN OF THE ARYANS",
+        "sequence_number": 2,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
         "path": "EARLY SETTLEMENTS",
         "path_titles": [
           "EARLY SETTLEMENTS"
         ],
         "title": "EARLY SETTLEMENTS",
-        "sequence_number": 2,
+        "sequence_number": 3,
         "depth": 0,
         "level_label": "Section",
         "has_notes": true
@@ -1109,7 +1139,7 @@
           "EDUCATION"
         ],
         "title": "EDUCATION",
-        "sequence_number": 4,
+        "sequence_number": 5,
         "depth": 0,
         "level_label": "Section",
         "has_notes": true
@@ -1120,7 +1150,7 @@
           "FOOD, DRESS AND AMUSEMENTS"
         ],
         "title": "FOOD, DRESS AND AMUSEMENTS",
-        "sequence_number": 5,
+        "sequence_number": 6,
         "depth": 0,
         "level_label": "Section",
         "has_notes": true
@@ -1131,7 +1161,7 @@
           "RELIGIOUS BELIEFS"
         ],
         "title": "RELIGIOUS BELIEFS",
-        "sequence_number": 6,
+        "sequence_number": 7,
         "depth": 0,
         "level_label": "Section",
         "has_notes": true
@@ -1142,7 +1172,7 @@
           "ECONOMY"
         ],
         "title": "ECONOMY",
-        "sequence_number": 7,
+        "sequence_number": 8,
         "depth": 0,
         "level_label": "Section",
         "has_notes": true
@@ -1150,14 +1180,14 @@
     ],
     "stray_leaves": [
       {
-        "title": "*ORIGIN OF THE ARYANS",
-        "insert_after_index": 35,
+        "title": "Trade:",
+        "insert_after_index": 46,
         "micro_topics": [],
         "has_notes": true
       },
       {
-        "title": "A Comparison: Early Vedic Age and Later Vedic Age",
-        "insert_after_index": 45,
+        "title": "Occupations:",
+        "insert_after_index": 46,
         "micro_topics": [],
         "has_notes": true
       }

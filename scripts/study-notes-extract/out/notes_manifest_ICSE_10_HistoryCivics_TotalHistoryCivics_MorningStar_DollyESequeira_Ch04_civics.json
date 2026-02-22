@@ -1,0 +1,539 @@
+{
+  "syllabus_leaves": [
+    {
+      "path": "Prime Minister and Council of Ministers > THE PRIME MINISTER > Appointment",
+      "path_titles": [
+        "Prime Minister and Council of Ministers",
+        "THE PRIME MINISTER",
+        "Appointment"
+      ],
+      "title": "Appointment",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Prime Minister and Council of Ministers > COUNCIL OF MINISTERS > Cabinet Ministers",
+      "path_titles": [
+        "Prime Minister and Council of Ministers",
+        "COUNCIL OF MINISTERS",
+        "Cabinet Ministers"
+      ],
+      "title": "Cabinet Ministers",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Prime Minister and Council of Ministers > COUNCIL OF MINISTERS > Ministers of State",
+      "path_titles": [
+        "Prime Minister and Council of Ministers",
+        "COUNCIL OF MINISTERS",
+        "Ministers of State"
+      ],
+      "title": "Ministers of State",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Prime Minister and Council of Ministers > COUNCIL OF MINISTERS > Deputy Ministers",
+      "path_titles": [
+        "Prime Minister and Council of Ministers",
+        "COUNCIL OF MINISTERS",
+        "Deputy Ministers"
+      ],
+      "title": "Deputy Ministers",
+      "sequence_number": 3,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Prime Minister and Council of Ministers > The Cabinet > Formation",
+      "path_titles": [
+        "Prime Minister and Council of Ministers",
+        "The Cabinet",
+        "Formation"
+      ],
+      "title": "Formation",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Prime Minister and Council of Ministers > The Cabinet > Appointment of the Cabinet",
+      "path_titles": [
+        "Prime Minister and Council of Ministers",
+        "The Cabinet",
+        "Appointment of the Cabinet"
+      ],
+      "title": "Appointment of the Cabinet",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Prime Minister and Council of Ministers > The Cabinet > Term of Office",
+      "path_titles": [
+        "Prime Minister and Council of Ministers",
+        "The Cabinet",
+        "Term of Office"
+      ],
+      "title": "Term of Office",
+      "sequence_number": 3,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Prime Minister and Council of Ministers > FEATURES OF THE CABINET SYSTEM > President as Nominal Head",
+      "path_titles": [
+        "Prime Minister and Council of Ministers",
+        "FEATURES OF THE CABINET SYSTEM",
+        "President as Nominal Head"
+      ],
+      "title": "President as Nominal Head",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Prime Minister and Council of Ministers > FEATURES OF THE CABINET SYSTEM > Coordination between Ministers and Parliament",
+      "path_titles": [
+        "Prime Minister and Council of Ministers",
+        "FEATURES OF THE CABINET SYSTEM",
+        "Coordination between Ministers and Parliament"
+      ],
+      "title": "Coordination between Ministers and Parliament",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Prime Minister and Council of Ministers > FEATURES OF THE CABINET SYSTEM > Leadership of the Prime Minister",
+      "path_titles": [
+        "Prime Minister and Council of Ministers",
+        "FEATURES OF THE CABINET SYSTEM",
+        "Leadership of the Prime Minister"
+      ],
+      "title": "Leadership of the Prime Minister",
+      "sequence_number": 3,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Prime Minister and Council of Ministers > FEATURES OF THE CABINET SYSTEM > Control of Parliament over the Executive",
+      "path_titles": [
+        "Prime Minister and Council of Ministers",
+        "FEATURES OF THE CABINET SYSTEM",
+        "Control of Parliament over the Executive"
+      ],
+      "title": "Control of Parliament over the Executive",
+      "sequence_number": 4,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Prime Minister and Council of Ministers > POWERS AND FUNCTIONS OF THE CABINET > Administrative Powers > Policy Making",
+      "path_titles": [
+        "Prime Minister and Council of Ministers",
+        "POWERS AND FUNCTIONS OF THE CABINET",
+        "Administrative Powers",
+        "Policy Making"
+      ],
+      "title": "Policy Making",
+      "sequence_number": 1,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "Prime Minister and Council of Ministers > POWERS AND FUNCTIONS OF THE CABINET > Administrative Powers > Implementation of Policies",
+      "path_titles": [
+        "Prime Minister and Council of Ministers",
+        "POWERS AND FUNCTIONS OF THE CABINET",
+        "Administrative Powers",
+        "Implementation of Policies"
+      ],
+      "title": "Implementation of Policies",
+      "sequence_number": 2,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "Prime Minister and Council of Ministers > POWERS AND FUNCTIONS OF THE CABINET > Administrative Powers > Coordinating the Functioning of Various Ministers",
+      "path_titles": [
+        "Prime Minister and Council of Ministers",
+        "POWERS AND FUNCTIONS OF THE CABINET",
+        "Administrative Powers",
+        "Coordinating the Functioning of Various Ministers"
+      ],
+      "title": "Coordinating the Functioning of Various Ministers",
+      "sequence_number": 3,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "Prime Minister and Council of Ministers > POWERS AND FUNCTIONS OF THE CABINET > Administrative Powers > Appointments",
+      "path_titles": [
+        "Prime Minister and Council of Ministers",
+        "POWERS AND FUNCTIONS OF THE CABINET",
+        "Administrative Powers",
+        "Appointments"
+      ],
+      "title": "Appointments",
+      "sequence_number": 4,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "Prime Minister and Council of Ministers > POWERS AND FUNCTIONS OF THE CABINET > Legislative Powers > Introduction of Bills",
+      "path_titles": [
+        "Prime Minister and Council of Ministers",
+        "POWERS AND FUNCTIONS OF THE CABINET",
+        "Legislative Powers",
+        "Introduction of Bills"
+      ],
+      "title": "Introduction of Bills",
+      "sequence_number": 1,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "Prime Minister and Council of Ministers > POWERS AND FUNCTIONS OF THE CABINET > Legislative Powers > Source of Information",
+      "path_titles": [
+        "Prime Minister and Council of Ministers",
+        "POWERS AND FUNCTIONS OF THE CABINET",
+        "Legislative Powers",
+        "Source of Information"
+      ],
+      "title": "Source of Information",
+      "sequence_number": 2,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "Prime Minister and Council of Ministers > POWERS AND FUNCTIONS OF THE CABINET > Legislative Powers > Amendment to the Constitution",
+      "path_titles": [
+        "Prime Minister and Council of Ministers",
+        "POWERS AND FUNCTIONS OF THE CABINET",
+        "Legislative Powers",
+        "Amendment to the Constitution"
+      ],
+      "title": "Amendment to the Constitution",
+      "sequence_number": 3,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "Prime Minister and Council of Ministers > POWERS AND FUNCTIONS OF THE CABINET > Legislative Powers > Summoning the Houses of Parliament",
+      "path_titles": [
+        "Prime Minister and Council of Ministers",
+        "POWERS AND FUNCTIONS OF THE CABINET",
+        "Legislative Powers",
+        "Summoning the Houses of Parliament"
+      ],
+      "title": "Summoning the Houses of Parliament",
+      "sequence_number": 4,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "Prime Minister and Council of Ministers > POWERS AND FUNCTIONS OF THE CABINET > Legislative Powers > President's Special Address",
+      "path_titles": [
+        "Prime Minister and Council of Ministers",
+        "POWERS AND FUNCTIONS OF THE CABINET",
+        "Legislative Powers",
+        "President's Special Address"
+      ],
+      "title": "President's Special Address",
+      "sequence_number": 5,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "Prime Minister and Council of Ministers > POWERS AND FUNCTIONS OF THE CABINET > Legislative Powers > Issuing Ordinances",
+      "path_titles": [
+        "Prime Minister and Council of Ministers",
+        "POWERS AND FUNCTIONS OF THE CABINET",
+        "Legislative Powers",
+        "Issuing Ordinances"
+      ],
+      "title": "Issuing Ordinances",
+      "sequence_number": 6,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "Prime Minister and Council of Ministers > POWERS AND FUNCTIONS OF THE CABINET > Financial Powers > Budget",
+      "path_titles": [
+        "Prime Minister and Council of Ministers",
+        "POWERS AND FUNCTIONS OF THE CABINET",
+        "Financial Powers",
+        "Budget"
+      ],
+      "title": "Budget",
+      "sequence_number": 1,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "Prime Minister and Council of Ministers > POWERS AND FUNCTIONS OF THE CABINET > Financial Powers > Finances of the Government",
+      "path_titles": [
+        "Prime Minister and Council of Ministers",
+        "POWERS AND FUNCTIONS OF THE CABINET",
+        "Financial Powers",
+        "Finances of the Government"
+      ],
+      "title": "Finances of the Government",
+      "sequence_number": 2,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "Prime Minister and Council of Ministers > POWERS AND FUNCTIONS OF THE CABINET > Financial Powers > Introduction of Money Bills",
+      "path_titles": [
+        "Prime Minister and Council of Ministers",
+        "POWERS AND FUNCTIONS OF THE CABINET",
+        "Financial Powers",
+        "Introduction of Money Bills"
+      ],
+      "title": "Introduction of Money Bills",
+      "sequence_number": 3,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "Prime Minister and Council of Ministers > POWERS AND FUNCTIONS OF THE CABINET > Emergency Powers",
+      "path_titles": [
+        "Prime Minister and Council of Ministers",
+        "POWERS AND FUNCTIONS OF THE CABINET",
+        "Emergency Powers"
+      ],
+      "title": "Emergency Powers",
+      "sequence_number": 4,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Prime Minister and Council of Ministers > POSITION AND POWERS OF THE PRIME MINISTER",
+      "path_titles": [
+        "Prime Minister and Council of Ministers",
+        "POSITION AND POWERS OF THE PRIME MINISTER"
+      ],
+      "title": "POSITION AND POWERS OF THE PRIME MINISTER",
+      "sequence_number": 6,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Prime Minister and Council of Ministers > Prime Minister and the President",
+      "path_titles": [
+        "Prime Minister and Council of Ministers",
+        "Prime Minister and the President"
+      ],
+      "title": "Prime Minister and the President",
+      "sequence_number": 7,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Prime Minister and Council of Ministers > Prime Minister and the Cabinet > Leader of the Cabinet",
+      "path_titles": [
+        "Prime Minister and Council of Ministers",
+        "Prime Minister and the Cabinet",
+        "Leader of the Cabinet"
+      ],
+      "title": "Leader of the Cabinet",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Prime Minister and Council of Ministers > Prime Minister and the Cabinet > Power to Allocate Portfolios and to Reshuffle the Council of Ministers",
+      "path_titles": [
+        "Prime Minister and Council of Ministers",
+        "Prime Minister and the Cabinet",
+        "Power to Allocate Portfolios and to Reshuffle the Council of Ministers"
+      ],
+      "title": "Power to Allocate Portfolios and to Reshuffle the Council of Ministers",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Prime Minister and Council of Ministers > Prime Minister and the Cabinet > Power to Select and Dismiss Ministers",
+      "path_titles": [
+        "Prime Minister and Council of Ministers",
+        "Prime Minister and the Cabinet",
+        "Power to Select and Dismiss Ministers"
+      ],
+      "title": "Power to Select and Dismiss Ministers",
+      "sequence_number": 3,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Prime Minister and Council of Ministers > Prime Minister and the Cabinet > Power to Direct and Coordinate Policy",
+      "path_titles": [
+        "Prime Minister and Council of Ministers",
+        "Prime Minister and the Cabinet",
+        "Power to Direct and Coordinate Policy"
+      ],
+      "title": "Power to Direct and Coordinate Policy",
+      "sequence_number": 4,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Prime Minister and Council of Ministers > Prime Minister and the Cabinet > Resignation of the Prime Minister",
+      "path_titles": [
+        "Prime Minister and Council of Ministers",
+        "Prime Minister and the Cabinet",
+        "Resignation of the Prime Minister"
+      ],
+      "title": "Resignation of the Prime Minister",
+      "sequence_number": 5,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Prime Minister and Council of Ministers > Prime Minister inside the Parliament > Leader of the Lok Sabha",
+      "path_titles": [
+        "Prime Minister and Council of Ministers",
+        "Prime Minister inside the Parliament",
+        "Leader of the Lok Sabha"
+      ],
+      "title": "Leader of the Lok Sabha",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Prime Minister and Council of Ministers > Prime Minister inside the Parliament > Spokesperson of the Government",
+      "path_titles": [
+        "Prime Minister and Council of Ministers",
+        "Prime Minister inside the Parliament",
+        "Spokesperson of the Government"
+      ],
+      "title": "Spokesperson of the Government",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Prime Minister and Council of Ministers > Prime Minister inside the Parliament > Defender of Government Policies",
+      "path_titles": [
+        "Prime Minister and Council of Ministers",
+        "Prime Minister inside the Parliament",
+        "Defender of Government Policies"
+      ],
+      "title": "Defender of Government Policies",
+      "sequence_number": 3,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Prime Minister and Council of Ministers > Prime Minister inside the Parliament > Intervention in case of Controversial Issues",
+      "path_titles": [
+        "Prime Minister and Council of Ministers",
+        "Prime Minister inside the Parliament",
+        "Intervention in case of Controversial Issues"
+      ],
+      "title": "Intervention in case of Controversial Issues",
+      "sequence_number": 4,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "Prime Minister and Council of Ministers > Prime Minister as Leader of the Nation",
+      "path_titles": [
+        "Prime Minister and Council of Ministers",
+        "Prime Minister as Leader of the Nation"
+      ],
+      "title": "Prime Minister as Leader of the Nation",
+      "sequence_number": 10,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Prime Minister and Council of Ministers > Check on the authority of the Prime Minister",
+      "path_titles": [
+        "Prime Minister and Council of Ministers",
+        "Check on the authority of the Prime Minister"
+      ],
+      "title": "Check on the authority of the Prime Minister",
+      "sequence_number": 11,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Prime Minister and Council of Ministers > COLLECTIVE RESPONSIBILITY",
+      "path_titles": [
+        "Prime Minister and Council of Ministers",
+        "COLLECTIVE RESPONSIBILITY"
+      ],
+      "title": "COLLECTIVE RESPONSIBILITY",
+      "sequence_number": 12,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Prime Minister and Council of Ministers > INDIVIDUAL RESPONSIBILITY",
+      "path_titles": [
+        "Prime Minister and Council of Ministers",
+        "INDIVIDUAL RESPONSIBILITY"
+      ],
+      "title": "INDIVIDUAL RESPONSIBILITY",
+      "sequence_number": 13,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    }
+  ],
+  "stray_leaves": [
+    {
+      "title": "Distinction between Council of Ministers and the Cabinet",
+      "insert_after_index": 10,
+      "micro_topics": [],
+      "has_notes": true
+    }
+  ]
+}

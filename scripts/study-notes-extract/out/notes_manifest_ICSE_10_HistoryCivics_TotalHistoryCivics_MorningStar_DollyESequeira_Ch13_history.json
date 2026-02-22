@@ -1,0 +1,380 @@
+{
+  "syllabus_leaves": [
+    {
+      "path": "REASONS FOR THE ESTABLISHMENT OF THE UNITED NATIONS > Disastrous World Wars",
+      "path_titles": [
+        "REASONS FOR THE ESTABLISHMENT OF THE UNITED NATIONS",
+        "Disastrous World Wars"
+      ],
+      "title": "Disastrous World Wars",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "REASONS FOR THE ESTABLISHMENT OF THE UNITED NATIONS > Failure of the League of Nations",
+      "path_titles": [
+        "REASONS FOR THE ESTABLISHMENT OF THE UNITED NATIONS",
+        "Failure of the League of Nations"
+      ],
+      "title": "Failure of the League of Nations",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "REASONS FOR THE ESTABLISHMENT OF THE UNITED NATIONS > Fear of Third World War",
+      "path_titles": [
+        "REASONS FOR THE ESTABLISHMENT OF THE UNITED NATIONS",
+        "Fear of Third World War"
+      ],
+      "title": "Fear of Third World War",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "REASONS FOR THE ESTABLISHMENT OF THE UNITED NATIONS > Division of the World Into Two Blocs",
+      "path_titles": [
+        "REASONS FOR THE ESTABLISHMENT OF THE UNITED NATIONS",
+        "Division of the World Into Two Blocs"
+      ],
+      "title": "Division of the World Into Two Blocs",
+      "sequence_number": 4,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "REASONS FOR THE ESTABLISHMENT OF THE UNITED NATIONS > Destructive Weapons",
+      "path_titles": [
+        "REASONS FOR THE ESTABLISHMENT OF THE UNITED NATIONS",
+        "Destructive Weapons"
+      ],
+      "title": "Destructive Weapons",
+      "sequence_number": 5,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "ORIGIN OF THE UN",
+      "path_titles": [
+        "ORIGIN OF THE UN"
+      ],
+      "title": "ORIGIN OF THE UN",
+      "sequence_number": 2,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "THE OBJECTIVES OF THE UNITED NATIONS > Main Objectives of the UN",
+      "path_titles": [
+        "THE OBJECTIVES OF THE UNITED NATIONS",
+        "Main Objectives of the UN"
+      ],
+      "title": "Main Objectives of the UN",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "Principles of the United Nations",
+      "path_titles": [
+        "Principles of the United Nations"
+      ],
+      "title": "Principles of the United Nations",
+      "sequence_number": 4,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "Headquarters",
+      "path_titles": [
+        "Headquarters"
+      ],
+      "title": "Headquarters",
+      "sequence_number": 5,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "Official Languages",
+      "path_titles": [
+        "Official Languages"
+      ],
+      "title": "Official Languages",
+      "sequence_number": 6,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "Flag",
+      "path_titles": [
+        "Flag"
+      ],
+      "title": "Flag",
+      "sequence_number": 7,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "Finances",
+      "path_titles": [
+        "Finances"
+      ],
+      "title": "Finances",
+      "sequence_number": 8,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "Membership",
+      "path_titles": [
+        "Membership"
+      ],
+      "title": "Membership",
+      "sequence_number": 9,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "India, an Original Member",
+      "path_titles": [
+        "India, an Original Member"
+      ],
+      "title": "India, an Original Member",
+      "sequence_number": 10,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "ORGANS OF THE UNITED NATIONS > THE GENERAL ASSEMBLY > Composition",
+      "path_titles": [
+        "ORGANS OF THE UNITED NATIONS",
+        "THE GENERAL ASSEMBLY",
+        "Composition"
+      ],
+      "title": "Composition",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "ORGANS OF THE UNITED NATIONS > THE GENERAL ASSEMBLY > Powers and Functions",
+      "path_titles": [
+        "ORGANS OF THE UNITED NATIONS",
+        "THE GENERAL ASSEMBLY",
+        "Powers and Functions"
+      ],
+      "title": "Powers and Functions",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "ORGANS OF THE UNITED NATIONS > THE SECURITY COUNCIL > Composition",
+      "path_titles": [
+        "ORGANS OF THE UNITED NATIONS",
+        "THE SECURITY COUNCIL",
+        "Composition"
+      ],
+      "title": "Composition",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": false
+    },
+    {
+      "path": "ORGANS OF THE UNITED NATIONS > THE SECURITY COUNCIL > Veto Power",
+      "path_titles": [
+        "ORGANS OF THE UNITED NATIONS",
+        "THE SECURITY COUNCIL",
+        "Veto Power"
+      ],
+      "title": "Veto Power",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "ORGANS OF THE UNITED NATIONS > THE SECURITY COUNCIL > Functions and Powers",
+      "path_titles": [
+        "ORGANS OF THE UNITED NATIONS",
+        "THE SECURITY COUNCIL",
+        "Functions and Powers"
+      ],
+      "title": "Functions and Powers",
+      "sequence_number": 3,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "ORGANS OF THE UNITED NATIONS > INTERNATIONAL COURT OF JUSTICE > Composition",
+      "path_titles": [
+        "ORGANS OF THE UNITED NATIONS",
+        "INTERNATIONAL COURT OF JUSTICE",
+        "Composition"
+      ],
+      "title": "Composition",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "ORGANS OF THE UNITED NATIONS > INTERNATIONAL COURT OF JUSTICE > Powers and Functions",
+      "path_titles": [
+        "ORGANS OF THE UNITED NATIONS",
+        "INTERNATIONAL COURT OF JUSTICE",
+        "Powers and Functions"
+      ],
+      "title": "Powers and Functions",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "ORGANS OF THE UNITED NATIONS > INTERNATIONAL COURT OF JUSTICE > Voluntary Jurisdiction",
+      "path_titles": [
+        "ORGANS OF THE UNITED NATIONS",
+        "INTERNATIONAL COURT OF JUSTICE",
+        "Voluntary Jurisdiction"
+      ],
+      "title": "Voluntary Jurisdiction",
+      "sequence_number": 3,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "ORGANS OF THE UNITED NATIONS > INTERNATIONAL COURT OF JUSTICE > Compulsory Jurisdiction",
+      "path_titles": [
+        "ORGANS OF THE UNITED NATIONS",
+        "INTERNATIONAL COURT OF JUSTICE",
+        "Compulsory Jurisdiction"
+      ],
+      "title": "Compulsory Jurisdiction",
+      "sequence_number": 4,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "ORGANS OF THE UNITED NATIONS > INTERNATIONAL COURT OF JUSTICE > Advisory Opinions",
+      "path_titles": [
+        "ORGANS OF THE UNITED NATIONS",
+        "INTERNATIONAL COURT OF JUSTICE",
+        "Advisory Opinions"
+      ],
+      "title": "Advisory Opinions",
+      "sequence_number": 5,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "ORGANS OF THE UNITED NATIONS > THE ECONOMIC AND SOCIAL COUNCIL (ECOSOC)",
+      "path_titles": [
+        "ORGANS OF THE UNITED NATIONS",
+        "THE ECONOMIC AND SOCIAL COUNCIL (ECOSOC)"
+      ],
+      "title": "THE ECONOMIC AND SOCIAL COUNCIL (ECOSOC)",
+      "sequence_number": 4,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "ORGANS OF THE UNITED NATIONS > THE TRUSTEESHIP COUNCIL",
+      "path_titles": [
+        "ORGANS OF THE UNITED NATIONS",
+        "THE TRUSTEESHIP COUNCIL"
+      ],
+      "title": "THE TRUSTEESHIP COUNCIL",
+      "sequence_number": 5,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "ORGANS OF THE UNITED NATIONS > THE SECRETARIAT",
+      "path_titles": [
+        "ORGANS OF THE UNITED NATIONS",
+        "THE SECRETARIAT"
+      ],
+      "title": "THE SECRETARIAT",
+      "sequence_number": 6,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "UNIVERSAL DECLARATION OF HUMAN RIGHTS > Basis of all rights Articles 1 and 2",
+      "path_titles": [
+        "UNIVERSAL DECLARATION OF HUMAN RIGHTS",
+        "Basis of all rights Articles 1 and 2"
+      ],
+      "title": "Basis of all rights Articles 1 and 2",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "UNIVERSAL DECLARATION OF HUMAN RIGHTS > Importance Of Human Rights Declaration",
+      "path_titles": [
+        "UNIVERSAL DECLARATION OF HUMAN RIGHTS",
+        "Importance Of Human Rights Declaration"
+      ],
+      "title": "Importance Of Human Rights Declaration",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "UNIVERSAL DECLARATION OF HUMAN RIGHTS > Declaration of Rights of the Child",
+      "path_titles": [
+        "UNIVERSAL DECLARATION OF HUMAN RIGHTS",
+        "Declaration of Rights of the Child"
+      ],
+      "title": "Declaration of Rights of the Child",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    }
+  ],
+  "stray_leaves": [
+    {
+      "title": "Codification of International Law",
+      "insert_after_index": 29,
+      "micro_topics": [],
+      "has_notes": true
+    },
+    {
+      "title": "Evolving Procedures for Peaceful Settlement of Disputes",
+      "insert_after_index": 29,
+      "micro_topics": [],
+      "has_notes": true
+    }
+  ]
+}

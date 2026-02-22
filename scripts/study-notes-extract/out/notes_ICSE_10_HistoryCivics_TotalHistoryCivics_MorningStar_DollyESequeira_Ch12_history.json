@@ -1,0 +1,648 @@
+{
+  "board": "ICSE",
+  "grade": 10,
+  "subject": "HistoryCivics",
+  "book_slug": "TotalHistoryCivics_MorningStar_DollyESequeira",
+  "book_meta": {
+    "book_name": "Total History & Civics",
+    "publication": "Morning Star",
+    "author": "Dolly E. Sequeira"
+  },
+  "chapter_sequence_number": 12,
+  "chapter_title": "The Second World War",
+  "discipline": "history",
+  "reconciliation": {
+    "outline": [
+      "CAUSES OF WORLD WAR II",
+      "1. Dissatisfaction with the Treaty of Versailles:",
+      "2. Rise of Fascism and Nazism:",
+      "3. Policy of Appeasement:",
+      "4. Japanese Invasion of China:",
+      "5. Failure of the League of Nations:",
+      "6. Hitler's Invasion of Poland (Immediate Cause):",
+      "EVENTS OF THE WAR",
+      "Conquest of Norway, Denmark and Holland:",
+      "Fall of France:",
+      "The Battle of Britain:",
+      "The Battle of Stalingrad:",
+      "The Battle for Berlin:",
+      "Attack on Pearl Harbour",
+      "Bombing of Hiroshima and Nagasaki",
+      "CONSEQUENCES OF THE SECOND WORLD WAR",
+      "1. Defeat of Axis Powers:",
+      "2. Formation of the UN:",
+      "3. Cold War:",
+      "MEANING OF COLD WAR",
+      "1. The Democratic and Capitalist Bloc:",
+      "2. The Communist Bloc:",
+      "Military Alliances",
+      "(i) North Atlantic Treaty Organisation (NATO):",
+      "(ii) Warsaw Pact:"
+    ],
+    "in_syllabus_only": [],
+    "in_pdf_only": [],
+    "additional_sections": []
+  },
+  "nodes": [
+    {
+      "title": "Causes of World War II",
+      "sequence_number": 1,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "Dissatisfaction with the Treaty of Versailles",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **Treaty of Versailles**, by which the First World War came to an end, created more problems than it solved. The treaty demanded **annexation of German territories** and creation of many States. This sowed the seeds of bitterness and conflict. In fact, this treaty was based on the **spirit of revenge** and Germany was forced to sign the treaty.\n\nAll the German colonies were forcibly taken away from her and she was divided into two parts for the benefit of Poland. She was burdened with a **huge war indemnity** which she could never pay. Her **military power was reduced**. This **humiliation** gave rise to the spirit of revenge and Germany started looking for an opportunity to do away with the harsh treaty. But this was not possible without an **aggressive policy and armaments**. Hence, the war became inevitable."
+            }
+          ]
+        },
+        {
+          "title": "Rise of Fascism and Nazism",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The rise of **extreme nationalism** in Italy and Germany in the form of **Fascism** and **Nazism**, respectively contributed to the causes which led to the Second World War. Italy wanted to revive the glory of the Old Roman empire. She joined the **Anti-Comintern Pact** in **1937** and formed a ten years alliance with Germany in **1939** to strengthen her position. **Mussolini** established dictatorship in Italy. He opposed the **Treaty of Versailles**. Italy demonstrated her imperialistic designs by attacking Abyssinia. The **League of Nations** failed to take any action against Italy, which exhibited the weakness of the League.\n\nIn Germany, **Hitler** wanted to re-establish the prestige of Germany in the international field. He flouted the military clauses in the **Treaty of Versailles** and declared re-armament. In **1938**, he annexed Austria and dismembered erstwhile Czechoslovakia. Thus, Mussolini and Hitler drove the countries of the world towards another World War."
+            }
+          ]
+        },
+        {
+          "title": "Policy of Appeasement",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**Appeasement** refers to the policy of conciliating an aggressive power at the expense of some other country. It meant accepting the hostile demands of an aggressive nation to gain peace. **Britain and France** followed the policy of appeasement towards dictatorial countries like **Germany and Italy** because they felt that the dictators had a real cause of grievance due to the humiliating terms of the **Treaty of Versailles** and if their grievances were removed they would not disturb world peace. Further, they wanted to check the rising tide of **Communism** and **Russian Bolshevism**. Britain and France feared that Germany would divert towards Russian Bolshevism. They, therefore, allowed Germany to **rearm** and to **re-militarise the Rhineland** and capture **Austria and Czechoslovakia**. So without the Western countries' policy of appeasement, **Fascism or Nazism** could not have survived so long and would not have been able to unleash the Second World War."
+            }
+          ]
+        },
+        {
+          "title": "Japanese Invasion of China",
+          "sequence_number": 4,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**Japanese policy of expansion** was another cause of the War. Japan's ambitions rose after the First World War. She was determined to dominate the **Far East**. In **1931**, Japan intervened in **Manchuria** and, in spite of the League's opposition, occupied it and set up a government there. Japan also started an undeclared war against China in 1931. China appealed to the **League of Nations** to declare sanctions against Japan. Britain and France, the leading members of the League did not pay any attention to the appeal. Japan joined the **Berlin-Rome Axis** to form the **Berlin-Rome-Tokyo Axis** to further its policy of expansion and conquest. In **1933**, Japan left the League of Nations and started occupying the British and American properties in China. Britain and France followed the **policy of appeasement**, thinking that the Japanese could be used to weaken China. Thus, a war was inevitable under these circumstances."
+            }
+          ]
+        },
+        {
+          "title": "Failure of the League of Nations",
+          "sequence_number": 5,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **League of Nations** was created after the First World War to prevent future wars. However, the League suffered an early blow when the **USA** did not join the League. Even those who joined the League were not interested in the principle of **collective security**.\n\nThe League of Nations succeeded in allaying the threat of war in cases where the parties were small nations. The League did nothing when **Poland**, with the backing of **France**, seized a part of **Lithuania** in **1920**.\n\nIn **1923**, there was a threat of war between **Italy** and **Greece**. Italy refused to submit to the League's intervention and the dispute was settled by direct mediation of **Great Britain** and **France**. Thereafter, in every crisis, the League was either defied or ignored. The authority of the League was flouted by **Japan** when it seized **Manchuria**; and by **Italy** when it conquered **Ethiopia**.\n\nThe coercive machinery of the League was not adequate to perform the task given to it. The **economic sanctions** were of no use against a determined aggressor. Moreover, the member states were not willing to apply economic sanctions as it affected their economy as well. Besides, the League failed to maintain international peace and the countries of Europe lost faith in its usefulness. Thereafter, they themselves entered into mutual political and military alliances."
+            }
+          ]
+        },
+        {
+          "title": "Hitler's Invasion of Poland (Immediate Cause)",
+          "sequence_number": 6,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "**Hitler** invaded **Poland** in **September 1939** for the following reasons:\n\n(i) By the **Treaty of Versailles**, Germany was divided into two parts in order to give a land-route to Poland up to the sea and the **Port of Danzig** was also given to Poland. Germany wanted to regain her lost territories.\n(ii) The city of **Danzig** was inhabited mainly by the Germans and by occupying the **Danzig Corridor**, Germany could connect with East Prussia.\n(iii) Germany signed a **Non-Aggression Pact** with **Russia** in **August 1939**. Poland was accused of committing atrocities against Germans living there."
+            },
+            {
+              "content_md": "On **September 1, 1939**, the German armies marched into **Poland**. **France** and **Britain** gave an ultimatum to Germany. In reply, Germany attacked France. On **September 3**, Britain and France declared war on Germany. Thus the invasion of Poland marked the beginning of the **Second World War**. The German armies completed the conquest of Poland in less than three weeks so as to ensure that no aid reached Poland.\n\n[Image: Hitler]\n\nIn spite of the declaration of war, there was little actual fighting for many months. Therefore, the war during this period from **September 1939** to **April 1940** was dormant."
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    },
+    {
+      "title": "EVENTS OF THE WAR",
+      "sequence_number": 2,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "Conquest of Norway, Denmark and Holland",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "Germany launched her invasion of **Norway** and **Denmark** on **April 9, 1940** and within three weeks completed the conquest of these two countries. In early May began the invasion of **Belgium** and **Holland** which was completed before the end of May."
+            }
+          ]
+        },
+        {
+          "title": "Fall of France",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **German armies** marched into France and by **June 14, 1940**, the capital city of **Paris** had fallen into German hands almost without a fight. The war conducted by Germany with great speed and force is known as **blitzkrieg** which means a 'lightning war.'"
+            }
+          ]
+        },
+        {
+          "title": "The Battle of Britain",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **German Air Force** began bombing raids on Britain in **August 1940** with the aim of terrorizing her into surrender. The **Royal Air Force of Britain** conducted air raids on German territories in retaliation."
+            }
+          ]
+        },
+        {
+          "title": "The Battle of Stalingrad",
+          "sequence_number": 4,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "In **June 1941**, **Hitler** betrayed his agreement with **Stalin** and invaded the **Soviet Union**. In **August 1942**, Hitler targeted **Stalingrad**, an industrial city. In November, the **Soviets** were able to counter attack with fresh troops. The **Germans** suffered from **frigid temperatures** and inability to get fresh supplies. The starving Germans finally **surrendered**."
+            }
+          ]
+        },
+        {
+          "title": "The Battle for Berlin",
+          "sequence_number": 5,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "It began in **April 1945**. The Germans were caught between the **British and Americans** on one side and the **Russians** on the other. When the **Allied forces** closed in, on **Berlin** itself, **Hitler committed suicide**. On **May 7, 1945** the last of the German armies surrendered. **May 8** was the Day of Celebration of **Victory in Europe**."
+            }
+          ]
+        },
+        {
+          "title": "Attack on Pearl Harbour",
+          "sequence_number": 6,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "America followed a policy of **strict neutrality**. The American Congress decided to lend or lease armaments to Britain and China, because their defence was vital to the defence of the United States."
+            },
+            {
+              "content_md": "The only military force that Japan had to fear was the **US Pacific Fleet** based at **Pearl Harbour** in Hawaii. On **December 7, 1941**, Japan under the Premiership of **General Tojo**, ordered a **surprise aerial attack** on the Pearl Harbour. The battleships were sunk and the important airfields were destroyed. 3700 people were killed. The Japanese made two crucial mistakes at Pearl Harbour—they did not destroy the ship repair facilities at the base nor did they seek out and destroy the US carriers (Lexington and the Enterprise). As a result, most of the ships that were damaged were soon back in action."
+            },
+            {
+              "content_md": "On **December 8, 1941**, the **USA joined the War**, halting the Japanese advance."
+            }
+          ]
+        },
+        {
+          "title": "Bombing of Hiroshima and Nagasaki",
+          "sequence_number": 7,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The Americans started their offensive against Japan to liberate the islands in the South West Pacific. The American navy and air force destroyed the Japanese fleet, but Japan was still firmly and strongly established in China, Manchuria and other places.\n\nIn 1945, the Japanese in the Philippines formed a special force called the **'kamikaze'** (the suicide air corps). Young Japanese pilots steered an explosive-laden plane into the side or deck of an American ship. Civilians too had been trained in the use of a variety of weapons. This made a land invasion of Japan costly and futile."
+            },
+            {
+              "content_md": "Long before the invasion on Japan was planned, scientists in United States were working on the most powerful weapon ever conceived—the **atomic bomb**. In **July 1945**, the first atomic bomb was detonated in the desert near **Alamogordo, New Mexico**.\n\nAfter much debate, the decision to use the bomb was taken. Days before the first bomb was dropped on Japan, American planes dropped leaflets warning about the deadly weapon and urging the Japanese people and government to end the fighting."
+            },
+            {
+              "content_md": "[Image: Mushroom cloud of the atom bomb]"
+            },
+            {
+              "content_md": "On **August 6, 1945**, the first atomic bomb ever to be used on humans, was dropped on **Hiroshima**. It destroyed half of the city killing thousands of people. Despite the terrible destruction, the Japanese still refused to surrender. On **August 9, 1945**, another bomb was dropped on **Nagasaki**. Japan surrendered unconditionally on **August 15, 1945**. She signed the surrender document on the deck of the **USS Missouri** on **September 2, 1945**. This day was declared as **Victory over Japan Day (V-J Day)**. After six long years, World War II was over."
+            },
+            {
+              "content_md": "Over 50 million people perished in the Second World War. Of them about 22 million were soldiers and the rest civilians. About 12 million people lost their lives in concentration camps or as a result of the terror unleashed by the fascists. Some countries lost a large percentage of their population. For example, Poland lost six million people, about five million of them civilians; which was about 20 per cent of the Polish population. The Soviet Union lost about 20 million people which was about 10 per cent of the population.\n\nThe various nations who took part in the war spent most of their national wealth and suffered heavy losses. The chief colonial powers lost their power and many countries like India, Myanmar and Sri Lanka became independent. Later other countries of Asia and Africa were liberated one by one from imperial control."
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    },
+    {
+      "title": "CONSEQUENCES OF THE SECOND WORLD WAR",
+      "sequence_number": 3,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "Defeat of Axis Powers",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "Up to the middle of 1942, the **Axis powers** (Germany, Italy and Japan) met with remarkable success and captured large territories in Europe, Africa and Asia. But by the end of 1942, the tide began to turn against the Axis Powers. In November 1942, the **Allied forces** (Britain, France, the Soviet Union and the USA) recaptured African territories lost by France. This was followed by their victory over Italy and then Germany."
+            },
+            {
+              "content_md": "After the defeat of Germany, the Allied Powers turned their attention towards Japan. Japan had won and had occupied most of South East Asia. The British forces liberated Myanmar, Malaya, Philippines and Singapore. In the **Potsdam Conference** held on **July 26, 1945**, the Allied Powers asked Japan to surrender, but Japan refused. Consequently, America dropped the atomic bombs on Hiroshima and Nagasaki. Japan offered to surrender on the terms of Potsdam declaration and the war came to an end."
+            },
+            {
+              "content_md": "Thus, after the war, the Axis Powers had to face the following consequences:\n\n[Image: Division of Germany]\n\n(i) At the end of World War II, **Germany was divided into zones**, each zone under the army of each of the Allied Powers.\n   (a) The **Federal Republic of Germany (FRG)** commonly known as **West Germany** was administered by UK, France and the U.S. with Bonn as the capital. It came under the capitalist ideology of the Anglo-American and their Allies and became part of the **Capitalist bloc**.\n   (b) The **German Democratic Republic (GDR)**, known as **East Germany** was administered by the Soviet Union with East Berlin as the capital. It came under the influence of the political ideologies of communist Russia and became part of the **Communist (or Eastern) bloc**.\n\n(ii) **Japan and Italy also became very weak**. Unlike Germany, they were not divided into zones to be governed by conquering forces. The American army was to occupy Japan until 1952. After this period, the Japanese would resume sole control over their own affairs. **Emperor Hirohito** was left on the throne as a constitutional monarch and the Japanese Parliament retained some of its law making powers. All lands acquired or seized by Japan since 1895 were taken away."
+            }
+          ]
+        },
+        {
+          "title": "Formation of the UN",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **horrors of the two World Wars** and the **failure of the League of Nations** led to a meeting of the **Big Three**—**Roosevelt** (President of the USA), **Churchill** (Prime Minister of Britain) and **Stalin** (Premier of the USSR) at **Yalta** in **February 1945**. They resolved to convene a conference of the representatives of all nations at **San Francisco** to draw up the **'Charter of the United Nations.'** This led to the establishment of the **United Nations Organisation** on **October 24, 1945**."
+            }
+          ]
+        },
+        {
+          "title": "Cold War",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "During the Second World War, the **USA** and the erstwhile **Soviet Union** fought together. After the war, they emerged as the world's two leading powers.\n\nHowever, towards the end of the War, the apparent harmony between the USA and the erstwhile Soviet Union declined. Old mutual suspicion and ideological differences came to the forefront. After the Second World War both the countries did not engage in actual fight against each other but there was a state of extreme political tension between the two. This state of tension between countries in which each side adopted policies designed to strengthen itself and weaken the other without armed conflict, is known as the **‘Cold War’**."
+            }
+          ]
+        },
+        {
+          "title": "MEANING OF COLD WAR",
+          "sequence_number": 4,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The term '**Cold War**', in the sense of a war waged through an indirect conflict, was first used by the American financier and Presidential advisor, **Bernard Baruch**. In a speech delivered in **1947**, he said, \"Let us not be deceived: we are today in the midst of a Cold War.\""
+            },
+            {
+              "content_md": "**Cold War** is defined as an atmosphere where there is no armed struggle, but the rivals continue to maintain their peace time diplomatic relations along with their hostility."
+            },
+            {
+              "content_md": "The characteristics of the Cold War are:\n*   A bitter state of tension and hostility.\n*   Absence of armed struggle.\n*   Ideological hatred and political distrust.\n*   Neither an era of peace nor that of war prevails."
+            },
+            {
+              "content_md": "This Cold War led to the division of the world into two **power blocs**. One bloc was led by the **USA** and the other by the erstwhile **USSR**."
+            }
+          ]
+        },
+        {
+          "title": "The Democratic and Capitalist Bloc",
+          "sequence_number": 5,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The bloc led by the **USA**, called the **Western bloc** or the **American bloc** believed in **liberal democracy** based on **Capitalism**. This bloc comprised **Britain, France, Belgium, Italy, Canada, Australia, the Netherlands, Greece, Pakistan, Turkey, etc.** They considered the political and social system of the **USSR** as objectionable and dangerous as it had no place for **Parliamentary democracy** and individual liberty. They projected the **USSR** as the enemy of world peace and **Communism** as a grave threat to freedom and liberty throughout the world. America tried to maintain her influence by giving economic aid to different countries. The **United States**, as the leader of the **Free World**, took upon itself, the responsibility of preventing communism from spreading."
+            }
+          ]
+        },
+        {
+          "title": "The Communist Bloc",
+          "sequence_number": 6,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "### 2. The Communist Bloc\n\nThe bloc led by the **USSR**, called the **Eastern bloc** or the **Soviet bloc** believed in **Communism** based on **Marxist theory**. The Soviet bloc countries considered the Western style democracy as a farce, meant only for the rich and upper middle class. Therefore, they wanted to spread **Communism** in the world and bring about a change in the social system of all the countries of the world. The **USSR** was determined to maintain political, economic and military control of the countries in eastern Europe which had been liberated from Nazi control. Thus, by **1948**, governments which owed allegiance to Moscow were established in **Poland**, **Hungary**, **Romania**, **Bulgaria** and **Czechoslovakia**. Though **Yugoslavia** and **Albania** were not directly linked to the erstwhile **USSR** as satellites, the governments of these two countries were also **Communist**. Thus, the whole Europe was divided into two power blocs.\n\nThe two blocs openly propagated against each other and considered each problem from the point of view of the bloc and left no opportunity to weaken the opponent. But at the same time, they made every effort to avoid a direct conflict."
+            }
+          ]
+        },
+        {
+          "title": "Military Alliances",
+          "sequence_number": 7,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "North Atlantic Treaty Organisation (NATO)",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "It was the biggest of the **politico-military alliances** formed after the Second World War. It was created by a treaty signed by **12 nations** at Washington in **April 1949**. These 12 original members were—**Belgium, Canada, Denmark, France, Iceland, Italy, Luxembourg, the Netherlands, Norway, Portugal, the UK and the USA**. It was joined by **Greece and Turkey in 1952** and **Federal Republic of Germany (West Germany) in 1955**.\n\nThe main objective of NATO was to defend **peace, security and independence** of the countries on the coast of the Atlantic Ocean."
+                },
+                {
+                  "content_md": "The treaty said that an armed attack against one or more of its members \"shall be considered an **attack against them all**\" and they agreed to work for policy of **non-deterrence** and **collective security**. Though the USSR objected to the presence of nuclear weapons in Europe, NATO was determined to maintain a defence arsenal that included both **nuclear and conventional weapons**."
+                },
+                {
+                  "content_md": "At present NATO has **32 member countries**, the recent ones being **Montenegro (2017)**, **North Macedonia (2020)**, **Finland (2023)** and **Sweden (2024)**, reflecting its continued relevance. It now focusses on **collective defence and deterrence**, especially in Eastern Europe; **crisis management** and **peacekeeping operations**; countering modern threats such as **terrorism** and **cyber-attacks**; and partnerships with non-member countries to maintain global stability."
+                },
+                {
+                  "content_md": "In recent times NATO has come to the forefront due to the **Russia-Ukraine conflict**. Ukraine, a neutral country, had sought NATO membership after it was attacked by Russia in **2014** and again in **2022**. According to Russia NATO's enlargement into Eastern Europe has renewed tensions between Russia and the West and is the central cause of 'the **Russia-Ukraine Crisis**'."
+                }
+              ]
+            },
+            {
+              "title": "Warsaw Pact",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The formation of **NATO** was seen as a warning to the erstwhile **Soviet Union** and the USA's preparedness to defeat communism. **NATO** was strongly opposed by the countries of Eastern Bloc. The immediate reason for the formation of **Warsaw Pact** was an agreement among Western Powers by which they admitted West Germany to **NATO**. It prompted the Soviet Union to set up its own alliance, the **Warsaw Pact**."
+                },
+                {
+                  "content_md": "To meet the challenge posed by American sponsored **NATO**, the erstwhile **USSR** concluded a pact with the Communist countries at Warsaw on **May 14, 1955**. It was formally called the **Warsaw Treaty of Friendship, Cooperation and Mutual Assistance**. It was signed by Albania, Bulgaria, Hungary, East Germany, Poland, Romania, the **USSR** and Czechoslovakia. By this pact, the signatories promised to defend each other against any attack from outside. It decided to set up a joint command of the armed forces of the member-countries under the overall command of the **USSR**."
+                },
+                {
+                  "content_md": "Albania withdrew in 1968 and East Germany in 1990. The treaty was renewed in 1985 which provided for unified military command and for the maintenance of Soviet military units on the territories of the other participating states. After the democratic revolutions of 1989 in eastern Europe, the **Warsaw Pact** became moribund and was formally declared 'non-existent' on **July 1, 1991**."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        }
+      ],
+      "content_blocks": []
+    }
+  ],
+  "additional_sections": [],
+  "needs_review": [],
+  "manifest": {
+    "syllabus_leaves": [
+      {
+        "path": "Causes of World War II > Dissatisfaction with the Treaty of Versailles",
+        "path_titles": [
+          "Causes of World War II",
+          "Dissatisfaction with the Treaty of Versailles"
+        ],
+        "title": "Dissatisfaction with the Treaty of Versailles",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Causes of World War II > Rise of Fascism and Nazism",
+        "path_titles": [
+          "Causes of World War II",
+          "Rise of Fascism and Nazism"
+        ],
+        "title": "Rise of Fascism and Nazism",
+        "sequence_number": 2,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Causes of World War II > Policy of Appeasement",
+        "path_titles": [
+          "Causes of World War II",
+          "Policy of Appeasement"
+        ],
+        "title": "Policy of Appeasement",
+        "sequence_number": 3,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Causes of World War II > Japanese Invasion of China",
+        "path_titles": [
+          "Causes of World War II",
+          "Japanese Invasion of China"
+        ],
+        "title": "Japanese Invasion of China",
+        "sequence_number": 4,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Causes of World War II > Failure of the League of Nations",
+        "path_titles": [
+          "Causes of World War II",
+          "Failure of the League of Nations"
+        ],
+        "title": "Failure of the League of Nations",
+        "sequence_number": 5,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Causes of World War II > Hitler's Invasion of Poland (Immediate Cause)",
+        "path_titles": [
+          "Causes of World War II",
+          "Hitler's Invasion of Poland (Immediate Cause)"
+        ],
+        "title": "Hitler's Invasion of Poland (Immediate Cause)",
+        "sequence_number": 6,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "EVENTS OF THE WAR > Conquest of Norway, Denmark and Holland",
+        "path_titles": [
+          "EVENTS OF THE WAR",
+          "Conquest of Norway, Denmark and Holland"
+        ],
+        "title": "Conquest of Norway, Denmark and Holland",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "EVENTS OF THE WAR > Fall of France",
+        "path_titles": [
+          "EVENTS OF THE WAR",
+          "Fall of France"
+        ],
+        "title": "Fall of France",
+        "sequence_number": 2,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "EVENTS OF THE WAR > The Battle of Britain",
+        "path_titles": [
+          "EVENTS OF THE WAR",
+          "The Battle of Britain"
+        ],
+        "title": "The Battle of Britain",
+        "sequence_number": 3,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "EVENTS OF THE WAR > The Battle of Stalingrad",
+        "path_titles": [
+          "EVENTS OF THE WAR",
+          "The Battle of Stalingrad"
+        ],
+        "title": "The Battle of Stalingrad",
+        "sequence_number": 4,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "EVENTS OF THE WAR > The Battle for Berlin",
+        "path_titles": [
+          "EVENTS OF THE WAR",
+          "The Battle for Berlin"
+        ],
+        "title": "The Battle for Berlin",
+        "sequence_number": 5,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "EVENTS OF THE WAR > Attack on Pearl Harbour",
+        "path_titles": [
+          "EVENTS OF THE WAR",
+          "Attack on Pearl Harbour"
+        ],
+        "title": "Attack on Pearl Harbour",
+        "sequence_number": 6,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "EVENTS OF THE WAR > Bombing of Hiroshima and Nagasaki",
+        "path_titles": [
+          "EVENTS OF THE WAR",
+          "Bombing of Hiroshima and Nagasaki"
+        ],
+        "title": "Bombing of Hiroshima and Nagasaki",
+        "sequence_number": 7,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "CONSEQUENCES OF THE SECOND WORLD WAR > Defeat of Axis Powers",
+        "path_titles": [
+          "CONSEQUENCES OF THE SECOND WORLD WAR",
+          "Defeat of Axis Powers"
+        ],
+        "title": "Defeat of Axis Powers",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "CONSEQUENCES OF THE SECOND WORLD WAR > Formation of the UN",
+        "path_titles": [
+          "CONSEQUENCES OF THE SECOND WORLD WAR",
+          "Formation of the UN"
+        ],
+        "title": "Formation of the UN",
+        "sequence_number": 2,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "CONSEQUENCES OF THE SECOND WORLD WAR > Cold War",
+        "path_titles": [
+          "CONSEQUENCES OF THE SECOND WORLD WAR",
+          "Cold War"
+        ],
+        "title": "Cold War",
+        "sequence_number": 3,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "CONSEQUENCES OF THE SECOND WORLD WAR > MEANING OF COLD WAR",
+        "path_titles": [
+          "CONSEQUENCES OF THE SECOND WORLD WAR",
+          "MEANING OF COLD WAR"
+        ],
+        "title": "MEANING OF COLD WAR",
+        "sequence_number": 4,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "CONSEQUENCES OF THE SECOND WORLD WAR > The Democratic and Capitalist Bloc",
+        "path_titles": [
+          "CONSEQUENCES OF THE SECOND WORLD WAR",
+          "The Democratic and Capitalist Bloc"
+        ],
+        "title": "The Democratic and Capitalist Bloc",
+        "sequence_number": 5,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "CONSEQUENCES OF THE SECOND WORLD WAR > The Communist Bloc",
+        "path_titles": [
+          "CONSEQUENCES OF THE SECOND WORLD WAR",
+          "The Communist Bloc"
+        ],
+        "title": "The Communist Bloc",
+        "sequence_number": 6,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "CONSEQUENCES OF THE SECOND WORLD WAR > Military Alliances > North Atlantic Treaty Organisation (NATO)",
+        "path_titles": [
+          "CONSEQUENCES OF THE SECOND WORLD WAR",
+          "Military Alliances",
+          "North Atlantic Treaty Organisation (NATO)"
+        ],
+        "title": "North Atlantic Treaty Organisation (NATO)",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "CONSEQUENCES OF THE SECOND WORLD WAR > Military Alliances > Warsaw Pact",
+        "path_titles": [
+          "CONSEQUENCES OF THE SECOND WORLD WAR",
+          "Military Alliances",
+          "Warsaw Pact"
+        ],
+        "title": "Warsaw Pact",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      }
+    ],
+    "stray_leaves": []
+  }
+}

@@ -22,25 +22,25 @@
       "sequence_number": 2,
       "depth": 1,
       "level_label": "Topic",
-      "has_notes": true
+      "has_notes": false
     },
     {
-      "path": "SOURCES > Angas",
+      "path": "SOURCES > (i) Angas",
       "path_titles": [
         "SOURCES",
-        "Angas"
+        "(i) Angas"
       ],
-      "title": "Angas",
+      "title": "(i) Angas",
       "sequence_number": 1,
       "depth": 1,
       "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "SOURCES > Tripitikas > The Vinaya Pitaka",
+      "path": "SOURCES > (ii) Tripitikas > The Vinaya Pitaka",
       "path_titles": [
         "SOURCES",
-        "Tripitikas",
+        "(ii) Tripitikas",
         "The Vinaya Pitaka"
       ],
       "title": "The Vinaya Pitaka",
@@ -50,10 +50,10 @@
       "has_notes": true
     },
     {
-      "path": "SOURCES > Tripitikas > The Sutta Pitaka",
+      "path": "SOURCES > (ii) Tripitikas > The Sutta Pitaka",
       "path_titles": [
         "SOURCES",
-        "Tripitikas",
+        "(ii) Tripitikas",
         "The Sutta Pitaka"
       ],
       "title": "The Sutta Pitaka",
@@ -63,10 +63,10 @@
       "has_notes": true
     },
     {
-      "path": "SOURCES > Tripitikas > The Abhidhamma Pitaka",
+      "path": "SOURCES > (ii) Tripitikas > The Abhidhamma Pitaka",
       "path_titles": [
         "SOURCES",
-        "Tripitikas",
+        "(ii) Tripitikas",
         "The Abhidhamma Pitaka"
       ],
       "title": "The Abhidhamma Pitaka",
@@ -76,84 +76,84 @@
       "has_notes": true
     },
     {
-      "path": "SOURCES > Jatakas",
+      "path": "SOURCES > (iii) Jatakas",
       "path_titles": [
         "SOURCES",
-        "Jatakas"
+        "(iii) Jatakas"
       ],
-      "title": "Jatakas",
+      "title": "(iii) Jatakas",
       "sequence_number": 3,
       "depth": 1,
       "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "CAUSES FOR THE RISE OF JAINISM AND BUDDHISM > Reaction against Ritualism",
+      "path": "CAUSES FOR THE RISE OF JAINISM AND BUDDHISM > (i) Reaction against Ritualism",
       "path_titles": [
         "CAUSES FOR THE RISE OF JAINISM AND BUDDHISM",
-        "Reaction against Ritualism"
+        "(i) Reaction against Ritualism"
       ],
-      "title": "Reaction against Ritualism",
+      "title": "(i) Reaction against Ritualism",
       "sequence_number": 1,
       "depth": 1,
       "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "CAUSES FOR THE RISE OF JAINISM AND BUDDHISM > Corruption in Religion",
+      "path": "CAUSES FOR THE RISE OF JAINISM AND BUDDHISM > (ii) Corruption in Religion",
       "path_titles": [
         "CAUSES FOR THE RISE OF JAINISM AND BUDDHISM",
-        "Corruption in Religion"
+        "(ii) Corruption in Religion"
       ],
-      "title": "Corruption in Religion",
+      "title": "(ii) Corruption in Religion",
       "sequence_number": 2,
       "depth": 1,
       "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "CAUSES FOR THE RISE OF JAINISM AND BUDDHISM > Rigid Caste System",
+      "path": "CAUSES FOR THE RISE OF JAINISM AND BUDDHISM > (iii) Rigid Caste System",
       "path_titles": [
         "CAUSES FOR THE RISE OF JAINISM AND BUDDHISM",
-        "Rigid Caste System"
+        "(iii) Rigid Caste System"
       ],
-      "title": "Rigid Caste System",
+      "title": "(iii) Rigid Caste System",
       "sequence_number": 3,
       "depth": 1,
       "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "CAUSES FOR THE RISE OF JAINISM AND BUDDHISM > Difficult Language",
+      "path": "CAUSES FOR THE RISE OF JAINISM AND BUDDHISM > (iv) Difficult Language",
       "path_titles": [
         "CAUSES FOR THE RISE OF JAINISM AND BUDDHISM",
-        "Difficult Language"
+        "(iv) Difficult Language"
       ],
-      "title": "Difficult Language",
+      "title": "(iv) Difficult Language",
       "sequence_number": 4,
       "depth": 1,
       "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "CAUSES FOR THE RISE OF JAINISM AND BUDDHISM > Political situation",
+      "path": "CAUSES FOR THE RISE OF JAINISM AND BUDDHISM > (v) Political situation",
       "path_titles": [
         "CAUSES FOR THE RISE OF JAINISM AND BUDDHISM",
-        "Political situation"
+        "(v) Political situation"
       ],
-      "title": "Political situation",
+      "title": "(v) Political situation",
       "sequence_number": 5,
       "depth": 1,
       "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "CAUSES FOR THE RISE OF JAINISM AND BUDDHISM > Agricultural Economy",
+      "path": "CAUSES FOR THE RISE OF JAINISM AND BUDDHISM > (vi) Agricultural Economy",
       "path_titles": [
         "CAUSES FOR THE RISE OF JAINISM AND BUDDHISM",
-        "Agricultural Economy"
+        "(vi) Agricultural Economy"
       ],
-      "title": "Agricultural Economy",
+      "title": "(vi) Agricultural Economy",
       "sequence_number": 6,
       "depth": 1,
       "level_label": "Topic",
@@ -172,104 +172,161 @@
       "has_notes": true
     },
     {
-      "path": "JAINISM > MAIN TEACHINGS OF JAINISM > The Five Vows",
+      "path": "JAINISM > MAIN TEACHINGS OF JAINISM > 1. The Five Vows > (i) Ahimsa: non-violence.",
       "path_titles": [
         "JAINISM",
         "MAIN TEACHINGS OF JAINISM",
-        "The Five Vows"
+        "1. The Five Vows",
+        "(i) Ahimsa: non-violence."
       ],
-      "title": "The Five Vows",
+      "title": "(i) Ahimsa: non-violence.",
       "sequence_number": 1,
-      "depth": 2,
-      "level_label": "Subtopic",
+      "depth": 3,
+      "level_label": "Point",
       "has_notes": true
     },
     {
-      "path": "JAINISM > MAIN TEACHINGS OF JAINISM > Nine Truths",
+      "path": "JAINISM > MAIN TEACHINGS OF JAINISM > 1. The Five Vows > (ii) Achaurya or Asteya: not stealing.",
       "path_titles": [
         "JAINISM",
         "MAIN TEACHINGS OF JAINISM",
-        "Nine Truths"
+        "1. The Five Vows",
+        "(ii) Achaurya or Asteya: not stealing."
       ],
-      "title": "Nine Truths",
+      "title": "(ii) Achaurya or Asteya: not stealing.",
+      "sequence_number": 2,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "JAINISM > MAIN TEACHINGS OF JAINISM > 1. The Five Vows > (iii) Satya: not telling a lie.",
+      "path_titles": [
+        "JAINISM",
+        "MAIN TEACHINGS OF JAINISM",
+        "1. The Five Vows",
+        "(iii) Satya: not telling a lie."
+      ],
+      "title": "(iii) Satya: not telling a lie.",
+      "sequence_number": 3,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "JAINISM > MAIN TEACHINGS OF JAINISM > 1. The Five Vows > (iv) Aparigraha: not possessing property.",
+      "path_titles": [
+        "JAINISM",
+        "MAIN TEACHINGS OF JAINISM",
+        "1. The Five Vows",
+        "(iv) Aparigraha: not possessing property."
+      ],
+      "title": "(iv) Aparigraha: not possessing property.",
+      "sequence_number": 4,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "JAINISM > MAIN TEACHINGS OF JAINISM > 1. The Five Vows > (v) Brahmacharya: practising chastity.",
+      "path_titles": [
+        "JAINISM",
+        "MAIN TEACHINGS OF JAINISM",
+        "1. The Five Vows",
+        "(v) Brahmacharya: practising chastity."
+      ],
+      "title": "(v) Brahmacharya: practising chastity.",
+      "sequence_number": 5,
+      "depth": 3,
+      "level_label": "Point",
+      "has_notes": true
+    },
+    {
+      "path": "JAINISM > MAIN TEACHINGS OF JAINISM > 2. Nine Truths",
+      "path_titles": [
+        "JAINISM",
+        "MAIN TEACHINGS OF JAINISM",
+        "2. Nine Truths"
+      ],
+      "title": "2. Nine Truths",
       "sequence_number": 2,
       "depth": 2,
       "level_label": "Subtopic",
       "has_notes": true
     },
     {
-      "path": "JAINISM > DOCTRINES OF JAINISM > Tri-ratnas",
+      "path": "JAINISM > DOCTRINES OF JAINISM > (i) Tri-ratnas",
       "path_titles": [
         "JAINISM",
         "DOCTRINES OF JAINISM",
-        "Tri-ratnas"
+        "(i) Tri-ratnas"
       ],
-      "title": "Tri-ratnas",
+      "title": "(i) Tri-ratnas",
       "sequence_number": 1,
       "depth": 2,
       "level_label": "Subtopic",
       "has_notes": true
     },
     {
-      "path": "JAINISM > DOCTRINES OF JAINISM > Karma",
+      "path": "JAINISM > DOCTRINES OF JAINISM > (ii) Karma",
       "path_titles": [
         "JAINISM",
         "DOCTRINES OF JAINISM",
-        "Karma"
+        "(ii) Karma"
       ],
-      "title": "Karma",
+      "title": "(ii) Karma",
       "sequence_number": 2,
       "depth": 2,
       "level_label": "Subtopic",
       "has_notes": true
     },
     {
-      "path": "JAINISM > DOCTRINES OF JAINISM > Equality",
+      "path": "JAINISM > DOCTRINES OF JAINISM > (iii) Equality",
       "path_titles": [
         "JAINISM",
         "DOCTRINES OF JAINISM",
-        "Equality"
+        "(iii) Equality"
       ],
-      "title": "Equality",
+      "title": "(iii) Equality",
       "sequence_number": 3,
       "depth": 2,
       "level_label": "Subtopic",
       "has_notes": true
     },
     {
-      "path": "JAINISM > DOCTRINES OF JAINISM > Eternal soul",
+      "path": "JAINISM > DOCTRINES OF JAINISM > (iv) Eternal soul",
       "path_titles": [
         "JAINISM",
         "DOCTRINES OF JAINISM",
-        "Eternal soul"
+        "(iv) Eternal soul"
       ],
-      "title": "Eternal soul",
+      "title": "(iv) Eternal soul",
       "sequence_number": 4,
       "depth": 2,
       "level_label": "Subtopic",
       "has_notes": true
     },
     {
-      "path": "JAINISM > DOCTRINES OF JAINISM > Salvation",
+      "path": "JAINISM > DOCTRINES OF JAINISM > (v) Salvation",
       "path_titles": [
         "JAINISM",
         "DOCTRINES OF JAINISM",
-        "Salvation"
+        "(v) Salvation"
       ],
-      "title": "Salvation",
+      "title": "(v) Salvation",
       "sequence_number": 5,
       "depth": 2,
       "level_label": "Subtopic",
       "has_notes": true
     },
     {
-      "path": "JAINISM > DOCTRINES OF JAINISM > Belief in Penance",
+      "path": "JAINISM > DOCTRINES OF JAINISM > (vi) Belief in Penance",
       "path_titles": [
         "JAINISM",
         "DOCTRINES OF JAINISM",
-        "Belief in Penance"
+        "(vi) Belief in Penance"
       ],
-      "title": "Belief in Penance",
+      "title": "(vi) Belief in Penance",
       "sequence_number": 6,
       "depth": 2,
       "level_label": "Subtopic",
@@ -288,131 +345,198 @@
       "has_notes": true
     },
     {
-      "path": "JAINISM > CAUSES OF THE SPREAD OF JAINISM > Local Dialect",
+      "path": "JAINISM > CAUSES OF THE SPREAD OF JAINISM > (i) Local Dialect",
       "path_titles": [
         "JAINISM",
         "CAUSES OF THE SPREAD OF JAINISM",
-        "Local Dialect"
+        "(i) Local Dialect"
       ],
-      "title": "Local Dialect",
+      "title": "(i) Local Dialect",
       "sequence_number": 1,
       "depth": 2,
       "level_label": "Subtopic",
       "has_notes": true
     },
     {
-      "path": "JAINISM > CAUSES OF THE SPREAD OF JAINISM > Royal Patronage",
+      "path": "JAINISM > CAUSES OF THE SPREAD OF JAINISM > (ii) Royal Patronage",
       "path_titles": [
         "JAINISM",
         "CAUSES OF THE SPREAD OF JAINISM",
-        "Royal Patronage"
+        "(ii) Royal Patronage"
       ],
-      "title": "Royal Patronage",
+      "title": "(ii) Royal Patronage",
       "sequence_number": 2,
       "depth": 2,
       "level_label": "Subtopic",
       "has_notes": true
     },
     {
-      "path": "JAINISM > CAUSES OF THE SPREAD OF JAINISM > Saints",
+      "path": "JAINISM > CAUSES OF THE SPREAD OF JAINISM > (iii) Saints",
       "path_titles": [
         "JAINISM",
         "CAUSES OF THE SPREAD OF JAINISM",
-        "Saints"
+        "(iii) Saints"
       ],
-      "title": "Saints",
+      "title": "(iii) Saints",
       "sequence_number": 3,
       "depth": 2,
       "level_label": "Subtopic",
       "has_notes": true
     },
     {
-      "path": "JAINISM > CAUSES OF THE SPREAD OF JAINISM > Appeal to People",
+      "path": "JAINISM > CAUSES OF THE SPREAD OF JAINISM > (iv) Appeal to People",
       "path_titles": [
         "JAINISM",
         "CAUSES OF THE SPREAD OF JAINISM",
-        "Appeal to People"
+        "(iv) Appeal to People"
       ],
-      "title": "Appeal to People",
+      "title": "(iv) Appeal to People",
       "sequence_number": 4,
       "depth": 2,
       "level_label": "Subtopic",
       "has_notes": true
     },
     {
-      "path": "JAINISM > DIVISION INTO TWO SECTS",
+      "path": "JAINISM > DIVISION INTO TWO SECTS > (a) Shvetambaras",
       "path_titles": [
         "JAINISM",
-        "DIVISION INTO TWO SECTS"
+        "DIVISION INTO TWO SECTS",
+        "(a) Shvetambaras"
       ],
-      "title": "DIVISION INTO TWO SECTS",
-      "sequence_number": 6,
-      "depth": 1,
-      "level_label": "Topic",
-      "has_notes": true
-    },
-    {
-      "path": "JAINISM > IMPACT OF JAINISM > Political Impact",
-      "path_titles": [
-        "JAINISM",
-        "IMPACT OF JAINISM",
-        "Political Impact"
-      ],
-      "title": "Political Impact",
+      "title": "(a) Shvetambaras",
       "sequence_number": 1,
       "depth": 2,
       "level_label": "Subtopic",
       "has_notes": true
     },
     {
-      "path": "JAINISM > IMPACT OF JAINISM > Social and Religious Impact",
+      "path": "JAINISM > DIVISION INTO TWO SECTS > (b) Digambaras",
       "path_titles": [
         "JAINISM",
-        "IMPACT OF JAINISM",
-        "Social and Religious Impact"
+        "DIVISION INTO TWO SECTS",
+        "(b) Digambaras"
       ],
-      "title": "Social and Religious Impact",
+      "title": "(b) Digambaras",
       "sequence_number": 2,
       "depth": 2,
       "level_label": "Subtopic",
       "has_notes": true
     },
     {
-      "path": "JAINISM > IMPACT OF JAINISM > Language and Literature",
+      "path": "JAINISM > IMPACT OF JAINISM > (a) Political Impact",
       "path_titles": [
         "JAINISM",
         "IMPACT OF JAINISM",
-        "Language and Literature"
+        "(a) Political Impact"
       ],
-      "title": "Language and Literature",
+      "title": "(a) Political Impact",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "JAINISM > IMPACT OF JAINISM > (b) Social and Religious Impact",
+      "path_titles": [
+        "JAINISM",
+        "IMPACT OF JAINISM",
+        "(b) Social and Religious Impact"
+      ],
+      "title": "(b) Social and Religious Impact",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "JAINISM > IMPACT OF JAINISM > (c) Language and Literature",
+      "path_titles": [
+        "JAINISM",
+        "IMPACT OF JAINISM",
+        "(c) Language and Literature"
+      ],
+      "title": "(c) Language and Literature",
       "sequence_number": 3,
       "depth": 2,
       "level_label": "Subtopic",
       "has_notes": true
     },
     {
-      "path": "JAINISM > IMPACT OF JAINISM > Art and Architecture",
+      "path": "JAINISM > IMPACT OF JAINISM > (d) Art and Architecture",
       "path_titles": [
         "JAINISM",
         "IMPACT OF JAINISM",
-        "Art and Architecture"
+        "(d) Art and Architecture"
       ],
-      "title": "Art and Architecture",
+      "title": "(d) Art and Architecture",
       "sequence_number": 4,
       "depth": 2,
       "level_label": "Subtopic",
       "has_notes": true
     },
     {
-      "path": "JAINISM > DECLINE OF JAINISM",
+      "path": "JAINISM > DECLINE OF JAINISM > (i) Jainism preached rigid austerity.",
       "path_titles": [
         "JAINISM",
-        "DECLINE OF JAINISM"
+        "DECLINE OF JAINISM",
+        "(i) Jainism preached rigid austerity."
       ],
-      "title": "DECLINE OF JAINISM",
-      "sequence_number": 8,
-      "depth": 1,
-      "level_label": "Topic",
+      "title": "(i) Jainism preached rigid austerity.",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "JAINISM > DECLINE OF JAINISM > (ii) The religion did not spread to foreign countries.",
+      "path_titles": [
+        "JAINISM",
+        "DECLINE OF JAINISM",
+        "(ii) The religion did not spread to foreign countries."
+      ],
+      "title": "(ii) The religion did not spread to foreign countries.",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "JAINISM > DECLINE OF JAINISM > (iii) Jainism did not get royal patronage from contemporary rulers.",
+      "path_titles": [
+        "JAINISM",
+        "DECLINE OF JAINISM",
+        "(iii) Jainism did not get royal patronage from contemporary rulers."
+      ],
+      "title": "(iii) Jainism did not get royal patronage from contemporary rulers.",
+      "sequence_number": 3,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "JAINISM > DECLINE OF JAINISM > (iv) Though Jainism advocated equality of men",
+      "path_titles": [
+        "JAINISM",
+        "DECLINE OF JAINISM",
+        "(iv) Though Jainism advocated equality of men"
+      ],
+      "title": "(iv) Though Jainism advocated equality of men",
+      "sequence_number": 4,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "JAINISM > DECLINE OF JAINISM > (v) During the Gupta period and in later years, Hinduism once again became popular.",
+      "path_titles": [
+        "JAINISM",
+        "DECLINE OF JAINISM",
+        "(v) During the Gupta period and in later years, Hinduism once again became popular."
+      ],
+      "title": "(v) During the Gupta period and in later years, Hinduism once again became popular.",
+      "sequence_number": 5,
+      "depth": 2,
+      "level_label": "Subtopic",
       "has_notes": true
     },
     {
@@ -570,176 +694,273 @@
       "has_notes": true
     },
     {
-      "path": "BUDDHISM > ORGANISATION > Membership",
+      "path": "BUDDHISM > ORGANISATION > 1. Membership",
       "path_titles": [
         "BUDDHISM",
         "ORGANISATION",
-        "Membership"
+        "1. Membership"
       ],
-      "title": "Membership",
+      "title": "1. Membership",
       "sequence_number": 1,
       "depth": 2,
       "level_label": "Subtopic",
       "has_notes": true
     },
     {
-      "path": "BUDDHISM > ORGANISATION > Ten Commandments",
+      "path": "BUDDHISM > ORGANISATION > 2. Ten Commandments",
       "path_titles": [
         "BUDDHISM",
         "ORGANISATION",
-        "Ten Commandments"
+        "2. Ten Commandments"
       ],
-      "title": "Ten Commandments",
+      "title": "2. Ten Commandments",
       "sequence_number": 2,
       "depth": 2,
       "level_label": "Subtopic",
       "has_notes": true
     },
     {
-      "path": "BUDDHISM > ORGANISATION > Viharas",
+      "path": "BUDDHISM > ORGANISATION > 3. Viharas",
       "path_titles": [
         "BUDDHISM",
         "ORGANISATION",
-        "Viharas"
+        "3. Viharas"
       ],
-      "title": "Viharas",
+      "title": "3. Viharas",
       "sequence_number": 3,
       "depth": 2,
       "level_label": "Subtopic",
       "has_notes": true
     },
     {
-      "path": "BUDDHISM > SECTS OF BUDDHISM",
+      "path": "BUDDHISM > SECTS OF BUDDHISM > Hinayana",
       "path_titles": [
         "BUDDHISM",
-        "SECTS OF BUDDHISM"
+        "SECTS OF BUDDHISM",
+        "Hinayana"
       ],
-      "title": "SECTS OF BUDDHISM",
-      "sequence_number": 5,
-      "depth": 1,
-      "level_label": "Topic",
-      "has_notes": true
-    },
-    {
-      "path": "BUDDHISM > IMPACT OF BUDDHISM > Ahimsa",
-      "path_titles": [
-        "BUDDHISM",
-        "IMPACT OF BUDDHISM",
-        "Ahimsa"
-      ],
-      "title": "Ahimsa",
+      "title": "Hinayana",
       "sequence_number": 1,
       "depth": 2,
       "level_label": "Subtopic",
       "has_notes": true
     },
     {
-      "path": "BUDDHISM > IMPACT OF BUDDHISM > Influence on Religious Life",
+      "path": "BUDDHISM > SECTS OF BUDDHISM > Mahayana",
       "path_titles": [
         "BUDDHISM",
-        "IMPACT OF BUDDHISM",
-        "Influence on Religious Life"
+        "SECTS OF BUDDHISM",
+        "Mahayana"
       ],
-      "title": "Influence on Religious Life",
+      "title": "Mahayana",
       "sequence_number": 2,
       "depth": 2,
       "level_label": "Subtopic",
       "has_notes": true
     },
     {
-      "path": "BUDDHISM > IMPACT OF BUDDHISM > Influence on Social Life",
+      "path": "BUDDHISM > IMPACT OF BUDDHISM > (i) Ahimsa",
       "path_titles": [
         "BUDDHISM",
         "IMPACT OF BUDDHISM",
-        "Influence on Social Life"
+        "(i) Ahimsa"
       ],
-      "title": "Influence on Social Life",
+      "title": "(i) Ahimsa",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "BUDDHISM > IMPACT OF BUDDHISM > (ii) Influence on Religious Life",
+      "path_titles": [
+        "BUDDHISM",
+        "IMPACT OF BUDDHISM",
+        "(ii) Influence on Religious Life"
+      ],
+      "title": "(ii) Influence on Religious Life",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "BUDDHISM > IMPACT OF BUDDHISM > (iii) Influence on Social Life",
+      "path_titles": [
+        "BUDDHISM",
+        "IMPACT OF BUDDHISM",
+        "(iii) Influence on Social Life"
+      ],
+      "title": "(iii) Influence on Social Life",
       "sequence_number": 3,
       "depth": 2,
       "level_label": "Subtopic",
       "has_notes": true
     },
     {
-      "path": "BUDDHISM > IMPACT OF BUDDHISM > Political Impact",
+      "path": "BUDDHISM > IMPACT OF BUDDHISM > (iv) Political Impact",
       "path_titles": [
         "BUDDHISM",
         "IMPACT OF BUDDHISM",
-        "Political Impact"
+        "(iv) Political Impact"
       ],
-      "title": "Political Impact",
+      "title": "(iv) Political Impact",
       "sequence_number": 4,
       "depth": 2,
       "level_label": "Subtopic",
       "has_notes": true
     },
     {
-      "path": "BUDDHISM > IMPACT OF BUDDHISM > Cultural Impact",
+      "path": "BUDDHISM > IMPACT OF BUDDHISM > (v) Cultural Impact",
       "path_titles": [
         "BUDDHISM",
         "IMPACT OF BUDDHISM",
-        "Cultural Impact"
+        "(v) Cultural Impact"
       ],
-      "title": "Cultural Impact",
+      "title": "(v) Cultural Impact",
       "sequence_number": 5,
       "depth": 2,
       "level_label": "Subtopic",
       "has_notes": true
     },
     {
-      "path": "BUDDHISM > IMPACT OF BUDDHISM > Language and Literature",
+      "path": "BUDDHISM > IMPACT OF BUDDHISM > (vi) Language and Literature",
       "path_titles": [
         "BUDDHISM",
         "IMPACT OF BUDDHISM",
-        "Language and Literature"
+        "(vi) Language and Literature"
       ],
-      "title": "Language and Literature",
+      "title": "(vi) Language and Literature",
       "sequence_number": 6,
       "depth": 2,
       "level_label": "Subtopic",
       "has_notes": true
     },
     {
-      "path": "BUDDHISM > IMPACT OF BUDDHISM > Art and Architecture",
+      "path": "BUDDHISM > IMPACT OF BUDDHISM > (vii) Art and Architecture",
       "path_titles": [
         "BUDDHISM",
         "IMPACT OF BUDDHISM",
-        "Art and Architecture"
+        "(vii) Art and Architecture"
       ],
-      "title": "Art and Architecture",
+      "title": "(vii) Art and Architecture",
       "sequence_number": 7,
       "depth": 2,
       "level_label": "Subtopic",
       "has_notes": true
     },
     {
-      "path": "BUDDHISM > DECLINE OF BUDDHISM",
+      "path": "BUDDHISM > DECLINE OF BUDDHISM > (i) Split in Buddhism",
       "path_titles": [
         "BUDDHISM",
-        "DECLINE OF BUDDHISM"
+        "DECLINE OF BUDDHISM",
+        "(i) Split in Buddhism"
       ],
-      "title": "DECLINE OF BUDDHISM",
-      "sequence_number": 7,
-      "depth": 1,
-      "level_label": "Topic",
-      "has_notes": false
+      "title": "(i) Split in Buddhism",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
     },
     {
-      "path": "JAINISM AND BUDDHISM COMPARED > SIMILARITIES BETWEEN JAINISM AND BUDDHISM",
+      "path": "BUDDHISM > DECLINE OF BUDDHISM > (ii) Language",
       "path_titles": [
-        "JAINISM AND BUDDHISM COMPARED",
-        "SIMILARITIES BETWEEN JAINISM AND BUDDHISM"
+        "BUDDHISM",
+        "DECLINE OF BUDDHISM",
+        "(ii) Language"
       ],
-      "title": "SIMILARITIES BETWEEN JAINISM AND BUDDHISM",
-      "sequence_number": 1,
-      "depth": 1,
-      "level_label": "Topic",
+      "title": "(ii) Language",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
       "has_notes": true
+    },
+    {
+      "path": "BUDDHISM > DECLINE OF BUDDHISM > (iii) Corruption in Sangha",
+      "path_titles": [
+        "BUDDHISM",
+        "DECLINE OF BUDDHISM",
+        "(iii) Corruption in Sangha"
+      ],
+      "title": "(iii) Corruption in Sangha",
+      "sequence_number": 3,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "BUDDHISM > DECLINE OF BUDDHISM > (iv) Reforms in Hinduism",
+      "path_titles": [
+        "BUDDHISM",
+        "DECLINE OF BUDDHISM",
+        "(iv) Reforms in Hinduism"
+      ],
+      "title": "(iv) Reforms in Hinduism",
+      "sequence_number": 4,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "BUDDHISM > DECLINE OF BUDDHISM > (v) Invasions",
+      "path_titles": [
+        "BUDDHISM",
+        "DECLINE OF BUDDHISM",
+        "(v) Invasions"
+      ],
+      "title": "(v) Invasions",
+      "sequence_number": 5,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "BUDDHISM > DECLINE OF BUDDHISM > (vi) End of Royal Patronage",
+      "path_titles": [
+        "BUDDHISM",
+        "DECLINE OF BUDDHISM",
+        "(vi) End of Royal Patronage"
+      ],
+      "title": "(vi) End of Royal Patronage",
+      "sequence_number": 6,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "JAINISM AND BUDDHISM COMPARED",
+      "path_titles": [
+        "JAINISM AND BUDDHISM COMPARED"
+      ],
+      "title": "JAINISM AND BUDDHISM COMPARED",
+      "sequence_number": 6,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": false
     }
   ],
   "stray_leaves": [
     {
+      "title": "The Great Renunciation",
+      "insert_after_index": 55,
+      "micro_topics": [],
+      "has_notes": true
+    },
+    {
+      "title": "Dharmachakrapravartana",
+      "insert_after_index": 56,
+      "micro_topics": [],
+      "has_notes": true
+    },
+    {
+      "title": "SIMILARITIES BETWEEN JAINISM AND BUDDHISM",
+      "insert_after_index": 90,
+      "micro_topics": [],
+      "has_notes": true
+    },
+    {
       "title": "Dissimilarities",
-      "insert_after_index": 71,
+      "insert_after_index": 90,
       "micro_topics": [],
       "has_notes": true
     }

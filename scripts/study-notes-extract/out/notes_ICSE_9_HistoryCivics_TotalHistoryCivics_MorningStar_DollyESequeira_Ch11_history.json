@@ -14,14 +14,14 @@
   "reconciliation": {
     "outline": [
       "CAUSES OF RENAISSANCE",
-      "1. CAPTURE OF CONSTANTINOPLE",
-      "2. DECLINE OF FEUDALISM",
-      "3. NEW TRADE ROUTES",
-      "4. SPIRIT OF ENQUIRY",
-      "(i) Role of Original Thinkers",
-      "(ii) Crusades",
-      "(iii) Development of Science",
-      "5. INVENTION OF THE PRINTING PRESS",
+      "CAPTURE OF CONSTANTINOPLE",
+      "DECLINE OF FEUDALISM",
+      "NEW TRADE ROUTES",
+      "SPIRIT OF ENQUIRY",
+      "Role of Original Thinkers",
+      "Crusades",
+      "Development of Science",
+      "INVENTION OF THE PRINTING PRESS",
       "PRINCIPLES OF RENAISSANCE",
       "Humanism",
       "Glorification of Human Form",
@@ -32,9 +32,11 @@
       "PAINTING",
       "SCULPTURE",
       "LITERATURE",
+      "Literature in Italy",
+      "Literature in England",
       "SCIENCE",
       "CONSEQUENCES OF RENAISSANCE",
-      "Ded to the Reformation Movement in Europe",
+      "Led to the Reformation Movement in Europe",
       "Development of Humanism",
       "Development of Scientific Outlook",
       "Rise of Monarchical Form of Government",
@@ -44,19 +46,8 @@
       "Consequences of Geographical Explorations"
     ],
     "in_syllabus_only": [],
-    "in_pdf_only": [
-      {
-        "title": "Definition of Renaissance",
-        "insert_after_index": 0,
-        "micro_topics": []
-      }
-    ],
-    "additional_sections": [
-      {
-        "title": "Definition of Renaissance",
-        "content_md": "The term Renaissance means rebirth or revival. It stands for a complex transitional movement in Europe between medieval and modern times beginning in the 14th century in Italy and lasting into the 17th century. It marked the revival of the freedom to think and act without being controlled by any external agency. It was also a revival of the study of the ancient Greek and Roman classics. During this period, many remarkable changes took place in Europe, which had their impact on the history of the world. One of them was the disintegration of the feudal system in Europe which ushered in a new social and economic order. This marked the beginning of the modern era."
-      }
-    ]
+    "in_pdf_only": [],
+    "additional_sections": []
   },
   "nodes": [
     {
@@ -73,7 +64,7 @@
           "children": [],
           "content_blocks": [
             {
-              "content_md": "**Constantinople** was the capital of the **Eastern Roman Empire** and was a centre of **Greek and Roman cultures**. It had valuable manuscripts of Greek and Roman writers. But **Constantinople fell into the hands of the Turks in 1453**. Many **Greek and Roman scholars** were thus, forced to shift to **Rome** and other parts of Europe with their manuscripts. Rome then became the centre of **Greek culture**. These scholars were geniuses, men of **liberal outlook**, **humanism** and **logical thinking**. Wherever they went, they spread their new spirit and ideas. In this way they revived the interest of the people in the study of **Greek philosophy, science, art and literature**. The revival of the learning of **Greek classics** paved the way for the **Renaissance**."
+              "content_md": "**Constantinople** was the capital of the **Eastern Roman Empire** and was a centre of **Greek and Roman cultures**. It had valuable **manuscripts** of Greek and Roman writers. But Constantinople fell into the hands of the **Turks in 1453**. Many **Greek and Roman scholars** were thus, forced to shift to **Rome** and other parts of Europe with their manuscripts. Rome then became the centre of Greek culture. These scholars were geniuses, men of liberal outlook, **humanism** and **logical thinking**. Wherever they went, they spread their new spirit and ideas. In this way they revived the interest of the people in the study of **Greek philosophy, science, art and literature**. The revival of the learning of **Greek classics** paved the way for the **Renaissance**."
             }
           ]
         },
@@ -85,13 +76,13 @@
           "children": [],
           "content_blocks": [
             {
-              "content_md": "**Feudalism** was a system according to which the medieval European society was organised on the basis of **land tenure**. In this system, all the people, from the **King** down to the lowest landowners were bound together by obligation and defence. The **King** used to give estates to his lords, who were known as **Dukes** and **Earls**. The Lords, distributed a part of their land among the lesser lords or **Barons**, who provided them with military support. The **Dukes** and **Earls** owed allegiance directly to the **King**, whereas the **Barons** owed allegiance to the **Dukes** and **Earls**. The **Knights** formed the lower category of feudal lords. The feudal lords did not cultivate their lands and gave it to the peasants for cultivation."
+              "content_md": "**Feudalism** was a system according to which the medieval European society was organised on the basis of **land tenure**. In this system, all the people, from the **King** down to the lowest landowners were bound together by obligation and defence. The King used to give estates to his lords, who were known as **Dukes** and **Earls**. The Lords, distributed a part of their land among the lesser lords or **Barons**, who provided them with military support. The Dukes and Earls owed allegiance directly to the King, whereas the Barons owed allegiance to the Dukes and Earls. The **knights** formed the lower category of feudal lords. The feudal lords did not cultivate their lands and gave it to the peasants for cultivation."
             },
             {
               "content_md": "[Image: Feudal Structure]"
             },
             {
-              "content_md": "The society had a graded organisation in which there was hardly any chance for social mobility and progress. It was also opposed to freedom and equality of rights. However, **decline of feudalism** in the 13th and 14th centuries provided an impetus to free thinking. The peace and freedom that prevailed after the decline of feudalism favoured the growth of **New Learning**. It led to the new developments in the spheres of art, literature, philosophy and science and contributed to the rise of **Renaissance**."
+              "content_md": "The society had a **graded organisation** in which there was hardly any chance for social mobility and progress. It was also opposed to freedom and equality of rights. However, **decline of feudalism** in the 13th and 14th centuries provided an impetus to free thinking. The peace and freedom that prevailed after the decline of feudalism favoured the growth of **New Learning**. It led to the new developments in the spheres of art, literature, philosophy and science and contributed to the rise of Renaissance."
             }
           ]
         },
@@ -103,10 +94,10 @@
           "children": [],
           "content_blocks": [
             {
-              "content_md": "The navigators of **Portugal** and **Spain** played an important part in the geographical explorations and discovering new trade routes. **Constantinople** fell into the hands of the **Turks** in **1453** and the trade routes between the West and the East were closed. As a result, the **European traders and navigators** felt the need for discovering new sea routes. **Prince Henry, the Navigator of Portugal** discovered a sea route to Africa. **Bartholomew Diaz** was successful in reaching the **Cape of Good Hope** at the southernmost point of Africa. **Columbus** discovered **America** in **1492**. In **1498 Vasco da Gama** sailed as far as **India**. **Ferdinand Magellan** made a voyage around the world and reached a vast ocean, which he called the **Pacific Ocean**. Due to these discoveries, contact between the East and the West began to develop and there was a fusion of ideas. The opening of new trade routes not only encouraged trade but also created the **spirit of adventure** and broadened the mental horizon."
+              "content_md": "The navigators of **Portugal** and **Spain** played an important part in the geographical explorations and discovering new trade routes. **Constantinople** fell into the hands of the **Turks in 1453** and the trade routes between the West and the East were closed. As a result, the European traders and navigators felt the need for discovering new sea routes. **Prince Henry, the Navigator of Portugal** discovered a sea route to Africa. **Bartholomew Diaz** was successful in reaching the **Cape of Good Hope** at the southernmost point of Africa. **Columbus** discovered **America in 1492**. In **1498 Vasco da Gama** sailed as far as **India**. **Ferdinand Magellan** made a voyage around the world and reached a vast ocean, which he called the **Pacific Ocean**. Due to these discoveries, contact between the East and the West began to develop and there was a fusion of ideas. The opening of new trade routes not only encouraged trade but also created the spirit of adventure and broadened the mental horizon."
             },
             {
-              "content_md": "[Image: Christopher Columbus Ferdinand Magellan]"
+              "content_md": "[Image: Christopher Columbus]\n[Image: Ferdinand Magellan]"
             }
           ]
         },
@@ -136,7 +127,7 @@
               "children": [],
               "content_blocks": [
                 {
-                  "content_md": "The **Crusades** were the **religious expeditionary wars** with the goal of restoring the Church's access to holy places in and near **Jerusalem**. They brought the people of Europe into **direct contact with the people of Asia**. The Crusades brought to Western Europe ideas from the East. It **widened their outlook** on life. People began to **rely on reason rather than on blind faith**."
+                  "content_md": "The **Crusades** were the religious expeditionary wars with the goal of restoring the Church's access to holy places in and near **Jerusalem**. They brought the people of Europe into direct contact with the people of Asia. The Crusades brought to Western Europe ideas from the East. It widened their outlook on life. People began to rely on **reason** rather than on **blind faith**."
                 }
               ]
             },
@@ -148,31 +139,31 @@
               "children": [],
               "content_blocks": [
                 {
-                  "content_md": "The **Renaissance** marked the beginning of **modern science**. Earlier it was held that all views even on Science are to be supported by the **authority of the scriptures**. However, the scientists of this period believed that all views on Science should be based on **observation and experimentation**. The method of **enquiry, questioning, observation and experimentation** are used even today in scientific investigations."
+                  "content_md": "The Renaissance marked the beginning of **modern science**. Earlier it was held that all views even on **Science** are to be supported by the **authority of the scriptures**. However, the scientists of this period believed that all views on **Science** should be based on **observation and experimentation**. The method of **enquiry**, **questioning**, **observation** and **experimentation** are used even today in scientific investigations."
                 }
               ]
             }
           ],
           "content_blocks": []
+        },
+        {
+          "title": "INVENTION OF THE PRINTING PRESS",
+          "sequence_number": 5,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The first **printing press** was set up in Germany by **Gutenberg** in the middle of the **15th century**. Later on **Caxton** introduced it in England.\n\nThe invention of the **printing press** in the middle of the **15th century** in Europe made it possible to produce books in large numbers. The **Bible** and many other religious and classical books were printed and made available all over Europe. The **printing press** spread knowledge far and wide. Scholars found it easier to read printed books than **hand-written manuscripts**. In the **Middle Ages**, books were few and they were beyond the reach of the ordinary people. The **Printing Press** enabled Europe to multiply books and put them within the reach of people. Printing and distribution of books influenced people's attitude to life and brought about a new awakening in Europe."
+            }
+          ]
         }
       ],
       "content_blocks": []
     },
     {
-      "title": "INVENTION OF THE PRINTING PRESS",
-      "sequence_number": 2,
-      "depth": 0,
-      "level_label": "Section",
-      "children": [],
-      "content_blocks": [
-        {
-          "content_md": "The first **printing press** was set up in **Germany** by **Gutenberg** in the **middle of the 15th century**. Later on **Caxton** introduced it in **England**.\n\nThe invention of printing press in the middle of the 15th century in Europe made it possible to produce books in large numbers. The **Bible** and many other religious and classical books were printed and made available all over Europe. The printing press spread knowledge far and wide. Scholars found it easier to read printed books than **hand-written manuscripts**. In the **Middle Ages**, books were few and they were beyond the reach of the ordinary people. The **Printing Press** enabled Europe to multiply books and put them within the reach of people. Printing and distribution of books influenced people's attitude to life and brought about a **new awakening in Europe**.\n\n[Image: Printing Press]"
-        }
-      ]
-    },
-    {
       "title": "PRINCIPLES OF RENAISSANCE",
-      "sequence_number": 3,
+      "sequence_number": 2,
       "depth": 0,
       "level_label": "Section",
       "children": [
@@ -184,7 +175,7 @@
           "children": [],
           "content_blocks": [
             {
-              "content_md": "**Humanism** was regarded as the most remarkable phenomena of **Renaissance**. It was a product of the spread of education and learning. The word ‘**humanism**’ was derived from the Latin words ‘**Studia humanitatis**’ or ‘the studies of mankind’. Basically, it meant a decisive shift in concern for human as distinct from divine matters. **Humanism** extolled man and stressed his essential dignity. It was centred on the man of flesh and blood with all his earthly joys and sorrows. It opposed religious asceticism. It defended man's right to pleasure and the satisfaction of earthly desires and requirements.\nThe humanists looked deep into the ancient classics for ideas on humanism like those of **Plato**, **Virgil**, **Aristotle**, **Cicero** and **Quintilianus**."
+              "content_md": "**Humanism** was regarded as the most remarkable phenomena of **Renaissance**. It was a product of the spread of education and learning. The word **'humanism'** was derived from the Latin words **'Studia humanitatis'** or **'the studies of mankind'**. Basically, it meant a decisive **shift in concern for human as distinct from divine matters**. Humanism **extolled man** and stressed his **essential dignity**. It was centred on the man of flesh and blood with all his earthly joys and sorrows. It **opposed religious asceticism**. It defended **man's right to pleasure** and the satisfaction of earthly desires and requirements.\nThe humanists looked deep into the ancient classics for ideas on humanism like those of **Plato**, **Virgil**, **Aristotle**, **Cicero** and **Quintilianus**."
             }
           ]
         },
@@ -196,7 +187,7 @@
           "children": [],
           "content_blocks": [
             {
-              "content_md": "The **Renaissance scholars and artists** glorified the **human body**. Their works were permeated with the faith that a man with an active mind and body was capable of knowing and controlling the world, of performing miracles and fashioning his own happiness. This spirit of **humanism** found expression in the new art and literature. The Renaissance artists took their subjects from the Bible but portrayed the human form in all its **earthly beauty and vigour**."
+              "content_md": "The **Renaissance scholars and artists** glorified the **human body**. Their works were permeated with the faith that a man with an **active mind and body** was capable of knowing and controlling the world, of performing miracles and fashioning his own happiness. This spirit of **humanism** found expression in the new **art and literature**. The Renaissance artists took their subjects from the **Bible** but portrayed the **human form** in all its earthly **beauty and vigour**."
             }
           ]
         },
@@ -208,7 +199,7 @@
           "children": [],
           "content_blocks": [
             {
-              "content_md": "In the **Medieval Age**, all human activities, both mental and physical, were controlled and guided by the authority of the **Pope** and the **Church**. The human mind was virtually not allowed to develop **independent thinking**. But a number of scholars discarded the ideas of medieval period and developed a **spirit of enquiry** and a **sense of curiosity** among the people. They taught human beings to know the **Why and How of things**. They did not regard anything as correct merely because the theologies of the Church had regarded it as correct. They **questioned the authority of the Church**. They wanted a transition from **faith** to **reason, observation and experimentation**. The following were the factors which were responsible for the development of the spirit of enquiry:"
+              "content_md": "In the **Medieval Age**, all human activities, both mental and physical, were controlled and guided by the authority of the **Pope** and the **Church**. The human mind was virtually not allowed to develop independent thinking. But a number of scholars discarded the ideas of the medieval period and developed a **spirit of enquiry** and a sense of curiosity among the people. They taught human beings to know the **Why** and **How** of things. They did not regard anything as correct merely because the theologies of the Church had regarded it as correct. They questioned the authority of the Church. They wanted a transition from **faith** to **reason**, **observation** and **experimentation**. The following were the factors which were responsible for the development of the spirit of enquiry:"
             }
           ]
         }
@@ -217,55 +208,19 @@
     },
     {
       "title": "Beginning of Renaissance",
-      "sequence_number": 4,
+      "sequence_number": 3,
       "depth": 0,
       "level_label": "Section",
-      "children": [
+      "children": [],
+      "content_blocks": [
         {
-          "title": "",
-          "sequence_number": 1,
-          "depth": 1,
-          "level_label": "Topic",
-          "children": [],
-          "content_blocks": [
-            {
-              "content_md": "The term **Renaissance** means **rebirth or revival**. It stands for a complex transitional movement in Europe between medieval and modern times beginning in the **14th century** in Italy and lasting into the **17th century**. It marked the revival of the freedom to think and act without being controlled by any external agency. It was also a revival of the study of the **ancient Greek and Roman classics**. During this period, many remarkable changes took place in Europe, which had their impact on the history of the world. One of them was the **disintegration of the feudal system** in Europe which ushered in a new social and economic order. This marked the beginning of the **modern era**."
-            }
-          ]
-        },
-        {
-          "title": "",
-          "sequence_number": 2,
-          "depth": 1,
-          "level_label": "Topic",
-          "children": [],
-          "content_blocks": [
-            {
-              "content_md": "The term **Renaissance** means rebirth or revival. It stands for a complex transitional movement in Europe between **medieval** and **modern times** beginning in the **14th century in Italy** and lasting into the **17th century**. It marked the revival of the **freedom to think and act** without being controlled by any external agency. It was also a revival of the study of the ancient **Greek and Roman classics**. During this period, many remarkable changes took place in Europe, which had their impact on the history of the world. One of them was the disintegration of the **feudal system** in Europe which ushered in a new social and economic order. This marked the beginning of the **modern era**."
-            }
-          ]
-        },
-        {
-          "title": "",
-          "sequence_number": 3,
-          "depth": 1,
-          "level_label": "Topic",
-          "children": [],
-          "content_blocks": [
-            {
-              "content_md": "### SYLLABUS\n\n**The Modern Age in Europe**\n(a) **Renaissance** – definition, causes (capture of Constantinople, decline of Feudalism, new trade routes, spirit of enquiry and invention of the printing press) and impact on art, literature and science (Leonardo Da Vinci, William Shakespeare and Copernicus)."
-            },
-            {
-              "content_md": "The term **Renaissance** means **rebirth** or **revival**. It stands for a complex transitional movement in Europe between medieval and modern times beginning in the **14th century in Italy** and lasting into the **17th century**. It marked the revival of the **freedom to think and act** without being controlled by any external agency. It was also a revival of the study of the ancient **Greek and Roman classics**. During this period, many remarkable changes took place in Europe, which had their impact on the history of the world. One of them was the disintegration of the **feudal system** in Europe which ushered in a new social and economic order. This marked the beginning of the **modern era**."
-            }
-          ]
+          "content_md": "The **Renaissance** first began in **Italy** and from there it spread to other parts of the world. This was because of the following reasons:\n\n1.  **Italy** was the seat of the glorious **Roman Empire** and all the historical remains and relics of the Romans were found there. These attracted a number of scholars and artists.\n2.  As a result of the **Fall of Constantinople**, a large number of **Greek scholars** and thinkers migrated to Italy along with their original manuscripts and art treasures. These scholars not only instilled a **spirit of enquiry** and enthusiasm among the people of Italy but also encouraged a large number of Italian artists and men of letters to produce masterpieces of art and literature.\n3.  The enormous wealth which Italy had accumulated as a result of trade with the East also contributed to the rise of Renaissance.\n4.  As a result of the **crusades** and **geographical explorations** the Italians came into contact with the East. This greatly broadened their vision and provided an impetus to Renaissance.\n\n[Image: Renaissance Paintings]"
         }
-      ],
-      "content_blocks": []
+      ]
     },
     {
       "title": "IMPACT OF RENAISSANCE",
-      "sequence_number": 5,
+      "sequence_number": 4,
       "depth": 0,
       "level_label": "Section",
       "children": [
@@ -277,7 +232,7 @@
           "children": [],
           "content_blocks": [
             {
-              "content_md": "The **Renaissance** did not merely lead to the rebirth of learning but also to the rebirth of art. During the **medieval times**, the paintings and sculptures served as a tool for propagating religion. Even the colours which the painters used were strictly regulated. However, the artists of the Renaissance period refused to abide by medieval rules and traditions. They adopted new artistic methods such as **frescoes** for wall pictures, **oil colours** and **woodcuts**. They studied **optics** and **geometry** and used their knowledge to develop **perspective** in their paintings. They also studied **human anatomy** to find the mechanism underlying gestures and expressions."
+              "content_md": "The **Renaissance** did not merely lead to the rebirth of learning but also to the **rebirth of art**. During the **medieval times**, the paintings and sculptures served as a tool for propagating religion. Even the colours which the painters used were strictly regulated. However, the artists of the Renaissance period refused to abide by medieval rules and traditions. They adopted new artistic methods such as **frescoes** for wall pictures, **oil colours** and **woodcuts**. They studied **optics** and **geometry** and used their knowledge to develop **perspective** in their paintings. They also studied **human anatomy** to find the mechanism underlying gestures and expressions."
             }
           ]
         },
@@ -289,7 +244,7 @@
           "children": [],
           "content_blocks": [
             {
-              "content_md": "The **Renaissance painters** established very high standards and produced some of the greatest paintings of the time. They were able to show their talent without being restricted by the rigid rules of the church. They had a **humanistic secular approach** and produced highly artistic and life like paintings.\n\nSome of the prominent painters of the Renaissance period were the following:"
+              "content_md": "[Image: Mona Lisa]\n\nThe **Renaissance painters** established very high standards and produced some of the greatest paintings of the time. They were able to show their talent without being restricted by the rigid rules of the church. They had a **humanistic secular approach** and produced highly artistic and **life like paintings**.\n\nSome of the prominent painters of the Renaissance period were the following:\n\n*   **Leonardo Da Vinci**: Leonardo Da Vinci was a great painter, sculptor, musician and a scientist. Da Vinci received no formal education beyond basic reading, writing and maths, but his father appreciated his artistic talent and apprenticed him at around the age of 15 to the noted sculptor and painter **Andrea del Verrocchio**, of Florence. For about a decade, Da Vinci refined his painting and sculpting techniques and trained in mechanical arts. Da Vinci's interests ranged far beyond fine arts. He studied **nature, mechanics, anatomy, physics, architecture and weaponry**. He saw science and art as complementary rather than distinct disciplines. At some point in the early 1490s, Da Vinci began filling notebooks related to four broad themes—**painting, architecture, mechanics and human anatomy**. His paintings of the **'Virgin of the Rocks'**, **'The Last Supper'** and **'Mona Lisa'** are great masterpieces of art. New techniques were adopted in his paintings to give a fine feeling of reality.\n[Image: The Last Supper by Leonardo da Vinci]\n\n*   **Michelangelo**: Michelangelo was a painter, sculptor, architect and poet. He concentrated on painting the human figure. He is famous for his paintings in the **Sistine Chapel** in the Vatican. They depict incidents and persons from the Old Testament. His **Last judgement** and **The Fall of Man** are among the most famous works of art in the world.\n\n*   **Raphael**: Raphael was a great artist of the Florentine school and his most celebrated painting was **'Sistine Madonna'**. He lived several years in Rome in the service of the Pope, decorating the Vatican and designing the **St. Peter's Church**."
             }
           ]
         },
@@ -301,10 +256,10 @@
           "children": [],
           "content_blocks": [
             {
-              "content_md": "The revival of the study of antiquity left a great impact in the field of sculpture. Some of the Renaissance artists copied the great masterpieces of the Greeks and Romans, while the others produced outstanding pieces which could rival the Greek creations."
+              "content_md": "The **revival of the study of antiquity** left a great impact in the field of sculpture. Some of the Renaissance artists copied the great masterpieces of the Greeks and Romans, while the others produced outstanding pieces which could rival the Greek creations."
             },
             {
-              "content_md": "Some of the outstanding sculptors of the Renaissance period were:\n*   The first great sculptor of Renaissance was **Donatello**, who made the bronze statue of **David**, triumphant over the body of the slain Goliath.\n*   The famous sculptor in Italy was **Lorenzo Ghiberti**. He worked for 20 years to make two pairs of bronze doors for the Baptistery at Florence.\n*   **Michelangelo** made a statue in Rome called **‘Pieta’** showing Mother Mary in a seated posture carrying the body of Jesus across her chest. The huge statues of **David** in Florence and the statue of **Moses** were also made by Michelangelo.\n\nIn Italy many sculptors worked for the Popes or rich merchants, to decorate churches or palaces with their sculptures. Later on the sculptors were invited to England, France or Spain and they spread the Renaissance art to the rest of Western Europe.\n\n[Image: Statue of Moses by Michelangelo]\n[Image: Pieta]"
+              "content_md": "Some of the outstanding sculptors of the Renaissance period were:\n\n*   The first great sculptor of Renaissance was **Donatello**, who made the **bronze statue of David**, triumphant over the body of the slain Goliath.\n*   The famous sculptor in Italy was **Lorenzo Ghiberti**. He worked for 20 years to make two pairs of bronze doors for the Baptistery at Florence.\n*   **Michelangelo** made a statue in Rome called **‘Pieta’** showing Mother Mary in a seated posture carrying the body of Jesus across her chest. The huge statues of **David** in Florence and the statue of **Moses** were also made by Michelangelo.\n\n[Image: Pieta]\n\n[Image: Statue of Moses by Michelangelo]\n\nIn Italy many sculptors worked for the Popes or rich merchants, to decorate churches or palaces with their sculptures. Later on the sculptors were invited to England, France or Spain and they spread the Renaissance art to the rest of Western Europe."
             }
           ]
         },
@@ -313,12 +268,33 @@
           "sequence_number": 4,
           "depth": 1,
           "level_label": "Topic",
-          "children": [],
-          "content_blocks": [
+          "children": [
             {
-              "content_md": "The most significant impact of Renaissance on literature was the use of **local languages**, instead of **Latin**, as in the Middle Ages. Besides, there was a **change of themes** in the literary work. Earlier writers dwelt on spiritual themes including heaven. However, during Renaissance, the authors wrote on man and his problems. Such emphasis on man gave birth to a new movement known as **Humanism**."
+              "title": "Literature in Italy",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "*   **Machiavelli** was a great political writer of Italy. He expressed his political ideas in his work **'The Prince'**.\n*   **Dante's 'Divine Comedy'** is an epic poem on the state of the soul. It reveals the religious and social life of the day.\n*   **Petrarch**, a great scholar and writer, has been called **'the father of humanism'**. His sonnets and lyrics were popular throughout Europe.\n*   Other Italian writers were **Aristo**, **Tasso** and **Boccaccio**. **Boccaccio** wrote in prose. His work **Decameron** is a collection of 100 famous short stories."
+                }
+              ]
+            },
+            {
+              "title": "Literature in England",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "England produced a number of writers, poets and dramatists of repute. **Geoffrey Chaucer** heralded the Renaissance literature in England. He is regarded as the ‘**Father of English Poetry**.’ '**The Canterbury Tales**', is his outstanding work. **Thomas More** wrote **Utopia** describing an imaginary island in America where the rich did not exploit the poor. There, the society had no blind faith and it did not believe in useless wars.\n\nOther famous English writers in this period were **Francis Bacon**, **William Shakespeare**, **Ben Johnson** and **Marlowe**. **Francis Bacon** was a famous essay writer. Shakespeare, Ben Johnson, Marlowe were well-known dramatists. ‘**Paradise Lost**’ is an immortal work of **Milton**. **Edmund Spencer** wrote the poem, ‘**Faerie Queene**’.\n\n**William Shakespeare**: He was an English poet, playwright and actor, who is widely regarded as the greatest writer in the English language and the world’s pre-eminent dramatist. He is often called **England’s national poet** and the ‘**Bard of Avon**’. He wrote 38 plays, 154 sonnets, two long narrative poems and a few other verses. With the exception of **Romeo and Juliet**, Shakespeare’s first plays were mostly historical dramas like **Richard II**, **Henry VI** and **Henry V**. He also wrote several comedies during his early period: **A Midsummer Night’s Dream**, **Much Ado About Nothing**, **As You Like It** and **Twelfth Night**. It was only after 1600, that he wrote tragedies like **Hamlet**, **King Lear**, **Othello** and **Macbeth**.\n\n[Image: William Shakespeare]\n\nShakespeare’s work transcends culture and history. He appeals to emotions and thoughts that are a part of eternal human nature and therefore, have a universal appeal."
+                }
+              ]
             }
-          ]
+          ],
+          "content_blocks": []
         },
         {
           "title": "SCIENCE",
@@ -328,7 +304,7 @@
           "children": [],
           "content_blocks": [
             {
-              "content_md": "The Renaissance marked the beginning of **modern science**. Earlier it was held that all views even on Science are to be supported by the **authority of the scriptures**. However, the scientists of this period believed that all views on Science should be based on **observation and experimentation**. The method of **enquiry, questioning, observation and experimentation** are used even today in scientific investigations."
+              "content_md": "The Renaissance marked the beginning of **modern science**. Earlier it was held that all views, even on **Science**, were to be supported by the authority of the **scriptures**. However, the scientists of this period believed that all views on **Science** should be based on **observation** and **experimentation**. The method of **enquiry**, **questioning**, **observation** and **experimentation** are used even today in scientific investigations."
             }
           ]
         }
@@ -337,19 +313,19 @@
     },
     {
       "title": "CONSEQUENCES OF RENAISSANCE",
-      "sequence_number": 6,
+      "sequence_number": 5,
       "depth": 0,
       "level_label": "Section",
       "children": [
         {
-          "title": "Ded to the Reformation Movement in Europe",
+          "title": "Led to the Reformation Movement in Europe",
           "sequence_number": 1,
           "depth": 1,
           "level_label": "Topic",
           "children": [],
           "content_blocks": [
             {
-              "content_md": "**Renaissance** paved the way for **Reformation** in England and in Europe. People started viewing everything by **questioning, observation and experimentation**. They became critical of the rituals practised by the **Church** and insisted on the reform of the Church. This led to the division of the Church into two sects—**Catholics** and the **Protestants**."
+              "content_md": "**Renaissance** paved the way for **Reformation** in England and in Europe. People started viewing everything by **questioning, observation and experimentation**. They became critical of the rituals practised by the **Church** and insisted on the reform of the **Church**. This led to the division of the **Church** into two sects—**Catholics** and the **Protestants**."
             }
           ]
         },
@@ -361,7 +337,7 @@
           "children": [],
           "content_blocks": [
             {
-              "content_md": "In the **Middle Ages** the only study undertaken was that of **spirituality** and **theology**. They were more interested in the future life. **Renaissance** widened the outlook of people and created an interest in man, his interests, his nature and his life in this world. It developed **humanism** and encouraged the study of **humanities**."
+              "content_md": "In the **Middle Ages** the only study undertaken was that of **spirituality** and **theology**. They were more interested in the future life. **Renaissance** widened the outlook of people and created an interest in **man, his interests, his nature and his life in this world**. It developed **humanism** and encouraged the study of **humanities**."
             }
           ]
         },
@@ -373,7 +349,7 @@
           "children": [],
           "content_blocks": [
             {
-              "content_md": "**Renaissance** contributed to the development of the **scientific attitude** and encouraged the people to accept the things only if they **appealed to reason**. This scientific outlook gave a setback to **blind faith** and encouraged **new discoveries and inventions** which greatly contributed to the **progress of human civilisation**."
+              "content_md": "**Renaissance** contributed to the development of the **scientific attitude** and encouraged the people to accept the things only if they appealed to reason. This **scientific outlook** gave a setback to **blind faith** and encouraged new **discoveries and inventions** which greatly contributed to the progress of human civilisation."
             }
           ]
         },
@@ -385,7 +361,7 @@
           "children": [],
           "content_blocks": [
             {
-              "content_md": "**Renaissance** provided great impetus to the evolution of a **strong monarchical system of Government** in Europe. The decline of the authority of the **Church** and the **feudal system** strengthened the desire of the people to have peace, security and political stability. Thus, they readily provided support to the kings and enhanced the **powers of monarchs**."
+              "content_md": "**Renaissance** provided great impetus to the evolution of a **strong monarchical system** of Government in Europe. The **decline of the authority of the Church** and the **feudal system** strengthened the desire of the people to have **peace, security and political stability**. Thus, they readily provided **support to the kings** and enhanced the **powers of monarchs**."
             }
           ]
         },
@@ -409,7 +385,7 @@
           "children": [],
           "content_blocks": [
             {
-              "content_md": "In the **Middle Ages**, **feudal lords** controlled everything. They held a greater part of the territory of their country in their hands and consequently they had the leisure to enjoy the comforts and luxuries of life. But the new movement gave them a setback and in their place, the traders, soldiers, lawyers, etc., who belonged to the **Middle Class**, began to make rapid progress."
+              "content_md": "In the **Middle Ages** **feudal lords** controlled everything. They held a greater part of the territory of their country in their hands and consequently they had the leisure to enjoy the comforts and luxuries of life. But the new movement gave them a setback and in their place, the traders, soldiers, lawyers, etc., who belonged to the **Middle Class**, began to make rapid progress."
             }
           ]
         },
@@ -421,7 +397,7 @@
           "children": [],
           "content_blocks": [
             {
-              "content_md": "**Renaissance** led to the **feelings of nationality** and the progress of **national literature**. This in turn led to the **rise and growth of nation states**."
+              "content_md": "**Renaissance** led to the feelings of **nationality** and the progress of national literature. This in turn led to the rise and growth of **nation states**."
             }
           ]
         },
@@ -433,7 +409,7 @@
           "children": [],
           "content_blocks": [
             {
-              "content_md": "**Scientific inventions** enabled people to explore new routes and distant lands. These geographical discoveries led to the **establishment of trade** between Europe and the East. These commercial relations brought **prosperity to Europe**. They also paved the way for the process of **colonisation** of Asia and Africa. Europeans countries began to export the resources of their colonies in America, Asia and Africa to increase their power."
+              "content_md": "**Scientific inventions** enabled people to explore new routes and distant lands. These **geographical discoveries** led to the **establishment of trade between Europe and the East**. These commercial relations brought **prosperity to Europe**. They also paved the way for the process of **colonisation of Asia and Africa**. European countries began to **export the resources of their colonies** in America, Asia and Africa to increase their power."
             }
           ]
         }
@@ -441,12 +417,7 @@
       "content_blocks": []
     }
   ],
-  "additional_sections": [
-    {
-      "title": "Definition of Renaissance",
-      "content_md": "The term Renaissance means rebirth or revival. It stands for a complex transitional movement in Europe between medieval and modern times beginning in the 14th century in Italy and lasting into the 17th century. It marked the revival of the freedom to think and act without being controlled by any external agency. It was also a revival of the study of the ancient Greek and Roman classics. During this period, many remarkable changes took place in Europe, which had their impact on the history of the world. One of them was the disintegration of the feudal system in Europe which ushered in a new social and economic order. This marked the beginning of the modern era."
-    }
-  ],
+  "additional_sections": [],
   "needs_review": [],
   "manifest": {
     "syllabus_leaves": [
@@ -526,14 +497,15 @@
         "has_notes": true
       },
       {
-        "path": "INVENTION OF THE PRINTING PRESS",
+        "path": "CAUSES OF RENAISSANCE > INVENTION OF THE PRINTING PRESS",
         "path_titles": [
+          "CAUSES OF RENAISSANCE",
           "INVENTION OF THE PRINTING PRESS"
         ],
         "title": "INVENTION OF THE PRINTING PRESS",
-        "sequence_number": 2,
-        "depth": 0,
-        "level_label": "Section",
+        "sequence_number": 5,
+        "depth": 1,
+        "level_label": "Topic",
         "has_notes": true
       },
       {
@@ -573,39 +545,14 @@
         "has_notes": true
       },
       {
-        "path": "Beginning of Renaissance > ",
+        "path": "Beginning of Renaissance",
         "path_titles": [
-          "Beginning of Renaissance",
-          ""
+          "Beginning of Renaissance"
         ],
-        "title": "",
-        "sequence_number": 1,
-        "depth": 1,
-        "level_label": "Topic",
-        "has_notes": true
-      },
-      {
-        "path": "Beginning of Renaissance > ",
-        "path_titles": [
-          "Beginning of Renaissance",
-          ""
-        ],
-        "title": "",
-        "sequence_number": 2,
-        "depth": 1,
-        "level_label": "Topic",
-        "has_notes": true
-      },
-      {
-        "path": "Beginning of Renaissance > ",
-        "path_titles": [
-          "Beginning of Renaissance",
-          ""
-        ],
-        "title": "",
+        "title": "Beginning of Renaissance",
         "sequence_number": 3,
-        "depth": 1,
-        "level_label": "Topic",
+        "depth": 0,
+        "level_label": "Section",
         "has_notes": true
       },
       {
@@ -645,15 +592,29 @@
         "has_notes": true
       },
       {
-        "path": "IMPACT OF RENAISSANCE > LITERATURE",
+        "path": "IMPACT OF RENAISSANCE > LITERATURE > Literature in Italy",
         "path_titles": [
           "IMPACT OF RENAISSANCE",
-          "LITERATURE"
+          "LITERATURE",
+          "Literature in Italy"
         ],
-        "title": "LITERATURE",
-        "sequence_number": 4,
-        "depth": 1,
-        "level_label": "Topic",
+        "title": "Literature in Italy",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "IMPACT OF RENAISSANCE > LITERATURE > Literature in England",
+        "path_titles": [
+          "IMPACT OF RENAISSANCE",
+          "LITERATURE",
+          "Literature in England"
+        ],
+        "title": "Literature in England",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
         "has_notes": true
       },
       {
@@ -669,12 +630,12 @@
         "has_notes": true
       },
       {
-        "path": "CONSEQUENCES OF RENAISSANCE > Ded to the Reformation Movement in Europe",
+        "path": "CONSEQUENCES OF RENAISSANCE > Led to the Reformation Movement in Europe",
         "path_titles": [
           "CONSEQUENCES OF RENAISSANCE",
-          "Ded to the Reformation Movement in Europe"
+          "Led to the Reformation Movement in Europe"
         ],
-        "title": "Ded to the Reformation Movement in Europe",
+        "title": "Led to the Reformation Movement in Europe",
         "sequence_number": 1,
         "depth": 1,
         "level_label": "Topic",
@@ -765,13 +726,6 @@
         "has_notes": true
       }
     ],
-    "stray_leaves": [
-      {
-        "title": "Definition of Renaissance",
-        "insert_after_index": 0,
-        "micro_topics": [],
-        "has_notes": true
-      }
-    ]
+    "stray_leaves": []
   }
 }

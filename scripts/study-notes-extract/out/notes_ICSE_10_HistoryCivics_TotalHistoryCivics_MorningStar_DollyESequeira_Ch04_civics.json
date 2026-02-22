@@ -1,0 +1,1219 @@
+{
+  "board": "ICSE",
+  "grade": 10,
+  "subject": "HistoryCivics",
+  "book_slug": "TotalHistoryCivics_MorningStar_DollyESequeira",
+  "book_meta": {
+    "book_name": "Total History & Civics",
+    "publication": "Morning Star",
+    "author": "Dolly E. Sequeira"
+  },
+  "chapter_sequence_number": 4,
+  "chapter_title": "Prime Minister and Council of Ministers",
+  "discipline": "civics",
+  "reconciliation": {
+    "outline": [
+      "THE PRIME MINISTER",
+      "Appointment",
+      "COUNCIL OF MINISTERS",
+      "Cabinet Ministers",
+      "Ministers of State",
+      "Deputy Ministers",
+      "The Cabinet",
+      "Formation",
+      "Appointment of the Cabinet",
+      "Term of Office",
+      "FEATURES OF THE CABINET SYSTEM",
+      "President as Nominal Head",
+      "Coordination between Ministers and Parliament",
+      "Leadership of the Prime Minister",
+      "Control of Parliament over the Executive",
+      "POWERS AND FUNCTIONS OF THE CABINET",
+      "Administrative Powers",
+      "Policy Making",
+      "Distinction between Council of Ministers and the Cabinet",
+      "Implementation of Policies",
+      "Coordinating the Functioning of Various Ministers",
+      "Appointments",
+      "Legislative Powers",
+      "Introduction of Bills",
+      "Source of Information",
+      "Amendment to the Constitution",
+      "Summoning the Houses of Parliament",
+      "President's Special Address",
+      "Issuing Ordinances",
+      "Financial Powers",
+      "Budget",
+      "Finances of the Government",
+      "Introduction of Money Bills",
+      "Emergency Powers",
+      "POSITION AND POWERS OF THE PRIME MINISTER",
+      "Prime Minister and the President",
+      "Prime Minister and the Cabinet",
+      "Leader of the Cabinet",
+      "Power to Allocate Portfolios and to Reshuffle the Council of Ministers",
+      "Power to Select and Dismiss Ministers",
+      "Power to Direct and Coordinate Policy",
+      "Resignation of the Prime Minister",
+      "Prime Minister inside the Parliament",
+      "Leader of the Lok Sabha",
+      "Spokesperson of the Government",
+      "Defender of Government Policies",
+      "Intervention in case of Controversial Issues",
+      "Prime Minister as Leader of the Nation",
+      "Check on the authority of the Prime Minister",
+      "COLLECTIVE RESPONSIBILITY",
+      "INDIVIDUAL RESPONSIBILITY"
+    ],
+    "in_syllabus_only": [],
+    "in_pdf_only": [
+      {
+        "title": "Distinction between Council of Ministers and the Cabinet",
+        "insert_after_index": 10,
+        "micro_topics": []
+      }
+    ],
+    "additional_sections": [
+      {
+        "title": "Distinction between Council of Ministers and the Cabinet",
+        "content_md": "### Distinction between Council of Ministers and the Cabinet\n\n| Council of Ministers | Cabinet |\n| :--- | :--- |\n| 1. The Council of Ministers consists of all categories of Ministers Cabinet Ministers, Ministers of State and Deputy Ministers. | 1. The 'Cabinet' is a smaller group consisting of senior Ministers holding important portfolios such as Defence, Finance, Home, etc. |\n| 2. The Prime Minister may or may not consult the other Ministers, below the rank of Cabinet Ministers. | 2. They are the most trusted colleagues of the Prime Minister. The Prime Minister always consults them. The decisions of the Cabinet are binding on all the ministers. |\n| 3. In the day-to-day working of the government, the Council of Ministers as a whole rarely meets. | 3. The Cabinet is a small cohesive group of senior Ministers who determine the policy and programme of the Government; so they meet as frequently as possible. |\n| 4. According to the Constitution, the President acts on the advice of the Council of Ministers. In reality, it is not the Council of Ministers but the Cabinet which advises the President. | 4. In day-to-day governance of the country, the Cabinet advises the President, through the Prime Minister. |"
+      }
+    ]
+  },
+  "nodes": [
+    {
+      "title": "Prime Minister and Council of Ministers",
+      "sequence_number": 1,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "THE PRIME MINISTER",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Appointment",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **Prime Minister** is appointed by the **President**. The President cannot act arbitrarily in this appointment. According to **convention**, the President invites the **leader of the majority party** or group in the **Lok Sabha** to form the Government. The members of the majority party or the group elect their leader to be appointed as the Prime Minister. The President then appoints him/her as the Prime Minister. When no single political party secures an **absolute majority** in the Lok Sabha, the President may have some option in the appointment of the Prime Minister. But, the President has to appoint that person who can prove that he/she has the support of some smaller groups or parties in order to have majority in the House."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "COUNCIL OF MINISTERS",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Cabinet Ministers",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**1. Cabinet Ministers**: They are the most important members of the **Council of Ministers**. They hold important **portfolios**, like **Home, Defence, Finance, External Affairs, Railways, etc.** A **Cabinet Minister** is in charge of a Ministry and some times of more than one Ministry. Only **Cabinet Ministers** have a right to attend meetings of the **Cabinet**. They together determine the **policy and programme of the Government**."
+                }
+              ]
+            },
+            {
+              "title": "Ministers of State",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Ministers of State** are the second category of Ministers.\n*   They may or may not hold an **independent charge** of any portfolio.\n*   The Prime Minister may or may not consult them.\n*   They do not participate in the **Cabinet meetings**.\n*   However, they may be invited to attend meetings when matters concerning their departments are being considered."
+                }
+              ]
+            },
+            {
+              "title": "Deputy Ministers",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "**Deputy Ministers** are the third category of Ministers who assist the **Cabinet Ministers** and the **Council of Ministers**. They are **junior ministers** and are placed under senior ministers whom they have to assist. They take **no part in Cabinet deliberations**."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "The Cabinet",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Formation",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **Cabinet** is composed of a small but important body of senior leaders of the party, who are included in the **Council of Ministers**. They hold important portfolios and decide major policies of the Government. They, being trusted colleagues of the **Prime Minister**, form the **nucleus of the administration**. In fact, the **Cabinet** is the pivot round which the whole administration revolves.\n\nThe **Cabinet** takes important decisions. Such decisions are communicated to the other Ministers and they have to follow these decisions even though they might not have been a party to such decisions."
+                }
+              ]
+            },
+            {
+              "title": "Appointment of the Cabinet",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **Prime Minister** selects his/her senior and trustworthy colleagues and advises the **President** to appoint them as **Cabinet Ministers**. The **President** then appoints them as Ministers as per the advice of the **Prime Minister**."
+                }
+              ]
+            },
+            {
+              "title": "Term of Office",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "1. The ministers hold office during the **pleasure of the President**. But the President has little power even in this regard because, the **Prime Minister** and the **Council of Ministers** are directly responsible to the **Lok Sabha** and can remain in office so long as they enjoy the majority support in the **House of the People (Lok Sabha)**. If the Lok Sabha passes a **vote of No-Confidence** against the Council of Ministers they have to resign collectively.\n2. The **Council of Ministers** are **collectively responsible** to the **Lok Sabha**.\n3. Before a Minister enters upon his/her office, the President administers him the **Oath of Office** and of **Secrecy**.\n   In the **Oath of Office** the Minister swears to:\n   (a) bear true faith and allegiance to the **Constitution of India**;\n   (b) uphold the **sovereignty and integrity of India**;\n   (c) faithfully and conscientiously discharge his/her duties without fear or favour, action or ill-will.\n   In the **Oath of Secrecy**, the Minister swears not to directly or indirectly communicate or reveal to any one, any matter which is brought for consideration except as may be required for the discharge of his duties.\n4. Every minister must be a **member of either House of the Parliament** or must become one within **six months** of his/her appointment, failing which he/she will have to vacate his/her office.\n5. The **salaries and allowances of Ministers** are such as Parliament from time to time by law determines."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "FEATURES OF THE CABINET SYSTEM",
+          "sequence_number": 4,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "President as Nominal Head",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **President** is the **Constitutional Head of State** with the **executive power** in the hands of the **Cabinet**. The **Cabinet**, in the name of the **President**, formulates policies of the Government, directs their implementation and is accountable for them."
+                }
+              ]
+            },
+            {
+              "title": "Coordination between Ministers and Parliament",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **Ministers** act as both **legislators** and **administrators**. As legislators, they attend the meetings of Parliament and take active part in its debates and discussions. As administrators, they hold different executive portfolios and carry on administration of the Union Government.\n\nThe Ministers are Members of Parliament and enjoy the support of their Party, which holds the majority in the Lok Sabha. Bills moved by the Ministers are normally bound to have the support of the MPs of the ruling Party and are passed in Parliament without difficulty. Thus, there is a **close coordination between the Executive and the Legislature**."
+                }
+              ]
+            },
+            {
+              "title": "Leadership of the Prime Minister",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **Prime Minister** heads the **Cabinet**. He/She determines its composition, because on his/her advice the **President** appoints the **Cabinet**. He/She acts as the link between the **Cabinet** and the **President**. He/She decides the agenda of **Cabinet** meetings and presides over them."
+                }
+              ]
+            },
+            {
+              "title": "Control of Parliament over the Executive",
+              "sequence_number": 4,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "Parliament ensures the **Cabinet's responsibility** to the people in general, and to the Parliament as a whole. The methods adopted by the Parliament to exercise control over the Executive are:\n\n*   A **vote of No-Confidence** in the Council of Ministers.\n*   Rejection of a **Government bill**.\n*   Passing a bill opposed by the Government.\n*   Voting a **cut in the Budget**.\n*   Passing an **amendment to a bill** against the wishes of the Government.\n*   Reducing the salaries of the Ministers.\n*   Asking **questions**.\n*   **Adjournment motions**.\n*   Rejecting some government measures."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "POWERS AND FUNCTIONS OF THE CABINET",
+          "sequence_number": 5,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Administrative Powers",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [
+                {
+                  "title": "Policy Making",
+                  "sequence_number": 1,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "The **Cabinet** formulates both **external and domestic policies** of the Government. It takes decisions on matters such as **defence**, **economic policy**, **security needs**, **President's rule in State**, **formation of new States**, **industrial policy**, **imports** and **electoral reforms**. Individual Ministers have reasonable freedom of action, but on all major matters they have to consult the Cabinet."
+                    }
+                  ]
+                },
+                {
+                  "title": "Implementation of Policies",
+                  "sequence_number": 2,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "Once a **policy decision** is taken by the **Cabinet** on any subject, it is conveyed to the **Minister of State** and the **Deputy Minister** of the concerned Ministry. They work out the details and pass it to the **civil servants** under that Ministry to implement the decision. In this way, the business of the Government is managed jointly by the **Council of Ministers** and the civil servants concerned."
+                    }
+                  ]
+                },
+                {
+                  "title": "Coordinating the Functioning of Various Ministers",
+                  "sequence_number": 3,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "The **Cabinet** coordinates the working of various departments for the smooth implementation of **government policies**. Any government policy, be it eradicating unemployment, improving public health services or increase in government revenue, requires involvement of several departments for its formulation and implementation."
+                    }
+                  ]
+                },
+                {
+                  "title": "Appointments",
+                  "sequence_number": 4,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "The **Prime Minister** is appointed by the **President**. The **President** cannot act arbitrarily in this appointment. According to convention, the **President** invites the leader of the **majority party** or group in the **Lok Sabha** to form the Government. The members of the majority party or the group elect their leader to be appointed as the **Prime Minister**. The **President** then appoints him/her as the **Prime Minister**. When no single political party secures an **absolute majority** in the **Lok Sabha**, the **President** may have some option in the appointment of the **Prime Minister**. But, the **President** has to appoint that person who can prove that he/she has the support of some smaller groups or parties in order to have majority in the House."
+                    }
+                  ]
+                }
+              ],
+              "content_blocks": []
+            },
+            {
+              "title": "Legislative Powers",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [
+                {
+                  "title": "Introduction of Bills",
+                  "sequence_number": 1,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "The **Cabinet** and the departments of administration take initiative in legislation. In fact, the **Cabinet** initiates almost 95 per cent of the Bills. The legislative proposals that the **Cabinet** formulates are called **Official Bills**. These Bills are given priority and preference over **Private Bills**. Formulation of these Bills involves not only preparing the draft of the proposals but also presenting them before the **Parliament** for approval. The **Cabinet** explains the merits of the Bill.\n\nIt is the **Cabinet** who pilots the Bill through various processes of legislation from introduction to the final passage of the Bill. The **Parliament** only discusses, scrutinises and by putting its seal of approval, legitimises the legislative proposals formulated by the **Cabinet**."
+                    }
+                  ]
+                },
+                {
+                  "title": "Source of Information",
+                  "sequence_number": 2,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "The **ministers** along with the secretaries of the concerned departments answer questions put to them by the members of the **Lok Sabha** and thus provide **information to the public** through their representatives."
+                    }
+                  ]
+                },
+                {
+                  "title": "Amendment to the Constitution",
+                  "sequence_number": 3,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "The **Cabinet** is instrumental in planning and moving the **Amendment to the Constitution**."
+                    }
+                  ]
+                },
+                {
+                  "title": "Summoning the Houses of Parliament",
+                  "sequence_number": 4,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "Although the **Houses of Parliament** are summoned by the **President**, initiative in this matter is taken by the **Ministry of Parliamentary Affairs**."
+                    }
+                  ]
+                },
+                {
+                  "title": "President's Special Address",
+                  "sequence_number": 5,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "The **Cabinet** prepares the **President's Special Address** to the Parliament. The Cabinet, thus, sets forth its **legislative programme** at the commencement of the first session of **Lok Sabha** after each **General Election** and at the commencement of the first session of **Parliament** each year."
+                    }
+                  ]
+                },
+                {
+                  "title": "Issuing Ordinances",
+                  "sequence_number": 6,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "The **Cabinet** also advises the **President** to issue **ordinances** when the **Parliament is not in session**."
+                    }
+                  ]
+                }
+              ],
+              "content_blocks": []
+            },
+            {
+              "title": "Financial Powers",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [
+                {
+                  "title": "Budget",
+                  "sequence_number": 1,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "The **Finance Minister** prepares the **Annual Budget** containing estimates of income and expenditure for the ensuing year. Though the budget is passed by Parliament, usually no changes are made in the budget figures against the wishes of the **Cabinet**. Any amendment to the budget proposals against the wishes of the Cabinet that may be passed by the **Lok Sabha** amounts to a **vote of No-Confidence** in the Ministry. It happens only when the Ministry has lost the support of the majority in the Lok Sabha. In such a situation the Ministry must resign."
+                    }
+                  ]
+                },
+                {
+                  "title": "Finances of the Government",
+                  "sequence_number": 2,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "The **Cabinet** is responsible for the **expenditure** of the government, for presenting the **demand for grants** and also for **raising necessary income** by various means including **taxation**."
+                    }
+                  ]
+                },
+                {
+                  "title": "Introduction of Money Bills",
+                  "sequence_number": 3,
+                  "depth": 3,
+                  "level_label": "Point",
+                  "children": [],
+                  "content_blocks": [
+                    {
+                      "content_md": "A **Money Bill** can be introduced only in the **Lok Sabha**."
+                    }
+                  ]
+                }
+              ],
+              "content_blocks": []
+            },
+            {
+              "title": "Emergency Powers",
+              "sequence_number": 4,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **President** cannot declare a **Proclamation of General Emergency** under **Article 352** of the Constitution, without receiving in writing the decision of the **Cabinet** to this effect. Similarly, the questions of **Proclamation of Financial Emergency** and of **President's rule** in a State are also decided by the **Cabinet**."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "POSITION AND POWERS OF THE PRIME MINISTER",
+          "sequence_number": 6,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "While the **President** is the **nominal head of State**, with the backing of a majority in the Lok Sabha, the **Prime Minister** is the **real head of the nation**. But in a **parliamentary democracy** his/her deeds are closely judged not only by the Opposition but also by the members of his/her own party. If he/she tries to assume dictatorial tendencies, he/she cannot escape the loss of confidence of the Parliament during his/her tenure as well as that of the electorate in the following general elections. Thus, he/she is the **head of the Government** and **answerable to the people of the country**."
+            }
+          ]
+        },
+        {
+          "title": "Prime Minister and the President",
+          "sequence_number": 7,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "1. All authority vested in the **President** is exercised by the **Prime Minister**. He/She is the **principal advisor** of the President. Thus, the President is the **nominal head** and the Prime Minister is the **real executive** of the Indian Union.\n2. It is on the advice of the **Prime Minister** that the President **summons** and **prorogues** the Parliament and **dissolves the Lok Sabha**.\n3. The **Prime Minister** chooses the ministers and, on his/her advice, the President appoints them. The ministers may be **dismissed** on the advice of the Prime Minister.\n4. He/She advises the President on various **appointments** to important posts such as the **Judges of the Supreme Court**, the **Governors** and **Ambassadors**.\n5. He/She is a **link between the President and the Council of Ministers**. Our Constitution lays down that it shall be the duty of the Prime Minister to **communicate to the President all decisions** of the Council of Ministers relating to the administration of the Union and the proposals for legislation. A Minister cannot discuss any matter of national policy with the President on his/her own.\n6. The President can ask the **Council of Ministers to reconsider any matter**, which has not been considered by the Cabinet and on which a decision has been taken by a Minister. The President may call for information regarding the affairs of the Union and the Prime Minister has to furnish such information."
+            }
+          ]
+        },
+        {
+          "title": "Prime Minister and the Cabinet",
+          "sequence_number": 8,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Leader of the Cabinet",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **Prime Minister** is the **head of the Cabinet**. No provision is made in the **Constitution** for the appointment of different categories of Ministers such as **Ministers of the Cabinet rank**, **Ministers of State** and **Deputy Ministers**. The Prime Minister has the liberty to decide on these matters."
+                }
+              ]
+            },
+            {
+              "title": "Power to Allocate Portfolios and to Reshuffle the Council of Ministers",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "It is the **Prime Minister** who allocates departments or **portfolios** to the **Ministers**. He/She can **reshuffle** his/her **Council of Ministers** whenever he/she pleases."
+                }
+              ]
+            },
+            {
+              "title": "Power to Select and Dismiss Ministers",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **Prime Minister** chooses the **Ministers** and has the power to **dismiss** them too. He/She can ask an **erring Minister to resign**."
+                }
+              ]
+            },
+            {
+              "title": "Power to Direct and Coordinate Policy",
+              "sequence_number": 4,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **Prime Minister** coordinates the working of various departments so that administration is carried on smoothly. In critical matters such as, **foreign, defence, economic and technological affairs**, he/she coordinates the policy of the Government."
+                }
+              ]
+            },
+            {
+              "title": "Resignation of the Prime Minister",
+              "sequence_number": 5,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **Prime Minister's resignation** implies the **resignation of the whole Cabinet**."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "Prime Minister inside the Parliament",
+          "sequence_number": 9,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "Leader of the Lok Sabha",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "As the **Prime Minister** is the **leader of the majority party** in Parliament, he/she is said to be the **leader of the House**."
+                }
+              ]
+            },
+            {
+              "title": "Spokesperson of the Government",
+              "sequence_number": 2,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **Prime Minister** is the **chief spokesman** of the **Government** in the **Parliament**. He/She makes all important announcements on **national policies** on the floor of the House."
+                }
+              ]
+            },
+            {
+              "title": "Defender of Government Policies",
+              "sequence_number": 3,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "The **Prime Minister** defends the **Government** in the **Parliament**. When a policy or a **Minister** comes under attack in the **Parliament**, the **Prime Minister** comes to defend the issue involved."
+                }
+              ]
+            },
+            {
+              "title": "Intervention in case of Controversial Issues",
+              "sequence_number": 4,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": "There are some **controversial issues** like the **language issue**, **Centre-State relations**, **price-rise** and **atrocities on women** over which members lose their temper. If an ugly situation arises in any of the Houses, the matter generally ends with the intervention of the **Prime Minister**."
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "Prime Minister as Leader of the Nation",
+          "sequence_number": 10,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "1. The **Prime Minister** represents the nation. When he/she speaks, the whole nation is supposed to be speaking through him/her.\n2. During a **national crisis** like war, even the opposition parties support the **Prime Minister**.\n3. The **Prime Minister** decides what kind of relations India would have with other countries.\n4. The **Prime Minister** tries to protect the interests of the country in **international forums**. He/She discusses matters of mutual interest with other leaders, keeping the interests of India in mind.\n5. At the time of a **General Election**, it is the proposed **Prime Minister** for whom or against whom the people vote.\n6. The **Prime Minister** is also the **ex-officio Chairman** of the **Niti Aayog** and the **Atomic Energy Commission**."
+            }
+          ]
+        },
+        {
+          "title": "Check on the authority of the Prime Minister",
+          "sequence_number": 11,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "1. Though the **Prime Minister** is the leader of the **majority party**, he/she has to ensure the support of his ministers as well as the party.\n2. In case of **coalitions**, when the **Prime Minister** does not enjoy an **absolute majority** in the **Lok Sabha**, his/her position becomes more vulnerable.\n3. **Opposition parties** always look for a chance to criticise the **Prime Minister**.\n4. The **press** and **public opinion** act as effective checks on **Prime Minister's** authority."
+            }
+          ]
+        },
+        {
+          "title": "COLLECTIVE RESPONSIBILITY",
+          "sequence_number": 12,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "Under **Article 75(3)** of the Constitution \"the **Council of Ministers** shall be **collectively responsible** to the **House of the People**.\"\n\nThe principle of **collective responsibility** implies the following:"
+            },
+            {
+              "content_md": "1. The decisions taken in the meetings of the **Cabinet** are equally applicable to all the **Ministers** even though they may differ among themselves on a particular policy.\n2. All **Ministers** jointly share the responsibility for the government's policies and performance. The **Ministers** must function as a team in supporting and defending government policies inside as well as outside Parliament.\n3. A **Vote of No-Confidence** against one Minister is a vote against the whole Ministry. Such a Ministry that has lost the confidence of the Lok Sabha has to resign."
+            }
+          ]
+        },
+        {
+          "title": "INDIVIDUAL RESPONSIBILITY",
+          "sequence_number": 13,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The Ministers are **individually responsible to the President**, i.e., they **hold office during the pleasure of the President** and may be dismissed by him/her, of course, on the **advice of the Prime Minister** even when they may have the confidence of the Legislature."
+            },
+            {
+              "content_md": "Each Minister is **answerable to Parliament** for the department under his/her control. It is obligatory for him/her to answer all the questions asked by the MPs, regarding the functioning of his/her department."
+            },
+            {
+              "content_md": "Every Minister is responsible for matters such as, (a) **personal lapse** (b) **departure from official policy** by him/her or by his/her department (c) **breach of oath of secrecy** and so on. There are many occasions when a Minister has owned responsibility for the mistakes or shortcomings of the department under him/her and resigned from his/her post."
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    }
+  ],
+  "additional_sections": [
+    {
+      "title": "Distinction between Council of Ministers and the Cabinet",
+      "content_md": "### Distinction between Council of Ministers and the Cabinet\n\n| Council of Ministers | Cabinet |\n| :--- | :--- |\n| 1. The Council of Ministers consists of all categories of Ministers Cabinet Ministers, Ministers of State and Deputy Ministers. | 1. The 'Cabinet' is a smaller group consisting of senior Ministers holding important portfolios such as Defence, Finance, Home, etc. |\n| 2. The Prime Minister may or may not consult the other Ministers, below the rank of Cabinet Ministers. | 2. They are the most trusted colleagues of the Prime Minister. The Prime Minister always consults them. The decisions of the Cabinet are binding on all the ministers. |\n| 3. In the day-to-day working of the government, the Council of Ministers as a whole rarely meets. | 3. The Cabinet is a small cohesive group of senior Ministers who determine the policy and programme of the Government; so they meet as frequently as possible. |\n| 4. According to the Constitution, the President acts on the advice of the Council of Ministers. In reality, it is not the Council of Ministers but the Cabinet which advises the President. | 4. In day-to-day governance of the country, the Cabinet advises the President, through the Prime Minister. |"
+    }
+  ],
+  "needs_review": [],
+  "manifest": {
+    "syllabus_leaves": [
+      {
+        "path": "Prime Minister and Council of Ministers > THE PRIME MINISTER > Appointment",
+        "path_titles": [
+          "Prime Minister and Council of Ministers",
+          "THE PRIME MINISTER",
+          "Appointment"
+        ],
+        "title": "Appointment",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Prime Minister and Council of Ministers > COUNCIL OF MINISTERS > Cabinet Ministers",
+        "path_titles": [
+          "Prime Minister and Council of Ministers",
+          "COUNCIL OF MINISTERS",
+          "Cabinet Ministers"
+        ],
+        "title": "Cabinet Ministers",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Prime Minister and Council of Ministers > COUNCIL OF MINISTERS > Ministers of State",
+        "path_titles": [
+          "Prime Minister and Council of Ministers",
+          "COUNCIL OF MINISTERS",
+          "Ministers of State"
+        ],
+        "title": "Ministers of State",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Prime Minister and Council of Ministers > COUNCIL OF MINISTERS > Deputy Ministers",
+        "path_titles": [
+          "Prime Minister and Council of Ministers",
+          "COUNCIL OF MINISTERS",
+          "Deputy Ministers"
+        ],
+        "title": "Deputy Ministers",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Prime Minister and Council of Ministers > The Cabinet > Formation",
+        "path_titles": [
+          "Prime Minister and Council of Ministers",
+          "The Cabinet",
+          "Formation"
+        ],
+        "title": "Formation",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Prime Minister and Council of Ministers > The Cabinet > Appointment of the Cabinet",
+        "path_titles": [
+          "Prime Minister and Council of Ministers",
+          "The Cabinet",
+          "Appointment of the Cabinet"
+        ],
+        "title": "Appointment of the Cabinet",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Prime Minister and Council of Ministers > The Cabinet > Term of Office",
+        "path_titles": [
+          "Prime Minister and Council of Ministers",
+          "The Cabinet",
+          "Term of Office"
+        ],
+        "title": "Term of Office",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Prime Minister and Council of Ministers > FEATURES OF THE CABINET SYSTEM > President as Nominal Head",
+        "path_titles": [
+          "Prime Minister and Council of Ministers",
+          "FEATURES OF THE CABINET SYSTEM",
+          "President as Nominal Head"
+        ],
+        "title": "President as Nominal Head",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Prime Minister and Council of Ministers > FEATURES OF THE CABINET SYSTEM > Coordination between Ministers and Parliament",
+        "path_titles": [
+          "Prime Minister and Council of Ministers",
+          "FEATURES OF THE CABINET SYSTEM",
+          "Coordination between Ministers and Parliament"
+        ],
+        "title": "Coordination between Ministers and Parliament",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Prime Minister and Council of Ministers > FEATURES OF THE CABINET SYSTEM > Leadership of the Prime Minister",
+        "path_titles": [
+          "Prime Minister and Council of Ministers",
+          "FEATURES OF THE CABINET SYSTEM",
+          "Leadership of the Prime Minister"
+        ],
+        "title": "Leadership of the Prime Minister",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Prime Minister and Council of Ministers > FEATURES OF THE CABINET SYSTEM > Control of Parliament over the Executive",
+        "path_titles": [
+          "Prime Minister and Council of Ministers",
+          "FEATURES OF THE CABINET SYSTEM",
+          "Control of Parliament over the Executive"
+        ],
+        "title": "Control of Parliament over the Executive",
+        "sequence_number": 4,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Prime Minister and Council of Ministers > POWERS AND FUNCTIONS OF THE CABINET > Administrative Powers > Policy Making",
+        "path_titles": [
+          "Prime Minister and Council of Ministers",
+          "POWERS AND FUNCTIONS OF THE CABINET",
+          "Administrative Powers",
+          "Policy Making"
+        ],
+        "title": "Policy Making",
+        "sequence_number": 1,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "Prime Minister and Council of Ministers > POWERS AND FUNCTIONS OF THE CABINET > Administrative Powers > Implementation of Policies",
+        "path_titles": [
+          "Prime Minister and Council of Ministers",
+          "POWERS AND FUNCTIONS OF THE CABINET",
+          "Administrative Powers",
+          "Implementation of Policies"
+        ],
+        "title": "Implementation of Policies",
+        "sequence_number": 2,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "Prime Minister and Council of Ministers > POWERS AND FUNCTIONS OF THE CABINET > Administrative Powers > Coordinating the Functioning of Various Ministers",
+        "path_titles": [
+          "Prime Minister and Council of Ministers",
+          "POWERS AND FUNCTIONS OF THE CABINET",
+          "Administrative Powers",
+          "Coordinating the Functioning of Various Ministers"
+        ],
+        "title": "Coordinating the Functioning of Various Ministers",
+        "sequence_number": 3,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "Prime Minister and Council of Ministers > POWERS AND FUNCTIONS OF THE CABINET > Administrative Powers > Appointments",
+        "path_titles": [
+          "Prime Minister and Council of Ministers",
+          "POWERS AND FUNCTIONS OF THE CABINET",
+          "Administrative Powers",
+          "Appointments"
+        ],
+        "title": "Appointments",
+        "sequence_number": 4,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "Prime Minister and Council of Ministers > POWERS AND FUNCTIONS OF THE CABINET > Legislative Powers > Introduction of Bills",
+        "path_titles": [
+          "Prime Minister and Council of Ministers",
+          "POWERS AND FUNCTIONS OF THE CABINET",
+          "Legislative Powers",
+          "Introduction of Bills"
+        ],
+        "title": "Introduction of Bills",
+        "sequence_number": 1,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "Prime Minister and Council of Ministers > POWERS AND FUNCTIONS OF THE CABINET > Legislative Powers > Source of Information",
+        "path_titles": [
+          "Prime Minister and Council of Ministers",
+          "POWERS AND FUNCTIONS OF THE CABINET",
+          "Legislative Powers",
+          "Source of Information"
+        ],
+        "title": "Source of Information",
+        "sequence_number": 2,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "Prime Minister and Council of Ministers > POWERS AND FUNCTIONS OF THE CABINET > Legislative Powers > Amendment to the Constitution",
+        "path_titles": [
+          "Prime Minister and Council of Ministers",
+          "POWERS AND FUNCTIONS OF THE CABINET",
+          "Legislative Powers",
+          "Amendment to the Constitution"
+        ],
+        "title": "Amendment to the Constitution",
+        "sequence_number": 3,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "Prime Minister and Council of Ministers > POWERS AND FUNCTIONS OF THE CABINET > Legislative Powers > Summoning the Houses of Parliament",
+        "path_titles": [
+          "Prime Minister and Council of Ministers",
+          "POWERS AND FUNCTIONS OF THE CABINET",
+          "Legislative Powers",
+          "Summoning the Houses of Parliament"
+        ],
+        "title": "Summoning the Houses of Parliament",
+        "sequence_number": 4,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "Prime Minister and Council of Ministers > POWERS AND FUNCTIONS OF THE CABINET > Legislative Powers > President's Special Address",
+        "path_titles": [
+          "Prime Minister and Council of Ministers",
+          "POWERS AND FUNCTIONS OF THE CABINET",
+          "Legislative Powers",
+          "President's Special Address"
+        ],
+        "title": "President's Special Address",
+        "sequence_number": 5,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "Prime Minister and Council of Ministers > POWERS AND FUNCTIONS OF THE CABINET > Legislative Powers > Issuing Ordinances",
+        "path_titles": [
+          "Prime Minister and Council of Ministers",
+          "POWERS AND FUNCTIONS OF THE CABINET",
+          "Legislative Powers",
+          "Issuing Ordinances"
+        ],
+        "title": "Issuing Ordinances",
+        "sequence_number": 6,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "Prime Minister and Council of Ministers > POWERS AND FUNCTIONS OF THE CABINET > Financial Powers > Budget",
+        "path_titles": [
+          "Prime Minister and Council of Ministers",
+          "POWERS AND FUNCTIONS OF THE CABINET",
+          "Financial Powers",
+          "Budget"
+        ],
+        "title": "Budget",
+        "sequence_number": 1,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "Prime Minister and Council of Ministers > POWERS AND FUNCTIONS OF THE CABINET > Financial Powers > Finances of the Government",
+        "path_titles": [
+          "Prime Minister and Council of Ministers",
+          "POWERS AND FUNCTIONS OF THE CABINET",
+          "Financial Powers",
+          "Finances of the Government"
+        ],
+        "title": "Finances of the Government",
+        "sequence_number": 2,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "Prime Minister and Council of Ministers > POWERS AND FUNCTIONS OF THE CABINET > Financial Powers > Introduction of Money Bills",
+        "path_titles": [
+          "Prime Minister and Council of Ministers",
+          "POWERS AND FUNCTIONS OF THE CABINET",
+          "Financial Powers",
+          "Introduction of Money Bills"
+        ],
+        "title": "Introduction of Money Bills",
+        "sequence_number": 3,
+        "depth": 3,
+        "level_label": "Point",
+        "has_notes": true
+      },
+      {
+        "path": "Prime Minister and Council of Ministers > POWERS AND FUNCTIONS OF THE CABINET > Emergency Powers",
+        "path_titles": [
+          "Prime Minister and Council of Ministers",
+          "POWERS AND FUNCTIONS OF THE CABINET",
+          "Emergency Powers"
+        ],
+        "title": "Emergency Powers",
+        "sequence_number": 4,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Prime Minister and Council of Ministers > POSITION AND POWERS OF THE PRIME MINISTER",
+        "path_titles": [
+          "Prime Minister and Council of Ministers",
+          "POSITION AND POWERS OF THE PRIME MINISTER"
+        ],
+        "title": "POSITION AND POWERS OF THE PRIME MINISTER",
+        "sequence_number": 6,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Prime Minister and Council of Ministers > Prime Minister and the President",
+        "path_titles": [
+          "Prime Minister and Council of Ministers",
+          "Prime Minister and the President"
+        ],
+        "title": "Prime Minister and the President",
+        "sequence_number": 7,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Prime Minister and Council of Ministers > Prime Minister and the Cabinet > Leader of the Cabinet",
+        "path_titles": [
+          "Prime Minister and Council of Ministers",
+          "Prime Minister and the Cabinet",
+          "Leader of the Cabinet"
+        ],
+        "title": "Leader of the Cabinet",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Prime Minister and Council of Ministers > Prime Minister and the Cabinet > Power to Allocate Portfolios and to Reshuffle the Council of Ministers",
+        "path_titles": [
+          "Prime Minister and Council of Ministers",
+          "Prime Minister and the Cabinet",
+          "Power to Allocate Portfolios and to Reshuffle the Council of Ministers"
+        ],
+        "title": "Power to Allocate Portfolios and to Reshuffle the Council of Ministers",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Prime Minister and Council of Ministers > Prime Minister and the Cabinet > Power to Select and Dismiss Ministers",
+        "path_titles": [
+          "Prime Minister and Council of Ministers",
+          "Prime Minister and the Cabinet",
+          "Power to Select and Dismiss Ministers"
+        ],
+        "title": "Power to Select and Dismiss Ministers",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Prime Minister and Council of Ministers > Prime Minister and the Cabinet > Power to Direct and Coordinate Policy",
+        "path_titles": [
+          "Prime Minister and Council of Ministers",
+          "Prime Minister and the Cabinet",
+          "Power to Direct and Coordinate Policy"
+        ],
+        "title": "Power to Direct and Coordinate Policy",
+        "sequence_number": 4,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Prime Minister and Council of Ministers > Prime Minister and the Cabinet > Resignation of the Prime Minister",
+        "path_titles": [
+          "Prime Minister and Council of Ministers",
+          "Prime Minister and the Cabinet",
+          "Resignation of the Prime Minister"
+        ],
+        "title": "Resignation of the Prime Minister",
+        "sequence_number": 5,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Prime Minister and Council of Ministers > Prime Minister inside the Parliament > Leader of the Lok Sabha",
+        "path_titles": [
+          "Prime Minister and Council of Ministers",
+          "Prime Minister inside the Parliament",
+          "Leader of the Lok Sabha"
+        ],
+        "title": "Leader of the Lok Sabha",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Prime Minister and Council of Ministers > Prime Minister inside the Parliament > Spokesperson of the Government",
+        "path_titles": [
+          "Prime Minister and Council of Ministers",
+          "Prime Minister inside the Parliament",
+          "Spokesperson of the Government"
+        ],
+        "title": "Spokesperson of the Government",
+        "sequence_number": 2,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Prime Minister and Council of Ministers > Prime Minister inside the Parliament > Defender of Government Policies",
+        "path_titles": [
+          "Prime Minister and Council of Ministers",
+          "Prime Minister inside the Parliament",
+          "Defender of Government Policies"
+        ],
+        "title": "Defender of Government Policies",
+        "sequence_number": 3,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Prime Minister and Council of Ministers > Prime Minister inside the Parliament > Intervention in case of Controversial Issues",
+        "path_titles": [
+          "Prime Minister and Council of Ministers",
+          "Prime Minister inside the Parliament",
+          "Intervention in case of Controversial Issues"
+        ],
+        "title": "Intervention in case of Controversial Issues",
+        "sequence_number": 4,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": true
+      },
+      {
+        "path": "Prime Minister and Council of Ministers > Prime Minister as Leader of the Nation",
+        "path_titles": [
+          "Prime Minister and Council of Ministers",
+          "Prime Minister as Leader of the Nation"
+        ],
+        "title": "Prime Minister as Leader of the Nation",
+        "sequence_number": 10,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Prime Minister and Council of Ministers > Check on the authority of the Prime Minister",
+        "path_titles": [
+          "Prime Minister and Council of Ministers",
+          "Check on the authority of the Prime Minister"
+        ],
+        "title": "Check on the authority of the Prime Minister",
+        "sequence_number": 11,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Prime Minister and Council of Ministers > COLLECTIVE RESPONSIBILITY",
+        "path_titles": [
+          "Prime Minister and Council of Ministers",
+          "COLLECTIVE RESPONSIBILITY"
+        ],
+        "title": "COLLECTIVE RESPONSIBILITY",
+        "sequence_number": 12,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "Prime Minister and Council of Ministers > INDIVIDUAL RESPONSIBILITY",
+        "path_titles": [
+          "Prime Minister and Council of Ministers",
+          "INDIVIDUAL RESPONSIBILITY"
+        ],
+        "title": "INDIVIDUAL RESPONSIBILITY",
+        "sequence_number": 13,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      }
+    ],
+    "stray_leaves": [
+      {
+        "title": "Distinction between Council of Ministers and the Cabinet",
+        "insert_after_index": 10,
+        "micro_topics": [],
+        "has_notes": true
+      }
+    ]
+  }
+}

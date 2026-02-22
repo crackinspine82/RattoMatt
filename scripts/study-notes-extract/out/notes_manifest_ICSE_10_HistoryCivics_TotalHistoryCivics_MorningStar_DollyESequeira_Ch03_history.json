@@ -1,0 +1,155 @@
+{
+  "syllabus_leaves": [
+    {
+      "path": "THE EARLY NATIONALISTS > Beliefs of the Early Nationalists",
+      "path_titles": [
+        "THE EARLY NATIONALISTS",
+        "Beliefs of the Early Nationalists"
+      ],
+      "title": "Beliefs of the Early Nationalists",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "DEMANDS OF THE EARLY NATIONALISTS > Constitutional Reforms",
+      "path_titles": [
+        "DEMANDS OF THE EARLY NATIONALISTS",
+        "Constitutional Reforms"
+      ],
+      "title": "Constitutional Reforms",
+      "sequence_number": 1,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "DEMANDS OF THE EARLY NATIONALISTS > Economic Reforms",
+      "path_titles": [
+        "DEMANDS OF THE EARLY NATIONALISTS",
+        "Economic Reforms"
+      ],
+      "title": "Economic Reforms",
+      "sequence_number": 2,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "DEMANDS OF THE EARLY NATIONALISTS > Administrative Demands",
+      "path_titles": [
+        "DEMANDS OF THE EARLY NATIONALISTS",
+        "Administrative Demands"
+      ],
+      "title": "Administrative Demands",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "DEMANDS OF THE EARLY NATIONALISTS > Defence of Civil Rights",
+      "path_titles": [
+        "DEMANDS OF THE EARLY NATIONALISTS",
+        "Defence of Civil Rights"
+      ],
+      "title": "Defence of Civil Rights",
+      "sequence_number": 4,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": true
+    },
+    {
+      "path": "METHODS OF THE EARLY NATIONALISTS",
+      "path_titles": [
+        "METHODS OF THE EARLY NATIONALISTS"
+      ],
+      "title": "METHODS OF THE EARLY NATIONALISTS",
+      "sequence_number": 3,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "ACHIEVEMENTS OF THE EARLY NATIONALISTS",
+      "path_titles": [
+        "ACHIEVEMENTS OF THE EARLY NATIONALISTS"
+      ],
+      "title": "ACHIEVEMENTS OF THE EARLY NATIONALISTS",
+      "sequence_number": 4,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "Criticism of the Early Nationalists",
+      "path_titles": [
+        "Criticism of the Early Nationalists"
+      ],
+      "title": "Criticism of the Early Nationalists",
+      "sequence_number": 5,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "Official Attitude Towards the Congress",
+      "path_titles": [
+        "Official Attitude Towards the Congress"
+      ],
+      "title": "Official Attitude Towards the Congress",
+      "sequence_number": 6,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
+      "path": "PROMINENT EARLY NATIONALIST LEADERS > Dadabhai Naoroji (1825-1917) > His Contributions",
+      "path_titles": [
+        "PROMINENT EARLY NATIONALIST LEADERS",
+        "Dadabhai Naoroji (1825-1917)",
+        "His Contributions"
+      ],
+      "title": "His Contributions",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": false
+    },
+    {
+      "path": "PROMINENT EARLY NATIONALIST LEADERS > Gopal Krishna Gokhale (1866-1915) > His Contributions",
+      "path_titles": [
+        "PROMINENT EARLY NATIONALIST LEADERS",
+        "Gopal Krishna Gokhale (1866-1915)",
+        "His Contributions"
+      ],
+      "title": "His Contributions",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": false
+    },
+    {
+      "path": "PROMINENT EARLY NATIONALIST LEADERS > Surendranath Banerjee (1848-1925) > His Contributions",
+      "path_titles": [
+        "PROMINENT EARLY NATIONALIST LEADERS",
+        "Surendranath Banerjee (1848-1925)",
+        "His Contributions"
+      ],
+      "title": "His Contributions",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": false
+    }
+  ],
+  "stray_leaves": [
+    {
+      "title": "Gokhale and Gandhiji",
+      "insert_after_index": 15,
+      "micro_topics": [],
+      "has_notes": true
+    }
+  ]
+}

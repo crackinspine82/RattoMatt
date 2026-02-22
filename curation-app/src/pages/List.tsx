@@ -32,6 +32,7 @@ export default function List() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState('');
   const [subjectFilter, setSubjectFilter] = useState<string>('');
+  const [gradeFilter, setGradeFilter] = useState<string>('');
 
   useEffect(() => {
     listItems()
@@ -45,12 +46,22 @@ export default function List() {
     navigate('/login', { replace: true });
   }
 
-  const subjects = useMemo(() => {
-    const set = new Set(items.map((i) => i.subject_name));
-    return Array.from(set).sort();
+  const filteredItems = useMemo(() => {
+    if (!gradeFilter) return items;
+    return items.filter((i) => String(i.grade_level) === gradeFilter);
+  }, [items, gradeFilter]);
+
+  const grades = useMemo(() => {
+    const set = new Set(items.map((i) => i.grade_level));
+    return Array.from(set).sort((a, b) => a - b);
   }, [items]);
 
-  const bySubjectThenChapter = useMemo(() => groupBySubjectThenChapter(items), [items]);
+  const subjects = useMemo(() => {
+    const set = new Set(filteredItems.map((i) => i.subject_name));
+    return Array.from(set).sort();
+  }, [filteredItems]);
+
+  const bySubjectThenChapter = useMemo(() => groupBySubjectThenChapter(filteredItems), [filteredItems]);
 
   const filteredSections = subjectFilter
     ? bySubjectThenChapter.filter((s) => s.subjectName === subjectFilter)
@@ -71,7 +82,23 @@ export default function List() {
         <p style={{ color: 'var(--text-muted)' }}>No curation items. Run <code>npm run curation:import</code> in the backend.</p>
       ) : (
         <>
-          <div style={{ marginBottom: 16, display: 'flex', alignItems: 'center', gap: 12 }}>
+          <div style={{ marginBottom: 16, display: 'flex', alignItems: 'center', gap: 12, flexWrap: 'wrap' }}>
+            <label htmlFor="grade-filter" style={{ fontSize: 14, fontWeight: 600 }}>
+              Grade
+            </label>
+            <select
+              id="grade-filter"
+              value={gradeFilter}
+              onChange={(e) => setGradeFilter(e.target.value)}
+              style={{ padding: '8px 12px', fontSize: 14, minWidth: 120, borderRadius: 6, border: '1px solid var(--border)', background: 'var(--surface)', color: 'var(--text)' }}
+            >
+              <option value="">All grades</option>
+              {grades.map((g) => (
+                <option key={g} value={String(g)}>
+                  {g}
+                </option>
+              ))}
+            </select>
             <label htmlFor="subject-filter" style={{ fontSize: 14, fontWeight: 600 }}>
               Subject
             </label>

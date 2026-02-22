@@ -1,15 +1,119 @@
 {
   "syllabus_leaves": [
     {
-      "path": "The Harappan Civilisation",
+      "path": "SYLLABUS > The Harappan Civilisation",
       "path_titles": [
+        "SYLLABUS",
         "The Harappan Civilisation"
       ],
       "title": "The Harappan Civilisation",
       "sequence_number": 1,
-      "depth": 0,
-      "level_label": "Section",
+      "depth": 1,
+      "level_label": "Topic",
       "has_notes": true
+    },
+    {
+      "path": "SYLLABUS > Sources > Great Bath",
+      "path_titles": [
+        "SYLLABUS",
+        "Sources",
+        "Great Bath"
+      ],
+      "title": "Great Bath",
+      "sequence_number": 1,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "SYLLABUS > Sources > Citadel",
+      "path_titles": [
+        "SYLLABUS",
+        "Sources",
+        "Citadel"
+      ],
+      "title": "Citadel",
+      "sequence_number": 2,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "SYLLABUS > Sources > seals",
+      "path_titles": [
+        "SYLLABUS",
+        "Sources",
+        "seals"
+      ],
+      "title": "seals",
+      "sequence_number": 3,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "SYLLABUS > Sources > bearded man",
+      "path_titles": [
+        "SYLLABUS",
+        "Sources",
+        "bearded man"
+      ],
+      "title": "bearded man",
+      "sequence_number": 4,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "SYLLABUS > Sources > dancing girl",
+      "path_titles": [
+        "SYLLABUS",
+        "Sources",
+        "dancing girl"
+      ],
+      "title": "dancing girl",
+      "sequence_number": 5,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "SYLLABUS > Sources > dockyard",
+      "path_titles": [
+        "SYLLABUS",
+        "Sources",
+        "dockyard"
+      ],
+      "title": "dockyard",
+      "sequence_number": 6,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "SYLLABUS > Sources > script",
+      "path_titles": [
+        "SYLLABUS",
+        "Sources",
+        "script"
+      ],
+      "title": "script",
+      "sequence_number": 7,
+      "depth": 2,
+      "level_label": "Subtopic",
+      "has_notes": true
+    },
+    {
+      "path": "SYLLABUS > Origin, extent, urban planning, trade, art & craft, and its decline",
+      "path_titles": [
+        "SYLLABUS",
+        "Origin, extent, urban planning, trade, art & craft, and its decline"
+      ],
+      "title": "Origin, extent, urban planning, trade, art & craft, and its decline",
+      "sequence_number": 3,
+      "depth": 1,
+      "level_label": "Topic",
+      "has_notes": false
     },
     {
       "path": "BRONZE AGE CIVILISATIONS",
@@ -34,84 +138,84 @@
       "has_notes": true
     },
     {
-      "path": "SOURCES > The Great Bath",
+      "path": "SOURCES > 1. The Great Bath",
       "path_titles": [
         "SOURCES",
-        "The Great Bath"
+        "1. The Great Bath"
       ],
-      "title": "The Great Bath",
+      "title": "1. The Great Bath",
       "sequence_number": 1,
       "depth": 1,
       "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "SOURCES > The Citadel",
+      "path": "SOURCES > 2. The Citadel",
       "path_titles": [
         "SOURCES",
-        "The Citadel"
+        "2. The Citadel"
       ],
-      "title": "The Citadel",
+      "title": "2. The Citadel",
       "sequence_number": 2,
       "depth": 1,
       "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "SOURCES > Seals",
+      "path": "SOURCES > 3. Seals",
       "path_titles": [
         "SOURCES",
-        "Seals"
+        "3. Seals"
       ],
-      "title": "Seals",
+      "title": "3. Seals",
       "sequence_number": 3,
       "depth": 1,
       "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "SOURCES > Bearded Man",
+      "path": "SOURCES > 4. Bearded Man",
       "path_titles": [
         "SOURCES",
-        "Bearded Man"
+        "4. Bearded Man"
       ],
-      "title": "Bearded Man",
+      "title": "4. Bearded Man",
       "sequence_number": 4,
       "depth": 1,
       "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "SOURCES > Dancing Girl",
+      "path": "SOURCES > 5. Dancing Girl",
       "path_titles": [
         "SOURCES",
-        "Dancing Girl"
+        "5. Dancing Girl"
       ],
-      "title": "Dancing Girl",
+      "title": "5. Dancing Girl",
       "sequence_number": 5,
       "depth": 1,
       "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "SOURCES > Dockyard",
+      "path": "SOURCES > 6. Dockyard",
       "path_titles": [
         "SOURCES",
-        "Dockyard"
+        "6. Dockyard"
       ],
-      "title": "Dockyard",
+      "title": "6. Dockyard",
       "sequence_number": 6,
       "depth": 1,
       "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "SOURCES > Script",
+      "path": "SOURCES > 7. Script",
       "path_titles": [
         "SOURCES",
-        "Script"
+        "7. Script"
       ],
-      "title": "Script",
+      "title": "7. Script",
       "sequence_number": 7,
       "depth": 1,
       "level_label": "Topic",
@@ -189,24 +293,24 @@
       "has_notes": true
     },
     {
-      "path": "MONUMENTAL ARCHITECTURE > The Great Bath",
+      "path": "MONUMENTAL ARCHITECTURE > (a) The Great Bath",
       "path_titles": [
         "MONUMENTAL ARCHITECTURE",
-        "The Great Bath"
+        "(a) The Great Bath"
       ],
-      "title": "The Great Bath",
+      "title": "(a) The Great Bath",
       "sequence_number": 1,
       "depth": 1,
       "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "MONUMENTAL ARCHITECTURE > Granaries",
+      "path": "MONUMENTAL ARCHITECTURE > (b) Granaries",
       "path_titles": [
         "MONUMENTAL ARCHITECTURE",
-        "Granaries"
+        "(b) Granaries"
       ],
-      "title": "Granaries",
+      "title": "(b) Granaries",
       "sequence_number": 2,
       "depth": 1,
       "level_label": "Topic",
@@ -248,81 +352,48 @@
       "has_notes": true
     },
     {
-      "path": "Dress",
-      "path_titles": [
-        "Dress"
-      ],
-      "title": "Dress",
-      "sequence_number": 11,
-      "depth": 0,
-      "level_label": "Section",
-      "has_notes": true
-    },
-    {
-      "path": "Ornaments",
-      "path_titles": [
-        "Ornaments"
-      ],
-      "title": "Ornaments",
-      "sequence_number": 12,
-      "depth": 0,
-      "level_label": "Section",
-      "has_notes": true
-    },
-    {
-      "path": "Toys and Amusements",
-      "path_titles": [
-        "Toys and Amusements"
-      ],
-      "title": "Toys and Amusements",
-      "sequence_number": 13,
-      "depth": 0,
-      "level_label": "Section",
-      "has_notes": true
-    },
-    {
-      "path": "DECLINE OF THE CIVILISATION > Floods and Earthquakes",
+      "path": "DECLINE OF THE CIVILISATION > (a) Floods and Earthquakes",
       "path_titles": [
         "DECLINE OF THE CIVILISATION",
-        "Floods and Earthquakes"
+        "(a) Floods and Earthquakes"
       ],
-      "title": "Floods and Earthquakes",
+      "title": "(a) Floods and Earthquakes",
       "sequence_number": 1,
       "depth": 1,
       "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "DECLINE OF THE CIVILISATION > Increased Aridity",
+      "path": "DECLINE OF THE CIVILISATION > (b) Increased Aridity",
       "path_titles": [
         "DECLINE OF THE CIVILISATION",
-        "Increased Aridity"
+        "(b) Increased Aridity"
       ],
-      "title": "Increased Aridity",
+      "title": "(b) Increased Aridity",
       "sequence_number": 2,
       "depth": 1,
       "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "DECLINE OF THE CIVILISATION > Deforestation",
+      "path": "DECLINE OF THE CIVILISATION > (c) Deforestation",
       "path_titles": [
         "DECLINE OF THE CIVILISATION",
-        "Deforestation"
+        "(c) Deforestation"
       ],
-      "title": "Deforestation",
+      "title": "(c) Deforestation",
       "sequence_number": 3,
       "depth": 1,
       "level_label": "Topic",
       "has_notes": true
     },
     {
-      "path": "DECLINE OF THE CIVILISATION > Attack",
+      "path": "DECLINE OF THE CIVILISATION > (d) Attack",
       "path_titles": [
         "DECLINE OF THE CIVILISATION",
-        "Attack"
+        "(d) Attack"
       ],
-      "title": "Attack",
+      "title": "(d) Attack",
       "sequence_number": 4,
       "depth": 1,
       "level_label": "Topic",
@@ -334,7 +405,7 @@
         "HERITAGE"
       ],
       "title": "HERITAGE",
-      "sequence_number": 15,
+      "sequence_number": 12,
       "depth": 0,
       "level_label": "Section",
       "has_notes": true
@@ -390,8 +461,35 @@
   ],
   "stray_leaves": [
     {
+      "title": "BRONZE AGE CIVILISATIONS",
+      "insert_after_index": 0,
+      "micro_topics": [],
+      "has_notes": true
+    },
+    {
       "title": "EXTENT OF THE CIVILISATION",
-      "insert_after_index": 13,
+      "insert_after_index": 10,
+      "micro_topics": [],
+      "has_notes": true
+    },
+    {
+      "title": "HOUSES",
+      "insert_after_index": 10,
+      "micro_topics": [],
+      "has_notes": true
+    },
+    {
+      "title": "MONUMENTAL ARCHITECTURE",
+      "insert_after_index": 10,
+      "micro_topics": [
+        "(a) The Great Bath",
+        "(b) Granaries"
+      ],
+      "has_notes": true
+    },
+    {
+      "title": "HERITAGE",
+      "insert_after_index": 10,
       "micro_topics": [],
       "has_notes": true
     }

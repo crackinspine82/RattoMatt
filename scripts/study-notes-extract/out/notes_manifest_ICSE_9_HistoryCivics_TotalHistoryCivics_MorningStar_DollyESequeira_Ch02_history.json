@@ -93,7 +93,7 @@
       "sequence_number": 4,
       "depth": 2,
       "level_label": "Subtopic",
-      "has_notes": true
+      "has_notes": false
     },
     {
       "path": "SOURCES > A. LITERARY SOURCES > ALLIED VEDIC LITERATURE > (i) The Vedangas:",
@@ -208,36 +208,38 @@
       "has_notes": true
     },
     {
-      "path": "SOURCES > 2. THE EPICS > Ramayana:",
+      "path": "SOURCES > A. LITERARY SOURCES > 2. THE EPICS > Ramayana:",
       "path_titles": [
         "SOURCES",
+        "A. LITERARY SOURCES",
         "2. THE EPICS",
         "Ramayana:"
       ],
       "title": "Ramayana:",
       "sequence_number": 1,
-      "depth": 2,
-      "level_label": "Subtopic",
+      "depth": 3,
+      "level_label": "Point",
       "has_notes": true
     },
     {
-      "path": "SOURCES > 2. THE EPICS > Mahabharata:",
+      "path": "SOURCES > A. LITERARY SOURCES > 2. THE EPICS > Mahabharata:",
       "path_titles": [
         "SOURCES",
+        "A. LITERARY SOURCES",
         "2. THE EPICS",
         "Mahabharata:"
       ],
       "title": "Mahabharata:",
       "sequence_number": 2,
-      "depth": 2,
-      "level_label": "Subtopic",
+      "depth": 3,
+      "level_label": "Point",
       "has_notes": true
     },
     {
-      "path": "SOURCES > 2. THE EPICS > The Importance of the Epics > (i)",
+      "path": "SOURCES > A. LITERARY SOURCES > The Importance of the Epics > (i)",
       "path_titles": [
         "SOURCES",
-        "2. THE EPICS",
+        "A. LITERARY SOURCES",
         "The Importance of the Epics",
         "(i)"
       ],
@@ -248,10 +250,10 @@
       "has_notes": true
     },
     {
-      "path": "SOURCES > 2. THE EPICS > The Importance of the Epics > (ii)",
+      "path": "SOURCES > A. LITERARY SOURCES > The Importance of the Epics > (ii)",
       "path_titles": [
         "SOURCES",
-        "2. THE EPICS",
+        "A. LITERARY SOURCES",
         "The Importance of the Epics",
         "(ii)"
       ],
@@ -262,10 +264,10 @@
       "has_notes": true
     },
     {
-      "path": "SOURCES > 2. THE EPICS > The Importance of the Epics > (iii)",
+      "path": "SOURCES > A. LITERARY SOURCES > The Importance of the Epics > (iii)",
       "path_titles": [
         "SOURCES",
-        "2. THE EPICS",
+        "A. LITERARY SOURCES",
         "The Importance of the Epics",
         "(iii)"
       ],
@@ -276,10 +278,10 @@
       "has_notes": true
     },
     {
-      "path": "SOURCES > 2. THE EPICS > The Importance of the Epics > (iv)",
+      "path": "SOURCES > A. LITERARY SOURCES > The Importance of the Epics > (iv)",
       "path_titles": [
         "SOURCES",
-        "2. THE EPICS",
+        "A. LITERARY SOURCES",
         "The Importance of the Epics",
         "(iv)"
       ],
@@ -290,10 +292,10 @@
       "has_notes": true
     },
     {
-      "path": "SOURCES > 2. THE EPICS > The Importance of the Epics > (v)",
+      "path": "SOURCES > A. LITERARY SOURCES > The Importance of the Epics > (v)",
       "path_titles": [
         "SOURCES",
-        "2. THE EPICS",
+        "A. LITERARY SOURCES",
         "The Importance of the Epics",
         "(v)"
       ],
@@ -304,10 +306,10 @@
       "has_notes": true
     },
     {
-      "path": "SOURCES > 2. THE EPICS > The Importance of the Epics > (vi)",
+      "path": "SOURCES > A. LITERARY SOURCES > The Importance of the Epics > (vi)",
       "path_titles": [
         "SOURCES",
-        "2. THE EPICS",
+        "A. LITERARY SOURCES",
         "The Importance of the Epics",
         "(vi)"
       ],
@@ -373,12 +375,23 @@
       "has_notes": true
     },
     {
+      "path": "*ORIGIN OF THE ARYANS",
+      "path_titles": [
+        "*ORIGIN OF THE ARYANS"
+      ],
+      "title": "*ORIGIN OF THE ARYANS",
+      "sequence_number": 2,
+      "depth": 0,
+      "level_label": "Section",
+      "has_notes": true
+    },
+    {
       "path": "EARLY SETTLEMENTS",
       "path_titles": [
         "EARLY SETTLEMENTS"
       ],
       "title": "EARLY SETTLEMENTS",
-      "sequence_number": 2,
+      "sequence_number": 3,
       "depth": 0,
       "level_label": "Section",
       "has_notes": true
@@ -437,7 +450,7 @@
         "EDUCATION"
       ],
       "title": "EDUCATION",
-      "sequence_number": 4,
+      "sequence_number": 5,
       "depth": 0,
       "level_label": "Section",
       "has_notes": true
@@ -448,7 +461,7 @@
         "FOOD, DRESS AND AMUSEMENTS"
       ],
       "title": "FOOD, DRESS AND AMUSEMENTS",
-      "sequence_number": 5,
+      "sequence_number": 6,
       "depth": 0,
       "level_label": "Section",
       "has_notes": true
@@ -459,7 +472,7 @@
         "RELIGIOUS BELIEFS"
       ],
       "title": "RELIGIOUS BELIEFS",
-      "sequence_number": 6,
+      "sequence_number": 7,
       "depth": 0,
       "level_label": "Section",
       "has_notes": true
@@ -470,7 +483,7 @@
         "ECONOMY"
       ],
       "title": "ECONOMY",
-      "sequence_number": 7,
+      "sequence_number": 8,
       "depth": 0,
       "level_label": "Section",
       "has_notes": true
@@ -478,14 +491,14 @@
   ],
   "stray_leaves": [
     {
-      "title": "*ORIGIN OF THE ARYANS",
-      "insert_after_index": 35,
+      "title": "Trade:",
+      "insert_after_index": 46,
       "micro_topics": [],
       "has_notes": true
     },
     {
-      "title": "A Comparison: Early Vedic Age and Later Vedic Age",
-      "insert_after_index": 45,
+      "title": "Occupations:",
+      "insert_after_index": 46,
       "micro_topics": [],
       "has_notes": true
     }

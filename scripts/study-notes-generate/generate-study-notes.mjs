@@ -5,8 +5,10 @@
  * Reuses book/PDF discovery and syllabus resolution from study-notes-extract.
  * See docs/STUDY_NOTE_GENERATION.md.
  *
- * Usage: node generate-study-notes.mjs [--book=slug] [--chapter=N] [--discipline=history|civics] [--syllabus-dir=path]
- * Requires: GEMINI_API_KEY. Optional: GEMINI_MODEL, SYLLABUS_DIR (or --syllabus-dir).
+ * Usage:
+ *   File/PDF: node generate-study-notes.mjs [--book=slug] [--chapter=N] [--discipline=history|civics] [--concurrency=N] [--syllabus-dir=path]
+ *   DB (published): node generate-study-notes.mjs --from-db (--chapter-id=uuid | --grade=N --book=slug --chapter=N [--discipline=history|civics]) [--concurrency=N]
+ * Requires: GEMINI_API_KEY. For --from-db: DATABASE_URL. Optional: GEMINI_MODEL, SYLLABUS_DIR (or --syllabus-dir).
  * Output: out/study_notes_Ch{N}_{subject}_{book_slug}[_{discipline}].json
  */
 
@@ -20,6 +22,18 @@ const ROOT = path.resolve(__dirname, '../..');
 const DOCS = path.join(ROOT, 'docs');
 const BOOKS = path.join(ROOT, 'Books', 'ICSE');
 const OUT_DIR = path.join(__dirname, 'out');
+
+// Load backend .env for DATABASE_URL when using --from-db
+try {
+  const backendEnv = path.join(ROOT, 'backend', '.env');
+  if (fs.existsSync(backendEnv)) {
+    const lines = fs.readFileSync(backendEnv, 'utf8').split('\n');
+    for (const line of lines) {
+      const m = line.match(/^\s*([A-Za-z_][A-Za-z0-9_]*)\s*=\s*(.*)$/);
+      if (m && !process.env[m[1]]) process.env[m[1]] = m[2].replace(/^["']|["']$/g, '').trim();
+    }
+  }
+} catch (_) {}
 
 function getSyllabusDir() {
   const arg = process.argv.find((a) => a.startsWith('--syllabus-dir='));
@@ -60,6 +74,35 @@ function getDisciplineFilter() {
   if (!arg) return null;
   const d = arg.slice('--discipline='.length).trim().toLowerCase();
   return d === 'history' || d === 'civics' ? d : null;
+}
+
+function getConcurrency() {
+  const arg = process.argv.find((a) => a.startsWith('--concurrency='));
+  if (!arg) return 4;
+  const n = parseInt(arg.slice('--concurrency='.length).trim(), 10);
+  if (!Number.isFinite(n) || n < 1) return 4;
+  return Math.min(10, Math.max(1, n));
+}
+
+function delay(ms) {
+  return new Promise((r) => setTimeout(r, ms));
+}
+
+function hasFromDb() {
+  return process.argv.includes('--from-db');
+}
+
+function getChapterIdArg() {
+  const arg = process.argv.find((a) => a.startsWith('--chapter-id='));
+  if (!arg) return null;
+  return arg.slice('--chapter-id='.length).trim() || null;
+}
+
+function getGradeArg() {
+  const arg = process.argv.find((a) => a.startsWith('--grade='));
+  if (!arg) return null;
+  const n = parseInt(arg.slice('--grade='.length).trim(), 10);
+  return Number.isFinite(n) ? n : null;
 }
 
 function getBookFolders() {
@@ -228,6 +271,19 @@ ${GENERIC_RULES}
 Use level_label "Section" for top-level, "Topic" for mid-level, "Subtopic" for sub-sections. Order must follow the syllabus outline. Do not add a section for the chapter title; start with the first content section.`;
 }
 
+/** Prompt to condense one node's full-extract content (HTML/text) into concise revision-note Markdown. */
+function buildCondensePrompt(nodeTitle, levelLabel, contentHtml) {
+  const text = (contentHtml || '').replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim().slice(0, 28000);
+  return `You are condensing textbook content into concise revision notes (Markdown). Preserve key terms, definitions, dates, cause-effect, and lists. Use **bold** for key terms. Output only valid JSON: { "content_md": "<Markdown string>" }. No other text, no markdown fences.
+
+Section (${levelLabel}): "${nodeTitle}"
+
+Full content to condense:
+${text || '(no content)'}
+
+Output JSON: { "content_md": "..." }`;
+}
+
 function stripJsonFence(text) {
   const trimmed = (text || '').trim();
   const match = trimmed.match(/```(?:json)?\s*([\s\S]*?)```/);
@@ -266,6 +322,18 @@ async function callGeminiForJson(apiKey, pdfPath, prompt) {
   return JSON.parse(jsonStr);
 }
 
+/** Call Gemini with text only (no PDF). Returns parsed JSON. */
+async function callGeminiForJsonTextOnly(apiKey, prompt) {
+  const { GoogleGenAI } = await import('@google/genai');
+  const ai = new GoogleGenAI({ apiKey });
+  const model = getGeminiModel();
+  const response = await ai.models.generateContent({ model, contents: [{ role: 'user', parts: [{ text: prompt }] }] });
+  const text = response?.text ?? response?.candidates?.[0]?.content?.parts?.[0]?.text ?? '';
+  if (!text) throw new Error('Empty response from Gemini');
+  const jsonStr = stripJsonFence(text);
+  return JSON.parse(jsonStr);
+}
+
 function chapterNumPad(n) {
   return n < 10 ? `0${n}` : String(n);
 }
@@ -275,6 +343,15 @@ function outputFilename(pub, pdfEntry) {
   const subject = (pub.subject || '').replace(/\s+/g, '');
   const slug = pub.book_slug || 'book';
   const disc = pdfEntry.discipline ? `_${pdfEntry.discipline}` : '';
+  return `study_notes_Ch${ch}_${subject}_${slug}${disc}.json`;
+}
+
+/** Output filename for from-db (no pub/pdfEntry). */
+function outputFilenameFromDb(grade, subjectName, sequenceNumber, discipline) {
+  const ch = chapterNumPad(sequenceNumber);
+  const subject = (subjectName || '').replace(/\s+/g, '');
+  const slug = (loadPublications().find((p) => p.grade === grade && p.book_name === subjectName)?.book_slug || subject) || 'book';
+  const disc = discipline ? `_${discipline}` : '';
   return `study_notes_Ch${ch}_${subject}_${slug}${disc}.json`;
 }
 
@@ -299,6 +376,135 @@ function buildOutputPayload(pub, pdfEntry, sections, pageCount = null) {
   return payload;
 }
 
+function buildOutputPayloadFromDb(resolved, sections, bookSlug, pageCount = null) {
+  const subjectName = resolved.subjectName || '';
+  const slug = bookSlug || (loadPublications().find((p) => p.grade === resolved.grade && p.book_name === subjectName)?.book_slug) || 'book';
+  const payload = {
+    board: 'ICSE',
+    grade: resolved.grade,
+    subject: subjectName,
+    book_slug: slug,
+    book_meta: { book_name: subjectName, publication: null, author: null },
+    chapter_sequence_number: resolved.sequenceNumber,
+    chapter_title: resolved.chapterTitle,
+    discipline: resolved.discipline ?? null,
+    generated_at: new Date().toISOString(),
+    sections: Array.isArray(sections) ? sections : [],
+  };
+  if (pageCount != null && Number.isFinite(pageCount)) payload.page_count = Math.max(1, Math.round(pageCount));
+  return payload;
+}
+
+async function processOneChapter(apiKey, pub, dir, pdfEntry, syllabus, disciplineFilter) {
+  const pdfPath = path.join(dir, pdfEntry.name);
+  const syllabusChapter = syllabus ? findSyllabusChapter(syllabus, pdfEntry) : null;
+  const nodes = syllabusChapter ? getChapterNodes(syllabusChapter.chapter) : [];
+  const flatOutline = flattenNodes(nodes);
+  const prompt = buildPrompt(pub, pdfEntry.title, pdfEntry.discipline || disciplineFilter || null, flatOutline);
+  const outName = outputFilename(pub, pdfEntry);
+  const outPath = path.join(OUT_DIR, outName);
+
+  try {
+    const [pageCount, parsed] = await Promise.all([
+      getPdfPageCount(pdfPath),
+      callGeminiForJson(apiKey, pdfPath, prompt),
+    ]);
+    const sections = parsed?.sections ?? [];
+    const payload = buildOutputPayload(pub, pdfEntry, sections, pageCount);
+    fs.writeFileSync(outPath, JSON.stringify(payload, null, 2), 'utf8');
+    console.log(`  OK: ${pdfEntry.name} -> ${outName} (${sections.length} sections${pageCount != null ? `, ${pageCount} pages` : ''})`);
+    return { ok: true };
+  } catch (err) {
+    console.error(`  Error ${pdfEntry.name}: ${err.message}`);
+    return { ok: false };
+  }
+}
+
+async function fromDbFlow(apiKey) {
+  const { getPool, resolveChapter, loadNodesWithNoteBlocks } = await import('../shared/db-published.mjs');
+  const pool = getPool();
+  const chapterIdArg = getChapterIdArg();
+  const gradeArg = getGradeArg();
+  const bookFilter = getBookFilter();
+  const chapterFilter = getChapterFilter();
+  const disciplineFilter = getDisciplineFilter();
+  const concurrency = getConcurrency();
+
+  let resolved;
+  if (chapterIdArg) {
+    resolved = await resolveChapter(pool, { chapterId: chapterIdArg });
+    if (!resolved) {
+      console.error('Chapter not found for --chapter-id=', chapterIdArg);
+      process.exit(1);
+    }
+  } else {
+    if (gradeArg == null || !bookFilter || chapterFilter == null) {
+      console.error('--from-db requires either --chapter-id=uuid OR (--grade=N --book=slug --chapter=N [--discipline=history|civics]).');
+      process.exit(1);
+    }
+    const pubs = loadPublications().filter((p) => p.grade === gradeArg && p.book_slug === bookFilter);
+    if (pubs.length === 0) {
+      console.error('No publication found for grade', gradeArg, 'book', bookFilter);
+      process.exit(1);
+    }
+    resolved = await resolveChapter(pool, {
+      board: 'ICSE',
+      grade: gradeArg,
+      subjectName: pubs[0].book_name,
+      chapterNum: chapterFilter,
+      discipline: disciplineFilter ?? null,
+    });
+    if (!resolved) {
+      console.error('Chapter not found in DB for grade/book/chapter/discipline. Publish structure first.');
+      process.exit(1);
+    }
+  }
+
+  const nodes = await loadNodesWithNoteBlocks(pool, resolved.chapterId);
+  if (nodes.length === 0) {
+    console.error('No published syllabus nodes or note_blocks for this chapter. Publish structure and full extract first.');
+    process.exit(1);
+  }
+
+  console.log(`From DB: ${resolved.chapterTitle} (${nodes.length} nodes). Concurrency: ${concurrency}\n`);
+
+  const sections = [];
+  for (let i = 0; i < nodes.length; i += concurrency) {
+    const batch = nodes.slice(i, i + concurrency);
+    const results = await Promise.all(
+      batch.map(async (node) => {
+        try {
+          const prompt = buildCondensePrompt(node.title, node.level_label, node.content_html);
+          const parsed = await callGeminiForJsonTextOnly(apiKey, prompt);
+          return {
+            title: node.title,
+            level_label: node.level_label,
+            content_md: (parsed?.content_md ?? '').trim(),
+            syllabus_node_id: node.id,
+          };
+        } catch (err) {
+          console.error(`  Condense FAIL for node "${node.title}":`, err.message);
+          return { title: node.title, level_label: node.level_label, content_md: '', syllabus_node_id: node.id };
+        }
+      })
+    );
+    sections.push(...results);
+    if (i + concurrency < nodes.length) await delay(1000);
+  }
+
+  const pageCountRow = await pool.query(
+    'SELECT page_count FROM chapters WHERE id = $1',
+    [resolved.chapterId]
+  ).then((r) => r.rows[0]?.page_count ?? null);
+  const bookSlug = loadPublications().find((p) => p.grade === resolved.grade && p.book_name === resolved.subjectName)?.book_slug;
+  const payload = buildOutputPayloadFromDb(resolved, sections, bookSlug, pageCountRow);
+  if (!fs.existsSync(OUT_DIR)) fs.mkdirSync(OUT_DIR, { recursive: true });
+  const outName = outputFilenameFromDb(resolved.grade, resolved.subjectName, resolved.sequenceNumber, resolved.discipline);
+  const outPath = path.join(OUT_DIR, outName);
+  fs.writeFileSync(outPath, JSON.stringify(payload, null, 2), 'utf8');
+  console.log('Wrote', outPath, `(${sections.length} sections, syllabus_node_id set)`);
+}
+
 async function main() {
   const apiKey = process.env.GEMINI_API_KEY?.trim();
   if (!apiKey) {
@@ -306,9 +512,15 @@ async function main() {
     process.exit(1);
   }
 
+  if (hasFromDb()) {
+    await fromDbFlow(apiKey);
+    return;
+  }
+
   const syllabusDir = getSyllabusDir();
   const chapterFilter = getChapterFilter();
   const disciplineFilter = getDisciplineFilter();
+  const concurrency = getConcurrency();
 
   if (!fs.existsSync(OUT_DIR)) fs.mkdirSync(OUT_DIR, { recursive: true });
 
@@ -318,34 +530,25 @@ async function main() {
     process.exit(1);
   }
 
+  console.log(`Concurrency: ${concurrency} chapter(s) at a time\n`);
+
   for (const { pub, dir } of folders) {
     const pdfs = listChapterPdfs(dir);
     const syllabus = loadSyllabusForBook(pub, syllabusDir);
+    const toProcess = pdfs.filter((e) => {
+      if (chapterFilter != null && e.sequenceNumber !== chapterFilter) return false;
+      if (disciplineFilter != null && e.discipline !== disciplineFilter) return false;
+      return true;
+    });
+    if (toProcess.length === 0) continue;
 
-    for (const pdfEntry of pdfs) {
-      if (chapterFilter != null && pdfEntry.sequenceNumber !== chapterFilter) continue;
-      if (disciplineFilter != null && pdfEntry.discipline !== disciplineFilter) continue;
-
-      const pdfPath = path.join(dir, pdfEntry.name);
-      const syllabusChapter = syllabus ? findSyllabusChapter(syllabus, pdfEntry) : null;
-      const nodes = syllabusChapter ? getChapterNodes(syllabusChapter.chapter) : [];
-      const flatOutline = flattenNodes(nodes);
-
-      const prompt = buildPrompt(pub, pdfEntry.title, pdfEntry.discipline || disciplineFilter || null, flatOutline);
-      const outName = outputFilename(pub, pdfEntry);
-      const outPath = path.join(OUT_DIR, outName);
-
-      console.log(`Generating: ${pdfEntry.name} -> ${outName}`);
-      try {
-        const pageCount = await getPdfPageCount(pdfPath);
-        const parsed = await callGeminiForJson(apiKey, pdfPath, prompt);
-        const sections = parsed?.sections ?? [];
-        const payload = buildOutputPayload(pub, pdfEntry, sections, pageCount);
-        fs.writeFileSync(outPath, JSON.stringify(payload, null, 2), 'utf8');
-        console.log(`  Wrote ${outPath} (${sections.length} sections${pageCount != null ? `, ${pageCount} pages` : ''})`);
-      } catch (err) {
-        console.error(`  Error: ${err.message}`);
-      }
+    for (let i = 0; i < toProcess.length; i += concurrency) {
+      const batch = toProcess.slice(i, i + concurrency);
+      console.log(`Generating ${batch.length} chapter(s) in parallel: ${batch.map((e) => e.name).join(', ')}`);
+      await Promise.all(
+        batch.map((pdfEntry) => processOneChapter(apiKey, pub, dir, pdfEntry, syllabus, disciplineFilter))
+      );
+      if (i + concurrency < toProcess.length) await delay(1000);
     }
   }
 }

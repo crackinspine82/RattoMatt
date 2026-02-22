@@ -1,0 +1,423 @@
+{
+  "board": "ICSE",
+  "grade": 10,
+  "subject": "HistoryCivics",
+  "book_slug": "TotalHistoryCivics_MorningStar_DollyESequeira",
+  "book_meta": {
+    "book_name": "Total History & Civics",
+    "publication": "Morning Star",
+    "author": "Dolly E. Sequeira"
+  },
+  "chapter_sequence_number": 3,
+  "chapter_title": "First Phase of the Indian National Movement",
+  "discipline": "history",
+  "reconciliation": {
+    "outline": [
+      "THE EARLY NATIONALISTS",
+      "Beliefs of the Early Nationalists",
+      "DEMANDS OF THE EARLY NATIONALISTS",
+      "Constitutional Reforms",
+      "Economic Reforms",
+      "Administrative Demands",
+      "Defence of Civil Rights",
+      "METHODS OF THE EARLY NATIONALISTS",
+      "ACHIEVEMENTS OF THE EARLY NATIONALISTS",
+      "Criticism of the Early Nationalists",
+      "Official Attitude Towards the Congress",
+      "PROMINENT EARLY NATIONALIST LEADERS",
+      "Dadabhai Naoroji (1825-1917)",
+      "His Contributions",
+      "Gopal Krishna Gokhale (1866-1915)",
+      "His Contributions",
+      "Gokhale and Gandhiji",
+      "Surendranath Banerjee (1848-1925)",
+      "His Contributions"
+    ],
+    "in_syllabus_only": [],
+    "in_pdf_only": [
+      {
+        "title": "Gokhale and Gandhiji",
+        "insert_after_index": 15,
+        "micro_topics": []
+      }
+    ],
+    "additional_sections": [
+      {
+        "title": "Gokhale and Gandhiji",
+        "content_md": "Gokhale went to South Africa where he helped Gandhiji in his fight against racial discrimination. The credit of persuading Gandhiji to return to India and join Indian public life also goes to Gokhale. In fact, Gandhiji accepted Gokhale as his 'political mentor'."
+      }
+    ]
+  },
+  "nodes": [
+    {
+      "title": "THE EARLY NATIONALISTS",
+      "sequence_number": 1,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "Beliefs of the Early Nationalists",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "1. The **Early Nationalists** had faith in the sense of **justice**, **fair play**, **honesty** and **integrity** of the British.\n2. It was their hope that the British would grant **'Home Rule'** to Indians. They relied on the solemn pledges made by the British government.\n3. They believed that the **British rule** had many benefits. For example, it aided in cleansing social ills like **sati**, **untouchability** and **child marriage**.\n4. They were of the opinion that Britain would help Indians govern themselves according to **western standards**.\n5. They said that the main obstacle in India's progress was **social and economic backwardness** of Indians and not the **British colonial rule**.\n6. They relied on **constitutional and peaceful methods** to achieve their aims. They believed in **patience** and **reconciliation** rather than in **violence** and **confrontation**."
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    },
+    {
+      "title": "DEMANDS OF THE EARLY NATIONALISTS",
+      "sequence_number": 2,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "Constitutional Reforms",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **Early Nationalists** wanted a larger share in the government of their country. They believed that eventually India should move towards **democratic self-government**. However, they did not ask for immediate achievement of their goal as they feared that the government would suppress their activities. They, therefore, aimed at winning freedom through a gradual process. They made the following demands:\n\n1.  **Abolition of India Council**.\n2.  **Expansion of the Legislative Council** and **Legislative Assemblies**—both at the Centre and in the Provinces.\n3.  **Increase in the membership of Indians** by including some members elected by local bodies like Chambers of Commerce, Universities, etc., in these Councils and by giving greater powers to them. They demanded Indian control over the public purse and raised the slogan **'No taxation without representation'**.\n4.  By the beginning of the 20th century, they made a demand for **Swarajya** or **self-government** within the British empire like the self-governing colonies of Canada and Australia.\n5.  Adequate representation of Indians in the **Executive Council of the Viceroy** and those of the Governors."
+            }
+          ]
+        },
+        {
+          "title": "Economic Reforms",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The economic issues raised by the Early Nationalists included:"
+            },
+            {
+              "content_md": "1. Reduction in **land revenue** and protection of peasants against unjust demands of the **zamindars**.\n2. Reduction in **expenditure on the army** and the money thus saved to be spent on welfare activities such as health and education.\n3. An enquiry into India's growing **poverty and famines**.\n4. Availability of cheap credit to peasants through **agricultural banks**.\n5. Development of **banking, irrigation, medical and health facilities** for the people.\n6. **Industrial growth through trade protection**. That means that a heavy tax should be imposed on imported goods and the government should give loans for the development of iron, coal, paper and sugar industries in India.\n7. Total abolition of **Salt Tax** and the duty on sugar."
+            }
+          ]
+        },
+        {
+          "title": "Administrative Demands",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **Early Nationalists** made the following demands in the administrative sphere:\n\n*   (i) Demand for **Indianisation of services** through simultaneous **Indian Civil Service** examinations in England and India.\n*   (ii) Complete **separation of the executive and the judiciary**. They made this demand to protect Indians from the arbitrary acts of the police and the bureaucracy.\n*   (iii) Increase in the powers of the local (municipal) bodies and reduction of official control over them.\n*   (iv) Repeal of the **Arms Act** and **Licence Act**.\n*   (v) Wider employment of Indians in the higher grades of administrative services.\n*   (vi) Spread of primary education among the masses.\n*   (vii) Improvement of the police system to make it honest, efficient and popular."
+            }
+          ]
+        },
+        {
+          "title": "Defence of Civil Rights",
+          "sequence_number": 4,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [],
+          "content_blocks": [
+            {
+              "content_md": "The **Early Nationalists** defended **civil rights** whenever the **British government** tried to curtail them. In fact, it was because of the political work done by the Early Nationalists that **democratic ideas** began to take root among Indians. The Early Nationalists demanded the following civil rights:\n\n1.  Removal of the restrictions imposed by the British Government on the **freedom of speech**, and the **freedom of the press**.\n2.  Abolition of the **Preventive Detention Act** and restoration of **individual liberties**.\n3.  Restoration of **right to assemble** and to **form associations**."
+            }
+          ]
+        }
+      ],
+      "content_blocks": []
+    },
+    {
+      "title": "METHODS OF THE EARLY NATIONALISTS",
+      "sequence_number": 3,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "The **Early Nationalists** were practical; they wanted to win freedom by a **gradual process**. They did not aim at high demands because they wanted to work on the lines of least resistance. Besides, they did not want to arouse serious opposition.\n\nThe Early Nationalists followed what is popularly known as **Constitutional Agitation Method**. This implied that they believed in the policy of **constitutional agitation** within the **legal framework**, and **slow orderly political progress**. The methods adopted by the Early Nationalists had **two objectives**."
+        }
+      ]
+    },
+    {
+      "title": "ACHIEVEMENTS OF THE EARLY NATIONALISTS",
+      "sequence_number": 4,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "The **Early Nationalists** represented the most progressive force of the time. They made the following contributions to the Indian national movement:"
+        },
+        {
+          "content_md": "1. The **Early Nationalists** created **national awakening** among people that they belonged to one common country—India. This made Indians conscious of the bonds of common political, economic and cultural interests that united them.\n2. The **Early Nationalists** trained people in politics by popularising the ideas of **democracy**, **civil liberties**, **secularism** and **nationalism**.\n3. The **Early Nationalists** did pioneering work by exposing the true nature of the British rule in India. They made people realise the economic content and character of **British imperialism**. By doing so, they weakened the foundations of the British rule in India.\n4. Their political and economic programmes established the truth that India must be ruled in the interest of the Indians.\n5. The efforts of the **Early Nationalists** led to the following reforms:\n   (i) The appointment of a **Public Service Commission** in 1886;\n   (ii) A resolution of the **House of Commons (1893)** for simultaneous examination for the **I.C.S. in London and India**;\n   (iii) Appointment of the **Welby Commission on Indian Expenditure (1895)**;\n   (iv) the **Indian Councils Act of 1892**.\n\nThese achievements of the Early Nationalists served as a base for the national movement in later years."
+        }
+      ]
+    },
+    {
+      "title": "Criticism of the Early Nationalists",
+      "sequence_number": 5,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "The Early Nationalists have been criticised on the following grounds:\n\n1. The methods used by the Early Nationalists of **passing resolutions** and **sending petitions** were criticised as inadequate. They depended on the generosity of the British instead of relying on their own strength and challenging the imperialist might.\n2. They failed to realise that **British and Indian interests clashed** with each other. Britain was using India's resources to increase its wealth.\n3. The Early Nationalists failed to draw the **masses** into the mainstream of the national movement. Their area of influence was limited to the **urban educated Indians**. In particular, their leadership was confined to professional groups such as lawyers, doctors, journalists and teachers."
+        }
+      ]
+    },
+    {
+      "title": "Official Attitude Towards the Congress",
+      "sequence_number": 6,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [],
+      "content_blocks": [
+        {
+          "content_md": "In the beginning, the **British Government** looked upon the **Congress movement** with favour. In fact, a few government officials attended the first session of the Congress and took part in its deliberations. The Congress members were invited to a garden party by the Viceroy, **Lord Dufferin** in **Kolkata (1886)**. But the official attitude soon changed. Lord Dufferin, tried to divert the National Movement by suggesting to Hume that the Congress should devote itself to social rather than political affairs. However, instead of being a tool in the hands of the authorities, the Congress gradually became the focus of **Indian nationalism**.\n\nIn **1887**, **Lord Dufferin** attacked the National Congress in his speech and ridiculed it as representing only **'a microscopic minority of the people'**. British officials criticised the National Congress and branded its leaders as **'disloyal babus'** and **'violent villains'**.\n\nIn **1890**, the Government employees were forbidden from participating in the Congress deliberations or attending its meetings. Realising that the growing unity of the Indians posed a major threat to their rule, the British pushed further the policy of **'divide and rule'**. They encouraged **Sir Sayyid Ahmad Khan**, **Raja Shiva Prasad of Benaras (Varanasi)**, and other pro-British individuals to start an **anti-Congress movement**. They sowed seeds of communalism between the Hindus and the Muslims on the one hand and between the Indian masses and their leaders on the other. They followed a policy of granting minor concessions to put down the growth of nationalism. However, their policy of repression and hostility made the Congress more powerful."
+        }
+      ]
+    },
+    {
+      "title": "PROMINENT EARLY NATIONALIST LEADERS",
+      "sequence_number": 7,
+      "depth": 0,
+      "level_label": "Section",
+      "children": [
+        {
+          "title": "Dadabhai Naoroji (1825-1917)",
+          "sequence_number": 1,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "His Contributions",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": ""
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "Gopal Krishna Gokhale (1866-1915)",
+          "sequence_number": 2,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "His Contributions",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": ""
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        },
+        {
+          "title": "Surendranath Banerjee (1848-1925)",
+          "sequence_number": 3,
+          "depth": 1,
+          "level_label": "Topic",
+          "children": [
+            {
+              "title": "His Contributions",
+              "sequence_number": 1,
+              "depth": 2,
+              "level_label": "Subtopic",
+              "children": [],
+              "content_blocks": [
+                {
+                  "content_md": ""
+                }
+              ]
+            }
+          ],
+          "content_blocks": []
+        }
+      ],
+      "content_blocks": []
+    }
+  ],
+  "additional_sections": [
+    {
+      "title": "Gokhale and Gandhiji",
+      "content_md": "Gokhale went to South Africa where he helped Gandhiji in his fight against racial discrimination. The credit of persuading Gandhiji to return to India and join Indian public life also goes to Gokhale. In fact, Gandhiji accepted Gokhale as his 'political mentor'."
+    }
+  ],
+  "needs_review": [
+    "His Contributions",
+    "His Contributions",
+    "His Contributions"
+  ],
+  "manifest": {
+    "syllabus_leaves": [
+      {
+        "path": "THE EARLY NATIONALISTS > Beliefs of the Early Nationalists",
+        "path_titles": [
+          "THE EARLY NATIONALISTS",
+          "Beliefs of the Early Nationalists"
+        ],
+        "title": "Beliefs of the Early Nationalists",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "DEMANDS OF THE EARLY NATIONALISTS > Constitutional Reforms",
+        "path_titles": [
+          "DEMANDS OF THE EARLY NATIONALISTS",
+          "Constitutional Reforms"
+        ],
+        "title": "Constitutional Reforms",
+        "sequence_number": 1,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "DEMANDS OF THE EARLY NATIONALISTS > Economic Reforms",
+        "path_titles": [
+          "DEMANDS OF THE EARLY NATIONALISTS",
+          "Economic Reforms"
+        ],
+        "title": "Economic Reforms",
+        "sequence_number": 2,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "DEMANDS OF THE EARLY NATIONALISTS > Administrative Demands",
+        "path_titles": [
+          "DEMANDS OF THE EARLY NATIONALISTS",
+          "Administrative Demands"
+        ],
+        "title": "Administrative Demands",
+        "sequence_number": 3,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "DEMANDS OF THE EARLY NATIONALISTS > Defence of Civil Rights",
+        "path_titles": [
+          "DEMANDS OF THE EARLY NATIONALISTS",
+          "Defence of Civil Rights"
+        ],
+        "title": "Defence of Civil Rights",
+        "sequence_number": 4,
+        "depth": 1,
+        "level_label": "Topic",
+        "has_notes": true
+      },
+      {
+        "path": "METHODS OF THE EARLY NATIONALISTS",
+        "path_titles": [
+          "METHODS OF THE EARLY NATIONALISTS"
+        ],
+        "title": "METHODS OF THE EARLY NATIONALISTS",
+        "sequence_number": 3,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "ACHIEVEMENTS OF THE EARLY NATIONALISTS",
+        "path_titles": [
+          "ACHIEVEMENTS OF THE EARLY NATIONALISTS"
+        ],
+        "title": "ACHIEVEMENTS OF THE EARLY NATIONALISTS",
+        "sequence_number": 4,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "Criticism of the Early Nationalists",
+        "path_titles": [
+          "Criticism of the Early Nationalists"
+        ],
+        "title": "Criticism of the Early Nationalists",
+        "sequence_number": 5,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "Official Attitude Towards the Congress",
+        "path_titles": [
+          "Official Attitude Towards the Congress"
+        ],
+        "title": "Official Attitude Towards the Congress",
+        "sequence_number": 6,
+        "depth": 0,
+        "level_label": "Section",
+        "has_notes": true
+      },
+      {
+        "path": "PROMINENT EARLY NATIONALIST LEADERS > Dadabhai Naoroji (1825-1917) > His Contributions",
+        "path_titles": [
+          "PROMINENT EARLY NATIONALIST LEADERS",
+          "Dadabhai Naoroji (1825-1917)",
+          "His Contributions"
+        ],
+        "title": "His Contributions",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": false
+      },
+      {
+        "path": "PROMINENT EARLY NATIONALIST LEADERS > Gopal Krishna Gokhale (1866-1915) > His Contributions",
+        "path_titles": [
+          "PROMINENT EARLY NATIONALIST LEADERS",
+          "Gopal Krishna Gokhale (1866-1915)",
+          "His Contributions"
+        ],
+        "title": "His Contributions",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": false
+      },
+      {
+        "path": "PROMINENT EARLY NATIONALIST LEADERS > Surendranath Banerjee (1848-1925) > His Contributions",
+        "path_titles": [
+          "PROMINENT EARLY NATIONALIST LEADERS",
+          "Surendranath Banerjee (1848-1925)",
+          "His Contributions"
+        ],
+        "title": "His Contributions",
+        "sequence_number": 1,
+        "depth": 2,
+        "level_label": "Subtopic",
+        "has_notes": false
+      }
+    ],
+    "stray_leaves": [
+      {
+        "title": "Gokhale and Gandhiji",
+        "insert_after_index": 15,
+        "micro_topics": [],
+        "has_notes": true
+      }
+    ]
+  }
+}

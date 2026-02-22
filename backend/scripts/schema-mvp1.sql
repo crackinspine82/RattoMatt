@@ -463,20 +463,33 @@ CREATE TABLE IF NOT EXISTS draft_note_blocks (
 CREATE INDEX IF NOT EXISTS idx_draft_note_blocks_node ON draft_note_blocks(draft_syllabus_node_id);
 
 -- Revision notes (concise revision content from study-notes-generate; full extract stays in draft_note_blocks)
+-- Keyed by published syllabus_node_id; chapter_id for listing/orphaned. See docs/TARGET_ARCHITECTURE_REVISION_QUESTIONS.md
 CREATE TABLE IF NOT EXISTS draft_revision_note_blocks (
   id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
-  draft_syllabus_node_id UUID REFERENCES draft_syllabus_nodes(id) NOT NULL,
+  chapter_id UUID REFERENCES chapters(id) NOT NULL,
+  syllabus_node_id UUID REFERENCES syllabus_nodes(id) ON DELETE SET NULL,
   sequence_number INTEGER NOT NULL,
   content_html TEXT NOT NULL,
   created_at TIMESTAMPTZ DEFAULT CURRENT_TIMESTAMP
 );
-CREATE INDEX IF NOT EXISTS idx_draft_revision_note_blocks_node ON draft_revision_note_blocks(draft_syllabus_node_id);
+CREATE INDEX IF NOT EXISTS idx_draft_revision_note_blocks_syllabus_node ON draft_revision_note_blocks(syllabus_node_id);
+CREATE INDEX IF NOT EXISTS idx_draft_revision_note_blocks_chapter ON draft_revision_note_blocks(chapter_id);
+
+-- Published revision notes (publish script copies from draft_revision_note_blocks)
+CREATE TABLE IF NOT EXISTS revision_note_blocks (
+  id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+  syllabus_node_id UUID REFERENCES syllabus_nodes(id) NOT NULL,
+  sequence_number INTEGER NOT NULL,
+  content_html TEXT NOT NULL
+);
+CREATE INDEX IF NOT EXISTS idx_revision_note_blocks_node ON revision_note_blocks(syllabus_node_id);
 
 -- Draft questions and rubrics (curation → publish to questions/rubrics)
+-- Keyed by published syllabus_node_id (nullable for orphaned after structure re-publish). See docs/TARGET_ARCHITECTURE_REVISION_QUESTIONS.md
 CREATE TABLE IF NOT EXISTS draft_questions (
   id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
   chapter_id UUID REFERENCES chapters(id) NOT NULL,
-  draft_syllabus_node_id UUID REFERENCES draft_syllabus_nodes(id),
+  syllabus_node_id UUID REFERENCES syllabus_nodes(id) ON DELETE SET NULL,
   question_text TEXT NOT NULL,
   question_type VARCHAR(80) NOT NULL,
   discipline VARCHAR(20) NOT NULL CHECK (discipline IN ('history', 'civics')),
@@ -499,7 +512,7 @@ CREATE TABLE IF NOT EXISTS draft_questions (
 
 CREATE INDEX IF NOT EXISTS idx_draft_questions_chapter ON draft_questions(chapter_id);
 CREATE INDEX IF NOT EXISTS idx_draft_questions_ready ON draft_questions(chapter_id, ready_to_publish);
-CREATE INDEX IF NOT EXISTS idx_draft_questions_draft_node ON draft_questions(draft_syllabus_node_id);
+CREATE INDEX IF NOT EXISTS idx_draft_questions_syllabus_node ON draft_questions(syllabus_node_id);
 
 CREATE TABLE IF NOT EXISTS draft_rubrics (
   id UUID PRIMARY KEY DEFAULT gen_random_uuid(),

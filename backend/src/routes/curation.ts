@@ -740,6 +740,200 @@ export default async function curationRoutes(app: FastifyInstance) {
     }
   );
 
+  // ----- Chapter images (one list per chapter; slug + node mapping for picture study / visual scenario) -----
+  app.get<{ Params: { id: string } }>('/curation/items/:id/chapter-images', async (req: FastifyRequest<{ Params: { id: string } }>, reply: FastifyReply) => {
+    const pool = getPool();
+    const { id: itemId } = req.params;
+    const itemRes = await pool.query<{ chapter_id: string }>('SELECT chapter_id FROM curation_items WHERE id = $1', [itemId]);
+    if (itemRes.rows.length === 0) return reply.status(404).send({ error: 'Curation item not found' });
+    const chapterId = itemRes.rows[0].chapter_id;
+    const imagesRes = await pool.query<{ id: string; url: string; filename: string | null; slug: string; slug_locked: boolean; created_at: string }>(
+      'SELECT id, url, filename, slug, slug_locked, created_at FROM curation_chapter_images WHERE chapter_id = $1 ORDER BY created_at ASC',
+      [chapterId]
+    );
+    const nodeRes = await pool.query<{ image_id: string; node_id: string }>(
+      'SELECT image_id, node_id FROM curation_chapter_image_nodes WHERE image_id = ANY($1::uuid[])',
+      [imagesRes.rows.map((r) => r.id)]
+    );
+    const nodesByImage: Record<string, string[]> = {};
+    for (const r of nodeRes.rows) {
+      if (!nodesByImage[r.image_id]) nodesByImage[r.image_id] = [];
+      nodesByImage[r.image_id].push(r.node_id);
+    }
+    const images = imagesRes.rows.map((r) => ({
+      id: r.id,
+      url: r.url,
+      filename: r.filename,
+      slug: r.slug,
+      slug_locked: r.slug_locked,
+      created_at: r.created_at,
+      node_ids: nodesByImage[r.id] ?? [],
+    }));
+    return reply.send({ images });
+  });
+
+  app.post<{ Params: { id: string } }>('/curation/items/:id/chapter-images', async (req: FastifyRequest<{ Params: { id: string } }>, reply: FastifyReply) => {
+    const pool = getPool();
+    const { id: itemId } = req.params;
+    let slug: string | null = null;
+    let fileData: { buffer: Buffer; mimetype: string; filename: string } | null = null;
+    const parts = req.parts();
+    for await (const part of parts) {
+      if (part.type === 'field' && part.fieldname === 'slug') {
+        slug = (part as { value: string }).value?.trim() || null;
+      }
+      if (part.type === 'file' && part.fieldname === 'file') {
+        const p = part as { toBuffer: () => Promise<Buffer>; mimetype: string; filename: string };
+        const buffer = await p.toBuffer();
+        fileData = { buffer, mimetype: p.mimetype || '', filename: p.filename || '' };
+      }
+    }
+    if (!fileData) return reply.status(400).send({ error: 'No file uploaded' });
+    if (!slug || !slug.length) return reply.status(400).send({ error: 'slug required (locked after save)' });
+    const slugNorm = slug.slice(0, 255).replace(/\s+/g, '_');
+    const itemRes = await pool.query<{ chapter_id: string }>('SELECT chapter_id FROM curation_items WHERE id = $1', [itemId]);
+    if (itemRes.rows.length === 0) return reply.status(404).send({ error: 'Curation item not found' });
+    const chapterId = itemRes.rows[0].chapter_id;
+    const existing = await pool.query('SELECT id FROM curation_chapter_images WHERE chapter_id = $1 AND slug = $2', [chapterId, slugNorm]);
+    if (existing.rows.length > 0) return reply.status(400).send({ error: 'Slug already used in this chapter' });
+    const mimetype = fileData.mimetype;
+    if (!ALLOWED_IMAGE_TYPES.has(mimetype)) {
+      return reply.status(400).send({ error: 'Allowed types: image/jpeg, image/png, image/gif, image/webp' });
+    }
+    const ext = EXT_BY_MIME[mimetype] || path.extname(fileData.filename) || '.png';
+    const filename = `${crypto.randomUUID()}${ext}`;
+    const uploadsDir = path.join(process.cwd(), 'uploads');
+    fs.mkdirSync(uploadsDir, { recursive: true });
+    const filepath = path.join(uploadsDir, filename);
+    fs.writeFileSync(filepath, fileData.buffer);
+    const url = `/uploads/${filename}`;
+    const insertRes = await pool.query<{ id: string; slug: string; slug_locked: boolean }>(
+      'INSERT INTO curation_chapter_images (chapter_id, url, filename, slug, slug_locked) VALUES ($1, $2, $3, $4, true) RETURNING id, slug, slug_locked',
+      [chapterId, url, fileData.filename || filename, slugNorm]
+    );
+    const row = insertRes.rows[0];
+    return reply.send({ id: row.id, url, filename: fileData.filename || filename, slug: row.slug, slug_locked: row.slug_locked, node_ids: [] });
+  });
+
+  /** For question generator: slug + published syllabus_node_ids (draft nodes resolved to published). */
+  app.get<{ Params: { id: string } }>('/curation/items/:id/structure-images', async (req: FastifyRequest<{ Params: { id: string } }>, reply: FastifyReply) => {
+    const pool = getPool();
+    const { id: itemId } = req.params;
+    const itemRes = await pool.query<{ chapter_id: string }>('SELECT chapter_id FROM curation_items WHERE id = $1', [itemId]);
+    if (itemRes.rows.length === 0) return reply.status(404).send({ error: 'Curation item not found' });
+    const chapterId = itemRes.rows[0].chapter_id;
+    const imagesRes = await pool.query<{ id: string; slug: string }>(
+      'SELECT id, slug FROM curation_chapter_images WHERE chapter_id = $1 ORDER BY created_at ASC',
+      [chapterId]
+    );
+    const imageIds = imagesRes.rows.map((r) => r.id);
+    if (imageIds.length === 0) return reply.send({ structure_images: [] });
+    const nodeRes = await pool.query<{ image_id: string; published_id: string }>(
+      `SELECT n.image_id, d.published_syllabus_node_id AS published_id
+       FROM curation_chapter_image_nodes n
+       JOIN draft_syllabus_nodes d ON d.id = n.node_id AND d.chapter_id = $1
+       WHERE d.published_syllabus_node_id IS NOT NULL AND n.image_id = ANY($2::uuid[])`,
+      [chapterId, imageIds]
+    );
+    const nodesByImage: Record<string, string[]> = {};
+    for (const r of nodeRes.rows) {
+      if (!nodesByImage[r.image_id]) nodesByImage[r.image_id] = [];
+      nodesByImage[r.image_id].push(r.published_id);
+    }
+    const structure_images = imagesRes.rows.map((r) => ({ slug: r.slug, node_ids: nodesByImage[r.id] ?? [] }));
+    return reply.send({ structure_images });
+  });
+
+  app.patch<{ Params: { imageId: string }; Body: { node_ids?: string[] } }>(
+    '/curation/chapter-images/:imageId',
+    async (req: FastifyRequest<{ Params: { imageId: string }; Body: { node_ids?: string[] } }>, reply: FastifyReply) => {
+      const pool = getPool();
+      const { imageId } = req.params;
+      const body = (req.body as { node_ids?: string[] }) ?? {};
+      const imageRes = await pool.query<{ chapter_id: string }>('SELECT chapter_id FROM curation_chapter_images WHERE id = $1', [imageId]);
+      if (imageRes.rows.length === 0) return reply.status(404).send({ error: 'Chapter image not found' });
+      const chapterId = imageRes.rows[0].chapter_id;
+      if (Array.isArray(body.node_ids)) {
+        const validNodes = await pool.query<{ id: string }>('SELECT id FROM draft_syllabus_nodes WHERE chapter_id = $1', [chapterId]);
+        const validSet = new Set(validNodes.rows.map((r) => r.id));
+        const toInsert = body.node_ids.filter((id) => validSet.has(id));
+        await pool.query('DELETE FROM curation_chapter_image_nodes WHERE image_id = $1', [imageId]);
+        for (const nodeId of toInsert) {
+          await pool.query('INSERT INTO curation_chapter_image_nodes (image_id, node_id) VALUES ($1, $2) ON CONFLICT DO NOTHING', [imageId, nodeId]);
+        }
+      }
+      const updated = await pool.query<{ id: string; url: string; filename: string | null; slug: string; slug_locked: boolean }>(
+        'SELECT id, url, filename, slug, slug_locked FROM curation_chapter_images WHERE id = $1',
+        [imageId]
+      );
+      const nodeIdsRes = await pool.query<{ node_id: string }>('SELECT node_id FROM curation_chapter_image_nodes WHERE image_id = $1', [imageId]);
+      return reply.send({
+        id: updated.rows[0].id,
+        url: updated.rows[0].url,
+        filename: updated.rows[0].filename,
+        slug: updated.rows[0].slug,
+        slug_locked: updated.rows[0].slug_locked,
+        node_ids: nodeIdsRes.rows.map((r) => r.node_id),
+      });
+    }
+  );
+
+  app.post<{ Params: { imageId: string } }>('/curation/chapter-images/:imageId/replace', async (req: FastifyRequest<{ Params: { imageId: string } }>, reply: FastifyReply) => {
+    const pool = getPool();
+    const { imageId } = req.params;
+    let fileData: { buffer: Buffer; mimetype: string; filename: string } | null = null;
+    const parts = req.parts();
+    for await (const part of parts) {
+      if (part.type === 'file' && part.fieldname === 'file') {
+        const p = part as { toBuffer: () => Promise<Buffer>; mimetype: string; filename: string };
+        const buffer = await p.toBuffer();
+        fileData = { buffer, mimetype: p.mimetype || '', filename: p.filename || '' };
+      }
+    }
+    if (!fileData) return reply.status(400).send({ error: 'No file uploaded' });
+    const imgRes = await pool.query<{ id: string; url: string; chapter_id: string }>('SELECT id, url, chapter_id FROM curation_chapter_images WHERE id = $1', [imageId]);
+    if (imgRes.rows.length === 0) return reply.status(404).send({ error: 'Chapter image not found' });
+    const oldUrl = imgRes.rows[0].url;
+    const mimetype = fileData.mimetype;
+    if (!ALLOWED_IMAGE_TYPES.has(mimetype)) {
+      return reply.status(400).send({ error: 'Allowed types: image/jpeg, image/png, image/gif, image/webp' });
+    }
+    const ext = EXT_BY_MIME[mimetype] || path.extname(fileData.filename) || '.png';
+    const filename = `${crypto.randomUUID()}${ext}`;
+    const uploadsDir = path.join(process.cwd(), 'uploads');
+    fs.mkdirSync(uploadsDir, { recursive: true });
+    const filepath = path.join(uploadsDir, filename);
+    fs.writeFileSync(filepath, fileData.buffer);
+    const url = `/uploads/${filename}`;
+    await pool.query('UPDATE curation_chapter_images SET url = $1, filename = $2, updated_at = CURRENT_TIMESTAMP WHERE id = $3', [url, fileData.filename || filename, imageId]);
+    const oldPath = path.join(process.cwd(), oldUrl.replace(/^\//, ''));
+    if (fs.existsSync(oldPath)) try { fs.unlinkSync(oldPath); } catch (_) {}
+    const updated = await pool.query<{ id: string; url: string; filename: string | null; slug: string; slug_locked: boolean }>(
+      'SELECT id, url, filename, slug, slug_locked FROM curation_chapter_images WHERE id = $1',
+      [imageId]
+    );
+    const nodeIdsRes = await pool.query<{ node_id: string }>('SELECT node_id FROM curation_chapter_image_nodes WHERE image_id = $1', [imageId]);
+    return reply.send({
+      id: updated.rows[0].id,
+      url: updated.rows[0].url,
+      filename: updated.rows[0].filename,
+      slug: updated.rows[0].slug,
+      slug_locked: updated.rows[0].slug_locked,
+      node_ids: nodeIdsRes.rows.map((r) => r.node_id),
+    });
+  });
+
+  app.delete<{ Params: { imageId: string } }>('/curation/chapter-images/:imageId', async (req: FastifyRequest<{ Params: { imageId: string } }>, reply: FastifyReply) => {
+    const pool = getPool();
+    const { imageId } = req.params;
+    const imgRes = await pool.query<{ url: string }>('SELECT url FROM curation_chapter_images WHERE id = $1', [imageId]);
+    if (imgRes.rows.length === 0) return reply.status(404).send({ error: 'Chapter image not found' });
+    const oldPath = path.join(process.cwd(), imgRes.rows[0].url.replace(/^\//, ''));
+    await pool.query('DELETE FROM curation_chapter_images WHERE id = $1', [imageId]);
+    if (fs.existsSync(oldPath)) try { fs.unlinkSync(oldPath); } catch (_) {}
+    return reply.status(204).send();
+  });
+
   app.get<{ Params: { id: string } }>('/curation/items/:id/images', async (req: FastifyRequest<{ Params: { id: string } }>, reply: FastifyReply) => {
     const pool = getPool();
     const { id: itemId } = req.params;

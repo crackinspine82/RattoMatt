@@ -78,13 +78,14 @@ See `docs/QUESTION_BANK_GENERATION.md` and `backend/scripts/curation-import.ts` 
 ## Step 3: SME curation in the app
 
 1. Log in to the **curation app** (shared SME account).
-2. Open the **list** of curation items; find the new chapter’s items (Structure, Notes, Revision notes, Questions).
+2. Open the **list** of curation items; find the new chapter’s items (Structure, Notes, Revision notes, Questions, Images).
 3. **Structure (syllabus + full extract):**
    - Open the **Structure** item for that chapter.
    - Edit the tree (levels, reparent, add/remove nodes, edit titles), edit note blocks in the middle column, and use the **Preview** column on the right to see output.
    - **Save**, then **Mark Ready to Publish** when done.
 4. **Revision notes:** Open the Revision Notes item, edit blocks, Save, Mark Ready to Publish when done.
-5. **Questions:** Open the Questions item. Use the left sidebar: **In Progress** and **Ready to Publish**. Edit each question and use **Mark ready to publish** or **Mark in progress** per question. **Save** to persist edits. Only questions in **Ready to Publish** will be published when the admin runs the publish script.
+5. **Chapter images (optional):** Open the **Images** link for the chapter. Upload images (slug is set from filename); use “Assign nodes” and click **Save nodes** at the bottom of the dropdown to map each image to syllabus nodes. Used by the question generator for picture study and visual scenario questions.
+6. **Questions:** Open the Questions item. Use the left sidebar: **In Progress** and **Ready to Publish**. Edit each question and use **Mark ready to publish** or **Mark in progress** per question. **Save** to persist edits. Only questions in **Ready to Publish** will be published when the admin runs the publish script. You can **reassign** a question’s syllabus node from the right panel (dropdown with full node tree; “Unassign” option).
 
 ---
 

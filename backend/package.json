@@ -18,6 +18,7 @@
     "migration:revision-notes": "tsx scripts/run-migration-revision-notes.ts",
     "migration:draft-questions-ready": "tsx scripts/run-migration-draft-questions-ready.ts",
     "migration:item-images": "tsx scripts/run-migration-item-images.ts",
+    "migration:chapter-images": "tsx scripts/run-migration-chapter-images.ts",
     "migration:syllabus-node-id": "tsx scripts/run-migration-syllabus-node-id.ts",
     "curation:publish": "tsx scripts/curation-publish.ts",
     "curation:merge-revision-node-ids": "tsx scripts/merge-revision-notes-node-ids.ts",

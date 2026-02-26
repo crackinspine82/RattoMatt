@@ -3,11 +3,15 @@ import { useParams, Link } from 'react-router-dom';
 import { getItem, getQuestions, saveQuestions, setStatus, setQuestionReady, type CurationItem, type DraftNode, type DraftQuestion } from '../api';
 import { RubricForm } from '../components/RubricForm';
 import { RichTextField } from '../components/RichTextEditor';
+import { buildNodesTree } from '../components/NotesTreeSidebar';
+import { flattenTree } from '../structureUtils';
 import {
   QUESTION_TYPE_ORDER,
   QUESTION_TYPE_CATEGORY,
   questionTypeToLabel,
 } from '../constants/questionTypes';
+
+const NODE_DROPDOWN_INDENT = 16;
 
 const LEFT_WIDTH_KEY = 'curation-questions-left-width';
 const RIGHT_WIDTH_KEY = 'curation-questions-right-width';
@@ -86,6 +90,8 @@ export default function QuestionsEditor() {
   const [orphanedQuestions, setOrphanedQuestions] = useState<DraftQuestion[]>([]);
   const [noPublishedStructure, setNoPublishedStructure] = useState(false);
   const [nodes, setNodes] = useState<DraftNode[]>([]);
+  const [nodeDropdownOpen, setNodeDropdownOpen] = useState(false);
+  const nodeDropdownRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
     if (!itemId) return;
@@ -106,6 +112,24 @@ export default function QuestionsEditor() {
   useEffect(() => {
     questionsRef.current = questions;
   }, [questions]);
+
+  const flatNodeOrder = useMemo(() => flattenTree(buildNodesTree(nodes)), [nodes]);
+
+  useEffect(() => {
+    if (!nodeDropdownOpen) return;
+    function handleClickOutside(e: MouseEvent) {
+      if (nodeDropdownRef.current && !nodeDropdownRef.current.contains(e.target as Node)) setNodeDropdownOpen(false);
+    }
+    function handleEscape(e: KeyboardEvent) {
+      if (e.key === 'Escape') setNodeDropdownOpen(false);
+    }
+    document.addEventListener('mousedown', handleClickOutside);
+    document.addEventListener('keydown', handleEscape);
+    return () => {
+      document.removeEventListener('mousedown', handleClickOutside);
+      document.removeEventListener('keydown', handleEscape);
+    };
+  }, [nodeDropdownOpen]);
 
   function pushUndo(snapshot?: UndoSnapshot) {
     const toPush: UndoSnapshot = snapshot ?? { questions: [...questionsRef.current], selectedId };
@@ -653,22 +677,6 @@ export default function QuestionsEditor() {
                     </div>
                   </div>
                 )}
-                <div style={{ marginBottom: 16, padding: '10px 12px', background: 'var(--bg)', borderRadius: 6, fontSize: 13 }}>
-                  <div style={{ fontWeight: 600, marginBottom: 4, color: 'var(--text-muted)' }}>Syllabus node</div>
-                  {selectedQuestion.syllabus_node_id ? (() => {
-                    const node = nodes.find((n) => n.id === selectedQuestion.syllabus_node_id);
-                    return (
-                      <>
-                        <div style={{ marginBottom: 2 }}>{node?.title ?? '—'}</div>
-                        <code style={{ fontSize: 11, color: 'var(--text-muted)', wordBreak: 'break-all' }} title={selectedQuestion.syllabus_node_id}>
-                          {selectedQuestion.syllabus_node_id}
-                        </code>
-                      </>
-                    );
-                  })() : (
-                    <span style={{ color: 'var(--text-muted)' }}>No node</span>
-                  )}
-                </div>
                 <div>
                   <label style={{ display: 'block', fontSize: 12, fontWeight: 600, marginBottom: 4 }}>Question text</label>
                   <RichTextField
@@ -697,7 +705,7 @@ export default function QuestionsEditor() {
 
           <div role="separator" aria-label="Resize right panel" onMouseDown={handleResizeRightStart} style={{ width: 6, flexShrink: 0, cursor: 'col-resize', background: 'var(--border)' }} />
 
-          {/* Right: rubric form */}
+          {/* Right: syllabus node + rubric form */}
           <div
             style={{
               width: rightWidth,
@@ -708,10 +716,112 @@ export default function QuestionsEditor() {
             }}
           >
             {selectedQuestion ? (
-              <RubricForm
-                rubric={selectedQuestion.rubric.rubric_json as Record<string, unknown>}
-                onChange={(rubricJson) => handleRubricChange(selectedQuestion.id, rubricJson)}
-              />
+              <>
+                <div ref={nodeDropdownRef} style={{ padding: 24, paddingBottom: 16, position: 'relative', fontSize: 13, borderBottom: '1px solid var(--border)' }}>
+                  <div style={{ fontWeight: 600, marginBottom: 4, color: 'var(--text-muted)' }}>Syllabus node</div>
+                  <button
+                    type="button"
+                    onClick={() => setNodeDropdownOpen((o) => !o)}
+                    style={{
+                      width: '100%',
+                      padding: '10px 12px',
+                      textAlign: 'left',
+                      background: 'var(--bg)',
+                      border: '1px solid var(--border)',
+                      borderRadius: 6,
+                      color: 'var(--text)',
+                      cursor: 'pointer',
+                      fontSize: 13,
+                    }}
+                    title="Click to change node"
+                  >
+                    {selectedQuestion.syllabus_node_id ? (() => {
+                      const node = nodes.find((n) => n.id === selectedQuestion.syllabus_node_id);
+                      return (
+                        <>
+                          <div style={{ marginBottom: 2 }}>{node?.title ?? '—'}</div>
+                          <code style={{ fontSize: 11, color: 'var(--text-muted)', wordBreak: 'break-all' }} title={selectedQuestion.syllabus_node_id}>
+                            {selectedQuestion.syllabus_node_id}
+                          </code>
+                        </>
+                      );
+                    })() : (
+                      <span style={{ color: 'var(--text-muted)' }}>No node</span>
+                    )}
+                  </button>
+                  {nodeDropdownOpen && (
+                    <div
+                      role="listbox"
+                      style={{
+                        position: 'absolute',
+                        top: '100%',
+                        left: 24,
+                        right: 24,
+                        marginTop: 4,
+                        maxHeight: 280,
+                        overflowY: 'auto',
+                        background: 'var(--surface)',
+                        border: '1px solid var(--border)',
+                        borderRadius: 6,
+                        boxShadow: 'var(--shadow)',
+                        zIndex: 50,
+                      }}
+                    >
+                      <button
+                        type="button"
+                        role="option"
+                        onClick={() => {
+                          updateQuestion(selectedQuestion.id, { syllabus_node_id: null });
+                          setNodeDropdownOpen(false);
+                        }}
+                        style={{
+                          display: 'block',
+                          width: '100%',
+                          padding: '8px 12px',
+                          textAlign: 'left',
+                          border: 0,
+                          background: 'transparent',
+                          color: 'var(--text-muted)',
+                          cursor: 'pointer',
+                          fontSize: 13,
+                        }}
+                      >
+                        Unassign
+                      </button>
+                      {flatNodeOrder.map((n) => (
+                        <button
+                          key={n.id}
+                          type="button"
+                          role="option"
+                          onClick={() => {
+                            updateQuestion(selectedQuestion.id, { syllabus_node_id: n.id });
+                            setNodeDropdownOpen(false);
+                          }}
+                          style={{
+                            display: 'block',
+                            width: '100%',
+                            padding: '8px 12px',
+                            paddingLeft: 12 + (n.depth ?? 0) * NODE_DROPDOWN_INDENT,
+                            textAlign: 'left',
+                            border: 0,
+                            background: selectedQuestion.syllabus_node_id === n.id ? 'var(--bg)' : 'transparent',
+                            color: 'var(--text)',
+                            cursor: 'pointer',
+                            fontSize: 13,
+                          }}
+                        >
+                          {n.title || '(Untitled)'}
+                        </button>
+                      ))}
+                    </div>
+                  )}
+                </div>
+                <RubricForm
+                  rubric={selectedQuestion.rubric.rubric_json as Record<string, unknown>}
+                  onChange={(rubricJson) => handleRubricChange(selectedQuestion.id, rubricJson)}
+                  subjectId={item?.subject_id}
+                />
+              </>
             ) : (
               <p style={{ padding: 24, color: 'var(--text-muted)' }}>Select a question to view rubric.</p>
             )}

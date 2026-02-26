@@ -10,8 +10,9 @@ This document captures the design for the ingestion (admin) and curation (SME) s
 | Study notes   | ✅     | ✅     | Link blocks to structure; create nodes for orphans; ensure no gaps |
 | Questions & answers | —  | ✅     | Edit question text, model answers, link to nodes       |
 | Rubrics       | —      | ✅     | Form-based edit (blocks, criteria, scores)             |
+| Chapter images | ✅     | ✅     | Upload images per chapter, set slug (from filename), assign to syllabus nodes for picture study / visual scenario questions |
 
-This list is extensible (e.g. images, passages).
+This list is extensible (e.g. passages).
 
 **Note:** v1 here means the curation **UI** (structure + notes editors). Import of questions into `draft_questions` is already supported; full questions/rubrics editing in the curation app follows later.
 
@@ -80,6 +81,12 @@ Status is **per assignment** (per chapter + content type), not per row.
   - Note blocks with no node (orphans, e.g. from PDF-only / additional_sections).
 - **Orphan handling (Option B):** SME can (1) **link** an orphan note to an **existing** structure node, or (2) **create a new** structure node and link the note to it.
 - **Edit:** Edit note block content (e.g. rich text or Markdown); link/unlink from nodes. All edits in draft tables.
+
+## 5a) Chapter Images (SME)
+
+- **Purpose:** Images for picture study and visual scenario questions. One list per chapter; each image has a slug (unique per chapter) and optional syllabus node assignments.
+- **Flow:** SME opens the chapter’s **Images** screen (from the list; uses the chapter’s structure item). Upload one or more images (slug is derived from filename, no extension; duplicates skipped). Assign syllabus nodes via “Assign nodes” → check nodes → **Save nodes** at the bottom of the dropdown. Replace or delete images as needed.
+- **Question generator:** When run with `--from-db`, the generator calls `GET /curation/items/:id/structure-images` to get slug + published node IDs for the 60% “within-structure” picture study and visual scenario questions. See `docs/QUESTION_BANK_GENERATION.md`.
 
 ## 6) Import to Curation (script)
 

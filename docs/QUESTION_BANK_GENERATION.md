@@ -108,7 +108,7 @@ node generate-question-bank.mjs --from-db (--chapter-id=uuid | --grade=N --book=
 | `--notes-dir=path` | Directory containing notes JSON (default: ../study-notes-extract/out). |
 | `--pages=N` | Override page count (optional; else stub or DB). |
 | `--out-dir=path` | Output directory (default: out). |
-| `--structure-images-dir=path` | Folder of chapter structure images (camelCase filenames). Default: `Books/ICSE/{grade}/HistoryCivics/{book}/Ch{N}_{discipline}_images/`. Used for 60% within-structure visual/picture-study questions. |
+| `--structure-images-dir=path` | Folder of chapter structure images (only when **not** using `--from-db`). Default: `Books/ICSE/{grade}/HistoryCivics/{book}/Ch{N}_{discipline}_images/`. With `--from-db`, 60% within-structure images come from the **curation API** instead (see below). |
 | `--resume` | Load existing output file; generate only missing questions per (type, difficulty); merge and overwrite. |
 | `--only-types=type1,type2` | Load existing output; remove items of these types; generate only those types; merge back. Example: `--only-types=picture_study_linked,mcq_visual_scenario` to regenerate only picture study and visual scenario questions. |
 
@@ -137,7 +137,10 @@ node scripts/count-pdf-pages/count-pages.mjs --pdf=path/to/chapter.pdf
 
 ## Picture study and visual MCQs
 
-**Image source ratio (per type):** 60% of questions use images **within the structure** (chapter folder; output **scenario_data.structure_image_name**, camelCase); 40% use **outside** (description for curator: **image_placeholder_caption** or **image_instruction**). Default structure folder: `Books/ICSE/{grade}/HistoryCivics/{book_slug}/Ch{N}_{discipline}_images/`; override with `--structure-images-dir`. If the folder is missing or empty, all questions use the outside path. Strategy: `structure_images.within_structure_pct` (default 60).
+**Image source ratio (per type):** 60% of questions use images **within the structure** (output **scenario_data.structure_image_name**); 40% use **outside** (description for curator: **image_placeholder_caption** or **image_instruction**). Strategy: `structure_images.within_structure_pct` (default 60).
+
+- **With `--from-db`:** The 60% within-structure list comes from the **curation API**: `GET /curation/items/:id/structure-images` (the script resolves the chapter’s questions item id and calls this endpoint). Set **CURATION_API_TOKEN** in env (e.g. in `backend/.env`) and optionally **CURATION_API_URL** (default `http://localhost:3000`). If the API call fails (network, 401, etc.), the run **aborts** with a clear error. The API returns image slug and published node ids; each (slug, node) becomes one question slot. In the curation app, slugs are set from the image **filename (no extension)** when uploading (multi-upload; duplicates skipped). No folder is used for 60% in this mode.
+- **Without `--from-db`:** The 60% list comes from a **folder** of images (camelCase filenames). Default: `Books/ICSE/{grade}/HistoryCivics/{book_slug}/Ch{N}_{discipline}_images/`; override with `--structure-images-dir`. If the folder is missing or empty, all questions use the outside path.
 
 - **picture_study_linked:** The generator finds all `[Image: <caption>]` placeholders in the chapter notes (extract or generate format). It generates **N** picture-study questions (N from strategy). Each question has three sub-parts (i) Identify, (ii) Explain, (iii) Significance, plus model answer and rubric. Images are reused round-robin if N exceeds the number of placeholders. Each question includes **scenario_data.image_placeholder_caption** (the `[Image: ...]` string) so the curation UI can show “Upload image for: &lt;caption&gt;” and the SME can upload the image later.
 - **mcq_visual_scenario:** The generator produces full MCQ questions (stem + options + model answer + rubric) and an **image_instruction** describing what image to use (e.g. “A map of Harappan sites with Lothal and Mohenjo-daro marked”). Each question includes **scenario_data.image_instruction** so the SME can upload the right image in curation.

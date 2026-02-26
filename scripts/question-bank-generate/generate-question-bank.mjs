@@ -8,7 +8,8 @@
  *   File: node generate-question-bank.mjs --grade=9 --book=... --chapter=1 --discipline=history [--notes-dir=path] [--pages=N] [--out-dir=out]
  *   DB:   node generate-question-bank.mjs --from-db (--chapter-id=uuid | --grade=N --book=... --chapter=N --discipline=history) [--pages=N] [--out-dir=out]
  * Options:
- *   --structure-images-dir=path — folder of chapter structure images (camelCase names). Default: Books/ICSE/{grade}/HistoryCivics/{book}/Ch{N}_{discipline}_images. Used for 60% within-structure visual/picture-study questions.
+ *   --structure-images-dir=path — folder of chapter structure images (only when not using --from-db). Default: Books/ICSE/{grade}/HistoryCivics/{book}/Ch{N}_{discipline}_images.
+ *   With --from-db: 60%% within-structure images come from the curation API (GET /curation/items/:id/structure-images). Set CURATION_API_TOKEN and optionally CURATION_API_URL (default http://localhost:3000). If the API call fails, the run aborts.
  *   --resume — load existing output, generate only missing questions per (type, difficulty), merge and overwrite. When set, concurrency is capped at 2.
  *   --only-types=picture_study_linked,mcq_visual_scenario — load existing output, remove those types, generate only those types, merge back.
  *   --concurrency=N — run up to N plan entries in parallel (default 4; with --resume, max 2).
@@ -158,8 +159,7 @@ function parseMcqOptionsFromText(questionText) {
 
 /**
  * Ensure rubric has a structured options block for choice/MCQ questions when missing.
- * If rubric.blocks already has type "options" with options array, returns rubric as-is.
- * Otherwise parses (a)(b)(c)(d) from questionText and adds a block with option_text and is_correct.
+ * For MCQs, rubric.blocks is normalized to exactly one block (the options block); any extra blocks are removed.
  */
 function ensureMcqOptionsInRubric(questionText, rubric, questionType) {
   if (!rubric || typeof rubric !== 'object') return rubric;
@@ -169,10 +169,10 @@ function ensureMcqOptionsInRubric(questionText, rubric, questionType) {
   if (!isChoice) return rubric;
 
   const blocks = Array.isArray(rubric.blocks) ? rubric.blocks : [];
-  const hasOptionsBlock = blocks.some(
+  const optionsBlock = blocks.find(
     (b) => b && b.type === 'options' && Array.isArray(b.options) && b.options.length >= 1
   );
-  if (hasOptionsBlock) return rubric;
+  if (optionsBlock) return { ...rubric, blocks: [optionsBlock] };
 
   const parsed = parseMcqOptionsFromText(questionText);
   if (parsed.length < 2) return rubric;
@@ -193,8 +193,7 @@ function ensureMcqOptionsInRubric(questionText, rubric, questionType) {
     is_correct: letter === correctLetter,
   }));
 
-  const newBlocks = [...blocks, { type: 'options', options }];
-  return { ...rubric, blocks: newBlocks };
+  return { ...rubric, blocks: [{ type: 'options', options }] };
 }
 
 /** Regex to find [Image: <caption>] placeholders in notes content. */
@@ -665,7 +664,7 @@ Generate exactly ${count} distinct questions of this type and difficulty, each w
 
 Rules:
 - Rubric must be valid JSON: rubric_version (2), total_marks, question_type ("${questionType}"), difficulty_level (${difficultyLevel}), difficulty_tag ("${difficultyTag}"), answer_input_type ("typed" or "choice"), blocks array with id, label, selection (min/max), match_mode, criteria (id, keywords, score). For MCQ use answer_input_type "choice" and optionally answer_key (correct_option, logic_explanation for assertion-reason). For typed answers include scoring_rules where appropriate.
-${questionType.startsWith('mcq_') ? `- For MCQs: (1) question_text must include the full question stem followed by all four options on separate lines: (a) ..., (b) ..., (c) ..., (d) .... Do not omit the options. (2) rubric must include a block with type "options" and an "options" array of exactly four objects, each with "option_text" (string) and "is_correct" (true for the correct option, false otherwise). (3) rubric.answer_key must include "correct_option" (letter "a", "b", "c", or "d"). model_answer_text should be the correct option letter and optionally the answer text, e.g. (b) 1921.` : ''}
+${questionType.startsWith('mcq_') ? `- For MCQs: (1) question_text must include the full question stem followed by all four options on separate lines: (a) ..., (b) ..., (c) ..., (d) .... Do not omit the options. (2) rubric.blocks must contain only one block: type "options" with an "options" array of exactly four objects, each with "option_text" (string) and "is_correct" (true for the correct option, false otherwise). Do not include any other blocks (no criteria or scoring blocks). (3) rubric.answer_key must include "correct_option" (letter "a", "b", "c", or "d"). model_answer_text should be the correct option letter and optionally the answer text, e.g. (b) 1921.` : ''}
 ${questionType === 'structured_essay' ? `- For structured_essay only: Each question must have exactly three sub-parts labeled (i), (ii), (iii) — do not use (a)(b)(c). Total 10 marks. Use only one of these splits: 3+3+4 (preferred) or 2+4+4 (fallback). No sub-part may be 5 marks; each sub-part must be 2, 3, or 4 marks. In question_text, end each sub-part with the mark in brackets, e.g. (i) ... [3], (ii) ... [3], (iii) ... [4] or (i) ... [2], (ii) ... [4], (iii) ... [4]. Mark allocation rule: a 2-mark sub-part must expect 2–3 key points; a 3-mark sub-part must expect 3–4 key points; a 4-mark sub-part must expect 4 or more key points. Rubric must have exactly three blocks, each with sub_part_key "i", "ii", or "iii" (matching the sub-parts) and a "marks" (or "max_marks") field set to that part's marks (2, 3, or 4).` : ''}
 ${questionType === 'mcq_logic_table' ? `- For mcq_logic_table only: This type is a match-the-columns / table question, NOT assertion-reason. (1) question_text must include the question stem and the table in HTML only: use <table>, <thead>, <tbody>, <tr>, <th>, <td>. Do not use markdown table syntax (e.g. pipes). Example: <table><thead><tr><th></th><th>Column A</th><th>Column B</th></tr></thead><tbody><tr><td>(a)</td><td>...</td><td>...</td></tr>...</tbody></table>. (2) Exactly four options (rows or combinations), each with (a)(b)(c)(d). (3) rubric.blocks must include a block with type "options" and an "options" array of exactly four objects, each with "option_text" (string) and "is_correct" (true for the correct option). rubric.answer_key must include "correct_option" (a, b, c, or d). (4) Do not use Assertion (A) and Reason (R). Rubric question_type must be "mcq_logic_table".` : ''}
 ${questionType === 'mcq_assertion_reason' ? `- For mcq_assertion_reason only: (1) question_text must have exactly two statements labelled Assertion (A) and Reason (R), followed by the four standard A/R options: (a) Both A and R are true and R is the correct explanation of A; (b) Both A and R are true but R is not the correct explanation of A; (c) A is true but R is false; (d) A is false but R is true. (2) rubric.answer_key must include "correct_option" (a, b, c, or d) and "logic_explanation" (a short explanation of why that option is correct). Rubric question_type must be "mcq_assertion_reason".` : ''}
@@ -840,10 +839,11 @@ Output only a single JSON object (no markdown fences, escape double quotes with 
 
 /**
  * Run one plan entry (all batches sequential). Uses shared state for batchIndex/done logging.
- * structureImageNames: list of camelCase names from chapter structure images folder; withinPct: 0–1 for 60% within structure.
+ * structureImageNames: list of camelCase names from folder (when not using API).
+ * structureImageSlots: when --from-db and API used, array of { slug, nodeId, nodePath }; overrides folder.
  * @returns {{ planIndex: number, item: object | null }}
  */
-async function runOnePlanEntry(apiKey, notes, entry, imagePlaceholders, state, totalBatches, delayMs, treeWithPaths = null, descendantMap = null, structureImageNames = [], withinPct = 0.6) {
+async function runOnePlanEntry(apiKey, notes, entry, imagePlaceholders, state, totalBatches, delayMs, treeWithPaths = null, descendantMap = null, structureImageNames = [], withinPct = 0.6, structureImageSlots = null) {
   const { planIndex, question_type, difficulty_level, count, existingList, need, nodeId, nodePath } = entry;
 
   if (question_type === 'picture_study_linked' && count > 0) {
@@ -855,23 +855,30 @@ async function runOnePlanEntry(apiKey, notes, entry, imagePlaceholders, state, t
       section_ref: q.section_ref,
       section_refs: q.section_refs,
     }));
-    const needWithin = structureImageNames.length > 0 ? Math.round(need * withinPct) : 0;
+    const useApiSlots = Array.isArray(structureImageSlots) && structureImageSlots.length > 0;
+    const needWithin = useApiSlots
+      ? Math.min(Math.round(need * withinPct), structureImageSlots.length)
+      : structureImageNames.length > 0 ? Math.round(need * withinPct) : 0;
     const needOutside = need - needWithin;
     const captions = imagePlaceholders.length > 0 ? imagePlaceholders : ['[Image: Refer to chapter illustration]'];
 
-    const nImages = structureImageNames.length;
-    const withinAllocation = [];
-    if (nImages > 0 && needWithin > 0) {
-      if (needWithin >= nImages) {
-        const remainder = needWithin - nImages;
-        const per = Math.floor(remainder / nImages);
-        const extra = remainder % nImages;
-        for (let i = 0; i < nImages; i++) {
-          withinAllocation.push({ imageName: structureImageNames[i], count: 1 + per + (i < extra ? 1 : 0) });
-        }
-      } else {
-        for (let i = 0; i < needWithin; i++) {
-          withinAllocation.push({ imageName: structureImageNames[i], count: 1 });
+    let withinAllocation = [];
+    if (useApiSlots && needWithin > 0) {
+      withinAllocation = structureImageSlots.slice(0, needWithin).map((s) => ({ imageName: s.slug, count: 1, nodeId: s.nodeId, nodePath: s.nodePath }));
+    } else {
+      const nImages = structureImageNames.length;
+      if (nImages > 0 && needWithin > 0) {
+        if (needWithin >= nImages) {
+          const remainder = needWithin - nImages;
+          const per = Math.floor(remainder / nImages);
+          const extra = remainder % nImages;
+          for (let i = 0; i < nImages; i++) {
+            withinAllocation.push({ imageName: structureImageNames[i], count: 1 + per + (i < extra ? 1 : 0) });
+          }
+        } else {
+          for (let i = 0; i < needWithin; i++) {
+            withinAllocation.push({ imageName: structureImageNames[i], count: 1 });
+          }
         }
       }
     }
@@ -880,7 +887,21 @@ async function runOnePlanEntry(apiKey, notes, entry, imagePlaceholders, state, t
     let withinSlots = [];
     let outsideAllocation = [];
     let treeLines = null;
-    if (useNodeScope) {
+    if (useApiSlots && withinAllocation.length > 0) {
+      withinSlots = withinAllocation.map((a) => ({ imageName: a.imageName, nodeId: a.nodeId, nodePath: a.nodePath }));
+      const usedNodeIds = new Set(withinSlots.map((s) => s.nodeId));
+      const nodeOrder = getNodeOrderDepthFirst(treeWithPaths);
+      let nodesForOutside = nodeOrder.filter((n) => !usedNodeIds.has(n.id));
+      if (nodesForOutside.length === 0) nodesForOutside = [...nodeOrder];
+      const nOut = nodesForOutside.length;
+      const per = Math.floor(needOutside / nOut);
+      const extra = needOutside % nOut;
+      for (let i = 0; i < nOut; i++) {
+        const c = per + (i < extra ? 1 : 0);
+        if (c > 0) outsideAllocation.push({ nodeId: nodesForOutside[i].id, nodePath: nodesForOutside[i].path, count: c });
+      }
+      treeLines = treeWithPaths.map((n) => n.path);
+    } else if (useNodeScope) {
       for (const { imageName, count: perImage } of withinAllocation) {
         for (let k = 0; k < perImage; k++) withinSlots.push({ imageName });
       }
@@ -1037,37 +1058,67 @@ async function runOnePlanEntry(apiKey, notes, entry, imagePlaceholders, state, t
       rubric: q.rubric,
       scenario_data: q.scenario_data ?? null,
     }));
-    const needWithin = structureImageNames.length > 0 ? Math.round(need * withinPct) : 0;
+    const useApiSlots = Array.isArray(structureImageSlots) && structureImageSlots.length > 0;
+    const needWithin = useApiSlots
+      ? Math.min(Math.round(need * withinPct), structureImageSlots.length)
+      : structureImageNames.length > 0 ? Math.round(need * withinPct) : 0;
     const needOutside = need - needWithin;
 
-    let remainingWithin = needWithin;
-    let withinIndex = 0;
-    while (remainingWithin > 0) {
-      const batchNames = structureImageNames.slice(withinIndex, withinIndex + Math.min(BATCH_SIZE, remainingWithin));
-      withinIndex += batchNames.length;
-      remainingWithin -= batchNames.length;
-      state.batchIndex++;
-      try {
-        const prompt = buildVisualScenarioPromptForStructureImages(notes, difficulty_level, batchNames);
-        const result = await runWithRetry(apiKey, prompt);
-        const batch = Array.isArray(result?.questions) ? result.questions : [];
-        for (let i = 0; i < batch.length; i++) {
-          const q = batch[i];
-          const rubric = ensureMcqOptionsInRubric(q.question_text ?? '', q.rubric ?? {}, 'mcq_visual_scenario');
-          const imageName = q.structure_image_name ?? batchNames[i] ?? batchNames[0];
-          questionsForItem.push({
-            question_text: q.question_text ?? '',
-            model_answer_text: q.model_answer_text ?? '',
-            rubric,
-            scenario_data: { structure_image_name: imageName },
-          });
+    if (useApiSlots && needWithin > 0) {
+      const slotsToUse = structureImageSlots.slice(0, needWithin);
+      for (const slot of slotsToUse) {
+        state.batchIndex++;
+        try {
+          const prompt = buildVisualScenarioPromptForStructureImages(notes, difficulty_level, [slot.slug]);
+          const result = await runWithRetry(apiKey, prompt);
+          const one = Array.isArray(result?.questions) ? result.questions[0] : null;
+          if (one) {
+            const rubric = ensureMcqOptionsInRubric(one.question_text ?? '', one.rubric ?? {}, 'mcq_visual_scenario');
+            questionsForItem.push({
+              question_text: one.question_text ?? '',
+              model_answer_text: one.model_answer_text ?? '',
+              rubric,
+              scenario_data: { structure_image_name: slot.slug },
+              section_ref: slot.nodePath,
+            });
+            state.done++;
+            console.log(`  ${progressBar(state.batchIndex, totalBatches)} [${state.batchIndex}/${totalBatches}] mcq_visual_scenario L${difficulty_level} (structure): +1 (${state.done} total)`);
+          }
+        } catch (err) {
+          console.error(`  [${state.batchIndex}/${totalBatches}] mcq_visual_scenario L${difficulty_level} structure failed:`, err.message);
         }
-        state.done += batch.length;
-        console.log(`  ${progressBar(state.batchIndex, totalBatches)} [${state.batchIndex}/${totalBatches}] mcq_visual_scenario L${difficulty_level} (structure): +${batch.length} (${state.done} total)`);
-      } catch (err) {
-        console.error(`  [${state.batchIndex}/${totalBatches}] mcq_visual_scenario L${difficulty_level} structure failed:`, err.message);
+        await delay(delayMs);
       }
-      await delay(delayMs);
+    } else {
+      let remainingWithin = needWithin;
+      let withinIndex = 0;
+      while (remainingWithin > 0) {
+        const batchNames = structureImageNames.slice(withinIndex, withinIndex + Math.min(BATCH_SIZE, remainingWithin));
+        withinIndex += batchNames.length;
+        remainingWithin -= batchNames.length;
+        state.batchIndex++;
+        try {
+          const prompt = buildVisualScenarioPromptForStructureImages(notes, difficulty_level, batchNames);
+          const result = await runWithRetry(apiKey, prompt);
+          const batch = Array.isArray(result?.questions) ? result.questions : [];
+          for (let i = 0; i < batch.length; i++) {
+            const q = batch[i];
+            const rubric = ensureMcqOptionsInRubric(q.question_text ?? '', q.rubric ?? {}, 'mcq_visual_scenario');
+            const imageName = q.structure_image_name ?? batchNames[i] ?? batchNames[0];
+            questionsForItem.push({
+              question_text: q.question_text ?? '',
+              model_answer_text: q.model_answer_text ?? '',
+              rubric,
+              scenario_data: { structure_image_name: imageName },
+            });
+          }
+          state.done += batch.length;
+          console.log(`  ${progressBar(state.batchIndex, totalBatches)} [${state.batchIndex}/${totalBatches}] mcq_visual_scenario L${difficulty_level} (structure): +${batch.length} (${state.done} total)`);
+        } catch (err) {
+          console.error(`  [${state.batchIndex}/${totalBatches}] mcq_visual_scenario L${difficulty_level} structure failed:`, err.message);
+        }
+        await delay(delayMs);
+      }
     }
 
     let remainingOutside = needOutside;
@@ -1184,6 +1235,7 @@ async function main() {
 
   let treeWithPaths = null;
   let descendantMap = null;
+  let chapterIdForApi = null;
   if (hasFromDb()) {
     const { getPool, resolveChapter, loadNodesWithNoteBlocks, loadTreeWithPathsAndEligibility } = await import('../shared/db-published.mjs');
     const pool = getPool();
@@ -1194,6 +1246,7 @@ async function main() {
         console.error('Chapter not found for --chapter-id=', chapterIdArg);
         process.exit(1);
       }
+      chapterIdForApi = resolved.chapterId;
       grade = String(resolved.grade);
       book = loadPublications().find((p) => p.grade === resolved.grade && p.book_name === resolved.subjectName)?.book_slug || resolved.subjectName?.replace(/\s+/g, '') || 'book';
       chapterNum = resolved.sequenceNumber;
@@ -1259,6 +1312,7 @@ async function main() {
         console.error('Chapter not found in DB. Publish structure first.');
         process.exit(1);
       }
+      chapterIdForApi = resolved.chapterId;
       const nodes = await loadNodesWithNoteBlocks(pool, resolved.chapterId);
       if (nodes.length === 0) {
         console.error('No published syllabus nodes or note_blocks for this chapter. Publish structure and full extract first.');
@@ -1372,10 +1426,59 @@ async function main() {
   }
 
   const structureImagesDir = getArg('structure-images-dir') || getStructureImagesDir(grade, book, chapterNum, discipline);
-  const structureImageNames = listStructureImageNames(structureImagesDir);
+  let structureImageNames = listStructureImageNames(structureImagesDir);
   const withinPct = (strategy.structure_images?.within_structure_pct ?? 60) / 100;
-  if (structureImageNames.length > 0) {
-    console.log('Structure images (60%% within):', structureImageNames.length, 'in', structureImagesDir);
+
+  /** When --from-db: slots from curation API (slug + nodeId + nodePath). Used for 60% within-structure; overrides folder. */
+  let structureImageSlots = null;
+  if (hasFromDb() && chapterIdForApi != null && treeWithPaths?.length > 0) {
+    const { getPool } = await import('../shared/db-published.mjs');
+    const pool = getPool();
+    const itemRow = await pool
+      .query('SELECT id FROM curation_items WHERE chapter_id = $1 AND content_type = $2 LIMIT 1', [chapterIdForApi, 'questions'])
+      .then((r) => r.rows[0]);
+    if (itemRow?.id) {
+      const baseUrl = (process.env.CURATION_API_URL || 'http://localhost:3000').replace(/\/$/, '');
+      const token = process.env.CURATION_API_TOKEN?.trim();
+      if (!token) {
+        console.error('Curation API failed: CURATION_API_TOKEN is not set. Set it in backend/.env (or env) for --from-db structure images.');
+        process.exit(1);
+      }
+      let res;
+      try {
+        res = await fetch(`${baseUrl}/curation/items/${itemRow.id}/structure-images`, {
+          headers: { Authorization: `Bearer ${token}` },
+        });
+      } catch (err) {
+        console.error('Curation API failed: network error.', err?.message || err);
+        console.error('Ensure CURATION_API_URL is correct and the curation API is running.');
+        process.exit(1);
+      }
+      if (!res.ok) {
+        const text = await res.text();
+        console.error('Curation API failed:', res.status, text || res.statusText);
+        console.error('Set CURATION_API_TOKEN and ensure the token is valid.');
+        process.exit(1);
+      }
+      const data = await res.json().catch(() => ({}));
+      const structure_images = data.structure_images || [];
+      const pathById = new Map(treeWithPaths.map((n) => [n.id, n.path]));
+      const slots = [];
+      for (const { slug, node_ids } of structure_images) {
+        for (const nid of node_ids || []) {
+          const nodePath = pathById.get(nid);
+          if (nodePath !== undefined) slots.push({ slug, nodeId: nid, nodePath });
+        }
+      }
+      structureImageSlots = slots;
+      structureImageNames = []; // use API slots only; no folder fallback
+      if (slots.length > 0) {
+        console.log('Structure images (60% within):', slots.length, 'slots from curation API');
+      }
+    }
+  }
+  if (structureImageSlots == null && structureImageNames.length > 0) {
+    console.log('Structure images (60% within):', structureImageNames.length, 'in', structureImagesDir);
   }
 
   fs.mkdirSync(outDir, { recursive: true });
@@ -1400,13 +1503,17 @@ async function main() {
   const workEntries = planEntriesWithMeta.filter((p) => p.need > 0);
   const concurrency = getConcurrency(resume);
   const delayMs = getDelayMs();
+  const effectiveStructureCount = structureImageSlots?.length ?? structureImageNames.length;
   const totalBatches = planEntriesWithMeta.reduce((acc, p) => {
     if (p.need <= 0) return acc;
     if (p.question_type === 'picture_study_linked') return acc + p.need;
     if (p.question_type === 'mcq_visual_scenario') {
-      const needWithin = structureImageNames.length > 0 ? Math.round(p.need * withinPct) : 0;
+      const needWithin = effectiveStructureCount > 0 ? Math.round(p.need * withinPct) : 0;
       const needOutside = p.need - needWithin;
-      return acc + Math.ceil(needWithin / BATCH_SIZE) + Math.ceil(needOutside / BATCH_SIZE);
+      const withinBatches = structureImageSlots?.length
+        ? Math.min(needWithin, structureImageSlots.length)
+        : Math.ceil(needWithin / BATCH_SIZE);
+      return acc + withinBatches + Math.ceil(needOutside / BATCH_SIZE);
     }
     return acc + Math.ceil(p.need / BATCH_SIZE);
   }, 0);
@@ -1418,7 +1525,7 @@ async function main() {
 
   const state = { batchIndex: 0, done: 0 };
   const tasks = workEntries.map((entry) => () =>
-    runOnePlanEntry(apiKey, notes, entry, imagePlaceholders, state, totalBatches, delayMs, treeWithPaths, descendantMap, structureImageNames, withinPct)
+    runOnePlanEntry(apiKey, notes, entry, imagePlaceholders, state, totalBatches, delayMs, treeWithPaths, descendantMap, structureImageNames, withinPct, structureImageSlots)
   );
   const results = await runWithConcurrency(tasks, concurrency);
   const resultByIndex = new Map(

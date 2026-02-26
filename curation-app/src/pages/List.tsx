@@ -124,7 +124,7 @@ export default function List() {
                   {chapters.map(({ label, list }) => (
                     <li key={label} style={{ marginBottom: 12, background: 'var(--surface)', borderRadius: 8, padding: 16, boxShadow: 'var(--shadow)' }}>
                       <h3 style={{ margin: '0 0 12px', fontSize: 15, fontWeight: 600 }}>{label}</h3>
-                      <ul style={{ listStyle: 'none', padding: 0, margin: 0, display: 'flex', gap: 12, flexWrap: 'wrap' }}>
+                      <ul style={{ listStyle: 'none', padding: 0, margin: 0, display: 'flex', gap: 12, flexWrap: 'wrap', alignItems: 'center' }}>
                         {list
                           .filter((it) => ['structure', 'questions', 'revision_notes'].includes(it.content_type))
                           .map((it) => {
@@ -134,7 +134,7 @@ export default function List() {
                               : it.content_type === 'questions'
                                 ? `/item/${it.id}/questions`
                                 : `/item/${it.id}/revision-notes`;
-                          const label =
+                          const linkLabel =
                             it.content_type === 'structure'
                               ? 'Structure'
                               : it.content_type === 'questions'
@@ -146,12 +146,26 @@ export default function List() {
                                 to={to}
                                 style={{ display: 'inline-block', padding: '8px 14px', background: 'var(--bg)', borderRadius: 6, textDecoration: 'none', color: 'var(--link)', fontSize: 14, border: '1px solid var(--border)' }}
                               >
-                                {label}
+                                {linkLabel}
                               </Link>
                               <span style={{ marginLeft: 8, fontSize: 12, color: 'var(--text-muted)' }}>{it.status}</span>
                             </li>
                           );
                         })}
+                        {list.length > 0 && (() => {
+                          const structureItem = list.find((it) => it.content_type === 'structure');
+                          const imagesItemId = structureItem?.id ?? list[0].id;
+                          return (
+                            <li>
+                              <Link
+                                to={`/item/${imagesItemId}/images`}
+                                style={{ display: 'inline-block', padding: '8px 14px', background: 'var(--bg)', borderRadius: 6, textDecoration: 'none', color: 'var(--link)', fontSize: 14, border: '1px solid var(--border)' }}
+                              >
+                                Images
+                              </Link>
+                            </li>
+                          );
+                        })()}
                       </ul>
                     </li>
                   ))}

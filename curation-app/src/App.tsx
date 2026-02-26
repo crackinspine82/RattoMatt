@@ -7,6 +7,7 @@ import NotesEditor from './pages/NotesEditor';
 import QuestionsEditor from './pages/QuestionsEditor';
 import CombinedStructureEditor from './pages/CombinedStructureEditor';
 import RevisionNotesEditor from './pages/RevisionNotesEditor';
+import ImagesEditor from './pages/ImagesEditor';
 
 function RequireAuth({ children }: { children: React.ReactNode }) {
   if (!isAuthenticated()) return <Navigate to="/login" replace />;
@@ -56,6 +57,14 @@ export default function App() {
         element={
           <RequireAuth>
             <QuestionsEditor />
+          </RequireAuth>
+        }
+      />
+      <Route
+        path="/item/:itemId/images"
+        element={
+          <RequireAuth>
+            <ImagesEditor />
           </RequireAuth>
         }
       />

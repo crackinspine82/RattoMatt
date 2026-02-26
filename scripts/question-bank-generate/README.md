@@ -33,6 +33,8 @@ Replace `TotalHistoryCivics_MorningStar_DollyESequeira` with your actual book sl
 
 - **`--only-types=type1,type2`** — Regenerate only those question types and merge back. Example: `--only-types=picture_study_linked,mcq_visual_scenario`. Requires an existing output file for that chapter/discipline.
 
+- **`--from-db`** — Use published syllabus and notes from the DB; 60% within-structure picture study / visual scenario images come from the **curation API** (`GET /curation/items/:id/structure-images`). Set **CURATION_API_TOKEN** (and optionally **CURATION_API_URL**) in env; the run aborts if the API call fails. See `docs/QUESTION_BANK_GENERATION.md`.
+
 ## Config
 
 - **strategy-icse-history-civics.yaml** — questions_per_page, type %, MCQ sub-type %, difficulty_by_type. Do not hardcode counts in the script.

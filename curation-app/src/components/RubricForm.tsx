@@ -1,4 +1,6 @@
+import { useState } from 'react';
 import { questionTypeToLabel } from '../constants/questionTypes';
+import { getRubricLabels, getMatchModeOptions } from '../constants/rubricLabels';
 
 /** Minimal rubric shape for form editing (matches content model). */
 export type RubricBlock = {
@@ -113,10 +115,14 @@ const labelStyle = { display: 'block', fontSize: 12, fontWeight: 600, marginBott
 type Props = {
   rubric: Record<string, unknown>;
   onChange: (rubric: Record<string, unknown>) => void;
+  /** Subject ID from the curation item; used for subject-specific labels (History/Civics default). */
+  subjectId?: string | null;
 };
 
-export function RubricForm({ rubric, onChange }: Props) {
+export function RubricForm({ rubric, onChange, subjectId }: Props) {
+  const [advancedOpen, setAdvancedOpen] = useState(false);
   const data = getRubricFormData(rubric);
+  const labels = getRubricLabels(subjectId);
 
   function update(partial: Partial<RubricFormData>) {
     const next = { ...data, ...partial };
@@ -144,38 +150,35 @@ export function RubricForm({ rubric, onChange }: Props) {
 
   return (
     <div style={{ display: 'flex', flexDirection: 'column', gap: 16, padding: 16 }}>
+      {/* Question type: read-only (information only) */}
       <div>
         <label style={labelStyle}>Question type</label>
-        <input
-          type="text"
-          value={data.question_type ?? ''}
-          onChange={(e) => update({ question_type: e.target.value })}
-          list="question-type-list"
-          style={inputStyle}
-        />
-        <datalist id="question-type-list">
-          {['mcq_standard', 'short_answer', 'structured_essay', 'picture_study_linked', 'source_passage_analysis', 'deductive_application'].map((t) => (
-            <option key={t} value={t} />
-          ))}
-        </datalist>
-        {data.question_type && (
-          <span style={{ fontSize: 11, color: 'var(--text-muted)', marginTop: 2, display: 'block' }}>
-            {questionTypeToLabel(data.question_type)}
-          </span>
-        )}
+        <div
+          style={{
+            ...inputStyle,
+            background: 'var(--surface)',
+            cursor: 'default',
+            borderColor: 'var(--border)',
+          }}
+        >
+          {data.question_type ? questionTypeToLabel(data.question_type) : '—'}
+        </div>
       </div>
 
       <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 12 }}>
         <div>
-          <label style={labelStyle}>Difficulty level (1–4)</label>
-          <input
-            type="number"
-            min={1}
-            max={4}
+          <label style={labelStyle}>Difficulty</label>
+          <select
             value={data.difficulty_level ?? 1}
             onChange={(e) => update({ difficulty_level: parseInt(e.target.value, 10) || 1 })}
             style={inputStyle}
-          />
+          >
+            {([1, 2, 3, 4] as const).map((n) => (
+              <option key={n} value={n}>
+                {n} – {labels.difficultyLevelLabels[n] ?? n}
+              </option>
+            ))}
+          </select>
         </div>
         <div>
           <label style={labelStyle}>Difficulty tag</label>
@@ -184,23 +187,34 @@ export function RubricForm({ rubric, onChange }: Props) {
             onChange={(e) => update({ difficulty_tag: e.target.value })}
             style={inputStyle}
           >
-            <option value="easy">easy</option>
-            <option value="medium">medium</option>
-            <option value="difficult">difficult</option>
-            <option value="complex">complex</option>
+            {Object.entries(labels.difficultyTagLabels).map(([value, label]) => (
+              <option key={value} value={value}>
+                {label}
+              </option>
+            ))}
           </select>
         </div>
       </div>
 
       <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 12 }}>
         <div>
-          <label style={labelStyle}>Answer input type</label>
-          <input
-            type="text"
+          <label style={labelStyle}>How does the student answer?</label>
+          <select
             value={data.answer_input_type ?? ''}
             onChange={(e) => update({ answer_input_type: e.target.value })}
             style={inputStyle}
-          />
+          >
+            {(() => {
+              const opts = [...labels.answerInputTypeOptions];
+              const current = data.answer_input_type ?? '';
+              if (current && !opts.some((o) => o.value === current)) opts.push({ value: current, label: `Other: ${current}` });
+              return opts.map((opt) => (
+                <option key={opt.value} value={opt.value}>
+                  {opt.label}
+                </option>
+              ));
+            })()}
+          </select>
         </div>
         <div>
           <label style={labelStyle}>Total marks</label>
@@ -214,85 +228,89 @@ export function RubricForm({ rubric, onChange }: Props) {
         </div>
       </div>
 
-      <div>
-        <label style={labelStyle}>Rubric version</label>
-        <input
-          type="number"
-          min={1}
-          value={data.rubric_version ?? 2}
-          onChange={(e) => update({ rubric_version: parseInt(e.target.value, 10) || 2 })}
-          style={inputStyle}
-        />
-      </div>
-
+      {/* Marking guide (blocks) */}
       {(data.blocks ?? []).length > 0 && (
         <div>
-          <label style={labelStyle}>Blocks</label>
+          <label style={labelStyle}>Marking guide</label>
           <div style={{ display: 'flex', flexDirection: 'column', gap: 12 }}>
             {(data.blocks ?? []).map((block, bi) => (
               <div key={block.id || bi} style={{ padding: 12, background: 'var(--surface)', borderRadius: 8, border: '1px solid var(--border)' }}>
                 <div style={{ display: 'flex', flexDirection: 'column', gap: 8, marginBottom: 8 }}>
-                  <input
-                    placeholder="Block ID"
-                    value={block.id}
-                    onChange={(e) => updateBlock(bi, { id: e.target.value })}
-                    style={{ ...inputStyle, fontFamily: 'monospace' }}
-                  />
-                  <input
-                    placeholder="Block label"
-                    value={block.label}
-                    onChange={(e) => updateBlock(bi, { label: e.target.value })}
-                    style={inputStyle}
-                  />
-                  <div style={{ display: 'flex', gap: 8 }}>
+                  <div>
+                    <label style={{ ...labelStyle, marginBottom: 4 }}>Part name or description</label>
                     <input
-                      type="number"
-                      min={0}
-                      placeholder="min"
-                      value={block.selection?.min ?? 1}
-                      onChange={(e) => updateBlock(bi, { selection: { ...block.selection, min: parseInt(e.target.value, 10) || 0 } })}
-                      style={{ ...inputStyle, flex: 1 }}
-                    />
-                    <input
-                      type="number"
-                      min={0}
-                      placeholder="max"
-                      value={block.selection?.max ?? 1}
-                      onChange={(e) => updateBlock(bi, { selection: { ...block.selection, max: parseInt(e.target.value, 10) || 0 } })}
-                      style={{ ...inputStyle, flex: 1 }}
+                      placeholder="e.g. Reason 1: Economic causes"
+                      value={block.label}
+                      onChange={(e) => updateBlock(bi, { label: e.target.value })}
+                      style={inputStyle}
                     />
                   </div>
-                  <input
-                    placeholder="match_mode"
-                    value={block.match_mode ?? ''}
-                    onChange={(e) => updateBlock(bi, { match_mode: e.target.value })}
-                    style={inputStyle}
-                  />
+                  <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 8 }}>
+                    <div>
+                      <label style={{ fontSize: 11, fontWeight: 600, marginBottom: 2, display: 'block', color: 'var(--text-muted)' }}>
+                        Minimum number of criteria to match
+                      </label>
+                      <input
+                        type="number"
+                        min={0}
+                        value={block.selection?.min ?? 1}
+                        onChange={(e) => updateBlock(bi, { selection: { ...block.selection, min: parseInt(e.target.value, 10) || 0 } })}
+                        style={inputStyle}
+                      />
+                    </div>
+                    <div>
+                      <label style={{ fontSize: 11, fontWeight: 600, marginBottom: 2, display: 'block', color: 'var(--text-muted)' }}>
+                        Maximum number of criteria to match
+                      </label>
+                      <input
+                        type="number"
+                        min={0}
+                        value={block.selection?.max ?? 1}
+                        onChange={(e) => updateBlock(bi, { selection: { ...block.selection, max: parseInt(e.target.value, 10) || 0 } })}
+                        style={inputStyle}
+                      />
+                    </div>
+                  </div>
+                  <div>
+                    <label style={{ fontSize: 11, fontWeight: 600, marginBottom: 2, display: 'block', color: 'var(--text-muted)' }}>
+                      How should the answer be matched?
+                    </label>
+                    <select
+                      value={block.match_mode ?? 'exact'}
+                      onChange={(e) => updateBlock(bi, { match_mode: e.target.value })}
+                      style={inputStyle}
+                    >
+                      {getMatchModeOptions(labels, block.match_mode ?? '').map((opt) => (
+                        <option key={opt.value} value={opt.value}>
+                          {opt.label}
+                        </option>
+                      ))}
+                    </select>
+                  </div>
                 </div>
-                <div style={{ fontSize: 12, fontWeight: 600, marginBottom: 4 }}>Criteria</div>
+                <div style={{ fontSize: 12, fontWeight: 600, marginBottom: 4 }}>Marking points</div>
                 {(block.criteria ?? []).map((crit, ci) => (
                   <div key={crit.id || ci} style={{ marginBottom: 8, padding: 8, background: 'var(--bg)', borderRadius: 4 }}>
+                    <label style={{ fontSize: 11, fontWeight: 600, marginBottom: 2, display: 'block', color: 'var(--text-muted)' }}>
+                      Key phrases to look for (comma-separated)
+                    </label>
                     <input
-                      placeholder="Criterion ID"
-                      value={crit.id}
-                      onChange={(e) => updateCriterion(bi, ci, { id: e.target.value })}
-                      style={{ ...inputStyle, marginBottom: 4, fontFamily: 'monospace' }}
-                    />
-                    <input
-                      placeholder="Keywords (comma-separated)"
+                      placeholder="e.g. traditional structure, religious practices"
                       value={Array.isArray(crit.keywords) ? crit.keywords.join(', ') : ''}
                       onChange={(e) =>
                         updateCriterion(bi, ci, {
                           keywords: e.target.value.split(',').map((s) => s.trim()).filter(Boolean),
                         })
                       }
-                      style={{ ...inputStyle, marginBottom: 4 }}
+                      style={{ ...inputStyle, marginBottom: 6 }}
                     />
+                    <label style={{ fontSize: 11, fontWeight: 600, marginBottom: 2, display: 'block', color: 'var(--text-muted)' }}>
+                      Marks for this point
+                    </label>
                     <input
                       type="number"
                       min={0}
                       step={0.5}
-                      placeholder="score"
                       value={crit.score ?? 0}
                       onChange={(e) => updateCriterion(bi, ci, { score: parseFloat(e.target.value) || 0 })}
                       style={inputStyle}
@@ -309,13 +327,13 @@ export function RubricForm({ rubric, onChange }: Props) {
         <div style={{ padding: 12, background: 'var(--surface)', borderRadius: 8, border: '1px solid var(--border)' }}>
           <label style={labelStyle}>Answer key (choice/MCQ)</label>
           <input
-            placeholder="Correct option (e.g. a, b, c)"
+            placeholder="Correct option (e.g. a, b, c, d)"
             value={data.answer_key?.correct_option ?? ''}
             onChange={(e) => update({ answer_key: { ...data.answer_key, correct_option: e.target.value } })}
             style={{ ...inputStyle, marginBottom: 8 }}
           />
           <textarea
-            placeholder="Logic explanation"
+            placeholder="Why this option is correct (for markers)"
             value={data.answer_key?.logic_explanation ?? ''}
             onChange={(e) => update({ answer_key: { ...data.answer_key, logic_explanation: e.target.value } })}
             rows={3}
@@ -324,11 +342,67 @@ export function RubricForm({ rubric, onChange }: Props) {
         </div>
       )}
 
-      {(data.penalties !== undefined || data.scoring_rules !== undefined) && (
-        <div style={{ fontSize: 12, color: 'var(--text-muted)' }}>
-          Penalties and scoring_rules are preserved; edit in JSON if needed.
-        </div>
-      )}
+      {/* Advanced: rubric version, block/criterion IDs, penalties note */}
+      <div style={{ borderTop: '1px solid var(--border)', paddingTop: 12 }}>
+        <button
+          type="button"
+          onClick={() => setAdvancedOpen((o) => !o)}
+          style={{
+            background: 'none',
+            border: 'none',
+            padding: 0,
+            fontSize: 12,
+            fontWeight: 600,
+            color: 'var(--text-muted)',
+            cursor: 'pointer',
+            textAlign: 'left',
+          }}
+        >
+          {advancedOpen ? '▼' : '▶'} Advanced (technical)
+        </button>
+        {advancedOpen && (
+          <div style={{ marginTop: 12, display: 'flex', flexDirection: 'column', gap: 12, fontSize: 12, color: 'var(--text-muted)' }}>
+            <div>
+              <label style={labelStyle}>Rubric version</label>
+              <input
+                type="number"
+                min={1}
+                value={data.rubric_version ?? 2}
+                onChange={(e) => update({ rubric_version: parseInt(e.target.value, 10) || 2 })}
+                style={{ ...inputStyle, maxWidth: 80 }}
+              />
+            </div>
+            {(data.blocks ?? []).map((block, bi) => (
+              <div key={block.id || bi} style={{ padding: 8, background: 'var(--surface)', borderRadius: 4 }}>
+                <div style={{ marginBottom: 4 }}>Block ID: <code style={{ fontSize: 11 }}>{block.id || '—'}</code></div>
+                <input
+                  placeholder="Block ID"
+                  value={block.id}
+                  onChange={(e) => updateBlock(bi, { id: e.target.value })}
+                  style={{ ...inputStyle, fontFamily: 'monospace', fontSize: 12, marginBottom: 8 }}
+                />
+                {(block.criteria ?? []).map((crit, ci) => (
+                  <div key={crit.id || ci} style={{ marginTop: 6, marginLeft: 8 }}>
+                    <span style={{ fontSize: 11 }}>Criterion ID: </span>
+                    <code style={{ fontSize: 11 }}>{crit.id || '—'}</code>
+                    <input
+                      placeholder="Criterion ID"
+                      value={crit.id}
+                      onChange={(e) => updateCriterion(bi, ci, { id: e.target.value })}
+                      style={{ ...inputStyle, fontFamily: 'monospace', fontSize: 11, marginTop: 2 }}
+                    />
+                  </div>
+                ))}
+              </div>
+            ))}
+            {(data.penalties !== undefined || data.scoring_rules !== undefined) && (
+              <div>
+                Penalties and scoring_rules are preserved; edit in JSON if needed.
+              </div>
+            )}
+          </div>
+        )}
+      </div>
     </div>
   );
 }

@@ -269,3 +269,84 @@ export async function uploadImage(file: File, itemId?: string): Promise<{ url: s
   }
   return res.json() as Promise<{ url: string }>;
 }
+
+// ----- Chapter images (one list per chapter; slug + node mapping for picture study / visual scenario) -----
+
+export type ChapterImage = {
+  id: string;
+  url: string;
+  filename: string | null;
+  slug: string;
+  slug_locked: boolean;
+  created_at: string;
+  node_ids: string[];
+};
+
+export async function getChapterImages(itemId: string): Promise<{ images: ChapterImage[] }> {
+  const res = await fetch(`${API_BASE}/curation/items/${itemId}/chapter-images`, { headers: authHeaders() });
+  if (!res.ok) {
+    const err = (await res.json().catch(() => ({}))) as { error?: string };
+    throw new Error(err.error ?? res.statusText);
+  }
+  return res.json() as Promise<{ images: ChapterImage[] }>;
+}
+
+/** Full URL for an upload (chapter image or item image). */
+export function getUploadUrl(pathOrUrl: string): string {
+  if (pathOrUrl.startsWith('http')) return pathOrUrl;
+  const base = API_BASE.replace(/\/$/, '');
+  return pathOrUrl.startsWith('/') ? `${base}${pathOrUrl}` : `${base}/${pathOrUrl}`;
+}
+
+export async function uploadChapterImage(itemId: string, file: File, slug: string): Promise<ChapterImage> {
+  const form = new FormData();
+  form.append('file', file);
+  form.append('slug', slug.trim().slice(0, 255));
+  const res = await fetch(`${API_BASE}/curation/items/${itemId}/chapter-images`, {
+    method: 'POST',
+    headers: authHeaders(),
+    body: form,
+  });
+  if (!res.ok) {
+    const err = (await res.json().catch(() => ({}))) as { error?: string };
+    throw new Error(err.error ?? res.statusText);
+  }
+  const data = (await res.json()) as ChapterImage;
+  return data;
+}
+
+export async function replaceChapterImage(imageId: string, file: File): Promise<ChapterImage> {
+  const form = new FormData();
+  form.append('file', file);
+  const res = await fetch(`${API_BASE}/curation/chapter-images/${imageId}/replace`, {
+    method: 'POST',
+    headers: authHeaders(),
+    body: form,
+  });
+  if (!res.ok) {
+    const err = (await res.json().catch(() => ({}))) as { error?: string };
+    throw new Error(err.error ?? res.statusText);
+  }
+  return res.json() as Promise<ChapterImage>;
+}
+
+export async function updateChapterImageNodes(imageId: string, node_ids: string[]): Promise<ChapterImage> {
+  const res = await fetch(`${API_BASE}/curation/chapter-images/${imageId}`, {
+    method: 'PATCH',
+    headers: { 'Content-Type': 'application/json', ...authHeaders() },
+    body: JSON.stringify({ node_ids }),
+  });
+  if (!res.ok) {
+    const err = (await res.json().catch(() => ({}))) as { error?: string };
+    throw new Error(err.error ?? res.statusText);
+  }
+  return res.json() as Promise<ChapterImage>;
+}
+
+export async function deleteChapterImage(imageId: string): Promise<void> {
+  const res = await fetch(`${API_BASE}/curation/chapter-images/${imageId}`, { method: 'DELETE', headers: authHeaders() });
+  if (!res.ok) {
+    const err = (await res.json().catch(() => ({}))) as { error?: string };
+    throw new Error(err.error ?? res.statusText);
+  }
+}

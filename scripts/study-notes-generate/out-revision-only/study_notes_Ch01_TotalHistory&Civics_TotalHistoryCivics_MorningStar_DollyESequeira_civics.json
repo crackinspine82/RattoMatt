@@ -1,0 +1,311 @@
+{
+  "board": "ICSE",
+  "grade": 10,
+  "subject": "Total History & Civics",
+  "book_slug": "TotalHistoryCivics_MorningStar_DollyESequeira",
+  "book_meta": {
+    "book_name": "Total History & Civics",
+    "publication": null,
+    "author": null
+  },
+  "chapter_sequence_number": 1,
+  "chapter_title": "The Union Parliament",
+  "discipline": "civics",
+  "generated_at": "2026-02-23T13:27:01.449Z",
+  "sections": [
+    {
+      "title": "Election",
+      "level_label": "Topic",
+      "content_md": "*   **Election**: The **Speaker of the Lok Sabha** is elected by the House from among its own members, soon after the first meeting of the newly elected House.\n*   **Term of Office**: Five years.\n*   **Continuity**: The Speaker does not vacate office when the House is dissolved. They remain in office until a new Speaker is elected by the new Lok Sabha.\n*   **Re-election**: Can be re-elected any number of times, provided they are elected as a member of the Lok Sabha.",
+      "syllabus_node_id": "0d43ab24-d266-4f56-934b-fe9f00269921"
+    },
+    {
+      "title": "First Reading",
+      "level_label": "Subtopic",
+      "content_md": "**First Reading**: The first stage where a **Bill** is formally introduced in the House.\n\n*   A **Minister** or **private member** introduces the **Bill**.\n*   They give a speech explaining the **Bill's** objectives and merits.\n*   The **Bill** is circulated.\n*   **Cause-Effect**: If the House is in favour of the introduction, the **Bill** proceeds to the next stage.",
+      "syllabus_node_id": "b4aa1f09-7ad4-4b3e-90ef-2dd96fb26ad7"
+    },
+    {
+      "title": "Ordinary Bills",
+      "level_label": "Topic",
+      "content_md": "*   **Ordinary Bill**: Can be introduced in either House of Parliament.\n*   Can be introduced by a Minister (**Government Bill**) or a private member (**Private Member's Bill**).\n*   **Reading**: The process of considering a bill.\n*   A bill undergoes three **Readings** in each House.",
+      "syllabus_node_id": "8859a6e2-9e62-4b0e-b077-39e3ffa3e5a2"
+    },
+    {
+      "title": "The Business of the House",
+      "level_label": "Topic",
+      "content_md": "**The Speaker**\n\n*   Presides over House meetings; all speeches are addressed to the **Speaker**.\n*   Allots time for discussion.\n*   Interprets the rules of procedure; their decision on parliamentary matters is **final**.\n*   Signs all **Bills** passed by the House before they go to the Rajya Sabha or the President.\n*   Decides the admissibility of all questions, resolutions, and adjournment motions.\n*   Puts issues to vote and announces results.\n*   **Casting Vote**: Votes only when there are equal votes on both sides (a tie).\n*   Decides whether a Bill is a **Money Bill** or not.",
+      "syllabus_node_id": "861de03e-342a-4f96-b23d-fe87b6b2a9f3"
+    },
+    {
+      "title": "Meaning of the Federalism",
+      "level_label": "Section",
+      "content_md": "*   **Federalism**: A system of government where power is divided between a **central authority** and various **constituent units** of the country.\n*   **Unitary Government**: In contrast, a system with only one level of government where sub-units are subordinate to the Central Government.\n*   **Key Features of a Federal System**:\n    *   Administrative powers are divided between the **Central** and **State** governments.\n    *   Both levels are **supreme** in their own spheres according to the **Constitution**.\n    *   Both Central and State governments derive their authority from the **Constitution**, not from each other.\n*   **India**: Has a federal system with a strong **unitary bias**.",
+      "syllabus_node_id": "38e52730-72c6-460f-a55b-d568e83909dd"
+    },
+    {
+      "title": "Sessions",
+      "level_label": "Topic",
+      "content_md": "### Sessions\n\n*   A **session** is a formal period when both Houses of Parliament convene to conduct business, like passing legislation.\n*   Summoned by the **President**.\n*   **Rules**: Each House must meet at least twice a year. The interval between two consecutive sessions must be less than six months.\n\n#### The Three Sessions\n*   **Budget Session**: February-May\n*   **Monsoon Session**: July-August\n*   **Winter Session**: November-December",
+      "syllabus_node_id": "ef5356b1-41da-4937-a6df-6681deb3ad35"
+    },
+    {
+      "title": "A Strong Centre",
+      "level_label": "Topic",
+      "content_md": "* The Constitution of India provides for a **strong Centre**, a feature of unitary government.\n* The **Seventh Schedule** defines the allocation of powers between the Union and States via three lists:\n    * **Union List**: Exclusive power for the **Union Government** to legislate.\n    * **State List**: Exclusive power for **State Governments** to legislate.\n    * **Concurrent List**: Both Centre and States can legislate, but the **Central Government** has an overriding position.",
+      "syllabus_node_id": "11dd92bb-ffd7-4631-982b-7355e0c0a2a4"
+    },
+    {
+      "title": "Question Hour",
+      "level_label": "Subtopic",
+      "content_md": "*   **Question Hour**: The first hour of every working day of the **Lok Sabha**, usually starting at 11 am.\n*   **Purpose**: Reserved for members to ask questions, keeping the government's functioning open to scrutiny.\n*   The **Speaker** has the authority to decide otherwise and cancel or alter the hour.",
+      "syllabus_node_id": "92e93899-e2bb-4837-a0e1-82426cb44ad1"
+    },
+    {
+      "title": "Term",
+      "level_label": "Subtopic",
+      "content_md": "*   Normal term of the **Lok Sabha** is **five years**.\n*   **Early Dissolution**: Can be dissolved by the **President** on the advice of the **Prime Minister** before the term expires.\n*   **Extension during Emergency**: During a **proclamation of an emergency**, the term may be extended by **Parliament** for **one year at a time**.\n*   A new **Lok Sabha** must be elected within **six months** after the **national emergency** is lifted.",
+      "syllabus_node_id": "12c3c6c2-da42-44e7-8f3e-1132ea7000b1"
+    },
+    {
+      "title": "Second Reading",
+      "level_label": "Subtopic",
+      "content_md": "**Second Reading**\n- A detailed discussion of the Bill takes place.\n- Members from different parties express views and make suggestions.\n- The Bill may be changed or amended during this stage.\n- The Bill can be referred to a **committee** for careful study and to make recommendations.",
+      "syllabus_node_id": "bff9194a-bcbc-41db-98a4-44aa31622959"
+    },
+    {
+      "title": "Third Reading",
+      "level_label": "Subtopic",
+      "content_md": "**Third Reading**:\n- The Bill as a whole is put to a vote.\n- It is passed by the House if it secures a **simple majority**.",
+      "syllabus_node_id": "ed3aa5ce-dc96-4ea2-a8d9-bb382c825a6c"
+    },
+    {
+      "title": "The Second House",
+      "level_label": "Subtopic",
+      "content_md": "*   The bill is sent to the **Second House**.\n*   The same procedure is followed as in the first house.",
+      "syllabus_node_id": "c082999f-25ba-4a56-993c-063ac86e4226"
+    },
+    {
+      "title": "Presidential Assent",
+      "level_label": "Subtopic",
+      "content_md": "* After a Bill is passed by both Houses of Parliament, it is sent to the President for **assent**.\n* If the President gives **assent**, the Bill becomes a **Law** or an **Act**.\n* The President can withhold **assent** and return the Bill to Parliament for reconsideration.\n* If Parliament passes the Bill a second time (with or without changes), the President **must** give **assent**.",
+      "syllabus_node_id": "aa1c1ece-3f6f-42b8-b5ec-2ef3fd5449f4"
+    },
+    {
+      "title": "Deadlock Between the two Houses",
+      "level_label": "Subtopic",
+      "content_md": "- In case of a **deadlock** between the two Houses, the **President** calls a **joint-sitting**.\n- The **Speaker of the Lok Sabha** presides over the meeting.\n- Issues are decided by a **majority vote**.\n- The will of the **Lok Sabha** typically prevails because its membership is almost double that of the **Rajya Sabha**.",
+      "syllabus_node_id": "6f14355b-4246-4edb-b707-1fba8af52524"
+    },
+    {
+      "title": "A Single Constitution for Union and States",
+      "level_label": "Topic",
+      "content_md": "*   India has a **single, common, and unified Constitution**.\n*   This single constitution applies to both the **Union** (Centre) and the **States**.\n*   Consequently, states in India have **no right** to create their own separate constitutions.",
+      "syllabus_node_id": "26180fc5-98fe-49e7-8d7b-ccaef2bd9ef0"
+    },
+    {
+      "title": "Administrative Functions",
+      "level_label": "Topic",
+      "content_md": "### Administrative Functions of the Speaker\n\n*   Receives all **petitions** and **documents** in the House.\n*   Communicates the **decisions of the House** to concerned authorities.\n*   Regulates admission of **visitors** and **Press correspondents** to the galleries.",
+      "syllabus_node_id": "6ee5d195-754d-46ef-869f-56a17e5842ce"
+    },
+    {
+      "title": "Composition",
+      "level_label": "Subtopic",
+      "content_md": "*   **Maximum Strength**: 550 members.\n    *   **States**: Up to 530 members.\n    *   **Union Territories**: Up to 20 members.\n*   The **104th Constitutional Amendment Act** (January 2020) ended the nomination of **Anglo-Indians** to the Lok Sabha.\n    *   **Reason**: The 70-year reservation period expired on January 25, 2020.\n*   The number of members from a state is based on its **population**.\n*   **Examples of Representation**:\n    *   **Uttar Pradesh**: 80 members\n    *   **Maharashtra**: 48 members\n    *   **Delhi (UT)**: 7 members\n    *   **Goa, Manipur, Meghalaya**: 2 members each\n    *   **Mizoram, Nagaland, Sikkim**: 1 member each",
+      "syllabus_node_id": "a56b9bd6-2574-40fb-a5cc-edcffeb96089"
+    },
+    {
+      "title": "Removal",
+      "level_label": "Topic",
+      "content_md": "*   **Resignation**: The **Speaker** can resign by submitting a letter to the **Deputy Speaker**.\n*   **Removal**:\n    *   The **Speaker** can be removed by the **Lok Sabha**.\n    *   **Method**: A resolution passed by a **majority of all the then members**.\n    *   **Prerequisite**: A minimum of **fourteen days' notice** must be given before the resolution is moved.",
+      "syllabus_node_id": "12f03c18-b515-49c2-ad09-96cab37b09ce"
+    },
+    {
+      "title": "Federal Setup in India",
+      "level_label": "Topic",
+      "content_md": "### Nature of Indian Federalism\n*   The Constitution of India establishes a **federal system of Government**, though the term '**federation**' is not explicitly used.\n*   It is considered an indestructible union; states cannot secede, which is crucial for maintaining India's unity and integrity.\n*   The system is suited for a large, diverse country to counter separatist and provincial forces.\n\n### Tiers of Government\n*   **Originally Two-Tier**: \n    1.  **Union government** (Centre)\n    2.  **State governments**\n*   **Third Tier Added Later**: Local self-government in the form of **Panchayats** and **Municipalities**.\n\n### Division of Powers\n*   **Power Distribution**: Legislative and administrative powers are divided between the Union and State governments.\n*   **Asymmetric Federalism**: The Central government is more powerful than the States.\n*   **Constitutional Limitations**: Neither the Centre nor the States can violate the limitations on their power as imposed by the Constitution.\n\n### Key Features of the Federal Setup\n*   **Supreme Court**: Stands as the head of the judiciary to safeguard the constitutional distribution of powers.\n*   **Bicameral Legislature**: Comprises the **Lok Sabha** (House of the People) and the **Rajya Sabha** (Council of States).\n    *   The **Rajya Sabha** mainly represents the interests of the States.\n*   **Financial Distribution**: The Constitution provides for the distribution of revenue between the Centre and the States to ensure both have adequate financial resources to perform their duties.",
+      "syllabus_node_id": "89799b5a-d6d4-41e7-a1db-fbea8f4dd42e"
+    },
+    {
+      "title": "Types of Questions",
+      "level_label": "Subtopic",
+      "content_md": "### Types of Questions\n\n*   **General Rules**:\n    *   All questions are addressed to the **Chair**.\n    *   Government is obliged to answer admitted questions.\n    *   A **ten-day notice** is typically required.\n\n*   **Starred Question**:\n    *   Indicated by an asterisk (*).\n    *   Requires an **oral answer** on the floor of the House.\n    *   Allows for **supplementary questions** after the Minister's reply.\n\n*   **Unstarred Question**:\n    *   Answer is given in **written form**.\n    *   **No supplementary questions** are allowed.\n\n*   **Short Notice Question**:\n    *   Relates to a matter of **urgent importance**.\n    *   Notice is **shorter than ten days**.\n    *   The concerned Minister must agree to answer it at short notice.",
+      "syllabus_node_id": "fe39eca2-c8e1-400a-93bb-e50f6aad9acd"
+    },
+    {
+      "title": "Money Bills",
+      "level_label": "Topic",
+      "content_md": "### Money Bills\n\n*   **Certification**: The **Speaker of the Lok Sabha** rules whether a bill is a **Money Bill**.\n*   **Introduction**:\n    *   Requires prior consent of the **President of India**.\n    *   Can *only* be introduced in the **Lok Sabha**.\n*   **Role of the Rajya Sabha**:\n    *   Receives the bill after it is passed by the **Lok Sabha**.\n    *   Cannot reject a **Money Bill**.\n    *   Must return the bill within **14 days**, with or without recommendations.\n*   **Power of the Lok Sabha**:\n    *   Can accept or reject any/all of the **Rajya Sabha's** recommendations.\n    *   The **Lok Sabha** is the final authority on **Money Bills**.\n*   **Deemed Passage**: If the **Rajya Sabha** does not return the bill in **14 days**, it is considered passed by both houses.\n*   **Final Step**: The bill is sent to the **President** for assent.",
+      "syllabus_node_id": "24400c97-f1b5-4a5e-85db-66c6997966c1"
+    },
+    {
+      "title": "Quorum",
+      "level_label": "Topic",
+      "content_md": "*   **Quorum**: The minimum number of members required to be present in the House to transact business.\n*   **Requirement**: One-tenth (1/10th) of the total membership of the **Lok Sabha** or the **Rajya Sabha**.\n*   **Consequence**: Without a quorum, the House cannot conduct proceedings (e.g., pass Bills, resolutions).\n*   **Action**: The **Speaker** may adjourn the House or suspend the meeting until the quorum is met.",
+      "syllabus_node_id": "45bf7d9c-223f-4b25-bed4-c85187354aec"
+    },
+    {
+      "title": "Deputy Speaker",
+      "level_label": "Topic",
+      "content_md": "**Deputy Speaker**\n\n- **Function**: Performs the duties of the **Speaker** when the office is vacant or the **Speaker** is absent.\n- **Election & Removal**: Elected and removed in the same manner as the **Speaker**.",
+      "syllabus_node_id": "93d51833-f1fa-4b50-8a98-f689ce5a291b"
+    },
+    {
+      "title": "Disciplinary Functions",
+      "level_label": "Topic",
+      "content_md": "The **Speaker** is responsible for maintaining order and discipline in the House.\n\n### Key Disciplinary Powers:\n*   Orders unruly members to withdraw.\n*   **Suspends** members for disregarding the authority of the Chair.\n*   **Adjourns** the House in cases of grave disorder.\n*   Orders indecent or unparliamentary words to be **expunged** (removed) from the proceedings.\n*   Decides on cases related to a **breach of privilege** or **contempt of the House**.\n*   Makes the final decision on member disqualification under the **Anti-Defection Law**. The Constitution states this decision is final and not subject to court jurisdiction.",
+      "syllabus_node_id": "019fce95-52db-4dcc-8608-6cc75f22b861"
+    },
+    {
+      "title": "Questions",
+      "level_label": "Topic",
+      "content_md": "- Members of the House can ask the Government questions on matters of public interest.\n- This right is known as **interpellation**.",
+      "syllabus_node_id": "3471c2e8-e605-45c9-8fb2-62a44b2f3629"
+    },
+    {
+      "title": "Flexibility of the Constitution",
+      "level_label": "Topic",
+      "content_md": "*   The **Constitution of India** is considered **flexible**.\n*   Unlike other **federations** where **amendments** require consent from the **units**, the Indian **Parliament** can amend most provisions single-handedly.\n*   Methods of amendment include:\n    *   **Simple majority**\n    *   **Two-thirds majority**",
+      "syllabus_node_id": "e532d276-880b-4b94-b809-8abbe59889d1"
+    },
+    {
+      "title": "Qualifications for Membership",
+      "level_label": "Subtopic",
+      "content_md": "### Qualifications for Membership (Lok Sabha)\n- Must be an **Indian citizen**.\n- **At least 25 years of age**.\n- Name must be on the **electoral rolls** in some part of the country.\n- Must not be **insolvent** (i.e., in debt and unable to meet financial commitments).\n- Must not hold any **office of profit** under the government.\n- Must not be a **proclaimed criminal**.\n- Must not be of **unsound mind**.",
+      "syllabus_node_id": "c400d194-6097-4113-b5d1-972de91db9d8"
+    },
+    {
+      "title": "Important Features of Federalism",
+      "level_label": "Topic",
+      "content_md": "### Important Features of Federalism\n\n*   **Multiple Tiers of Government**: Two or more levels of government (e.g., central, state) govern the same citizens.\n*   **Separate Jurisdiction**: Each level has its own **jurisdiction** (legal authority) in specific matters of legislation, administration, and taxation, as specified in the **Constitution**.\n*   **Constitutional Rigidity**: Fundamental provisions of the **Constitution** cannot be unilaterally changed by one level of government; such changes require the consent of both levels.\n*   **Judicial Umpire**: **Courts** settle disputes between different levels of government regarding the exercise of their powers.\n*   **Financial Autonomy**: Sources of revenue for each level are clearly specified to ensure their financial independence.",
+      "syllabus_node_id": "9b4bd777-e616-4efe-8457-ea1a2af1696f"
+    },
+    {
+      "title": "Parliamentary Committees",
+      "level_label": "Topic",
+      "content_md": "### Speaker's Role in Parliamentary Committees\n\n*   Acts as the **ex-officio Chairman** of certain committees, such as:\n    *   **Business Advisory Committee**\n    *   **Rules Committee**\n*   Appoints the **Chairmen** of all other House committees.\n*   Issues directions to **Chairmen** regarding their work and procedures.",
+      "syllabus_node_id": "d9fb85e5-be94-4bbd-96c3-dce73014b115"
+    },
+    {
+      "title": "Non-Federal or Unitary Features",
+      "level_label": "Topic",
+      "content_md": "The Indian Constitution contains **non-federal** or **unitary features**.\n\n*   **Effect**: This has led critics to describe it as \"**federal in form but unitary in spirit**\".",
+      "syllabus_node_id": "220c60cb-a7e6-46a5-b153-9c6aa0e131a9"
+    },
+    {
+      "title": "Disqualification of Membership",
+      "level_label": "Subtopic",
+      "content_md": "### Disqualification of Membership\n\nA person is disqualified from being a member of either House of Parliament if they:\n*   Hold any **office of profit** under the Government of India or a State (exceptions include Ministers and offices exempted by Parliament).\n*   Are of **unsound mind** and declared so by a competent court.\n*   Are an **undischarged insolvent**.\n*   Are not a **citizen of India**, have acquired foreign citizenship, or have an allegiance to a foreign power.\n*   Are disqualified by or under any **law made by Parliament**.\n\n**Decision-Making:**\n*   If a question of disqualification arises, the **President's decision** is final.\n*   The President must act in accordance with the opinion of the **Election Commission**.\n\n**Penalty:**\n*   A penalty may be imposed on a person who sits or votes in Parliament knowing they are disqualified.",
+      "syllabus_node_id": "1b3f9672-0a9e-47db-b1c0-34e0fd9c8710"
+    },
+    {
+      "title": "Zero Hour",
+      "level_label": "Topic",
+      "content_md": "### \"Zero Hour\"\n\n- **Definition**: The period from 12 PM (immediately after the **Question Hour**) until the lunch break at 1 PM.\n- **Function**: Members can raise all types of questions without any permission or prior notice.\n- **Control**: The **Presiding Officer** manages the House during what can be a period of heated discussions, charges, and constant interruptions.",
+      "syllabus_node_id": "0a9628e0-5b38-4e67-928e-bfd8c0c9a19b"
+    },
+    {
+      "title": "Single Citizenship",
+      "level_label": "Topic",
+      "content_md": "*   **Single Citizenship**: The **Indian Constitution** provides for a single citizenship for **India**, common to all people regardless of their **State** or **Union Territory**.",
+      "syllabus_node_id": "765cd78a-9102-4876-9a6b-1865a2943fb0"
+    },
+    {
+      "title": "Inequality of Representation in the Rajya Sabha",
+      "level_label": "Topic",
+      "content_md": "*   The **Indian Constitution** does not provide equal representation to states in the **Rajya Sabha**.\n*   Representation is based on **population**, meaning more populous states have more representatives.\n*   **Cause-Effect**: A state's population size determines its number of representatives.\n*   Additionally, **12 members** are **nominated by the President** based on expertise in **art, literature, science, and social services**.\n*   This system is considered a departure from the pure **federal principle** of equal state representation.",
+      "syllabus_node_id": "3c392e22-396c-4e81-bc76-e75bdf5e106c"
+    },
+    {
+      "title": "Existence of Union Territories",
+      "level_label": "Topic",
+      "content_md": "**Union Territories**\n\n*   A feature indicating the **unitary character** of the Indian Constitution.\n*   These administrative units are directly governed by the **Central Government**.\n*   They do not possess **independent powers or autonomy**.",
+      "syllabus_node_id": "4e5d3dd4-bbb4-4a1b-a874-2a2b4a01f2ec"
+    },
+    {
+      "title": "THE UNION PARLIAMENT",
+      "level_label": "Topic",
+      "content_md": "### The Union Parliament\n\n*   The **Union Legislature** comprises the **President** and the two Houses of Parliament.\n*   The two Houses are:\n    *   **The Lok Sabha** (House of the People)\n    *   **The Rajya Sabha** (Council of States)\n*   **Parliament**: The body of people's representatives with supreme power of governance.\n*   India is a **representative democracy**, where people exercise sovereign power through their elected representatives.",
+      "syllabus_node_id": "7a9bcd6b-c466-47a1-aef7-6f21e14fea6e"
+    },
+    {
+      "title": "Vacation of Seats",
+      "level_label": "Subtopic",
+      "content_md": "### Vacation of Seats\n\nA member's seat in either House of Parliament becomes vacant in the following cases:\n\n*   **Resignation:** If a member resigns by writing to the **Speaker** or **Chairman**.\n*   **Absence:** If a member is absent from all meetings for a period of **60 days** without the House's permission.\n    *   *Note:* This period does not count any time the House is **prorogued** or **adjourned** for more than four consecutive days.\n*   **Disqualification:** If a member becomes subject to any **disqualifications** specified in the Constitution or an Act of Parliament.\n*   **Dual Membership:** If a person elected to **Parliament** is already a member of a **State Legislature**, they must vacate their state seat (or vice versa).\n*   **Defection:** If a person is disqualified under the **Anti-Defection Law**. This happens if a member:\n    *   Voluntarily gives up the membership of their party.\n    *   Votes against the direction of their party.",
+      "syllabus_node_id": "557cc04a-e231-4103-be7f-200def3f945a"
+    },
+    {
+      "title": "Miscellaneous Functions",
+      "level_label": "Topic",
+      "content_md": "*   Presides over **joint sessions** of both Houses of Parliament.\n*   Nominates personnel for **Parliamentary Delegations** to various countries, in consultation with the **Chairman of the Rajya Sabha**.\n*   Presides over the **Conference of Presiding Officers** of legislative bodies in India.",
+      "syllabus_node_id": "08a2a8ba-c650-414d-a77c-dc9504af862d"
+    },
+    {
+      "title": "Motion",
+      "level_label": "Topic",
+      "content_md": "**Motion**:\n\n- A formal proposal by a member for the House to take up a matter of public importance.\n- **Purpose**: To draw the Government's attention to an issue and prompt suitable action.",
+      "syllabus_node_id": "68ad7abb-fbf5-40d7-9194-08362c410778"
+    },
+    {
+      "title": "Adjournment Motion",
+      "level_label": "Topic",
+      "content_md": "**Adjournment Motion**\n\n*   **Definition**: A proposal to lay aside all other business to discuss a **'definite matter of urgent importance'**.\n*   **Effect**: Interrupts the normal business of the House.\n*   **Examples of allowed subjects**:\n    *   A railway accident with several deaths.\n    *   A daring dacoity.\n    *   Natural calamities (e.g., devastating floods, tornadoes).\n    *   Communal tension.",
+      "syllabus_node_id": "a6a89536-038d-4174-aa57-88f73bea8f11"
+    },
+    {
+      "title": "Lok Sabha",
+      "level_label": "Topic",
+      "content_md": "**Lok Sabha**\n* Also known as the **House of the People**.\n* Members are **directly elected** by the people of India.",
+      "syllabus_node_id": "494b2a57-9994-4abf-ba33-764b6a42f064"
+    },
+    {
+      "title": "Parliamentary Procedures",
+      "level_label": "Section",
+      "content_md": "### Parliamentary Procedures\n*   **Parliamentary Procedures**: Formalities observed by legislators in Parliament and State Legislatures.",
+      "syllabus_node_id": "d32f3a01-248f-45f3-840c-9def1aa3b4bc"
+    },
+    {
+      "title": "No-Confidence Motion",
+      "level_label": "Topic",
+      "content_md": "### No-Confidence Motion\n\n*   **Definition:** A proposal moved by the **Opposition** to express a lack of confidence in the ruling government.\n*   **Constitutional Basis:** The **Council of Ministers** is collectively responsible to the **Lok Sabha**.\n*   **Procedure:**\n    *   Requires the support of at least **50 members** to be introduced.\n    *   Must be discussed within **10 days** after leave is granted by the House.\n*   **Outcome:** If the **No-Confidence Motion** is passed, the **Government has to resign**.\n*   **Related Term:** A **Confidence Motion** is the reverse, often moved by the government to prove its majority.\n*   **Historical Example:** In the **12th Lok Sabha**, the government led by **Shri Atal Bihari Vajpayee** lost a **Confidence Motion** by one vote, causing the government to collapse.",
+      "syllabus_node_id": "0d321291-351e-4503-b7c0-83cf5a00fab0"
+    },
+    {
+      "title": "The No-Confidence Motions of the Past",
+      "level_label": "Subtopic",
+      "content_md": "*   **Since 1952**: 28 **No-Confidence Motions (NCM)** have been moved.\n    *   27 were defeated by the government in power.\n    *   **1979 Exception**: PM **Morarji Desai** resigned before the NCM vote could begin.\n*   **Notable Records**:\n    *   **Indira Gandhi**: Faced the most NCMs (15), all were defeated.\n    *   **Lal Bahadur Shastri**: Faced the most NCMs per year of office.\n    *   **Narasimha Rao**: Won an NCM with the narrowest margin.\n*   **Recent Motion**: On **July 26, 2024**, an NCM submitted by Gaurav Gogoi against the **Narendra Modi** government was accepted.\n*   **Important Distinction**: Thrice, governments have fallen during a **Vote of Confidence**, which is a different procedure from an NCM.",
+      "syllabus_node_id": "6af40885-cdff-4946-af16-76b1f249a61a"
+    },
+    {
+      "title": "Adjournment and Prorogation of the House",
+      "level_label": "Topic",
+      "content_md": "*   **Adjournment**: The suspension of a sitting of the House. Power rests with the **Speaker** or **Chairman**.\n*   **Prorogation**: The termination of a session of Parliament. Power belongs to the **President**.\n\n**Reasons for Adjournment:**\n*   Daily business is concluded.\n*   Death of a sitting/ex-member.\n*   Disorder in the House.\n*   Lack of **quorum**.\n*   At the Speaker's discretion.\n\n**Adjournment Sine Die**:\n*   **Definition**: Suspension of a session for an indefinite period (Latin: 'without a date').\n*   **Power**: The **Speaker** declares it when a session's business is complete.",
+      "syllabus_node_id": "c4da3a5b-022a-4e61-9fe1-b440d54d2f06"
+    },
+    {
+      "title": "Anti-Defection Law",
+      "level_label": "Section",
+      "content_md": "### Anti-Defection Law\n\n*   Introduced by the **Constitutional Act (52nd Amendment) 1985**.\n*   Added the **10th Schedule** to the Constitution.\n*   Provides for disqualification of members of Parliament and State Legislatures on grounds of **defection**.\n\n#### Grounds for Disqualification\n\n1.  **Elected Member (Party Candidate):**\n    *   Voluntarily relinquishes membership of their political party.\n    *   Votes or abstains from voting contrary to the party's direction.\n2.  **Nominated Member (Party Member at time of nomination):**\n    *   Voluntarily gives up party membership.\n    *   Votes or abstains contrary to party direction.\n3.  **Nominated Member (Not a Party Member at time of nomination):**\n    *   Disqualified if they join any political party *after* the expiry of six months from taking their seat.\n4.  **Independent Member:**\n    *   Disqualified if they join any political party after their election.\n\n#### Exceptions to Disqualification\n\n*   **Split:** A group representing a faction from a split, if the group consists of not less than **one-third** of the members of the legislative party.\n*   **Merger:** If a party merges with another, and not less than **two-thirds** of the members of the legislative party concerned have agreed to the merger.\n*   **Presiding Officers:** A person elected as **Speaker, Deputy Speaker, Chairman, or Deputy Chairman** is not disqualified if they voluntarily leave their party after being elected to the office, and can rejoin it after ceasing to hold that office.",
+      "syllabus_node_id": "c81fa63c-5a2f-4df0-b469-6420560171f0"
+    },
+    {
+      "title": "Passing of Bills",
+      "level_label": "Section",
+      "content_md": "*   **Bill**: A proposal for a law; a draft statute.\n*   To become law, a **Bill** requires:\n    1.  Approval of both **Houses of Parliament**.\n    2.  Assent of the **President of India**.\n*   **Types of Bills**:\n    *   **Ordinary Bills**\n    *   **Money bills**",
+      "syllabus_node_id": "40e02da3-8bf6-4ed0-b8e5-4b1df1926216"
+    },
+    {
+      "title": "Speaker of the Lok Sabha",
+      "level_label": "Section",
+      "content_md": "### Speaker of the Lok Sabha\n\n*   The **presiding officer** of the **Lok Sabha**; conducts the business of the House.\n*   **Key Roles & Responsibilities:**\n    *   Maintains discipline in the House.\n    *   Acts as a guardian of the rights and privileges of members.\n    *   Once elected, must be impartial and not affiliated with any party.\n*   **Authority & Powers:**\n    *   In the **Table of Precedence**, ranks higher than all Cabinet Ministers except the Prime Minister.\n    *   Answerable only to the House for the discharge of powers and functions.\n    *   Rulings cannot be challenged in any court of law.",
+      "syllabus_node_id": "805ecb68-bf18-4765-a83b-cb8e689d1465"
+    },
+    {
+      "title": "ROLE AND FUNCTIONS OF THE SPEAKER",
+      "level_label": "Topic",
+      "content_md": "# Role and Functions of the Speaker\n\n*   The role and functions of the **Speaker** can be categorized into several areas.",
+      "syllabus_node_id": "40d82986-4cf4-439b-b8a8-281ca2942737"
+    }
+  ]
+}

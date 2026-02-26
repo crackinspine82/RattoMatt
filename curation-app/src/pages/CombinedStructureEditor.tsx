@@ -14,7 +14,7 @@ import { SortableContext, verticalListSortingStrategy, arrayMove } from '@dnd-ki
 import { getFullExtract, saveNotes, saveStructure, setStatus, type DraftNode, type DraftNoteBlock } from '../api';
 import { RichTextBlockEditor } from '../components/RichTextEditor';
 import { buildNodesTree, NotesTreeSidebar } from '../components/NotesTreeSidebar';
-import { collectNodeAndDescendantIds, flattenTree, renumberStructureNodes } from '../structureUtils';
+import { collectNodeAndDescendantIds, flattenTree, renumberStructureNodes, generateTempNodeId, getLevelLabelForDepth } from '../structureUtils';
 import { SortableBlockRow } from '../components/SortableBlockRow';
 
 function renumberBlocks(blocks: DraftNoteBlock[]): DraftNoteBlock[] {
@@ -164,24 +164,37 @@ export default function CombinedStructureEditor() {
     setSaving(true);
     setError('');
     try {
-      const nodesPayload = nodes.map((n, i) => ({
-        id: n.id,
-        parent_id: n.parent_id,
-        title: n.title,
-        sequence_number: n.sequence_number ?? i + 1,
-        depth: n.depth ?? 0,
-        level_label: n.level_label || 'Section',
-      }));
-      const savedNodes = await saveStructure(itemId, nodesPayload);
+      const flat = renumberStructureNodes(nodes);
+      const nodesPayload = flat.map((n) => {
+        const isTemp = String(n.id).startsWith('temp-');
+        return {
+          id: isTemp ? undefined : n.id,
+          client_temp_id: isTemp ? n.id : undefined,
+          parent_id: n.parent_id,
+          title: n.title,
+          sequence_number: n.sequence_number ?? 0,
+          depth: n.depth ?? 0,
+          level_label: n.level_label || 'Section',
+        };
+      });
+      const { nodes: savedNodes, temp_id_map } = await saveStructure(itemId, nodesPayload);
       setNodes(savedNodes);
+      const blocksWithRealIds = Object.keys(temp_id_map).length > 0
+        ? blocks.map((b) => ({
+            ...b,
+            draft_syllabus_node_id: temp_id_map[b.draft_syllabus_node_id] ?? b.draft_syllabus_node_id,
+          }))
+        : blocks;
       if (notesItemId) {
-        const blocksPayload = blocks.map((b) => ({
+        const blocksPayload = blocksWithRealIds.map((b) => ({
           draft_syllabus_node_id: b.draft_syllabus_node_id,
           sequence_number: b.sequence_number,
           content_html: b.content_html,
         }));
         const res = await saveNotes(notesItemId, blocksPayload);
         setBlocks(res.blocks);
+      } else {
+        if (blocksWithRealIds !== blocks) setBlocks(blocksWithRealIds);
       }
     } catch (err) {
       setError(err instanceof Error ? err.message : 'Save failed');
@@ -196,6 +209,7 @@ export default function CombinedStructureEditor() {
     setError('');
     try {
       await setStatus(itemId, 'ready_to_publish');
+      if (notesItemId) await setStatus(notesItemId, 'ready_to_publish');
       navigate('/', { replace: true });
     } catch (err) {
       setError(err instanceof Error ? err.message : 'Failed');
@@ -307,6 +321,58 @@ export default function CombinedStructureEditor() {
     setBlocks((prev) => prev.filter((b) => !idsToDelete.has(b.draft_syllabus_node_id)));
     if (idsToDelete.has(selectedNodeId ?? '')) setSelectedNodeId(null);
     setNodes(updatedNodes);
+  }
+
+  function handleAddSection() {
+    pushUndo();
+    const newNode: DraftNode = {
+      id: generateTempNodeId(),
+      chapter_id: nodes[0]?.chapter_id ?? '',
+      parent_id: null,
+      title: 'New section',
+      sequence_number: 0,
+      depth: 0,
+      level_label: 'Section',
+    };
+    const updated = renumberStructureNodes([...nodes, newNode]);
+    setNodes(updated);
+    setSelectedNodeId(newNode.id);
+    setEditingNodeId(newNode.id);
+  }
+
+  function handleAddChild(parentNode: DraftNode) {
+    pushUndo();
+    const depth = (parentNode.depth ?? 0) + 1;
+    const newNode: DraftNode = {
+      id: generateTempNodeId(),
+      chapter_id: parentNode.chapter_id,
+      parent_id: parentNode.id,
+      title: 'New section',
+      sequence_number: 0,
+      depth,
+      level_label: getLevelLabelForDepth(depth),
+    };
+    const updated = renumberStructureNodes([...nodes, newNode]);
+    setNodes(updated);
+    setSelectedNodeId(newNode.id);
+    setEditingNodeId(newNode.id);
+  }
+
+  function handleAddSibling(afterNode: DraftNode) {
+    pushUndo();
+    const newNode: DraftNode = {
+      id: generateTempNodeId(),
+      chapter_id: afterNode.chapter_id,
+      parent_id: afterNode.parent_id,
+      title: 'New section',
+      sequence_number: (afterNode.sequence_number ?? 0) + 1,
+      depth: afterNode.depth ?? 0,
+      level_label: afterNode.level_label || 'Section',
+    };
+    const updated = renumberStructureNodes([...nodes, newNode]);
+    setNodes(updated);
+    setSelectedNodeId(newNode.id);
+    setEditingNodeId(newNode.id);
   }
 
   const sensors = useSensors(
@@ -452,9 +518,13 @@ export default function CombinedStructureEditor() {
               onIndent={handleIndent}
               onOutdent={handleOutdent}
               onDeleteNode={handleDeleteNode}
+              onAddSection={handleAddSection}
+              onAddChild={handleAddChild}
+              onAddSibling={handleAddSibling}
               selectedNodeId={selectedNodeId}
               onSelectNode={setSelectedNodeId}
               blocksByNode={blocksByNodeForSidebar}
+              savingStructure={saving}
             />
             <div
               role="separator"

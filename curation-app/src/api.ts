@@ -70,15 +70,18 @@ export async function getStructure(itemId: string): Promise<DraftNode[]> {
   return data.nodes;
 }
 
-export async function saveStructure(itemId: string, nodes: Array<{ id?: string; parent_id: string | null; title: string; sequence_number: number; depth: number; level_label: string }>): Promise<DraftNode[]> {
+export async function saveStructure(
+  itemId: string,
+  nodes: Array<{ id?: string; client_temp_id?: string; parent_id: string | null; title: string; sequence_number: number; depth: number; level_label: string }>
+): Promise<{ nodes: DraftNode[]; temp_id_map: Record<string, string> }> {
   const res = await fetch(`${API_BASE}/curation/items/${itemId}/structure`, {
     method: 'PUT',
     headers: { 'Content-Type': 'application/json', ...authHeaders() },
     body: JSON.stringify({ nodes }),
   });
   if (!res.ok) throw new Error(res.statusText);
-  const data = (await res.json()) as { nodes: DraftNode[] };
-  return data.nodes;
+  const data = (await res.json()) as { nodes: DraftNode[]; temp_id_map?: Record<string, string> };
+  return { nodes: data.nodes, temp_id_map: data.temp_id_map ?? {} };
 }
 
 export type DraftNoteBlock = {

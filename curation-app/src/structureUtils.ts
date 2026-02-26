@@ -1,6 +1,18 @@
 import type { DraftNode } from './api';
 import { buildNodesTree, type TreeNode } from './components/NotesTreeSidebar';
 
+/** Level labels by depth: Section (0), Topic (1), Subtopic (2), Point (3), Sub-point (4+). */
+export const LEVEL_LABELS = ['Section', 'Topic', 'Subtopic', 'Point', 'Sub-point'] as const;
+
+export function getLevelLabelForDepth(depth: number): string {
+  return LEVEL_LABELS[Math.min(depth, LEVEL_LABELS.length - 1)] ?? 'Section';
+}
+
+/** Generate a temporary id for a new node (not persisted until Save). */
+export function generateTempNodeId(): string {
+  return `temp-${Date.now()}-${Math.random().toString(36).slice(2, 11)}`;
+}
+
 /** Flatten tree to depth-first order. */
 export function flattenTree(tree: TreeNode[]): DraftNode[] {
   const out: DraftNode[] = [];

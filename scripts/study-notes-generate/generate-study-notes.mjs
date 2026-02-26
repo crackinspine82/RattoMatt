@@ -281,6 +281,7 @@ Section (${levelLabel}): "${nodeTitle}"
 Full content to condense:
 ${text || '(no content)'}
 
+If the content above is missing or empty, output only {"content_md": ""}. Do not add explanatory or placeholder text.
 Output JSON: { "content_md": "..." }`;
 }
 
@@ -471,8 +472,15 @@ async function fromDbFlow(apiKey) {
   const sections = [];
   for (let i = 0; i < nodes.length; i += concurrency) {
     const batch = nodes.slice(i, i + concurrency);
+    const end = Math.min(i + concurrency, nodes.length);
+    console.log(`  Condensing nodes ${i + 1}–${end} of ${nodes.length}…`);
     const results = await Promise.all(
       batch.map(async (node) => {
+        const text = (node.content_html || '').replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
+        if (!text) {
+          console.log(`  Skip (no content): "${node.title}"`);
+          return { title: node.title, level_label: node.level_label, content_md: '', syllabus_node_id: node.id };
+        }
         try {
           const prompt = buildCondensePrompt(node.title, node.level_label, node.content_html);
           const parsed = await callGeminiForJsonTextOnly(apiKey, prompt);
@@ -489,13 +497,20 @@ async function fromDbFlow(apiKey) {
       })
     );
     sections.push(...results);
+    console.log(`  Done ${sections.length}/${nodes.length} nodes`);
     if (i + concurrency < nodes.length) await delay(1000);
   }
 
-  const pageCountRow = await pool.query(
-    'SELECT page_count FROM chapters WHERE id = $1',
-    [resolved.chapterId]
-  ).then((r) => r.rows[0]?.page_count ?? null);
+  let pageCountRow = null;
+  try {
+    pageCountRow = await pool.query(
+      'SELECT page_count FROM chapters WHERE id = $1',
+      [resolved.chapterId]
+    ).then((r) => r.rows[0]?.page_count ?? null);
+  } catch (err) {
+    if (err?.code !== '42703') throw err;
+    // column "page_count" does not exist — DB may not have migration; treat as null
+  }
   const bookSlug = loadPublications().find((p) => p.grade === resolved.grade && p.book_name === resolved.subjectName)?.book_slug;
   const payload = buildOutputPayloadFromDb(resolved, sections, bookSlug, pageCountRow);
   if (!fs.existsSync(OUT_DIR)) fs.mkdirSync(OUT_DIR, { recursive: true });

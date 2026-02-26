@@ -88,6 +88,8 @@ type QuestionItemJson = {
     model_answer_text?: string;
     rubric?: { rubric_version?: number; total_marks?: number; answer_input_type?: string; [key: string]: unknown };
     scenario_data?: Record<string, unknown> | null;
+    /** Resolved syllabus_node_id (from section_ref/section_refs). When present, overrides item.syllabus_node_id. */
+    syllabus_node_id?: string | null;
   }>;
 };
 
@@ -387,8 +389,10 @@ async function importQuestionsIntoDraft(
   for (const item of data.items || []) {
     const questionType = (item.question_type || 'short_answer').slice(0, 80);
     const difficultyLevel = Math.min(4, Math.max(1, Number(item.difficulty_level) || 2));
-    const syllabusNodeId = item.syllabus_node_id && validNodeIds.has(item.syllabus_node_id) ? item.syllabus_node_id : null;
+    const itemNodeId = item.syllabus_node_id && validNodeIds.has(item.syllabus_node_id) ? item.syllabus_node_id : null;
     for (const q of item.questions || []) {
+      const syllabusNodeId =
+        q.syllabus_node_id != null && validNodeIds.has(q.syllabus_node_id) ? q.syllabus_node_id : itemNodeId;
       const rubric = q.rubric || {};
       const answerInputType = (rubric.answer_input_type === 'typed' || rubric.answer_input_type === 'choice')
         ? rubric.answer_input_type

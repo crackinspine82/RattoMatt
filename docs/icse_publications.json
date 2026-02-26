@@ -11,7 +11,7 @@
     { "grade": 10, "subject": "Chemistry", "book_slug": "ConciseChemistry_SelinaPublishers_SPSingh", "book_name": "Concise Chemistry", "publication": "Selina Publishers", "author": "Dr. S.P. Singh" },
     { "grade": 10, "subject": "Biology", "book_slug": "ConciseBiology_SelinaPublishers_KKGupta", "book_name": "Concise Biology", "publication": "Selina Publishers", "author": "Dr. K.K. Gupta" },
     { "grade": 10, "subject": "HistoryCivics", "book_slug": "TotalHistoryCivics_MorningStar_DollyESequeira", "book_name": "Total History & Civics", "publication": "Morning Star", "author": "Dolly E. Sequeira" },
-    { "grade": 10, "subject": "Geography", "book_slug": "TotalGeography_MorningStar_JasmineRachel", "book_name": "Total Geography", "publication": "Morning Star", "author": "Jasmine Rachel" },
+    { "grade": 10, "subject": "Geography", "book_slug": "TotalGeography_MorningStar_DollyESequeira", "book_name": "Total Geography", "publication": "Morning Star", "author": "Dolly E. Sequeira" },
     { "grade": 10, "subject": "ComputerApplications", "book_slug": "ICSEComputerApplications_SChandAvichal_DheerajMehrotra", "book_name": "ICSE Computer Applications", "publication": "S. Chand / Avichal", "author": "Dr. Dheeraj Mehrotra" },
     { "grade": 9, "subject": "EnglishLiterature", "book_slug": "JuliusCaesarIntro_InterUniversityPress_WilliamShakespeare", "book_name": "Julius Caesar (Play) - Intro", "publication": "Inter University Press", "author": "William Shakespeare" },
     { "grade": 9, "subject": "EnglishLiterature", "book_slug": "TreasureChest_InterUniversityPress_Various", "book_name": "Treasure Chest: Poems & Short Stories", "publication": "Inter University Press", "author": "Various (Board Prescribed)" },
@@ -21,7 +21,7 @@
     { "grade": 9, "subject": "Chemistry", "book_slug": "ConciseChemistry_SelinaPublishers_SPSingh", "book_name": "Concise Chemistry", "publication": "Selina Publishers", "author": "Dr. S.P. Singh" },
     { "grade": 9, "subject": "Biology", "book_slug": "ConciseBiology_SelinaPublishers_KKGupta", "book_name": "Concise Biology", "publication": "Selina Publishers", "author": "Dr. K.K. Gupta" },
     { "grade": 9, "subject": "HistoryCivics", "book_slug": "TotalHistoryCivics_MorningStar_DollyESequeira", "book_name": "Total History & Civics", "publication": "Morning Star", "author": "Dolly E. Sequeira" },
-    { "grade": 9, "subject": "Geography", "book_slug": "TotalGeography_MorningStar_JasmineRachel", "book_name": "Total Geography", "publication": "Morning Star", "author": "Jasmine Rachel" },
+    { "grade": 9, "subject": "Geography", "book_slug": "TotalGeography_MorningStar_DollyESequeira", "book_name": "Total Geography", "publication": "Morning Star", "author": "Dolly E. Sequeira" },
     { "grade": 9, "subject": "RoboticsAI", "book_slug": "CandidRoboticsAI_EvergreenPublications_Various", "book_name": "Candid Robotics & AI", "publication": "Evergreen Publications", "author": "Various" },
     { "grade": 8, "subject": "EnglishLiterature", "book_slug": "NewTrendsInEnglishReader_EvergreenPublications_Various", "book_name": "New Trends in English Reader", "publication": "Evergreen Publications", "author": "Various" },
     { "grade": 8, "subject": "Mathematics", "book_slug": "ConciseMathematics_SelinaPublishers_RKBansal", "book_name": "Concise Mathematics", "publication": "Selina Publishers", "author": "R.K. Bansal" },
@@ -30,6 +30,6 @@
     { "grade": 8, "subject": "Chemistry", "book_slug": "ConciseChemistry_SelinaPublishers_Namrata", "book_name": "Concise Chemistry", "publication": "Selina Publishers", "author": "Dr. Namrata" },
     { "grade": 8, "subject": "Biology", "book_slug": "ConciseBiology_SelinaPublishers_KKGupta", "book_name": "Concise Biology", "publication": "Selina Publishers", "author": "Dr. K.K. Gupta" },
     { "grade": 8, "subject": "HistoryCivics", "book_slug": "TotalHistoryCivics_MorningStar_DollyESequeira", "book_name": "Total History & Civics", "publication": "Morning Star", "author": "Dolly E. Sequeira" },
-    { "grade": 8, "subject": "Geography", "book_slug": "TotalGeography_MorningStar_JasmineRachel", "book_name": "Total Geography", "publication": "Morning Star", "author": "Jasmine Rachel" }
+    { "grade": 8, "subject": "Geography", "book_slug": "TotalGeography_MorningStar_DollyESequeira", "book_name": "Total Geography", "publication": "Morning Star", "author": "Dolly E. Sequeira" }
   ]
 }

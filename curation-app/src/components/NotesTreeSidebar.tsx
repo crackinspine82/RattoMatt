@@ -38,6 +38,9 @@ type NotesTreeSidebarProps = {
   onIndent?: (index: number) => void;
   onOutdent?: (index: number) => void;
   onDeleteNode?: (nodeId: string) => void;
+  onAddSection?: () => void;
+  onAddChild?: (parentNode: import('../api').DraftNode) => void;
+  onAddSibling?: (afterNode: import('../api').DraftNode) => void;
   savingStructure?: boolean;
 };
 
@@ -53,6 +56,8 @@ function TreeItem({
   onIndent,
   onOutdent,
   onDeleteNode,
+  onAddChild,
+  onAddSibling,
   savingStructure,
 }: {
   item: TreeNode;
@@ -66,6 +71,8 @@ function TreeItem({
   onIndent?: (index: number) => void;
   onOutdent?: (index: number) => void;
   onDeleteNode?: (nodeId: string) => void;
+  onAddChild?: (parentNode: import('../api').DraftNode) => void;
+  onAddSibling?: (afterNode: import('../api').DraftNode) => void;
   savingStructure?: boolean;
 }) {
   const isSelected = selectedNodeId === item.node.id;
@@ -216,6 +223,46 @@ function TreeItem({
                 Delete
               </button>
             )}
+            {onAddChild != null && (
+              <button
+                type="button"
+                onClick={() => onAddChild(item.node)}
+                disabled={savingStructure}
+                title="Add child section"
+                style={{
+                  padding: '2px 6px',
+                  fontSize: 11,
+                  border: '1px solid var(--link)',
+                  borderRadius: 4,
+                  background: 'var(--surface)',
+                  color: 'var(--link)',
+                  cursor: savingStructure ? 'not-allowed' : 'pointer',
+                  opacity: savingStructure ? 0.5 : 1,
+                }}
+              >
+                + Child
+              </button>
+            )}
+            {onAddSibling != null && (
+              <button
+                type="button"
+                onClick={() => onAddSibling(item.node)}
+                disabled={savingStructure}
+                title="Add sibling after this"
+                style={{
+                  padding: '2px 6px',
+                  fontSize: 11,
+                  border: '1px solid var(--link)',
+                  borderRadius: 4,
+                  background: 'var(--surface)',
+                  color: 'var(--link)',
+                  cursor: savingStructure ? 'not-allowed' : 'pointer',
+                  opacity: savingStructure ? 0.5 : 1,
+                }}
+              >
+                + Sibling
+              </button>
+            )}
           </div>
         ) : null}
       </div>
@@ -233,6 +280,8 @@ function TreeItem({
           onIndent={onIndent}
           onOutdent={onOutdent}
           onDeleteNode={onDeleteNode}
+          onAddChild={onAddChild}
+          onAddSibling={onAddSibling}
           savingStructure={savingStructure}
         />
       ))}
@@ -240,7 +289,7 @@ function TreeItem({
   );
 }
 
-export function NotesTreeSidebar({ tree, selectedNodeId, onSelectNode, blocksByNode, width = DEFAULT_SIDEBAR_WIDTH, flatOrder, onIndent, onOutdent, onDeleteNode, savingStructure }: NotesTreeSidebarProps) {
+export function NotesTreeSidebar({ tree, selectedNodeId, onSelectNode, blocksByNode, width = DEFAULT_SIDEBAR_WIDTH, flatOrder, onIndent, onOutdent, onDeleteNode, onAddSection, onAddChild, onAddSibling, savingStructure }: NotesTreeSidebarProps) {
   return (
     <div
       style={{
@@ -274,9 +323,33 @@ export function NotesTreeSidebar({ tree, selectedNodeId, onSelectNode, blocksByN
             onIndent={onIndent}
             onOutdent={onOutdent}
             onDeleteNode={onDeleteNode}
+            onAddChild={onAddChild}
+            onAddSibling={onAddSibling}
             savingStructure={savingStructure}
           />
         ))
+      )}
+      {onAddSection != null && (
+        <button
+          type="button"
+          onClick={onAddSection}
+          disabled={savingStructure}
+          title="Add top-level section at end"
+          style={{
+            marginTop: 12,
+            marginLeft: 10,
+            padding: '8px 12px',
+            fontSize: 13,
+            border: '1px solid var(--link)',
+            borderRadius: 4,
+            background: 'var(--surface)',
+            color: 'var(--link)',
+            cursor: savingStructure ? 'not-allowed' : 'pointer',
+            opacity: savingStructure ? 0.5 : 1,
+          }}
+        >
+          + Add section
+        </button>
       )}
     </div>
   );

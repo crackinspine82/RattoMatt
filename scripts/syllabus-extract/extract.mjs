@@ -2,7 +2,7 @@
 /**
  * Syllabus extraction: walk Books/ICSE/{grade}/{subject}/{book_slug}/,
  * call Gemini per chapter PDF, merge to one syllabus JSON per book.
- * Requires: GEMINI_API_KEY in env (or in .env in this folder). See docs/syllabus_extraction_prompt.md.
+ * Requires: GEMINI_API_KEY in env (or in .env in this folder). Optional: GEMINI_MODEL (default gemini-2.0-flash). See docs/syllabus_extraction_prompt.md.
  *
  * Usage:
  *   node extract.mjs [--book=slug] [--dry-run]
@@ -245,6 +245,10 @@ function convertTopicsToNodes(topics) {
   }));
 }
 
+function getGeminiModel() {
+  return process.env.GEMINI_MODEL?.trim() || 'gemini-2.0-flash';
+}
+
 async function callGemini(apiKey, pdfPath, prompt) {
   const { GoogleGenAI } = await import('@google/genai');
   const ai = new GoogleGenAI({ apiKey });
@@ -255,7 +259,7 @@ async function callGemini(apiKey, pdfPath, prompt) {
     { inlineData: { mimeType: 'application/pdf', data: base64 } },
   ];
   const response = await ai.models.generateContent({
-    model: 'gemini-2.0-flash',
+    model: getGeminiModel(),
     contents,
   });
   const text = response?.text ?? response?.candidates?.[0]?.content?.parts?.[0]?.text ?? '';

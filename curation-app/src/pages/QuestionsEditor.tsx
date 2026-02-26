@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
-import { getItem, getQuestions, saveQuestions, setStatus, setQuestionReady, type CurationItem, type DraftQuestion } from '../api';
+import { getItem, getQuestions, saveQuestions, setStatus, setQuestionReady, type CurationItem, type DraftNode, type DraftQuestion } from '../api';
 import { RubricForm } from '../components/RubricForm';
 import { RichTextField } from '../components/RichTextEditor';
 import {
@@ -85,6 +85,7 @@ export default function QuestionsEditor() {
 
   const [orphanedQuestions, setOrphanedQuestions] = useState<DraftQuestion[]>([]);
   const [noPublishedStructure, setNoPublishedStructure] = useState(false);
+  const [nodes, setNodes] = useState<DraftNode[]>([]);
 
   useEffect(() => {
     if (!itemId) return;
@@ -95,6 +96,7 @@ export default function QuestionsEditor() {
         setQuestions(qs);
         setOrphanedQuestions(data.orphaned_questions ?? []);
         setNoPublishedStructure(data.no_published_structure ?? false);
+        setNodes(data.nodes ?? []);
         setSelectedId(qs.length > 0 ? qs[0].id : null);
       })
       .catch((err) => setError(err instanceof Error ? err.message : 'Failed to load'))
@@ -254,6 +256,7 @@ export default function QuestionsEditor() {
       const data = await saveQuestions(itemId, payload);
       setQuestions(data.questions);
       setOrphanedQuestions(data.orphaned_questions ?? []);
+      setNodes(data.nodes ?? []);
     } catch (e) {
       setError(e instanceof Error ? e.message : 'Save failed');
     } finally {
@@ -650,6 +653,22 @@ export default function QuestionsEditor() {
                     </div>
                   </div>
                 )}
+                <div style={{ marginBottom: 16, padding: '10px 12px', background: 'var(--bg)', borderRadius: 6, fontSize: 13 }}>
+                  <div style={{ fontWeight: 600, marginBottom: 4, color: 'var(--text-muted)' }}>Syllabus node</div>
+                  {selectedQuestion.syllabus_node_id ? (() => {
+                    const node = nodes.find((n) => n.id === selectedQuestion.syllabus_node_id);
+                    return (
+                      <>
+                        <div style={{ marginBottom: 2 }}>{node?.title ?? '—'}</div>
+                        <code style={{ fontSize: 11, color: 'var(--text-muted)', wordBreak: 'break-all' }} title={selectedQuestion.syllabus_node_id}>
+                          {selectedQuestion.syllabus_node_id}
+                        </code>
+                      </>
+                    );
+                  })() : (
+                    <span style={{ color: 'var(--text-muted)' }}>No node</span>
+                  )}
+                </div>
                 <div>
                   <label style={{ display: 'block', fontSize: 12, fontWeight: 600, marginBottom: 4 }}>Question text</label>
                   <RichTextField

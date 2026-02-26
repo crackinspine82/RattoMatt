@@ -134,8 +134,8 @@ def extract_visuals_from_scans(pdf_folder, output_base_folder):
                         # 2. Pass it through the surgical text remover
                         clean_crop = strip_caption(raw_crop)
                         
-                        save_path = os.path.join(chapter_folder, f"page_{page_index + 1}_fig_{img_count}.png")
-                        cv2.imwrite(save_path, clean_crop)
+                        save_path = os.path.join(chapter_folder, f"page_{page_index + 1}_fig_{img_count}.jpg")
+                        cv2.imwrite(save_path, clean_crop, [cv2.IMWRITE_JPEG_QUALITY, 95])
                         print(f"  ✓ Page {page_index + 1}: Saved clean diagram {img_count}")
 
 # ==========================================

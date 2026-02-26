@@ -1,0 +1,8 @@
+{
+  "name": "shared",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "pg": "^8.11.0"
+  }
+}

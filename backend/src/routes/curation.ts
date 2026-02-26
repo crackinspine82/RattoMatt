@@ -167,8 +167,8 @@ export default async function curationRoutes(app: FastifyInstance) {
 
   app.put<{
     Params: { id: string };
-    Body: { nodes: Array<{ id?: string; parent_id: string | null; title: string; sequence_number: number; depth: number; level_label: string }> };
-  }>('/curation/items/:id/structure', async (req: FastifyRequest<{ Params: { id: string }; Body: { nodes: Array<{ id?: string; parent_id: string | null; title: string; sequence_number: number; depth: number; level_label: string }> } }>, reply: FastifyReply) => {
+    Body: { nodes: Array<{ id?: string; client_temp_id?: string; parent_id: string | null; title: string; sequence_number: number; depth: number; level_label: string }> };
+  }>('/curation/items/:id/structure', async (req: FastifyRequest<{ Params: { id: string }; Body: { nodes: Array<{ id?: string; client_temp_id?: string; parent_id: string | null; title: string; sequence_number: number; depth: number; level_label: string }> } }>, reply: FastifyReply) => {
     const { id } = req.params;
     const { nodes } = req.body ?? {};
     if (!Array.isArray(nodes)) return reply.status(400).send({ error: 'nodes array required' });
@@ -182,10 +182,10 @@ export default async function curationRoutes(app: FastifyInstance) {
     if (contentType !== 'structure' && contentType !== 'notes') return reply.status(400).send({ error: 'Structure can only be saved for a structure or notes item' });
     const chapterId = itemRes.rows[0].chapter_id;
 
-    // Option A: preserve nodes and note blocks. Update existing nodes by id; insert only new nodes; delete only nodes removed from payload.
     const existingRes = await pool.query<{ id: string }>('SELECT id FROM draft_syllabus_nodes WHERE chapter_id = $1', [chapterId]);
     const existingIds = new Set(existingRes.rows.map((r) => r.id));
     const payloadIds = new Set(nodes.map((n) => n.id).filter(Boolean) as string[]);
+    const tempToReal: Record<string, string> = {};
 
     for (let i = 0; i < nodes.length; i++) {
       const n = nodes[i];
@@ -194,20 +194,25 @@ export default async function curationRoutes(app: FastifyInstance) {
       const levelLabel = (n.level_label || 'Section').slice(0, 30);
       const depth = n.depth ?? 0;
 
+      let parentId: string | null = null;
+      if (n.parent_id) {
+        if (existingIds.has(n.parent_id) || payloadIds.has(n.parent_id)) parentId = n.parent_id;
+        else if (tempToReal[n.parent_id]) parentId = tempToReal[n.parent_id];
+      }
+
       if (n.id && existingIds.has(n.id)) {
-        const parentId = n.parent_id && (existingIds.has(n.parent_id) || payloadIds.has(n.parent_id)) ? n.parent_id : null;
         await pool.query(
           `UPDATE draft_syllabus_nodes SET parent_id = $1, title = $2, sequence_number = $3, depth = $4, level_label = $5
            WHERE id = $6 AND chapter_id = $7`,
           [parentId, title, seq, depth, levelLabel, n.id, chapterId]
         );
       } else {
-        const parentId = n.parent_id && (existingIds.has(n.parent_id) || payloadIds.has(n.parent_id)) ? n.parent_id : null;
-        await pool.query(
+        const ins = await pool.query<{ id: string }>(
           `INSERT INTO draft_syllabus_nodes (chapter_id, parent_id, title, sequence_number, depth, level_label)
-           VALUES ($1, $2, $3, $4, $5, $6)`,
+           VALUES ($1, $2, $3, $4, $5, $6) RETURNING id`,
           [chapterId, parentId, title, seq, depth, levelLabel]
         );
+        if (n.client_temp_id && ins.rows[0]?.id) tempToReal[n.client_temp_id] = ins.rows[0].id;
       }
     }
 
@@ -239,7 +244,7 @@ export default async function curationRoutes(app: FastifyInstance) {
       SELECT id, chapter_id, parent_id, title, sequence_number, depth, level_label FROM tree ORDER BY sort_path`,
       [chapterId]
     );
-    return reply.send({ nodes: nodesRes.rows });
+    return reply.send({ nodes: nodesRes.rows, temp_id_map: tempToReal });
   });
 
   /** GET full-extract for structure item: nodes (tree) + full-extract blocks + notes_item_id for saving. Used by combined Structure page. */

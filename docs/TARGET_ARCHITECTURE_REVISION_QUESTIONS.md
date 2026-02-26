@@ -94,7 +94,7 @@ Migration adds `syllabus_node_id` (and for draft_revision_note_blocks, `chapter_
 ## 8. Scripts
 
 - **Revision notes:** Generate with `scripts/study-notes-generate` (file-based). After structure is published, run `npm run curation:merge-revision-node-ids -- <chapter_id> <path-to-study_notes_*.json>` from `backend/` to inject `syllabus_node_id` into each section (by tree order). Then run `curation:import` for revision notes.
-- **Questions:** Generate with `scripts/question-bank-generate` (file-based). After structure is published, run `npm run curation:merge-questions-node-ids -- <chapter_id> <path-to-sample_questions_*.json>` from `backend/` to inject `syllabus_node_id` into each item (round-robin). Then run `curation:import` for questions.
+- **Questions:** Generate with `scripts/question-bank-generate` (file-based or `--from-db`). With `--from-db`, the generator outputs **section_ref** / **section_refs** (path strings) per question; run `npm run curation:merge-questions-node-ids -- <chapter_id> <path-to-sample_questions_*.json>` from `backend/` to resolve refs to **per-question** `syllabus_node_id` (path/title match, LCA for multiple refs; unresolved → null). Without refs, the merge script falls back to item-level round-robin. Then run `curation:import` for questions; import uses **question.syllabus_node_id** when present, else **item.syllabus_node_id**.
 - **Publish:** `curation:publish` copies draft_revision_note_blocks → revision_note_blocks and draft_questions → questions by syllabus_node_id (no mapping).
 
 ---
@@ -108,4 +108,4 @@ Migration adds `syllabus_node_id` (and for draft_revision_note_blocks, `chapter_
 - `backend/scripts/schema-mvp1.sql` – Current schema (draft and published tables).
 - `backend/scripts/curation-publish.ts` – Publish script (structure, notes, revision_notes, questions).
 - `backend/scripts/merge-revision-notes-node-ids.ts` – Injects syllabus_node_id into study_notes_*.json.
-- `backend/scripts/merge-questions-node-ids.ts` – Injects syllabus_node_id into sample_questions_*.json.
+- `backend/scripts/merge-questions-node-ids.ts` – Resolves section_ref/section_refs to per-question syllabus_node_id (or item-level round-robin when no refs). See docs/QUESTION_BANK_GENERATION.md.

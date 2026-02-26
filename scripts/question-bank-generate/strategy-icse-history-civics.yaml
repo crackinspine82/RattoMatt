@@ -49,3 +49,21 @@ difficulty_by_type:
   deductive_application:
     L3: 60
     L4: 40
+
+# Content-aware node assignment (--from-db only). Long-format (e.g. structured_essay) is generated per node subtree.
+long_format:
+  # Depth weights: 20% depth 0, 30% depth 1, 50% depth 2. Allocate depth 2 first, then 1, then 0; shortfall carries forward.
+  depth_weights:
+    0: 20
+    1: 30
+    2: 50
+  # Node is eligible for long-format if EITHER condition holds:
+  min_words: 150
+  min_descendants: 3
+
+# With --from-db: MCQs and short types (short_answer, short_source_interpretation, deductive_application) are allocated evenly across all nodes (deepest first). Every node gets at least one when total >= number of nodes.
+# Structured essay: depth-weighted (50/30/20); when total >= eligible nodes, every eligible node gets >= 1, then remainder by depth in round-robin.
+
+# Visual/picture-study: 60% from structure, 40% outside. When needWithin >= structure images, every image gets at least one. With --from-db: 60% assigned to nodes round-robin; 40% only to nodes not used by 60% (equal spread); if all nodes used, 40% spread across all.
+structure_images:
+  within_structure_pct: 60

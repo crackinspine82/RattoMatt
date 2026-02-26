@@ -24,10 +24,30 @@ async function main(): Promise<void> {
     const { id, chapter_id: chapterId, content_type: contentType } = item;
     if (contentType === 'structure') {
       const draftNodes = await pool.query<{ id: string; parent_id: string | null; title: string; sequence_number: number; depth: number; level_label: string }>(
-        'SELECT id, parent_id, title, sequence_number, depth, level_label FROM draft_syllabus_nodes WHERE chapter_id = $1 ORDER BY sequence_number',
+        `WITH RECURSIVE tree AS (
+          SELECT id, chapter_id, parent_id, title, sequence_number, depth, level_label,
+                 ARRAY[sequence_number] AS sort_path
+          FROM draft_syllabus_nodes
+          WHERE chapter_id = $1 AND parent_id IS NULL
+          UNION ALL
+          SELECT n.id, n.chapter_id, n.parent_id, n.title, n.sequence_number, n.depth, n.level_label,
+                 t.sort_path || n.sequence_number
+          FROM draft_syllabus_nodes n
+          JOIN tree t ON n.parent_id = t.id
+        )
+        SELECT id, parent_id, title, sequence_number, depth, level_label FROM tree ORDER BY sort_path`,
         [chapterId]
       );
       const draftToPublished = new Map<string, string>();
+      await pool.query('UPDATE draft_syllabus_nodes SET published_syllabus_node_id = NULL WHERE chapter_id = $1', [chapterId]);
+      await pool.query(
+        'DELETE FROM note_blocks WHERE syllabus_node_id IN (SELECT id FROM syllabus_nodes WHERE chapter_id = $1)',
+        [chapterId]
+      );
+      await pool.query(
+        'DELETE FROM revision_note_blocks WHERE syllabus_node_id IN (SELECT id FROM syllabus_nodes WHERE chapter_id = $1)',
+        [chapterId]
+      );
       await pool.query('DELETE FROM syllabus_nodes WHERE chapter_id = $1', [chapterId]);
       for (const n of draftNodes.rows) {
         const publishedParentId = n.parent_id && draftToPublished.has(n.parent_id) ? draftToPublished.get(n.parent_id)! : null;

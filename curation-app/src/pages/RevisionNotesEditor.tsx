@@ -409,7 +409,7 @@ export default function RevisionNotesEditor() {
                 </div>
               )}
               <div style={{ background: 'var(--surface)', borderRadius: 8, padding: 16, boxShadow: 'var(--shadow)' }}>
-                {nodes.map((n) => {
+                {flatOrder.map((n) => {
                   const nodeBlocks = [...(blocksByNode[n.id] ?? [])].sort(
                     (a, b) => a.sequence_number - b.sequence_number
                   );

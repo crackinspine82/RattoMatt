@@ -204,8 +204,16 @@ export default function NotesEditor() {
     setSavingStructure(true);
     setError('');
     try {
-      const saved = await saveStructure(itemId, renumbered);
-      setNodes(saved);
+      const { nodes: savedNodes, temp_id_map } = await saveStructure(itemId, renumbered);
+      setNodes(savedNodes);
+      if (Object.keys(temp_id_map).length > 0) {
+        setBlocks((prev) =>
+          prev.map((b) => ({
+            ...b,
+            draft_syllabus_node_id: temp_id_map[b.draft_syllabus_node_id] ?? b.draft_syllabus_node_id,
+          }))
+        );
+      }
     } catch (err) {
       setError(err instanceof Error ? err.message : 'Failed to save structure');
     } finally {
@@ -229,8 +237,16 @@ export default function NotesEditor() {
     setSavingStructure(true);
     setError('');
     try {
-      const saved = await saveStructure(itemId, renumbered);
-      setNodes(saved);
+      const { nodes: savedNodes, temp_id_map } = await saveStructure(itemId, renumbered);
+      setNodes(savedNodes);
+      if (Object.keys(temp_id_map).length > 0) {
+        setBlocks((prev) =>
+          prev.map((b) => ({
+            ...b,
+            draft_syllabus_node_id: temp_id_map[b.draft_syllabus_node_id] ?? b.draft_syllabus_node_id,
+          }))
+        );
+      }
     } catch (err) {
       setError(err instanceof Error ? err.message : 'Failed to save structure');
     } finally {
@@ -250,8 +266,16 @@ export default function NotesEditor() {
     setSavingStructure(true);
     setError('');
     try {
-      const saved = await saveStructure(itemId, updatedNodes);
-      setNodes(saved);
+      const { nodes: savedNodes, temp_id_map } = await saveStructure(itemId, updatedNodes);
+      setNodes(savedNodes);
+      if (Object.keys(temp_id_map).length > 0) {
+        setBlocks((prev) =>
+          prev.map((b) => ({
+            ...b,
+            draft_syllabus_node_id: temp_id_map[b.draft_syllabus_node_id] ?? b.draft_syllabus_node_id,
+          }))
+        );
+      }
     } catch (err) {
       setError(err instanceof Error ? err.message : 'Failed to delete node');
     } finally {

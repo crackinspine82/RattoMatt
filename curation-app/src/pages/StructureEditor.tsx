@@ -33,8 +33,8 @@ export default function StructureEditor() {
         depth: n.depth ?? 0,
         level_label: n.level_label || 'Section',
       }));
-      const updated = await saveStructure(itemId, payload);
-      setNodes(updated);
+      const { nodes: updatedNodes } = await saveStructure(itemId, payload);
+      setNodes(updatedNodes);
     } catch (err) {
       setError(err instanceof Error ? err.message : 'Save failed');
     } finally {
@@ -96,8 +96,8 @@ export default function StructureEditor() {
     setError('');
     try {
       const updatedNodes = renumberStructureNodes(nodes.filter((n) => !idsToDelete.has(n.id)));
-      const saved = await saveStructure(itemId, updatedNodes);
-      setNodes(saved);
+      const { nodes: savedNodes } = await saveStructure(itemId, updatedNodes);
+      setNodes(savedNodes);
     } catch (err) {
       setError(err instanceof Error ? err.message : 'Failed to delete node');
     } finally {

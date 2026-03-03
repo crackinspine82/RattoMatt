@@ -86,7 +86,7 @@ Status is **per assignment** (per chapter + content type), not per row.
 
 - **Purpose:** Images for picture study and visual scenario questions. One list per chapter; each image has a slug (unique per chapter) and optional syllabus node assignments.
 - **Flow:** SME opens the chapter’s **Images** screen (from the list; uses the chapter’s structure item). Upload one or more images (slug is derived from filename, no extension; duplicates skipped). Assign syllabus nodes via “Assign nodes” → check nodes → **Save nodes** at the bottom of the dropdown. Replace or delete images as needed.
-- **Question generator:** When run with `--from-db`, the generator calls `GET /curation/items/:id/structure-images` to get slug + published node IDs for the 60% “within-structure” picture study and visual scenario questions. See `docs/QUESTION_BANK_GENERATION.md`.
+- **Question generator:** When run with `--from-db`, the generator calls the structure-images API (admin or curation endpoint) to get slug + published node IDs for the 60% “within-structure” picture study and visual scenario questions. Use **ADMIN_API_TOKEN** (with **ADMIN_API_KEY** on the server) or **CURATION_API_TOKEN** (with **CURATION_SCRIPT_API_KEY** or an SME session). See `docs/QUESTION_BANK_GENERATION.md` and backend README “API keys for scripts”.
 
 ## 6) Import to Curation (script)
 
@@ -94,7 +94,7 @@ Status is **per assignment** (per chapter + content type), not per row.
 - **Actions:**
   - Read syllabus JSON(s) → for each chapter, insert into `draft_syllabus_nodes` (and create subject/chapter if needed in published or a staging area as needed).
   - Read notes JSON(s) → insert into `draft_note_blocks`, linking to `draft_syllabus_nodes` by matching chapter + node title/path; orphan blocks get no node (or "unsorted" placeholder) for SME to link later. When importing **study_notes_*.json**, if the file contains **page_count**, the script updates **chapters.page_count** for that chapter (used by question-bank generation).
-  - Read **sample_questions_*.json** (produced by the question-bank generator; see `docs/QUESTION_BANK_GENERATION.md`) → insert into `draft_questions` and `draft_rubrics`.
+  - Read **sample_questions_*.json** (produced by the question-bank generator; see `docs/QUESTION_BANK_GENERATION.md`) → insert into `draft_questions` and `draft_rubrics`. For **structured_essay** questions with **sub_part_syllabus_node_ids**, the script sets draft `syllabus_node_id` to null and inserts into **draft_question_sub_part_nodes** (one row per sub-part i/ii/iii with a valid node id).
   - Create or update `curation_items` for each (chapter, content_type: structure \| notes \| questions) with status `not_started`.
 - **When:** Admin runs after syllabus extract + study-notes extract (and optionally question-bank generate). No in-app upload in v1.
 
@@ -106,7 +106,7 @@ Status is **per assignment** (per chapter + content type), not per row.
   - **Notes:** Copy `draft_note_blocks` for that chapter → `note_blocks`, mapping draft node IDs to published `syllabus_nodes` IDs.
   - Set curation item status to `published`.
 - App already reads from `syllabus_nodes` and `note_blocks`; no app change required.
-- **Questions/rubrics:** The flow to copy `draft_questions` (and `draft_rubrics`) → published tables will be added when the assessment engine uses published questions. Until then, test paper generation and validation use draft tables.
+- **Questions/rubrics:** Copy `draft_questions` (and `draft_rubrics`) → published tables for draft questions with `ready_to_publish = true`; for **structured_essay**, draft questions with at least one row in **draft_question_sub_part_nodes** are also eligible (even when `syllabus_node_id` is null). When publishing, **draft_question_sub_part_nodes** are copied to **question_sub_part_nodes** (per question id); the published question’s `syllabus_node_id` is set to the first sub-part’s node when the draft has only sub-part nodes.
 
 ## 8) Test (preview + validation)
 

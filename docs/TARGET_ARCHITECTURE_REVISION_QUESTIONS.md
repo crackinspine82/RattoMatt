@@ -99,13 +99,22 @@ Migration adds `syllabus_node_id` (and for draft_revision_note_blocks, `chapter_
 
 ---
 
-## 9. References
+## 9. Chapter images (picture study / visual scenario)
 
-- `docs/CURATION_SPEC.md` – Implementation spec (per-question ready, publish behaviour).
+- **Purpose:** Chapter-scoped images used by picture study and visual scenario questions. Each image has a **slug** (unique per chapter) and optional **syllabus node** assignments (many-to-many via `curation_chapter_image_nodes`).
+- **Curation:** SMEs upload images in the **Images** screen (slug from filename; multi-upload; assign nodes via “Assign nodes” → “Save nodes”). See `docs/CURATION_SPEC.md` §5.
+- **Question generator:** With `--from-db`, the generator calls **GET /curation/items/:id/structure-images** (with `CURATION_API_TOKEN`) to get slug + published node IDs. The 60% “within-structure” picture study and visual scenario questions use these slots. See `docs/QUESTION_BANK_GENERATION.md`.
+
+---
+
+## 10. References
+
+- `docs/CURATION_SPEC.md` – Implementation spec (per-question ready, chapter images, publish behaviour).
 - `docs/CURATION_SYSTEM.md` – Curation design and roles.
-- `docs/ADD_NEW_CHAPTER_CURATION.md` – How to add a chapter (will be updated when this flow is implemented).
-- `docs/QUESTION_BANK_GENERATION.md` – Question bank strategy and current generator.
+- `docs/ADD_NEW_CHAPTER_CURATION.md` – How to add a chapter (structure, notes, images, questions, publish).
+- `docs/QUESTION_BANK_GENERATION.md` – Question bank strategy and structure-images API.
 - `backend/scripts/schema-mvp1.sql` – Current schema (draft and published tables).
+- `backend/scripts/schema-migration-chapter-images.sql` – Curation chapter images tables.
 - `backend/scripts/curation-publish.ts` – Publish script (structure, notes, revision_notes, questions).
 - `backend/scripts/merge-revision-notes-node-ids.ts` – Injects syllabus_node_id into study_notes_*.json.
 - `backend/scripts/merge-questions-node-ids.ts` – Resolves section_ref/section_refs to per-question syllabus_node_id (or item-level round-robin when no refs). See docs/QUESTION_BANK_GENERATION.md.

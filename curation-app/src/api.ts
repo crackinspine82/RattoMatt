@@ -162,10 +162,14 @@ export async function updateNodeTitle(notesItemId: string, nodeId: string, title
   return data.node;
 }
 
+export type SubPartNode = { sub_part_key: string; syllabus_node_id: string };
+
 export type DraftQuestion = {
   id: string;
   chapter_id: string;
   syllabus_node_id: string | null;
+  question_group_id: string | null;
+  sub_part_nodes?: SubPartNode[];
   question_text: string;
   question_type: string;
   discipline: string;
@@ -199,6 +203,8 @@ export async function saveQuestions(
   questions: Array<{
     id?: string;
     syllabus_node_id?: string | null;
+    question_group_id?: string | null;
+    sub_part_nodes?: SubPartNode[];
     question_text: string;
     question_type: string;
     discipline: string;
@@ -218,6 +224,24 @@ export async function saveQuestions(
   });
   if (!res.ok) throw new Error(res.statusText);
   return res.json() as Promise<{ nodes: DraftNode[]; questions: DraftQuestion[]; orphaned_questions: DraftQuestion[] }>;
+}
+
+/** Pair question with another from same node or subnodes (fallback when points are insufficient). */
+export async function groupWithQuestion(
+  itemId: string,
+  questionId: string,
+  pairWithQuestionId: string
+): Promise<{ question_group_id: string }> {
+  const res = await fetch(`${API_BASE}/curation/items/${itemId}/questions/${questionId}/group`, {
+    method: 'PATCH',
+    headers: { 'Content-Type': 'application/json', ...authHeaders() },
+    body: JSON.stringify({ pair_with_question_id: pairWithQuestionId }),
+  });
+  if (!res.ok) {
+    const err = await res.json().catch(() => ({}));
+    throw new Error((err as { error?: string }).error ?? res.statusText);
+  }
+  return res.json() as Promise<{ question_group_id: string }>;
 }
 
 export async function setStatus(itemId: string, status: 'in_progress' | 'ready_to_publish'): Promise<void> {

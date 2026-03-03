@@ -1,15 +1,16 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
-import { getItem, getQuestions, saveQuestions, setStatus, setQuestionReady, type CurationItem, type DraftNode, type DraftQuestion } from '../api';
+import { getItem, getQuestions, saveQuestions, setStatus, setQuestionReady, groupWithQuestion, type CurationItem, type DraftNode, type DraftQuestion } from '../api';
 import { RubricForm } from '../components/RubricForm';
 import { RichTextField } from '../components/RichTextEditor';
 import { buildNodesTree } from '../components/NotesTreeSidebar';
-import { flattenTree } from '../structureUtils';
+import { flattenTree, collectNodeAndDescendantIds } from '../structureUtils';
 import {
   QUESTION_TYPE_ORDER,
   QUESTION_TYPE_CATEGORY,
   questionTypeToLabel,
 } from '../constants/questionTypes';
+import { validateModelAnswerPoints } from '../utils/modelAnswerValidation';
 
 const NODE_DROPDOWN_INDENT = 16;
 
@@ -46,8 +47,15 @@ function groupQuestionsByCategory(questions: DraftQuestion[]): CategoryGroup[] {
     const types: TypeGroup[] = [];
     for (const typeId of QUESTION_TYPE_ORDER) {
       if (QUESTION_TYPE_CATEGORY[typeId] !== cat) continue;
-      const list = byType.get(typeId);
-      if (list?.length) types.push({ typeId, label: questionTypeToLabel(typeId), questions: list });
+      let list = byType.get(typeId);
+      if (list?.length) {
+        list = [...list].sort((a, b) => {
+          const ga = a.question_group_id ?? a.id;
+          const gb = b.question_group_id ?? b.id;
+          return ga.localeCompare(gb);
+        });
+        types.push({ typeId, label: questionTypeToLabel(typeId), questions: list });
+      }
     }
     if (types.length > 0) result.push({ category: cat, types });
   }
@@ -59,7 +67,8 @@ function groupQuestionsByCategory(questions: DraftQuestion[]): CategoryGroup[] {
         entry = { category: cat, types: [] };
         result.push(entry);
       }
-      entry.types.push({ typeId, label: questionTypeToLabel(typeId), questions: list });
+      const sorted = [...list].sort((a, b) => (a.question_group_id ?? a.id).localeCompare(b.question_group_id ?? b.id));
+      entry.types.push({ typeId, label: questionTypeToLabel(typeId), questions: sorted });
     }
   }
   return result;
@@ -90,8 +99,11 @@ export default function QuestionsEditor() {
   const [orphanedQuestions, setOrphanedQuestions] = useState<DraftQuestion[]>([]);
   const [noPublishedStructure, setNoPublishedStructure] = useState(false);
   const [nodes, setNodes] = useState<DraftNode[]>([]);
-  const [nodeDropdownOpen, setNodeDropdownOpen] = useState(false);
+  const [nodeDropdownOpen, setNodeDropdownOpen] = useState<boolean | 'i' | 'ii' | 'iii' | null>(false);
   const nodeDropdownRef = useRef<HTMLDivElement>(null);
+  const [showGroupDropdown, setShowGroupDropdown] = useState(false);
+  const groupDropdownRef = useRef<HTMLDivElement>(null);
+  const [grouping, setGrouping] = useState(false);
 
   useEffect(() => {
     if (!itemId) return;
@@ -118,10 +130,26 @@ export default function QuestionsEditor() {
   useEffect(() => {
     if (!nodeDropdownOpen) return;
     function handleClickOutside(e: MouseEvent) {
-      if (nodeDropdownRef.current && !nodeDropdownRef.current.contains(e.target as Node)) setNodeDropdownOpen(false);
+      if (nodeDropdownRef.current && !nodeDropdownRef.current.contains(e.target as Node)) setNodeDropdownOpen(null);
     }
     function handleEscape(e: KeyboardEvent) {
-      if (e.key === 'Escape') setNodeDropdownOpen(false);
+      if (e.key === 'Escape') setNodeDropdownOpen(null);
+    }
+    document.addEventListener('mousedown', handleClickOutside);
+    document.addEventListener('keydown', handleEscape);
+    return () => {
+      document.removeEventListener('mousedown', handleClickOutside);
+      document.removeEventListener('keydown', handleEscape);
+    };
+  }, [nodeDropdownOpen]);
+
+  useEffect(() => {
+    if (!showGroupDropdown) return;
+    function handleClickOutside(e: MouseEvent) {
+      if (groupDropdownRef.current && !groupDropdownRef.current.contains(e.target as Node)) setShowGroupDropdown(false);
+    }
+    function handleEscape(e: KeyboardEvent) {
+      if (e.key === 'Escape') setShowGroupDropdown(false);
     }
     document.addEventListener('mousedown', handleClickOutside);
     document.addEventListener('keydown', handleEscape);
@@ -180,6 +208,50 @@ export default function QuestionsEditor() {
   }
 
   const selectedQuestion = useMemo(() => questions.find((q) => q.id === selectedId) ?? null, [questions, selectedId]);
+
+  const modelAnswerWarnings = useMemo(() => {
+    if (!selectedQuestion) return [];
+    return validateModelAnswerPoints(
+      selectedQuestion.model_answer_text,
+      selectedQuestion.marks,
+      selectedQuestion.answer_input_type,
+      selectedQuestion.question_type,
+      selectedQuestion.rubric?.rubric_json as Record<string, unknown> | undefined
+    );
+  }, [selectedQuestion]);
+
+  const effectiveNodeIdForQuestion = (q: DraftQuestion): string | null => {
+    if (q.syllabus_node_id) return q.syllabus_node_id;
+    if (q.question_type === 'structured_essay' && q.sub_part_nodes?.length) return q.sub_part_nodes[0].syllabus_node_id;
+    return null;
+  };
+  const sameNodeQuestionCandidates = useMemo(() => {
+    const nodeId = selectedQuestion ? effectiveNodeIdForQuestion(selectedQuestion) : null;
+    if (!nodeId || nodes.length === 0) return [];
+    const validIds = collectNodeAndDescendantIds(nodes, nodeId);
+    return questions.filter(
+      (q) => q.id !== selectedQuestion!.id && effectiveNodeIdForQuestion(q) != null && validIds.has(effectiveNodeIdForQuestion(q)!)
+    );
+  }, [selectedQuestion, nodes, questions]);
+
+  async function handleGroupWith(otherQuestionId: string) {
+    if (!itemId || !selectedQuestion) return;
+    setGrouping(true);
+    setError('');
+    setShowGroupDropdown(false);
+    try {
+      await groupWithQuestion(itemId, selectedQuestion.id, otherQuestionId);
+      const data = await getQuestions(itemId);
+      const qs = (data.questions || []).map((q) => ({ ...q, ready_to_publish: q.ready_to_publish ?? false }));
+      setQuestions(qs);
+      setOrphanedQuestions(data.orphaned_questions ?? []);
+      setNodes(data.nodes ?? []);
+    } catch (e) {
+      setError(e instanceof Error ? e.message : 'Failed to group');
+    } finally {
+      setGrouping(false);
+    }
+  }
 
   function handleResizeLeftStart(e: React.MouseEvent) {
     e.preventDefault();
@@ -266,6 +338,8 @@ export default function QuestionsEditor() {
       const payload = questions.map((q) => ({
         id: q.id,
         syllabus_node_id: q.syllabus_node_id,
+        question_group_id: q.question_group_id ?? undefined,
+        sub_part_nodes: q.sub_part_nodes?.length ? q.sub_part_nodes : undefined,
         question_text: q.question_text,
         question_type: q.question_type,
         discipline: q.discipline,
@@ -373,7 +447,7 @@ export default function QuestionsEditor() {
 
       {orphanedQuestions.length > 0 && (
         <div style={{ margin: '0 24px 16px', padding: 12, background: 'var(--surface)', borderRadius: 8, border: '1px solid var(--border)', fontSize: 14 }}>
-          <strong>Orphaned</strong> ({orphanedQuestions.length} question{orphanedQuestions.length !== 1 ? 's' : ''}): draft questions whose node was removed from the published structure. They are not published.
+          <strong>Orphaned</strong> ({orphanedQuestions.length} question{orphanedQuestions.length !== 1 ? 's' : ''}): draft questions whose node was removed from the published structure. They are not imported.
         </div>
       )}
 
@@ -687,6 +761,87 @@ export default function QuestionsEditor() {
                     itemId={itemId ?? undefined}
                   />
                 </div>
+                {modelAnswerWarnings.length > 0 && (
+                  <div
+                    role="alert"
+                    style={{
+                      padding: '10px 12px',
+                      background: 'var(--warning-bg, #fef3c7)',
+                      border: '1px solid var(--warning-border, #f59e0b)',
+                      borderRadius: 6,
+                      fontSize: 13,
+                      color: 'var(--text)',
+                    }}
+                  >
+                    <strong style={{ display: 'block', marginBottom: 4 }}>Points vs marks</strong>
+                    <ul style={{ margin: 0, paddingLeft: 20 }}>
+                      {modelAnswerWarnings.map((w, i) => (
+                        <li key={i}>{w}</li>
+                      ))}
+                    </ul>
+                    {selectedQuestion && effectiveNodeIdForQuestion(selectedQuestion) && (
+                      <div ref={groupDropdownRef} style={{ position: 'relative', marginTop: 8 }}>
+                        <button
+                          type="button"
+                          disabled={grouping || sameNodeQuestionCandidates.length === 0}
+                          onClick={() => setShowGroupDropdown((v) => !v)}
+                          style={{
+                            padding: '6px 10px',
+                            fontSize: 12,
+                            fontWeight: 600,
+                            background: 'var(--surface)',
+                            border: '1px solid var(--border)',
+                            borderRadius: 6,
+                            cursor: sameNodeQuestionCandidates.length === 0 ? 'not-allowed' : 'pointer',
+                            color: 'var(--text)',
+                          }}
+                        >
+                          {grouping ? 'Grouping…' : sameNodeQuestionCandidates.length === 0 ? 'No other question in this node' : 'Group with another question from this node'}
+                        </button>
+                        {showGroupDropdown && sameNodeQuestionCandidates.length > 0 && (
+                          <div
+                            role="listbox"
+                            style={{
+                              position: 'absolute',
+                              left: 0,
+                              top: '100%',
+                              marginTop: 4,
+                              minWidth: 280,
+                              maxHeight: 240,
+                              overflowY: 'auto',
+                              background: 'var(--surface)',
+                              border: '1px solid var(--border)',
+                              borderRadius: 6,
+                              boxShadow: 'var(--shadow)',
+                              zIndex: 50,
+                            }}
+                          >
+                            {sameNodeQuestionCandidates.map((q) => (
+                              <button
+                                key={q.id}
+                                type="button"
+                                role="option"
+                                onClick={() => handleGroupWith(q.id)}
+                                style={{
+                                  width: '100%',
+                                  textAlign: 'left',
+                                  padding: '8px 12px',
+                                  border: 'none',
+                                  background: 'transparent',
+                                  cursor: 'pointer',
+                                  fontSize: 12,
+                                  color: 'var(--text)',
+                                }}
+                              >
+                                {q.question_text.replace(/<[^>]+>/g, ' ').trim().slice(0, 60) || 'Q'}…
+                              </button>
+                            ))}
+                          </div>
+                        )}
+                      </div>
+                    )}
+                  </div>
+                )}
                 <div>
                   <label style={{ display: 'block', fontSize: 12, fontWeight: 600, marginBottom: 4 }}>Model answer</label>
                   <RichTextField
@@ -718,102 +873,215 @@ export default function QuestionsEditor() {
             {selectedQuestion ? (
               <>
                 <div ref={nodeDropdownRef} style={{ padding: 24, paddingBottom: 16, position: 'relative', fontSize: 13, borderBottom: '1px solid var(--border)' }}>
-                  <div style={{ fontWeight: 600, marginBottom: 4, color: 'var(--text-muted)' }}>Syllabus node</div>
-                  <button
-                    type="button"
-                    onClick={() => setNodeDropdownOpen((o) => !o)}
-                    style={{
-                      width: '100%',
-                      padding: '10px 12px',
-                      textAlign: 'left',
-                      background: 'var(--bg)',
-                      border: '1px solid var(--border)',
-                      borderRadius: 6,
-                      color: 'var(--text)',
-                      cursor: 'pointer',
-                      fontSize: 13,
-                    }}
-                    title="Click to change node"
-                  >
-                    {selectedQuestion.syllabus_node_id ? (() => {
-                      const node = nodes.find((n) => n.id === selectedQuestion.syllabus_node_id);
-                      return (
-                        <>
-                          <div style={{ marginBottom: 2 }}>{node?.title ?? '—'}</div>
-                          <code style={{ fontSize: 11, color: 'var(--text-muted)', wordBreak: 'break-all' }} title={selectedQuestion.syllabus_node_id}>
-                            {selectedQuestion.syllabus_node_id}
-                          </code>
-                        </>
-                      );
-                    })() : (
-                      <span style={{ color: 'var(--text-muted)' }}>No node</span>
-                    )}
-                  </button>
-                  {nodeDropdownOpen && (
-                    <div
-                      role="listbox"
-                      style={{
-                        position: 'absolute',
-                        top: '100%',
-                        left: 24,
-                        right: 24,
-                        marginTop: 4,
-                        maxHeight: 280,
-                        overflowY: 'auto',
-                        background: 'var(--surface)',
-                        border: '1px solid var(--border)',
-                        borderRadius: 6,
-                        boxShadow: 'var(--shadow)',
-                        zIndex: 50,
-                      }}
-                    >
+                  {selectedQuestion.question_type === 'structured_essay' ? (
+                    <>
+                      <div style={{ fontWeight: 600, marginBottom: 8, color: 'var(--text-muted)' }}>Syllabus node per sub-part</div>
+                      {(['i', 'ii', 'iii'] as const).map((key) => {
+                        const subPartNodes = selectedQuestion.sub_part_nodes ?? [];
+                        const current = subPartNodes.find((s) => s.sub_part_key === key);
+                        const nodeId = current?.syllabus_node_id ?? null;
+                        const node = nodeId ? nodes.find((n) => n.id === nodeId) : null;
+                        return (
+                          <div key={key} style={{ marginBottom: 10 }}>
+                            <div style={{ fontSize: 12, color: 'var(--text-muted)', marginBottom: 4 }}>Part ({key})</div>
+                            <button
+                              type="button"
+                              onClick={() => {
+                                const open = nodeDropdownOpen === key ? null : key;
+                                setNodeDropdownOpen(open);
+                              }}
+                              style={{
+                                width: '100%',
+                                padding: '8px 12px',
+                                textAlign: 'left',
+                                background: 'var(--bg)',
+                                border: '1px solid var(--border)',
+                                borderRadius: 6,
+                                color: 'var(--text)',
+                                cursor: 'pointer',
+                                fontSize: 13,
+                              }}
+                            >
+                              {nodeId ? (
+                                <>
+                                  <div style={{ marginBottom: 2 }}>{node?.title ?? '—'}</div>
+                                  <code style={{ fontSize: 11, color: 'var(--text-muted)', wordBreak: 'break-all' }}>{nodeId}</code>
+                                </>
+                              ) : (
+                                <span style={{ color: 'var(--text-muted)' }}>No node</span>
+                              )}
+                            </button>
+                            {nodeDropdownOpen === key && (
+                              <div
+                                role="listbox"
+                                style={{
+                                  position: 'absolute',
+                                  left: 24,
+                                  right: 24,
+                                  marginTop: 4,
+                                  maxHeight: 280,
+                                  overflowY: 'auto',
+                                  background: 'var(--surface)',
+                                  border: '1px solid var(--border)',
+                                  borderRadius: 6,
+                                  boxShadow: 'var(--shadow)',
+                                  zIndex: 50,
+                                }}
+                              >
+                                <button
+                                  type="button"
+                                  role="option"
+                                  onClick={() => {
+                                    const next = (selectedQuestion.sub_part_nodes ?? []).filter((s) => s.sub_part_key !== key);
+                                    updateQuestion(selectedQuestion.id, { sub_part_nodes: next.length ? next : undefined });
+                                    setNodeDropdownOpen(null);
+                                  }}
+                                  style={{
+                                    display: 'block',
+                                    width: '100%',
+                                    padding: '8px 12px',
+                                    textAlign: 'left',
+                                    border: 0,
+                                    background: 'transparent',
+                                    color: 'var(--text-muted)',
+                                    cursor: 'pointer',
+                                    fontSize: 13,
+                                  }}
+                                >
+                                  Unassign
+                                </button>
+                                {flatNodeOrder.map((n) => (
+                                  <button
+                                    key={n.id}
+                                    type="button"
+                                    role="option"
+                                    onClick={() => {
+                                      const next = (selectedQuestion.sub_part_nodes ?? []).filter((s) => s.sub_part_key !== key);
+                                      updateQuestion(selectedQuestion.id, { sub_part_nodes: [...next, { sub_part_key: key, syllabus_node_id: n.id }] });
+                                      setNodeDropdownOpen(null);
+                                    }}
+                                    style={{
+                                      display: 'block',
+                                      width: '100%',
+                                      padding: '8px 12px',
+                                      paddingLeft: 12 + (n.depth ?? 0) * NODE_DROPDOWN_INDENT,
+                                      textAlign: 'left',
+                                      border: 0,
+                                      background: nodeId === n.id ? 'var(--bg)' : 'transparent',
+                                      color: 'var(--text)',
+                                      cursor: 'pointer',
+                                      fontSize: 13,
+                                    }}
+                                  >
+                                    {n.title || '(Untitled)'}
+                                  </button>
+                                ))}
+                              </div>
+                            )}
+                          </div>
+                        );
+                      })}
+                    </>
+                  ) : (
+                    <>
+                      <div style={{ fontWeight: 600, marginBottom: 4, color: 'var(--text-muted)' }}>Syllabus node</div>
                       <button
                         type="button"
-                        role="option"
-                        onClick={() => {
-                          updateQuestion(selectedQuestion.id, { syllabus_node_id: null });
-                          setNodeDropdownOpen(false);
-                        }}
+                        onClick={() => setNodeDropdownOpen((o) => (o === true ? null : true))}
                         style={{
-                          display: 'block',
                           width: '100%',
-                          padding: '8px 12px',
+                          padding: '10px 12px',
                           textAlign: 'left',
-                          border: 0,
-                          background: 'transparent',
-                          color: 'var(--text-muted)',
+                          background: 'var(--bg)',
+                          border: '1px solid var(--border)',
+                          borderRadius: 6,
+                          color: 'var(--text)',
                           cursor: 'pointer',
                           fontSize: 13,
                         }}
+                        title="Click to change node"
                       >
-                        Unassign
+                        {selectedQuestion.syllabus_node_id ? (() => {
+                          const node = nodes.find((n) => n.id === selectedQuestion.syllabus_node_id);
+                          return (
+                            <>
+                              <div style={{ marginBottom: 2 }}>{node?.title ?? '—'}</div>
+                              <code style={{ fontSize: 11, color: 'var(--text-muted)', wordBreak: 'break-all' }} title={selectedQuestion.syllabus_node_id}>
+                                {selectedQuestion.syllabus_node_id}
+                              </code>
+                            </>
+                          );
+                        })() : (
+                          <span style={{ color: 'var(--text-muted)' }}>No node</span>
+                        )}
                       </button>
-                      {flatNodeOrder.map((n) => (
-                        <button
-                          key={n.id}
-                          type="button"
-                          role="option"
-                          onClick={() => {
-                            updateQuestion(selectedQuestion.id, { syllabus_node_id: n.id });
-                            setNodeDropdownOpen(false);
-                          }}
+                      {nodeDropdownOpen === true && (
+                        <div
+                          role="listbox"
                           style={{
-                            display: 'block',
-                            width: '100%',
-                            padding: '8px 12px',
-                            paddingLeft: 12 + (n.depth ?? 0) * NODE_DROPDOWN_INDENT,
-                            textAlign: 'left',
-                            border: 0,
-                            background: selectedQuestion.syllabus_node_id === n.id ? 'var(--bg)' : 'transparent',
-                            color: 'var(--text)',
-                            cursor: 'pointer',
-                            fontSize: 13,
+                            position: 'absolute',
+                            top: '100%',
+                            left: 24,
+                            right: 24,
+                            marginTop: 4,
+                            maxHeight: 280,
+                            overflowY: 'auto',
+                            background: 'var(--surface)',
+                            border: '1px solid var(--border)',
+                            borderRadius: 6,
+                            boxShadow: 'var(--shadow)',
+                            zIndex: 50,
                           }}
                         >
-                          {n.title || '(Untitled)'}
-                        </button>
-                      ))}
-                    </div>
+                          <button
+                            type="button"
+                            role="option"
+                            onClick={() => {
+                              updateQuestion(selectedQuestion.id, { syllabus_node_id: null });
+                              setNodeDropdownOpen(null);
+                            }}
+                            style={{
+                              display: 'block',
+                              width: '100%',
+                              padding: '8px 12px',
+                              textAlign: 'left',
+                              border: 0,
+                              background: 'transparent',
+                              color: 'var(--text-muted)',
+                              cursor: 'pointer',
+                              fontSize: 13,
+                            }}
+                          >
+                            Unassign
+                          </button>
+                          {flatNodeOrder.map((n) => (
+                            <button
+                              key={n.id}
+                              type="button"
+                              role="option"
+                              onClick={() => {
+                                updateQuestion(selectedQuestion.id, { syllabus_node_id: n.id });
+                                setNodeDropdownOpen(null);
+                              }}
+                              style={{
+                                display: 'block',
+                                width: '100%',
+                                padding: '8px 12px',
+                                paddingLeft: 12 + (n.depth ?? 0) * NODE_DROPDOWN_INDENT,
+                                textAlign: 'left',
+                                border: 0,
+                                background: selectedQuestion.syllabus_node_id === n.id ? 'var(--bg)' : 'transparent',
+                                color: 'var(--text)',
+                                cursor: 'pointer',
+                                fontSize: 13,
+                              }}
+                            >
+                              {n.title || '(Untitled)'}
+                            </button>
+                          ))}
+                        </div>
+                      )}
+                    </>
                   )}
                 </div>
                 <RubricForm

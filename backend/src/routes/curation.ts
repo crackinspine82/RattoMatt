@@ -8,6 +8,7 @@ import path from 'path';
 import fs from 'fs';
 import crypto from 'crypto';
 import { getPool } from '../db.js';
+import { getStructureImagesForItem } from '../services/curation-structure-images.js';
 import { requireCurationAuth } from './curation-auth.js';
 
 const ALLOWED_IMAGE_TYPES = new Set(['image/jpeg', 'image/png', 'image/gif', 'image/webp']);
@@ -70,6 +71,7 @@ type DraftQuestion = {
   id: string;
   chapter_id: string;
   syllabus_node_id: string | null;
+  question_group_id: string | null;
   question_text: string;
   question_type: string;
   discipline: string;
@@ -93,6 +95,12 @@ export default async function curationRoutes(app: FastifyInstance) {
        FROM curation_items c
        JOIN subjects s ON s.id = c.subject_id
        JOIN chapters ch ON ch.id = c.chapter_id
+       WHERE (
+         (c.content_type = 'structure' AND EXISTS (SELECT 1 FROM draft_syllabus_nodes d WHERE d.chapter_id = c.chapter_id))
+         OR (c.content_type = 'questions' AND EXISTS (SELECT 1 FROM draft_questions q WHERE q.chapter_id = c.chapter_id))
+         OR (c.content_type = 'revision_notes' AND EXISTS (SELECT 1 FROM draft_revision_note_blocks b WHERE b.chapter_id = c.chapter_id))
+         OR (c.content_type NOT IN ('structure', 'questions', 'revision_notes'))
+       )
        ORDER BY s.grade_level, s.name, ch.sequence_number, c.content_type`
     );
     const items = res.rows.map((r) => ({
@@ -505,47 +513,51 @@ export default async function curationRoutes(app: FastifyInstance) {
     const publishedIds = new Set(nodesRes.rows.map((r) => r.id));
     const noPublishedStructure = publishedIds.size === 0;
     const qRes = await pool.query<DraftQuestion & { rubric_version: number; rubric_json: unknown; ready_to_publish: boolean }>(
-      `SELECT q.id, q.chapter_id, q.syllabus_node_id, q.question_text, q.question_type, q.discipline, q.difficulty_level,
+      `SELECT q.id, q.chapter_id, q.syllabus_node_id, q.question_group_id, q.question_text, q.question_type, q.discipline, q.difficulty_level,
               q.answer_input_type, q.marks, q.source_type, q.model_answer_text, q.ready_to_publish, r.rubric_version, r.rubric_json
        FROM draft_questions q
        LEFT JOIN draft_rubrics r ON r.draft_question_id = q.id
        WHERE q.chapter_id = $1 ORDER BY q.id`,
       [chapterId]
     );
-    const questions = qRes.rows
-      .filter((r) => r.syllabus_node_id != null && publishedIds.has(r.syllabus_node_id))
-      .map((r) => ({
-        id: r.id,
-        chapter_id: r.chapter_id,
-        syllabus_node_id: r.syllabus_node_id,
-        question_text: r.question_text,
-        question_type: r.question_type,
-        discipline: r.discipline,
-        difficulty_level: r.difficulty_level,
-        answer_input_type: r.answer_input_type,
-        marks: r.marks,
-        source_type: r.source_type,
-        model_answer_text: r.model_answer_text,
-        ready_to_publish: r.ready_to_publish ?? false,
-        rubric: { rubric_version: r.rubric_version ?? 2, rubric_json: r.rubric_json ?? {} },
-      }));
-    const orphaned_questions = qRes.rows
-      .filter((r) => r.syllabus_node_id == null || !publishedIds.has(r.syllabus_node_id))
-      .map((r) => ({
-        id: r.id,
-        chapter_id: r.chapter_id,
-        syllabus_node_id: r.syllabus_node_id,
-        question_text: r.question_text,
-        question_type: r.question_type,
-        discipline: r.discipline,
-        difficulty_level: r.difficulty_level,
-        answer_input_type: r.answer_input_type,
-        marks: r.marks,
-        source_type: r.source_type,
-        model_answer_text: r.model_answer_text,
-        ready_to_publish: r.ready_to_publish ?? false,
-        rubric: { rubric_version: r.rubric_version ?? 2, rubric_json: r.rubric_json ?? {} },
-      }));
+    const questionIds = qRes.rows.map((r) => r.id);
+    const subPartRows = questionIds.length > 0
+      ? await pool.query<{ draft_question_id: string; sub_part_key: string; syllabus_node_id: string | null }>(
+          'SELECT draft_question_id, sub_part_key, syllabus_node_id FROM draft_question_sub_part_nodes WHERE draft_question_id = ANY($1::uuid[]) ORDER BY draft_question_id, sub_part_key',
+          [questionIds]
+        )
+      : { rows: [] };
+    const subPartByQuestion = new Map<string, Array<{ sub_part_key: string; syllabus_node_id: string }>>();
+    for (const row of subPartRows.rows) {
+      if (!subPartByQuestion.has(row.draft_question_id)) subPartByQuestion.set(row.draft_question_id, []);
+      if (row.syllabus_node_id) subPartByQuestion.get(row.draft_question_id)!.push({ sub_part_key: row.sub_part_key, syllabus_node_id: row.syllabus_node_id });
+    }
+    const withSubPart = (r: (typeof qRes.rows)[0]) => ({
+      id: r.id,
+      chapter_id: r.chapter_id,
+      syllabus_node_id: r.syllabus_node_id,
+      question_group_id: r.question_group_id ?? null,
+      question_text: r.question_text,
+      question_type: r.question_type,
+      discipline: r.discipline,
+      difficulty_level: r.difficulty_level,
+      answer_input_type: r.answer_input_type,
+      marks: r.marks,
+      source_type: r.source_type,
+      model_answer_text: r.model_answer_text,
+      ready_to_publish: r.ready_to_publish ?? false,
+      rubric: { rubric_version: r.rubric_version ?? 2, rubric_json: r.rubric_json ?? {} },
+      sub_part_nodes: subPartByQuestion.get(r.id) ?? undefined,
+    });
+    const isQuestionValid = (r: (typeof qRes.rows)[0]) => {
+      if (r.question_type === 'structured_essay') {
+        const nodes = subPartByQuestion.get(r.id) ?? [];
+        return nodes.length > 0 && nodes.some((n) => publishedIds.has(n.syllabus_node_id));
+      }
+      return r.syllabus_node_id != null && publishedIds.has(r.syllabus_node_id);
+    };
+    const questions = qRes.rows.filter(isQuestionValid).map(withSubPart);
+    const orphaned_questions = qRes.rows.filter((r) => !isQuestionValid(r)).map(withSubPart);
     return reply.send({ nodes: nodesRes.rows, questions, orphaned_questions, no_published_structure: noPublishedStructure });
   });
 
@@ -555,6 +567,8 @@ export default async function curationRoutes(app: FastifyInstance) {
       questions: Array<{
         id?: string;
         syllabus_node_id?: string | null;
+        question_group_id?: string | null;
+        sub_part_nodes?: Array<{ sub_part_key: string; syllabus_node_id: string }>;
         question_text: string;
         question_type: string;
         discipline: string;
@@ -572,6 +586,8 @@ export default async function curationRoutes(app: FastifyInstance) {
     const body = req.body as { questions?: Array<{
       id?: string;
       syllabus_node_id?: string | null;
+      question_group_id?: string | null;
+      sub_part_nodes?: Array<{ sub_part_key: string; syllabus_node_id: string }>;
       question_text: string;
       question_type: string;
       discipline: string;
@@ -614,13 +630,20 @@ export default async function curationRoutes(app: FastifyInstance) {
       const rubric = q.rubric || {};
       const rubricVersion = Number(rubric.rubric_version) || 2;
       const rubricJson = JSON.stringify(rubric.rubric_json || {});
-      const syllabusNodeId = q.syllabus_node_id && validNodeIds.has(q.syllabus_node_id) ? q.syllabus_node_id : null;
+      const isStructuredEssay = questionType === 'structured_essay';
+      const subPartNodes = Array.isArray(q.sub_part_nodes) ? q.sub_part_nodes : [];
+      const useSubPartNodes = isStructuredEssay && subPartNodes.length > 0;
+      const syllabusNodeId = useSubPartNodes ? null : (q.syllabus_node_id && validNodeIds.has(q.syllabus_node_id) ? q.syllabus_node_id : null);
+      const questionGroupId =
+        q.question_group_id != null && typeof q.question_group_id === 'string' && /^[0-9a-f-]{36}$/i.test(q.question_group_id)
+          ? q.question_group_id
+          : null;
 
       if (q.id && existingSet.has(q.id)) {
         await pool.query(
-          `UPDATE draft_questions SET syllabus_node_id = $1, question_text = $2, question_type = $3, discipline = $4, difficulty_level = $5, answer_input_type = $6, marks = $7, source_type = $8, model_answer_text = $9, ready_to_publish = $10
-           WHERE id = $11 AND chapter_id = $12`,
-          [syllabusNodeId, questionText, questionType, discipline, difficultyLevel, answerInputType, marks, sourceType, modelAnswerText, readyToPublish, q.id, chapterId]
+          `UPDATE draft_questions SET syllabus_node_id = $1, question_group_id = $2, question_text = $3, question_type = $4, discipline = $5, difficulty_level = $6, answer_input_type = $7, marks = $8, source_type = $9, model_answer_text = $10, ready_to_publish = $11
+           WHERE id = $12 AND chapter_id = $13`,
+          [syllabusNodeId, questionGroupId, questionText, questionType, discipline, difficultyLevel, answerInputType, marks, sourceType, modelAnswerText, readyToPublish, q.id, chapterId]
         );
         await pool.query(
           'UPDATE draft_rubrics SET rubric_version = $1, rubric_json = $2 WHERE draft_question_id = $3',
@@ -630,18 +653,39 @@ export default async function curationRoutes(app: FastifyInstance) {
         if (rCount.rows.length === 0) {
           await pool.query('INSERT INTO draft_rubrics (draft_question_id, rubric_version, rubric_json) VALUES ($1, $2, $3)', [q.id, rubricVersion, rubricJson]);
         }
+        await pool.query('DELETE FROM draft_question_sub_part_nodes WHERE draft_question_id = $1', [q.id]);
+        if (useSubPartNodes) {
+          for (const { sub_part_key, syllabus_node_id } of subPartNodes) {
+            if (['i', 'ii', 'iii'].includes(sub_part_key) && syllabus_node_id && validNodeIds.has(syllabus_node_id)) {
+              await pool.query(
+                'INSERT INTO draft_question_sub_part_nodes (draft_question_id, sub_part_key, syllabus_node_id) VALUES ($1, $2, $3)',
+                [q.id, sub_part_key, syllabus_node_id]
+              );
+            }
+          }
+        }
         payloadIds.push(q.id);
       } else {
         const ins = await pool.query<{ id: string }>(
-          `INSERT INTO draft_questions (chapter_id, syllabus_node_id, question_text, question_type, discipline, difficulty_level, answer_input_type, marks, source_type, model_answer_text, ready_to_publish)
-           VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11) RETURNING id`,
-          [chapterId, syllabusNodeId, questionText, questionType, discipline, difficultyLevel, answerInputType, marks, sourceType, modelAnswerText, readyToPublish]
+          `INSERT INTO draft_questions (chapter_id, syllabus_node_id, question_group_id, question_text, question_type, discipline, difficulty_level, answer_input_type, marks, source_type, model_answer_text, ready_to_publish)
+           VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12) RETURNING id`,
+          [chapterId, syllabusNodeId, questionGroupId, questionText, questionType, discipline, difficultyLevel, answerInputType, marks, sourceType, modelAnswerText, readyToPublish]
         );
         const draftQuestionId = ins.rows[0].id;
         await pool.query(
           'INSERT INTO draft_rubrics (draft_question_id, rubric_version, rubric_json) VALUES ($1, $2, $3)',
           [draftQuestionId, rubricVersion, rubricJson]
         );
+        if (useSubPartNodes) {
+          for (const { sub_part_key, syllabus_node_id } of subPartNodes) {
+            if (['i', 'ii', 'iii'].includes(sub_part_key) && syllabus_node_id && validNodeIds.has(syllabus_node_id)) {
+              await pool.query(
+                'INSERT INTO draft_question_sub_part_nodes (draft_question_id, sub_part_key, syllabus_node_id) VALUES ($1, $2, $3)',
+                [draftQuestionId, sub_part_key, syllabus_node_id]
+              );
+            }
+          }
+        }
         payloadIds.push(draftQuestionId);
       }
     }
@@ -675,15 +719,29 @@ export default async function curationRoutes(app: FastifyInstance) {
     );
     const publishedIds = new Set(nodesRes.rows.map((r) => r.id));
     const qRes = await pool.query<DraftQuestion & { rubric_version: number; rubric_json: unknown; ready_to_publish: boolean }>(
-      `SELECT q.id, q.chapter_id, q.syllabus_node_id, q.question_text, q.question_type, q.discipline, q.difficulty_level,
+      `SELECT q.id, q.chapter_id, q.syllabus_node_id, q.question_group_id, q.question_text, q.question_type, q.discipline, q.difficulty_level,
               q.answer_input_type, q.marks, q.source_type, q.model_answer_text, q.ready_to_publish, r.rubric_version, r.rubric_json
        FROM draft_questions q LEFT JOIN draft_rubrics r ON r.draft_question_id = q.id WHERE q.chapter_id = $1 ORDER BY q.id`,
       [chapterId]
     );
-    const out = qRes.rows.map((r) => ({
+    const putQuestionIds = qRes.rows.map((r) => r.id);
+    const putSubPartRows = putQuestionIds.length > 0
+      ? await pool.query<{ draft_question_id: string; sub_part_key: string; syllabus_node_id: string | null }>(
+          'SELECT draft_question_id, sub_part_key, syllabus_node_id FROM draft_question_sub_part_nodes WHERE draft_question_id = ANY($1::uuid[]) ORDER BY draft_question_id, sub_part_key',
+          [putQuestionIds]
+        )
+      : { rows: [] };
+    const putSubPartByQuestion = new Map<string, Array<{ sub_part_key: string; syllabus_node_id: string }>>();
+    for (const row of putSubPartRows.rows) {
+      if (!putSubPartByQuestion.has(row.draft_question_id)) putSubPartByQuestion.set(row.draft_question_id, []);
+      if (row.syllabus_node_id) putSubPartByQuestion.get(row.draft_question_id)!.push({ sub_part_key: row.sub_part_key, syllabus_node_id: row.syllabus_node_id });
+    }
+    const putWithSubPart = (r: (typeof qRes.rows)[0]) => ({
       id: r.id,
       chapter_id: r.chapter_id,
       syllabus_node_id: r.syllabus_node_id,
+      question_group_id: r.question_group_id ?? null,
+      sub_part_nodes: putSubPartByQuestion.get(r.id) ?? undefined,
       question_text: r.question_text,
       question_type: r.question_type,
       discipline: r.discipline,
@@ -694,9 +752,16 @@ export default async function curationRoutes(app: FastifyInstance) {
       model_answer_text: r.model_answer_text,
       ready_to_publish: r.ready_to_publish ?? false,
       rubric: { rubric_version: r.rubric_version ?? 2, rubric_json: r.rubric_json ?? {} },
-    }));
-    const questionsOut = out.filter((r) => r.syllabus_node_id != null && publishedIds.has(r.syllabus_node_id));
-    const orphaned_questions = out.filter((r) => r.syllabus_node_id == null || !publishedIds.has(r.syllabus_node_id));
+    });
+    const putIsQuestionValid = (r: (typeof qRes.rows)[0]) => {
+      if (r.question_type === 'structured_essay') {
+        const nodes = putSubPartByQuestion.get(r.id) ?? [];
+        return nodes.length > 0 && nodes.some((n) => publishedIds.has(n.syllabus_node_id));
+      }
+      return r.syllabus_node_id != null && publishedIds.has(r.syllabus_node_id);
+    };
+    const questionsOut = qRes.rows.filter(putIsQuestionValid).map(putWithSubPart);
+    const orphaned_questions = qRes.rows.filter((r) => !putIsQuestionValid(r)).map(putWithSubPart);
     return reply.send({ nodes: nodesRes.rows, questions: questionsOut, orphaned_questions });
   });
 
@@ -719,6 +784,75 @@ export default async function curationRoutes(app: FastifyInstance) {
       );
       if (up.rowCount === 0) return reply.status(404).send({ error: 'Question not found' });
       return reply.send({ question_id: questionId, ready_to_publish: readyToPublish });
+    }
+  );
+
+  /** Pair current question with another (same node or subnodes). Body: { pair_with_question_id: string }. Sets both to same question_group_id. */
+  app.patch<{ Params: { id: string; questionId: string }; Body: { pair_with_question_id: string } }>(
+    '/curation/items/:id/questions/:questionId/group',
+    async (req: FastifyRequest<{ Params: { id: string; questionId: string }; Body: { pair_with_question_id: string } }>, reply: FastifyReply) => {
+      const { id: itemId, questionId } = req.params;
+      const pairWithId = (req.body as { pair_with_question_id?: string } | null)?.pair_with_question_id?.trim();
+      if (!pairWithId) return reply.status(400).send({ error: 'pair_with_question_id required' });
+      const pool = getPool();
+      const itemRes = await pool.query<{ chapter_id: string; content_type: string }>(
+        'SELECT chapter_id, content_type FROM curation_items WHERE id = $1',
+        [itemId]
+      );
+      if (itemRes.rows.length === 0) return reply.status(404).send({ error: 'Curation item not found' });
+      if (itemRes.rows[0].content_type !== 'questions') return reply.status(400).send({ error: 'Not a questions item' });
+      const chapterId = itemRes.rows[0].chapter_id;
+      const nodesRes = await pool.query<{ id: string; parent_id: string | null }>(
+        'SELECT id, parent_id FROM syllabus_nodes WHERE chapter_id = $1',
+        [chapterId]
+      );
+      const childrenOf = new Map<string, string[]>();
+      for (const r of nodesRes.rows) {
+        if (r.parent_id) {
+          const list = childrenOf.get(r.parent_id) ?? [];
+          list.push(r.id);
+          childrenOf.set(r.parent_id, list);
+        }
+      }
+      function collectDescendants(nid: string): Set<string> {
+        const set = new Set<string>([nid]);
+        const stack = [nid];
+        while (stack.length > 0) {
+          for (const c of childrenOf.get(stack.pop()!) ?? []) {
+            set.add(c);
+            stack.push(c);
+          }
+        }
+        return set;
+      }
+      const qRows = await pool.query<{ id: string; syllabus_node_id: string | null }>(
+        'SELECT id, syllabus_node_id FROM draft_questions WHERE chapter_id = $1 AND id IN ($2, $3)',
+        [chapterId, questionId, pairWithId]
+      );
+      if (qRows.rows.length !== 2) return reply.status(404).send({ error: 'One or both questions not found in this chapter' });
+      const current = qRows.rows.find((r) => r.id === questionId);
+      const partner = qRows.rows.find((r) => r.id === pairWithId);
+      if (!current || !partner) return reply.status(404).send({ error: 'Question not found' });
+      const currentNodeId = current.syllabus_node_id;
+      const partnerNodeId = partner.syllabus_node_id;
+      if (!currentNodeId || !partnerNodeId) return reply.status(400).send({ error: 'Both questions must have a syllabus node' });
+      const currentDesc = collectDescendants(currentNodeId);
+      const partnerDesc = collectDescendants(partnerNodeId);
+      const sameNodeOrSubnode =
+        currentDesc.has(partnerNodeId) || partnerDesc.has(currentNodeId) || currentNodeId === partnerNodeId;
+      if (!sameNodeOrSubnode) return reply.status(400).send({ error: 'Partner question must be from the same node or its subnodes' });
+      const existingGroup = await pool.query<{ question_group_id: string | null }>(
+        'SELECT question_group_id FROM draft_questions WHERE id = $1',
+        [pairWithId]
+      );
+      const groupId = (existingGroup.rows[0]?.question_group_id?.trim() && /^[0-9a-f-]{36}$/i.test(existingGroup.rows[0].question_group_id!))
+        ? existingGroup.rows[0].question_group_id!
+        : crypto.randomUUID();
+      await pool.query(
+        'UPDATE draft_questions SET question_group_id = $1 WHERE id IN ($2, $3) AND chapter_id = $4',
+        [groupId, questionId, pairWithId, chapterId]
+      );
+      return reply.send({ question_id: questionId, pair_with_question_id: pairWithId, question_group_id: groupId });
     }
   );
 
@@ -819,29 +953,9 @@ export default async function curationRoutes(app: FastifyInstance) {
   app.get<{ Params: { id: string } }>('/curation/items/:id/structure-images', async (req: FastifyRequest<{ Params: { id: string } }>, reply: FastifyReply) => {
     const pool = getPool();
     const { id: itemId } = req.params;
-    const itemRes = await pool.query<{ chapter_id: string }>('SELECT chapter_id FROM curation_items WHERE id = $1', [itemId]);
-    if (itemRes.rows.length === 0) return reply.status(404).send({ error: 'Curation item not found' });
-    const chapterId = itemRes.rows[0].chapter_id;
-    const imagesRes = await pool.query<{ id: string; slug: string }>(
-      'SELECT id, slug FROM curation_chapter_images WHERE chapter_id = $1 ORDER BY created_at ASC',
-      [chapterId]
-    );
-    const imageIds = imagesRes.rows.map((r) => r.id);
-    if (imageIds.length === 0) return reply.send({ structure_images: [] });
-    const nodeRes = await pool.query<{ image_id: string; published_id: string }>(
-      `SELECT n.image_id, d.published_syllabus_node_id AS published_id
-       FROM curation_chapter_image_nodes n
-       JOIN draft_syllabus_nodes d ON d.id = n.node_id AND d.chapter_id = $1
-       WHERE d.published_syllabus_node_id IS NOT NULL AND n.image_id = ANY($2::uuid[])`,
-      [chapterId, imageIds]
-    );
-    const nodesByImage: Record<string, string[]> = {};
-    for (const r of nodeRes.rows) {
-      if (!nodesByImage[r.image_id]) nodesByImage[r.image_id] = [];
-      nodesByImage[r.image_id].push(r.published_id);
-    }
-    const structure_images = imagesRes.rows.map((r) => ({ slug: r.slug, node_ids: nodesByImage[r.id] ?? [] }));
-    return reply.send({ structure_images });
+    const result = await getStructureImagesForItem(pool, itemId);
+    if (result === null) return reply.status(404).send({ error: 'Curation item not found' });
+    return reply.send(result);
   });
 
   app.patch<{ Params: { imageId: string }; Body: { node_ids?: string[] } }>(

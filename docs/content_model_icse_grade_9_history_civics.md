@@ -10,7 +10,7 @@ History and Civics are modeled under a single subject.
 Hierarchy:
 Board -> Grade -> Subject (History & Civics) -> Chapter -> Syllabus nodes (tree, unlimited depth) -> Question
 
-Syllabus nodes use level_label by depth: Section (0), Topic (1), Subtopic (2), Point (3), Sub-point (4+). Notes are stored as note_blocks per node (multiple blocks per node). Questions link to syllabus_node_id. Mastery is stored at leaf nodes only and aggregated upward.
+Syllabus nodes use level_label by depth: Section (0), Topic (1), Subtopic (2), Point (3), Sub-point (4+). Notes are stored as note_blocks per node (multiple blocks per node). Questions link to syllabus_node_id; **structured_essay** questions can additionally have per-sub-part node mapping via **question_sub_part_nodes** (sub_part_key i/ii/iii → syllabus_node_id) so (i), (ii), (iii) map to different nodes for future per-sub-part mastery. Mastery is stored at leaf nodes only and aggregated upward.
 
 Paper templates can define sections, but sections are not DB entities.
 
@@ -125,42 +125,65 @@ Answer input types:
 - **Model answers and answer keys** should include: Article numbers, correct designations (e.g. President, Lok Sabha), and optional “current applicability” (e.g. real examples of rights).
 - **Spelling/terminology:** Legal and constitutional terms (e.g. “Directive Principles”, “Writ”, “Federalism”) are especially important; treat them as keywords in penalties and semantic guardrails.
 
-### Type A: Standard Structured Question (Any X of Y) – History example
+### Type A: Structured Essay (3 sub-parts, 3+3+4) – History example
+Structured essays have exactly three sub-questions (i), (ii), (iii) and total 10 marks (e.g. 3+3+4 or 2+4+4). The rubric has **one block per sub-part**, each with `sub_part_key`, `marks`, `selection` (any X of Y), and multiple `criteria` whose scores sum to that part's marks.
 ```json
 {
   "rubric_version": 2,
-  "total_marks": 3,
+  "total_marks": 10,
   "question_type": "structured_essay",
   "difficulty_level": 2,
   "difficulty_tag": "medium",
   "answer_input_type": "typed",
   "blocks": [
     {
-      "id": "objectives_muslim_league",
-      "label": "Objectives of Muslim League (Any 3)",
+      "id": "part_i",
+      "sub_part_key": "i",
+      "marks": 3,
+      "label": "Sub-part (i) – Causes (Any 3)",
       "selection": { "min": 3, "max": 3 },
       "match_mode": "semantic",
       "criteria": [
-        { "id": "loyalty", "keywords": ["loyalty to British"], "score": 1 },
-        { "id": "rights", "keywords": ["protect political rights", "Muslim interests"], "score": 1 },
-        { "id": "hostility", "keywords": ["prevent hostility", "inter-communal harmony"], "score": 1 },
-        { "id": "misconceptions", "keywords": ["remove misconceptions"], "score": 1 }
-      ],
-      "semantic_guardrails": { "must_map_to_criteria": true }
-    }
-  ],
-  "penalties": [
+        { "id": "economic", "keywords": ["economic exploitation", "drain of wealth"], "score": 1 },
+        { "id": "political", "keywords": ["political domination", "British rule"], "score": 1 },
+        { "id": "social", "keywords": ["social reforms", "western education"], "score": 1 },
+        { "id": "religious", "keywords": ["religious interference", "missionaries"], "score": 1 }
+      ]
+    },
     {
-      "id": "spelling_all_subjects",
-      "type": "deduction",
-      "max_deduction": 0.5,
-      "apply_if": { "spelling_errors": { "gte": 2 } }
+      "id": "part_ii",
+      "sub_part_key": "ii",
+      "marks": 3,
+      "label": "Sub-part (ii) – Features (Any 3)",
+      "selection": { "min": 3, "max": 3 },
+      "match_mode": "semantic",
+      "criteria": [
+        { "id": "feature1", "keywords": ["key phrase 1"], "score": 1 },
+        { "id": "feature2", "keywords": ["key phrase 2"], "score": 1 },
+        { "id": "feature3", "keywords": ["key phrase 3"], "score": 1 },
+        { "id": "feature4", "keywords": ["key phrase 4"], "score": 1 }
+      ]
+    },
+    {
+      "id": "part_iii",
+      "sub_part_key": "iii",
+      "marks": 4,
+      "label": "Sub-part (iii) – Significance (Any 4)",
+      "selection": { "min": 4, "max": 4 },
+      "match_mode": "semantic",
+      "criteria": [
+        { "id": "sig1", "keywords": ["significance point 1"], "score": 1 },
+        { "id": "sig2", "keywords": ["significance point 2"], "score": 1 },
+        { "id": "sig3", "keywords": ["significance point 3"], "score": 1 },
+        { "id": "sig4", "keywords": ["significance point 4"], "score": 1 },
+        { "id": "sig5", "keywords": ["significance point 5"], "score": 1 }
+      ]
     }
   ],
   "scoring_rules": {
     "allow_partial": true,
     "partial_increment": 0.5,
-    "max_score_cap": 3
+    "max_score_cap": 10
   }
 }
 ```

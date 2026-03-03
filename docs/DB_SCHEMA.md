@@ -354,3 +354,38 @@ CREATE TABLE audit_events (
   created_at TIMESTAMPTZ DEFAULT CURRENT_TIMESTAMP
 );
 ```
+
+## 11) Curation – Chapter images
+
+Chapter-scoped images for picture study and visual scenario questions. One list per chapter; each image has a slug (unique per chapter) and optional syllabus node assignments. The question-bank generator (with `--from-db`) uses `GET /curation/items/:id/structure-images` to get slug + published node IDs.
+
+**Full curation schema** (draft tables, curation_items) lives in backend migrations (e.g. `backend/scripts/schema-mvp1.sql`, `backend/scripts/schema-migration-chapter-images.sql`). Run `npm run migration:chapter-images` from `backend/` to create these tables.
+
+```sql
+CREATE TABLE curation_chapter_images (
+  id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+  chapter_id UUID NOT NULL REFERENCES chapters(id) ON DELETE CASCADE,
+  url TEXT NOT NULL,
+  filename TEXT,
+  slug TEXT NOT NULL,
+  slug_locked BOOLEAN NOT NULL DEFAULT true,
+  created_at TIMESTAMPTZ DEFAULT CURRENT_TIMESTAMP,
+  updated_at TIMESTAMPTZ DEFAULT CURRENT_TIMESTAMP,
+  UNIQUE(chapter_id, slug)
+);
+
+CREATE TABLE curation_chapter_image_nodes (
+  image_id UUID NOT NULL REFERENCES curation_chapter_images(id) ON DELETE CASCADE,
+  node_id UUID NOT NULL REFERENCES draft_syllabus_nodes(id) ON DELETE CASCADE,
+  PRIMARY KEY (image_id, node_id)
+);
+```
+
+## 12) Curation – Per-sub-part syllabus nodes (structured_essay)
+
+For **structured_essay** questions, sub-parts (i), (ii), (iii) can each map to a different syllabus node (e.g. Events at Meerut, Delhi, Lucknow). This enables per-sub-part mastery when that logic is added.
+
+**Tables** (see `backend/scripts/schema-migration-question-sub-part-nodes.sql`; run `npm run migration:question-sub-part-nodes` from `backend/`):
+
+- **draft_question_sub_part_nodes:** `draft_question_id`, `sub_part_key` (CHECK IN ('i','ii','iii')), `syllabus_node_id`. One row per sub-part per draft question. When present, the draft question’s `syllabus_node_id` is typically null.
+- **question_sub_part_nodes:** `question_id`, `sub_part_key`, `syllabus_node_id`. Published side; copied from draft on publish. PDFs and app read from `questions` + `question_sub_part_nodes` when needed.

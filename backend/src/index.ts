@@ -9,6 +9,9 @@ import subjectsRoutes from './routes/subjects.js';
 import remindersRoutes from './routes/reminders.js';
 import curationAuthRoutes from './routes/curation-auth.js';
 import curationRoutes from './routes/curation.js';
+import adminAuthRoutes from './routes/admin-auth.js';
+import adminRoutes from './routes/admin.js';
+import { startAdminJobWorker } from './services/admin-job-worker.js';
 
 const app = Fastify({ logger: true });
 
@@ -22,7 +25,11 @@ await app.register(subjectsRoutes);
 await app.register(remindersRoutes);
 await app.register(curationAuthRoutes);
 await app.register(curationRoutes);
+await app.register(adminAuthRoutes);
+await app.register(adminRoutes);
 
 const port = parseInt(process.env.PORT ?? '3000', 10);
 await app.listen({ port, host: '0.0.0.0' });
 console.log(`API listening on http://localhost:${port}`);
+
+startAdminJobWorker();

@@ -14,12 +14,14 @@ This repository uses a layered documentation structure:
 - `docs/content_model_icse_grade_9_history_civics.md`: subject content model
   (ICSE Grade 10 History & Civics).
 - `docs/PAPER_TEMPLATE_ENGINE.md`: admin template engine rules.
- - `docs/RAPIDFIRE_RULES.md`: RapidFire session rules.
- - `docs/student_journeys.md`: student journeys and handoff flow.
- - `docs/DB_SCHEMA.md`: Postgres DDL for MVP1.
- - `docs/ADMIN_UPLOAD_SCHEMA.md`: chapter-wise XLSX schema.
- - `docs/API_SPEC_MVP1.md`: MVP1 API endpoints.
- - `docs/DATA_INTAKE_STRATEGY.md`: content intake workflow.
+- `docs/RAPIDFIRE_RULES.md`: RapidFire session rules.
+- `docs/student_journeys.md`: student journeys and handoff flow.
+- `docs/DB_SCHEMA.md`: Postgres DDL for MVP1 (includes curation chapter images §11).
+- `docs/ADMIN_UPLOAD_SCHEMA.md`: chapter-wise XLSX schema.
+- `docs/API_SPEC_MVP1.md`: MVP1 API endpoints.
+- `docs/DATA_INTAKE_STRATEGY.md`: content intake workflow.
+- **Curation:** `docs/CURATION_SYSTEM.md` (design), `docs/CURATION_SPEC.md` (implementation: per-question ready, chapter images, rubric UI), `docs/ADD_NEW_CHAPTER_CURATION.md` (how to add a chapter), `docs/QUESTION_BANK_GENERATION.md` (strategy, structure-images API).
+- `docs/TARGET_ARCHITECTURE_REVISION_QUESTIONS.md`: revision notes and questions linked to published structure; chapter images.
  - `docs/flows/parent_flows.mmd`: Mermaid parent flows.
  - `docs/flows/student_flows.mmd`: Mermaid student flows.
  - `docs/flows/admin_flows.mmd`: Mermaid admin flows.

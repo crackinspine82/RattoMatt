@@ -2,6 +2,8 @@
 
 **Principle:** Backend APIs and mobile integration in parallel; one critical path; minimal viable implementation per feature; reuse existing script/schema/screens.
 
+**Curation (already in place):** The curation app includes chapter images (upload, slug from filename, assign nodes), SME-friendly rubric labels (subject-specific), per-question syllabus node reassignment, and Questions/Structure/Revision Notes/Images editors. Question-bank generator uses `--from-db` and the structure-images API when `CURATION_API_TOKEN` is set. See `docs/CURATION_SPEC.md`, `docs/ADD_NEW_CHAPTER_CURATION.md`.
+
 ---
 
 ## Critical Path (Order of Delivery)

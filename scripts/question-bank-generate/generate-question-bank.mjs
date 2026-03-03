@@ -9,7 +9,7 @@
  *   DB:   node generate-question-bank.mjs --from-db (--chapter-id=uuid | --grade=N --book=... --chapter=N --discipline=history) [--pages=N] [--out-dir=out]
  * Options:
  *   --structure-images-dir=path — folder of chapter structure images (only when not using --from-db). Default: Books/ICSE/{grade}/HistoryCivics/{book}/Ch{N}_{discipline}_images.
- *   With --from-db: 60%% within-structure images come from the curation API (GET /curation/items/:id/structure-images). Set CURATION_API_TOKEN and optionally CURATION_API_URL (default http://localhost:3000). If the API call fails, the run aborts.
+ *   With --from-db: 60%% within-structure images come from the API. Set ADMIN_API_TOKEN (preferred; uses GET /admin/curation/items/:id/structure-images) or CURATION_API_TOKEN (GET /curation/items/:id/structure-images), and optionally CURATION_API_URL (default http://localhost:3000). If the API call fails, the run aborts.
  *   --resume — load existing output, generate only missing questions per (type, difficulty), merge and overwrite. When set, concurrency is capped at 2.
  *   --only-types=picture_study_linked,mcq_visual_scenario — load existing output, remove those types, generate only those types, merge back.
  *   --concurrency=N — run up to N plan entries in parallel (default 4; with --resume, max 2).
@@ -27,14 +27,22 @@ const ROOT = path.resolve(__dirname, '../..');
 
 // Load .env from script dir, then repo root, then sibling script folders that may have GEMINI_API_KEY
 dotenv.config({ path: path.join(__dirname, '.env') });
-// Load backend .env for DATABASE_URL when using --from-db
+// Load backend .env for DATABASE_URL, CURATION_API_* when using --from-db. Backend wins for these keys (avoids shell/env overrides).
+const BACKEND_ENV_KEYS = ['DATABASE_URL', 'CURATION_API_URL', 'CURATION_API_TOKEN', 'ADMIN_API_TOKEN'];
+function trimEnvValue(v) {
+  return v.replace(/\s*#.*$/, '').replace(/^["']|["']$/g, '').trim();
+}
 try {
   const backendEnv = path.join(ROOT, 'backend', '.env');
   if (fs.existsSync(backendEnv)) {
     const lines = fs.readFileSync(backendEnv, 'utf8').split('\n');
     for (const line of lines) {
       const m = line.match(/^\s*([A-Za-z_][A-Za-z0-9_]*)\s*=\s*(.*)$/);
-      if (m && !process.env[m[1]]) process.env[m[1]] = m[2].replace(/^["']|["']$/g, '').trim();
+      if (!m) continue;
+      const key = m[1];
+      const value = trimEnvValue(m[2]);
+      if (BACKEND_ENV_KEYS.includes(key)) process.env[key] = value;
+      else if (!process.env[key]) process.env[key] = value;
     }
   }
 } catch (_) {}
@@ -143,6 +151,19 @@ function progressBar(current, total, width = 24) {
 }
 
 /**
+ * If question text looks like plain text (no block HTML), wrap each line in <p> for WYSIWYG display.
+ * Used for MCQ question_text so the editor shows options as separate blocks.
+ */
+function ensureMcqQuestionTextHtml(questionText) {
+  if (!questionText || typeof questionText !== 'string') return questionText;
+  const t = questionText.trim();
+  if (/<p[\s>]/.test(t) || /<table[\s>]/.test(t)) return questionText;
+  const lines = t.split(/\r?\n/).map((s) => s.trim()).filter(Boolean);
+  if (lines.length === 0) return questionText;
+  return lines.map((line) => `<p>${line.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')}</p>`).join('');
+}
+
+/**
  * Parse (a), (b), (c), (d) options from question text. Returns array of { letter, text } in order a,b,c,d.
  */
 function parseMcqOptionsFromText(questionText) {
@@ -194,6 +215,204 @@ function ensureMcqOptionsInRubric(questionText, rubric, questionType) {
   }));
 
   return { ...rubric, blocks: [{ type: 'options', options }] };
+}
+
+/**
+ * For structured_essay and picture_study_linked: ensure rubric has exactly three blocks with sub_part_key i/ii/iii and marks.
+ * If the model returns 1 block (or 0), expand to 3 blocks so the UI and grading can work; SME can edit.
+ */
+function ensureStructuredEssayThreeBlocks(rubric) {
+  if (!rubric || typeof rubric !== 'object') return rubric;
+  const qt = (rubric.question_type || '').toString();
+  if (qt !== 'structured_essay' && qt !== 'picture_study_linked') return rubric;
+
+  const blocks = Array.isArray(rubric.blocks) ? rubric.blocks : [];
+  if (blocks.length === 3) {
+    return {
+      ...rubric,
+      blocks: blocks.map((b, i) => {
+        const key = ['i', 'ii', 'iii'][i];
+        const marks = typeof (b.marks ?? b.max_marks) === 'number' ? (b.marks ?? b.max_marks) : [3, 3, 4][i];
+        let out = { ...b, sub_part_key: b.sub_part_key ?? key, marks };
+        if (qt === 'picture_study_linked') {
+          out.match_mode = 'semantic';
+          const n = Math.min(marks, 4);
+          if (!out.selection || typeof out.selection !== 'object') {
+            out.selection = { min: n, max: n };
+          }
+          const criteria = Array.isArray(out.criteria) ? out.criteria : [];
+          if (criteria.length === 0) {
+            out.criteria = [{ id: 'point_' + key, keywords: [], score: marks }];
+          }
+        }
+        return out;
+      }),
+    };
+  }
+
+  const defaultMarks = [3, 3, 4];
+  const first = blocks[0] && typeof blocks[0] === 'object' ? blocks[0] : null;
+
+  const newBlocks = [];
+  for (let i = 0; i < 3; i++) {
+    const key = ['i', 'ii', 'iii'][i];
+    const marks = defaultMarks[i];
+    if (blocks[i] && typeof blocks[i] === 'object') {
+      newBlocks.push({
+        ...blocks[i],
+        sub_part_key: blocks[i].sub_part_key ?? key,
+        marks: typeof (blocks[i].marks ?? blocks[i].max_marks) === 'number' ? (blocks[i].marks ?? blocks[i].max_marks) : marks,
+      });
+    } else if (first) {
+      const baseCriteria = Array.isArray(first.criteria) ? first.criteria.map((c) => ({ ...c })) : [];
+      newBlocks.push({
+        id: (first.id || 'part') + '_' + key,
+        label: (first.label || 'Sub-part') + ' (' + key + ')',
+        sub_part_key: key,
+        marks,
+        selection: first.selection && typeof first.selection === 'object' ? { ...first.selection } : { min: Math.min(marks, 3), max: Math.min(marks, 3) },
+        match_mode: first.match_mode ?? 'semantic',
+        criteria: baseCriteria.length ? baseCriteria.map((c, ci) => ({ ...c, id: (c.id || 'c' + ci) + '_' + key })) : [{ id: 'point_' + key, keywords: [], score: marks }],
+      });
+    } else {
+      newBlocks.push({
+        id: 'part_' + key,
+        label: 'Sub-part (' + key + ')',
+        sub_part_key: key,
+        marks,
+        selection: { min: Math.min(marks, 3), max: Math.min(marks, 3) },
+        match_mode: 'semantic',
+        criteria: [{ id: 'point_' + key, keywords: [], score: marks }],
+      });
+    }
+  }
+  return { ...rubric, blocks: newBlocks };
+}
+
+/** ICSE board-style word count ranges (research-based). Used for prompt guidance and post-parse warning only. */
+const WORD_COUNT_RANGES = {
+  mcq_standard: { min: 15, max: 25 },
+  mcq_odd_one_out: { min: 15, max: 25 },
+  mcq_chronology_sequence: { min: 15, max: 25 },
+  mcq_relationship_analogy: { min: 15, max: 25 },
+  mcq_visual_scenario: { min: 15, max: 25 },
+  mcq_assertion_reason: { min: 60, max: 80 },
+  mcq_logic_table: { min: 60, max: 80 },
+  mcq_source_connection: { min: 55, max: 120 },
+  short_answer: { min: 10, max: 25 },
+  deductive_application: { min: 15, max: 25 },
+  short_source_interpretation: { min: 50, max: 90 },
+  source_passage_analysis: { min: 80, max: 220 },
+};
+const WORD_COUNT_STRUCTURED = { intro: { min: 15, max: 25 }, subPart: { min: 10, max: 20 } };
+
+function countWords(text) {
+  if (!text || typeof text !== 'string') return 0;
+  return text.trim().split(/\s+/).filter(Boolean).length;
+}
+
+/**
+ * Parse question_text into intro and (i)/(ii)/(iii) segments. Returns { intro, parts: [i, ii, iii] } or null.
+ */
+function parseStructuredQuestionText(text) {
+  if (!text || typeof text !== 'string') return null;
+  const normalized = text.replace(/\s+/g, ' ').trim();
+  const iIdx = normalized.search(/\s*\(\s*i\s*\)\s*/i);
+  if (iIdx < 0) return null;
+  const intro = normalized.slice(0, iIdx).trim();
+  const afterIntro = normalized.slice(iIdx);
+  const parts = [];
+  const re = /\s*\(\s*(iii|ii|i)\s*\)\s*/gi;
+  let lastIndex = 0;
+  let m;
+  while ((m = re.exec(afterIntro)) !== null) {
+    if (lastIndex > 0) parts.push(afterIntro.slice(lastIndex, m.index).trim());
+    lastIndex = m.index + m[0].length;
+  }
+  if (lastIndex > 0) parts.push(afterIntro.slice(lastIndex).trim());
+  if (parts.length < 3) return null;
+  return { intro, parts: parts.slice(0, 3) };
+}
+
+function escapeHtml(s) {
+  if (typeof s !== 'string') return '';
+  return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+}
+
+/**
+ * Ensure structured_essay question_text is HTML with <p> blocks for WYSIWYG (intro + one <p> per (i)/(ii)/(iii)).
+ */
+function ensureStructuredEssayQuestionTextHtml(questionText) {
+  if (!questionText || typeof questionText !== 'string') return questionText;
+  const t = questionText.trim();
+  if (/<p[\s>]/.test(t)) return questionText;
+  const parsed = parseStructuredQuestionText(questionText);
+  if (!parsed) {
+    const lines = t.split(/\r?\n/).map((s) => s.trim()).filter(Boolean);
+    if (lines.length === 0) return questionText;
+    return lines.map((line) => `<p>${escapeHtml(line)}</p>`).join('');
+  }
+  const { intro, parts } = parsed;
+  const labels = ['(i)', '(ii)', '(iii)'];
+  const out = [];
+  if (intro) out.push(`<p>${escapeHtml(intro)}</p>`);
+  for (let i = 0; i < 3; i++) out.push(`<p>${escapeHtml(labels[i] + ' ' + (parts[i] || ''))}</p>`);
+  return out.join('');
+}
+
+/**
+ * Ensure structured_essay model_answer_text is HTML with <p> blocks (one per sub-part or per line).
+ */
+function ensureStructuredEssayModelAnswerHtml(modelAnswerText) {
+  if (!modelAnswerText || typeof modelAnswerText !== 'string') return modelAnswerText;
+  const t = modelAnswerText.trim();
+  if (/<p[\s>]/.test(t)) return modelAnswerText;
+  const parsed = parseStructuredQuestionText(modelAnswerText);
+  if (!parsed) {
+    const lines = t.split(/\r?\n/).map((s) => s.trim()).filter(Boolean);
+    if (lines.length === 0) return modelAnswerText;
+    return lines.map((line) => `<p>${escapeHtml(line)}</p>`).join('');
+  }
+  const { intro, parts } = parsed;
+  const labels = ['(i)', '(ii)', '(iii)'];
+  const out = [];
+  if (intro) out.push(`<p>${escapeHtml(intro)}</p>`);
+  for (let i = 0; i < 3; i++) out.push(`<p>${escapeHtml(labels[i] + ' ' + (parts[i] || ''))}</p>`);
+  return out.join('');
+}
+
+/**
+ * Returns a warning string if question_text is outside research-based word count for the type; null otherwise.
+ * Log a warning and still accept the question (called after push).
+ */
+function getWordCountWarning(questionType, questionText) {
+  if (!questionType || !questionText) return null;
+  const type = String(questionType).toLowerCase();
+
+  if (type === 'structured_essay' || type === 'picture_study_linked') {
+    const parsed = parseStructuredQuestionText(questionText);
+    if (!parsed) return null;
+    const { intro, parts } = parsed;
+    const introW = countWords(intro);
+    const ri = WORD_COUNT_STRUCTURED.intro;
+    if (introW < ri.min || introW > ri.max) {
+      return `[word count] ${type}: intro expected ${ri.min}-${ri.max} words, got ${introW}: "${intro.slice(0, 50)}..."`;
+    }
+    const rp = WORD_COUNT_STRUCTURED.subPart;
+    for (let i = 0; i < parts.length; i++) {
+      const w = countWords(parts[i]);
+      if (w < rp.min || w > rp.max) {
+        return `[word count] ${type}: sub-part (${['i', 'ii', 'iii'][i]}) expected ${rp.min}-${rp.max} words, got ${w}`;
+      }
+    }
+    return null;
+  }
+
+  const range = WORD_COUNT_RANGES[type];
+  if (!range) return null;
+  const w = countWords(questionText);
+  if (w >= range.min && w <= range.max) return null;
+  return `[word count] ${type}: expected ${range.min}-${range.max} words, got ${w}`;
 }
 
 /** Regex to find [Image: <caption>] placeholders in notes content. */
@@ -251,6 +470,19 @@ function collectImagePlaceholders(notes) {
     for (const sec of notes.sections) scanText(sec.content_md);
   }
   return out;
+}
+
+/** Build distinct image (slug) list and first-slot-per-slug for even allocation. Slots are (slug, nodeId, nodePath)[]. Returns { distinctSlugs: string[], firstSlotBySlug: Map<string, slot> }. */
+function buildImageAllocation(structureImageSlots) {
+  const distinctSlugs = [];
+  const firstSlotBySlug = new Map();
+  for (const s of structureImageSlots) {
+    if (!firstSlotBySlug.has(s.slug)) {
+      firstSlotBySlug.set(s.slug, s);
+      distinctSlugs.push(s.slug);
+    }
+  }
+  return { distinctSlugs, firstSlotBySlug };
 }
 
 /** Load existing output file and return map of key -> questions[]. Key is planKey(type,diff) or planKey(type,diff)+"|"+normalized(section_ref) when section_ref present, so resume can match per-node. Preserves scenario_data per question. */
@@ -641,14 +873,14 @@ function buildPrompt(notes, questionType, difficultyLevel, count, isPlaceholder,
     'Distribute the requested questions evenly across all sections, topics, subtopics and content blocks in the chapter. Do not cluster all questions on one section or topic.';
 
   if (isPlaceholder) {
-    return `You are generating ICSE History & Civics exam-style questions. Chapter: "${chapterTitle}". Discipline: ${discipline}.${civicsGuidance}
+    return `You are generating ICSE History & Civics exam-style questions. Chapter: "${chapterTitle}". Discipline: ${discipline}. Prioritize clear, direct phrasing over lengthy exposition.${civicsGuidance}
 
 Question type: ${questionType} (image-based). Difficulty: ${difficultyTag}.
 
 Generate exactly 1 placeholder question: the question text should describe the image theme and sub-questions (e.g. "Image: [Describe the historical event/figure shown]. (i) Identify... (ii) Explain... (iii) Significance..."). Provide a brief model_answer_text and a minimal rubric (rubric_version 2, total_marks, answer_input_type "typed", blocks for each sub-part). Output only a JSON object: { "questions": [ { "question_text": "...", "model_answer_text": "...", "rubric": { ... } } ] }. No markdown fences.`;
   }
 
-  return `You are generating ICSE History & Civics exam-style questions. Board style: ${discipline === 'civics' ? 'Civics' : 'History'}.
+  return `You are generating ICSE History & Civics exam-style questions. Board style: ${discipline === 'civics' ? 'Civics' : 'History'}. Prioritize clear, direct phrasing over lengthy exposition.
 Chapter: "${chapterTitle}". Discipline: ${discipline}.${civicsGuidance}
 
 Question type: ${questionType}. Difficulty: ${difficultyTag} (level ${difficultyLevel}).
@@ -664,18 +896,32 @@ Generate exactly ${count} distinct questions of this type and difficulty, each w
 
 Rules:
 - Rubric must be valid JSON: rubric_version (2), total_marks, question_type ("${questionType}"), difficulty_level (${difficultyLevel}), difficulty_tag ("${difficultyTag}"), answer_input_type ("typed" or "choice"), blocks array with id, label, selection (min/max), match_mode, criteria (id, keywords, score). For MCQ use answer_input_type "choice" and optionally answer_key (correct_option, logic_explanation for assertion-reason). For typed answers include scoring_rules where appropriate.
-${questionType.startsWith('mcq_') ? `- For MCQs: (1) question_text must include the full question stem followed by all four options on separate lines: (a) ..., (b) ..., (c) ..., (d) .... Do not omit the options. (2) rubric.blocks must contain only one block: type "options" with an "options" array of exactly four objects, each with "option_text" (string) and "is_correct" (true for the correct option, false otherwise). Do not include any other blocks (no criteria or scoring blocks). (3) rubric.answer_key must include "correct_option" (letter "a", "b", "c", or "d"). model_answer_text should be the correct option letter and optionally the answer text, e.g. (b) 1921.` : ''}
-${questionType === 'structured_essay' ? `- For structured_essay only: Each question must have exactly three sub-parts labeled (i), (ii), (iii) — do not use (a)(b)(c). Total 10 marks. Use only one of these splits: 3+3+4 (preferred) or 2+4+4 (fallback). No sub-part may be 5 marks; each sub-part must be 2, 3, or 4 marks. In question_text, end each sub-part with the mark in brackets, e.g. (i) ... [3], (ii) ... [3], (iii) ... [4] or (i) ... [2], (ii) ... [4], (iii) ... [4]. Mark allocation rule: a 2-mark sub-part must expect 2–3 key points; a 3-mark sub-part must expect 3–4 key points; a 4-mark sub-part must expect 4 or more key points. Rubric must have exactly three blocks, each with sub_part_key "i", "ii", or "iii" (matching the sub-parts) and a "marks" (or "max_marks") field set to that part's marks (2, 3, or 4).` : ''}
-${questionType === 'mcq_logic_table' ? `- For mcq_logic_table only: This type is a match-the-columns / table question, NOT assertion-reason. (1) question_text must include the question stem and the table in HTML only: use <table>, <thead>, <tbody>, <tr>, <th>, <td>. Do not use markdown table syntax (e.g. pipes). Example: <table><thead><tr><th></th><th>Column A</th><th>Column B</th></tr></thead><tbody><tr><td>(a)</td><td>...</td><td>...</td></tr>...</tbody></table>. (2) Exactly four options (rows or combinations), each with (a)(b)(c)(d). (3) rubric.blocks must include a block with type "options" and an "options" array of exactly four objects, each with "option_text" (string) and "is_correct" (true for the correct option). rubric.answer_key must include "correct_option" (a, b, c, or d). (4) Do not use Assertion (A) and Reason (R). Rubric question_type must be "mcq_logic_table".` : ''}
-${questionType === 'mcq_assertion_reason' ? `- For mcq_assertion_reason only: (1) question_text must have exactly two statements labelled Assertion (A) and Reason (R), followed by the four standard A/R options: (a) Both A and R are true and R is the correct explanation of A; (b) Both A and R are true but R is not the correct explanation of A; (c) A is true but R is false; (d) A is false but R is true. (2) rubric.answer_key must include "correct_option" (a, b, c, or d) and "logic_explanation" (a short explanation of why that option is correct). Rubric question_type must be "mcq_assertion_reason".` : ''}
-${questionType === 'mcq_source_connection' ? `- For mcq_source_connection only: (1) question_text must start with a short text source (a quote, excerpt, or constitutional/article snippet), then one question asking the student to connect the source to a concept, event, or correct option. (2) Exactly four options (a)(b)(c)(d); one correct. (3) Do not use Assertion (A) and Reason (R). No A/R statements and no "Both A and R true" style options. This type is source plus connection question, not assertion-reason. Rubric question_type must be "mcq_source_connection".` : ''}
+${questionType.startsWith('mcq_') ? `- For MCQs: (1) question_text must be valid HTML for the WYSIWYG editor: put the question stem in a <p>...</p> block and each of the four options (a), (b), (c), (d) in its own <p>...</p> block, e.g. <p>Stem text.</p><p>(a) First option</p><p>(b) Second option</p><p>(c) Third option</p><p>(d) Fourth option</p>. Do not omit any option. (2) rubric.blocks must contain only one block: type "options" with an "options" array of exactly four objects, each with "option_text" (string) and "is_correct" (true for the correct option, false otherwise). Do not include any other blocks (no criteria or scoring blocks). (3) rubric.answer_key must include "correct_option" (letter "a", "b", "c", or "d"). model_answer_text should be the correct option letter and optionally the answer text, e.g. (b) 1921.` : ''}
+${questionType === 'structured_essay' ? `- For structured_essay only: Each question must have exactly three sub-parts labeled (i.), (ii.), (iii.) — use small roman numerals; do not use (a)(b)(c). Total 10 marks. Use only one of these splits: 3+3+4 (preferred) or 2+4+4 (fallback). No sub-part may be 5 marks; each sub-part must be 2, 3, or 4 marks. question_text and model_answer_text must be valid HTML for the WYSIWYG editor: put the theme introduction in one <p>...</p> block and each sub-question in its own <p>...</p>, e.g. question_text: <p>Theme intro.</p><p>(i.) First sub-question [3]</p><p>(ii.) Second [3]</p><p>(iii.) Third [4]</p>. For model_answer_text, each sub-part's answer must have at least as many distinct points as the marks: 2 marks → at least 2–3 points, 3 marks → 3–4 points, 4 marks → at least 4 points. Use <p><strong>(i.)</strong></p><ul><li>Point one.</li><li>Point two.</li></ul> (or <ol>) for each sub-part. Example: <p><strong>(i.)</strong></p><ul><li>First point.</li><li>Second point.</li></ul><p><strong>(ii.)</strong></p><ul><li>...</li></ul><p><strong>(iii.)</strong></p><ul><li>...</li></ul>. End each sub-part in question_text with the mark in brackets. Rubric must have exactly three blocks, one per sub-part. Each block must have: sub_part_key "i", "ii", or "iii"; marks (or max_marks) set to that part's marks (2, 3, or 4); selection { "min": N, "max": N }; and criteria array. Criteria scores per block must sum to that block's marks. Do not output a single block; always output three blocks.` : ''}
+${questionType === 'mcq_logic_table' ? `- For mcq_logic_table only: This type is a match-the-columns / table question, NOT assertion-reason. (1) question_text must be HTML: first the question stem in <p>...</p>, then the table using <table>, <thead>, <tbody>, <tr>, <th>, <td> (no markdown). After the table, put the four options (a)(b)(c)(d) each in its own <p>...</p> block so they display on separate lines, e.g. <p>(a) 1-c, 2-a, 3-b, 4-d</p><p>(b) ...</p><p>(c) ...</p><p>(d) ...</p>. (2) rubric.blocks must include a block with type "options" and an "options" array of exactly four objects, each with "option_text" (string) and "is_correct" (true for the correct option). rubric.answer_key must include "correct_option" (a, b, c, or d). (3) Do not use Assertion (A) and Reason (R). Rubric question_type must be "mcq_logic_table".` : ''}
+${questionType === 'mcq_assertion_reason' ? `- For mcq_assertion_reason only: (1) question_text must be HTML with <p> blocks: one <p> per statement (Assertion (A), Reason (R)) and one <p> per option (a)(b)(c)(d). (2) rubric.answer_key must include "correct_option" (a, b, c, or d) and "logic_explanation" (a short explanation of why that option is correct). Rubric question_type must be "mcq_assertion_reason".` : ''}
+${questionType === 'mcq_source_connection' ? `- For mcq_source_connection only: (1) question_text must be HTML: use <p>...</p> for the source and question stem, then one <p> per option (a)(b)(c)(d). (2) Exactly four options; one correct. (3) Do not use Assertion (A) and Reason (R). Rubric question_type must be "mcq_source_connection".` : ''}
+${['short_answer', 'short_source_interpretation', 'deductive_application'].includes(questionType) ? `- For typed answers (short_answer, short_source_interpretation, deductive_application): model_answer_text must be valid HTML for the WYSIWYG editor. Points per marks (strict): for 2 marks provide at least 2–3 distinct points; for 3 marks at least 3–4 points; for 4 marks at least 4 points. Use bulleted or numbered lists: <ul><li>Point one.</li><li>Point two.</li></ul> or <ol><li>...</li></ol>. Do not use a single paragraph when marks are 2 or more — use list items so the model answer matches the marking scheme.` : ''}
+${(() => {
+  const q = questionType;
+  if (['mcq_standard', 'mcq_odd_one_out', 'mcq_chronology_sequence', 'mcq_relationship_analogy', 'mcq_visual_scenario'].includes(q)) return '- Word count (board style): Keep question_text (stem + all four options) to 15–25 words total; concise and exam-style.';
+  if (q === 'mcq_assertion_reason' || q === 'mcq_logic_table') return '- Word count (board style): question_text may be 60–80 words (instructions + statements/table + four options).';
+  if (q === 'short_answer') return '- Word count (board style): Keep question_text to 10–25 words; direct and brief.';
+  if (q === 'structured_essay') return '- Word count (board style): Use a theme introduction of 15–25 words, then three sub-questions (i.), (ii.), (iii.), each 10–20 words. Board style is concise.';
+  if (q === 'short_source_interpretation') return '- Word count (board style): Passage 40–60 words; the single question 15–25 words.';
+  if (q === 'source_passage_analysis') return '- Word count (board style): Passage 40–60 words; each sub-question 15–25 words.';
+  if (q === 'deductive_application') return '- Word count (board style): Scenario and question: keep the question part to 15–25 words.';
+  if (q === 'mcq_source_connection') return '- Word count (board style): Source excerpt 40–60 words; then one connection question with four options.';
+  return '';
+})()}
 - Output only a single JSON object, no markdown fences. Escape double quotes inside strings with backslash (\\"). Do not use unescaped newlines inside JSON string values.
 ${requireSectionRefs ? '\n- For each question include exactly one of: "section_ref" (single path string from the syllabus tree) or "section_refs" (array of path strings when the question spans multiple topics). Use the exact path strings from the syllabus tree above.' : ''}
+${requireSectionRefs && questionType === 'structured_essay' ? '\n- For structured_essay you MUST use "section_refs" as an array of exactly three objects, one per sub-part: [{ "sub_part_key": "i", "path": "<exact path from tree>" }, { "sub_part_key": "ii", "path": "..." }, { "sub_part_key": "iii", "path": "..." }]. Each path must be an exact path string from the syllabus tree. Sub-part (i) maps to the first sub-question, (ii) to the second, (iii) to the third. Use the path of the node that best matches the content of that sub-part (they may be different nodes, e.g. Events at Meerut, Events at Delhi, Events at Lucknow).' : ''}
 
 Output format:
 {
   "questions": [
-    { "question_text": "<full question stem>", "model_answer_text": "<model answer or key>", "rubric": { ... }${requireSectionRefs ? ', "section_ref": "<path>" or "section_refs": ["<path1>", "<path2>"]' : ''} }
+    { "question_text": "<full question stem>", "model_answer_text": "<model answer or key>", "rubric": { ... }${requireSectionRefs ? (questionType === 'structured_essay' ? ', "section_refs": [{ "sub_part_key": "i", "path": "..." }, { "sub_part_key": "ii", "path": "..." }, { "sub_part_key": "iii", "path": "..." }]' : ', "section_ref": "<path>" or "section_refs": ["<path1>", "<path2>"]') : ''} }
   ]
 }`;
 }
@@ -693,17 +939,18 @@ function buildPictureStudyPrompt(notes, imagePlaceholderCaption, difficultyLevel
       ? ' For Civics: use precise constitutional/institutional terminology; include Article/Schedule references where relevant.'
       : ' For History: use cause-effect, chronology, significance.';
 
-  return `You are generating one ICSE History & Civics picture study question. Chapter: "${chapterTitle}". Discipline: ${discipline}.${civicsGuidance}
+  return `You are generating one ICSE History & Civics picture study question. Chapter: "${chapterTitle}". Discipline: ${discipline}. Prioritize clear, direct phrasing over lengthy exposition.${civicsGuidance}
 
 The textbook extract references this image placeholder: ${imagePlaceholderCaption}
 
-${nodePathForScope ? `Generate the question only for this section and its subtopics: "${nodePathForScope}". ` : ''}Using the chapter content below, generate exactly one picture study question that will be shown alongside this image (the SME will upload the image later). The question must have exactly three sub-parts labeled (i), (ii), (iii): (i) Identify / describe what is shown, (ii) Explain significance or context, (iii) Significance/consequence or connection to the chapter.
+${nodePathForScope ? `Generate the question only for this section and its subtopics: "${nodePathForScope}". ` : ''}Using the chapter content below, generate exactly one picture study question that will be shown alongside this image (the SME will upload the image later). The question must have exactly three sub-parts labeled (i.), (ii.), (iii.) using small roman numerals: (i.) Identify / describe what is shown, (ii.) Explain significance or context, (iii.) Significance/consequence or connection to the chapter.
 
 Marks and format (strict):
 - Total 10 marks. Use only one of these splits: 3+3+4 (preferred) or 2+4+4 (fallback). No sub-part may be 5 marks; each sub-part must be 2, 3, or 4 marks.
-- In question_text, end each sub-part with the mark in brackets, e.g. (i) ... [3], (ii) ... [3], (iii) ... [4].
-- Mark allocation rule: a 2-mark sub-part must expect 2–3 key points; a 3-mark sub-part must expect 3–4 key points; a 4-mark sub-part must expect 4 or more key points.
-- Rubric must have exactly three blocks, each with sub_part_key "i", "ii", or "iii" and a "marks" (or "max_marks") field set to that part's marks (2, 3, or 4).
+- question_text and model_answer_text must be valid HTML for the WYSIWYG editor. Use <p>...</p> for the stem and each sub-question, e.g. question_text: <p>Study the image.</p><p>(i.) Identify... [3]</p><p>(ii.) Explain... [3]</p><p>(iii.) Significance... [4]</p>. End each sub-part in question_text with the mark in brackets.
+- model_answer_text must be HTML with one block per sub-part. Each sub-part's answer must have at least as many distinct points as the marks: 2 marks → at least 2–3 points, 3 marks → 3–4 points, 4 marks → at least 4 points. Use <p><strong>(i.)</strong></p><ul><li>Point one.</li><li>Point two.</li></ul> (or <ol>) for each sub-part. Example: <p><strong>(i.)</strong></p><ul><li>...</li></ul><p><strong>(ii.)</strong></p><ul><li>...</li></ul><p><strong>(iii.)</strong></p><ul><li>...</li></ul>.
+- Rubric must have exactly three blocks, each with sub_part_key "i", "ii", or "iii" and a "marks" (or "max_marks") field set to that part's marks (2, 3, or 4). Use keyword/semantic matching: each block must have match_mode "semantic", selection { "min": N, "max": N }, and a criteria array; criteria scores per block must sum to that block's marks.
+- Word count (board style): Opening instruction 15–25 words; each of (i.), (ii.), (iii.) 10–20 words.
 
 Difficulty: ${difficultyTag} (level ${difficultyLevel}).
 
@@ -712,12 +959,12 @@ ${treeLines?.length ? `Syllabus tree (use exact path strings for section_ref):\n
 ${context.slice(0, 20000)}
 ---
 
-Generate one JSON object with a single question: question_text must include the full stem and the three sub-questions (i), (ii), (iii) each ending with [n] as above. Provide model_answer_text and a rubric (rubric_version 2, total_marks 10, question_type "picture_study_linked", difficulty_level ${difficultyLevel}, answer_input_type "typed", blocks with sub_part_key and marks per sub-part).${requireSectionRefs ? ' Include "section_ref": "<path>" using an exact path from the syllabus tree above.' : ''} Do not include scenario_data or image fields in the output.
+Generate one JSON object with a single question: question_text and model_answer_text must be valid HTML as above. Provide rubric (rubric_version 2, total_marks 10, question_type "picture_study_linked", difficulty_level ${difficultyLevel}, answer_input_type "typed", blocks with sub_part_key, marks, match_mode "semantic", selection, and criteria).${requireSectionRefs ? ' Include "section_ref": "<path>" using an exact path from the syllabus tree above.' : ''} Do not include scenario_data or image fields in the output.
 
 Output format (no markdown fences, escape double quotes in strings with \\"):
 {
   "questions": [
-    { "question_text": "<Study the image. (i) ... (ii) ... (iii) ...>", "model_answer_text": "<model answer>", "rubric": { ... }${requireSectionRefs ? ', "section_ref": "<path>"' : ''} }
+    { "question_text": "<p>Study the image.</p><p>(i.) ... [n]</p><p>(ii.) ... [n]</p><p>(iii.) ... [n]</p>", "model_answer_text": "<p><strong>(i.)</strong></p><ul><li>...</li></ul><p><strong>(ii.)</strong></p><ul><li>...</li></ul><p><strong>(iii.)</strong></p><ul><li>...</li></ul>", "rubric": { ... }${requireSectionRefs ? ', "section_ref": "<path>"' : ''} }
   ]
 }`;
 }
@@ -734,12 +981,12 @@ function buildVisualScenarioPrompt(notes, difficultyLevel, count) {
       ? ' For Civics: use precise constitutional/institutional terminology.'
       : ' For History: use cause-effect, chronology, maps, sources.';
 
-  return `You are generating ICSE History & Civics MCQ visual scenario questions. Chapter: "${chapterTitle}". Discipline: ${discipline}.${civicsGuidance}
+  return `You are generating ICSE History & Civics MCQ visual scenario questions. Chapter: "${chapterTitle}". Discipline: ${discipline}. Prioritize clear, direct phrasing over lengthy exposition.${civicsGuidance}
 
 Question type: mcq_visual_scenario. Each question is an MCQ that refers to an image (e.g. map, diagram, photograph). The image will be uploaded later by an editor. You must provide for each question:
-1. question_text: the question stem and four options (a)–(d) on separate lines, referring to "the image" or "the diagram" etc. Do not omit any of the four options.
-2. model_answer_text: the correct option and brief explanation.
-3. rubric: rubric_version 2, total_marks, question_type "mcq_visual_scenario", difficulty_level ${difficultyLevel}, answer_input_type "choice". rubric.blocks must include one block with type "options" and an "options" array of exactly four objects: { "option_text": "...", "is_correct": true/false }. rubric.answer_key must include "correct_option" (letter a, b, c, or d).
+1. question_text: valid HTML with <p> blocks — one <p> for the stem and one <p> per option (a)(b)(c)(d). Refer to "the image" or "the diagram". Keep to 15–25 words total (board style).
+2. model_answer_text: only the correct answer (e.g. "(b)" or "(b) Option text"). Do not include any explanation here.
+3. rubric: rubric_version 2, total_marks, question_type "mcq_visual_scenario", difficulty_level ${difficultyLevel}, answer_input_type "choice". rubric.blocks must include one block with type "options" and an "options" array of exactly four objects: { "option_text": "...", "is_correct": true/false }. rubric.answer_key must include "correct_option" (letter a, b, c, or d) and "logic_explanation" (the explanation of why that option is correct — this appears in the explanation section on the right).
 4. image_instruction: a short instruction for the editor describing exactly what image to use (e.g. "A map of India showing Harappan sites with Lothal and Mohenjo-daro marked" or "Photograph of the Great Bath at Mohenjo-daro"). Be specific so the right image can be chosen.
 
 Difficulty: ${difficultyTag}. Generate exactly ${count} distinct questions. Do not duplicate; each question and image_instruction must be unique.
@@ -770,16 +1017,17 @@ function buildPictureStudyPromptForStructureImage(notes, structureImageName, dif
       ? ' For Civics: use precise constitutional/institutional terminology; include Article/Schedule references where relevant.'
       : ' For History: use cause-effect, chronology, significance.';
 
-  return `You are generating one ICSE History & Civics picture study question. Chapter: "${chapterTitle}". Discipline: ${discipline}.${civicsGuidance}
+  return `You are generating one ICSE History & Civics picture study question. Chapter: "${chapterTitle}". Discipline: ${discipline}. Prioritize clear, direct phrasing over lengthy exposition.${civicsGuidance}
 
 The question must be based on the following image from the chapter structure. Image name (camelCase): **${structureImageName}**. Generate a question that is clearly relevant to what this image shows (e.g. a map, photograph, or diagram with that theme). The question will be displayed alongside this image.
 
-${nodePathForScope ? `Generate the question only for this section and its subtopics: "${nodePathForScope}". ` : ''}The question must have exactly three sub-parts labeled (i), (ii), (iii): (i) Identify / describe what is shown, (ii) Explain significance or context, (iii) Significance/consequence or connection to the chapter.
+${nodePathForScope ? `Generate the question only for this section and its subtopics: "${nodePathForScope}". ` : ''}The question must have exactly three sub-parts labeled (i.), (ii.), (iii.) using small roman numerals: (i.) Identify / describe what is shown, (ii.) Explain significance or context, (iii.) Significance/consequence or connection to the chapter.
 
 Marks and format (strict):
 - Total 10 marks. Use only one of these splits: 3+3+4 (preferred) or 2+4+4 (fallback). No sub-part may be 5 marks; each sub-part must be 2, 3, or 4 marks.
-- In question_text, end each sub-part with the mark in brackets, e.g. (i) ... [3], (ii) ... [3], (iii) ... [4].
-- Rubric must have exactly three blocks, each with sub_part_key "i", "ii", or "iii" and a "marks" (or "max_marks") field set to that part's marks.
+- question_text and model_answer_text must be valid HTML for the WYSIWYG editor. question_text: <p>Study the image.</p><p>(i.) ... [3]</p><p>(ii.) ... [3]</p><p>(iii.) ... [4]</p>. model_answer_text: each sub-part must have at least as many points as its marks (2→2–3 points, 3→3–4 points, 4→4+ points). Use <p><strong>(i.)</strong></p><ul><li>...</li></ul><p><strong>(ii.)</strong></p><ul><li>...</li></ul><p><strong>(iii.)</strong></p><ul><li>...</li></ul>.
+- Rubric must have exactly three blocks, each with sub_part_key "i", "ii", or "iii" and "marks" (or "max_marks") set to that part's marks. Each block must have match_mode "semantic", selection { "min": N, "max": N }, and criteria array; criteria scores per block must sum to that block's marks.
+- Word count (board style): Opening 15–25 words; each of (i.), (ii.), (iii.) 10–20 words.
 
 Difficulty: ${difficultyTag} (level ${difficultyLevel}).
 
@@ -788,12 +1036,12 @@ ${treeLines?.length ? `Syllabus tree (use exact path strings for section_ref):\n
 ${context.slice(0, 20000)}
 ---
 
-Generate one JSON object with a single question.${requireSectionRefs ? ' Include "section_ref": "<path>" using an exact path from the syllabus tree above.' : ''} Do not include scenario_data or image fields in the output.
+Generate one JSON object with a single question. question_text and model_answer_text must be valid HTML as above. Rubric blocks must include match_mode "semantic", selection, and criteria per sub-part.${requireSectionRefs ? ' Include "section_ref": "<path>" using an exact path from the syllabus tree above.' : ''} Do not include scenario_data or image fields in the output.
 
 Output format (no markdown fences, escape double quotes with \\"):
 {
   "questions": [
-    { "question_text": "<Study the image. (i) ... (ii) ... (iii) ...>", "model_answer_text": "<model answer>", "rubric": { ... }${requireSectionRefs ? ', "section_ref": "<path>"' : ''} }
+    { "question_text": "<p>Study the image.</p><p>(i.) ... [n]</p><p>(ii.) ... [n]</p><p>(iii.) ... [n]</p>", "model_answer_text": "<p><strong>(i.)</strong></p><ul><li>...</li></ul><p><strong>(ii.)</strong></p><ul><li>...</li></ul><p><strong>(iii.)</strong></p><ul><li>...</li></ul>", "rubric": { ... }${requireSectionRefs ? ', "section_ref": "<path>"' : ''} }
   ]
 }`;
 }
@@ -812,14 +1060,14 @@ function buildVisualScenarioPromptForStructureImages(notes, difficultyLevel, ima
 
   const namesList = imageNames.map((n) => `"${n}"`).join(', ');
 
-  return `You are generating ICSE History & Civics MCQ visual scenario questions. Chapter: "${chapterTitle}". Discipline: ${discipline}.${civicsGuidance}
+  return `You are generating ICSE History & Civics MCQ visual scenario questions. Chapter: "${chapterTitle}". Discipline: ${discipline}. Prioritize clear, direct phrasing over lengthy exposition.${civicsGuidance}
 
 Question type: mcq_visual_scenario. Each question is an MCQ that refers to an image from the chapter structure. For each of the following image names (camelCase), generate exactly one MCQ that is **tailored to that specific image**: ${namesList}.
 
 Each question must be clearly relevant to what that image shows (e.g. map, diagram, photograph). The question will be displayed alongside that image. You must provide for each question:
-1. question_text: the question stem and four options (a)–(d) on separate lines, referring to "the image" or "the diagram" etc.
-2. model_answer_text: the correct option and brief explanation.
-3. rubric: rubric_version 2, total_marks, question_type "mcq_visual_scenario", difficulty_level ${difficultyLevel}, answer_input_type "choice". rubric.blocks must include one block with type "options" and an "options" array of exactly four objects. rubric.answer_key must include "correct_option" (a, b, c, or d).
+1. question_text: valid HTML with <p> blocks — one <p> for the stem and one <p> per option (a)(b)(c)(d). Keep to 15–25 words total (board style).
+2. model_answer_text: only the correct answer (e.g. "(b)" or "(b) Option text"). Do not include any explanation here.
+3. rubric: rubric_version 2, total_marks, question_type "mcq_visual_scenario", difficulty_level ${difficultyLevel}, answer_input_type "choice". rubric.blocks must include one block with type "options" and an "options" array of exactly four objects. rubric.answer_key must include "correct_option" (a, b, c, or d) and "logic_explanation" (the explanation of why that option is correct — this appears in the explanation section on the right).
 4. structure_image_name: the exact camelCase image name from the list above that this question is for.
 
 Difficulty: ${difficultyTag}. Generate exactly ${imageNames.length} distinct questions, one per image. Order of questions in the output must match the order of image names: ${namesList}.
@@ -856,197 +1104,57 @@ async function runOnePlanEntry(apiKey, notes, entry, imagePlaceholders, state, t
       section_refs: q.section_refs,
     }));
     const useApiSlots = Array.isArray(structureImageSlots) && structureImageSlots.length > 0;
-    const needWithin = useApiSlots
-      ? Math.min(Math.round(need * withinPct), structureImageSlots.length)
-      : structureImageNames.length > 0 ? Math.round(need * withinPct) : 0;
-    const needOutside = need - needWithin;
-    const captions = imagePlaceholders.length > 0 ? imagePlaceholders : ['[Image: Refer to chapter illustration]'];
-
-    let withinAllocation = [];
-    if (useApiSlots && needWithin > 0) {
-      withinAllocation = structureImageSlots.slice(0, needWithin).map((s) => ({ imageName: s.slug, count: 1, nodeId: s.nodeId, nodePath: s.nodePath }));
-    } else {
-      const nImages = structureImageNames.length;
-      if (nImages > 0 && needWithin > 0) {
-        if (needWithin >= nImages) {
-          const remainder = needWithin - nImages;
-          const per = Math.floor(remainder / nImages);
-          const extra = remainder % nImages;
-          for (let i = 0; i < nImages; i++) {
-            withinAllocation.push({ imageName: structureImageNames[i], count: 1 + per + (i < extra ? 1 : 0) });
-          }
-        } else {
-          for (let i = 0; i < needWithin; i++) {
-            withinAllocation.push({ imageName: structureImageNames[i], count: 1 });
-          }
-        }
+    if (!useApiSlots) {
+      if (questionsForItem.length > 0) {
+        return { planIndex, item: { question_type: 'picture_study_linked', difficulty_level, difficulty_tag: DIFFICULTY_TAGS[difficulty_level], questions: questionsForItem.slice(0, count) } };
       }
+      return { planIndex, item: null };
     }
-
-    const useNodeScope = treeWithPaths?.length > 0 && descendantMap != null;
-    let withinSlots = [];
-    let outsideAllocation = [];
-    let treeLines = null;
-    if (useApiSlots && withinAllocation.length > 0) {
-      withinSlots = withinAllocation.map((a) => ({ imageName: a.imageName, nodeId: a.nodeId, nodePath: a.nodePath }));
-      const usedNodeIds = new Set(withinSlots.map((s) => s.nodeId));
-      const nodeOrder = getNodeOrderDepthFirst(treeWithPaths);
-      let nodesForOutside = nodeOrder.filter((n) => !usedNodeIds.has(n.id));
-      if (nodesForOutside.length === 0) nodesForOutside = [...nodeOrder];
-      const nOut = nodesForOutside.length;
-      const per = Math.floor(needOutside / nOut);
-      const extra = needOutside % nOut;
-      for (let i = 0; i < nOut; i++) {
-        const c = per + (i < extra ? 1 : 0);
-        if (c > 0) outsideAllocation.push({ nodeId: nodesForOutside[i].id, nodePath: nodesForOutside[i].path, count: c });
-      }
-      treeLines = treeWithPaths.map((n) => n.path);
-    } else if (useNodeScope) {
-      for (const { imageName, count: perImage } of withinAllocation) {
-        for (let k = 0; k < perImage; k++) withinSlots.push({ imageName });
-      }
-      const nodeOrder = getNodeOrderDepthFirst(treeWithPaths);
-      const numNodes = nodeOrder.length;
-      for (let i = 0; i < withinSlots.length; i++) {
-        const node = nodeOrder[i % numNodes];
-        withinSlots[i].nodeId = node.id;
-        withinSlots[i].nodePath = node.path;
-      }
-      const usedNodeIds = new Set(withinSlots.map((s) => s.nodeId));
-      let nodesForOutside = nodeOrder.filter((n) => !usedNodeIds.has(n.id));
-      if (nodesForOutside.length === 0) nodesForOutside = [...nodeOrder];
-      const nOut = nodesForOutside.length;
-      const per = Math.floor(needOutside / nOut);
-      const extra = needOutside % nOut;
-      for (let i = 0; i < nOut; i++) {
-        const c = per + (i < extra ? 1 : 0);
-        if (c > 0) outsideAllocation.push({ nodeId: nodesForOutside[i].id, nodePath: nodesForOutside[i].path, count: c });
-      }
-      treeLines = treeWithPaths.map((n) => n.path);
-    }
-
-    if (useNodeScope && withinSlots.length > 0) {
-      for (const slot of withinSlots) {
-        state.batchIndex++;
-        const sectionIdsToInclude =
-          slot.nodeId && descendantMap
-            ? new Set([slot.nodeId, ...(descendantMap.get(slot.nodeId) || [])])
-            : null;
-        const promptOpts = {
-          sectionIdsToInclude: sectionIdsToInclude || undefined,
-          nodePathForScope: slot.nodePath || undefined,
-          treeLines: treeLines || undefined,
-          requireSectionRefs: true,
-        };
-        try {
-          const prompt = buildPictureStudyPromptForStructureImage(notes, slot.imageName, difficulty_level, promptOpts);
-          const result = await runWithRetry(apiKey, prompt);
-          const one = Array.isArray(result?.questions) ? result.questions[0] : null;
-          if (one) {
-            questionsForItem.push({
-              question_text: one.question_text ?? '',
-              model_answer_text: one.model_answer_text ?? '',
-              rubric: one.rubric ?? {},
-              scenario_data: { structure_image_name: slot.imageName },
-              section_ref: one.section_ref ?? slot.nodePath,
-              section_refs: Array.isArray(one.section_refs) ? one.section_refs : undefined,
-            });
-            state.done++;
-            console.log(`  ${progressBar(state.batchIndex, totalBatches)} [${state.batchIndex}/${totalBatches}] picture_study_linked L${difficulty_level} (structure): +1 (${state.done} total)`);
-          }
-        } catch (err) {
-          console.error(`  [${state.batchIndex}/${totalBatches}] picture_study_linked L${difficulty_level} structure failed:`, err.message);
+    const { distinctSlugs, firstSlotBySlug } = buildImageAllocation(structureImageSlots);
+    const needToGenerate = Math.max(need, distinctSlugs.length);
+    const treeLines = treeWithPaths?.length > 0 ? treeWithPaths.map((n) => n.path) : null;
+    for (let i = 0; i < needToGenerate; i++) {
+      const slug = distinctSlugs[i % distinctSlugs.length];
+      const slot = firstSlotBySlug.get(slug);
+      state.batchIndex++;
+      const sectionIdsToInclude =
+        slot.nodeId && descendantMap
+          ? new Set([slot.nodeId, ...(descendantMap.get(slot.nodeId) || [])])
+          : null;
+      const promptOpts = {
+        sectionIdsToInclude: sectionIdsToInclude || undefined,
+        nodePathForScope: slot.nodePath || undefined,
+        treeLines: treeLines || undefined,
+        requireSectionRefs: true,
+      };
+      try {
+        const prompt = buildPictureStudyPromptForStructureImage(notes, slot.slug, difficulty_level, promptOpts);
+        const result = await runWithRetry(apiKey, prompt);
+        const one = Array.isArray(result?.questions) ? result.questions[0] : null;
+        if (one) {
+          const qt = one.question_text ?? '';
+          let rubric = ensureStructuredEssayThreeBlocks({ ...(one.rubric ?? {}), question_type: 'picture_study_linked' });
+          questionsForItem.push({
+            question_text: qt,
+            model_answer_text: one.model_answer_text ?? '',
+            rubric,
+            scenario_data: { structure_image_name: slot.slug },
+            section_ref: one.section_ref ?? slot.nodePath,
+            section_refs: Array.isArray(one.section_refs) ? one.section_refs : undefined,
+          });
+          const w = getWordCountWarning('picture_study_linked', qt);
+          if (w) console.warn('  ' + w);
+          state.done++;
+          console.log(`  ${progressBar(state.batchIndex, totalBatches)} [${state.batchIndex}/${totalBatches}] picture_study_linked L${difficulty_level}: +1 (${state.done} total)`);
         }
-        await delay(delayMs);
+      } catch (err) {
+        console.error(`  [${state.batchIndex}/${totalBatches}] picture_study_linked L${difficulty_level} failed:`, err.message);
       }
-    } else {
-      for (const { imageName, count: perImage } of withinAllocation) {
-        for (let k = 0; k < perImage; k++) {
-          state.batchIndex++;
-          try {
-            const prompt = buildPictureStudyPromptForStructureImage(notes, imageName, difficulty_level);
-            const result = await runWithRetry(apiKey, prompt);
-            const one = Array.isArray(result?.questions) ? result.questions[0] : null;
-            if (one) {
-              questionsForItem.push({
-                question_text: one.question_text ?? '',
-                model_answer_text: one.model_answer_text ?? '',
-                rubric: one.rubric ?? {},
-                scenario_data: { structure_image_name: imageName },
-              });
-              state.done++;
-              console.log(`  ${progressBar(state.batchIndex, totalBatches)} [${state.batchIndex}/${totalBatches}] picture_study_linked L${difficulty_level} (structure): +1 (${state.done} total)`);
-            }
-          } catch (err) {
-            console.error(`  [${state.batchIndex}/${totalBatches}] picture_study_linked L${difficulty_level} structure failed:`, err.message);
-          }
-          await delay(delayMs);
-        }
-      }
-    }
-
-    if (useNodeScope && outsideAllocation.length > 0) {
-      let outsideIndex = 0;
-      for (const { nodeId, nodePath, count: nodeCount } of outsideAllocation) {
-        const sectionIdsToInclude = descendantMap ? new Set([nodeId, ...(descendantMap.get(nodeId) || [])]) : null;
-        const promptOpts = {
-          sectionIdsToInclude: sectionIdsToInclude || undefined,
-          nodePathForScope: nodePath || undefined,
-          treeLines: treeLines || undefined,
-          requireSectionRefs: true,
-        };
-        for (let k = 0; k < nodeCount; k++) {
-          const imageCaption = captions[(existingList.length + needWithin + outsideIndex + k) % captions.length];
-          state.batchIndex++;
-          try {
-            const prompt = buildPictureStudyPrompt(notes, imageCaption, difficulty_level, promptOpts);
-            const result = await runWithRetry(apiKey, prompt);
-            const one = Array.isArray(result?.questions) ? result.questions[0] : null;
-            if (one) {
-              questionsForItem.push({
-                question_text: one.question_text ?? '',
-                model_answer_text: one.model_answer_text ?? '',
-                rubric: one.rubric ?? {},
-                scenario_data: { image_placeholder_caption: imageCaption },
-                section_ref: one.section_ref ?? nodePath,
-                section_refs: Array.isArray(one.section_refs) ? one.section_refs : undefined,
-              });
-              state.done++;
-              console.log(`  ${progressBar(state.batchIndex, totalBatches)} [${state.batchIndex}/${totalBatches}] picture_study_linked L${difficulty_level}: +1 (${state.done} total)`);
-            }
-          } catch (err) {
-            console.error(`  [${state.batchIndex}/${totalBatches}] picture_study_linked L${difficulty_level} failed:`, err.message);
-          }
-          await delay(delayMs);
-        }
-        outsideIndex += nodeCount;
-      }
-    } else {
-      for (let k = 0; k < needOutside; k++) {
-        const imageCaption = captions[(existingList.length + needWithin + k) % captions.length];
-        state.batchIndex++;
-        try {
-          const prompt = buildPictureStudyPrompt(notes, imageCaption, difficulty_level);
-          const result = await runWithRetry(apiKey, prompt);
-          const one = Array.isArray(result?.questions) ? result.questions[0] : null;
-          if (one) {
-            questionsForItem.push({
-              question_text: one.question_text ?? '',
-              model_answer_text: one.model_answer_text ?? '',
-              rubric: one.rubric ?? {},
-              scenario_data: { image_placeholder_caption: imageCaption },
-            });
-            state.done++;
-            console.log(`  ${progressBar(state.batchIndex, totalBatches)} [${state.batchIndex}/${totalBatches}] picture_study_linked L${difficulty_level}: +1 (${state.done} total)`);
-          }
-        } catch (err) {
-          console.error(`  [${state.batchIndex}/${totalBatches}] picture_study_linked L${difficulty_level} failed:`, err.message);
-        }
-        await delay(delayMs);
-      }
+      await delay(delayMs);
     }
     if (questionsForItem.length > 0) {
-      return { planIndex, item: { question_type: 'picture_study_linked', difficulty_level, difficulty_tag: DIFFICULTY_TAGS[difficulty_level], questions: questionsForItem.slice(0, count) } };
+      const totalQuestions = Math.max(count, distinctSlugs.length);
+      return { planIndex, item: { question_type: 'picture_study_linked', difficulty_level, difficulty_tag: DIFFICULTY_TAGS[difficulty_level], questions: questionsForItem.slice(0, totalQuestions) } };
     }
     return { planIndex, item: null };
   }
@@ -1059,96 +1167,45 @@ async function runOnePlanEntry(apiKey, notes, entry, imagePlaceholders, state, t
       scenario_data: q.scenario_data ?? null,
     }));
     const useApiSlots = Array.isArray(structureImageSlots) && structureImageSlots.length > 0;
-    const needWithin = useApiSlots
-      ? Math.min(Math.round(need * withinPct), structureImageSlots.length)
-      : structureImageNames.length > 0 ? Math.round(need * withinPct) : 0;
-    const needOutside = need - needWithin;
-
-    if (useApiSlots && needWithin > 0) {
-      const slotsToUse = structureImageSlots.slice(0, needWithin);
-      for (const slot of slotsToUse) {
-        state.batchIndex++;
-        try {
-          const prompt = buildVisualScenarioPromptForStructureImages(notes, difficulty_level, [slot.slug]);
-          const result = await runWithRetry(apiKey, prompt);
-          const one = Array.isArray(result?.questions) ? result.questions[0] : null;
-          if (one) {
-            const rubric = ensureMcqOptionsInRubric(one.question_text ?? '', one.rubric ?? {}, 'mcq_visual_scenario');
-            questionsForItem.push({
-              question_text: one.question_text ?? '',
-              model_answer_text: one.model_answer_text ?? '',
-              rubric,
-              scenario_data: { structure_image_name: slot.slug },
-              section_ref: slot.nodePath,
-            });
-            state.done++;
-            console.log(`  ${progressBar(state.batchIndex, totalBatches)} [${state.batchIndex}/${totalBatches}] mcq_visual_scenario L${difficulty_level} (structure): +1 (${state.done} total)`);
-          }
-        } catch (err) {
-          console.error(`  [${state.batchIndex}/${totalBatches}] mcq_visual_scenario L${difficulty_level} structure failed:`, err.message);
-        }
-        await delay(delayMs);
+    if (!useApiSlots) {
+      if (questionsForItem.length > 0) {
+        return { planIndex, item: { question_type: 'mcq_visual_scenario', difficulty_level, difficulty_tag: DIFFICULTY_TAGS[difficulty_level], questions: questionsForItem.slice(0, count) } };
       }
-    } else {
-      let remainingWithin = needWithin;
-      let withinIndex = 0;
-      while (remainingWithin > 0) {
-        const batchNames = structureImageNames.slice(withinIndex, withinIndex + Math.min(BATCH_SIZE, remainingWithin));
-        withinIndex += batchNames.length;
-        remainingWithin -= batchNames.length;
-        state.batchIndex++;
-        try {
-          const prompt = buildVisualScenarioPromptForStructureImages(notes, difficulty_level, batchNames);
-          const result = await runWithRetry(apiKey, prompt);
-          const batch = Array.isArray(result?.questions) ? result.questions : [];
-          for (let i = 0; i < batch.length; i++) {
-            const q = batch[i];
-            const rubric = ensureMcqOptionsInRubric(q.question_text ?? '', q.rubric ?? {}, 'mcq_visual_scenario');
-            const imageName = q.structure_image_name ?? batchNames[i] ?? batchNames[0];
-            questionsForItem.push({
-              question_text: q.question_text ?? '',
-              model_answer_text: q.model_answer_text ?? '',
-              rubric,
-              scenario_data: { structure_image_name: imageName },
-            });
-          }
-          state.done += batch.length;
-          console.log(`  ${progressBar(state.batchIndex, totalBatches)} [${state.batchIndex}/${totalBatches}] mcq_visual_scenario L${difficulty_level} (structure): +${batch.length} (${state.done} total)`);
-        } catch (err) {
-          console.error(`  [${state.batchIndex}/${totalBatches}] mcq_visual_scenario L${difficulty_level} structure failed:`, err.message);
-        }
-        await delay(delayMs);
-      }
+      return { planIndex, item: null };
     }
-
-    let remainingOutside = needOutside;
-    while (remainingOutside > 0) {
-      const batchCount = Math.min(BATCH_SIZE, remainingOutside);
+    const { distinctSlugs, firstSlotBySlug } = buildImageAllocation(structureImageSlots);
+    const needToGenerate = Math.max(need, distinctSlugs.length);
+    for (let i = 0; i < needToGenerate; i++) {
+      const slug = distinctSlugs[i % distinctSlugs.length];
+      const slot = firstSlotBySlug.get(slug);
       state.batchIndex++;
       try {
-        const prompt = buildVisualScenarioPrompt(notes, difficulty_level, batchCount);
+        const prompt = buildVisualScenarioPromptForStructureImages(notes, difficulty_level, [slot.slug]);
         const result = await runWithRetry(apiKey, prompt);
-        const batch = Array.isArray(result?.questions) ? result.questions.slice(0, batchCount) : [];
-        for (const q of batch) {
-          const rubric = ensureMcqOptionsInRubric(q.question_text ?? '', q.rubric ?? {}, 'mcq_visual_scenario');
+        const one = Array.isArray(result?.questions) ? result.questions[0] : null;
+        if (one) {
+          const qt = ensureMcqQuestionTextHtml(one.question_text ?? '');
+          const rubric = ensureMcqOptionsInRubric(qt, one.rubric ?? {}, 'mcq_visual_scenario');
           questionsForItem.push({
-            question_text: q.question_text ?? '',
-            model_answer_text: q.model_answer_text ?? '',
+            question_text: qt,
+            model_answer_text: one.model_answer_text ?? '',
             rubric,
-            scenario_data: q.image_instruction != null ? { image_instruction: String(q.image_instruction) } : null,
+            scenario_data: { structure_image_name: slot.slug },
+            section_ref: slot.nodePath,
           });
+          const w = getWordCountWarning('mcq_visual_scenario', qt);
+          if (w) console.warn('  ' + w);
+          state.done++;
+          console.log(`  ${progressBar(state.batchIndex, totalBatches)} [${state.batchIndex}/${totalBatches}] mcq_visual_scenario L${difficulty_level}: +1 (${state.done} total)`);
         }
-        state.done += batch.length;
-        remainingOutside -= batch.length;
-        console.log(`  ${progressBar(state.batchIndex, totalBatches)} [${state.batchIndex}/${totalBatches}] mcq_visual_scenario L${difficulty_level}: +${batch.length} (${state.done} total)`);
       } catch (err) {
         console.error(`  [${state.batchIndex}/${totalBatches}] mcq_visual_scenario L${difficulty_level} failed:`, err.message);
-        remainingOutside -= batchCount;
       }
       await delay(delayMs);
     }
     if (questionsForItem.length > 0) {
-      return { planIndex, item: { question_type: 'mcq_visual_scenario', difficulty_level, difficulty_tag: DIFFICULTY_TAGS[difficulty_level], questions: questionsForItem.slice(0, count) } };
+      const totalQuestions = Math.max(count, distinctSlugs.length);
+      return { planIndex, item: { question_type: 'mcq_visual_scenario', difficulty_level, difficulty_tag: DIFFICULTY_TAGS[difficulty_level], questions: questionsForItem.slice(0, totalQuestions) } };
     }
     return { planIndex, item: null };
   }
@@ -1178,15 +1235,25 @@ async function runOnePlanEntry(apiKey, notes, entry, imagePlaceholders, state, t
       const result = await runWithRetry(apiKey, prompt);
       const batch = Array.isArray(result?.questions) ? result.questions.slice(0, batchCount) : [];
       for (const q of batch) {
-        const rubric = ensureMcqOptionsInRubric(q.question_text ?? '', q.rubric ?? {}, question_type);
+        let qt = q.question_text ?? '';
+        let modelAnswer = q.model_answer_text ?? '';
+        if (String(question_type).startsWith('mcq_')) qt = ensureMcqQuestionTextHtml(qt);
+        if (question_type === 'structured_essay') {
+          qt = ensureStructuredEssayQuestionTextHtml(qt);
+          modelAnswer = ensureStructuredEssayModelAnswerHtml(modelAnswer);
+        }
+        let rubric = ensureMcqOptionsInRubric(qt, q.rubric ?? {}, question_type);
+        if (question_type === 'structured_essay') rubric = ensureStructuredEssayThreeBlocks(rubric);
         questionsForItem.push({
-          question_text: q.question_text ?? '',
-          model_answer_text: q.model_answer_text ?? '',
+          question_text: qt,
+          model_answer_text: modelAnswer,
           rubric,
           scenario_data: null,
           section_ref: q.section_ref ?? undefined,
           section_refs: Array.isArray(q.section_refs) ? q.section_refs : undefined,
         });
+        const w = getWordCountWarning(question_type, qt);
+        if (w) console.warn('  ' + w);
       }
       state.done += batch.length;
       remaining -= batch.length;
@@ -1438,15 +1505,20 @@ async function main() {
       .query('SELECT id FROM curation_items WHERE chapter_id = $1 AND content_type = $2 LIMIT 1', [chapterIdForApi, 'questions'])
       .then((r) => r.rows[0]);
     if (itemRow?.id) {
-      const baseUrl = (process.env.CURATION_API_URL || 'http://localhost:3000').replace(/\/$/, '');
-      const token = process.env.CURATION_API_TOKEN?.trim();
+      let baseUrl = (process.env.CURATION_API_URL || 'http://localhost:3000').replace(/\/$/, '');
+      if (baseUrl.includes('localhost') && !baseUrl.includes('127.0.0.1')) baseUrl = baseUrl.replace('localhost', '127.0.0.1');
+      const adminToken = process.env.ADMIN_API_TOKEN?.trim();
+      const curationToken = process.env.CURATION_API_TOKEN?.trim();
+      const useAdmin = adminToken != null && adminToken !== '';
+      const token = useAdmin ? adminToken : curationToken;
       if (!token) {
-        console.error('Curation API failed: CURATION_API_TOKEN is not set. Set it in backend/.env (or env) for --from-db structure images.');
+        console.error('Curation API failed: set ADMIN_API_TOKEN or CURATION_API_TOKEN in backend/.env (or env) for --from-db structure images.');
         process.exit(1);
       }
+      const path = useAdmin ? `/admin/curation/items/${itemRow.id}/structure-images` : `/curation/items/${itemRow.id}/structure-images`;
       let res;
       try {
-        res = await fetch(`${baseUrl}/curation/items/${itemRow.id}/structure-images`, {
+        res = await fetch(`${baseUrl}${path}`, {
           headers: { Authorization: `Bearer ${token}` },
         });
       } catch (err) {
@@ -1457,7 +1529,7 @@ async function main() {
       if (!res.ok) {
         const text = await res.text();
         console.error('Curation API failed:', res.status, text || res.statusText);
-        console.error('Set CURATION_API_TOKEN and ensure the token is valid.');
+        console.error(useAdmin ? 'Set ADMIN_API_TOKEN and ensure ADMIN_API_KEY matches on the server.' : 'Set CURATION_API_TOKEN and ensure the token is valid (or use CURATION_SCRIPT_API_KEY on the server).');
         process.exit(1);
       }
       const data = await res.json().catch(() => ({}));
@@ -1479,6 +1551,15 @@ async function main() {
   }
   if (structureImageSlots == null && structureImageNames.length > 0) {
     console.log('Structure images (60% within):', structureImageNames.length, 'in', structureImagesDir);
+  }
+
+  const planHasVisualTypes = plan.some(
+    (p) => (p.question_type === 'picture_study_linked' || p.question_type === 'mcq_visual_scenario') && (!onlyTypes || onlyTypes.has(p.question_type))
+  );
+  const hasSlots = Array.isArray(structureImageSlots) && structureImageSlots.length > 0;
+  if (planHasVisualTypes && !hasSlots) {
+    console.error('Picture study and visual scenario questions require uploaded images (--from-db). Folder-only runs are not allowed for these types.');
+    process.exit(1);
   }
 
   fs.mkdirSync(outDir, { recursive: true });
@@ -1503,18 +1584,10 @@ async function main() {
   const workEntries = planEntriesWithMeta.filter((p) => p.need > 0);
   const concurrency = getConcurrency(resume);
   const delayMs = getDelayMs();
-  const effectiveStructureCount = structureImageSlots?.length ?? structureImageNames.length;
+  const distinctSlugCount = hasSlots ? buildImageAllocation(structureImageSlots).distinctSlugs.length : 0;
   const totalBatches = planEntriesWithMeta.reduce((acc, p) => {
     if (p.need <= 0) return acc;
-    if (p.question_type === 'picture_study_linked') return acc + p.need;
-    if (p.question_type === 'mcq_visual_scenario') {
-      const needWithin = effectiveStructureCount > 0 ? Math.round(p.need * withinPct) : 0;
-      const needOutside = p.need - needWithin;
-      const withinBatches = structureImageSlots?.length
-        ? Math.min(needWithin, structureImageSlots.length)
-        : Math.ceil(needWithin / BATCH_SIZE);
-      return acc + withinBatches + Math.ceil(needOutside / BATCH_SIZE);
-    }
+    if (p.question_type === 'picture_study_linked' || p.question_type === 'mcq_visual_scenario') return acc + Math.max(p.need, distinctSlugCount);
     return acc + Math.ceil(p.need / BATCH_SIZE);
   }, 0);
 
@@ -1564,6 +1637,17 @@ async function main() {
       ...item,
       syllabus_node_id: nodeIdsForRoundRobin[i % nodeIdsForRoundRobin.length],
     }));
+  }
+
+  // Normalize match_mode "word" -> "keyword_match" (LLM sometimes outputs "word")
+  for (const item of outItems) {
+    for (const q of item.questions || []) {
+      if (q.rubric?.blocks) {
+        for (const b of q.rubric.blocks) {
+          if (b.match_mode === 'word') b.match_mode = 'keyword_match';
+        }
+      }
+    }
   }
 
   const out = {

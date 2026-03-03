@@ -12,6 +12,10 @@ backend/dist/
 curation-app/dist/
 web-build/
 
+# Generated outputs (reproducible; do not backup)
+backend/out/
+scripts/question-bank-generate/out/
+
 # Backend uploads (local dev; production uses object storage)
 backend/uploads/
 uploads/

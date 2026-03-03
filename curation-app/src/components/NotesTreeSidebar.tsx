@@ -25,6 +25,9 @@ export function buildNodesTree(nodes: DraftNode[]): TreeNode[] {
 }
 
 const INDENT = 16;
+const ROW_HEIGHT = 32;
+/** Vertical line runs from row center to row center; first child row center from top of this item. */
+const ROOT_STEM_END_PX = ROW_HEIGHT + 2 + ROW_HEIGHT / 2; // 50
 
 const DEFAULT_SIDEBAR_WIDTH = 260;
 
@@ -83,57 +86,82 @@ function TreeItem({
 
   const { setNodeRef, isOver } = useDroppable({ id: `sidebar-${item.node.id}` });
 
+  const hasChildren = item.children.length > 0;
   const showConnector = depth >= 1;
-  const verticalTop = isFirst ? '50%' : 0;
-  const verticalBottom = isLast ? '50%' : 0;
-  const connectorWidth = depth * INDENT;
+  const showRootStem = depth === 0 && hasChildren;
+  const connectorWidth = Math.max(depth * INDENT, showRootStem ? INDENT : 0);
+  const lineLeft = connectorWidth - INDENT / 2 - 1;
 
   return (
-    <div style={{ marginBottom: 2 }}>
+    <div style={{ position: 'relative', marginBottom: 2 }}>
+      {/* Classic tree: connector spans full subtree so vertical spine is continuous */}
+      {showConnector && (
+        <div
+          style={{
+            position: 'absolute',
+            left: 0,
+            top: 0,
+            bottom: 0,
+            width: connectorWidth,
+            pointerEvents: 'none',
+          }}
+        >
+          <div
+            style={{
+              position: 'absolute',
+              left: lineLeft,
+              width: 1,
+              top: isFirst ? ROW_HEIGHT / 2 : 0,
+              bottom: isLast ? ROW_HEIGHT / 2 : 0,
+              background: 'var(--border)',
+            }}
+          />
+          <div
+            style={{
+              position: 'absolute',
+              left: lineLeft,
+              width: INDENT / 2,
+              top: ROW_HEIGHT / 2,
+              height: 1,
+              background: 'var(--border)',
+            }}
+          />
+        </div>
+      )}
+      {showRootStem && (
+        <div
+          style={{
+            position: 'absolute',
+            left: 0,
+            top: 0,
+            width: INDENT,
+            height: ROOT_STEM_END_PX,
+            pointerEvents: 'none',
+          }}
+        >
+          <div
+            style={{
+              position: 'absolute',
+              left: INDENT / 2 - 1,
+              width: 1,
+              top: ROW_HEIGHT / 2,
+              bottom: 0,
+              background: 'var(--border)',
+            }}
+          />
+        </div>
+      )}
       <div
         ref={setNodeRef}
         style={{
           position: 'relative',
-          minHeight: 32,
+          minHeight: ROW_HEIGHT,
           display: 'flex',
           alignItems: 'center',
           gap: 4,
           ...(isOver ? { background: 'rgba(37, 99, 235, 0.12)', borderRadius: 4 } : {}),
         }}
       >
-        {showConnector && (
-          <div
-            style={{
-              position: 'absolute',
-              left: 0,
-              top: 0,
-              bottom: 0,
-              width: connectorWidth,
-              pointerEvents: 'none',
-            }}
-          >
-            <div
-              style={{
-                position: 'absolute',
-                left: connectorWidth - INDENT / 2 - 1,
-                width: 1,
-                top: verticalTop,
-                bottom: verticalBottom,
-                background: 'var(--border)',
-              }}
-            />
-            <div
-              style={{
-                position: 'absolute',
-                left: connectorWidth - INDENT / 2 - 1,
-                width: INDENT / 2,
-                top: '50%',
-                height: 1,
-                background: 'var(--border)',
-              }}
-            />
-          </div>
-        )}
         <button
           type="button"
           onClick={() => onSelectNode(item.node.id)}

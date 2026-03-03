@@ -90,6 +90,10 @@ type QuestionItemJson = {
     scenario_data?: Record<string, unknown> | null;
     /** Resolved syllabus_node_id (from section_ref/section_refs). When present, overrides item.syllabus_node_id. */
     syllabus_node_id?: string | null;
+    /** Per-sub-part nodes for structured_essay (i/ii/iii). When present, syllabus_node_id is null for that question. */
+    sub_part_syllabus_node_ids?: Array<{ sub_part_key: string; syllabus_node_id: string }>;
+    /** Optional; when set, questions with the same id are shown as a group (e.g. paired for insufficient points). */
+    question_group_id?: string | null;
   }>;
 };
 
@@ -373,12 +377,22 @@ function defaultAnswerInputType(questionType: string): 'typed' | 'choice' {
   return choiceTypes.has(questionType) ? 'choice' : 'typed';
 }
 
+/** Normalize match_mode "word" -> "keyword_match" so "Other: word" never gets stored. */
+function normalizeRubricMatchModeWord(rubric: Record<string, unknown>): Record<string, unknown> {
+  if (!rubric || !Array.isArray(rubric.blocks)) return rubric;
+  const blocks = (rubric.blocks as Array<Record<string, unknown>>).map((b) =>
+    b.match_mode === 'word' ? { ...b, match_mode: 'keyword_match' } : b
+  );
+  return { ...rubric, blocks };
+}
+
 async function importQuestionsIntoDraft(
   pool: ReturnType<typeof getPool>,
   subjectId: string,
   chapterId: string,
   data: SampleQuestionsJson
 ): Promise<number> {
+  await pool.query('DELETE FROM draft_question_sub_part_nodes WHERE draft_question_id IN (SELECT id FROM draft_questions WHERE chapter_id = $1)', [chapterId]);
   await pool.query('DELETE FROM draft_rubrics WHERE draft_question_id IN (SELECT id FROM draft_questions WHERE chapter_id = $1)', [chapterId]);
   await pool.query('DELETE FROM draft_questions WHERE chapter_id = $1', [chapterId]);
   const validNodeIds = new Set(
@@ -391,9 +405,13 @@ async function importQuestionsIntoDraft(
     const difficultyLevel = Math.min(4, Math.max(1, Number(item.difficulty_level) || 2));
     const itemNodeId = item.syllabus_node_id && validNodeIds.has(item.syllabus_node_id) ? item.syllabus_node_id : null;
     for (const q of item.questions || []) {
-      const syllabusNodeId =
-        q.syllabus_node_id != null && validNodeIds.has(q.syllabus_node_id) ? q.syllabus_node_id : itemNodeId;
-      const rubric = q.rubric || {};
+      const subPartNodes = Array.isArray(q.sub_part_syllabus_node_ids) ? q.sub_part_syllabus_node_ids : [];
+      const hasSubPartNodes = subPartNodes.length > 0 && (item.question_type || q.question_type) === 'structured_essay';
+      const syllabusNodeId = hasSubPartNodes
+        ? null
+        : (q.syllabus_node_id != null && validNodeIds.has(q.syllabus_node_id) ? q.syllabus_node_id : itemNodeId);
+      const rawRubric = q.rubric || {};
+      const rubric = normalizeRubricMatchModeWord(rawRubric);
       const answerInputType = (rubric.answer_input_type === 'typed' || rubric.answer_input_type === 'choice')
         ? rubric.answer_input_type
         : defaultAnswerInputType(questionType);
@@ -402,9 +420,13 @@ async function importQuestionsIntoDraft(
         q.scenario_data != null && typeof q.scenario_data === 'object'
           ? JSON.stringify(q.scenario_data)
           : null;
+      const questionGroupId =
+        q.question_group_id != null && typeof q.question_group_id === 'string' && /^[0-9a-f-]{36}$/i.test(q.question_group_id)
+          ? q.question_group_id
+          : null;
       const ins = await pool.query<{ id: string }>(
-        `INSERT INTO draft_questions (chapter_id, syllabus_node_id, question_text, question_type, discipline, difficulty_level, answer_input_type, marks, source_type, model_answer_text, scenario_data)
-         VALUES ($1, $2, $3, $4, $5, $6, $7, $8, 'ai_generated', $9, $10) RETURNING id`,
+        `INSERT INTO draft_questions (chapter_id, syllabus_node_id, question_text, question_type, discipline, difficulty_level, answer_input_type, marks, source_type, model_answer_text, scenario_data, question_group_id)
+         VALUES ($1, $2, $3, $4, $5, $6, $7, $8, 'ai_generated', $9, $10, $11) RETURNING id`,
         [
           chapterId,
           syllabusNodeId,
@@ -416,6 +438,7 @@ async function importQuestionsIntoDraft(
           marks,
           (q.model_answer_text ?? '').slice(0, 65535) || null,
           scenarioData,
+          questionGroupId,
         ]
       );
       const draftQuestionId = ins.rows[0].id;
@@ -423,6 +446,17 @@ async function importQuestionsIntoDraft(
         'INSERT INTO draft_rubrics (draft_question_id, rubric_version, rubric_json) VALUES ($1, $2, $3)',
         [draftQuestionId, Number(rubric.rubric_version) || 2, JSON.stringify(rubric)]
       );
+      if (hasSubPartNodes) {
+        for (const { sub_part_key, syllabus_node_id } of subPartNodes) {
+          if (sub_part_key && syllabus_node_id && validNodeIds.has(syllabus_node_id) && ['i', 'ii', 'iii'].includes(sub_part_key)) {
+            await pool.query(
+              `INSERT INTO draft_question_sub_part_nodes (draft_question_id, sub_part_key, syllabus_node_id) VALUES ($1, $2, $3)
+               ON CONFLICT (draft_question_id, sub_part_key) DO UPDATE SET syllabus_node_id = EXCLUDED.syllabus_node_id`,
+              [draftQuestionId, sub_part_key, syllabus_node_id]
+            );
+          }
+        }
+      }
       count++;
     }
   }

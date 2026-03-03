@@ -290,21 +290,23 @@ When generating questions, aim for this mix across the paper (aligns with templa
 
 **Format:** Structured written response with multiple sub-parts. **Total 10 marks;** max 4 sub-parts; each sub-part ≤ 4 marks. **Default/primary split for History & Civics: 3+3+4.** Fallback: 2+2+3+3, 2+2+2+4. Section A (Civics) uses 3+3+4 exclusively in board papers.
 
+**Rubric structure:** The rubric has **one block per sub-part**. For the standard 3+3+4 split there are **exactly three blocks**, with `sub_part_key` "i", "ii", "iii" and `marks` 3, 3, 4. Each block uses "any X of Y" via `selection: { min, max }` and multiple `criteria` whose scores sum to that block's marks.
+
 **Must:**
-- Specify structure ("Any 3 of…", or (a)(b)(c)(d)); rubric with one block per sub-part (or "any X" with multiple criteria); total_marks 10; each block's marks ≤ 4.
+- Specify structure ("Any 3 of…", or (i)(ii)(iii)); rubric with **one block per sub-part** (exactly 3 blocks for 3+3+4); total_marks 10; each block's marks ≤ 4; each block has `sub_part_key`, `marks`, `selection`, and `criteria`.
 
 **Must not:**
-- No single short phrase (use short_answer); no MCQ; no Assertion/Reason; no open-ended without structure.
+- No single short phrase (use short_answer); no MCQ; no Assertion/Reason; no open-ended without structure. Do not use a single rubric block for the whole question.
 
 **Civics:** "Explain any three features of…"; "Differentiate between…"; Article/terminology in criteria.  
 **History:** "Explain any three causes of…"; "Importance of…"; cause–effect and chronology in criteria.
 
 **Rubric examples:**
 
-1. **3+3+4:** Three blocks; first two blocks each "any 3" or 3 criteria, 1 mark each; third block 4 marks; total_marks 10.
-2. **2+2+3+3:** Four blocks; 2, 2, 3, 3 marks; each block with selection and criteria; allow_partial where appropriate.
+1. **3+3+4 (primary):** Exactly three blocks: block 1 `sub_part_key: "i"`, `marks: 3`, `selection: { min: 3, max: 3 }`, 4 criteria (any 3 of 4); block 2 `sub_part_key: "ii"`, `marks: 3`, same pattern; block 3 `sub_part_key: "iii"`, `marks: 4`, `selection: { min: 4, max: 4 }`, 4–5 criteria; total_marks 10.
+2. **2+2+3+3:** Four blocks; `sub_part_key` i–iv; 2, 2, 3, 3 marks; each block with selection and criteria; allow_partial where appropriate.
 3. **2+2+2+4:** Four blocks; 2, 2, 2, 4; each ≤ 4; total 10.
-4. **"Any 3 of":** One block, `selection: { min: 3, max: 3 }`, multiple criteria, each score 1 so total 3 for that block; other blocks sum to 7; total_marks 10.
+4. **"Any 3 of" per block:** Each block has its own `selection` (e.g. min: 3, max: 3) and multiple criteria; scores per block sum to that block's marks.
 
 ---
 

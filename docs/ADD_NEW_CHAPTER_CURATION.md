@@ -85,7 +85,7 @@ See `docs/QUESTION_BANK_GENERATION.md` and `backend/scripts/curation-import.ts` 
    - **Save**, then **Mark Ready to Publish** when done.
 4. **Revision notes:** Open the Revision Notes item, edit blocks, Save, Mark Ready to Publish when done.
 5. **Chapter images (optional):** Open the **Images** link for the chapter. Upload images (slug is set from filename); use “Assign nodes” and click **Save nodes** at the bottom of the dropdown to map each image to syllabus nodes. Used by the question generator for picture study and visual scenario questions.
-6. **Questions:** Open the Questions item. Use the left sidebar: **In Progress** and **Ready to Publish**. Edit each question and use **Mark ready to publish** or **Mark in progress** per question. **Save** to persist edits. Only questions in **Ready to Publish** will be published when the admin runs the publish script. You can **reassign** a question’s syllabus node from the right panel (dropdown with full node tree; “Unassign” option).
+6. **Questions:** Open the Questions item. Use the left sidebar: **In Progress** and **Ready to Publish**. Edit each question and use **Mark ready to publish** or **Mark in progress** per question. **Save** to persist edits. Only questions in **Ready to Publish** will be published when the admin runs the publish script. You can **reassign** a question’s syllabus node from the right panel (dropdown with full node tree; “Unassign” option). For **structured_essay**, the right panel shows per-sub-part node selectors for (i), (ii), (iii) so each sub-part can map to a different node.
 
 ---
 

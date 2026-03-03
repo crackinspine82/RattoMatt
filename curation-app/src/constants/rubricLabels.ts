@@ -17,8 +17,8 @@ export type RubricLabelSet = {
 const historyCivicsLabels: RubricLabelSet = {
   matchModeOptions: [
     { value: 'exact', label: 'Answer must match exactly' },
-    { value: 'keyword_match', label: 'Match by keywords (any of these phrases)' },
-    { value: 'keyword', label: 'Match by keywords' },
+    { value: 'keyword_match', label: 'Any Keyword Should Match' },
+    { value: 'keyword', label: 'All Keywords Should Match' },
     { value: 'sequence', label: 'Match in order (sequence matters)' },
     { value: 'semantic', label: 'Match by meaning (similar words count)' },
   ],

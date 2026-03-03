@@ -1,6 +1,6 @@
 # RattoMatt Curation App
 
-Web app for SMEs to curate syllabus structure and study notes. See `docs/CURATION_SYSTEM.md` for the full design.
+Web app for SMEs to curate syllabus structure, study notes, revision notes, questions, and chapter images. See `docs/CURATION_SYSTEM.md` for design and `docs/CURATION_SPEC.md` for implementation (per-question ready, chapter images, SME-friendly rubric).
 
 ## Setup
 
@@ -25,7 +25,7 @@ Web app for SMEs to curate syllabus structure and study notes. See `docs/CURATIO
    npm run dev   # http://localhost:5174, proxies /curation to backend
    ```
 
-4. Log in with the SME email/password, then open items (Structure or Notes), edit, Save, and Mark Ready to Publish.
+4. Log in with the SME email/password. Open items: **Structure** (syllabus + full extract), **Revision notes**, **Questions** (per-question ready to publish, node reassignment, rubric), **Images** (upload images, slug from filename, assign nodes for picture study / visual scenario). Edit, Save, and Mark Ready to Publish where applicable.
 
 5. **Publish** (after SME marks items ready):
    ```bash

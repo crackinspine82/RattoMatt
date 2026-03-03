@@ -2,7 +2,7 @@
 /**
  * Temporary test: generate a board-style question paper PDF + answer key PDF from
  * draft_questions in the curation DB (Ch1 History + Ch1 Civics only).
- * Uses docs/paper-templates/icse-grade9-history-civics.yaml.
+ * Uses docs/paper-templates/icse-grade10-history-civics.yaml.
  * Run from backend/: npm run paper:test [-- --out-dir=./out]
  * Multiple runs produce different papers (randomized selection).
  */
@@ -17,7 +17,7 @@ import { getPool } from '../src/db.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '../..');
-const TEMPLATE_PATH = path.join(ROOT, 'docs/paper-templates/icse-grade9-history-civics.yaml');
+const TEMPLATE_PATH = path.join(ROOT, 'docs/paper-templates/icse-grade10-history-civics.yaml');
 
 const DIFFICULTY_MAP: Record<string, number> = { easy: 1, medium: 2, difficult: 3, complex: 4 };
 
@@ -52,6 +52,20 @@ function toRoman(n: number): string {
       v -= val;
     }
   }
+  return s;
+}
+
+/** Convert HTML to plain text for PDF: block elements → newlines, table → tab/newline, strip tags, decode entities. */
+function htmlToPlainText(html: string | null | undefined): string {
+  if (html == null || typeof html !== 'string') return '';
+  let s = html.trim();
+  if (!s) return '';
+  s = s.replace(/\s*<\/tr>\s*/gi, '\n').replace(/\s*<tr[^>]*>\s*/gi, '').replace(/\s*<\/td>\s*/gi, '\t').replace(/\s*<td[^>]*>\s*/gi, '');
+  s = s.replace(/\s*<\/?p[^>]*>\s*/gi, '\n').replace(/\s*<\/?div[^>]*>\s*/gi, '\n').replace(/\s*<\/li>\s*/gi, '\n').replace(/\s*<li[^>]*>\s*/gi, '\n');
+  s = s.replace(/\s*<br\s*\/?>\s*/gi, '\n').replace(/\s*<\/?ul[^>]*>\s*/gi, '\n').replace(/\s*<\/?ol[^>]*>\s*/gi, '\n');
+  s = s.replace(/<[^>]+>/g, ' ');
+  s = s.replace(/&nbsp;/gi, ' ').replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"');
+  s = s.replace(/[ \t]+/g, ' ').replace(/\n /g, '\n').replace(/ \n/g, '\n').replace(/\n{3,}/g, '\n\n').trim();
   return s;
 }
 
@@ -821,7 +835,8 @@ function drawQuestionPaper(doc: PDFKit.PDFDocument, template: Record<string, unk
   for (const q of selected) {
     const label = q.sectionLabel;
     const imgText = needsImagePlaceholder(q) ? getImagePlaceholderText(q) : null;
-    let body = imgText ? imgText + '\n\n' + q.question_text : q.question_text;
+    const plainQuestion = htmlToPlainText(q.question_text);
+    let body = imgText ? imgText + '\n\n' + plainQuestion : plainQuestion;
 
     if (label.startsWith('Question 1')) {
       if (!part1Q1Done) {
@@ -858,7 +873,7 @@ function drawQuestionPaper(doc: PDFKit.PDFDocument, template: Record<string, unk
         doc.font('Helvetica').text('(Attempt any two questions from this Section.)', { align: 'center' }).moveDown(0.6);
       }
       const part2Label = `Question ${2 + sectionAIndex}`;
-      const subMarks = getSubQuestionMarks(q.question_text, q.rubric_json);
+      const subMarks = getSubQuestionMarks(plainQuestion, q.rubric_json);
       drawQuestionLineWithMarks(doc, part2Label, subMarks.length > 0 ? '' : '[10]', body, {
         isTable: false,
         bodyOnNewLine: true,
@@ -873,7 +888,7 @@ function drawQuestionPaper(doc: PDFKit.PDFDocument, template: Record<string, unk
         doc.font('Helvetica').text('(Attempt any three questions from this Section.)', { align: 'center' }).moveDown(0.6);
       }
       const part2Label = `Question ${5 + sectionBIndex}`;
-      const subMarks = getSubQuestionMarks(q.question_text, q.rubric_json);
+      const subMarks = getSubQuestionMarks(plainQuestion, q.rubric_json);
       drawQuestionLineWithMarks(doc, part2Label, subMarks.length > 0 ? '' : '[10]', body, {
         isTable: false,
         bodyOnNewLine: true,
@@ -899,18 +914,19 @@ function drawAnswerKey(doc: PDFKit.PDFDocument, template: Record<string, unknown
 
   for (const q of selected) {
     const label = q.sectionLabel;
+    const plainAnswer = htmlToPlainText(q.model_answer_text ?? '') || '—';
     if (label.startsWith('Question 1')) {
       q1Index++;
       doc.fontSize(10).font('Helvetica-Bold').text(`Q1.${q1Index}`, { continued: true });
-      doc.font('Helvetica').text(` ${q.model_answer_text ?? '—'}`);
+      doc.font('Helvetica').text(` ${plainAnswer}`);
     } else if (label.startsWith('Question 2')) {
       q2Index++;
       doc.font('Helvetica-Bold').text(`Q2.${q2Index}`, { continued: true });
-      doc.font('Helvetica').text(` ${q.model_answer_text ?? '—'}`);
+      doc.font('Helvetica').text(` ${plainAnswer}`);
     } else {
       const qNum = label.replace('Question ', '');
       doc.font('Helvetica-Bold').text(`Q${qNum}.`, { continued: true });
-      doc.font('Helvetica').text(` ${(q.model_answer_text ?? '—').slice(0, 600)}${(q.model_answer_text?.length ?? 0) > 600 ? '...' : ''}`);
+      doc.font('Helvetica').text(` ${plainAnswer.slice(0, 600)}${plainAnswer.length > 600 ? '...' : ''}`);
     }
     doc.moveDown(0.3);
     if (doc.y > 700) doc.addPage();
@@ -926,7 +942,7 @@ async function main(): Promise<void> {
   const pool = getPool();
 
   const board = 'ICSE';
-  const grade = 9;
+  const grade = 10;
   const subjectName = 'Total History & Civics';
   const subjectRes = await pool.query<{ id: string }>(
     'SELECT id FROM subjects WHERE board = $1 AND grade_level = $2 AND name = $3',

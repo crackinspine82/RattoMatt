@@ -6,6 +6,11 @@ import { getRubricLabels, getMatchModeOptions } from '../constants/rubricLabels'
 export type RubricBlock = {
   id: string;
   label: string;
+  /** For structured_essay: "i" | "ii" | "iii" (sub-part). */
+  sub_part_key?: string;
+  /** Marks for this block (structured_essay / picture_study). */
+  marks?: number;
+  max_marks?: number;
   selection?: { min?: number; max?: number };
   match_mode?: string;
   criteria?: Array<{ id: string; keywords?: string[]; score?: number }>;
@@ -41,6 +46,9 @@ function getRubricFormData(rubric: Record<string, unknown>): RubricFormData {
       ? (rubric.blocks as RubricBlock[]).map((b) => ({
           id: typeof b.id === 'string' ? b.id : '',
           label: typeof b.label === 'string' ? b.label : '',
+          sub_part_key: typeof b.sub_part_key === 'string' ? b.sub_part_key : undefined,
+          marks: typeof b.marks === 'number' ? b.marks : typeof (b as { max_marks?: number }).max_marks === 'number' ? (b as { max_marks: number }).max_marks : undefined,
+          max_marks: typeof (b as { max_marks?: number }).max_marks === 'number' ? (b as { max_marks: number }).max_marks : undefined,
           selection:
             b.selection && typeof b.selection === 'object'
               ? {
@@ -82,6 +90,8 @@ function formDataToRubric(data: RubricFormData): Record<string, unknown> {
       data.blocks?.map((b) => ({
         id: b.id,
         label: b.label,
+        ...(b.sub_part_key != null ? { sub_part_key: b.sub_part_key } : {}),
+        ...(b.marks != null ? { marks: b.marks } : b.max_marks != null ? { marks: b.max_marks } : {}),
         selection: b.selection ?? { min: 1, max: 1 },
         match_mode: b.match_mode ?? 'exact',
         criteria:
@@ -147,6 +157,32 @@ export function RubricForm({ rubric, onChange, subjectId }: Props) {
   const isChoiceType =
     (data.answer_input_type ?? '').toLowerCase() === 'choice' ||
     (data.question_type ?? '').toLowerCase().includes('mcq');
+
+  const isStructuredLikeEssay =
+    (data.question_type ?? '').toLowerCase() === 'structured_essay' ||
+    (data.question_type ?? '').toLowerCase() === 'picture_study_linked';
+  const subPartKeys = ['i', 'ii', 'iii'] as const;
+
+  function addBlock() {
+    const blocks = [...(data.blocks ?? [])];
+    const nextKey = subPartKeys[blocks.length] ?? 'iii';
+    blocks.push({
+      id: `part_${nextKey}`,
+      label: `Sub-part (${nextKey})`,
+      sub_part_key: nextKey,
+      marks: nextKey === 'iii' ? 4 : 3,
+      selection: { min: nextKey === 'iii' ? 4 : 3, max: nextKey === 'iii' ? 4 : 3 },
+      match_mode: 'semantic',
+      criteria: [{ id: `point_${nextKey}`, keywords: [], score: nextKey === 'iii' ? 4 : 3 }],
+    });
+    update({ blocks });
+  }
+
+  function removeBlock(index: number) {
+    const blocks = [...(data.blocks ?? [])];
+    blocks.splice(index, 1);
+    update({ blocks });
+  }
 
   return (
     <div style={{ display: 'flex', flexDirection: 'column', gap: 16, padding: 16 }}>
@@ -229,12 +265,66 @@ export function RubricForm({ rubric, onChange, subjectId }: Props) {
       </div>
 
       {/* Marking guide (blocks) */}
-      {(data.blocks ?? []).length > 0 && (
+      {((data.blocks ?? []).length > 0 || isStructuredLikeEssay) && (
         <div>
-          <label style={labelStyle}>Marking guide</label>
+          {isStructuredLikeEssay && (
+            <p style={{ fontSize: 12, color: 'var(--text-muted)', marginBottom: 8 }}>
+              Structured essays and picture study questions have 3 sub-parts (i), (ii), (iii). Use 3 blocks with Sub-part (i)/(ii)/(iii) and marks 2–4 per block (e.g. 3+3+4).
+            </p>
+          )}
+          {isStructuredLikeEssay && (data.blocks ?? []).length !== 3 && (
+            <div style={{ padding: 8, marginBottom: 8, background: 'var(--surface)', borderRadius: 6, border: '1px solid var(--border)', fontSize: 12, color: 'var(--text-muted)' }}>
+              Should have exactly 3 blocks. Currently: {(data.blocks ?? []).length}. {((data.blocks ?? []).length < 3) ? 'Add sub-part(s) below.' : 'Remove a sub-part or add one to fix.'}
+            </div>
+          )}
+          <div style={{ display: 'flex', alignItems: 'center', gap: 8, flexWrap: 'wrap', marginBottom: 8 }}>
+            <label style={labelStyle}>Marking guide</label>
+            {isStructuredLikeEssay && (
+              <>
+                <button type="button" onClick={addBlock} style={{ padding: '4px 10px', fontSize: 12, border: '1px solid var(--border)', borderRadius: 6, background: 'var(--surface)', cursor: 'pointer' }}>
+                  Add sub-part
+                </button>
+                {(data.blocks ?? []).length > 3 && (
+                  <span style={{ fontSize: 11, color: 'var(--text-muted)' }}>Remove a block to keep exactly 3.</span>
+                )}
+              </>
+            )}
+          </div>
           <div style={{ display: 'flex', flexDirection: 'column', gap: 12 }}>
             {(data.blocks ?? []).map((block, bi) => (
               <div key={block.id || bi} style={{ padding: 12, background: 'var(--surface)', borderRadius: 8, border: '1px solid var(--border)' }}>
+                {isStructuredLikeEssay && (
+                  <div style={{ display: 'grid', gridTemplateColumns: '1fr 80px auto', gap: 8, alignItems: 'center', marginBottom: 8 }}>
+                    <div>
+                      <label style={{ fontSize: 11, fontWeight: 600, marginBottom: 2, display: 'block', color: 'var(--text-muted)' }}>Sub-part</label>
+                      <select
+                        value={block.sub_part_key ?? subPartKeys[bi] ?? 'i'}
+                        onChange={(e) => updateBlock(bi, { sub_part_key: e.target.value })}
+                        style={inputStyle}
+                      >
+                        {subPartKeys.map((k) => (
+                          <option key={k} value={k}>({k})</option>
+                        ))}
+                      </select>
+                    </div>
+                    <div>
+                      <label style={{ fontSize: 11, fontWeight: 600, marginBottom: 2, display: 'block', color: 'var(--text-muted)' }}>Marks</label>
+                      <input
+                        type="number"
+                        min={1}
+                        max={4}
+                        value={block.marks ?? block.max_marks ?? 3}
+                        onChange={(e) => updateBlock(bi, { marks: parseInt(e.target.value, 10) || 0 })}
+                        style={inputStyle}
+                      />
+                    </div>
+                    {(data.blocks ?? []).length > 3 && (
+                      <button type="button" onClick={() => removeBlock(bi)} style={{ padding: '6px 8px', fontSize: 11, border: '1px solid var(--border)', borderRadius: 4, background: 'var(--bg)', cursor: 'pointer', alignSelf: 'end' }}>
+                        Remove
+                      </button>
+                    )}
+                  </div>
+                )}
                 <div style={{ display: 'flex', flexDirection: 'column', gap: 8, marginBottom: 8 }}>
                   <div>
                     <label style={{ ...labelStyle, marginBottom: 4 }}>Part name or description</label>

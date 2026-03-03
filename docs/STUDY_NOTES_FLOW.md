@@ -65,3 +65,5 @@ npm run seed:study-notes
 2. Study-notes extract → notes JSON (nodes with content_blocks; may update syllabus JSON).
 3. Upsert syllabus → syllabus_nodes in DB.
 4. Seed study-notes → note_blocks in DB.
+
+**Curation path (draft → publish):** For SME curation before publish, use **curation import** instead of direct seed: syllabus + notes JSON → draft tables + curation_items. Then open Structure, Revision Notes, Questions, and optionally **Chapter images** in the curation app; publish when ready. See `docs/ADD_NEW_CHAPTER_CURATION.md`.

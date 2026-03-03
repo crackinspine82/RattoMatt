@@ -43,12 +43,14 @@ This spec defines the **implementation details** for the curation system so SMEs
 
 ## 3. API Changes
 
-### 3.1 Questions: per-question ready flag
+### 3.1 Questions: per-question ready flag and sub-part nodes
 
 - **GET** `/curation/items/:itemId/questions`  
   - Response must include a `ready_to_publish` (or equivalent) flag per question so the UI can render In Progress vs Ready to Publish buckets.
+  - For **structured_essay**, response includes **sub_part_nodes** per question: `[{ sub_part_key, syllabus_node_id }, ...]` (from `draft_question_sub_part_nodes`). A question is considered “valid” (under the tree) if it has at least one sub-part node in the published tree when `syllabus_node_id` is null.
 - **PUT** `/curation/items/:itemId/questions`  
   - Request body may include `ready_to_publish` per question (when saving the list).
+  - Request body may include **sub_part_nodes** per question: `[{ sub_part_key, syllabus_node_id }, ...]`. For structured_essay, when sub_part_nodes is present the backend sets `syllabus_node_id` to null and replaces rows in `draft_question_sub_part_nodes` for that question. Only keys `i`, `ii`, `iii` and valid node IDs are stored.
 - **PATCH** (new, recommended) `/curation/items/:itemId/questions/:questionId/ready`  
   - Body: `{ "ready_to_publish": true | false }`.  
   - Toggles a single question’s `ready_to_publish` without sending the full list. Optional if the UI only ever saves the full list with the flag set per question.
@@ -80,7 +82,7 @@ This spec defines the **implementation details** for the curation system so SMEs
 ### 4.3 SME-friendly rubric and node
 
 - **Rubric form:** Difficulty, Difficulty Tag, Answer Input Type, and Match Mode use **subject-specific labels** (`curation-app/src/constants/rubricLabels.ts`). Question Type is read-only. Technical fields (rubric_version, block/criterion IDs) are in a collapsible "Advanced" section. Labels are defined for History/Civics; extensible per subject.
-- **Syllabus node:** Shown in the right panel above Question Type. SME can **reassign** the question's node via a dropdown (full node tree; "Unassign" option). Single scrollable list with indentation.
+- **Syllabus node:** Shown in the right panel above Question Type. For most question types, SME can **reassign** the question’s node via a single dropdown (full node tree; "Unassign" option). For **structured_essay**, the UI shows **per-sub-part node selectors** for (i), (ii), (iii); each has its own dropdown so sub-parts can map to different nodes. Save sends **sub_part_nodes** and the API persists **draft_question_sub_part_nodes** (and sets draft `syllabus_node_id` to null when sub-part nodes are present).
 - **MCQ blocks:** MCQs use a single rubric block (no duplicate blocks per question).
 
 ---
@@ -142,12 +144,13 @@ Match the **Revision Notes** editor pattern (see `curation-app/src/pages/Revisio
 ### 7.2 Questions: incremental add/update only
 
 - **Input:** Curation items with content_type `questions` and status `ready_to_publish` (or a dedicated “publish questions for chapter X” run; see note below).
-- **Rule:** Publish **only** draft questions for that chapter where `draft_questions.ready_to_publish = true`.
+- **Rule:** Publish **only** draft questions for that chapter where `draft_questions.ready_to_publish = true` and either `syllabus_node_id IS NOT NULL` or (for **structured_essay**) the question has at least one row in **draft_question_sub_part_nodes**.
 - **Behaviour:**
   - Do **not** delete all published questions for the chapter. 
-  - For each draft question with `ready_to_publish = true`:
-    - If it has a `published_question_id`: **update** the existing published question (and its rubric) in place.
-    - If it has no `published_question_id`: **insert** a new row into `questions` (and `rubrics`); set `draft_questions.published_question_id` to the new id.
+  - For each draft question with `ready_to_publish = true` (and a node assignment as above):
+    - **Effective node:** Use `syllabus_node_id` when set; for structured_essay with only sub-part nodes, use the first sub-part’s node as the published question’s `syllabus_node_id` (so it appears under the tree).
+    - If it has a `published_question_id`: **update** the existing published question (and its rubric) in place; replace **question_sub_part_nodes** for that question from **draft_question_sub_part_nodes**.
+    - If it has no `published_question_id`: **insert** a new row into `questions` (and `rubrics`); set `draft_questions.published_question_id` to the new id; copy **draft_question_sub_part_nodes** → **question_sub_part_nodes** for the new question id.
   - Existing published questions that no longer have a corresponding draft with `ready_to_publish = true` are **left unchanged** (not deleted). Thus, adding more draft questions later and marking them ready only adds/updates those; it does not remove or overwrite other published questions.
 - **Item status:** After publishing questions for a chapter, set the curation item status to `published` only if desired (e.g. when all intended questions for that run are published). Optional: allow item to stay `ready_to_publish` so admin can run publish again after more questions are marked ready.
 

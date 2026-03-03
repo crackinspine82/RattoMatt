@@ -77,6 +77,12 @@ export async function requireCurationAuth(req: FastifyRequest, reply: FastifyRep
     reply.status(401).send({ error: 'Authorization required' });
     return;
   }
+  const scriptKey = process.env.CURATION_SCRIPT_API_KEY?.trim();
+  if (scriptKey && token === scriptKey) {
+    (req as unknown as { curationToken?: string; curationSmeUserId?: string }).curationToken = token;
+    (req as unknown as { curationToken?: string; curationSmeUserId?: string }).curationSmeUserId = undefined;
+    return;
+  }
   const pool = getPool();
   const res = await pool.query<{ sme_user_id: string }>(
     'SELECT sme_user_id FROM sme_sessions WHERE token = $1 AND expires_at > CURRENT_TIMESTAMP',

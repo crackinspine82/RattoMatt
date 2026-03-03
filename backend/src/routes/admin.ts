@@ -126,7 +126,7 @@ export default async function adminRoutes(app: FastifyInstance) {
     return reply.send({ chapters: res.rows });
   });
 
-  app.get('/admin/jobs', adminOnly, async (req: FastifyRequest<{ Querystring: { status?: string; limit?: string } }>, reply: FastifyReply) => {
+  app.get<{ Querystring: { status?: string; limit?: string } }>('/admin/jobs', adminOnly, async (req, reply) => {
     const status = req.query.status as 'queued' | 'running' | 'completed' | 'failed' | undefined;
     const limit = req.query.limit ? parseInt(req.query.limit, 10) : 50;
     const queue = getJobQueue();

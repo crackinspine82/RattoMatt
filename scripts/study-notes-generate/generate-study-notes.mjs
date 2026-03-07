@@ -12,7 +12,7 @@
  * Output: out/study_notes_Ch{N}_{subject}_{book_slug}[_{discipline}].json
  */
 
-/**import 'dotenv/config';*/
+import 'dotenv/config';
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
